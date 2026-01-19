@@ -15,3 +15,6 @@ class UserService:
 
     def login(self,userID:int,password:str) -> Message:
         return self.repo.login(userID,password)
+
+    def update(self,userID:int, **kwargs) -> Message:
+        return self.repo.update_user(userID,**kwargs)

@@ -2,8 +2,10 @@ from random import randint
 
 from peewee import IntegrityError
 
+import models.User
 from models.Message import Message, MsgType
 from models.User import User, Authority
+from utils.hash_utils import hash_with_salt
 
 
 class UserRepository:
@@ -44,3 +46,23 @@ class UserRepository:
         if user.check_password(password):
             return Message(msg_type=MsgType.ERROR,message= "密码错误。")
         return Message(msg_type=MsgType.MESSAGE,message= "登录成功。")
+    
+    @staticmethod
+    def update_user(userID:int,**kwargs) -> Message:
+        try:
+            user = User.get(User.userID == userID)
+
+            for k,v in kwargs.items():
+                if k == "userID" or k == "authority":
+                    continue
+
+                if k == "password":
+                    user.password_hash = hash_with_salt(v.encode("utf8"))
+                else:
+                    setattr(user, k, v)
+
+            user.save()
+        except Exception as e:
+            return Message(msg_type=MsgType.ERROR,message="更新失败。")
+        return Message(msg_type=MsgType.SUCCESS,message="更新成功")
+

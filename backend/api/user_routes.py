@@ -30,3 +30,13 @@ def login():
 
     msg = user_service.login(userID,password)
     return msg.to_dict()
+
+@user_bp.route('/update', methods=['POST'])
+def update():
+    data = request.get_json()
+    if not data:
+        return jsonify({"error": "No input data provided"}), 400
+    userID = data.get('userID')
+    data.pop('userID')
+    msg = user_service.update(userID,**data)
+    return msg.to_dict()
