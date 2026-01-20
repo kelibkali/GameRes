@@ -17,38 +17,38 @@ class UserRepository:
         return randint(min_id, max_id)
 
     @staticmethod
-    def create_new_user(username:str,password:str,email:str,authority=Authority.USER.value) -> Message:
+    def create_new_user(username:str,password:str,email:str,authority=Authority.USER.value) -> (Message,User):
         # 最多尝试10次
         cnt = 10
         while cnt > 0:
             uid = UserRepository.generate_ramdom_id()
             try:
-                User.create(
+                user = User.create(
                     username=username,
                     password=password,
                     email=email,
                     userID=uid,
                     authority=authority,
                 )
-                return Message(msg_type=MsgType.SUCCESS,message= "创建用户成功。",userID=uid)
+                return Message(msg_type=MsgType.SUCCESS,message= "创建用户成功。",userID=uid),user
             except IntegrityError as e:
                 print(e)
                 cnt -= 1
                 continue
-        return Message(msg_type=MsgType.ERROR,message= "创建用户失败，请重新尝试。")
+        return Message(msg_type=MsgType.ERROR, message="创建用户失败，请重新尝试。"),None
 
     @staticmethod
-    def login(userID:int,password:str) -> Message:
+    def login(userID:int,password:str) -> (Message,User):
         try:
             user:User = User.get(User.userID == userID)
         except Exception as e:
-            return Message(msg_type=MsgType.ERROR,message= "用户不存在。")
+            return Message(msg_type=MsgType.ERROR,message= "用户不存在。"),None
         if user.check_password(password):
-            return Message(msg_type=MsgType.ERROR,message= "密码错误。")
-        return Message(msg_type=MsgType.MESSAGE,message= "登录成功。")
+            return Message(msg_type=MsgType.ERROR,message= "密码错误。"),None
+        return Message(msg_type=MsgType.MESSAGE,message= "登录成功。"),user
     
     @staticmethod
-    def update_user(userID:int,**kwargs) -> Message:
+    def update_user(userID:int,**kwargs) -> (Message,User):
         try:
             user = User.get(User.userID == userID)
 
@@ -63,6 +63,6 @@ class UserRepository:
 
             user.save()
         except Exception as e:
-            return Message(msg_type=MsgType.ERROR,message="更新失败。")
-        return Message(msg_type=MsgType.SUCCESS,message="更新成功")
+            return Message(msg_type=MsgType.ERROR,message="更新失败。"),None
+        return Message(msg_type=MsgType.SUCCESS,message="更新成功"),user
 

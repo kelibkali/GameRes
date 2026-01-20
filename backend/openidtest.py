@@ -1,23 +1,14 @@
-from flask import Flask, request, redirect, session, url_for
+from flask import Flask, request, redirect, session, jsonify
 import requests
 from urllib.parse import urlencode
+from flask_cors import CORS
 
 app = Flask(__name__)
-app.secret_key = 'your-secret-key-here'  # 必需的密钥 加密session
+app.secret_key = 'kali'
+CORS(app, supports_credentials=True)  # 允许跨域请求携带凭证
 
-# Steam OpenID 配置
 STEAM_LOGIN_URL = 'https://steamcommunity.com/openid/login'
-RETURN_TO = 'http://127.0.0.1:5000/callback'
-
-
-@app.route('/')
-def index():
-    steam_id = session.get('steam_id')
-    if steam_id:
-        return f"<h1>欢迎, SteamID: {steam_id}!</h1><br><a href='/logout'>退出登录</a>"
-    else:
-        return "<h1>欢迎!</h1><br><a href='/login'>使用Steam登录</a>"
-
+RETURN_TO = 'http://localhost:5000/callback'
 
 @app.route('/login')
 def login():
@@ -36,7 +27,13 @@ def login():
 def callback():
     args = request.args
 
-    # 验证必需参数
+    # --- 错误处理 ---
+    # 检查是否有错误参数
+    if args.get('openid.mode') == 'error':
+        error_msg = args.get('openid.error', 'Unknown error occurred during Steam authentication.')
+        print(f"Steam returned an error: {error_msg}")
+        return redirect('http://localhost:5173?auth_error=true')
+
     required = ['openid.mode', 'openid.return_to', 'openid.identity', 'openid.claimed_id']
     if not all(k in args for k in required):
         return "认证失败：缺少必要参数", 400
@@ -44,7 +41,6 @@ def callback():
     if args['openid.mode'] != 'id_res':
         return "认证失败：无效的认证模式", 400
 
-    # 验证请求
     verify_data = dict(args.items())
     verify_data['openid.mode'] = 'check_authentication'
 
@@ -54,21 +50,34 @@ def callback():
         return "认证失败：服务器错误", 500
 
     if 'is_valid:true' in resp.text:
-        # 提取SteamID
         claimed_id = args['openid.claimed_id']
         steam_id = claimed_id.split('/')[-1]
-
         session['steam_id'] = steam_id
-        return redirect(url_for('index'))
+
+        # 认证成功后，重定向到前端应用
+        # 你可以在这里传递一些信息，比如在URL参数中
+        # 例如: http://localhost:5173?login_success=true
+        return redirect('http://localhost:5173')
     else:
-        return "认证失败：验证不通过", 400
+        # 验证失败
+        print("Steam verification failed.")
+        return redirect('http://localhost:5173?auth_error=true') # 重定向到前端错误页
 
 
-@app.route('/logout')
+@app.route('/logout', methods=['POST'])
 def logout():
     session.pop('steam_id', None)
-    return redirect(url_for('index'))
+    return jsonify({'success': True})
+
+
+@app.route('/api/user')
+def get_user():
+    steam_id = session.get('steam_id')
+    if steam_id:
+        return jsonify({'steam_id': steam_id}), 200
+    else:
+        return jsonify({'error': '未登录'}), 401
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5000)

@@ -5,3 +5,7 @@ db_user = config("DB_USER")
 db_password = config("DB_PASSWORD")
 db_host = config("DB_HOST")
 db_port = int(config("DB_PORT"))
+
+secret_key = config("SECRET_KEY")
+
+front_url = config("FRONT_URL")
