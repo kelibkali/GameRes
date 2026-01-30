@@ -39,7 +39,7 @@ def register():
 
     username = data.get('username')
     password = data.get('password')
-    email = data.get('email')
+    email = data.get('send_email')
 
     msg,user = user_service.create_new_user(username,password,email)
     set_session(user)

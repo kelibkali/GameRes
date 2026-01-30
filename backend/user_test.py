@@ -7,7 +7,7 @@ try:
     new_u = User.create(
         username="kali",
         userID=12345,
-        email="example@email.com",
+        email="example@send_email.com",
         password="123456"
     )
     print(f"用户 {new_u.username} 创建成功！")
