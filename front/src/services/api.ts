@@ -28,6 +28,7 @@ export const logout = async () => {
 
 export const getCaptchaImage = async () => {
     try{
+        //设置响应类型为二进制
         const response = await apiClient.get("/api/captcha/get",{
             responseType: "blob"
         })
