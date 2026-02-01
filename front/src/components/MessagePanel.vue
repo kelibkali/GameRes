@@ -74,6 +74,9 @@ const handleAnimationEnd = ()=>{
   padding: 0.6rem 1.8rem;
 
   border-radius: 0.4rem;
+
+  user-select: none;
+
 }
 
 .message-panel.fade-out{

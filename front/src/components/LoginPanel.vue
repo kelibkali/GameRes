@@ -6,6 +6,8 @@ import {Message,Lock} from "@element-plus/icons-vue";
 import MessagePanel from "./MessagePanel.vue";
 import type {FormInstance, FormRules} from "element-plus";
 import {analyzeObject} from "../utils/utils.ts";
+import {userLogin} from "../services/UserApi.ts";
+import type {UserModel} from "../types/User.ts";
 
 const PASSWORD_REGEX =  /^(?:(?=.*[A-Za-z])(?=.*\d)|(?=.*[A-Za-z])(?=.*[^A-Za-z0-9\s])|(?=.*\d)(?=.*[^A-Za-z0-9\s]))[A-Za-z\d\S]+$/
 
@@ -41,6 +43,20 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
     analyzeObject(error,messages.value)
     return
   }
+
+  const user : UserModel = {
+    userID:0,
+    username:"",
+    email:formData.value.email,
+    password:formData.value.password,
+    steamID:"",
+    authority:"user",
+    status:0,
+  }
+
+  const result = await userLogin(user)
+  console.log(result)
+  messages.value.push(result.message)
 }
 
 const emit = defineEmits<{
@@ -77,7 +93,7 @@ const toRegister = () =>{
         </el-input>
       </el-form-item>
       <el-form-item prop="password">
-        <el-input placeholder="请输入密码" v-model="formData.password">
+        <el-input placeholder="请输入密码" type="password" show-password v-model="formData.password">
           <template #prefix>
             <el-icon class="icon" size="23">
               <Lock/>
@@ -107,7 +123,7 @@ const toRegister = () =>{
 }
 
 .login-button{
-  margin-top: 0.5rem;
+  margin-top: 1.8rem;
 }
 
 .button-container{

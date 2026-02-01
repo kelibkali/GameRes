@@ -23,14 +23,16 @@
   border-radius: 100%;
 
   transition: all 0.2s ease;
+  transform: scale(0.85);
 }
 
 .svg-icon{
-  transform: translateX(-2px);
+  transform: translateX(-1px) scale(0.75);
 }
 
 .icon:hover{
-  transform: scale(1.05);
+  transform: scale(0.9);
   cursor: pointer;
+  background-color: rgba(174, 174, 174, 0.4);
 }
 </style>

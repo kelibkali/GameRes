@@ -5,7 +5,7 @@
     height: 3rem;
     font-size: 1.3rem;
     font-family: "SansMedium",sans-serif;
-    border-radius: 6px;
+    border-radius: 3px;
     border:none;
     margin-top: 0.5rem;
 
@@ -32,7 +32,7 @@
 
 .login-button:hover{
     color: #fff;
-    border-radius: 12px ;
+    border-radius: 6px ;
     background-color: #505050;
 }
 
