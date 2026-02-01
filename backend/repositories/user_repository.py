@@ -1,8 +1,7 @@
 from random import randint
 
-from peewee import IntegrityError
+from peewee import IntegrityError, DoesNotExist
 
-import models.User
 from models.Message import Message, MsgType
 from models.User import User, Authority
 from utils.hash_utils import hash_with_salt
@@ -18,6 +17,11 @@ class UserRepository:
 
     @staticmethod
     def create_new_user(username:str,password:str,email:str,authority=Authority.USER.value) -> (Message,User):
+
+        user = User.get_or_none(User.email == email)
+        if user is not None:
+            return Message(msg_type=MsgType.ERROR,message="邮箱已被使用过"),None
+
         # 最多尝试10次
         cnt = 10
         while cnt > 0:
@@ -30,12 +34,12 @@ class UserRepository:
                     userID=uid,
                     authority=authority,
                 )
-                return Message(msg_type=MsgType.SUCCESS,message= "创建用户成功。",userID=uid),user
+                return Message(msg_type=MsgType.SUCCESS,message= "注册成功",userID=uid),user
             except IntegrityError as e:
                 print(e)
                 cnt -= 1
                 continue
-        return Message(msg_type=MsgType.ERROR, message="创建用户失败，请重新尝试。"),None
+        return Message(msg_type=MsgType.ERROR, message="注册失败"),None
 
     @staticmethod
     def login(userID:int,password:str) -> (Message,User):

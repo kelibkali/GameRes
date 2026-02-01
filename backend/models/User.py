@@ -23,7 +23,7 @@ class User(Model):
     userID = IntegerField(unique=True, primary_key=True)
     username = CharField(unique=False,max_length=40)
     password_hash = BlobField(unique=False)  # 存储bytes类型的哈希值
-    email = CharField(unique=False,default="",max_length=50)
+    email = CharField(unique=True,default="",max_length=50)
     steamID = CharField(unique=False,default="",max_length=50) # steamID 唯一
     authority = CharField(unique=False,default=Authority.USER.value,max_length=10)
     status = IntegerField(default=Status.ENABLED.value)
