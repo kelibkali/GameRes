@@ -27,7 +27,7 @@ def login_required(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
         if 'userID' not in session:
-            return Message(MsgType.ERROR,"not logged in")
+            return Message(MsgType.ERROR,"not logged in",login=False).to_dict()
         return f(*args, **kwargs)
     return decorated_function
 
@@ -52,20 +52,20 @@ def login():
     if not data:
         return Message(MsgType.MESSAGE,"no data")
 
-    userID = data.get('userID')
+    email = data.get('email')
     password = data.get('password')
 
-    msg,user = user_service.login(userID,password)
+    msg,user = user_service.login(email,password)
 
     set_session(user)
 
     return msg.to_dict()
 
-@user_bp.route('/logout', methods=['POST'])
+@user_bp.route('/logout', methods=['GET'])
 @login_required
 def logout():
     clear_session()
-    return Message(MsgType.SUCCESS,"success")
+    return Message(MsgType.SUCCESS,"success").to_dict()
 
 @user_bp.route('/update', methods=['POST'])
 @login_required
@@ -78,3 +78,14 @@ def update():
     if user:
         set_session(user)
     return msg.to_dict()
+
+@user_bp.route('/check_login', methods=['GET'])
+@login_required
+def check_login():
+    user_info = {
+        "is_login":True,
+        "userId":session.get('userID'),
+        "username":session.get('username'),
+        "steamID":session.get('steamID')
+    }
+    return Message(MsgType.SUCCESS,"login",login=True,user_info=user_info).to_dict()

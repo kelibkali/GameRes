@@ -13,8 +13,8 @@ class UserService:
     def create_new_admin(self,username:str,password:str,email:str) -> (Message,User):
         return self.repo.create_new_user(username,password,email,authority=Authority.ADMIN)
 
-    def login(self,userID:int,password:str) -> (Message,User):
-        return self.repo.login(userID,password)
+    def login(self,email:str,password:str) -> (Message,User):
+        return self.repo.login(email,password)
 
     def update(self,userID:int, **kwargs) -> (Message,User):
         return self.repo.update_user(userID,**kwargs)

@@ -7,8 +7,8 @@ try:
     new_u = User.create(
         username="kali",
         userID=12345,
-        email="example@send_email.com",
-        password="123456"
+        email="1131683978@qq.com",
+        password="0753@qq1131"
     )
     print(f"用户 {new_u.username} 创建成功！")
     print(f"存储的哈希值 (bytes): {new_u.password_hash}")
@@ -16,9 +16,9 @@ except Exception as e:
     print(e)
 
 # 登录验证示例
-user_to_check = User.get(User.username == "kali")
+user_to_check = User.get(User.email == "1131683978@qq.com")
 
-input_password = "123456"
+input_password = "0753@qq1131"
 if user_to_check.check_password(input_password):
     print("登录成功！")
 else:

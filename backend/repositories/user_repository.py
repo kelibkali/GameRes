@@ -42,14 +42,15 @@ class UserRepository:
         return Message(msg_type=MsgType.ERROR, message="注册失败"),None
 
     @staticmethod
-    def login(userID:int,password:str) -> (Message,User):
+    def login(email:str,password:str) -> (Message,User):
         try:
-            user:User = User.get(User.userID == userID)
+            user:User = User.get(User.email == email)
         except Exception as e:
-            return Message(msg_type=MsgType.ERROR,message= "用户不存在。"),None
-        if user.check_password(password):
-            return Message(msg_type=MsgType.ERROR,message= "密码错误。"),None
-        return Message(msg_type=MsgType.MESSAGE,message= "登录成功。"),user
+            return Message(msg_type=MsgType.ERROR,message= "用户不存在"),None
+
+        if not user.check_password(password):
+            return Message(msg_type=MsgType.ERROR,message= "密码错误"),None
+        return Message(msg_type=MsgType.MESSAGE,message= "登录成功"),user
     
     @staticmethod
     def update_user(userID:int,**kwargs) -> (Message,User):
@@ -67,6 +68,6 @@ class UserRepository:
 
             user.save()
         except Exception as e:
-            return Message(msg_type=MsgType.ERROR,message="更新失败。"),None
+            return Message(msg_type=MsgType.ERROR,message="更新失败"),None
         return Message(msg_type=MsgType.SUCCESS,message="更新成功"),user
 
