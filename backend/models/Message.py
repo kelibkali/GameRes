@@ -20,16 +20,9 @@ class Message:
     def to_dict(self) -> tuple[Response, int]:
 
         response_data = {}
-
-        if self.msg_type == MsgType.ERROR:
-            response_data["error"] = self.message
-            code = 500
-        elif self.msg_type == MsgType.SUCCESS:
-            response_data["success"] = self.message
-            code = 200
-        else:
-            response_data["message"] = self.message
-            code = 400
+        code=200
+        response_data["message"] = self.message
+        response_data["type"] = self.msg_type.value
 
         for attr,value in self.__dict__.items():
             if attr != "msg_type" and attr != "message":

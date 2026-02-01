@@ -22,10 +22,10 @@ def verify_captcha():
     stored_captcha  = session.get('captcha')
 
     if not stored_captcha:
-        return Message(MsgType.MESSAGE,"验证码已过期")
+        return Message(MsgType.MESSAGE,"验证码已过期").to_dict()
 
     if user_input == stored_captcha:
         session.pop('captcha')
-        return Message(MsgType.SUCCESS,"验证成功")
+        return Message(MsgType.SUCCESS,"验证成功").to_dict()
     else:
-        return Message(MsgType.ERROR,"验证失败")
+        return Message(MsgType.ERROR,"验证失败").to_dict()
