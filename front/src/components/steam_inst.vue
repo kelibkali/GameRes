@@ -23,7 +23,7 @@
 
 <script setup lang="ts">
 import {ref, onMounted} from 'vue';
-import {fetchUser, logout} from '../services/api';
+import {fetchUser, logout} from '../services/CaptchaApi.ts';
 
 interface User {
   steam_id: string;

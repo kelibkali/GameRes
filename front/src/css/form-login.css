@@ -1,0 +1,32 @@
+.form-login :deep(.el-input__inner) {
+    font-size: 1.2rem;
+}
+
+.form-login :deep(.el-input__wrapper) {
+    transition: box-shadow 0.4s ease;
+    box-shadow: rgba(0, 0, 0, 0.08) 0 0 0 1px;
+    border-radius: 1.5rem;
+    height: 3rem;
+}
+
+.form-login :deep(.el-input__wrapper):hover {
+    box-shadow: #1a1a1a 0 0 0 1px;
+
+    .el-icon.icon{
+        color: #1a1a1a;
+    }
+
+}
+
+.form-login :deep(.el-input__wrapper.is-focus) {
+    box-shadow: #1a1a1a 0 0 0 1px;
+
+    .el-icon.icon{
+        color: #1a1a1a;
+    }
+
+}
+
+.form-login :deep(.el-icon.icon) {
+    transition: color 0.4s ease;
+}

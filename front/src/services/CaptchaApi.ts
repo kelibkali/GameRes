@@ -1,30 +1,4 @@
-import axios from 'axios'
-
-const apiClient = axios.create({
-    baseURL: import.meta.env.VITE_APP_BASE_URL,
-    withCredentials: true,
-})
-
-export default apiClient
-
-export const fetchUser  = async () => {
-    try{
-        const response = await apiClient.get("/api/user")
-        return response.data
-    }catch (error) {
-        console.log(error)
-    }
-}
-
-export const logout = async () => {
-    try {
-        await apiClient.post("/logout")
-        console.log("logged out")
-        window.location.href = "/"
-    }catch (error) {
-        console.log(error)
-    }
-}
+import apiClient from "./ApiClient.ts";
 
 export const getCaptchaImage = async () => {
     try{
@@ -49,6 +23,18 @@ export const getCaptchaImage = async () => {
             };
             reader.readAsDataURL(blob); // 开始读取 Blob 数据为 Data URL
         });
+    }catch (error) {
+        console.log(error)
+    }
+}
+
+export const verifyCaptcha = async (code:string) => {
+    try{
+        const response = await apiClient.post("/api/captcha/verify",{
+            captcha:code,
+        });
+        // console.log(response.data);
+        return response.data;
     }catch (error) {
         console.log(error)
     }
