@@ -1,15 +1,25 @@
 <script setup lang="ts">
-import {computed, ref} from 'vue';
-import LoginPanel from "../components/LoginPanel.vue"
-import RegisterPanel from '../components/RegisterPanel.vue';
-import BackButton from "../components/BackButton.vue";
 import CloseButton from "../components/CloseButton.vue";
+import {userLogout} from "../services/UserApi.ts";
+import {onMounted, ref} from "vue";
+import {loginSteam, logoutSteam} from "../services/SteamApi.ts";
 
 const props = defineProps({
   show:{
     type: Boolean,
     required:true,
-    default: false
+    default: false,
+  },
+  user:{
+    type: Object,
+    required:true,
+    default:{
+      userID: "",
+      email: "",
+      username: "",
+      steamID:"",
+      steamLogin:false,
+    }
   }
 })
 
@@ -21,19 +31,16 @@ const handleClosePanel = ()=> {
   emit("closePanel");
 }
 
-const currentView = ref<'login' | 'register'>('login');
+const handleLoginSteam = async ()=>{
+  await loginSteam()
+}
 
-const switchView = (view: 'login' | 'register') => {
-  currentView.value = view;
-};
+const handleLogoutSteam = async ()=>{
+  await logoutSteam()
+}
 
-const transitionName = computed(()=>{
-  if(currentView.value === 'register'){
-    return 'slide-right'
-  }
-  return 'slide-left'
+onMounted(() => {
 })
-
 
 </script>
 
@@ -41,29 +48,45 @@ const transitionName = computed(()=>{
   <transition name="fade">
     <div class="container" v-if="props.show">
       <div class="top-bar-black">
-        <BackButton class="back-btn" v-if="currentView === 'register'" @click="switchView('login')">
-        </BackButton>
-        <img src="../assets/logo.png" style="margin-top: 0.2rem" alt=""/>
-        <CloseButton class="close-btn" v-if="currentView === 'login'" @click="handleClosePanel">
+        <div class="title">
+          用户信息
+        </div>
+        <CloseButton class="close-btn" @click="handleClosePanel">
         </CloseButton>
       </div>
       <div class="top-bar-yellow">
       </div>
       <div class="panel-content">
-        <transition :name="transitionName">
-          <div class="panel-wrapper-login"  v-if="currentView === 'login'">
-            <LoginPanel @toRegister="switchView('register')" ></LoginPanel>
-          </div>
-          <div class="panel-wrapper-register" v-else-if="currentView === 'register'">
-            <RegisterPanel></RegisterPanel>
-          </div>
-        </transition>
+        <div>
+          {{user.email}}
+        </div>
+        <div>
+          {{user.username}}
+        </div>
+        <div>
+          {{user.steamLogin ? user.steamID :"没有登录steam" }}
+        </div>
+      <div class="button-container">
+        <el-button data-icon class="login-button" v-if="!user.steamLogin" @click="handleLoginSteam">
+          绑定Steam
+        </el-button>
+        <el-button data-icon class="login-button" v-else @click="handleLogoutSteam">
+          解绑Steam
+        </el-button>
+        <el-button data-icon class="login-button" @click="userLogout()">
+          退出登录
+        </el-button>
+      </div>
       </div>
     </div>
   </transition>
 </template>
 
 <style scoped>
+
+@import "../css/form-login.css";
+@import "../css/login-button.css";
+
 .container{
   display: flex;
   flex-direction: column;
@@ -91,6 +114,24 @@ const transitionName = computed(()=>{
   background-position: bottom;
   mask-image: linear-gradient(180deg,transparent 0,transparent 50%,black 90%,black);
   opacity: 0.08;
+}
+
+.title{
+  font-size: 2.6rem;
+  color: white;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 2rem;
+  gap: 1rem;
+
+  .login-button{
+    margin:0;
+    width: 15rem;
+  }
 }
 
 .top-bar-yellow{
@@ -128,50 +169,10 @@ const transitionName = computed(()=>{
   width: 100%;
   flex-grow: 1;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-}
-
-.panel-wrapper-login{
-  position: absolute;
-  margin-bottom: 2.5rem;
-}
-
-.panel-wrapper-register{
-  position: absolute;
-  margin-bottom: 0;
-}
-
-.slide-left-enter-active,
-.slide-left-leave-active {
-  transition: all 0.3s ease-in-out;
-}
-
-.slide-left-enter-from {
-  opacity: 0;
-  transform: translateX(-100%);
-}
-
-.slide-left-leave-to {
-  opacity: 0;
-  transform: translateX(100%);
-}
-
-/* 向右滑动的过渡效果 */
-.slide-right-enter-active,
-.slide-right-leave-active {
-  transition: all 0.3s ease-in-out;
-}
-
-.slide-right-enter-from {
-  opacity: 0;
-  transform: translateX(100%); /* 从右侧进入 */
-}
-
-.slide-right-leave-to {
-  opacity: 0;
-  transform: translateX(-100%); /* 向左侧离开 */
 }
 
 .fade-enter-active,
@@ -183,5 +184,6 @@ const transitionName = computed(()=>{
 .fade-leave-to {
   opacity: 0;
 }
+
 
 </style>
