@@ -14,12 +14,14 @@ def clear_session():
     session.pop("userID", None)
     session.pop("username", None)
     session.pop("steamID", None)
+    session.pop("email", None)
 
 def set_session(user:User):
     if user is not None:
         session["userID"] = user.userID
         session["username"] = user.username
         session["steamID"] = user.steamID
+        session["email"] = user.email
     else:
         clear_session()
 
@@ -84,7 +86,8 @@ def update():
 def check_login():
     user_info = {
         "is_login":True,
-        "userId":session.get('userID'),
+        "userID":session.get('userID'),
+        "email":session.get('email'),
         "username":session.get('username'),
         "steamID":session.get('steamID')
     }
