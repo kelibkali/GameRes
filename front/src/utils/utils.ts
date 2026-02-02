@@ -1,20 +1,24 @@
-export const analyzeObject = (object: any,messages:string[]) => {
+export const analyzeObject = (object: any): string => {
     if (typeof object === "object" && object) {
         let fieldName = Object.keys(object)[0]
-        if(fieldName){
+        if (fieldName) {
             if (Object.prototype.hasOwnProperty.call(object, fieldName)) {
                 const fieldErrors = (object as Record<string, any[]>)[fieldName]
                 if (Array.isArray(fieldErrors)) {
-                    fieldErrors.forEach(errorObject => {
-                        if (errorObject && typeof errorObject === "object" && "message" in errorObject) {
-                            const message = errorObject.message as string
-                            if (message && message.length > 0) {
-                                messages.push(message)
-                            }
+                    for (const errorObject of fieldErrors) {
+                        if (
+                            errorObject &&
+                            typeof errorObject === "object" &&
+                            "message" in errorObject &&
+                            typeof errorObject.message === "string" &&
+                            errorObject.message.length > 0
+                        ) {
+                            return errorObject.message; // 找到第一个有效消息就立即返回
                         }
-                    })
+                    }
                 }
             }
         }
     }
+    return ""
 }

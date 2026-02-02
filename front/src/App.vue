@@ -5,6 +5,9 @@ import {checkLogin} from "./services/UserApi.ts";
 
 import {UserFilled,Lock} from "@element-plus/icons-vue"
 import UserInfoView from "./views/UserInfoView.vue";
+import GlobalMessageContainer from "./components/GlobalMessageContainer.vue";
+
+//TODO:获取登录状态
 
 const showLoginView = ref(false);
 
@@ -40,10 +43,12 @@ const getUserLogin = async () =>{
   }
 }
 
-const asideHover = ref(true);
+const asideHover = ref(false);
 
 const panelMenuRadius = computed(() => ({
-  borderRadius:`${asideHover.value ? 0.4 : 2.3 }rem`
+  borderRadius:`${asideHover.value ? 0.4 : 2.3 }rem`,
+  marginLeft: `${asideHover.value ? 0.5 : 1.2 }rem`,
+  marginRight: `${asideHover.value ? 0.5: 1.2 }rem`
 }))
 
 const showTextStyle = computed(() => ({
@@ -61,6 +66,9 @@ onMounted(() => {
 </script>
 
 <template>
+
+  <GlobalMessageContainer />
+
   <LoginView class="login-view" :show="showLoginView" @close-panel="showLoginView = false"></LoginView>
   <UserInfoView class="login-view" :user="user" :show="showUserInfoView" @close-panel="showUserInfoView = false"></UserInfoView>
   <el-container style="height: 100vh">
@@ -163,9 +171,6 @@ onMounted(() => {
   justify-content: space-around;
 
   height: 8rem;
-  margin-left: .5rem;
-  margin-right: .5rem;
-  border-radius: 2.3rem;
   font-size: 1rem;
 
   transition: all .3s ease;
@@ -191,7 +196,7 @@ onMounted(() => {
     overflow: hidden;
 
     .el-icon{
-      margin-left: 1.5rem;
+      margin-left: 0.85rem;
     }
 
 

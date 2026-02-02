@@ -33,7 +33,7 @@ export const checkLogin = async () => {
     }
 }
 
-export const userLogin = async (user:UserModel) => {
+export const userLogin = async (user:Pick<UserModel, 'email'|'password'>) => {
     try{
         const response = await apiClient.post("/api/user/login",{
             email:user.email,

@@ -18,6 +18,7 @@ export const verifyCode = async (email:string,code:string) => {
             email:email,
             code:code
         })
+        console.log(response.data)
         return response.data
     }catch(error){
         console.log(error)

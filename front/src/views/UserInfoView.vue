@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import CloseButton from "../components/CloseButton.vue";
 import {userLogout} from "../services/UserApi.ts";
-import {onMounted, ref} from "vue";
+import {onMounted} from "vue";
 import {loginSteam, logoutSteam} from "../services/SteamApi.ts";
+
+//TODO:获取登录状态
 
 const props = defineProps({
   show:{

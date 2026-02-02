@@ -5,17 +5,20 @@ import {ref} from "vue";
 import {Message, Lock, Key, User} from "@element-plus/icons-vue"
 import Close from "./Close.vue";
 import CaptchaPanel from "./CaptchaPanel.vue";
-import MessagePanel from "./MessagePanel.vue";
 import {generateEmailCode, verifyCode} from "../services/EmailApi.ts";
 import { type FormInstance, type FormRules} from "element-plus";
 
 import type { UserModel } from "../types/User";
-import {register} from "../services/UserApi.ts";
 import {analyzeObject} from "../utils/utils.ts";
+import {useMessagesStore} from "../stores/messages.ts";
+import {useAuthStore} from "../stores/auth.ts";
 
 const PASSWORD_REGEX =  /^(?:(?=.*[A-Za-z])(?=.*\d)|(?=.*[A-Za-z])(?=.*[^A-Za-z0-9\s])|(?=.*\d)(?=.*[^A-Za-z0-9\s]))[A-Za-z\d\S]+$/
 
-const messages = ref<string[]>([]);
+
+const authStore = useAuthStore();
+
+const messagesStore = useMessagesStore();
 
 const formData = ref({
   "email": "",
@@ -92,6 +95,7 @@ const startCountdown = async () => {
     } else {
       countdownActive.value = false
       countdownSeconds.value = 60
+      canBeEdit.value = true
     }
   }
 
@@ -108,7 +112,7 @@ const openDialog = async () => {
   try {
     await formRef.value?.validateField("email")
   } catch (error) {
-    analyzeObject(error,messages.value)
+    messagesStore.addMessage(analyzeObject(error))
     return
   }
   dialog.value = true
@@ -154,7 +158,7 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
     }
   }catch(error){
     console.log("error",error)
-    analyzeObject(error,messages.value)
+    messagesStore.addMessage(analyzeObject(error))
     return
   }
 
@@ -163,9 +167,9 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
     const data = await verifyCode(formData.value.email,formData.value.code)
     if(!data["type"] || data["type"] != "success"){
       if(data["message"]){
-        messages.value.push(data["message"])
+        messagesStore.addMessage(data["message"])
       }else {
-        messages.value.push("未知错误")
+        messagesStore.addMessage("未知错误")
       }
       return
     }
@@ -181,12 +185,13 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
       status:0,
     }
 
-    const register_data = await register(user)
-    messages.value.push(register_data.message)
+    const register_data = await authStore.registerUser(user)
+    console.log(register_data)
+    messagesStore.addMessage(register_data.message)
     resetForm()
 
   }catch(e){
-    messages.value.push("未知错误")
+    messagesStore.addMessage("未知错误")
     resetForm()
     console.log("error",e);
   }
@@ -195,12 +200,6 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
 </script>
 
 <template>
-  <MessagePanel
-      v-for="msg in messages"
-      :text="msg"
-      :top="50"
-  ></MessagePanel>
-
   <el-dialog destroy-on-close title="请输入验证码" v-model="dialog" width="24rem">
     <CaptchaPanel @captchaVerified="handleCaptchaVerified"></CaptchaPanel>
   </el-dialog>

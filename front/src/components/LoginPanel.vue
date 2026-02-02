@@ -3,15 +3,14 @@ import {ref} from "vue";
 
 import {Message,Lock} from "@element-plus/icons-vue";
 
-import MessagePanel from "./MessagePanel.vue";
 import type {FormInstance, FormRules} from "element-plus";
 import {analyzeObject} from "../utils/utils.ts";
-import {userLogin} from "../services/UserApi.ts";
+
+import {useAuthStore} from "../stores/auth.ts";
 import type {UserModel} from "../types/User.ts";
+import {useMessagesStore} from "../stores/messages.ts";
 
 const PASSWORD_REGEX =  /^(?:(?=.*[A-Za-z])(?=.*\d)|(?=.*[A-Za-z])(?=.*[^A-Za-z0-9\s])|(?=.*\d)(?=.*[^A-Za-z0-9\s]))[A-Za-z\d\S]+$/
-
-const messages = ref<string[]>([]);
 
 const formData = ref({
   "email": "",
@@ -31,6 +30,10 @@ const formRules: FormRules = {
   ]
 }
 
+const authStore = useAuthStore();
+
+const messagesStore = useMessagesStore();
+
 
 const onSubmit = async (formElement: FormInstance | undefined) => {
   try{
@@ -40,23 +43,19 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
     }
   }catch(error){
     console.log(error)
-    analyzeObject(error,messages.value)
+    messagesStore.addMessage(analyzeObject(error))
     return
   }
 
-  const user : UserModel = {
-    userID:0,
-    username:"",
-    email:formData.value.email,
-    password:formData.value.password,
-    steamID:"",
-    authority:"user",
-    status:0,
+  try{
+    const userForLogin:Pick<UserModel, 'email' | 'password'> = {
+      email:formData.value.email,
+      password:formData.value.password,
+    };
+    await authStore.loginUser(userForLogin)
+  }catch(error){
+    console.log(error)
   }
-
-  const result = await userLogin(user)
-  console.log(result)
-  messages.value.push(result.message)
 }
 
 const emit = defineEmits<{
@@ -69,12 +68,6 @@ const toRegister = () =>{
 </script>
 
 <template>
-    <MessagePanel
-        v-for="msg in messages"
-        :text="msg"
-        :top="50"
-    ></MessagePanel>
-
     <el-form
         class="form-login"
         ref="formRef"
@@ -98,7 +91,7 @@ const toRegister = () =>{
             <el-icon class="icon" size="23">
               <Lock/>
             </el-icon>
-          </template>/
+          </template>
         </el-input>
       </el-form-item>
 

@@ -16,6 +16,10 @@ const props = defineProps({
     type: String,
     required:true,
     default:"Hello"
+  },
+  id:{
+    type: Number,
+    required:true,
   }
 })
 
@@ -36,7 +40,7 @@ const isVisible = ref(true)
 onMounted(()=>{
   setTimeout(()=>{
     isFadingOut.value = true
-  },2000)
+  },1000)
 })
 
 const handleAnimationEnd = ()=>{
@@ -48,13 +52,21 @@ const handleAnimationEnd = ()=>{
 </script>
 
 <template>
-  <div v-if="isVisible" :class="panelClass" :style="fontStyle" @animationend="handleAnimationEnd">
+  <div v-if="isVisible"
+       :class="panelClass"
+       :style="fontStyle"
+       @animationend="handleAnimationEnd"
+  >
   {{text}}
   </div>
 </template>
 
 <style scoped>
 .message-panel{
+
+  width: 20rem;
+  height: 5rem;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -66,7 +78,7 @@ const handleAnimationEnd = ()=>{
 
   position: absolute;
 
-  z-index: 1;
+  z-index: 100000;
   left: 50%;
   white-space: nowrap;
   transform: translate(-50%, -50%);
@@ -76,7 +88,6 @@ const handleAnimationEnd = ()=>{
   border-radius: 0.4rem;
 
   user-select: none;
-
 }
 
 .message-panel.fade-out{
