@@ -27,5 +27,4 @@ class Message:
         for attr,value in self.__dict__.items():
             if attr != "msg_type" and attr != "message":
                 response_data[attr] = value
-
         return jsonify(response_data), code

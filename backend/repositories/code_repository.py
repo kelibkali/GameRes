@@ -23,7 +23,7 @@ class CodeRepository:
             from send_email import sender
             sender.email_sender.send_code(verification_code.email,verification_code.code)
         except Exception as e:
-            return Message(msg_type=MsgType.ERROR, message=f"{e}")
+            return Message(msg_type=MsgType.ERROR, message=f"{e}"),0
         return Message(msg_type=MsgType.SUCCESS, message=code),verification_code
 
     @staticmethod

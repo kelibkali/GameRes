@@ -15,6 +15,7 @@ def generate():
 
     email = data['email']
     msg,verification_code = verification_code_service.gen_new_code(email)
+    print(msg.to_dict())
     return msg.to_dict()
 
 @verification_code_bp.route('/verify', methods=['POST'])
