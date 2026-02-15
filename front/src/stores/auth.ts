@@ -37,6 +37,9 @@ export const useAuthStore = defineStore(
                 }else{
                     console.log(result);
                 }
+
+                return result
+
             }catch(error){
                 user.value = null;
             }finally {

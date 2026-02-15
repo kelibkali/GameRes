@@ -7,8 +7,6 @@ import {UserFilled,Lock} from "@element-plus/icons-vue"
 import UserInfoView from "./views/UserInfoView.vue";
 import GlobalMessageContainer from "./components/GlobalMessageContainer.vue";
 
-//TODO:获取登录状态
-
 const showLoginView = ref(false);
 
 const showUserInfoView = ref(false);
@@ -40,6 +38,14 @@ const getUserLogin = async () =>{
       user.value.steamLogin = true
     }
     console.log(user.value);
+  }else{
+    user.value = {
+      userID:"",
+      email: "",
+      username: "",
+      steamID:"",
+      steamLogin:false
+    }
   }
 }
 
@@ -59,6 +65,16 @@ const lineStyle = computed(() => ({
   'line-style': asideHover.value
 }))
 
+const handleLoginSuccess = () =>{
+  showLoginView.value = false;
+  getUserLogin()
+}
+
+const handleRefreshPanel = async () =>{
+  console.log("refreshPanel");
+  await getUserLogin()
+}
+
 onMounted(() => {
   getUserLogin()
 })
@@ -69,8 +85,21 @@ onMounted(() => {
 
   <GlobalMessageContainer />
 
-  <LoginView class="login-view" :show="showLoginView" @close-panel="showLoginView = false"></LoginView>
-  <UserInfoView class="login-view" :user="user" :show="showUserInfoView" @close-panel="showUserInfoView = false"></UserInfoView>
+  <LoginView
+      class="login-view"
+      :show="showLoginView"
+      @close-panel="showLoginView = false"
+      @loginSuccess="handleLoginSuccess"
+  ></LoginView>
+
+  <UserInfoView
+      class="login-view"
+      :user="user"
+      :show="showUserInfoView"
+      @close-panel="showUserInfoView = false"
+      @refreshPanel="handleRefreshPanel"
+  ></UserInfoView>
+
   <el-container style="height: 100vh">
     <el-aside
         class="page-aside"
@@ -226,6 +255,7 @@ onMounted(() => {
 
 
 .login-view{
+  scale: 90%;
   position: absolute;
   top: 43%;
   left: 50%;

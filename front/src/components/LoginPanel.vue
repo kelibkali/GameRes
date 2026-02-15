@@ -10,8 +10,6 @@ import {useAuthStore} from "../stores/auth.ts";
 import type {UserModel} from "../types/User.ts";
 import {useMessagesStore} from "../stores/messages.ts";
 
-const PASSWORD_REGEX =  /^(?:(?=.*[A-Za-z])(?=.*\d)|(?=.*[A-Za-z])(?=.*[^A-Za-z0-9\s])|(?=.*\d)(?=.*[^A-Za-z0-9\s]))[A-Za-z\d\S]+$/
-
 const formData = ref({
   "email": "",
   "password": "",
@@ -25,8 +23,6 @@ const formRules: FormRules = {
   ],
   password:[
     {required:true,message:'请输入密码', trigger: 'submit'},
-    {min:6,max: 20, message: '密码必须为6-20位', trigger: 'submit' },
-    {pattern:PASSWORD_REGEX,message: "密码必须包含数字、字母、字母中的两种", trigger:['submit']},
   ]
 }
 
@@ -38,9 +34,7 @@ const messagesStore = useMessagesStore();
 const onSubmit = async (formElement: FormInstance | undefined) => {
   try{
     const valid = await formElement?.validate()
-    if(!valid){
-      return
-    }
+    if(!valid) return
   }catch(error){
     console.log(error)
     messagesStore.addMessage(analyzeObject(error))
@@ -52,14 +46,24 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
       email:formData.value.email,
       password:formData.value.password,
     };
-    await authStore.loginUser(userForLogin)
+
+
+    const result = await authStore.loginUser(userForLogin)
+
+    console.log(result)
+
+    if(result.type === "success"){
+      emit('loginSuccess')
+    }
+
   }catch(error){
     console.log(error)
   }
 }
 
 const emit = defineEmits<{
-  toRegister:[]
+  toRegister:[],
+  loginSuccess:[]
 }>();
 
 const toRegister = () =>{
@@ -75,6 +79,7 @@ const toRegister = () =>{
         :rules="formRules"
         :show-message="false"
         style="width: 28rem;"
+        @submit.prevent="onSubmit(formRef)"
     >
       <el-form-item prop="email">
         <el-input placeholder="请输入邮箱" v-model="formData.email">
@@ -96,7 +101,12 @@ const toRegister = () =>{
       </el-form-item>
 
       <div class="button-container">
-        <el-button data-icon class="login-button" @click="onSubmit(formRef)">
+        <el-button
+            data-icon
+            class="login-button"
+            @click="onSubmit(formRef)"
+            native-type="submit"
+        >
           登录
         </el-button>
         <el-button data-icon class="login-button" @click="toRegister">

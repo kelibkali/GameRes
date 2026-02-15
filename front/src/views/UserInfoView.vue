@@ -27,10 +27,11 @@ const props = defineProps({
 
 const emit = defineEmits<{
   closePanel:[],
+  refreshPanel:[],
 }>()
 
 const handleClosePanel = ()=> {
-  emit("closePanel");
+  emit("closePanel")
 }
 
 const handleLoginSteam = async ()=>{
@@ -39,6 +40,13 @@ const handleLoginSteam = async ()=>{
 
 const handleLogoutSteam = async ()=>{
   await logoutSteam()
+  emit("refreshPanel")
+}
+
+const handleUserLogout = async ()=>{
+  await userLogout()
+  emit("closePanel")
+  emit("refreshPanel")
 }
 
 onMounted(() => {
@@ -75,7 +83,7 @@ onMounted(() => {
         <el-button data-icon class="login-button" v-else @click="handleLogoutSteam">
           解绑Steam
         </el-button>
-        <el-button data-icon class="login-button" @click="userLogout()">
+        <el-button data-icon class="login-button" @click="handleUserLogout">
           退出登录
         </el-button>
       </div>

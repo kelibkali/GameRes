@@ -5,6 +5,8 @@ import RegisterPanel from '../components/RegisterPanel.vue';
 import BackButton from "../components/BackButton.vue";
 import CloseButton from "../components/CloseButton.vue";
 
+
+
 const props = defineProps({
   show:{
     type: Boolean,
@@ -15,7 +17,12 @@ const props = defineProps({
 
 const emit = defineEmits<{
   closePanel:[],
+  loginSuccess:[]
 }>()
+
+const handleLoginSuccess = () => {
+  emit("loginSuccess");
+}
 
 const handleClosePanel = ()=> {
   emit("closePanel");
@@ -52,7 +59,10 @@ const transitionName = computed(()=>{
       <div class="panel-content">
         <transition :name="transitionName">
           <div class="panel-wrapper-login"  v-if="currentView === 'login'">
-            <LoginPanel @toRegister="switchView('register')" ></LoginPanel>
+            <LoginPanel
+                @toRegister="switchView('register')"
+                @loginSuccess="handleLoginSuccess"
+            ></LoginPanel>
           </div>
           <div class="panel-wrapper-register" v-else-if="currentView === 'register'">
             <RegisterPanel></RegisterPanel>
