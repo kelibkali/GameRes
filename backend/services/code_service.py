@@ -8,7 +8,7 @@ class VerificationCodeService:
     def __init__(self):
         self.repo = CodeRepository()
 
-    def gen_new_code(self,email:str) -> (Message,VerificationCode):
+    def gen_new_code(self,email:str) -> tuple[Message,VerificationCode]:
         return self.repo.gen_new_code(email)
 
     def verify_code(self,email:str,code:str) -> Message:

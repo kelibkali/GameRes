@@ -1,6 +1,6 @@
 from random import randint
 
-from peewee import IntegrityError, DoesNotExist
+from peewee import IntegrityError
 
 from models.Message import Message, MsgType
 from models.User import User, Authority
@@ -16,7 +16,7 @@ class UserRepository:
         return randint(min_id, max_id)
 
     @staticmethod
-    def create_new_user(username:str,password:str,email:str,authority=Authority.USER.value) -> (Message,User):
+    def create_new_user(username:str,password:str,email:str,authority=Authority.USER.value) -> tuple[Message,User|None]:
 
         user = User.get_or_none(User.email == email)
         if user is not None:
@@ -42,7 +42,7 @@ class UserRepository:
         return Message(msg_type=MsgType.ERROR, message="注册失败"),None
 
     @staticmethod
-    def login(email:str,password:str) -> (Message,User):
+    def login(email:str,password:str) -> tuple[Message,User|None]:
         try:
             user:User = User.get(User.email == email)
         except Exception as e:
@@ -50,10 +50,10 @@ class UserRepository:
 
         if not user.check_password(password):
             return Message(msg_type=MsgType.ERROR,message= "密码错误"),None
-        return Message(msg_type=MsgType.MESSAGE,message= "登录成功"),user
+        return Message(msg_type=MsgType.SUCCESS,message= "登录成功"),user
     
     @staticmethod
-    def update_user(userID:int,**kwargs) -> (Message,User):
+    def update_user(userID:int,**kwargs) -> tuple[Message,User|None]:
         try:
             user = User.get(User.userID == userID)
 
