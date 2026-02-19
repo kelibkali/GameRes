@@ -54,6 +54,8 @@ const onSubmit = async (formElement: FormInstance | undefined) => {
 
     if(result.type === "success"){
       emit('loginSuccess')
+    }else if(result.type === "error"){
+      messagesStore.addMessage(result.message)
     }
 
   }catch(error){

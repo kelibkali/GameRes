@@ -8,3 +8,8 @@ export const logoutSteam = async () =>{
     const response = await apiClient.get("/api/steam/logout")
     return response.data
 }
+
+export const getGames = async (steam_id:string) => {
+    const response = await apiClient.get(`/api/steam/games/${steam_id}`);
+    return response.data
+}
