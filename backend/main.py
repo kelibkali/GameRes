@@ -4,7 +4,8 @@ from flask_cors import CORS
 import config.settings
 from api.captcha_routes import captcha_routes
 from api.user_routes import user_bp
-from api.steam_login_routes import steam_login_bp
+from steam_api.steam_login_routes import steam_login_bp
+from steam_api.steam_routes import steam_api_bp
 from api.verification_code_routes import verification_code_bp
 
 app = Flask(__name__)
@@ -15,6 +16,8 @@ app.secret_key = config.settings.secret_key
 app.register_blueprint(user_bp)
 
 app.register_blueprint(steam_login_bp)
+
+app.register_blueprint(steam_api_bp)
 
 app.register_blueprint(captcha_routes)
 

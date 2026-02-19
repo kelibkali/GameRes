@@ -13,3 +13,5 @@ front_url = config("FRONT_URL")
 smtp_server = config("SMTP_SERVER")
 email_address = config("EMAIL_ADDRESS")
 email_password = config("EMAIL_PASSWORD")
+
+steam_key = config("STEAM_KEY")
