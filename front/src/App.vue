@@ -103,16 +103,16 @@ onMounted(() => {
   <el-container style="height: 100vh">
     <el-aside
         class="page-aside"
-        style="user-select: none"
+        style="user-select: none;z-index: 1000;overflow: hidden;"
         @mouseenter="asideHover = true"
         @mouseleave="asideHover = false"
     >
-      <el-container>
+<!--      <el-container>-->
         <el-header class="menu-header">
           Logo
         </el-header>
-        <el-main style="padding: 0">
-          <el-menu class="page-change">
+<!--        <el-main style="padding: 0">-->
+<!--          <el-menu class="page-change">-->
 <!--            <el-menu-item>-->
 <!--              hello-->
 <!--            </el-menu-item>-->
@@ -122,9 +122,8 @@ onMounted(() => {
 <!--            <el-menu-item>-->
 <!--              hello-->
 <!--            </el-menu-item>-->
-          </el-menu>
-        </el-main>
-        <el-footer style="padding: 0">
+<!--          </el-menu>-->
+<!--        </el-main>-->
           <div class="option-group" :style="panelMenuRadius">
             <div class="option" @click="openUserPanel">
               <el-icon size="20px">
@@ -144,8 +143,7 @@ onMounted(() => {
               </div>
             </div>
           </div>
-        </el-footer>
-      </el-container>
+<!--      </el-container>-->
     </el-aside>
     <el-main style="padding: 0;margin-left: 5.5rem">
       <router-view></router-view>
