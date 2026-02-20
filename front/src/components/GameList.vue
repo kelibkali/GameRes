@@ -3,17 +3,19 @@ import {useAuthStore} from "../stores/auth.ts";
 import {onMounted, ref, watch} from "vue";
 
 import {getGames} from "../services/SteamApi.ts";
-import type {Game} from "../types/Game.ts";
+import type {GameInList} from "../types/GameInList.ts";
 import GameTimeProgressBar from "./GameTimeProgressBar.vue";
 import type {TableInstance} from "element-plus";
 
 const user = ref();
 const authStore = useAuthStore();
-const tableData = ref<Game[]>([])
+const tableData = ref<GameInList[]>([])
 
 const tableRef = ref<TableInstance | null>()
 
 const activeSort = ref("playtime_2weeks")
+
+const needHiddenList = ["playtime_2weeks","achievements_total"]
 
 const tableHeaderCellClassName=(data:any)=>{
   const prop = data.column.property
@@ -24,7 +26,7 @@ const tableHeaderCellClassName=(data:any)=>{
   const tableHeaderEle = context.refs.headerWrapper;
   const bodyWrapperEle = context.refs.bodyWrapper;
 
-  const needHidden = ["playtime_2weeks"].includes(prop);
+  const needHidden = needHiddenList.includes(prop);
   const colgroupHeader = tableHeaderEle.querySelector(`[name="${name}"]`);
   const colgroupBody = bodyWrapperEle.querySelector(`[name="${name}"]`);
 
@@ -42,7 +44,7 @@ const tableHeaderCellClassName=(data:any)=>{
 
 const tableCellClassName = (data:any)=>{
   const prop = data.column.property;
-  const needHidden = ["playtime_2weeks"].includes(prop);
+  const needHidden = needHiddenList.includes(prop);
 
   if (needHidden) {
     return "hidden";
@@ -90,10 +92,8 @@ onMounted(() => {
       :data="tableData"
       :default-sort="{prop: 'playtime_2weeks', order: 'descending'}"
       height="95%"
-
       :header-cell-class-name="tableHeaderCellClassName"
       :cell-class-name="tableCellClassName"
-
   >
     <el-table-column max-height="100px" width="150px">
       <template #default="scope">
@@ -137,8 +137,28 @@ onMounted(() => {
     </el-table-column>
 
     <el-table-column
-      prop="playtime_2weeks"
+        prop="playtime_2weeks"
     ></el-table-column>
+
+    <el-table-column
+        prop="achieved_count"
+        width="100px"
+    >
+      <template #default="scope">
+        <span v-if="scope.row.achievements_total !== 0">
+          {{scope.row.achieved_count}} / {{ scope.row.achievements_total }}
+        </span>
+        <span v-else>
+          - / -
+        </span>
+      </template>
+    </el-table-column>
+
+    <el-table-column
+        prop="achievements_total"
+    ></el-table-column>
+
+
   </el-table>
 </template>
 
@@ -151,6 +171,7 @@ onMounted(() => {
 ::v-deep(.el-table__cell .cell) {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .table-header {

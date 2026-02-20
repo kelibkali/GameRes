@@ -1,4 +1,4 @@
-export interface Game{
+export interface GameInList {
     app_id:number,
     name:string,
     steam_appid?:number,
@@ -15,6 +15,8 @@ export interface Game{
     genres?:Array<Category>,
     playtime_forever?:number,
     playtime_2weeks?:number,
+    achieved_count?:number,
+    achievements_total?:number,
 }
 
 export interface Price{

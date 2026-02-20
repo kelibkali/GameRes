@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import {computed, onMounted, ref} from "vue";
+import {computed, ref, watch} from "vue";
 
 interface ColorRange {
   min: number
@@ -28,19 +28,28 @@ const colorRanges = ref<ColorRange[]>([
   { min: 500, max: Infinity, color: '#f4c03b' },
 ])
 
-const currentValue = ref(props.playTime)
+// const currentValue = ref(props.playTime)
+//
+// // 根据当前值获取对应颜色
+// const getCurrentColor = (value: number): string => {
+//   for (const range of colorRanges.value) {
+//     if (value >= range.min && value < range.max) {
+//       return range.color
+//     }
+//   }
+//   // 处理最大值边界情况
+//   const lastRange = colorRanges.value[colorRanges.value.length - 1]
+//   return lastRange?.color || '#409EFF'
+// }
 
-// 根据当前值获取对应颜色
-const getCurrentColor = (value: number): string => {
-  for (const range of colorRanges.value) {
-    if (value >= range.min && value < range.max) {
+const currentColor = computed(() => {
+  const value = props.playTime
+  for(const range of colorRanges.value) {
+    if(value >= range.min && value < range.max) {
       return range.color
     }
   }
-  // 处理最大值边界情况
-  const lastRange = colorRanges.value[colorRanges.value.length - 1]
-  return lastRange?.color || '#409EFF'
-}
+})
 
 const progressPercent = computed(() => {
   let percent = 0
@@ -55,15 +64,20 @@ const animatedWidth = ref(0)
 
 const fillStyle = computed(() => ({
   width: `${animatedWidth.value}%`,
-  backgroundColor: getCurrentColor(currentValue.value),
+  backgroundColor: currentColor.value,
   height: props.height
 }))
 
-onMounted(()=>{
-  setTimeout(()=>{
-    animatedWidth.value = progressPercent.value
-  })
-})
+watch(
+    progressPercent,
+    (newPercent) => {
+      animatedWidth.value = 0;
+      setTimeout(()=>{
+        animatedWidth.value = newPercent
+      },10)
+    },
+    { immediate: true }
+)
 
 </script>
 

@@ -4,7 +4,7 @@ import GameList from "../components/GameList.vue";
 
 <template>
   <div  style="height: 100%;align-items: center;display: flex;justify-content: center;">
-    <div style="height: 100%;width: 50%">
+    <div style="height: 100%;width: 75%">
       <game-list style="height: 100%"></game-list>
     </div>
   </div>
