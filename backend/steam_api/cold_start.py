@@ -54,6 +54,11 @@ class GameData:
         else:
             self.genres = []
 
+        if "achievements" in data:
+            self.achievements = data["achievements"]
+        else:
+            self.achievements = "none"
+
         with open(f"../data/steam/game_data/{app_id}.json","w",encoding="utf-8") as file:
             json.dump(
                 self.to_dict(),
@@ -77,12 +82,13 @@ class GameData:
             "release_date": self.release_date,
             "categories": self.categories,
             "genres": self.genres,
+            "achievements": self.achievements,
         }}
 
-# with open("../data/steam/user/76561198850065894.json","r") as file:
-#     user_data = json.load(file)
-#
-# for game in user_data["games"]:
-#     print(game)
-#     if not os.path.exists(f"../data/steam/game_data/{game['app_id']}.json"):
-#         GameData(game["app_id"])
+with open("../data/steam/user/76561198850065894.json","r") as file:
+    user_data = json.load(file)
+
+for game in user_data["games"]:
+    print(game)
+    # if not os.path.exists(f"../data/steam/game_data/{game['app_id']}.json"):
+    GameData(game["app_id"])

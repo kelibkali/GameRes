@@ -1,4 +1,6 @@
 import json
+from concurrent.futures import as_completed
+from concurrent.futures.thread import ThreadPoolExecutor
 from datetime import datetime
 import os
 
@@ -23,6 +25,32 @@ def get_games(STEAM_ID:str) -> GamesResponse:
     url = f"https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={KEY}&steamid={STEAM_ID}&format=json"
     r = requests.get(url)
     gr = GamesResponse(r, int(datetime.now().timestamp()))
+
+    def fetch_achievement(game,index):
+        achievement_url = f"https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v1/?key={KEY}&steamid={STEAM_ID}&appid={game.app_id}"
+        try:
+            data = requests.get(achievement_url).json()
+            print(data)
+            if data and "playerstats" in data and "achievements" in data["playerstats"]:
+                return index,data["playerstats"]["achievements"]
+        except Exception as e:
+            print(f"failed to get achievements for {game.app_id}: {e}")
+        return index,None
+
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        future_to_index = {
+            executor.submit(fetch_achievement,game,i): i for i, game in enumerate(gr.games)
+        }
+
+        results = {}
+        for future in as_completed(future_to_index):
+            index,achievements = future.result()
+            if achievements:
+                results[index] = achievements
+
+    for index,achievements in results.items():
+        gr.games[index].set_achievements(achievements)
+
     return gr
 
 def gen_games(steam_id):
@@ -64,7 +92,10 @@ def game_list(steam_id):
         g["name"] = g_data["name"]
         g["steam_appid"] = g_data["steam_appid"]
         g["header_image"] = g_data["header_image"]
+        if "total" in g_data["achievements"]:
+            g["achievements_total"] = g_data["achievements"]["total"]
+        else:
+            g["achievements_total"] = 0
         data["games"].append(g)
-
 
     return Message(msg_type=MsgType.SUCCESS,message="success",data=data).to_dict()
