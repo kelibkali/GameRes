@@ -1,0 +1,74 @@
+{
+  "2105450": {
+    "name": "Flight Level",
+    "steam_appid": 2105450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Flight Level is an Air Traffic Control simulator made by real radar controllers to give everyone a chance to experience what the job is like. The game also teaches the core concepts of ATC and lets players work together in multiplayer.<br><br><strong>Training Campaign</strong><br>In the Training Campaign we teach the player the necessary skills and concepts to safely handle traffic in Area Control and Approach Control and also the principles of how sectors are supposed to work together.<br><br><strong>Realistic UI</strong><br>The UI of the game resembles the radar position interface used in many centers around the world. Main interaction is done via aircraft labels, which are small UI elements attached to traffic on the radar screen so it is quite clear which label is attached to what aircraft.<br>Also provided are helpful tools for measuring conflicts and analyzing the traffic situation.<br><br><strong>Simplified interaction</strong><br>One big skill to learn for ATC is radio phraseology i.e talking in the standard way to give clearances etc. To make it simpler for players to learn about ATC we designed the game so that the player just clicks clearances into the labels and hears the clearances given and pilot readbacks.<br><br><strong>Electronic coordination simulation</strong><br>In modern ATC communication and coordination between sectors is handled by simply interacting with the aircraft labels, sending requests and accepting them via the UI. <br>This is all emulated in the game, but of course, since situations can get awfully complex, expect to use voice communication as well in multiplayer.<br><br><strong>Multiplayer</strong><br>ATC is one of the most COOP experiences to be had and so no simulation of the job would be complete without working together with other people to safely expedite traffic. Almost all traffic for a position comes from another sector and goes into another. Collaboration with neighbors is often needed to resolve problems in an efficient manner.<br><br><strong>Weather</strong><br>Taking wind into consideration whilst solving problems is a core part of ATC work and hence different winds at different flight levels are simulated.<br>Another implemented realistic anomaly are thunderstorms, about which the player gets mainly information from the pilots, who request headings to avoid storm cells.<br><br><strong>Create your own Airspaces and Scenarios</strong><br>The game has a built in Scenario Editor for creating your own challenging single or multiplayer scenarios. Also, adding airspaces is possible and documentation for that is provided with the game.<br><br><strong>Warning</strong><br><strong>Do not use this product for actual ATC training or in a professional environment. The experience this product provides is an approximation of real ATC work. </strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2105450/header.jpg?t=1676710152",
+    "developers": [
+      "Towerhouse"
+    ],
+    "publishers": [
+      "Towerhouse"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

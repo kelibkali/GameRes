@@ -1,0 +1,102 @@
+{
+  "2054820": {
+    "name": "POPTANK",
+    "steam_appid": 2054820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is a pop-cute shooting game!<br />\r\nThe objective of the game is to defeat the stage bosses and win all the stages!<br />\r\nTo defeat the bosses, you need bullets and bombs to damage them!<br />\r\n<br />\r\nThere are 3 types of bullets you can use!<br />\r\n【NormalBullets】<br />\r\nWhen you shoot it, it will go straight ahead! It has the most firepower of all bullets!<br />\r\nRaising the level will not only increase the firepower, but also shorten the firing interval!<br />\r\n【TrackingBullet】<br />\r\nWhen shot at an enemy, it will track towards that enemy! The firepower is a little low!<br />\r\nRaising the level will not only increase the firepower, but also the tracking performance!<br />\r\n【ReflectiveBullet】<br />\r\nWhen they hit a non-enemy target, they bounce back! The firing interval is long!<br />\r\nRaising the level not only increases the firepower, but also the number of times they ricochet!<br />\r\n<br />\r\nYou can equip one of three types of bullets!<br />\r\nThe bosses in each stage have different weapons.<br />\r\nEach boss has its own unique moves!<br />\r\nSo use different bullets for different stages!<br />\r\n<br />\r\nAnd those who have cleared all the stages<br />\r\nYou can also play &quot;Endless Mode&quot; where you just keep on surviving!<br />\r\nLet's aim for the height of POPTANK!",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054820/header.jpg?t=1667187321",
+    "developers": [
+      "Tomoki"
+    ],
+    "publishers": [
+      "Tomoki"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "TutorialStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/1212f9afbf50e6368104817f3a55f81389c8b619.jpg"
+        },
+        {
+          "name": "GrasslandStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/1ac319c5090b4b5d2aeff14c326a95f0955a61a8.jpg"
+        },
+        {
+          "name": "CaveStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/00e4147e7e9a88123139ea944a29334faaa47499.jpg"
+        },
+        {
+          "name": "OceanStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/c53d07225f02f67f4d7f6480690d116a9d416dda.jpg"
+        },
+        {
+          "name": "ForestStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/251922435ed5edb271a402b0a0f81953d8a686b3.jpg"
+        },
+        {
+          "name": "CastleStageCleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/8d411a2ac3204d15fe3860598dbffa16620c6ff5.jpg"
+        },
+        {
+          "name": "AllStageClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/8779b29ccf6c7346189c2f3592e3f946ac57def8.jpg"
+        },
+        {
+          "name": "GameOver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054820/708a2eff1bba11cb51daaa8d8defaeabcffff7d6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

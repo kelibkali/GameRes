@@ -1,0 +1,95 @@
+{
+  "2090180": {
+    "name": "Project Possession",
+    "steam_appid": 2090180,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >A two weeks Jam Game</h2><br>This project is the result of a 2 week internal Game Jam done by a small, passionate and dedicated team of devs from <strong>Colombia</strong>. We used this as an opportunity to challenge ourselves into creating something fun, simple and polished. <br><br>We hope you have as much fun with it as we did crafting it.<h2 class=\"bb_tag\" >The Game</h2><br>&quot;<strong>Project Possession</strong>&quot; is a 3D top down competitive 'Enter the Gungeon&quot; type of game where the objective is to eliminate more monsters than your rivals in PvE arenas filled with enemies and traps. <br><br>Up to 4 players can join a match. Each player starts out as a &quot;Ghost&quot; who must possess monsters in order to use their abilities to rack up more monster kills. Each monster has different types of movement, attacks and HPs.<br><br>Ranged attacks are strong but will consume mana. Melee attacks are weak and will refill mana.<br><br>The player that has the most points when time runs out is the winner.<h2 class=\"bb_tag\" >Support</h2><br>We will make improvements to the game and it will continue to be developed.<br><br><ul class=\"bb_ul\"><li>UI/UX improvements<br></li><li>New mechanics and improvements in Gameplay</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090180/header.jpg?t=1691678243",
+    "developers": [
+      "Efecto Studios"
+    ],
+    "publishers": [
+      "Efecto Estudios SAS"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Complete your first game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/bb0e8ff95b1f7bf378e4aafad2173f3cd902268c.jpg"
+        },
+        {
+          "name": "Friend of the Hazards",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/b442c85514aab986ec4196ef0973a184330b37c1.jpg"
+        },
+        {
+          "name": "Inmortal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/57bc52b5a082ceef4428eb9585a17a04282855e7.jpg"
+        },
+        {
+          "name": "King of Possession",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/5f2e7db2fe9246262d30b7ba2f5b1817a43395b9.jpg"
+        },
+        {
+          "name": "Blood Accumulator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/030e260afa1bb129d2f3fd830b702a1b78b303ff.jpg"
+        },
+        {
+          "name": "Serial killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090180/0f79e414a3f1f19b7d3113eb5249c0e2b928291d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

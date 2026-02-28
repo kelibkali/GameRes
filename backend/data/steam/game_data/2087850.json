@@ -1,0 +1,70 @@
+{
+  "2087850": {
+    "name": "Tribe War",
+    "steam_appid": 2087850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是将纸牌游戏和象棋的体裁相结合的战略纸牌游戏(SCG)。 <br />\r\n创建原始甲板，召唤怪物卡片，并使用魔法卡片来攻击对手的据点<br />\r\n<br />\r\n在棋盘式场地上,召唤怪物卡片环绕大本营,移动物体突破对方的防御,摧毁大本营。<br />\r\n每个物体与移动方式不同,也有一些具有特殊能力的物体。 魔术牌可以中和对手的防守或加强自己的防守。<br />\r\n<br />\r\n商店、卡片包和新物种将在未来增加。",
+    "supported_languages": "英语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087850/header.jpg?t=1659489030",
+    "developers": [
+      "M&SG Studio"
+    ],
+    "publishers": [
+      "M&SG Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "2052420": {
+    "name": "Pixel Game Maker MV - TRIDOME: Explorative-Platformer Sample",
+    "steam_appid": 2052420,
+    "required_age": 0,
+    "is_free": true,
+    "description": "你可曾有过探索型的动作游戏的想法？<br>名为“Tridome: Explorative-Platformer”的示例项目可以帮助你! 这个基础示例项目是一个5分钟游玩时间的迷你游戏，具有科幻式的“类银河恶魔城”的感觉。示例本身十分简短但是提供了以下这些重要的基本元素组成：<br><ul class=\"bb_ul\"><li>一个拥有射击武器的英雄人物，以及武器切换能力。<br></li><li>杂兵敌人和头目战。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/0707b4af6bb3c6c30f0eaea402a39089.poster.avif?t=1656003630\" width=426 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/0707b4af6bb3c6c30f0eaea402a39089.webm?t=1656003630\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/0707b4af6bb3c6c30f0eaea402a39089.mp4?t=1656003630\" type=\"video/mp4\"></video></span><br></li><li>地图过渡的小机关，如门和电梯。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/442144bba854ec03c2199f639f837fff.poster.avif?t=1656003630\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/442144bba854ec03c2199f639f837fff.webm?t=1656003630\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/442144bba854ec03c2199f639f837fff.mp4?t=1656003630\" type=\"video/mp4\"></video></span><br></li><li>跳跃平台和机关开关。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/515a1972821c5976a9171cd48d8cc987.poster.avif?t=1656003630\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/515a1972821c5976a9171cd48d8cc987.webm?t=1656003630\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/extras/515a1972821c5976a9171cd48d8cc987.mp4?t=1656003630\" type=\"video/mp4\"></video></span><br></li><li>一些事件演出，如通过物品拾取新武器事件和结局事件。<br></li><li>迷你地图</li></ul>利用这个模板，你可以根据自己的需要，通过调整参数和改变素材来创造自己的原创探索性动作游戏! <br><br>【故事】<br>最近发现了一个原始星球--MV296行星--但在它的轨道上潜藏着许多未知的生命体和先进技术。<br>你所扮演的角色是武装调查员Mee Karasabi。你必须开始单独行动，收集更多关于这个神秘存在的信息。<br><br>【控制】 <br>←→ 移动<br>↑↓ 电梯<br>Z键（手柄A键）跳跃<br>X键（手柄X键）射击<br>A键（手柄Y键）切换武器<br>空格键（手柄B键） 切换小地图<br><br>【如何使用】<br>下载后，示例项目将在 &quot;示例&quot; 标签下提供。如果它不在那里，请尝试重新安装DLC。",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052420/header.jpg?t=1656003630",
+    "developers": [
+      "Gotcha Gotcha Games"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

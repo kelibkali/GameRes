@@ -1,0 +1,58 @@
+{
+  "2072850": {
+    "name": "YTGV Demo (progress transfers to full game)",
+    "steam_appid": 2072850,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072850/header.jpg?t=1713017060",
+    "developers": [
+      "Panik Arcade"
+    ],
+    "publishers": [
+      "Those Awesome Guys"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Defeat BomBoss!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2072850/b738b4d13a4697f71ba11fe20daf6c479db77514.jpg"
+        },
+        {
+          "name": "All Gears Collected!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2072850/166a72693b967329ea75f609229e6fef6a510ce2.jpg"
+        },
+        {
+          "name": "Ultra chad",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2072850/05dd9b96690ca34986ecd5e3c6154f0780d2e5f4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "2101220": {
+    "name": "书之旅人 Story Walker",
+    "steam_appid": 2101220,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>《书之旅人》讲述了新人书魔法师进入书世界回收书之精灵的故事。</strong><br><br>本作品是个人毕设，美术、人物动画、策划和程序出于自己，属于私货多的作业；模型资源购买于虚幻商城；游戏流程展示的配乐（非商用）出自MUSMUS；感谢天问老师的剧本润色；感谢siin和子雨的动画上色援助；感谢小飞鸿的蓝图援助，感谢导师的帮助和支持<br>逻辑BUG多，材质有问题，优化是没有尽头的，早超生挺好（躺<br><br>游玩该游戏请注意以下事项：<br><br><strong>走路模拟器</strong><br>玩家请慢走，小心晕3D<br><br><strong>小心睡着</strong><br>该游戏不一定有良好游戏体验，请选择空闲时间进行游玩<br><br><strong>大量空气墙</strong><br>请玩家勿尝试飞出地图<br><br><strong>请注意缓慢对话</strong><br>本游戏交互部分由UE4蓝图制作，不如用C++写底层那样顺滑，有一定bug（改不来了（冒汗<br>跳过对话时请不要点击过快，概率会发生卡关事件<br>如遇卡关，请立即卸载游戏（冒汗<br><br><strong>一命通关</strong><br>此游戏没有保存进度功能（懒得做了摆烂了）<br><br><strong>作业应付（不是</strong><br>感谢您能下载，感谢您能游玩<br><br><strong>欢迎评论提出建议</strong><br>提出的建议都会看并且记下，以后会争取努力做出更好的不摆烂的游戏作品<br><br><strong>8月22日 向日葵田栅栏处空气墙问题已修改</strong><br><br>根据众多玩家反馈，已经将日葵田栅栏处会走出地图的地方进行了修改，加上了空气墙。<br>十分感谢玩家的下载和游玩，也十分抱歉因个人疏忽和能力不足造成的不愉快游戏体验<br><br>其他无法解决问题的说明：<br>1.关于存档：本游戏在制作时并没有考虑存档问题（单纯不会做），目前游戏要做存档会有点麻烦，若要做“保存已游玩的进度”类型的存档，读档时间会非常长，十分消耗内存和游戏时间<br>2.关于操作过快造成的判定bug：本人能力不足不会改（冒汗）以后制作游戏有对话相关互动的时候会再努力学学<br>3.游戏操作说明需要在开始界面查看，在游戏内打开菜单是“P”键，操作和操作教程在制作的时候还十分不成熟，望谅解<br><br>此游戏在本次更新后将不会再继续更新修改，感谢您能关注、下载、评论，您给出的建议都十分宝贵<br>游戏全流程视频（B站）：【游戏毕设】《书之旅人》幻想风个人游戏作品完整流程：<br><br>目前在策划制作新的游戏，以后会努力呈现更好的游戏",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101220/header.jpg?t=1661532274",
+    "developers": [
+      "KARELITSUN薰"
+    ],
+    "publishers": [
+      "KARELITSUN薰"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

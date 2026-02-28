@@ -1,0 +1,55 @@
+{
+  "2099100": {
+    "name": "COVID Simulation",
+    "steam_appid": 2099100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>This is an accurate simulation and visual representation of the spread of COVID-19 in a store, according to user-specified simulation parameters.  </strong><h2 class=\"bb_tag\" >OVERVIEW</h2>Statistics from the simulation are presented to the user, which are useful for the evaluation of the efficacy of preventive measures. A general mathematical framework for estimating risk of airborne transmission of SARS-COV-2 given by the American Institute of Physics was implemented in a 3D real-time virtual setting populated with artificially intelligent shoppers.<h2 class=\"bb_tag\" >SIMULATION PARAMETERS AND SETTINGS</h2>The user can choose starting values and parameters of the simulation (number of total shoppers, number of initially infectious shoppers, etc..) as well as important preventive measures settings such as the use of surgical masks or N95 masks, as well as if people are vaccinated.<h2 class=\"bb_tag\" >INDIVIDUALLY SIMULATED PEOPLE</h2>The simulation takes place in a 3D supermarket environment where shoppers will behave like real-life customers. This consists of walking to specific store items and aisles, waiting a few seconds in front of an object to simulate the choosing/taking process, and then going to another store item and repeating this process until they run out of time. <br>All shoppers will spend a random amount of time in the store, between a minimum and maximum (hard-coded) which guarantees a maximum length of the simulation. Therefore, the simulation simulates 1 shopping “cycle”. In the simulation, at any time, you can press the “Menu” button which will allow you to go back to the menu where you can start another simulation with different values.<h2 class=\"bb_tag\" >VISUAL REPRESENTATION</h2>Throughout the simulation, you are able to see the spread of the virus visually, as the ground tiles will become increasingly red according to the amount of virus particles on them.<br><br>You are able to see which shopper is infectious, infected or healthy with their body color (red = infectious, yellow = infected but not infectious, white = healthy). <br><br>On the right, the various simulation stats in real-time are displayed, such as the number of infectious, infected and healthy, effective reproductive number R, the number of shoppers that are in the store, the number of exposed shoppers, simulation time left etc… The simulation will end once every shopper has exited the store, so the simulation can be sped up to accelerate this process.<h2 class=\"bb_tag\" >GOAL</h2>This simulation allows the user to run multiple simulations with for example the same amount of initial infectious shoppers for a same amount of total shoppers, but with different variables such as the use of surgical masks and being vaccinated, and see how the effective reproductive number R changes. Just, for example, wearing a surgical mask should theoretically reduce the number of newly infected people by 2 (0.7^2 = approx 0.5).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099100/header.jpg?t=1724176591",
+    "developers": [
+      "Coreffect Interactive"
+    ],
+    "publishers": [
+      "Coreffect Interactive"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

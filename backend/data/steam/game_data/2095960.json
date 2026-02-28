@@ -1,0 +1,62 @@
+{
+  "2095960": {
+    "name": "Isostasy",
+    "steam_appid": 2095960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Beihnn wants nothing more than to live a quiet, uneventful life in a cabin in the forest. Alas, adventure calls! Take control of Beihnn and attempt to discover the origin of the force that poisons the land in this NES 2D side-scrolling MetroidVania platformer. Explore eight different zones and traverse various types of terrain in search of the power-ups that will allow you to proceed on your quest. Solve puzzles and discover secrets. Fight nine unique bosses. Talk to other characters for hints.<br><br>Isostasy began its life as an indie NES game. This is the PC version. It is essentially identical to the NES version, but also includes the ability to save game data to a file in your documents folder automatically upon viewing your password (to continue a saved game, select Password on the title screen, and if you have a valid save file the password will auto-populate, then press Start or Enter), and configure settings such as controller input (press Select or the D key while the game is paused to view Settings). If you would like to access the NES rom file, it is included in the files for the game. After installing it, navigate to the directory in which it is installed. Find IsostasyVer2.2.nes and <i>copy</i> it to your desired directory for play on an emulator or flash cart (do not <i>move</i> it, be sure to leave the original file in place).<br><br>Isostasy is designed to be played with a monitor refresh rate of at least 60 Hz. Playing with a refresh rate below 60 Hz may result in a sub-optimal experience. If audio or video issues are encountered, please check your monitor's refresh rate and increase it if necessary. Also note that in a multiple monitor setup, the refresh rate of all monitors may be limited by that of the slowest monitor, depending on your hardware. Try turning off or disconnecting the slower monitor and see if that resolves any issues.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095960/header.jpg?t=1726425675",
+    "developers": [
+      "Peter J Hopkins"
+    ],
+    "publishers": [
+      "Gravel Studios Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

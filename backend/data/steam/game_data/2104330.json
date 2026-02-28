@@ -1,0 +1,82 @@
+{
+  "2104330": {
+    "name": "ToS Gamepad Tester - Testing Upgrade Pack",
+    "steam_appid": 2104330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Add these extra testing features with ToS Gamepad Tester - Testing Upgrade Pack!<h2 class=\"bb_tag\" >🔧 Testing Upgrade Pack Features:</h2><br><br><ul class=\"bb_ul\"><li>🎚️ <strong>Precision Trigger Testing:</strong> Monitor raw input values of your gamepad's triggers.<br></li><li>🕹️ <strong>Ultra Precision Stick Testing:</strong> Observe raw input values of your gamepad's stick axis for stick drift and precise input analysis.<br></li><li>🔢 <strong>Double Input Testing:</strong> Detect double inputs from the same or different buttons.<br></li><li>⚙️ <strong>Rumble Motor Testing:</strong> Assess the performance of your gamepad's rumble motors.<br></li><li>🔵 <strong>DualShock 4 Lightbar &amp; Battery Level:</strong> Test the functionality and battery level of your DS4 gamepad in real time, with 7 different lightbar colors to choose from.<br></li><li>✅ <strong>Lock Tester Checks:</strong> Conveniently evaluate the functionality of each button and axis.</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104330/header.jpg?t=1689317003",
+    "developers": [
+      "Takeover Studios"
+    ],
+    "publishers": [
+      "Takeover Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

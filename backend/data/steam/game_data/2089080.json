@@ -1,0 +1,110 @@
+{
+  "2089080": {
+    "name": "Loot Box Waifus",
+    "steam_appid": 2089080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Do you like opening <strong>chests?</strong><br>Do you like gaining <strong>gold?</strong><br>Do you like collecting <strong>waifus</strong>?<br>Then this game is for you!<br><br>In Loot Box Waifus, you collect gold via clicking or passively from your waifus. You buy chests to gain more waifus.You can also use your gold for various upgrades.<br><br>Your waifus come in all shapes and sizes. You can collect golden, dark, metallic and retro versions of your waifus. Collecting a full set of retro waifus will grant you additional power.<br><br>But wait, there is more! Once you collect enough orbs, prestige to unlock even more upgrades. With your newly unlocked powers, open more chests, unlock more waifus!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089080/header.jpg?t=1670234510",
+    "developers": [
+      "waifuDD"
+    ],
+    "publishers": [
+      "waifuDD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 87,
+      "highlighted": [
+        {
+          "name": "Noob Chest Opener",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/558321cc2cb57543f0c8d2ac602155a8914bd13c.jpg"
+        },
+        {
+          "name": "Casual Chest Opener",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/866bcc2462398ffbc41231cf04491dba6872ad84.jpg"
+        },
+        {
+          "name": "Pro Chest Opener",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/05d104e9306b5d5c8f6925e4f772059c526c0646.jpg"
+        },
+        {
+          "name": "Veteran Chest Opener",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/7a1194c6d465e8991826411cbca3db546b868251.jpg"
+        },
+        {
+          "name": "Master Chest Opener",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/f8246026b86091a4bdde795790eabeadce5684b4.jpg"
+        },
+        {
+          "name": "Noob Waifu Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/18f4bdeae047a46b4fa66194d5e48250325da5af.jpg"
+        },
+        {
+          "name": "Casual Waifu Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/d2f15e412cdeaefd74360176aecb3ca998e0f3de.jpg"
+        },
+        {
+          "name": "Pro Waifu Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/7ffa1a70b58203f55a53c750420cf87355d49916.jpg"
+        },
+        {
+          "name": "Veteran Waifu Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/e788c68a445c34158a18dbdee18813d80e900259.jpg"
+        },
+        {
+          "name": "Master Waifu Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2089080/af205c3c6424125888127b174f60f36169b406af.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

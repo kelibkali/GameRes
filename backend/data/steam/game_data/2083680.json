@@ -1,0 +1,110 @@
+{
+  "2083680": {
+    "name": "PegSoli+",
+    "steam_appid": 2083680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Overview</h2><br>&quot;PegSoli+&quot; is a game based on the rules of the classic board game Peg Solitaire (or Solo Noble), with some modifications. This game includes a &quot;Problems Mode&quot; to solve preset problems, an &quot;Arcade Mode&quot; to compete for speed with automatically generated problems, and an &quot;Edit Mode&quot; to create original problems.<h2 class=\"bb_tag\" >Basic Rules</h2><br>A peg (piece) can be moved by jumping over one other adjacent peg, and the jumped over peg is removed from the board. No more than a peg can be jumped over, and no pegs can be moved if there is already a peg at the destination. The game is cleared when there is only one peg left on the board.<br><br>Once you have one peg remaining, the problem is clear, but it can be completely cleared by meeting the following requirements.<br><br><ul class=\"bb_ul\"><li>Solve problems within the specified number of steps: Steps are not counted if the same peg is moved consecutively. The key is to move as many consecutive pegs as possible.<br></li><li>Centering: It is achieved when the last peg is placed in the center of the board.</li></ul><br>Some problems have a set stock of pegs. The stocks can be placed anywhere on the board, and all stocks must be used up to complete the problem.<h2 class=\"bb_tag\" >Board Types</h2><br>&quot;PegSoli+&quot; has 3 types of boards.<br><br><ul class=\"bb_ul\"><li>English style</li></ul>This board consists of 33 holes. Movement is limited to four directions: up, down, left, and right.<br><br><ul class=\"bb_ul\"><li>French style</li></ul>This board consists of 37 holes. Movement is in 8 directions: up, down, left, right, and diagonally.<br><br><ul class=\"bb_ul\"><li>Gunma style</li></ul>This board consists of 45 holes. On this board, only continuous moves can be made in diagonal directions.<h2 class=\"bb_tag\" >Game Modes</h2><br>&quot;PegSoli+&quot; has 3 modes.<br><br><ul class=\"bb_ul\"><li>Problems Mode</li></ul>This mode consists of 120 problems for each board type, for a total of 360 problems. Hints are provided for difficult problems, and hints can be unlocked by using hint points. Hint points are earned through game play.<br><br><ul class=\"bb_ul\"><li>Arcade Mode</li></ul>This mode challenges you to see how many automatically generated problems you can solve in a given amount of time. Depending on your performance, you will earn hint points that can be used in the problems mode. <br><br><ul class=\"bb_ul\"><li>Edit Mode</li></ul>This mode allows you to create your original board. The created problems can be output to a password and passed on to other players.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2083680/header.jpg?t=1661952362",
+    "developers": [
+      "Acerola Software"
+    ],
+    "publishers": [
+      "Acerola Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "E-Quarter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/b5a8aa5dbaec880d049dea439c94658c406d9125.jpg"
+        },
+        {
+          "name": "E-Half",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/b5a8aa5dbaec880d049dea439c94658c406d9125.jpg"
+        },
+        {
+          "name": "E-ThreeQuarter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/b5a8aa5dbaec880d049dea439c94658c406d9125.jpg"
+        },
+        {
+          "name": "E-Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/b5a8aa5dbaec880d049dea439c94658c406d9125.jpg"
+        },
+        {
+          "name": "F-Quarter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/a3279e80ca593d0c0f8e636e3cd881a871d23a69.jpg"
+        },
+        {
+          "name": "F-Half",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/a3279e80ca593d0c0f8e636e3cd881a871d23a69.jpg"
+        },
+        {
+          "name": "F-ThreeQuarter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/a3279e80ca593d0c0f8e636e3cd881a871d23a69.jpg"
+        },
+        {
+          "name": "F-Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/a3279e80ca593d0c0f8e636e3cd881a871d23a69.jpg"
+        },
+        {
+          "name": "G-Quarter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/0010b1cddc0c133f836e5e242262d7b6f8dfd9d4.jpg"
+        },
+        {
+          "name": "G-Half",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2083680/0010b1cddc0c133f836e5e242262d7b6f8dfd9d4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "2073520": {
+    "name": "Minimal Bubble Pop",
+    "steam_appid": 2073520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "简单而有趣的游戏玩法让您可以匹配 3 种泡泡颜色并将它们弹出以增加您的分数。不要让气泡低于线！使用泡沫管理技能保持高分。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073520/header.jpg?t=1659337303",
+    "developers": [
+      "LVGames"
+    ],
+    "publishers": [
+      "LVGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 50,
+      "highlighted": [
+        {
+          "name": "500 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/7f57a7a2e826e46614481c60b30735392e701d69.jpg"
+        },
+        {
+          "name": "1000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/2928b3630404973104fbce1fc7919ffd38db136e.jpg"
+        },
+        {
+          "name": "1500 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/573ca13b925893db2653c5162349ab0220fc4797.jpg"
+        },
+        {
+          "name": "2000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/fa92d88d2eaf8bbb69841c98671bbbfaf03683b9.jpg"
+        },
+        {
+          "name": "2500 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/647df73f9847e8a28b720a43afe3e3e2060d3453.jpg"
+        },
+        {
+          "name": "3000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/cb67e2dfc2eb5a285be67bee7fef19392f0ae8b1.jpg"
+        },
+        {
+          "name": "3500 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/2ae4afbe8c7c047808f9d5bfbd5d6fd999ec7973.jpg"
+        },
+        {
+          "name": "4000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/e6fecd8a00307117f37151014003f4e9c20a48f6.jpg"
+        },
+        {
+          "name": "4500 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/46b895985429f720150b8c9ef82730c78e705aec.jpg"
+        },
+        {
+          "name": "5000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2073520/175f78d7f0a9deb98a29a8c823f9f2f03bfcdb39.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

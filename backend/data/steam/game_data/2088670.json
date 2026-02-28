@@ -1,0 +1,122 @@
+{
+  "2088670": {
+    "name": "Puzzline",
+    "steam_appid": 2088670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>[Rules]</strong><br>Puzzline is a board game connecting cards like a puzzle!<br>Each card has a puzzle-like &quot;Shape&quot; and a special &quot;Effect&quot;.<br><br>You can play a card that connect with the card on board.<br>Cards with stronger effect are harder to play, so play the game to keep balance of your hand.<br><br>Some cards have bad effect, but no worries. Let's pass those useless cards to other players!<br><br>The first player who uses up all the hand wins!<br><br><strong>[Deck Type]</strong><br>Basic: Basic deck.<br>Standard: Standard deck.<br>Unstable: Many transforming and deforming cards.<br>Chaos: Many random effect cards.<br>Expert: No random effect cards.<br>Explore: Deck focused on the additional rule &quot;field&quot;.<br>Special: Many unique cards.<br>Tag Mach:Deck for 2v2.<br>Highlander: All cards are included with no dupulicates.<br>Custom: You can custom the deck!<br><br><strong>[2v2]</strong><br>You can play 2v2 tag team game.<br>This is only playable in online match.<br><br><strong>[Online Match]</strong><br>You can play with players from all over the world, and make private match by using password.<br>You can also add NPCs to fill match!",
+    "supported_languages": "英语, 日语, 繁体中文, 简体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088670/header.jpg?t=1715347622",
+    "developers": [
+      "Aineko Games"
+    ],
+    "publishers": [
+      "Aineko Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Finish Tutorial!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/bacba015990f359a7d0d71766f9903cb15ccc13e.jpg"
+        },
+        {
+          "name": "Win Basic!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/04f8072a24c5ba3c92461e6d038cc6252e4e8156.jpg"
+        },
+        {
+          "name": "Win Standard!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/354f8fb542007b6d17140e7a9acfd05d03f27fb1.jpg"
+        },
+        {
+          "name": "Blessing!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/28322beca39a5bf065732550838cb491bf046822.jpg"
+        },
+        {
+          "name": "Present the Death!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/18be86a29c73408e4adb41d32f4205e4b7eacfce.jpg"
+        },
+        {
+          "name": "Deja Deja Vu!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/4c2e3b630ced33a5815751ff6d4ae3559f162e20.jpg"
+        },
+        {
+          "name": "Mine Explode!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/46709e97d88ca9e5ec88b8ada4f275184dd7f865.jpg"
+        },
+        {
+          "name": "Perfect Fit!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/6c0b4f135a2189c9d471f57fe7f6b4de62e7e02c.jpg"
+        },
+        {
+          "name": "UNO!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/e1a9369b1ae0025891109254a0288c883dbb4858.jpg"
+        },
+        {
+          "name": "Victory!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2088670/df862ce37f2d98b6feb8ca55693a3fe728afeb85.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 0,
+      "total_reviews": 11
+    },
+    "type": "game"
+  }
+}

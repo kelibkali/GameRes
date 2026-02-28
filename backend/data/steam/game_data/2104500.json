@@ -1,0 +1,54 @@
+{
+  "2104500": {
+    "name": "Tyrano Builder - Visual Novel GUI Pack #1  [kopanda UI]",
+    "steam_appid": 2104500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a set of game UI elements.<br>Quick theme changer plugin for Tyrano Builder (for 1280x720px) is also included. The system design can be easily replaced.<br><br>Rasterized PSD files are included for editing.<br><br>Use outside of Tyrano Builder is also acceptable.<br><br>◆ How to Use ◆<br><br>■TyranoBuilder V2.04 or later (Recommended!)<br><br>When you purchase the DLC, the quick theme changer plugin is automatically registered.<br><br>It can be used from Project -&gt; GameSettings -&gt; UI Theme in the top menu bar. <br>To obtain the editable bonus data, click &quot;Output Asset Data for Editing&quot; on the same screen. <br><br>■Tyrano Builder V2.03 or earlier <br>When you purchase DLC, various data will be stored in a folder called &quot;dlc&quot; in the installation folder.<br>The bonus data is located in &quot;theme/[ID name of purchased DLC]/edit_data&quot;, so copy it to your favorite location and use it.<br><br>Previous versions can still use quick theme changer plugin.<br>Copy the folder in &quot;theme/[ID name of purchased DLC]/theme_plugin&quot; to the following location.<br><br>・Windows<br>From TyranoBuilder installation folder, resources -&gt; app -&gt; ext -&gt; theme<br>Copy to this folder.<br><br>・Mac<br>Right click on TyranoBuilder.app -&gt; Show package contents -&gt; Resources -&gt; app -&gt; ext -&gt; theme<br><br>◆ CONTENTS ◆<br>Buttons have hover and click effects.<br><br>basic folder<br><br>・Text boxes (2 types)<br>・System text buttons (15 types｜&quot;auto&quot; and &quot;skip&quot; have active effects)<br>・System icon buttons (14 types｜&quot;auto&quot; and &quot;skip&quot; have active effects)<br>・Select buttons (2 types)<br>・Multi-purpose buttons_01（circle, square）<br>・Multi-purpose buttons_02（circle, square, rectangle, round）<br>・Multi-purpose buttons_03（circle, square, rectangle, round）<br>・Multi-purpose buttons_04（rectangle, 4 colors）<br>・General-purpose buttons with text (OK, Cancel, Yes, No)<br>・Back button<br>・Close button<br>・Voice play button<br>・Variable boxes (3 types, 5 colors each)<br>・Tab buttons (3 colors, with effects)<br>・Arrow buttons (up, down, left, right)<br>・Toggle button<br>・Radio button<br>・Checkbox<br>・Slider<br>・Scroll bar<br>・Stepper<br>・Health gauges（２ types, ３ colors）<br>・Text plate 01（５ colors）<br>・Text plate 02（４ colors）<br>・Decorative lines（2 types）<br>・Next icon files（apng、webp、celanim）<br>・New icons（２ types）<br>・General background（２ types）<br><br>append folder<br><br>・Quick theme changer plugin for Tyrano Builder<br>・CG mode sample（for Tyrano Script）<br>・Arrow buttons 02 (up, down, left, right)<br>・Title Menus（10 types）<br>・Number Buttons（9types｜have active effects）<br>・Main heading（9 types）<br>・PSD files for editing<br><br>◆ TERMS OF USE ◆<br>You may use materials for games, applications, videos, illustrations, etc. <br>　・Free games, shareware games, commercial projects, adult contents, derivative works, anything is OK.<br>　・May also be used for competition entries (with or without prize money).<br>　・Use outside of Tyrano Builder is also acceptable.<br><br>【MODIFICATION OF MATERIALS】<br>　・You are free to modify this product. Customize it for your ease of use.<br><br>【PROHIBITED USES】<br>　・Redistribution or reselling of materials as is<br>　・Plagiarism of materials, false representation of authorship<br>　・Use in which materials themselves have commercial value (including cases where materials are modified)<br>　・Use in contents that are offensive to public order and morals, or that defames a specific company or organizational group, and harms its honor or credibility<br><br>【USAGE REPORT &amp; COPYRIGHT NOTICE】<br>　・No usage report is required.<br>　・No copyright notice is required.<br>　・Copyright for this product is not relinquished.<br><br>【DISCLAIMER】<br>　The creator is not responsible for any damage or loss caused by the use of this product. Please note that this product is intended to be used only by those who agree to this.<br><br>【Author】<br><br>■Publisher<br>STRIKEWORKS<br><br>■Developper<br>KUUSOU-KYOKUSEN<br><br>We borrowed materials to create the introductory images. <br>These are not included in this product. <br><br>【CHARACTER ILLUSTRATION RESOURCES】<br>　Hadal-Z<br><br>【ILLUSTRATION RESOURCES】<br>　七三ゆきのアトリエ<br><br>【PHOTO RESOURCES】<br>　Pixabay",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104500/header.jpg?t=1666329737",
+    "developers": [
+      "STRIKEWORKS"
+    ],
+    "publishers": [
+      "STRIKEWORKS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

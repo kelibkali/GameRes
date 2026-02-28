@@ -1,0 +1,78 @@
+{
+  "2070210": {
+    "name": "Small Shop",
+    "steam_appid": 2070210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "欢迎来到小卖部VR~<br />\r\n还记得小学门口的小卖部吗？加入我们来创造你自己的小卖部吧！<br />\r\n在游戏里可以满足客人的需求赚取金钱，来解锁更多的货架位和更多的商品种类！<br />\r\n现在游戏还属于EA模式，将来还需要比较长时间的开发工作。如果你喜欢这个游戏想法，欢迎来留言板说出你的想法，我们会尽量还原一个你童年的小卖部！",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070210/header.jpg?t=1662011045",
+    "developers": [
+      "Gattino Lab"
+    ],
+    "publishers": [
+      "Gattino Lab"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

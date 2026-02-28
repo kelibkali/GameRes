@@ -1,0 +1,52 @@
+{
+  "2086980": {
+    "name": "The In Between",
+    "steam_appid": 2086980,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Overview</h2><i>The In Between</i> is an online multiplayer game where you play as a hunter or a demon. The goal is simple: eliminate the other team!<h2 class=\"bb_tag\" >Hunter Gameplay</h2>Hunters can cast two spells: attack and protect. To power these spells, hunters must gather charges that are scattered throughout the map. The attack spell requires full charge, while the protect spell only requires some charge and lasts longer the more charge that you have. When protected, attack spells do not affect the hunter. Attack spells can result in four different outcomes:<br><ul class=\"bb_ul\"><li>If another hunter is nearby and protected, nothing happens.</li><li>If another hunter is nearby and possessed, the demon dies.</li><li>Otherwise, if another hunter is nearby, they die.</li><li>If no other hunter is nearby, the caster dies.</li></ul>As a hunter, you must be careful with your attack spell. Luckily, candles indicate when a hunter has been possessed and when a demon is nearby. Use them to your advantage!<h2 class=\"bb_tag\" >Demon Gameplay</h2>Demons can possess hunters. When possessing a hunter, a demon can use the hunter's spells. When used by a demon, the attack spell results in similar outcomes. The only difference is that if no other hunter is nearby and the demon casts the attack spell, the demon dies, not the host hunter. To gain more possession time, demons must gather charges, just like hunters do. The only way a demon can kill a hunter is to possess another hunter and use the attack spell.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086980/header.jpg?t=1667773895",
+    "developers": [
+      "Kyle Martin",
+      "Srujan Vajram"
+    ],
+    "publishers": [
+      "Kyle Martin"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

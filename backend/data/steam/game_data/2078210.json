@@ -1,0 +1,62 @@
+{
+  "2078210": {
+    "name": "数字猜猜乐 Bulls and Cows",
+    "steam_appid": 2078210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "数字猜猜乐（Bulls and Cows）是一款古老的的密码破译类益智小游戏。<br>现在，我们让这一游戏的过程变得更为简洁和有趣。利用有限的机会猜出一个随机4位数。每猜测一次，都能得到关于数字和位置是否正确的提示，直到猜出正确答案（胜利），或者用光所有机会（失败）。根据不同难度和猜测次数，将获得相应积分。<h2 class=\"bb_tag\" ><strong>游戏模式</strong></h2>简单模式中，答案不包含重复数字。<br>困难模式中可能会包含重复数字——这使得难度大大提升，当然也将获得更高积分。<h2 class=\"bb_tag\" ><strong>成就</strong></h2>当获得一定积分或完成指定任务后，解锁新成就。<h2 class=\"bb_tag\" ><strong>展望</strong></h2>如果有更多人喜欢它，我们希望能不断完善，特别是推出对战模式和排行榜，让来自世界各地的人都能一起游戏。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 简体中文, 韩语, 俄语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2078210/header_schinese.jpg?t=1665514818",
+    "developers": [
+      "ClassJoy"
+    ],
+    "publishers": [
+      "ClassJoy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

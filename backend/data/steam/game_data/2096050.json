@@ -1,0 +1,82 @@
+{
+  "2096050": {
+    "name": "Warrior Maiden",
+    "steam_appid": 2096050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Warrior Maiden is a colorful and enjoyable side-scrolling platform game.</strong><br><br>The heroine can wield a sword, cling to walls in certain places, press buttons, move barrels, throw them on the heads of enemies, which leads to their instant neutralization. Also in the game there are puzzle elements, from the banal task to find a key, and to more difficult moments!<br><br><strong>- Nice bright graphics<br>- Gamepad support<br>- 15 levels<br>- Puzzles<br>- 2 locations<br>- 3 types of enemies</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096050/header.jpg?t=1659785694",
+    "developers": [
+      "RenPixel"
+    ],
+    "publishers": [
+      "My Way Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Complete First Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2096050/e539ad4ca73b42ba88dc6b7289e058f170fe4d04.jpg"
+        },
+        {
+          "name": "Complete 5 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2096050/ab1aacde9138f861952e97f5adf9841cb3ce3392.jpg"
+        },
+        {
+          "name": "Complete 10 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2096050/6af6ed41aefb249ce85e3e6444ef2c14399b8af9.jpg"
+        },
+        {
+          "name": "Complete 15 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2096050/3a624a76a28158ed08495f21d46e97a1b5e4db2f.jpg"
+        },
+        {
+          "name": "You finished the game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2096050/36e743f267d0f177c43a7f411ad961780559faa7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "2054740": {
+    "name": "Cozy Time",
+    "steam_appid": 2054740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >介绍</h2><br>开启您的Cozy Time，享受舒适、无人打扰的环境。<br><br>设定好您的目标，打开番茄钟，设置专注时长和休息时长，然后开始专注。享受轻松的氛围并完成您的目标。专注力在哪里，效率就在哪里。<br><br>打开日历可以查看您的专注时长记录，记录涵盖每天，每周和每月。<br><br>内置数十首放松和低保真节奏的音乐来帮助您更好的进行专注、放松或者休息。Cozy Time还可以让您导入自己喜欢的音乐来进行播放。<br><br>为了营造轻松的氛围，Cozy Time还内置了多个天气效果，打开它们配合风声、雨声，为您打造更舒适的环境氛围。<br><br>CozyTime具有和现实时间同步的功能，并伴随时间进行真实的日夜变换和场景照明。您还可以通过手动调整时间来获得您想要的特定光景（清晨，黄昏，或是深夜）。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>温馨小屋，舒适，治愈。<br></li><li>番茄钟<br></li><li>待办清单<br></li><li>专注记录日历<br></li><li>自定义音乐导入<br></li><li>昼夜变换<br></li><li>天气变化<br></li><li>环境白噪音<br></li><li>缓解压力，焦躁， 让心情愉悦。</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 俄语, 日语, 韩语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054740/header.jpg?t=1657686629",
+    "developers": [
+      "Cozy Live"
+    ],
+    "publishers": [
+      "Cozy Live"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Focus for 5 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/8b4e0bf9187150cabdc8eebfb781792d3bb7e632.jpg"
+        },
+        {
+          "name": "Focus for 60 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/6d1a895fe22ddb39c359053c7fbe0787afd23850.jpg"
+        },
+        {
+          "name": "Focus for 120 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/bd659919dffb960f57133e0eea185198768a91a2.jpg"
+        },
+        {
+          "name": "Focus for 180 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/aae2a893a61ac044ca6053e997da3e9c343d46c7.jpg"
+        },
+        {
+          "name": "Focus for 500 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/e863921429c0723aa10bbfc215197d9a331c384e.jpg"
+        },
+        {
+          "name": "Focus for 1000 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/83e17f417d80473147f76b32ac65b01a4ccc7bc5.jpg"
+        },
+        {
+          "name": "Pause focus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/f1f79fa0e1346b8f4389fba581354da57e11f1c2.jpg"
+        },
+        {
+          "name": "Buy a pet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/65001a1e69cc65ef7d0e2e0b6aaeec3b2382adc9.jpg"
+        },
+        {
+          "name": "Buy a furniture",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/b33d3375e0759965c03ef7d35feb0cfaf2ccd727.jpg"
+        },
+        {
+          "name": "Import music",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2054740/adfb9f6c1776b13744207d5b68e14c1c7669c11a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 93,
+      "total_negative": 20,
+      "total_reviews": 113
+    },
+    "type": "game"
+  }
+}

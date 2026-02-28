@@ -1,0 +1,134 @@
+{
+  "2071100": {
+    "name": "Lovely Traps Dungeon",
+    "steam_appid": 2071100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >📖 Introduction :</h2><p class=\"bb_paragraph\" >To your partner : </p><p class=\"bb_paragraph\" >   Hello Golem !<br>    <br>Your mission, and you accept it, is to find everything you can about this old fool and his inventions.  <br>We NEED his incredible creations (including his infinite coffee cup) !!! <br><br>   Now GO !   <br><br>The  Concilio Magorum</p><p class=\"bb_paragraph\" >--------------------------</p><p class=\"bb_paragraph\" ><strong>Hello sadi-- *khof* I mean magic questing friends ! </strong><br><br><br><br><br><strong>In Lovely Traps Dungeon, you will guide our dear golem friend through the mad wizard's mazes and twisted contraptions in an attempt to recover his immense knowledge ! 🧙‍♂️</strong> </p><p class=\"bb_paragraph\" >P.S : Golems are just moulded clay so don't worry about petty things like pulverization...​  </p><p class=\"bb_paragraph\" >😈✒️ Game in active development ❤️‍🔥 </p><h2 class=\"bb_tag\" >🎮 Gameplay :</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >  Third person platformer, sometimes sidescroller, with puzzle mechanics</p></li><li><p class=\"bb_paragraph\" >    </p><p class=\"bb_paragraph\" >Grab magic gear to get abilities !</p></li><li><p class=\"bb_paragraph\" >Classic WASD or ZQSD | left stick controls with mouse or right stick to orient view </p></li><li><p class=\"bb_paragraph\" >    Keyboard users can use Left Shift to force safe slow walk. </p></li><li><p class=\"bb_paragraph\" >    Mouse wheel or gamepad Up and Down control zoom </p></li><li><p class=\"bb_paragraph\" >    Slide on inclined surfaces, jump from them while keeping momentum !</p></li><li><p class=\"bb_paragraph\" >Beauuuutiful graphics ! (or at least we hope so) </p></li><li><p class=\"bb_paragraph\" >If something can be pushed, just move towards it, the golem will handle it </p></li><li><p class=\"bb_paragraph\" >Dodge death using skills. Unlock them in the challenges room ! </p><p class=\"bb_paragraph\" >Default one is a &quot;dive&quot; with an invincibility frame.</p></li><li><p class=\"bb_paragraph\" >    No lives or &quot;continue&quot;. You melted, got compressed, crushed or rolled over ? You will respawn at the last visited checkpoint. </p></li><li><p class=\"bb_paragraph\" >    Time attack : there is a timer on top of your screen and a proof screenshot is taken at the end of each level. </p></li><li><p class=\"bb_paragraph\" >You can manually make a high definition screenshot. Please first set a key in the Input menu. </p></li><li><p class=\"bb_paragraph\" >    There is often more than one solution </p></li><li><p class=\"bb_paragraph\" >The Ascent mode tests your platformer skills. Try to reach the secret clouds lab and find the ultimate artefact !</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In-game and Level End Screen-shots are put in [the game folder]/Saved/Screenshots  </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >💾 Setup and play (Outside of Steam) :   </h2><p class=\"bb_paragraph\" >    On Windows the LovelyTrapsDungeon(_Demo).bat script   <br>    On Linux the LovelyTrapsDungeon(_Demo).sh script   <br>   <br>A desktop launcher can be created to put on your desktop or anywhere else :   <br>   <br>    On Windows, using the SETUP-CreateDesktopShortcu.bat script   <br>    On Linux, using the SETUP-CreateDesktopShortcu.sh script   <br>   </p><h2 class=\"bb_tag\" >🖥️ Performances :   </h2><p class=\"bb_paragraph\" >The game  is as optimized as possible, the goal being to run smoothly on my favourite device : the SteamDeck ❣️</p><p class=\"bb_paragraph\" >It tries to auto-configures but of course, you can tweak visual settings, key bindings, sensitivity, accessibility options... <br>    <br>    <br>HAVE FUN ! 😋</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you need help, feel free to ask on Steam Discussions or on Telegram. Look for public group JauStudio.</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071100/3bd479a1d09899c49d2f20d92fe1a05000c664ad/header.jpg?t=1771016955",
+    "developers": [
+      "Jau Studio"
+    ],
+    "publishers": [
+      "Jau Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Level 2 !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/74cd63d3912fc703b64decd38f70ef9df0e940c9.jpg"
+        },
+        {
+          "name": "Level 3 !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/eacd79f121b90ce89c8267007f7276046d450e96.jpg"
+        },
+        {
+          "name": "Trasure Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/e67197485a0ba41e67edb5d631b266910000a643.jpg"
+        },
+        {
+          "name": "The Undead",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/8e5a6f0a5c4b634e89e8ab660c97cff056bad188.jpg"
+        },
+        {
+          "name": "Acid long trip",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/898c4c128c1405d20aab038684edf650b48879a0.jpg"
+        },
+        {
+          "name": "Crispy !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/0b922b87d1a8477a55fe4c37d44d4fca3cba119d.jpg"
+        },
+        {
+          "name": "Like a rolling stone !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/5b079ab8e9ce472c1b8b2c16f883a1c117b3e1e6.jpg"
+        },
+        {
+          "name": "In a Flash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/0d55c811612af104d316dbedf5a9c9685a1d1d8f.jpg"
+        },
+        {
+          "name": "Hopper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/1db86d6a48bd88ba204250c59feb8c9e4806577b.jpg"
+        },
+        {
+          "name": "Air Control",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2071100/1f8d630b021b984720ca34610a367eb2b1c6da2b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

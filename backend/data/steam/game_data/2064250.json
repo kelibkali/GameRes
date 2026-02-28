@@ -1,0 +1,49 @@
+{
+  "2064250": {
+    "name": "MocapForStreamer",
+    "steam_appid": 2064250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a Windows application for upper body motion capture using 2 webcams of the same model as stereo cameras.<h2 class=\"bb_tag\" >No special equipment required</h2>You can capture upper body, hand, and facial expression if you have the followings, without the need for special equipments:<br><ul class=\"bb_ul\"><li>a middle range PC<br></li><li>2 webcams of the same model</li></ul>The captured motion can be exported via the VMC protocol.<h2 class=\"bb_tag\" >What is the difference with MocapForAll?</h2>MocapForStreamer greatly simplifies set-up, such as camera calibration, by limiting the functionality to capturing the upper body only and imposing constraints on the cameras.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064250/header.jpg?t=1657264889",
+    "developers": [
+      "Akiya Research Institute"
+    ],
+    "publishers": [
+      "Akiya Research Institute"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 20000,
+      "final": 20000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 200.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 8 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

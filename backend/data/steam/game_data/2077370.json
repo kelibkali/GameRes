@@ -1,0 +1,74 @@
+{
+  "2077370": {
+    "name": "Stellar Propeller",
+    "steam_appid": 2077370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Overview: </strong>Stellar Propeller is a single-player plane racing game where players race through various levels and dodge obstacles to try and achieve a high score. Fly through the rings to gain speed and avoid obstacles to reach the finish line. Seems easy, right? This game can be very difficult to master. Pro tip: use camera lock if you get disoriented to get back on track!<br><br><strong>Design: </strong>Stylized, 3D Racing Game where players will race to beat their best times. Simple controls WASD, Left Click, Right Click, Spacebar.<br><br><strong>Localization: </strong>Minimal text elements but only available in English.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2077370/header.jpg?t=1663339451",
+    "developers": [
+      "Andy Waterhouse"
+    ],
+    "publishers": [
+      "Andy Waterhouse"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

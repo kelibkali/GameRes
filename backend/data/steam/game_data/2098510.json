@@ -1,0 +1,45 @@
+{
+  "2098510": {
+    "name": "Zenkcraft",
+    "steam_appid": 2098510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Zenkcraft is a modern spellcraft templating program for MMORPG's. Zenkcraft was originally made back in March of 2019 and previously existed as a free to download software, but the application has been rebuilt from the ground up adding many customizations and enhancements. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Zenkcraft allows you to completely customize your character's template to see all skills, stats, resists, and all other info in a comprehensive and interactive program. Easily add items to your template from several different methods and build your report for a spellcrafter to use. Several features such as Auto Template allow Zenkcraft to calculate and complete your template for you, with many other features such as the powerful ROGify tool. All changes are kept in the patch notes.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Core Zenkcraft Features</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Modern, interactive Spellcrafting tool with a very user-friendly UI that is tuned to all the settings of the Eden server.</p></li><li><p class=\"bb_paragraph\" >All expected functionality such as exporting/importing, template guidance, and a variety of settings.</p></li><li><p class=\"bb_paragraph\" >Ability to add items directly from DAoC into Zenkcraft by delving an item with shift+i. Includes all stats, procs/changes, quality, etc.</p></li><li><p class=\"bb_paragraph\" >Add Spellcrafting gems directly into DAoC with a very easy interface.</p></li><li><p class=\"bb_paragraph\" >Upload and download templates from a public online database with a few clicks, showing all kinds of information.</p></li><li><p class=\"bb_paragraph\" >Full screen and windowed mode available as well as adjustable resolution.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Recent Updates:</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Completed transition to a modern version of the Unity Engine. This will improve overall performance and stability.</p></li><li><p class=\"bb_paragraph\" >Added a Vault feature to store items between templates (See Vault Tab).</p></li><li><p class=\"bb_paragraph\" >Made Zenkcraft server selectable so that you can use different settings, templates, and vault items based on your selected server.</p></li><li><p class=\"bb_paragraph\" >ToA classes and information has been added to make Zenkcraft compatible with ToA servers.</p></li><li><p class=\"bb_paragraph\" >Added a Properties Tab to track armor/weapon types, speed, and other information. This was a necessity in order to finish development of the Vault.</p></li><li><p class=\"bb_paragraph\" >Changed save directory to the &quot;My Documents&quot; folder as opposed to the Zenkcraft directory (in addition to Vault items). This means you can delete Zenkcraft and add a new version, with all templates and Vault items being retained.</p></li><li><p class=\"bb_paragraph\" >Several changes to Zenkcraft to align with the Eden server.</p></li><li><p class=\"bb_paragraph\" >Several performance enhancements across multiple functionalities (I'm a better programmer than I was 3 years ago).</p></li><li><p class=\"bb_paragraph\" >Completion of Auto Template.</p></li><li><p class=\"bb_paragraph\" >Added ROGify, which uses items in the Vault to build a template. There is a lot of information on this in Zenkcraft and this is a very powerful tool, so please check out the Notes and ROGify tabs within Zenkcraft for more info.</p></li><li><p class=\"bb_paragraph\" >Added the Spellcrafting Gem reagents (material cost) for all gems and added the info to the Spellcrafting report.</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/header.jpg?t=1752361517",
+    "developers": [
+      "Gas Lantern Games"
+    ],
+    "publishers": [
+      "Gas Lantern Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 12 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

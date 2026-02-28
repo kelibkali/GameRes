@@ -1,0 +1,54 @@
+{
+  "2092660": {
+    "name": "Magnet Block",
+    "steam_appid": 2092660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Magnet Block is a simple 3d sokoban puzzle game.<br><br>The goal is to exit each puzzle through the teleporter.<br>Doing so requires the use and exploitation of the titular magnetically monopole blocks.<br><br>Opposites attract - Identical repulse.<br>The rules are simple but there are non trivial consequences to the world state.<br><br>Take the journey through 107 puzzles. No filler.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092660/extras/92c5e093ddab463e3490e5572b09a6f9.poster.avif?t=1732607480\" width=522 height=578 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092660/extras/92c5e093ddab463e3490e5572b09a6f9.webm?t=1732607480\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092660/extras/92c5e093ddab463e3490e5572b09a6f9.mp4?t=1732607480\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 繁体中文, 法语, 日语, 韩语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092660/header.jpg?t=1732607480",
+    "developers": [
+      "Isaac Andrews"
+    ],
+    "publishers": [
+      "Isaac Andrews"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5600,
+      "final": 5600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 56.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}
