@@ -1,0 +1,86 @@
+{
+  "2001620": {
+    "name": "Band of Mercenaries Demo",
+    "steam_appid": 2001620,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001620/header.jpg?t=1652869196",
+    "developers": [
+      "Padakodart"
+    ],
+    "publishers": [
+      "Padakodart"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Don't mess with a peasant woman...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2001620/8068757ab8acfdeb0c6bbeea231acb7172005ee2.jpg"
+        },
+        {
+          "name": "A taste of betting.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2001620/28fed5129e911cdb861aa2c6a54f81175d3565e5.jpg"
+        },
+        {
+          "name": "The birth of the conquerors.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2001620/110f3f882f6df64c147ddf8c02a79f285f4fc99e.jpg"
+        },
+        {
+          "name": "Free mind and animal lover.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2001620/8d77e24a4734420ee9c2cf6f53d608dcf3e45083.jpg"
+        },
+        {
+          "name": "The beginning of an adventure",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2001620/6633cb84926381349c2a3e9c3fff24dece8c6ec1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}
