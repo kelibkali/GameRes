@@ -1,0 +1,87 @@
+{
+  "1689930": {
+    "name": "Alley Catz Bowling",
+    "steam_appid": 1689930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Alley Cat Bowling is a crowd-play game designed around the classic ten pin bowling experience.</p><p class=\"bb_paragraph\" >Twitch streamers share the gameplay with their followers, interacting through chat and video. This is a gaming collision of bowling alleys and bowling balls and social video streaming at its finest, with a growing collection of playable bowling balls and bowling alleys.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>****Twitch interactive game and twitch is required to play the game****</strong></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689930/header.jpg?t=1731593065",
+    "developers": [
+      "Alley Catz Games",
+      "Hazy Paw Games Inc"
+    ],
+    "publishers": [
+      "Alley Catz Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Alley Catz Bowling Dev Achievement Only",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1689930/d9f16951218122effa37448794cbf1abc6a7fe9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

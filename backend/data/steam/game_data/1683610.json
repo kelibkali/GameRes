@@ -1,0 +1,98 @@
+{
+  "1683610": {
+    "name": "Profectus",
+    "steam_appid": 1683610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Rise through the ages.<br>In Profectus you start with nothing but a world to explore. Your goal is to use what you are given to the fullest extent and work your way up from the stone age into space.<br><br>Profectus is unique in that you do not start with an inventory, you have to carry everything you own in your hands, on your hips or on your back.<br>Maybe one day, you'll learn how to domesticate packanimals.<br><br>The current version of this game, although not nearly what it will be one day, includes:<br><ul class=\"bb_ul\"><li> Seed generated breakable terrain with stylized water physics<br></li><li> An age system which limits buildable structures according to which age you are in<br></li><li> The first three ages, this being: Stone age, Bronze age, Iron age<br></li><li> simple storage in form of bundles<br></li><li> Wood and Brick as a means of building simple structures<br></li><li> Multiplayer</li></ul>",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683610/header.jpg?t=1675117712",
+    "developers": [
+      "Alrek Studios"
+    ],
+    "publishers": [
+      "Alrek Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Portable Fire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1683610/fd018b69e489c40169fb09a060d2440e4761b19a.jpg"
+        },
+        {
+          "name": "Stone Age",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1683610/74eee7412c1972d58beb1d16ff26da59c47451b9.jpg"
+        },
+        {
+          "name": "Bronze Age",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1683610/7b73e30ba37d8f6d6a8c144077a311f5e7d48721.jpg"
+        },
+        {
+          "name": "Iron Age",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1683610/096e69af71aad0ef667e1bad51d74830b1c449d3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

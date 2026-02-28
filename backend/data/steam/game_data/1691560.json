@@ -1,0 +1,115 @@
+{
+  "1691560": {
+    "name": "Mido and Di",
+    "steam_appid": 1691560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mido 是一个外星小孩儿，做了有关僵尸外星人的噩梦。一天晚上，他画了一个名叫 Di 的生物，Di 活了过来，并开始教 Mido 如何与僵尸战斗。<br />\r\n<br />\r\n“Mido and Di”是我们以前创作的一个动画短片项目，但在大约 15 年前，我们没能完成这个项目。这个游戏是根据之前的故事改编的，但是那个故事在游戏中占的比重并不大。这是一款动作性十足的第三人称僵尸射击游戏。玩法简单，关卡精美。玩家需要努力在被僵尸外星人抓住之前击杀它们。僵尸外星人会按照波次发起进攻，类似塔防游戏，但这是那种游戏机制的第三人称版本。玩家拥有三种不同的武器，用起来非常有趣。玩家可以组合冰属性和火属性的武器，还可以从僵尸身上获得金币。这些金币可以用来升级武器。<br />\r\n<br />\r\n如果你有兴趣阅读动画短片的那个故事，请往下看（我将以分镜头的方式进行撰写）：<br />\r\n- Mido 又做噩梦了。他房间里的东西变形了，看起来很吓人。<br />\r\n- 他醒了。早上还要上学。他在等校车。校车驶来时镜头变黑。<br />\r\n- Mido 放学回到家。返回自己的房间，生气地把书包扔了出去。<br />\r\n- 他在纸上画了一个生物，并把它挂在了墙上。他给这个生物起名叫 Di。<br />\r\n- 他睡着了，而且又做了一个噩梦。但这一次，他的朋友 Di 救了他。<br />\r\n- 他醒了过来。外面在下雨。他害怕打雷，但他还是走近并打开了窗户。<br />\r\n- Di 从天而降，抓住了 Mido 的手。<br />\r\n- 他们一起朝空中飞去，当他们在视线中消失后，我们看见星星般的闪光。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 匈牙利语, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691560/header.jpg?t=1679506921",
+    "developers": [
+      "Alper Gonen",
+      "Dogan Dipcin"
+    ],
+    "publishers": [
+      "Alper Gonen"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "No more zombies at basketball court!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/c29c1d62b85777248a72ebd0269d83116cdb6a9f.jpg"
+        },
+        {
+          "name": "No more zombies at classroom!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/2929ccfc7075a077b16bfb018ab709624eea6952.jpg"
+        },
+        {
+          "name": "Zombie destroyer!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/21cdd1687f7507d6060934d13ea0e6822d576541.jpg"
+        },
+        {
+          "name": "No more zombies at coffee shop!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/14ef25da6d6246cc814f54d4df3bc6cd228a3329.jpg"
+        },
+        {
+          "name": "I have money now!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/affb44d24862d0e82cc8ee47d285f1907c7b024d.jpg"
+        },
+        {
+          "name": "Sweet coins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/593e4761080c058d845536b219cdfc2597576c49.jpg"
+        },
+        {
+          "name": "I am rich!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/9bf848e67018747c17af65f9d11f32007c84a9a5.jpg"
+        },
+        {
+          "name": "No more zombies at gallery!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/fcf04c789bab33f6f42ea093834cb7c616187ef2.jpg"
+        },
+        {
+          "name": "No more zombies at greenhouse!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/23e02603c46b042f54d219a499d6ed7da2bb7b7b.jpg"
+        },
+        {
+          "name": "No more zombies at gym!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/dda5a8ffb65d77c6b467b30aca0d415d2e2ef090.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

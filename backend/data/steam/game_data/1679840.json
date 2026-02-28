@@ -1,0 +1,114 @@
+{
+  "1679840": {
+    "name": "Birb Race",
+    "steam_appid": 1679840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>How to be the fastest Birb in the land:</strong><br><br><strong>Walk Training: Jump over and duck under obstacles for as long as possible</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/5fe3c580e05cd12fc2be8fb96d7ebdb4.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Climb Training: Avoid mines while gathering jerry cans to stay up</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/7b2768ba0fe2b72ac23f9ddb9405dddc.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Glide Training: Collect XP while avoiding floating mines</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/fbcddf361fedd8cdc376a4e2a2ed3798.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Swim Training: Eat small fish while avoiding larger ones</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/9d6218aa2e04b2f8086b7614a7c585d1.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Shop: Upgrade your training</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/8c1b9acfb079e8711b330a490c05174a.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Trophies:</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/30a4377e7340dcfb8c3944b11bd85455.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Race Times:</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/extras/ba20ca8ea38cab9825db4e771aee4661.avif?t=1660725938\" width=320 height=180 /></span><br><br><strong>Good luck you Birb racers!</strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1679840/header.jpg?t=1660725938",
+    "developers": [
+      "Zankey Studio"
+    ],
+    "publishers": [
+      "Zankey Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Field Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/793357ef3a4964652cb1a801e3dd1f781eca280e.jpg"
+        },
+        {
+          "name": "Island Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/faef0ad9dd32cf6908f66380d0643607d6c86ea8.jpg"
+        },
+        {
+          "name": "Cliff Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/bb58729a8c83d65ac4c4ba86a726f84e25051871.jpg"
+        },
+        {
+          "name": "Cave Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/2fddd3a7f93016b7e8c48a93ebc3adb0616d3313.jpg"
+        },
+        {
+          "name": "Adept Walker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/f55636fced679f2856c6a4216aae4d1f67442ad3.jpg"
+        },
+        {
+          "name": "Expert Walker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/ea4abd07948b5291ba852fe1fdb4c20222f827f3.jpg"
+        },
+        {
+          "name": "Master Walker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/a6134026a8b198beaff03ac27e5d430544a81497.jpg"
+        },
+        {
+          "name": "Adept Climber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/0e69eba86189675a093ee64daef32624a2f508ff.jpg"
+        },
+        {
+          "name": "Expert Climber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/44e807cea47a3ced6a13f955a7359166ef46dd00.jpg"
+        },
+        {
+          "name": "Master Climber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1679840/ba5bd3972fedaaa50ba3b68035d7cdb80e69a3e9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

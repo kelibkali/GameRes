@@ -1,0 +1,106 @@
+{
+  "1666090": {
+    "name": "Karanos Solitaire",
+    "steam_appid": 1666090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Karanos Solitaire</h2>Karanos Solitaire is a single-player card game using a traditional deck of cards with an original ruleset, built on grouping cards into best scoring combos. Playtime: 5 minutes per game.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Minimal interface<br></li><li> Relaxing gameplay<br></li><li> Many cardback options<br></li><li> Color themes</li></ul><h2 class=\"bb_tag\" >Rules</h2>You can play the game using your own deck of cards following the rules detailed below!<br><br><br><strong>Goal</strong><br>Your goal is to remove all cards from the game, scoring as many points as possible.<br><br><strong>Setup</strong><br><ol><li> Remove all face cards from the deck, leaving only aces and numerals. 40 cards in total.<br></li><li> Shuffle the deck, then reveal the top 3 cards placing them next to the deck. Like so:</li></ol><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/extras/712ed4584f12c200a01d82234ed6fb45.avif?t=1664386645\" width=616 height=320 /></span><br><br><strong>Available Actions</strong><br><ol><li> Move a card from the bot row to the top row, revealing top deck card into the bot row<br><ul class=\"bb_ul\">   <li> When the deck has one card left, flip it over, use it as a bottom row card</li></ul></li><li> Move a card from the top row to the back of the deck<br></li><li> Remove top row cards matching a valid combo (listed below) from the game<br></li><li> Remove a top row card from the game</li></ol><br><strong>Combos and Points</strong><br>When a combo is matched and the cards are removed from the game, you gain the number of points the combo is worth. The following are all possible game combos and their point values:<br><br><table>    <tr>        <th>Name</th>        <th>Matches</th>        <th>Value</th>    </tr>    <tr>        <td>Pair</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A] or [2+2] or [3+3]..</td>        <td>2 points</td>    </tr>    <tr>        <td>Chain </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[1+2+3] or [2+3+4] .. or [9+10+A] or [10+A+2]</td>        <td>3 points</td>    </tr>    <tr>        <td>Flush</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀any 3 cards of the same suit</td>        <td>3 points</td>    </tr>    <tr>        <td>Royal </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀both chain and flush</td>        <td>7 points</td>    </tr>    <tr>        <td>Triple</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A+A] or [2+2+2] or [3+3+3]..⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>        <td>8 points</td>    </tr></table><br>Additionally, whenever a single card is moved from the top row, your points are reduced by 1.<br>Furthermore, If all cards are used as a part of a combo, gain additional 11 points.<br><br><strong>Victory</strong><br>The game can be considered won if you score 40 points or more, but no reason to stop there!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/header.jpg?t=1664386645",
+    "developers": [
+      "Rokas"
+    ],
+    "publishers": [
+      "Rokas"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Karanos",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/b951b3298d10cefb0d6cc90a4559b4bf79b6b5b2.jpg"
+        },
+        {
+          "name": "Ace",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/47a23c752726ffc4af309b802f1bb7fee643843c.jpg"
+        },
+        {
+          "name": "Astral Alignment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/fa959c18caae2130395b669a29623e38c939beeb.jpg"
+        },
+        {
+          "name": "Pair",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/c4f461e726ca77405dad203ed0304d0d1c6a7ccc.jpg"
+        },
+        {
+          "name": "Jack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/27730ea4aa07dbeb5dda5f4a53a8bd179cfffa15.jpg"
+        },
+        {
+          "name": "Royalty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/de1b2b7780b73856ea920704dcd06ead8360443d.jpg"
+        },
+        {
+          "name": "Queen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/70e3f7c37991f714ca995c9407699ce23099e121.jpg"
+        },
+        {
+          "name": "Chain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/033af1ec2a6145a0ff0ac449824e38e687a30ee2.jpg"
+        },
+        {
+          "name": "Flush",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/e985b6ed00cd5732b002ea5b775a6878b2955bfa.jpg"
+        },
+        {
+          "name": "Triple",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1666090/b260f4907776577692b152509563fdb7044ee4d3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

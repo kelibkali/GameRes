@@ -1,0 +1,83 @@
+{
+  "1677710": {
+    "name": "Pixel Game Maker MV - Falling Blocks Puzzle Sample",
+    "steam_appid": 1677710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个Sample是一个关于掉落物体的解谜游戏。<br>游戏有两种模式，一种是单人模式，可以挑战高分，另一种是两人对战模式。<h2 class=\"bb_tag\" >●关于操作</h2>在初始设定中，这个游戏可以由手柄1和手柄2来操作。想要使用键盘的话请通过drop_obj、titlemenu中start→手柄ID，将其设置为0。<h2 class=\"bb_tag\" >●基本规则（单人）</h2>方块会一次落下两个。<br>方块上写着数字。（数字都是3的幂和1）<br>方块落下的时候可以旋转或者移动。<br>按下上、下键就可以让方块快速落下。<br>同样数字的方块有3个连在一起时它们就会合体。得到的数字越大，你的分数也就越高。<br>①①①→③<br>有一个例外就是，同样数字的四个方块连载一起时，会产生如下的额外奖励<br>①①<br>①①→③③<br>觉得不合适的方块也可以暂时存放起来。如果已经有存下的方块，则会两者互换。但不能连续保存两个以上的方块。<br>如果方块叠放到画面上方的X时就会Game Over。<br>按下A键Game Over时回到起始画面，按下B键Game Over时重新开始<h2 class=\"bb_tag\" >●基本规则（双人）</h2>基本规则和单人模式相同。<br>最先把方块堆积到上方的X的人失败。<br>方块堆积之后也会产生可以妨碍对手的方块条。<br>己方的妨碍方块条累计起来的时候如果达成了方块消除条件，妨碍方块就会被消除。<br>己方的妨碍方块条累计起来的时候放置方块，上方的妨碍方块越多，就会落下来越多。<br>单个的妨碍方块不会被消除。<br>但是，数字方块连起来消除时，它周围的方块会被消除。<h2 class=\"bb_tag\" >●关于方块动作的细节</h2>请参照动画中的“Rule”<h2 class=\"bb_tag\" >●关于这个游戏制作的说明和评论</h2>请查看项目的&quot;making_tutorial&quot;。<h2 class=\"bb_tag\" >●操作方法(XInput对应的手柄)</h2>左右: 移动方块<br>下：方块快速落下<br>上：方块更快速地落下<br>B: 旋转方块<br>A: 旋转方块（反方向）<br>R1: 保存方块<br>菜单<br>A: 确定、Game Over时回到起始画面<br>B: Game Over时重新开始<h2 class=\"bb_tag\" >●操作方法(键盘)</h2>※想要使用键盘的话请通过drop_obj、titlemenu中start→手柄ID，将其设置为0。<br><br>方向键左右: 移动方块<br>方向键下：方块快速落下<br>方向键上：方块更快速地落下<br>D: 旋转方块<br>A: 旋转方块（反方向）<br>Q: 保存方块<br>菜单<br>回车: 确定、Game Over时回到起始画面<br>空格: Game Over时重新开始",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677710/header.jpg?t=1655340058",
+    "developers": [
+      "polytanQ",
+      "PLAYISM"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}
