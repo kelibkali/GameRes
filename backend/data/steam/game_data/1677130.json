@@ -1,0 +1,90 @@
+{
+  "1677130": {
+    "name": "ColorDip",
+    "steam_appid": 1677130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>ColorDip</strong> is a small game to pass the time. <br>The goal of the game is to put one color (of your choice) on all tiles.<br>Depending on the level of difficulty there are more or less color variations.<br>But be careful - it looks easy - but it is not.",
+    "supported_languages": "英语, 法语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677130/header.jpg?t=1730300735",
+    "developers": [
+      "vfsoft.lu"
+    ],
+    "publishers": [
+      "vfsoft.lu"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Gold-Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1677130/84df9c18ea3322337815c1327d405a7645ffb6d4.jpg"
+        },
+        {
+          "name": "Silver-Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1677130/2930ab122af6225752fc2edbc43531c6011a29af.jpg"
+        },
+        {
+          "name": "Bronze-Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1677130/9a629f5133ef453d01d2452f463b7281301d8465.jpg"
+        },
+        {
+          "name": "Hardcore-Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1677130/55f5a2030ba16be26db17003e2d7fa4be00f2ac5.jpg"
+        },
+        {
+          "name": "Beat the Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1677130/6e8c6fe3fb3c20f7cc1b911f0bdaf779fffe6c97.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

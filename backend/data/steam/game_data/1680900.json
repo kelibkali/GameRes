@@ -1,0 +1,106 @@
+{
+  "1680900": {
+    "name": "Escape from Nowhere",
+    "steam_appid": 1680900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> <i> Escape from Nowhere </i> </strong> is an indie runner game where you run and have to dodge obstacles, collecting various bonuses.<br>A soul that has fallen into oblivion is trying to escape. On its way, it encounters blocks of karma that paint the soul in its own color. There are also other obstacles on the way, but the most dangerous are restless souls (zombies) who chase the soul in order to prevent it from escaping. On the way, you need to collect various bonuses and try to get out of the situation, for example, extinguish the fire with water blocks and restore health.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1680900/header.jpg?t=1626520453",
+    "developers": [
+      "PancakeGames"
+    ],
+    "publishers": [
+      "Piece Of Voxel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 333,
+      "discount_percent": 91,
+      "initial_formatted": "¥ 37.00",
+      "final_formatted": "¥ 3.33"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Faster than a zombie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/89af39786cc06161d015d95b400008a00e9f1c5d.jpg"
+        },
+        {
+          "name": "Faster than fire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/7d47c18edeedc2a7144e23e848080cba46cfb530.jpg"
+        },
+        {
+          "name": "Faster than poison",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/e60a41ef8bae125f74153262eb04e89f2af6642a.jpg"
+        },
+        {
+          "name": "Royal run",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/5e94765e6ba1a4705b21589ca79f74724d3a64ab.jpg"
+        },
+        {
+          "name": "Collected 30 coins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/5db1cf67e45e9e9a895427d77115f00b57abf5af.jpg"
+        },
+        {
+          "name": "Collected 50 coins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/2a88a11331f1d34385d1854b9bc299f4205c9ec1.jpg"
+        },
+        {
+          "name": "Collected 100 coins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1680900/c0a0618f6e8a33ad5c4b329cbc34d1549fae7631.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

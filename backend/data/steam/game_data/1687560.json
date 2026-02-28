@@ -1,0 +1,74 @@
+{
+  "1687560": {
+    "name": "ASTRO-NOT",
+    "steam_appid": 1687560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "I love playing lander games and even as a kid I always wanted to be able to explore a larger environment, and that is basically how ASTRO-NOT became a thing :) <br>ASTRO-NOT aims to lift some of the limitations of traditional 'gravity-lander' style games and to provide a community built speed running ecosystem.<h2 class=\"bb_tag\" >-RACING MODE-</h2>Racing mode allows players to create levels and compete for top times on the leader boards by racing against other players ghosts. Players can race against a ghost of their best time, or view and race against the global leaders. Replays are uploaded and attached to leader board entries and can be downloaded and viewed by other players. <br><br><br><ul class=\"bb_ul\"><li>Create levels and upload them to Steam Workshop with the in-engine level editor.<br></li><li>Replays attached to leader boards.<br></li><li>View, subscribe and rate levels on Steam Workshop.<br></li><li>Race against PB or WR ghosts.</li></ul><h2 class=\"bb_tag\" >-ADVENTURE MODE-</h2>In Adventure mode you'll have the freedom to explore a persistent open world, discover new and exciting locations, battle various enemies and leave your mark on the world.<br><br><br><ul class=\"bb_ul\"><li>Find and land on 66 handcrafted levels as you navigate your persistent, open-world asteroid field. <br></li><li>Use your hand-laser or ships weapons to mine for fuel. <br></li><li>Craft ships and structures to help you continue your journey. <br></li><li>Upgrade your ship and astronaut.<br></li><li>Fight enemies and destroy hazards.</li></ul>[WARNING] Adventure mode is still quite CPU intensive and performance depends almost entirely on the single core speed of your CPU. Anything ~3.8 GHz or above will work great. (I have put a ton of work into optimizing the system, although it is still at its core a simple application that does not use the power of the GPU). <br><br>Astro-not is the perfect game for anyone who loves space exploration, racing and a good challenge. Download it now on Steam and experience the ultimate in space exploration and racing gameplay!<br><br>Explore to the outer limits of this infinite thrust-based sandbox! <br>Can you make it to the outer ring?",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687560/da88049d730f674e47962288f44ef70beb3ca849/header.jpg?t=1758848600",
+    "developers": [
+      "Daniel Paul Griffin"
+    ],
+    "publishers": [
+      "Independant"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 9 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

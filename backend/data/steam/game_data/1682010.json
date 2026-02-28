@@ -1,0 +1,54 @@
+{
+  "1682010": {
+    "name": "Your Chronicle - Artwork Addition",
+    "steam_appid": 1682010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >本 DLC 在通关 “你的编年史 ”故事时会添加插图。</p><p class=\"bb_paragraph\" >每次通关故事都会显示一个小插图，通关 5 次即可完成。</p><p class=\"bb_paragraph\" >完成的插图会随机显示在开始屏幕上。</p><p class=\"bb_paragraph\" >过去显示的插图可以在 “编年史 ”选项卡中再次查看。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>目前添加的插图</u> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED1 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED2 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED3 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED4 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED5</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED6</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >ED7</p></li><li><p class=\"bb_paragraph\" >ED8</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* 你需要单独安装《你的编年史》产品版本。</p>",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1682010/header.jpg?t=1759449913",
+    "developers": [
+      "Samurai Games"
+    ],
+    "publishers": [
+      "Samurai Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    },
+    "type": "dlc"
+  }
+}

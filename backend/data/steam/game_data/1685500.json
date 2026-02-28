@@ -1,0 +1,70 @@
+{
+  "1685500": {
+    "name": "简单的跑酷(Simple parkour)",
+    "steam_appid": 1685500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "“简单跑酷”是一款简单的休闲跑酷游戏，游戏中的角色自动运行，玩家通过键盘W、a、S、D键操作角色跳跃，左右、上下避开障碍物。<br />\r\n遇到障碍会减少能量，并通过获取道具获得能量。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/header_schinese.jpg?t=1627038444",
+    "developers": [
+      "tree"
+    ],
+    "publishers": [
+      "tree"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "大眼怪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1685500/c1a7c612e11824049a85fa79c2a0a01ca3bd3268.jpg"
+        },
+        {
+          "name": "飞行恶魔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1685500/75b907ca42ecdf44c5ae54c94ef8d64186439ac4.jpg"
+        },
+        {
+          "name": "冰幽灵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1685500/22ab8396a1487dc203f3c10cddcf2f5943456d2b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

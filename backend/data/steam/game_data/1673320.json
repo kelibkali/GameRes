@@ -1,0 +1,82 @@
+{
+  "1673320": {
+    "name": "Survivor",
+    "steam_appid": 1673320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Survivor 是一款紧张刺激的基于波次的第一人称射击（FPS）生存游戏，将您置身于被不死生物横扫的末日竞技场中。您的任务是与朋友一起作为多人合作团队或单人玩家，对抗成群结队的僵尸，以保持生存。<br />\r\n<br />\r\n随着僵尸数量、速度和力量的增加，游戏变得越来越难以玩。您必须制定策略，保持不断行动，以避免被压倒。幸运的是，在每个回合之间，您会有短暂的休息时间，可以重新补充弹药和喘口气。<br />\r\n<br />\r\n体验真实的射击模拟，包括武器物理学、后坐力、弹道散布、伤害减少、瞄准和丰富的枪械定制和配件。<br />\r\n<br />\r\nSurvivor 中没有胜利条件，只有对抗无尽的吞肉怪兽的残酷和暴力的生存战斗。在被僵尸末日吞噬之前，您能坚持多久？",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1673320/header.jpg?t=1701307212",
+    "developers": [
+      "kolacape"
+    ],
+    "publishers": [
+      "kolacape"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

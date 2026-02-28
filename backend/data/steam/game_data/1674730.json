@@ -1,0 +1,57 @@
+{
+  "1674730": {
+    "name": "RGByte",
+    "steam_appid": 1674730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "RGByte 是一款专注于简单性和生产力的批量图像编辑软件。<br><br>有了它，您可以轻松地执行基本编辑并保存更改以备后用。<br><br><strong>可用资源：</strong><br><ul class=\"bb_ul\"><li>调整大小 - 专注于标准化<br></li><li>基本颜色调整<br></li><li>alpha 通道的修改（透明度） - 插入颜色或纹理的可能性<br></li><li>添加水印 - 指定位置和大小的徽标或图像<br></li><li>锐度和中值滤波器<br></li><li>通过脚本保存编辑<br></li><li>批量重命名<br></li><li>多线程的使用<br></li><li>所有选定的功能都应用于选定文件夹中的所有图像</li></ul><h2 class=\"bb_tag\" ><strong>细节：</strong></h2><strong>调整大小</strong><br>用于调整文件夹中多个图像的大小，保留所有图像的默认分辨率。您可以按宽度或高度调整大小，甚至可以选择最长或最短的一边作为更改的基础。调整大小功能对于标准化用于网站、分发甚至存储的图像很有用。它的重点是减少图像的尺寸。<br><br><strong>文件的质量和格式</strong><br>可以导出 PNG 和 JPG 格式的图像。<br>对于 JPG 文件，可以修改图像质量，从而修改文件大小，这对于通过电子邮件发送图像或什至需要向客户端发送样本时非常有用。<br><br><strong>基本颜色调整</strong><br>亮度、对比度、饱和度和伽玛。<br><br><strong>修改 alpha 通道（透明度）</strong><br>允许编辑 PNG 图像的 alpha 通道（透明度），可以插入纯色、棋盘纹理（自动生成）或插入图像（纹理）作为背景。<br>此编辑可应用于包含多个图像（PNG 或 JPG）的文件夹，不透明的图像不会受到编辑的影响。<br><br><strong>添加水印（插入徽标）</strong><br>可以在所选文件夹中的图像上插入徽标。徽标可以插入整个图像或特定位置。徽标也可以根据文件夹中图像的大小进行缩放，使其占据指定的百分比，这对于包含多种不同分辨率图像的文件夹非常有用。<br><br><strong>锐度和中值滤波器</strong><br>它具有锐度和中值滤波器（降噪器）<br><br><strong>批量重命名</strong><br>可以为图像定义一个新名称，在文件的末尾或开头添加一个单词和/或一个计数器（增加数字）。<br><br><strong>脚本编写</strong><br>进行必要的调整后，可以将编辑内容保存在一个文件（脚本）中，以便在需要时随时使用。只需打开包含要编辑的新图像的文件夹并打开脚本文件。<br><br><strong>支持的文件格式</strong><br>打开 JPG、PNG、BMP 和 GIF 文件。<br>导出为 JPG 和 PNG。",
+    "supported_languages": "英语, 葡萄牙语 - 巴西, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 日语, 波兰语, 俄语, 西班牙语 - 拉丁美洲, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674730/header.jpg?t=1721312274",
+    "developers": [
+      "RGByte Software"
+    ],
+    "publishers": [
+      "RGByte Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 23 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
