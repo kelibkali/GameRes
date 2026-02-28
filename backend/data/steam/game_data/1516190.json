@@ -1,0 +1,109 @@
+{
+  "1516190": {
+    "name": "A Hole In Space",
+    "steam_appid": 1516190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >癫痫警告</h2>如果您患有癫痫症，那么这款游戏可能不适合您。这是由于大量明亮的恒星会在你周围闪烁和旋转。<h2 class=\"bb_tag\" >描述</h2><br>《A Hole In Space》是一款慢节奏的太空模拟游戏。你控制了一个在你创造的宇宙中漫游的小黑洞。<br><br>运动缓慢而缓慢，因为一切都是通过力量运动的。加速所需的时间与减速所需的时间相同。因此不建议以最大速度飞行。<br><br>你吸收整个宇宙所需的时间取决于你想要在你的宇宙中有多少颗恒星。你的宇宙可以有 100 到 1000 万颗恒星，但前提是你的 PC 能够聚集足够的能量。<h2 class=\"bb_tag\" >目标</h2><br>目标是吸收整个宇宙。<br><br>1.吸收其他恒星获得质量。<br>2. 如果您的质量较大，则吸收中央黑洞。<br>3.吸收宇宙的其余部分。<br>4. 享受大爆炸！<br><br>如果你被另一个黑洞吸收，你就输了。如果您以较小的质量接近它们，就会发生这种情况。<h2 class=\"bb_tag\" >职能</h2><br><ul class=\"bb_ul\"><li>由于程序生成，每个宇宙都是独一无二的。<br></li><li>尽管如此，使用种子与他人分享你的宇宙。<br></li><li>他们可以在他们的宇宙中创造多达 100 个星系或超大质量黑洞。<br></li><li>星系可以是静态的也可以是动态的，这意味着它们要么保持原位，要么相互吸引。<br></li><li>整个宇宙可以包含多达 1000 万颗恒星，但前提是您的 PC 有足够的功率。<br></li><li>您可以打开或关闭星星的引力。如果禁用此功能，则帧速率将随星数线性降低。否则帧率会二次下降。因此，最大星数减少到 100K。<br></li><li>恒星可以从零开始，也可以以第一宇宙速度开始，即它们在围绕中心黑洞的轨道上飞行。<br></li><li>您可以打开“意大利面条化”以将星星撕成小块。<br></li><li>有7种雾背景可供选择，不影响模拟。<br></li><li>有 9 种不同的星系形状可供发现：随机、圆形、立方体、球体、八面体、螺旋 2 臂、螺旋 4 臂、螺旋 8 臂、星<br></li><li>在玩家的黑洞和星系视图之间切换，以获得更好的宇宙视图。</li></ul><h2 class=\"bb_tag\" >技术方面</h2>对于这个游戏，我使用了 Unity 的面向数据的技术堆栈 (DOTS) 以及实体组件系统 (ECS)、C# 作业系统和 Burst 编译器。<br><br><br>但是，我没有使用 Unity 物理。相反，我根据经典牛顿力学、质心模型、矢量数学和叠加原理创建了自己的模型。未实施更高级的 Schwarzschild 指标。<br><br>为了稳定的碰撞检测和避免无穷大，实现了所有对象的最大速度和空间限制。所以没有一颗星星可以消失在无穷远中，否则会导致游戏无法完成。<h2 class=\"bb_tag\" >结语</h2><br>如果您有任何想法、批评、反馈或发现任何错误，请在 Steam 论坛上告诉我。<br><br>玩得开心，享受空虚！",
+    "supported_languages": "英语, 德语, 法语, 意大利语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 繁体中文, 简体中文, 丹麦语, 芬兰语, 希腊语, 日语, 韩语, 荷兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 瑞典语, 泰语, 捷克语, 土耳其语, 乌克兰语, 匈牙利语, 越南语, 南非语, 巴斯克语, 白俄罗斯语, 爱沙尼亚语, 希伯来语, 印度尼西亚语, 冰岛语, 塞尔维亚语, 斯洛伐克语, 斯洛文尼亚语, 拉脱维亚语, 立陶宛语, 加泰罗尼亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516190/header.jpg?t=1771773421",
+    "developers": [
+      "Clever AI"
+    ],
+    "publishers": [
+      "Hoi 4 ED"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 20300,
+      "final": 20300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 203.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Absorbed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/a09396c61866aa178ff8561194834da74fd1198f.jpg"
+        },
+        {
+          "name": "Big Bang",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/5a62d6f304e93aba4c993456cfd394e30c244d0f.jpg"
+        },
+        {
+          "name": "10K Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/1b5bfaa52d784357c81c0ad66384658b88b8037e.jpg"
+        },
+        {
+          "name": "100K Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/a31749ae6e402838f4b41c0315dd98848c586133.jpg"
+        },
+        {
+          "name": "1M Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/7800cc75b6f564a9f6ee2c2511ec3be99f26093e.jpg"
+        },
+        {
+          "name": "10M Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/c04a16931a3ad8dbb064f7a683e04c764c5e8d0f.jpg"
+        },
+        {
+          "name": "100M Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/debed7021af56670bedaf202746da1bf6e3af573.jpg"
+        },
+        {
+          "name": "1B Stellar Mass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/9dce0d405ce61b4602e67289aeebd921d4a27e2e.jpg"
+        },
+        {
+          "name": "Rules of the Universe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1516190/4109844c25a4314bc352bd034639dbf9afa3e61f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

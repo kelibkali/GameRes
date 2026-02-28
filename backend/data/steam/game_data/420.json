@@ -1,0 +1,150 @@
+{
+  "420": {
+    "name": "Half-Life 2: Episode Two",
+    "steam_appid": 420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Half-Life® 2: Episode Two 是 Valve 开发的新游戏三部曲中的第二部，将延续备受赞誉的最畅销的 Half-Life® 冒险游戏。<br />\r\n\t\t\t\t\t作为 戈登.弗里曼博士，您被目睹与爱莉克斯.凡斯最后离开 17 号城，因为城堡中爆发了一场不知范围大小的风暴。 在 Episode Two 中，您必须在穿过白森林时与联合军进行战斗，并将从城堡窃取的重要信息包递送给同伴援助科学家。<br />\r\n\t\t\t\t\tEpisode Two 用独特的武器、工具和新兴生物延续备受赞誉的 Half-Life 游戏。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 俄语<strong>*</strong>, 丹麦语, 荷兰语, 芬兰语, 意大利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 简体中文, 西班牙语 - 西班牙<strong>*</strong>, 瑞典语, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420/header.jpg?t=1745368556",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 65,
+        "description": "字幕选项"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "酸性反射",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_kill_poisonantlion.jpg"
+        },
+        {
+          "name": "拿些幼虫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_kill_allgrubs.jpg"
+        },
+        {
+          "name": "皮纳塔派对",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_break_allwebs.jpg"
+        },
+        {
+          "name": "进入裂口",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_beat_antlioninvasion.jpg"
+        },
+        {
+          "name": "半价",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_beat_antlionguards.jpg"
+        },
+        {
+          "name": "打了就跑",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_kill_enemies_withcar.jpg"
+        },
+        {
+          "name": "遇见捕食者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_beat_hunterambush.jpg"
+        },
+        {
+          "name": "直接命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_kill_chopper_nomisses.jpg"
+        },
+        {
+          "name": "火炮惩罚！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_kill_combinecannon.jpg"
+        },
+        {
+          "name": "隐蔽探索器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/ep2_find_allradarcaches.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1328,
+      "total_negative": 64,
+      "total_reviews": 1392
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "899090": {
+    "name": "Ricecakers",
+    "steam_appid": 899090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "米糕怪乱斗是一款简单欢乐的打斗休闲游戏。玩家控制他们的米糕怪物在不同的场景中互相攻击打闹，通过挥舞双手或武器来与机器人控制的米糕怪乱斗取乐或是与朋友们一起来一场聚会式的友谊加强大作战。<br />\r\n<br />\r\n每局游戏开始时，玩家都会被分配一个蠢萌的米糕怪物做为他们的战斗傀儡。拾取地上的武器可以让米糕们变得更强。挥舞双手或武器来攻击敌人并且要留意环境中的陷阱与危险以防止被秒杀。米糕怪物的表情表达了它们的生命情况，越是糟糕的表情表明它现在越惨。<br />\r\n<br />\r\n游戏支持单人模式，玩家可以殴打机器人控制的米糕怪物来取乐。游戏也支持其他的多人模式使玩家可以与朋友们一起娱乐增进友谊。<br />\r\n<br />\r\n这款独立游戏是我自己开发的个人作品。",
+    "supported_languages": "英语, 简体中文, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899090/header.jpg?t=1575251264",
+    "developers": [
+      "FENGYAPING"
+    ],
+    "publishers": [
+      "FENGYAPING"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "胜利者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/972369b3478c0609e6471531fb8ba24ee00dcf76.jpg"
+        },
+        {
+          "name": "我比较强",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/ddc02e6b3d6cf928b9f6837ad4009a353b6ee330.jpg"
+        },
+        {
+          "name": "激光行者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/9378aade3c18a6a0178098c30f4255e72de008c7.jpg"
+        },
+        {
+          "name": "搬运工",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/2abb41e283068482af39c5eb8da6a8e2e9bea81e.jpg"
+        },
+        {
+          "name": "我是个工人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/45b0bd5391bb4788e3b9e7375af8d26e437d7d6d.jpg"
+        },
+        {
+          "name": "跳上屋顶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/cc75d9dc28721f03a4d9090abfbcc160e5b1ad0a.jpg"
+        },
+        {
+          "name": "探险家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/01595b72042e4109d60e3d6f8e85e417f90c4e53.jpg"
+        },
+        {
+          "name": "领主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/97083822f9430508426e21620078496847ff8d65.jpg"
+        },
+        {
+          "name": "也许是公主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/67e06659ef78ccf91870ec7736966343d045a024.jpg"
+        },
+        {
+          "name": "矿务人员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/899090/fe0ae1448a91dd24e55b9cbfe6dcab535648a4b6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

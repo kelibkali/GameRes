@@ -1,0 +1,61 @@
+{
+  "1544040": {
+    "name": "Medieval Shop Simulator",
+    "steam_appid": 1544040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Your personal medieval store, customize it however you want it.<br />\r\nCreat workbenches, and you can craft weapons and armor, shields, potions, etc.<br />\r\nafter which you can sell them in your store to earn gold.<br />\r\nImprove your crafting skills, and create more expensive items.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544040/header.jpg?t=1632798770",
+    "developers": [
+      "Igor Borisov"
+    ],
+    "publishers": [
+      "Igor Borisov"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

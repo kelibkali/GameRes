@@ -1,0 +1,69 @@
+{
+  "1206800": {
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport Vitoria-Foronda XP",
+    "steam_appid": 1206800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The airport of Vitoria (ICAO: LEVT) is a Spanish airport managed by AENA, built in 1980. It’s located 8 kilometers from the city center next to the village Antezana de Foronda, this is the reason why it’s known as Foronda Airport.<br><br>This airport has regular passenger flights operated by Ryanair, but it’s mainly used for cargo transport, with airlines like Swiftair, DHL and ASL Belgium operating from there. It’s Spain’s 4th cargo airport according to the amount of cargo handled. In addition to this, the airport receives a lot of charter traffic, both from cargo and passenger airlines.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206800/extras/5d75590246c1db446e324a2c5681b379.webp?t=1620991844\" width=616 height=61 /></span><br><ul class=\"bb_ul\"><li>750 square kilometers of 1 meter per pixel ortho-imagery, with dynamic snow when the temperature is below 0 degrees<br></li><li>30 cm per pixel orthoimagery inside the airport<br></li><li>5-10 cm per pixel hand-crafted orthoimagery in the car parkings<br></li><li>PBR implementation (Buildings and ground textures)<br></li><li>High-resolution building textures with baked in ambient occlusion (and PBR)<br></li><li>Custom vegetation for the entire ortho<br></li><li>3D vegetation inside the airport itself<br></li><li>Custom autogen for the villages of Estarrona, Gereña, and Antezana de Foronda<br></li><li>Custom ground service vehicles (SAM AirportVehicles required)<br></li><li>Custom weather effects<br>- Custom rain effects:<br>If it is raining when loading the airport, rain overlay will appear</li></ul>",
+    "supported_languages": "英语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206800/header.jpg?t=1620991844",
+    "developers": [
+      "Stairport Sceneries"
+    ],
+    "publishers": [
+      "Aerosoft GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

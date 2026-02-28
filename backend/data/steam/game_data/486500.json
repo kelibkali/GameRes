@@ -1,0 +1,141 @@
+{
+  "486500": {
+    "name": "Spooky Heroes",
+    "steam_appid": 486500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Play as a knight who tries to unveil the mystery behind the spooky events occurring lately : Undead rising at night, hordes of goblins, orcs, tritons, elves, yetis and heretics suddenly becoming hostile, monstrous creatures blocking the path of travelers... Enroll new heroes on the way, each with their own powers and way to play. Earn money by slaying monsters, completing quests or finding treasure chests and spent it in villages to buy items which will help you on your journey. Be careful at night as foul horrors will rise and block your path. Ride boats and dragons, explore underwater caves and travel in more unique locations in this 2D casual platform game.<br><br><strong>Features :</strong><br><ul class=\"bb_ul\"><li>9 unique heroes with 3 basic powers, 1 ultimate power and 1 passive each. <br></li><li>19 unique stages and 5 villages to explore <br></li><li>Dynamic day and night cycle <br></li><li>Dynamic monsters spawn &amp; traps <br></li><li>Earn money by solving quests, killing enemies and boss or finding chests <br></li><li>22 enemies with their own powers and passives (18 of them being playable too) <br></li><li>13 boss with their unique powers and strategies <br></li><li>22 quests to solve split in 5 main categories : Hunt, Timed Collect, Slay &amp; Collect, Race, Ambush <br></li><li>21 unique items to help you on your journey <br></li><li>3 unique vehicles to ride + 1 baby dragon ! <br></li><li>2 players in local coop <br></li><li>Keyboard keys customization (but controller is HIGHLY advised) <br></li><li>Controller support (and HIGHLY advised) <br></li><li>Survival mode with 2 sub modes : <br><ul class=\"bb_ul\"><li>Cooperation where 2 players must survive as many waves as possible <br></li><li>Competition mode where the second player can control any monsters on screen and must defeat the first player as soon as possible </li></ul></li><li>Each village offers 5 buildings :<br><ul class=\"bb_ul\"><li>The smith to buy armors <br></li><li>The item shop to buy item unique to each village <br></li><li>The restaurant to buy food to heal yourself on your journey <br></li><li>The bank to store your hard earned money <br></li><li>The inn to sleep till night or morning</li></ul> </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486500/header.jpg?t=1467631068",
+    "developers": [
+      "Gaweb Studio"
+    ],
+    "publishers": [
+      "Gaweb Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "First blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/8fa8ceac5d9df96c270b2de730033dfd35a33f99.jpg"
+        },
+        {
+          "name": "Rift sealer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/8d781ae2c357e27eabee3daed736ad2f8d0142ee.jpg"
+        },
+        {
+          "name": "Boss killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/abe8fbf80a61ad3457e8f9aacfd5f3cc02fa66c9.jpg"
+        },
+        {
+          "name": "Your money is safe with us",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/ccd0cebc3975c53edd1f9ddd632b46f95b8dbc02.jpg"
+        },
+        {
+          "name": "Princess rescue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/66aacd9f1dd76aad847b4d241aad6e38e83cd344.jpg"
+        },
+        {
+          "name": "Spooky Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/506f28e5475679d22192be9e6e81ab1933a872e9.jpg"
+        },
+        {
+          "name": "Holy faith",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/ad678fa874e3ee400359b2bcbc3a13b3cd0b662b.jpg"
+        },
+        {
+          "name": "Monster slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/7f8c01d40910ce8ca5d247b77dbcb316ff5e04ad.jpg"
+        },
+        {
+          "name": "Quest expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/b07a2ca38fd10c5258079da0b162932832a554ce.jpg"
+        },
+        {
+          "name": "Mother of dragons",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/486500/8e786803a42e0853435031d1bc7efcb717eacaac.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

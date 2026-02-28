@@ -1,0 +1,93 @@
+{
+  "1595280": {
+    "name": "卡牌缔造者-CardMaker",
+    "steam_appid": 1595280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >概述：</h2>这是一款以爽快为主的Rogue + 类炉石的卡牌游戏。游戏内即可订阅创意工坊，可以玩到大量的玩家作品。游戏还有独特的强化系统，让你随从穿上圣衣去打架。最后你还可以制作自己的卡牌。<h2 class=\"bb_tag\" >特点：</h2><ul class=\"bb_ul\"><li>游戏内即可订阅创意工坊，可以玩到大量的玩家作品<br></li><li>独特的强化系统，让你随从穿上圣衣去打架<br></li><li>灵活易用的底层框架，可供你实现自己的卡牌</li></ul><br>-不同于以往卡牌类Rogue游戏以技能卡为主，而是以生物驱动的战斗为主。也方便玩家DIY扩展各种有趣的生物。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595280/extras/5951952659e9e8c46323aefb98c3ce11.avif?t=1690150013\" width=600 height=438 /></span><br><br>-丰富的卡牌机制，各式生物异能，而且这些还可以拓展<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595280/extras/d65726d1b428b1be4c6cd456cdc1b9bc.avif?t=1690150013\" width=600 height=162 /></span><br><br>-简易灵活的接口，一张图几行代码，几分钟实现一张有趣的卡牌<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595280/extras/7cb46e6381e508c5270ccc4ab481f674.avif?t=1690150013\" width=600 height=438 /></span><br><br>测试qq群：458496248",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595280/header.jpg?t=1690150013",
+    "developers": [
+      "oldhc"
+    ],
+    "publishers": [
+      "oldhc"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "通关难度1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1595280/aaaee14e69a37222fed5c16eb010af915b705001.jpg"
+        },
+        {
+          "name": "通关难度2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1595280/e0eb466527a2b668a345575c745ded2fb7f3a227.jpg"
+        },
+        {
+          "name": "通关难度3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1595280/0f96420c77547e391de8338e4db80d3734007b34.jpg"
+        },
+        {
+          "name": "通关难度4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1595280/0f7d55db2f918b4f2609a54963ac63984f29961b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 119,
+      "total_negative": 59,
+      "total_reviews": 178
+    }
+  }
+}

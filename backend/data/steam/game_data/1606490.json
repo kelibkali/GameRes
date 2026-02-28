@@ -1,0 +1,77 @@
+{
+  "1606490": {
+    "name": "躁动光标",
+    "steam_appid": 1606490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "我总是想把光标变得更加好玩及有用，所以设计了这个软件！将你的光标替换成Mod！<h2 class=\"bb_tag\" >特性</h2><ul class=\"bb_ul\"><li>将光标调整到任意大小或旋转到任意值！<br></li><li>在不需要它的时候能够<strong>隐藏</strong>！在看视频或网页时非常方便！<br></li><li>它在无聊的时候还会<strong>闲逛</strong>！<br></li><li>支持<strong>分屏</strong>！<br></li><li>响应<strong>音频</strong>！<br></li><li>按中键可能有惊喜！！<br></li><li>......</li></ul><h2 class=\"bb_tag\" >基本操作</h2><ul class=\"bb_ul\"><li>《用户指南》网页版（需要VPN或某某加速器）、《用户指南》PDF版<br></li><li>单击任务栏中的AliveCursor图标可打开主页面。在“已下载”栏可以更改主题（支持离线使用），在“创意工坊”栏可浏览并下载在线主题。<br></li><li>当换肤页面打开时，按住Tab可临时隐藏该页面方便查看光标外形。<br></li><li>双击右Ctrl键可<strong>高亮光标</strong>。</li></ul><h2 class=\"bb_tag\" >联系方式</h2>如果你有什么运行问题或建议，请先通过客服电子邮件联系我。我重视每一个留言并会尽快回复，谢谢大家支持国货！<br><ul class=\"bb_ul\"><li>QQ官方交流群：673880395<br></li><li>Bilibili: Threeyes</li></ul><h2 class=\"bb_tag\" >常见问题及解决方案【非常重要！】</h2><ul class=\"bb_ul\"><li>首次运行时360等杀毒软件可能会弹出拦截窗口：因为本软件使用GlobalHook插件获取鼠标输入，点击允许即可。<br></li><li>程序闪退导致系统光标消失：在&quot;Windows系统设置-鼠标-调整鼠标和光标大小&quot;栏中任选一个光标皮肤进行重置。<br></li><li>Steam或GeForce Experience的游戏内覆盖功能可能会导致该程序显示异常（表现为程序打开后会弹出置顶的小窗口），请关闭这类弹窗。如果打开应用时右下方出现一个Steam小窗口，可以通过这种方式禁用：在运行应用前，打开Steam库，右键点击本应用，选择属性/通用，然后取消勾选[在游戏中启用 Steam 界面]。<br></li><li>如打开后出现全屏<strong>黑屏</strong>现象：请先按下”Windows“键打开任务栏，通过通知栏图标退出该程序，然后打开 Nvidia控制面板 ，关掉针对该程序的“平滑处理 - FXAA”（可以在“程序设置”中指定该应用的画面设置，或在“全局设置”中直接关闭对应选项）。<br></li><li>残影问题：因为光标是一个高速移动的物体，因此在<strong>高刷新率</strong>及<strong>低响应时间</strong>的显示器上会有更好的效果。<br></li><li>输入延迟/卡顿问题：在&quot;设置界面&quot;中关掉&quot;垂直同步&quot;，并调高&quot;目标帧率&quot;。你也可以通过Steam找到该程序的安装位置，右键点击可执行文件AliveCursor.exe的“属性”项，在“兼容性”选项卡中勾选“禁用全屏优化”并保存。<br></li><li>系统光标会在该应用运行时隐藏，并在其退出前恢复，因此关机或注销时请等待其完全退出。如果程序意外退出导致系统光标无法显示，重新打开该应用即可。<br></li><li>设置未保存：关掉程序，通过启动器找到该程序安装目录，删掉该目录中的“Data/Save/Setting&quot;文件夹，然后重新运行程序。<br></li><li>如果其他应用/控件的属性为“置顶”（如 任务管理器、开始菜单或右键菜单），那么他们会遮挡该应用，虽然以管理员模式运行该应用可以提高权限，但这是无法避免的。我这边一直在找有效解决办法，欢迎各位大牛提供思路。</li></ul>",
+    "supported_languages": "英语, 简体中文, 法语, 意大利语, 德语, 阿拉伯语, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606490/header_schinese.jpg?t=1735804076",
+    "developers": [
+      "Threeyes"
+    ],
+    "publishers": [
+      "Threeyes"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

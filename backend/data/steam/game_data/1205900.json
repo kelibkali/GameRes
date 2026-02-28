@@ -1,0 +1,117 @@
+{
+  "1205900": {
+    "name": "Alwa's Legacy",
+    "steam_appid": 1205900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205900/extras/21d399dd9fc83f6cd90b9c90977c53ef.poster.avif?t=1705323543\" ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205900/extras/21d399dd9fc83f6cd90b9c90977c53ef.webm?t=1705323543\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >充满了魔法、秘密和探索的现代复古冒险游戏！</h2><br>《Alwa’s Legacy》是一款现代复古风格游戏，充满了危险的地牢、神秘的物品和古代的秘密。在这个充满探索的非线性冒险游戏中，你要升级魔法并选择自己的道路。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205900/extras/97e9a05d9b205a2c7185d7c9658df46f.webp?t=1705323543\" width=620 height=24 /></span><h2 class=\"bb_tag\" >自定义玩法</h2><ul class=\"bb_ul\"><li>用我们的智能升级系统选择你希望的游戏方式——无论是偏重探索、无畏战斗还是精于策略，都由你决定!</li></ul><h2 class=\"bb_tag\" >探索会有回报</h2><ul class=\"bb_ul\"><li>不遗余力地探索! Alwa 的世界充满了秘密，你需要深入探究大量的谜题才能找到它们。</li></ul><h2 class=\"bb_tag\" >非线性的体验</h2><ul class=\"bb_ul\"><li>将你的探索与不同的物品升级相结合，在冒险过程中找到你自己的方式。</li></ul><h2 class=\"bb_tag\" >惊人的画面和声音</h2><ul class=\"bb_ul\"><li>享受利落的像素画风与现代效果的搭配，以及由卓越的 8bit 音乐人 RushJet1 创作的迷人音轨</li></ul><h2 class=\"bb_tag\" >挑战在等待</h2><ul class=\"bb_ul\"><li>许多具有挑战性的房间需要快速反应通关，通过易于改变的设置，任何人都可以享受《Alwa’s Legacy》！</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205900/extras/3c208d43ceade8fe2b1d74ec3cbbafc7.avif?t=1705323543\" width=620 height=158 /></span>",
+    "supported_languages": "英语, 瑞典语, 法语, 德语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲, 日语, 韩语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205900/header.jpg?t=1705323543",
+    "developers": [
+      "Elden Pixels"
+    ],
+    "publishers": [
+      "Elden Pixels"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 6800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 68.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "释放",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/969026bce59334280538a9e1cb1f7a6bbf5cf154.jpg"
+        },
+        {
+          "name": "礼仪之道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/0351ff11a7c6b0bc4aeaef1f42347d0a405c6d99.jpg"
+        },
+        {
+          "name": "灭绝",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/a3a14abd71f25debd5da2dd3aca4bb6f1a09c7d5.jpg"
+        },
+        {
+          "name": "饥饿眼神",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/5d8babda66ffd528491964e828c71b50be5e1bd6.jpg"
+        },
+        {
+          "name": "至善论者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/b2bb0432c1d0f28d83eb16fe84e80e3fedbed447.jpg"
+        },
+        {
+          "name": "魔法师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/d015b4db4c0cec9141ec27bc47e80696410341d2.jpg"
+        },
+        {
+          "name": "和平信鸽",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/7cb3bfe8eff55eca6e3286a1e8098ce99e2afe02.jpg"
+        },
+        {
+          "name": "巨大成功！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/b130f6cb57e22e59c33f72816ca0b122436e33bf.jpg"
+        },
+        {
+          "name": "骑士的艰难",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/f75394c772f0b1233fc7ccd9134979f2729653e7.jpg"
+        },
+        {
+          "name": "平静",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205900/4271e2a656319a8b2e8e82db2731c381a3a47850.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 27,
+      "total_negative": 7,
+      "total_reviews": 34
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "1291740": {
+    "name": "Vertical Runner",
+    "steam_appid": 1291740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dodge the walls by moving up and down as the game speeds up and get the highest score!<br />\r\nThe longer you survive the more points you get, but beware as obstacles speed up too!<br />\r\nVertical Runner is an infinite runner game.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1291740/header.jpg?t=1588909598",
+    "developers": [
+      "Barlow Studio"
+    ],
+    "publishers": [
+      "Barlow Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "250",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1291740/85d246bee3ccef518b4d276db56bd4efb562177d.jpg"
+        },
+        {
+          "name": "500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1291740/d7ca9b90cdb1bd70d1b1fc67921e2a4dd2a5c814.jpg"
+        },
+        {
+          "name": "1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1291740/5d68f9983db0d1e878a769e3d36f15085aeb11f6.jpg"
+        },
+        {
+          "name": "2500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1291740/2f686914174743311e89263b00d848f533bb639b.jpg"
+        },
+        {
+          "name": "5000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1291740/c4b85d4ca685ec03fa5868ff81b4cb702fd979d0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

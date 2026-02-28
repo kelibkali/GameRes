@@ -1,0 +1,58 @@
+{
+  "388600": {
+    "name": "articy:draft 3 - Flex License",
+    "steam_appid": 388600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Flex license - What's this?</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388600/extras/f27fae33908f88dd6d9019784e96f35d.avif?t=1701172694\" width=608 height=200 /></span><h2 class=\"bb_tag\" >Full-featured and easy on the purse!</h2><br>This license gives you <strong>all single user features</strong> of the most recent articy:draft version, incl. the <strong>commercial use right</strong>. It's <strong>flexible</strong>, because you only pay a low monthly fee and can cancel your subscription each month. If you pay on a yearly basis, you get an even lower rate.<h2 class=\"bb_tag\" >About articy:draft</h2><br>articy:draft is a visual environment for the creation and organization of game and story content - such as non-linear storylines, branching dialogues, level layouts or character and item databases. All content can be exported into various formats - including JSON, XML and Microsoft Office. With version 3 and higher. you can also integrate your content easily into Unity and unreal with the comprehensive articy:draft Unity Importer, respectively Unreal Importer<br><br><strong><u>Features</u></strong><br><ul class=\"bb_ul\"><li>Plan non-linear stories<br></li><li>Write branching conversations<br></li><li>Control game logic with variables and conditions<br></li><li>Simulate your story content to find problems early on<br></li><li>Manage large amounts of game objects (characters, items, ...) <br></li><li>Sketch locations and communicate level ideas<br></li><li>Document your game in detail<br></li><li>Export to Word<br></li><li>Export &amp; Import to Excel for localization<br></li><li>Export to JSON or XML to integrate your content <br></li><li>Integrate your content in Unity and Unreal easily<br></li><li>Commercial Usage<br></li><li><i>and more…</i></li></ul><br><strong><u>Story, Mission &amp; Quest Design</u></strong><br>articy:draft makes the creation of interactive, branching content easy. It’s perfect for your narrative structure design. Each node in your story or mission flowchart can contain an inner flowchart. For example, you can start with a top-level chapter-like structure and break it down into further and further until reaching single lines of dialogue. This nested approach ensures clean and organized flowcharts.<br><br>Finally, use the simulation mode to test your flow logic before you export it. By using variables, conditions and instructions you can control the flow your game. For instance, if you want a line of dialogue only to show up when certain conditions are fulfilled.<br><br><strong><u>Unity and Unreal Integrations</u></strong><br>Boost your iteration process. Our comprehensive engine plugins get your content ready to use with Unity or Unreal with just a few clicks.<br><br><strong><u>Game Object Database</u></strong><br>articy:draft includes a powerful game object database with a flexible template system. Build everything, from characters, items, spells to weapons and skills. Create your objects as templates and use them wherever you need them.<br><br><strong><u>Use And Create Plugins</u></strong><br>Automate tasks and customize workflows by using custom plugins. The Macro Devkit enables you to develop your own plugins fast and easily.<br><br><strong><u>Location Planning</u></strong><br>With its build-in location editor, a vector-based 2D drawing tool, you can easily plan your game world and single levels. This editor is an iteration-friendly sketching tool for maps and scenarios. You can place story events, spawn points and trigger zones on the map for planning purposes. For some game genres, the location editor can even produce the actual game output. For example 2D layer-based backgrounds for point’n’click adventures or hidden object games.",
+    "supported_languages": "英语, 德语, 西班牙语 - 西班牙, 俄语, 意大利语, 波兰语, 韩语, 葡萄牙语 - 巴西, 法语, 乌克兰语, 日语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388600/header.jpg?t=1701172694",
+    "developers": [
+      "Articy Software"
+    ],
+    "publishers": [
+      "Articy Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 10 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

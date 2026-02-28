@@ -1,0 +1,117 @@
+{
+  "1206060": {
+    "name": "Happy Game",
+    "steam_appid": 1206060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.poster.avif?t=1771101453\" width=600 height=206 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.webm?t=1771101453\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/extras/cd47e9e21affbf9bd9c398c08e7faab4.mp4?t=1771101453\" type=\"video/mp4\"></video></span><br><br><i>一位小男孩沉睡进入了可怕的噩梦。你能让他回归幸福快乐的生活吗？</i><br><br>- 全新的迷幻恐怖冒险游戏，由《植物精灵（Botanicula）》和《毛线先生（CHUCHEL）》的创作者倾心打造<br>- 体验三个难以忘怀的噩梦，并设法从中逃脱<br>- 在（不那么）迷人的环境中破解令人深感不安的谜题<br>- 对付可疑的笑脸和粉红色小兔子<br>- 由捷克异类民谣乐队 DVA 创作的惊悚歌曲以及尖叫声",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 捷克语<strong>*</strong>, 荷兰语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 繁体中文<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206060/header_schinese.jpg?t=1771101453",
+    "developers": [
+      "Amanita Design"
+    ],
+    "publishers": [
+      "Amanita Design"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 1360,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 68.00",
+      "final_formatted": "¥ 13.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "The Happy Wall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/f8c69a7b10239c9e75b102e165ebc8f35509012c.jpg"
+        },
+        {
+          "name": "Heads Off!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/08cb771a0ab8b741e8e41e870f02bdb1871dd922.jpg"
+        },
+        {
+          "name": "Bedtime Stories",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/d746f09f310a7073992503139865dad11e34caae.jpg"
+        },
+        {
+          "name": "Baller",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/85004c2129e5987e8860dc3430cb2a1611c7e93f.jpg"
+        },
+        {
+          "name": "Licking the Blade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/4204f51b6fa4186fd8cdf4072e66bbc899200ddb.jpg"
+        },
+        {
+          "name": "Heart-Attack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/77b0ed15ceced5b8a5d7d22007a9df38152cd15c.jpg"
+        },
+        {
+          "name": "Bunny Patty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/4f697b2595b746c850ebc7528c33479dd72df9b3.jpg"
+        },
+        {
+          "name": "Smile!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/efc24b30b9e3123cc12f5df771919a48ab8b865c.jpg"
+        },
+        {
+          "name": "Thunderstruck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/45bef5b511464e9746d656dd98766289fd3ebd95.jpg"
+        },
+        {
+          "name": "Seven Stones",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1206060/101714e62dd7cd9afd8f0f64d304c5c965e25825.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 522,
+      "total_negative": 43,
+      "total_reviews": 565
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "1426570": {
+    "name": "51号太空站",
+    "steam_appid": 1426570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《51号太空站》是一款使用虚幻引擎5抢先版开发的FPS丧尸射击类游戏，使用了卡通风格的建模，但也能够体验到射击的快感。<br><br>游戏的背景是在太空站上，51号太空站中出现了未知的丧尸病毒，感染了所有成员。<br>你需要根据游戏任务提示，完成操作，还需要搜索武器、弹药等，射击杀死51号太空站中的丧尸，然后根据指引重启太空站。<br>武器有自动步枪、手枪。<br>还可以使用近战小刀，手榴弹等。<h2 class=\"bb_tag\" >关于硬件要求</h2><strong>（非常重要：需要使用最新显卡驱动并支持DirectX 11/12)</strong><br>游戏使用<strong>虚幻引擎5抢先体验版</strong>进行开发，虽然都是低模，但仍然使用了<strong>Nanite</strong>与<strong>Lumen</strong>。这是对新技术的一次尝试，但同时也带来了一些电脑硬件上的要求。因为本身就是低模，所以你的电脑是否支持Nanite这其实没有多大影响，关键是Lumen的要求：需要支持DirectX 11和Shader Model 5的显卡。<br>官方文档中对Lumen的要求是需要NVIDIA GeForce GTX-1070或更高配置。所以我在最低配置中设置需要的显卡为1070。<br>对CPU的要求较小，没有什么特殊要求。<br>在未来的更新中或许能有更多的低配显卡支持，但现在我无法给出保证。<br><br><br><strong>会添加多人模式吗？</strong><br>如果想保证联机游戏的质量，这需要很多成本布置游戏独立服务器，对我个人来说是一个很大的负担。<br>但如果许多人都希望能够进行联机，那我肯定会去增加多人联机部分，不过这至少需要一到两个月的时间。<br><br><br>因为我是一个人在制作独立游戏，开发时间比较紧，所以只有这一个版本。但如果有多数玩家进行反馈，大家需要一个可以在更低配置中运行的版本，那么我一定会在短时间内改出一个不使用Nanite与Lumen的版本供已购买的玩家直接下载。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426570/header.jpg?t=1646460389",
+    "developers": [
+      "YZ"
+    ],
+    "publishers": [
+      "YZ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

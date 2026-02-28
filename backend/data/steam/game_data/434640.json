@@ -1,0 +1,78 @@
+{
+  "434640": {
+    "name": "Mu Complex Demo",
+    "steam_appid": 434640,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434640/header.jpg?t=1453797642",
+    "developers": [
+      "studiocime"
+    ],
+    "publishers": [
+      "studiocime"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Password",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/434640/f210b8802f957c0ec42d1f2abd9c8099afeb8829.jpg"
+        },
+        {
+          "name": "Late for work.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/434640/da8f1b86a4fb4d28deac0b399ff43369970aa538.jpg"
+        },
+        {
+          "name": "A piece of lie?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/434640/574eb34d60b24c0364a84ad498ffbc2d3ae032a2.jpg"
+        },
+        {
+          "name": "Cat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/434640/0873ba474d0f4a3f51b1013c702c32620d585462.jpg"
+        },
+        {
+          "name": "Not that young.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/434640/69926ea8cf4a9b691dacd9036c7e1e4831214a38.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

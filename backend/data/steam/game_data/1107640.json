@@ -1,0 +1,113 @@
+{
+  "1107640": {
+    "name": "Turbo Plane",
+    "steam_appid": 1107640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>What to expect:</strong><br>Turbo Plane is a small highscore-chaser where the goal is to get the highest score possible until you crash to beat your personal best and rank up on the leaderboards.<br><br><strong>Gameplay:</strong><br><ul class=\"bb_ul\"><li> Your plane can not stop moving and gets faster as time passes.<br></li><li> You can steer left, right, down and activate an updraft to avoid crashing.<br></li><li> The goal is to survive as long as you can and collect as many points as possible.<br></li><li> The level is divided into multiple stages getting increasingly difficult.</li></ul><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> Easy to learn controls.<br></li><li> Different music related to the different stages of the level.<br></li><li> Steam leaderboard integration.<br></li><li> Steam Achievements.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1107640/header.jpg?t=1565888409",
+    "developers": [
+      "HappyFields"
+    ],
+    "publishers": [
+      "HappyFields"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Stage Two",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/f0b07195a1c9ab3e35ab31f3779f42e7d00d4e91.jpg"
+        },
+        {
+          "name": "Stage Three",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/d0ea64d0312e9f29313ca15ca44ba9a6935ad168.jpg"
+        },
+        {
+          "name": "Stage Four",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/ac507188ce43a20b4dfcc941858f63482edeaa27.jpg"
+        },
+        {
+          "name": "Stage Five",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/6ee95a4cfaaf0df76bfb76cd703f4dc64961bd16.jpg"
+        },
+        {
+          "name": "Score 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/7797863c381de2fcdcc7861c11bcbf0a3d553458.jpg"
+        },
+        {
+          "name": "Score 1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/e31e800bafba4d1f1799e90e21cf7dbdd18fe279.jpg"
+        },
+        {
+          "name": "Score 2000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/c4c098400f98435236cc60fe82c8ec1a8e8d0c66.jpg"
+        },
+        {
+          "name": "Score 3000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/fa843597c15024e96486bae06928369dea9d9c51.jpg"
+        },
+        {
+          "name": "Score 5000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/9f5d379aa339bfa04a66f2f7532257d30ee09f6c.jpg"
+        },
+        {
+          "name": "Making It Count",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1107640/7fec2832ce920542b48ab8fdb8df01f1fc791b4b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

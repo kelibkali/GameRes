@@ -1,0 +1,125 @@
+{
+  "1293080": {
+    "name": "Football, Tactics & Glory: Football Stars",
+    "steam_appid": 1293080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此扩展是对基础游戏的重大改进，同时显著改善了现有机制：<h2 class=\"bb_tag\" >天资</h2>我们为每位球员增加了一个新的机制：天资。虽然每位球员理论上的最高等级是 100 级，但现在当他们达到一定等级（他们的实际最高等级）后，他们的升级速度将大幅减慢。<br><br>天资较高的球员具有较高的实际最大等级，使他们能够在更高级别的比赛中更有竞争力。<br><br>天资和耐力现在会考虑进攻方（使用技能的球员）和防守方（对技能进行防守的球员）双方的潜力。1 级技能现在变得更加有用！<br><br>您组建球队的方式也将发生重大改变，以球员的天资为中心，同时仍需兼顾其他特点。<h2 class=\"bb_tag\" >统计数据</h2>现在，我们会保存并分析先前和当前赛季的各种统计数据。您可以沉浸在自己俱乐部过去的辉煌中，并通过众多的图表和统计汇总信息，在未来采用更好的战术！<h2 class=\"bb_tag\" >俱乐部的基础设施和人员</h2>您现在可以升级俱乐部的基础设施，如训练场、球探中心和医院。<br><br>增加了新的人员（医生、青年教练）。<h2 class=\"bb_tag\" >转会</h2><ul class=\"bb_ul\"><li>您现在可以直接从国外购买球员。<br></li><li>现在，如果您愿意出更高的价格，可以直接购买不在转会市场上的球员。<br></li><li>当您出售球员时，可以在 2-3 家俱乐部的不同报价中进行选择（之前您无法控制将球员卖给哪家俱乐部）。<br></li><li>其他俱乐部会定期提议以更高的价格购买您最好的球员。</li></ul><h2 class=\"bb_tag\" >玩法与平衡</h2><ul class=\"bb_ul\"><li>对经济系统进行了重大改造。<br></li><li>新增了本轮最佳球队和赛季最佳球队，奖励为荣耀和球迷。<br></li><li>新增了一个专精树：耐力。<br></li><li>重新设计了球迷机制。现在您可以积累超过 80,000 名球迷。您的俱乐部拥有的球迷越多，赞助商愿意付给您的钱就越多。<br></li><li>改进了顶级俱乐部在准备阵容和换人时的 AI。超级联赛变得更具挑战性。<br></li><li>针对寻求挑战的老玩家，困难模式变得比之前更难。<br></li><li>新增了快速模拟已经开始的比赛至比赛完成的功能。<br></li><li>新增了铁人模式，在此模式中，玩家一旦开始比赛就不能退出。您必须完成比赛或者切换至模拟模式。<br></li><li>另外还有许多平衡性的变化，等您发现！</li></ul><h2 class=\"bb_tag\" >沉浸感</h2><ul class=\"bb_ul\"><li>在联赛和杯赛的重要胜负后添加了动画。<br></li><li>添加了暂停比赛（包括换人、受伤和黄/红牌）的视觉事件。<br></li><li>重新制作了进球动画。现在进球看起来更加多样、有趣和真实。<br></li><li>会根据球迷的数量和体育场馆的大小发出不同的人群噪音。<br></li><li>新增了 10 首背景音乐。<br></li><li>外加各种界面改进。</li></ul>",
+    "supported_languages": "英语, 俄语, 乌克兰语, 法语, 德语, 西班牙语 - 西班牙, 捷克语, 意大利语, 简体中文, 葡萄牙语 - 巴西, 土耳其语, 韩语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293080/header.jpg?t=1723472068",
+    "developers": [
+      "Creoteam"
+    ],
+    "publishers": [
+      "Creoteam"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 28,
+      "total_negative": 0,
+      "total_reviews": 28
+    }
+  }
+}

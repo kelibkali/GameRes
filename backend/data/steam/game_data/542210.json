@@ -1,0 +1,50 @@
+{
+  "542210": {
+    "name": "Xemo® : Robot Simulation",
+    "steam_appid": 542210,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Xemo is a physics-based simulation of a humanoid robot.  Highly detailed graphics and a refined user interface allow you to quickly create new robot motions such as crouching, crawling, jumping, rolling, walking and climbing.  Combine your motions in a control sequence to solve the game's challenging obstacle courses.  Compete against your friends and rivals to move to the top of the leader board for each level.  You are rewarded for sharing motions with the Xemo community, and can continue to improve your robot's performance using better, faster and more efficient motions. How fast and agile is your robot?  Play Xemo and discover just how good you are.<br><br>We just added:  (v1.7 Sept 2017)<br><br><ul class=\"bb_ul\"><li> The Balance Controller redesigned for bipedal robots.<br></li><li> Leader boards - one per level<br></li><li> Evolution engine for evolving complex robot motion behaviors</li></ul><br>This simulation game already includes:<br><br><ul class=\"bb_ul\"><li> Xemo : a robot with 13 joints with a total of 24 DoF (Degrees of freedom)<br></li><li> Sami - a simple 4-legged robot that you teach to crawl, turn, walk, jump andturn over.<br></li><li> Buster - a more complex 4-legged robot that can walk something like an ant.<br></li><li> Fido - the dog-like robot that has hip and knee joints - a greater challenge!<br></li><li> Integrated rigid-body physics simulation<br></li><li> The Robot Lab where you create new robot motions<br></li><li> The Pattern Editor, which you use to creation motions for your robot.<br></li><li> The Game Levels (16) where you compete with your robot<br></li><li> The Gravity Well, to suspend and position the robot in mid-air<br></li><li> The Joint Editor, used to adjust the robots ankle, knee, hip, abs, shoulder, elbow and neck joints<br></li><li> The Spring Editor, used to set the speed and strength of each joint<br></li><li> Environment and machine sound effects</li></ul><br>Early Access<br>Come and join us to help shape the future of Xemo! We need your help. This first version of the game includes the motion pattern editor, the motion sequencer, fully functional bipedal robot and four game challenge levels. Our plan is to release a new version every month over the next year, with these features planned:<br><br>Roadmap for Future Releases<br><ul class=\"bb_ul\"><li> Xemo Robot Builder - build your own robot designs from parts! (in development now!)<br></li><li> Robot Kits - pro designed robots that you can use in the game challenges.<br></li><li> Motion sharing through the Xemo game server<br></li><li> Ghost recording and sharing (allow in-game playback of other player's motion recordings)<br></li><li> Learning Guides for classroom use<br></li><li> Player Scripting (Lua/Javascript) interface through XemoAPI for direct robot control. VS Code debugger integration<br></li><li> Data capture, export and plotting of robot motion (joint trajectories, center of mass, rigid body position, acceleration, rotation)<br></li><li> Robot skins and colorization<br></li><li> Cool ideas for expansion from the community from players like you!</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/542210/header.jpg?t=1505414757",
+    "developers": [
+      "Xemory LLC"
+    ],
+    "publishers": [
+      "Xemory LLC"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

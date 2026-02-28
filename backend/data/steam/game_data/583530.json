@@ -1,0 +1,125 @@
+{
+  "583530": {
+    "name": "Aquila Bird Flight Simulator",
+    "steam_appid": 583530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Have you dreamed of what it would be ... to soar like an eagle?</strong><br><br>Aquila Bird Flight Simulator lets you experience soaring bird flight using virtual reality.  It was originally designed for the Oculus Rift, but has now been modified for OpenVR.  You embody one of three species of eagle flying over either Northwest Scotland, a part of Colombia, or Graham Island in British Columbia. This is designed as a relaxing soaring flight simulation, and is not arcade-style flight, and as such you can make use of ridge lift and thermals.  If you want a work out try flapping with motion controllers! My Fitness tracker always thinks I'm jogging...<br><br>Proceeds from this project go towards a major bird of prey centre in Hampshire (UK), where I do voluntary work. Supporting this project helps towards vital conservation, rehabilitation, and education schemes throughout the UK and overseas.  So on behalf of the birds, and the staff, thank you! <br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>Dude you're an eagle! Featuring three species of eagle:<br><ul class=\"bb_ul\"><li>Bald eagle<br></li><li>Golden Eagle<br></li><li>and the Harpy eagle.</li></ul></li><li>Simulates an 8kg bird with a 2.5m wingspan. (cosmetic difference only at present).<br></li><li>Multiplayer! Currently under test. The official server status is on the Forum.<br></li><li>Experimental: See your arms as wings in VR! Select &quot;Controller mapped wings&quot; in the game settings.<br></li><li>Steer your bird using:<br><ul class=\"bb_ul\"><li>Motion controllers - Oculus Rift, Quest 2, S, and HTC Vive have been tested.<br></li><li>Your VR headset<br></li><li>An Xbox360/One controller</li></ul></li><li>Satellite photography scenery for:<br><ul class=\"bb_ul\"><li>14km x 14km flyable areas for Northwest Scotland, Colombia and British Columbia.</li></ul></li><li>Steam Achievement support.<br></li><li>Day/Night cycle using Enviro.<br></li><li>You have thermals and ridge lift to make flying easier, and trees to land in. All birds are fully animated.<br></li><li>Configurable wind direction and speed, shown as 'dandelion seeds' in-game.<br></li><li>Free looking in VR, along with selectable views on the birds back and a chase view.<br></li><li>You can land and take off, and walk around on the ground.<br></li><li>Options to start in the air, on the ground, or in a random tree.<br></li><li>Catch fish from some of the lakes in Scotland and Canada, along with the river on the Colombia map. Catch by holding triggers, and you'll carry your fish as long as you hold them. ;)<br></li><li>If you crash hard enough, you'll go splat and respawn in a random tree. You can also press T to reset to a tree top.<br></li><li>Narrated tutorials for all control modes.<br></li><li>Comfort mode:  This levels the camera, and limits your pitch and roll to produce a more comfortable experience.  It is on by default, but can be turned off.<br></li><li>Some relaxing music to go with the flying.<br></li><li>Observer mode: The in-flight menu allows you to select a view that is displayed on your main pc screen while you play in VR.  This can impact performance, but allows people not playing to watch your flight.<br></li><li>AI birds that fly randomly around the map trying not to hit things.<br></li><li>Non-VR ... the game will run without a VR headset connected, and defaults to a chase view, but it's just not the same as VR!<br></li><li>Next Level V3 motion platform support is working, but is not included in the Steam or Oculus Home versions because of the SDK's involved.  Contact me if you are interested in this feature.</li></ul><br><br><strong>Current issues:</strong><br><ul class=\"bb_ul\"><li>Satellite photography is best experienced with a bit of height.  The illusion will not work when you're near the ground, although I'm working on ground details.<br></li><li>If you look behind you, the game will try and adjust your view so you look down your side.  However, ultimately, if you intentionally move your head to defeat that compensation, you can look through yourself!  I can't stop you.<br></li><li>You can't currently 'trim' in pitch, although you can fly just fine without.<br></li><li>Observer mode does not output sound to your normal pc speakers, if you are using the Rift headphones.  You need to change your settings on the Oculus software (or equivalent) to enable sound mirroring, or whichever output option you wish.<br></li><li>Oculus Touch and HTC Vive are prone to problems with bright UV light, and requires a solid sensor setup.  The flapping motion required with Oculus Touch requires your sensors to have a good view of your complete motion, or it may not work correctly.</li></ul><br><strong>Future plans:</strong><br><ul class=\"bb_ul\"><li>More dynamic landscape with things to do of course (challenges).<br></li><li>More detail within the existing terrains, and prey to catch (currently the fish only).<br></li><li>Possible survival simulation including weather, defending your territory, nest provider, etc.<br></li><li>Special needs access (head steering is the start of this).</li></ul><br><strong>Final note:</strong><br>It's a start point of what to expect, and an opportunity to report back with bugs.  Please do report back with any issues you encounter; it helps me make it better!<br><br>Also note that, due to the SDK's involved, Next Level Motion platform support is not included in the Steam or Oculus Home versions.  Contact me if you are interested in this feature.<br><br>Thank you again for your support, and thank you for looking!<br><br>Graeme",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583530/header.jpg?t=1639745653",
+    "developers": [
+      "Graeme Scott"
+    ],
+    "publishers": [
+      "Graeme Scott"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "A Gift from Santa",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/b4fa6759bc1ebe652af2a0ca9d0256c44a0693ae.jpg"
+        },
+        {
+          "name": "Love is in the air...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/283e265f419feb60bf01c422d5907bcf4d17651b.jpg"
+        },
+        {
+          "name": "Take Flight!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/d54acf926204ad596ee8b7d04aa2c5c5201cd213.jpg"
+        },
+        {
+          "name": "Bronze Duration Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/33894a950436990bd522e3a3fda6fb506fa74087.jpg"
+        },
+        {
+          "name": "Silver Duration Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/7201ae120fe7d2ccfc31465d3811072910cd054e.jpg"
+        },
+        {
+          "name": "Gold Duration Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/cf76fdcc3d384c4bac2bf589ef4fcf9ad5b8b75e.jpg"
+        },
+        {
+          "name": "Diamond Duration Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/8ebca0225a6afdefe311abdd48e71aa690ed1063.jpg"
+        },
+        {
+          "name": "Bronze Height Gain Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/3705dfabdad2c69534685aa769f5b8f314418612.jpg"
+        },
+        {
+          "name": "Silver Height Gain Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/15361fb6b96e448c9497c19a2af98f02a0becad9.jpg"
+        },
+        {
+          "name": "Gold Height Gain Award",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583530/65f41ff79ba7ebf545c63e2fc9e6800f2a1f6a69.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

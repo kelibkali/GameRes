@@ -1,0 +1,45 @@
+{
+  "1507940": {
+    "name": "Bitty Engine Demo",
+    "steam_appid": 1507940,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1507940/extras/459e5adf68ec7d5b17a584fe66888d18.avif?t=1762949679\" width=1224 height=406 /></span><br>Bitty Engine is a cross-platform itty bitty <strong>Game Engine</strong>. The full featured engine is programmable in Lua and integrated with built-in editors. It keeps the nature of both engine's productivity, and fantasy computer/console's ease to iterate. It boosts your commercial/non-commercial projects, prototypes, game jams, or just thought experiments.<h2 class=\"bb_tag\" >Why Bitty Engine?</h2><br>Bitty Engine has everything built-in for coding, graphics composing, etc; it has a full featured debugger for breakpoint, variable inspecting, stepping, and call-stack traversing; it offers a set of well-designed API with full documentation; it builds fast binaries with code and asset obfuscating, moreover its package size is small (around 10MB with empty project, other engine outputs more than 10 times bigger).<br><br>It is supposed to be your ultimate 2D game creating software.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Programmable in Lua, an easy to learn and widely used programming language<br></li><li>Debugger with scope inspector, breakpoint support and stepping<br></li><li>Easy to use API for resources, graphics, input, audio, and more other facilities<br></li><li>Built-in libraries for File, File System, Archive, JSON, Network, etc.<br></li><li>Various example projects<br></li><li>Handy tools for editing sprite, map, image, text, JSON, etc.<br></li><li>Project can be exported into standalone binary (full version only)</li></ul><h2 class=\"bb_tag\" >Specs</h2><ul class=\"bb_ul\"><li>Display: configurable resolution<br></li><li>Code: Lua, supports multiple source files<br></li><li>Image: either true-color (PNG, JPG, BMP, TGA) or paletted, up to 1024x1024 pixels per file<br></li><li>Palette: 256 colors with transparency support<br></li><li>Sprite: up to 1024x1024 pixels per frame, up to 1024 frames per sprite<br></li><li>Map: up to 4096x4096 tiles per page<br></li><li>Font: supports Bitmap and TrueType<br></li><li>Audio: 1 BGM channel, 4 SFX channels; supports MP3, OGG, WAV, etc.<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 2 players<br></li><li>Keyboard and mouse: supported</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1507940/header.jpg?t=1762949679",
+    "developers": [
+      "Tony Wang"
+    ],
+    "publishers": [
+      "Tony Wang"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

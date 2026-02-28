@@ -1,0 +1,141 @@
+{
+  "1456260": {
+    "name": "Flashlight",
+    "steam_appid": 1456260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Play with Friends</h2><br>Play with or against your friends in Flashlight. Choose to battle through the roguelite story experience solo or cooperatively with your friends. Challenge others in Capture the Flag and Team Deathmatch PvP modes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456260/extras/9d0387a5182585dde789cd05ce620caa.poster.avif?t=1689261678\" width=720 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456260/extras/9d0387a5182585dde789cd05ce620caa.webm?t=1689261678\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456260/extras/9d0387a5182585dde789cd05ce620caa.mp4?t=1689261678\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Randomized Levels and a variety of enemies</h2><br>Fight against waves of different zombies and bosses through procedurally generated levels and randomized events. Never have the same exact experience twice!<h2 class=\"bb_tag\" >Equipment Mods</h2><br>Search for and gather equipment mods for your player character and weapons. Many combinations exist and can be used for fun team comps!<h2 class=\"bb_tag\" >Crafting</h2><br>Build your own turrets and barriers that will halt the progress of the horde.<h2 class=\"bb_tag\" >Enemy Mercenaries</h2><br>Encounter and defeat enemy mercenary groups as clear out different zones, potentially trapped with enemy turrets. Enemy mercenaries are dangerous foes as they are fully equipped with the same capabilities as the players.<h2 class=\"bb_tag\" >Rank up and choose from various skills and tech drops</h2><br>Choose between four different mercenary groups to join. Each group has a different set of perks to choose from as you move up the ranks and prove yourself by earning &quot;Merc Cred&quot; as you go. The more things you kill, the more Cred you earn to rank up. Call in air drops that contain supplies and technical upgrades for your weaponry that will turn the tide of battle!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456260/header.jpg?t=1689261678",
+    "developers": [
+      "SouthWater Games"
+    ],
+    "publishers": [
+      "SouthWater Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "Exterminator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/9466d7d6932072346f994917f4b47eeffd81607c.jpg"
+        },
+        {
+          "name": "Eradicator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/a2496fe905a501803e54c6163790761ee7569cbb.jpg"
+        },
+        {
+          "name": "Decimator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/436989cecfe84b3deab56eb2dce572d1e6b2570d.jpg"
+        },
+        {
+          "name": "First Blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/0cdb3b6772f1fceec7d68769339b2bd75d5fc5ae.jpg"
+        },
+        {
+          "name": "Barbaric",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/1cb50a7daece27e43423859f1e950ca838f0e4ae.jpg"
+        },
+        {
+          "name": "Zombie Feeder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/9afe4dc770a981f1077016b646c9abc266137d6e.jpg"
+        },
+        {
+          "name": "Bounce Back From This!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/e6314218286113541cf969b7c53829806e688df0.jpg"
+        },
+        {
+          "name": "Staking your claim!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/cd125718d52c67898640add99bff4323a756bde6.jpg"
+        },
+        {
+          "name": "Dirty Money",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/f0b9c77b8bdb0cadfc3b3b721eda99a90972f257.jpg"
+        },
+        {
+          "name": "Capitalist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1456260/303e192ea9282a013765c883cdf44297015a0a8b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "508710": {
+    "name": "Project Lounge",
+    "steam_appid": 508710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Action takes place in player-made locations called Lounges which are made through the Lounge Editor by shaping terrain, setting time of day and placing various objects. The creator of the Lounge is able to set various permissions, privacy settings and invite others to visit. The owner and visitors are also able to populate the Lounge with various Interactable Objects that might just be a simple prop, an arcade machine. The only goal in Project Lounge is to have fun.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong> Lounge Editor</strong> - It's just like your usual map editor, with no object caps, just the way we love it on PC. The only limit is your system specifications.<br></li><li><strong> Interactable Objects</strong> - Drawboards for drawing, Arcades to play, Vinyls to play and more! Earn them by playing the game and receiving drops, even while you're in the Lounge Editor!<br></li><li><strong> Steam Inventory</strong> - Collect, trade and sell your Interactable Objects through Steam Inventory and show off what you've got to your friends and visitors alike.<br></li><li><strong> Steam Workshop</strong> - Do you know how to make 3D models? Or perhaps you compose music? If so, you can contribute to Project Lounge at Steam Workshop!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508710/header.jpg?t=1625839051",
+    "developers": [
+      "Aivaras Ivoškus"
+    ],
+    "publishers": [
+      "SA Industry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 300,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 30.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Liftoff!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/a1d3e0603d51d1cc0bca76417e0307c30abcc7f7.jpg"
+        },
+        {
+          "name": "Configured and Ready",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/be81cd4e6cc66619a2a636f93e4658105168b559.jpg"
+        },
+        {
+          "name": "There are many like it, but this one is mine",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/3226cb187924f87b72c59ee84f3f631337e2987f.jpg"
+        },
+        {
+          "name": "No Sleep, No Problem",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/5e82450d948d02d071bb779d69dd482c0e452e9b.jpg"
+        },
+        {
+          "name": "Partymaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/c935af2b1fb62b68b57b29ac24d77dcd6fda9415.jpg"
+        },
+        {
+          "name": "Skyfall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/6dd4a7a8042a05b3493a76a749d4b4f49e267098.jpg"
+        },
+        {
+          "name": "Sharing is Caring",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/508710/f1c19291491069fd9a232cc26b9546e8f4f70b21.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

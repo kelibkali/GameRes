@@ -1,0 +1,69 @@
+{
+  "365020": {
+    "name": "Gynophobia",
+    "steam_appid": 365020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Gynophobia是一款关于对女性的恐惧的恐怖射击游戏。<br><br>Gynophobia采用经典的第一人称射击视角，讲述患有包括恐女症在内的多种恐惧症的马克的故事。<h2 class=\"bb_tag\" >主要特点</h2><ul class=\"bb_ul\"><li> 恐怖与动作的结合<br></li><li> 独特的前提<br></li><li> 高质量的音乐<br></li><li> 较低的配置要求<br></li><li> 支持多达50种游戏手柄</li></ul>",
+    "supported_languages": "英语, 俄语, 德语, 乌克兰语, 法语, 西班牙语 - 西班牙, 波兰语, 葡萄牙语 - 巴西, 日语, 简体中文, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365020/header.jpg?t=1672082622",
+    "developers": [
+      "Gua"
+    ],
+    "publishers": [
+      "Gua"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 7 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 45,
+      "total_negative": 7,
+      "total_reviews": 52
+    }
+  }
+}

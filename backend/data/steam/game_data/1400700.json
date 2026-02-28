@@ -1,0 +1,93 @@
+{
+  "1400700": {
+    "name": "Confessions",
+    "steam_appid": 1400700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400700/extras/bc8af8caf635b34485ae8d90db4735a7.poster.avif?t=1760594457\" width=500 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400700/extras/bc8af8caf635b34485ae8d90db4735a7.webm?t=1760594457\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400700/extras/bc8af8caf635b34485ae8d90db4735a7.mp4?t=1760594457\" type=\"video/mp4\"></video></span><br><br><strong><u>Write or Read</u></strong><br><br><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Write down what burdens you and send it into the aether. <br></li><li>Read confessions by other people.</li></ul></ul><br><strong>That's it!</strong><br><strong>You will not be able to answer or react to any confessions </strong>you read and such a feature will never be implemented. <br><br>All confessions are as anonymous as you want them to be.<br>Confessions is an interactive art installation and contains <strong>no gameplay</strong>.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400700/header.jpg?t=1760594457",
+    "developers": [
+      "Peace & Love Games"
+    ],
+    "publishers": [
+      "Peace & Love Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1400700/76e64ee16a3c62404650873b8092be9c4e78ca4b.jpg"
+        },
+        {
+          "name": "25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1400700/bd0235d28737078783fe48616cd42620fcd07a1e.jpg"
+        },
+        {
+          "name": "50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1400700/e09abb6927e1c5b6b2ddf0b9a1b84c5514c25a5f.jpg"
+        },
+        {
+          "name": "100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1400700/69e2d1f57eb595a1c727da0b331d738701d16c4a.jpg"
+        },
+        {
+          "name": "150",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1400700/7f308e4a33cf5aea7288f9d3a25fb28464afd973.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

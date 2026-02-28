@@ -1,0 +1,61 @@
+{
+  "1005390": {
+    "name": "Anti-Grav Bamboo-copter",
+    "steam_appid": 1005390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏利用喷气背包的喷气孔,控制住飞行方向,朝终点飞去.<br />\r\n在途中,你需要避开各种不同形式的障碍物和陷阱.<br />\r\n到达终点后,接受评价,解锁下一关,<br />\r\n共61个关卡.<br />\r\n<br />\r\n<br />\r\n鼠标左键/方向左键: 激活喷气背包左喷气<br />\r\n鼠标右键/方向右键: 激活喷气背包右喷气<br />\r\nShift: 激活后喷气加速向前<br />\r\nA: 激活开关 <br />\r\n<br />\r\n普通障碍物: 竹蜻蜓碰撞后惩罚时间+0.5秒, 身体碰撞+5秒扣一滴血.<br />\r\n锯齿障碍物: 竹蜻蜓碰撞后惩罚时间+5秒,碰撞三次飞行器销毁游戏结束, 身体碰撞游戏结束.<br />\r\n射线: 无论是竹蜻蜓还是身体碰撞游戏结束.<br />\r\n<br />\r\n过关要求: 到达终点,时间评价至少为一星",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005390/header_schinese.jpg?t=1548470076",
+    "developers": [
+      "Jw"
+    ],
+    "publishers": [
+      "Jw"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

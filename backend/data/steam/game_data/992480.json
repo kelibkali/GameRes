@@ -1,0 +1,121 @@
+{
+  "992480": {
+    "name": "Sudoku3D",
+    "steam_appid": 992480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sudoku puzzle - from easy to hardcore... Fully random generation with a choice of field size and difficulty.<br><ul class=\"bb_ul\"><li>Possibility to choose size from 3x3 to 9x9.<br></li><li>The choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br></li><li>As the level of complexity increases, several solutions appear.<br></li><li>Since In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.</li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/992480/header.jpg?t=1674555828",
+    "developers": [
+      "Shmurdik"
+    ],
+    "publishers": [
+      "Shmurdik Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "It was easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/87be1940ca94317db6a0ba170768a074a43703f6.jpg"
+        },
+        {
+          "name": "3x3x10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/f4fe0b4b43daf8cec75be31c51373752004c3709.jpg"
+        },
+        {
+          "name": "Zzz",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/b3f3a693fce97888dd196dfef3bcb87ef7d9aa9b.jpg"
+        },
+        {
+          "name": "3x3x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/738e4860d150fdb613c8090502d25093d7def7b7.jpg"
+        },
+        {
+          "name": "4x4x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/647808f5256f98c269fb4018f5026af7fe773ee3.jpg"
+        },
+        {
+          "name": "5x5x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/d563540e276afe398a603b99ae5713e50245bc1e.jpg"
+        },
+        {
+          "name": "6x6x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/63c25e0609756d81ac7236b1e800f0a021c1d31a.jpg"
+        },
+        {
+          "name": "7x7x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/22544c8a58e3893f97ad2f0877c2f99d378b9563.jpg"
+        },
+        {
+          "name": "8x8x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/d92c29fb513d7b2657a4ca1f43e752b3875d89bf.jpg"
+        },
+        {
+          "name": "9x9x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992480/eebcd4a8691795f3d4f86a5d0d68807844f845ae.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

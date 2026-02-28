@@ -1,0 +1,105 @@
+{
+  "1254870": {
+    "name": "High Strategy: Urukon",
+    "steam_appid": 1254870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个游戏是一个伟大的战略发烧友的尝试，他希望找到一个纯化的核心决策循环类游戏。所以这个游戏中舍弃了很多不必要的重复性操作任务。你通过在游戏中消耗或转换9个主要资源后，就可以获得10个行动。在每个回合，你（和每个人工智能控制的派别）都可以采取一个行动。这个游戏的复杂性在于玩家处于一个动态的世界，存在许多交互系统。<br><br>你可以采取的行动<br><ul class=\"bb_ul\"><li>应对外国入侵和自然灾害。<br></li><li>用一种资源换另一种资源。<br></li><li>从你的人口中招募士兵或劳工。<br></li><li>培育一个城市以提高其生产。<br></li><li>从邻居那里偷资源。<br></li><li>潜入城市准备攻击。<br></li><li>以武力占领外国城市。<br></li><li>通过谈判引导城市和平加入您的行列。<br></li><li>建立或恢复独特的地标。<br></li><li>挖掘以寻找资源和独特的遗迹。</li></ul><br>一些你需要考虑的事例<br><ul class=\"bb_ul\"><li>这32个可玩的派别都有不对称的开始条件和独特的目标。<br></li><li>城市是由不同文化的各种组合而成的，它们建立需要不同的资源。<br></li><li>你的行动会影响与人工智能控制的派系之间的关系，从而改变他们对你的行动方式。<br></li><li>没有正式的休战或联盟，任何派别可以在任何时候攻击任何其他派别(除了一些与故事相关的例外)。<br></li><li>有些城市是水下的，需要不同的资源来占领或突袭。<br></li><li>城市可能受到随机或环境驱动事件的影响。<br></li><li>可以建造或修复67个独特的地标，从而获得巨大奖励。<br></li><li>一个派系的首都不能重新安置，失去它就表明这个派系被完全摧毁。<br></li><li>占领了另一个阵营的首都，你就可以占领他们拥有的任何文物。除此之外，这些文物就只能被偶然发现。</li></ul>",
+    "supported_languages": "英语, 法语, 俄语, 葡萄牙语 - 巴西, 德语, 匈牙利语, 波兰语, 韩语, 简体中文, 土耳其语, 西班牙语 - 西班牙, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254870/header_schinese.jpg?t=1761350052",
+    "developers": [
+      "Iron Boar Labs Ltd."
+    ],
+    "publishers": [
+      "Iron Boar Labs Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 1850,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 37.00",
+      "final_formatted": "¥ 18.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "阿卡舒尔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/065560ff7252e3816cc49895eb8b2cfc737e3f0a.jpg"
+        },
+        {
+          "name": "阿马戈斯",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/0441750a8bb2fd342e640bfad78a7aa6d3dca6ff.jpg"
+        },
+        {
+          "name": "巴哈斯教",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/d424becdbcfd62ff4b8c72095a79f038a743821d.jpg"
+        },
+        {
+          "name": "永恒的孩子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/0eae2edc51b39ce927891fd4fe98c6d59acd5a0e.jpg"
+        },
+        {
+          "name": "啁啾部落",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/5b3068e36284a7fe9b785cb365ccfcb8b116f195.jpg"
+        },
+        {
+          "name": "现世崇拜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/0345723577c5cec2f4e5d983c727d8d8d51c7d9c.jpg"
+        },
+        {
+          "name": "达卡尔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/d906ccdf7345f1ebdda9be49369c72a12a0c54da.jpg"
+        },
+        {
+          "name": "溺水者联盟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/e156ae649a64a4c35146fda11528d00f87137fb5.jpg"
+        },
+        {
+          "name": "东缘",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/81bc782dfbc791ef946d230dd1065efc4cae6f0a.jpg"
+        },
+        {
+          "name": "发烧王国",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1254870/32bc832d6ad8d0009339a14fe07c35a377d9e6b2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 16,
+      "total_negative": 4,
+      "total_reviews": 20
+    }
+  }
+}

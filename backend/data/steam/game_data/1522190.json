@@ -1,0 +1,37 @@
+{
+  "1522190": {
+    "name": "ASTRA",
+    "steam_appid": 1522190,
+    "required_age": 0,
+    "is_free": true,
+    "description": "ASTRAは、チップチューン専用シーケンサー（DAW）です。<br />\r\n作成された譜面を元に、波形を動的に生成し、楽曲を制作することができます。<br />\r\n<br />\r\nチップチューンとは、今となっては大きな意味を持ちますが<br />\r\nここでの「チップチューン」は、「矩形波、三角波、のこぎり波、ノイズ」等の波形（音色）を使用した音楽のことを指します。<br />\r\nASTRAには、音源データは含まれていません。そのかわりに、「計算式」が組み込まれています。<br />\r\nあなたが作成した譜面データにあわせて動的に波形を生成し、鳴らす。これが、ASTRAが「シーケンサー」である所以です。<br />\r\n<br />\r\nシンプルかつ高機能なASTRAの特徴を紹介します。<br />\r\n<br />\r\n■ チップチューンの打ち込みの最適な、コンテナ・トラック方式<br />\r\n　▶「コンテナ」<br />\r\n　　ASTRAは、楽曲データを「コンテナ」たちによって形成されています。<br />\r\n　　プレイヤーは、コンテナを作成し、コンテナが内包する「トラック」を編集します。<br />\r\n　▶「トラック」<br />\r\n　　コンテナの中には、「トラック」が含まれています。<br />\r\n　　１つのトラックに、１つの音色を記入することができます。<br />\r\n　　そして、ピアノロール操作はこれに最適化されています。<br />\r\n　　トラックは最大１０個まで作成可能となっています。<br />\r\n<br />\r\n■すべてが集約されたコマンド方式<br />\r\n　プレイヤーは、コンソールにコマンドを打ち込むことで、<br />\r\n　再生、保存、ビブラートのかかり具合の調整から、ピッチの調整など、<br />\r\n　様々なことを行うことができます。<br />\r\n　ASTRAの機能はほぼすべてが、コマンドに集約されているため、<br />\r\n　非常にシンプルかつ高機能なデザインを保っています。<br />\r\n　「コマンド」というと一見敷居が高いように思えますが、そうではありません。<br />\r\n　プレイヤーはreadmeに書かれたコマンドを眺めるだけで、<br />\r\n　ASTRAのほぼすべての機能を網羅することができます。<br />\r\n　他社製の非常に高級で多機能なDAWを使用するとき、あなたは機能をすべて把握できるでしょうか？<br />\r\n　まず、使い方をググることになるでしょう。<br />\r\n　ASTRAでは、それが必要ありません。<br />\r\n<br />\r\nそれではさっそく、チップチューンの制作に取り掛かりましょう。<br />\r\nASTRAを使って。",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522190/header.jpg?t=1614330471",
+    "developers": [
+      "Amemi Kinosuke"
+    ],
+    "publishers": [
+      "Personal"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 26 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

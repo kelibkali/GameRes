@@ -1,0 +1,113 @@
+{
+  "1199370": {
+    "name": "Gleamlight",
+    "steam_appid": 1199370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Gleamlight（微光）是一款以美轮美奂的世界引人入胜的2D动作冒险游戏。<br><br>彩色玻璃般的美丽艺术、无需UI的独创游戏设计、无需多言、宁静的魔幻物语等等，可以让您尽享全新的体验。<br>在这美丽而又恐怖的玻璃世界，你将感受到什么，想到什么呢？会有怎样的冒险之旅呢？<br><br><strong>◆玻璃的世界</strong><br>森林的树木、岩石、土壤，甚至人物用具，一切事物都以玻璃的方式存在着，展现出一片美丽的风景。得到光就变温暖，浸染在黑暗中则变肃冷。玻璃世界之旅，静待您的光临。<br><br><strong>◆无需UI的游戏设计</strong><br>  不存在UI的游戏设计，大幅度增强了对故事的沉浸感。还可以直观地操作各种丰富多彩又充满趣味的动作。这些动作通过打倒敌人，还将逐步增加。<br><br><strong>◆无需语言的故事</strong><br>在这个世界发生的事情，以及即将发生的事情，这些都取决于您的感性。从您通过旅途看到的片段中感悟故事，拯救这个美轮美奂的玻璃世界吧。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199370/header.jpg?t=1652253927",
+    "developers": [
+      "DICO"
+    ],
+    "publishers": [
+      "D3PUBLISHER"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 6800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 68.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "华丽舞者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/6df0aa8c52fad37696dcabd56ed31e3442349d7e.jpg"
+        },
+        {
+          "name": "腾空者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/38a31151d65463f5a980165a5a55eb903a4ccfb0.jpg"
+        },
+        {
+          "name": "战斗力释放者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/8752ff9959c9660b006ac38a35300310d9045d7c.jpg"
+        },
+        {
+          "name": "起飞者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/f51e95b3c36fadd6c62cad58a46234d922725091.jpg"
+        },
+        {
+          "name": "三重斩击者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/5bfcb4f823a5bebf7b623142b92e09b6ce03e813.jpg"
+        },
+        {
+          "name": "冲击者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/cbbbde95bab232d5d3e9940e5c30141ee1acb552.jpg"
+        },
+        {
+          "name": "双重冲击者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/205bb8566e4603bb35b9f32950eae158569fc65e.jpg"
+        },
+        {
+          "name": "空中飞舞者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/d8f9781e251cfa1c9d113a632ec62d2550389e8c.jpg"
+        },
+        {
+          "name": "颠倒天地者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/25ee37d3a559d7381e7fdf12aa90d8301f832497.jpg"
+        },
+        {
+          "name": "下一位",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1199370/731a4733a4f152a846d94210ac77cd0d86c20934.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 4,
+      "total_negative": 9,
+      "total_reviews": 13
+    }
+  }
+}

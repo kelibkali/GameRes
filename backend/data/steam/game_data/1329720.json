@@ -1,0 +1,37 @@
+{
+  "1329720": {
+    "name": "AshEdit",
+    "steam_appid": 1329720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AshEdit is a map editor for topdown 2D games. It has been used as an in-house tool for many Nooskewl games. It saves a very simple binary map format that is easy to load.<br><br>AshEdit has lots of tools for editing maps, including most of the fundamental features of a sprite editor.<br><br><ul class=\"bb_ul\"><li>Multiple map layers and tile sheets<br></li><li>A pencil tool for drawing tiles that can draw tile groups and pick tiles with RMB<br></li><li>A fill tool with several options (clear fill, non-contiguous, test visible layers, fill with tile groups)<br></li><li>A clear tool for clearing tiles (can clear all layers)<br></li><li>A solids tool that toggles the walkable flag of a tile<br></li><li>A clone tool that clones from the tile sheet<br></li><li>A tool for moving tiles to different layers<br></li><li>Full-featured rectangular and magic wand selection (add, subtract, non-contiguous, test visible layers,) copy &amp; paste<br></li><li>Macro recording/playback<br></li><li>Undo/redo for all operations<br></li><li>Scaling from 1x to 10x<br></li><li>Resizable map/sheet panels<br></li><li>Screenshot saving<br></li><li>Fast hardware accelerated drawing<br></li><li>And more...</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/header.jpg?t=1597846514",
+    "developers": [
+      "Nooskewl"
+    ],
+    "publishers": [
+      "Nooskewl"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 30 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

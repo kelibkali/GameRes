@@ -1,0 +1,141 @@
+{
+  "1657810": {
+    "name": "Combots",
+    "steam_appid": 1657810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Combots是一多人的机器人战争射击游戏，游戏地图完全按照编程程序生成随着物理环境。<br><br><ul class=\"bb_ul\"><li>5个不同的机器人可以让你在使用每一个机器人时都能以一种全新的方式体验游戏。<br></li><li>22项用于装载的机器人，并且您可以创建多种机器人。<br></li><li>4种程序生成的地图。每一场游戏你都会体验一张新的战斗地图。<br></li><li>6种游戏模式会丰富游戏的乐趣。<br></li><li>43 种化妆品，每个人都可以用自己的方式装饰自己的机器人。</li></ul>",
+    "supported_languages": "英语, 俄语, 意大利语, 简体中文, 日语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657810/header.jpg?t=1720091261",
+    "developers": [
+      "HardEdge Games"
+    ],
+    "publishers": [
+      "HardEdge Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Light as a feather",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "ERROR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Oh Judas",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Begin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Fallen four",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Elusive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Protected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Hand me a wrench",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "Efficiency is key",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        },
+        {
+          "name": "A magic cloak",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1657810/fbfcf6e4ac8d5eecde830009a0271381df056366.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 0,
+      "total_reviews": 13
+    }
+  }
+}

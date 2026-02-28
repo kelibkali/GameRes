@@ -1,0 +1,53 @@
+{
+  "1098440": {
+    "name": "Spider shooting bee",
+    "steam_appid": 1098440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个简单的休闲游戏<br />\r\n<br />\r\n玩家需要控制蜘蛛，消灭袭来的蜜蜂<br />\r\n<br />\r\n游戏开始后，蜜蜂会从右边不断的出现。<br />\r\n蜜蜂会从右边往左边飞。<br />\r\n有飞的快的，有飞的慢的。<br />\r\n当蜜蜂碰到蜘蛛时，游戏就结束了。<br />\r\n<br />\r\n玩家要控制蜘蛛，躲避蜜蜂<br />\r\n也可以发射子弹，消灭蜜蜂。<br />\r\n<br />\r\n屏幕上方，有显示经过了多少时间，以及消灭了多少蜜蜂。<br />\r\n<br />\r\n<br />\r\n操作方法<br />\r\n<br />\r\n用鼠标控制蜘蛛移动<br />\r\n鼠标移动到哪里，蜘蛛就移动到哪里<br />\r\n<br />\r\n鼠标左键<br />\r\n点击后蜘蛛会发射一个子弹",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098440/header.jpg?t=1560905798",
+    "developers": [
+      "buyaoguan"
+    ],
+    "publishers": [
+      "buyaoguan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

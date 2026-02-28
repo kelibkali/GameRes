@@ -1,0 +1,109 @@
+{
+  "1444480": {
+    "name": "Turing Complete",
+    "steam_appid": 1444480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>-= 你能学到什么 =-</strong></h2><br><br>计算机里所有的电子元件都可以基于一种叫做“与非门”（NAND gate）的基本元件而实现。在本游戏中，你将会面对一系列挑战，在求解谜题的过程中，走出从基础逻辑门通向算术单元、存储器等复杂元件的道路，并沿着这条道路最终学习如何搭建完整的处理器架构。完成所有主线关卡后，你将对处理器架构、汇编语言和电子元件彼此之间的具体联系产生更加深刻的理解。你也会了解高级编程语言中常见的条件判断、循环、函数等概念是如何在汇编和硬件层面具体实现的。<br><br><br> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/b8935f349d6a621a031d62bce1ca6ee0.avif?t=1740369335\" width=350 height=155 /></span><h2 class=\"bb_tag\" ><strong>-= 你能构建什么 =-</strong></h2><br><br>本游戏是基于一个强大的电路模拟器而开发的。这个电路模拟器允许你自由发挥想象力，以不同的解法通过各个关卡，或以自己喜欢的方式搭建属于自己的计算机。你可以随心所欲地在你的计算机上连接显示屏、计时器、声音元件等部件，也可以接收现实生活中的键盘和网络发送的数据。你甚至可以为你自己的计算机设计一套自己专属的汇编语言。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/f5bef2dcda1ae4ea505f0298b316858e.avif?t=1740369335\" width=550 height=354 /></span>",
+    "supported_languages": "英语, 法语, 德语, 简体中文, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/header.jpg?t=1740369335",
+    "developers": [
+      "LevelHead"
+    ],
+    "publishers": [
+      "LevelHead"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "图灵完备",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/ce24321dd55835a649367d6c2270d081c675b739.jpg"
+        },
+        {
+          "name": "金色传说",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/f45e90e3944886367a8518f26e59d5453a09d80d.jpg"
+        },
+        {
+          "name": "黑帽",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/39dea99e632178603968d7b5f9efedaa7749d937.jpg"
+        },
+        {
+          "name": "机器志愿者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/24b29588a5f58cc9cc47a51c3db7b5b09d6d3a34.jpg"
+        },
+        {
+          "name": "4 NAND = XOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/c4c106dc1b319bb580ed8650475e9ab8854f8c5c.jpg"
+        },
+        {
+          "name": "五门全加器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/1b954cc246dcad1af5eb38f48b8c9e1eb6206030.jpg"
+        },
+        {
+          "name": "高速加法器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/f70395773035b20e8b73f181ad3eb3641b83f8ee.jpg"
+        },
+        {
+          "name": "师傅领进门",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/ee4618e05adbf745e6f5d2c557deec04c076c2bf.jpg"
+        },
+        {
+          "name": "小机快跑",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/b43e834158c582c1cb386d892004b06d77419020.jpg"
+        },
+        {
+          "name": "十项条“件”",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/518eff9764dfd2b7813cb38eddde66d02231c6da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1502,
+      "total_negative": 30,
+      "total_reviews": 1532
+    }
+  }
+}

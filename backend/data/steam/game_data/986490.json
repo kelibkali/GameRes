@@ -1,0 +1,67 @@
+{
+  "986490": {
+    "name": "Another Bad Day in the Future",
+    "steam_appid": 986490,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >I lost access to the codebase for this project in 2020. Turns out that having a cat puke into your ZFS fileserver while it was updating your remote backups can totally brick your setup. While I had builds on multiple cloud services and physical devices, the data rot of those files after my frequent updating made them unusable. I'm no longer able to continue developing the project despite my desire to as my gear is all broken/obsolete at this point. The existing game code is now free, but I'm unable to maintain or patch the project. I hope you enjoy my stillborn dream. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Another bad day in the future is an open world VR espionage game. Players undertake jobs for one of four political parties in a flying city to get their parties laws passed in a dynamic legal system. Players traverse the city using arm swing based locomotion, grablines, and can climb all the buildings. </p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986490/header.jpg?t=1764789293",
+    "developers": [
+      "Alex Sullivan",
+      "Wandering Research & Development"
+    ],
+    "publishers": [
+      "Wandering Research & Development"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 12 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

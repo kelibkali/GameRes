@@ -1,0 +1,109 @@
+{
+  "1195430": {
+    "name": "Fight High",
+    "steam_appid": 1195430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fend off an infinite horde of enemies, the longer you survive the tougher it becomes.<br>Test your endurance and see how far you can go!<br><br>Fight above the clouds on the magnificent floating islands.<br><br>Purchase weapons and abilities to help the fight. Be sure to upgrade those weapons and unleash full chaos as they're maxed out.<br>To help with the hordes of endless chaos, be sure to make use of the health pick ups scattered around as well.<br><br>Be wise about where you decide to hunker down - make use of the surrounding turrets.<h2 class=\"bb_tag\" >Features</h2><br><strong>Characters</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1195430/extras/067ac13ef76a6dd519a7dd1d9eeff1b9.avif?t=1720362236\" width=600 height=310 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1195430/extras/3efaa0f53d6df50d0e2cd25ce03f764f.avif?t=1720362236\" width=600 height=310 /></span><br>Each character has its own unique passive ability, be smart about your choice.<br><br><strong>Passives</strong><br><ul class=\"bb_ul\"><li> Zerker : Has 50% More HP<br></li><li> Heavy : Damage resistance - the lower HP, the more resistant.<br></li><li> Pyro : Passive HP regeneration - the Lower the HP the more it heals.<br></li><li> Scout : Speed - The lower HP the faster your movement speed.<br></li><li> Sniper : Lifesteal - you get 50% HP back from damage dealt.<br></li><li> Assault : Damage Buff - The lower the HP, the harder you hit.</li></ul><br>Each character starts with its respective weapon as well.<br><br><strong>Abilities</strong><br><br>There are 6 unique abilities as well.<br><br><ul class=\"bb_ul\"><li> Drone - Summons a healing drone.<br></li><li> Nova - Activates a bullet nova around you.<br></li><li> Turret - Activates across the map to help you fight.<br></li><li> Damage - Buffs your damage.<br></li><li> Speed - Increases your movement speed.<br></li><li> Tank - Gives you damage resistance.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1195430/header.jpg?t=1720362236",
+    "developers": [
+      "Broodling Studios"
+    ],
+    "publishers": [
+      "Broodling Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 43,
+      "highlighted": [
+        {
+          "name": "It's Zerker Time!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/029dbe900629eb028c1d67de2848bcd1be5745c5.jpg"
+        },
+        {
+          "name": "Let's Get Heavy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/6abf1d04ab32131e28c5e9fb516aa7e2b4fae11e.jpg"
+        },
+        {
+          "name": "It's Time To Burn!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/a403e8470f9db0c09b33008769e4c4e0bb468f1e.jpg"
+        },
+        {
+          "name": "Scout em Up!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/ece975fb00d07d3782e74205a38cddc3ee298aed.jpg"
+        },
+        {
+          "name": "To Snipe or not to Snipe.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/8e0054f4553099344b6798817c94384852803a68.jpg"
+        },
+        {
+          "name": "The Assault!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/4a35c2ccdd7306de6da20c9400021fea6e73bd54.jpg"
+        },
+        {
+          "name": "Master Zerker!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/91f05fc51343f9852d5c86a2c81aaa2afdf1c874.jpg"
+        },
+        {
+          "name": "Master Heavy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/a94518836ae95943d0ad54a00bd8c5065da59659.jpg"
+        },
+        {
+          "name": "Master Pyro!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/8315c781c3e77d3c0168a42ee5183fbe59324755.jpg"
+        },
+        {
+          "name": "Master Scout!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1195430/ae4b1eeeff67e9596accd3913609e6f364a225d2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

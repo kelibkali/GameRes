@@ -1,0 +1,58 @@
+{
+  "1574400": {
+    "name": "镜地",
+    "steam_appid": 1574400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "**这是什么？**<br>    《镜地》是一款具有原创核心机制的视错觉空间解谜游戏，其灵感来自 《红楼梦》中的“风月宝鉴” 和 《哈利波特》中的“厄里斯镜”  这样的魔镜概念。<br>    围绕这个核心机制，一系列互相关联、互相启发的次级机制被设计了出来；与此同时，游戏世界的创作过程借鉴了诗的写作方法，目的是带来有趣的玩法，营造出具有诗意的空间。<br><br>**为了更近的眼球移动和更有纵深的谜题布局,此游戏的谜题专为竖向屏幕开发。如果玩家的显示器可以旋转成竖向，那么只要将windows桌面设置为竖向再打开此游戏，游戏将会是全屏。或者，如果显示器无法旋转或者不想麻烦的话，玩家可以仅使用普通横屏模式，这样游戏体验不会有区别，屏幕左侧和右侧的区域将被填充为黑色。**<br><br><br>**怎么玩？**<br>核心机制如实机视频所示，可以总结如下:<br>0. 镜子与双脚有“契约”关系；<br>1. 当角色双脚在镜中可见时，操作此镜子（按下镜子按钮），角色即以二维化形式被束缚在镜子表面；<br>2. 移动镜子，镜里反射的地形随之变化；<br>3. 当镜子表面的二维化角色双脚对应到可站立地形时，再次操作镜子（按起镜子按钮），角色即被释放到相应地形。<br><br><br>**机关（3种）：**<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/f392ff76f7f654e314bbc3bb8306af6d.avif?t=1756753533\" width=132 height=148 /></span><br>**踩动机关**  踩动机关触发地形环境变化或者其他机关。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/6a70d97602810cf7c3aeb623e53ce9de.avif?t=1756753533\" width=132 height=148 /></span><br>**推力机关**  当角色移动到推力机关正面时，推力机关会马上产生一个强大的推力，将角色推出一定距离，在此期间角色不受重力影响。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/29f253c901e1358b9ef274e003b86864.avif?t=1756753533\" width=176 height=228 /></span><br>**集束光**  集束光源被机关开启后，发射一道集束光，集束光遵循物理定律，可被**镜面**反射。 调整 光发射的角度 与  镜面的角度和位置，可使光照射到不同的位置。<br>集束光的机制：<br>1.集束光可以穿过透明地形；<br>2.当集束光照到平坦的地形时，可在照射点（无论透明与否）蚀刻出一个光传送点；<br>3.集束光与光传送点 是**流明石猫**的交通工具。<br><br>**非玩家角色（3种）：**<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/6aadace1592c50c2f66ee6efb004fdc1.avif?t=1756753533\" width=366 height=228 /></span><br>**流明石猫**  流明石猫是集束光的乘客,可作为移动的地形。<br>它是一种被禁锢在流明石中的神秘生物，当它没接触到光时，只是一块呆呆的方石头，和玩家角色差不多高度，可以在平坦的地面上拖动平移，帮助角色到达不同的地形；当它被移动到光传送点，而同时有集束光连接此传送点和另一个光传送点时，流明石猫将会融化变形成一个可在光中游泳的猫，游到最远的光传送点，并恢复成石头状态。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/1ac2b39669fbfd888be7fc26798e5838.avif?t=1756753533\" width=176 height=228 /></span><br>**“沉默”**  “沉默”的底盘非常稳定，任何角色也无法推开它。当它堵住角色的路时，角色只能走开，并等它走到下一个位置，或者把它捉到镜中。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/8ad4ebf0566d486d6277529de48217fb.avif?t=1756753533\" width=176 height=228 /></span><br>**“力量”**  “力量不介意使用力量。”  大部分情况下，当任何角色或可移动物体在“力量”的接触范围之内时，“力量”会马上推这个对象，将其推出一定距离，距离的远近与它的体型成正比。在此期间，“力量”和被推对象不受重力影响。<br>“力量”可以推动的对象有：主角、箱子、其他“力量”；无法推动的对象有：“沉默”、“流明石猫”、牢固的地形；<br>当“力量”推了一个无法推动的对象时，“力量”会被反作用力推开，“力量不会浪费”。<br>“力量”也可被捉到镜中。<br><br><br>**其他机制：**<br>推力机制和光传送机制如上，不再赘述。<br>下面介绍一下棋盘镜面机制。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/40d912990bc63ffdaf5ce78062a6e58c.avif?t=1756753533\" width=352 height=410 /></span><br>棋盘镜面机制是一个更具挑战的机制，玩法如下：<br>1.当一个角色被镜子捕捉到镜面上的棋盘格位置时，将化为一个棋子，棋子可像下棋一样移动到相邻的空棋盘格位置。<br>2.每个棋盘格位置对应着真实空间中的一个位置，当镜子释放角色时，角色就被放到了那个位置。<br><br><br>**《镜地》的世界：**<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/29d4b935997105abc2672557c5508eb7.avif?t=1756753533\" width=800 height=512 /></span><br>这个世界没有太阳，月亮，星星<br>有的，只是一片原本处于黑暗之中的大陆<br>光原本像凝胶一样储存在一座极大的山之中<br>人们称之为流明山<br>附近的生物逐渐进化出了眼睛<br>进化出了人<br>人类逐渐学会了开采利用它的方法<br>发展了科技，兴起了文明，形成了王国<br>甚至把流光通过管道送到了大陆各地的极高处，照亮了大部分人的活动区域<br><br>流明山的西边不远，卧着镜子平原<br>镜子平原可以无限产出镜子<br>当镜子平原被开采完之后，平原会立刻开始地壳运动<br>升起新的镜子平原<br>镜子平原产出的镜子能将生物捉到镜面<br>这是一个偶然的发现，有很多传说<br>最有说服力的是一个猎人的故事<br>不外乎是猎人追流光兽、兽逃到镜子上、猎人下意识地祈求，谁来帮帮我？<br>没想到镜子回应了这祈求<br>抓住了兽<br>再后来人类在巫术和科技之间找到了制作魔镜的方法<br>这样，主角阿秀的故事也就得以展开了<br><br>**阿秀的故事：**<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/extras/6b06fefb90c4d281e671ff9884d35d92.avif?t=1756753533\" width=176 height=228 /></span><br>阿秀是墨水人的后代，也是一个墨水人<br>墨水人是基因改造的结果<br>人类学会了制作魔镜之后，科技得到极大发展<br>利用魔镜进行的高智力犯罪案件频频发生<br>利用魔镜的超距作用，犯罪分子往往不会留下踪迹<br>于是，王国的统治者决定，把所有聪明人都管起来<br>使他们必须留下痕迹<br>聪明人都变成了墨水人，皮肤会永远向外渗出墨水<br>鞋子不准防水，脚印里都是墨水<br>我们的主角阿秀，其母亲是一个交通镜工程师<br>7年前，她在一次交通镜测试中失踪，有进无出<br>当交通镜释放她时，她好像直接消失了一样<br>这件奇事令王国上下大为恐慌<br>调查没有得出结论<br>7年过去，阿秀长到15岁，行使继承权，继承了母亲的遗物<br>其中有7块原石<br>某天，一个神秘的声音对阿秀说，**你只要把这7块原石带到大陆上几个特定的炉火那里去<br>按我教你的图纸锻造，合成一把锤子<br>再用这把锤子砸碎都城的那块千年镜<br>就可找到你母亲**<br>……………………<br>虽然……<br>但是……<br>这也是这么多年来，有人第一次给了阿秀希望",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574400/header.jpg?t=1756753533",
+    "developers": [
+      "ForLeaves"
+    ],
+    "publishers": [
+      "ForLeaves"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "2027 年"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

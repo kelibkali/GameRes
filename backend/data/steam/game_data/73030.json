@@ -1,0 +1,85 @@
+{
+  "73030": {
+    "name": "Magicka: Wizard's Survival Kit",
+    "steam_appid": 73030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The &quot;Wizard's Survival Kit&quot; allows you to equip the following items for your character:<br>\t\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Wizard's Hat (item)</strong> - No wizard of note would ever be seen outdoors without one of these pointy hats.<br>\t\t\t\t\t\t</li><li><strong>Sharp Sword (item)</strong> - The instruction reads “stick them with the pointy end”. Good to have in a pinch.<br>\t\t\t\t\t\t</li><li><strong>Staff +1(item)</strong> - Whack your foes over the head, use it to prod mucky waters or lean on it to look cool - the staff +1 let’s you do all of it in style.<br>\t\t\t\t\t\t</li><li><strong>Meteor Shower (new Magick)</strong> - Rain burning rocks down on your enemies. ‘Nuff said.<br>\t\t\t\t\t\t<ul class=\"bb_ul\"></ul></li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73030/header.jpg?t=1589890660",
+    "developers": [
+      "Arrowhead Game Studios"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 800,
+      "final": 800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 8.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 3 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

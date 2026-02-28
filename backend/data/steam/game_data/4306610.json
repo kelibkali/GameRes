@@ -1,0 +1,50 @@
+{
+  "4306610": {
+    "name": "Project Big Sphere",
+    "steam_appid": 4306610,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >This project is an early-stage FPS/TPS prototype focused on experimenting with custom gravity simulation on a spherical environment.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306610/extras/7b9400ceccbcf90409ae93603fa969ba.avif?t=1769575466\" width=1560 height=878 /></span></p><p class=\"bb_paragraph\" >Players can freely move across a small planet surface while gravity dynamically adjusts to the character’s position. The experience allows switching between first-person and third-person perspectives to observe how movement and camera behavior change under non-traditional gravity.</p><p class=\"bb_paragraph\" ><strong>Current features include:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Free character movement across a spherical planet</p></li><li><p class=\"bb_paragraph\" >Custom gravity simulation affecting movement and orientation</p></li><li><p class=\"bb_paragraph\" >First-person and third-person camera modes</p></li><li><p class=\"bb_paragraph\" >A rotating sky that reflects the player’s movement</p></li></ul><p class=\"bb_paragraph\" >This project is currently a technical and experimental build. It does not yet include combat, objectives, progression systems, or structured gameplay, and is intended as a foundation for future development.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306610/3646982138eaa5f9fab605d9e9048d16cb85ccc6/header.jpg?t=1769575466",
+    "developers": [
+      "Joowon"
+    ],
+    "publishers": [
+      "Joowon"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

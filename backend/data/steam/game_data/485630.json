@@ -1,0 +1,105 @@
+{
+  "485630": {
+    "name": "Brazed",
+    "steam_appid": 485630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一艘太空船坠毁在一个未知星球，而你是其中唯一的幸存者。为了安全逃离此地，你必须派遣机器人探索这个星球，发射求救信号。在探索的过程中，你需要制造电子器件并发现新的科技，以便升级你的机器人。<h2 class=\"bb_tag\" >游戏特色</h2><strong>控制一位机器人</strong>：从涡轮蜘蛛、追踪者或猎头者3位机器人当中选择一位，派遣它对抗敌对的外星生物。<br><strong>研究和升级</strong>：创造新的电子器件并升级你的机器人，使他们能够探索更加严酷的环境。探索星球可以发现新的科技，从而允许你制造更加先进的电子器械。<br><strong>学点基础电子学</strong>：在制作机器人时，你将接触到许多电子元件，包括电阻器、电容器、二极管和晶体管。当然，为了制造这些零件，你需要解决一些简单的数理问题。",
+    "supported_languages": "英语, 俄语, 日语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485630/header.jpg?t=1729531553",
+    "developers": [
+      "Vladimir Maslov"
+    ],
+    "publishers": [
+      "Vladimir Maslov"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Free Fall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/b40a3b9932f615ca823e94975aaddecd69dcdbe1.jpg"
+        },
+        {
+          "name": "Reader",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/07055b48d20fca8033cf7b9b493cabdbc414ef9f.jpg"
+        },
+        {
+          "name": "Bad Moon Rising",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/b42634f7ede43dbf9e298065d419030d626cd8bb.jpg"
+        },
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/4cb3cf0573958da034138ee971d550ae5ff1f013.jpg"
+        },
+        {
+          "name": "Diode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/16b7eae8c860e73950243c994b7b9e2ce36b7c27.jpg"
+        },
+        {
+          "name": "Resistor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/10b5ab678fb6232a64c3b6f0c7f19fbb2942e41b.jpg"
+        },
+        {
+          "name": "Capacitor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/3ce6954c4345219b379baed2cd0ef3df366bfca3.jpg"
+        },
+        {
+          "name": "Transistor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485630/2d306a2450633c048813482233f410f5f589d005.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 2,
+      "total_negative": 3,
+      "total_reviews": 5
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "1190230": {
+    "name": "Robber's Horror",
+    "steam_appid": 1190230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A horror escape game set in an abandoned hospital.<br />\r\nThe hero is a criminal who repeats steal.<br />\r\nHe will experience an unexpected horror at the abandoned hospital that you entered to hide from the police.<br />\r\n<br />\r\nThe player controls the hero to escape from the murderer wandering around the hospital.<br />\r\n<br />\r\nMethod of operation<br />\r\nWASD:Move<br />\r\nMouse:Direction Change<br />\r\nTAB:Inventory<br />\r\nLeft mouse click:Examine the object<br />\r\nEsc: Display popup for stop game<br />\r\n<br />\r\nI think that the time to clear is about 10 minutes at the shortest.<br />\r\n<br />\r\nContains violent expressions.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190230/header.jpg?t=1667010404",
+    "developers": [
+      "gentome"
+    ],
+    "publishers": [
+      "gentome"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Best Ending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1190230/61108db8ae9eae4863de680e77b7ab71c5031e51.jpg"
+        },
+        {
+          "name": "Bad end 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1190230/ad2ffa70972ad9e5d1375ea7c2760de3943a5511.jpg"
+        },
+        {
+          "name": "Bad end 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1190230/3036bb8eeb94132b508de7f0eae914fe4a9c61ce.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

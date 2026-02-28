@@ -1,0 +1,141 @@
+{
+  "535700": {
+    "name": "3D Chess",
+    "steam_appid": 535700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535700/extras/36541d0d044a76844e2e1287f2f26365.avif?t=1726474805\" width=616 height=250 /></span><br><br>等你来体验特别的象棋之旅，无数精彩的即时决斗——考验你的棋艺。在神奇的3D世界，仅用几步棋将死对手，并破解富有挑战性的棋局。 <br><br>拥有一流象棋大师的策略和战术？在固定的步数之内完成中断的棋赛，并解锁更多的棋局，直至获胜。与虚拟对手对棋，或在一台电脑上与好友玩PvP模式。在旋转棋盘中，始终占领先机。 <br><br>不管你是象棋新手或高手，完全自定义的难度设置和特殊功能可让所有棋迷感受优越的象棋体验。",
+    "supported_languages": "英语, 德语, 法语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535700/header.jpg?t=1726474805",
+    "developers": [
+      "bumblebee"
+    ],
+    "publishers": [
+      "familyplay"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "Easy beaten",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Medium beaten",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Hard beaten",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Multiplayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Chessopedia",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Credits",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "Solved a puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "5 Avoid Check",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "10 Avoid Check",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        },
+        {
+          "name": "15 Avoid Check",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 4,
+      "total_negative": 4,
+      "total_reviews": 8
+    }
+  }
+}

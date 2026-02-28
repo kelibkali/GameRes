@@ -1,0 +1,101 @@
+{
+  "1255880": {
+    "name": "Whisper",
+    "steam_appid": 1255880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Whisper is a short interactive experience about the way we perceive reality in games and the contrast that may occur if we are presented with an environment in which our senses receive inputs on a different level of detail.<br><br>This might sound a bit vague, but every further detail would spoil the game, as it aims to be a short experience that may be played through in around 40 minutes.<br><br>Though the goal of the game is mainly to let the player experience something hardly doable with other mediums, this doesn't happen without actual interaction: puzzle solving is a core feature that helps the player immersing in the weird reality of the game, taking his characteristics to the extreme and paradoxical consequences.<br><br><i>Whisper was originally published in 2017 on itch.io and can still be found there; this is a slightly reworked version to allow the game to run within Steam, and to add Achievements.</i>",
+    "supported_languages": "英语, 意大利语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255880/header.jpg?t=1602503004",
+    "developers": [
+      "crdmrn"
+    ],
+    "publishers": [
+      "crdmrn"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Dropper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/80bf083465ee4657d66076f8bc8083996894ad08.jpg"
+        },
+        {
+          "name": "Nobody puts Baby in the corner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/e54ebff50edef72efcd584a87192ed60e260bf7d.jpg"
+        },
+        {
+          "name": "Closing time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/44488d128cbb234d31ab79ed18c5da4a4250792e.jpg"
+        },
+        {
+          "name": "Afternoon tea",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/c4e508a045d6fbc89a74364b12ab1da2caf37126.jpg"
+        },
+        {
+          "name": "I'll walk on water",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/c54d8ac7a193a2f79f14c0b9cc7c8e80e055e6f3.jpg"
+        },
+        {
+          "name": "Novice burglar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/7993af9e82621b2e0f18f3bb5e0f39de024dd008.jpg"
+        },
+        {
+          "name": "Expert burglar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/489619203a184dc90247c4d3b03890a15338a790.jpg"
+        },
+        {
+          "name": "The whole catalogue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/a123b91405c91388e76c5312639a6b9fec680217.jpg"
+        },
+        {
+          "name": "Sea monkey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1255880/653a5be3985b9a03cf3f0ca36a75bae9c62c34e0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

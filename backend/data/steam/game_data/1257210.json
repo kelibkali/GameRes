@@ -1,0 +1,109 @@
+{
+  "1257210": {
+    "name": "兔兔模拟器",
+    "steam_appid": 1257210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "大家好，我爱兔兔，有一天我的脑袋突然问我，为什么不做一款全3D的兔兔游戏？我想了想，觉得这个想法不错，于是这个游戏就诞生了。<br><br>这是一款简单放松的兔兔步行模拟器类游戏，你唯一的目标就是尽可能多的收集胡萝卜。<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>温馨的游戏氛围。<br></li><li>种类繁多的兔兔自定义选项，包括身体和皮肤。<br></li><li>可以与胡萝卜物理互动。<br></li><li>支持Steam成就。<br></li><li>支持Steam排行榜。</li></ul><h2 class=\"bb_tag\" >游戏玩法</h2><br><ul class=\"bb_ul\"><li>饿了就吃。<br></li><li>不断收集胡萝卜。<br></li><li>给其他兔兔一根胡萝卜，带领其他兔兔一起乱跑。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 简体中文, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257210/header_schinese.jpg?t=1718003664",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 1100,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "1 Carrot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257210/7a4807c19660ce8f5dc46c6cdde356945acc7939.jpg"
+        },
+        {
+          "name": "2 Carrots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257210/9da72186bd6fc18efeaf5be204c81af5100af337.jpg"
+        },
+        {
+          "name": "3 Carrot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257210/7e4dddf498e4b5feb4868266a247ede6fe04b00b.jpg"
+        },
+        {
+          "name": "4 Carrot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257210/ad00fac9d379735d67b608f41bf538af27aed2cb.jpg"
+        },
+        {
+          "name": "5 Carrot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257210/4802eceb9599adfc60a09f1dfc622eb96f903737.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 1,
+      "total_reviews": 14
+    }
+  }
+}

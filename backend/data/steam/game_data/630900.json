@@ -1,0 +1,57 @@
+{
+  "630900": {
+    "name": "Illwinter's Floorplan Generator",
+    "steam_appid": 630900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Illwinter's Floorplan Generator is a grid based dungeon and wilderness floorplan creator. The floorplan generator can be used to quickly draw and print an encounter floorplan for your favorite pen and paper roleplaying game. It is very quick and easy to create a simple floorplan, you just select what terrain type each square should be and the program fixes the rest. E.g. a cave wall next to a rocky ground will automatically create a jagged wall, but the same cave wall next to a marble floor would create a much smoother wall because this is likely to be an indoor room with polished walls.<br><br><ul class=\"bb_ul\"><li>    About 50 different terrain types to choose from<br></li><li>    Icons included for the most common objects, e.g. doors, stairs, tables, beds, trees, bushes, pentagrams<br></li><li>    Color maps or old school black and white style<br></li><li>    Adjacent terrains interact automatically to create jagged edges, smooth transitions and shadows when necessary<br></li><li>    Random fractals used to create shapes for cave walls, rivers and other non regular terrains<br></li><li>    Create a multi-page pdf with the dungeon divided into pages suitable for printing<br></li><li>    Export dungeon as a single png suitable for Foundry VTT, Roll20, Fantasy Grounds and similar applications<br></li><li>    Export wall data that can be used for dynamic lightning in Foundry VTT or Roll20 (requires roll20 pro subscription)<br></li><li>    Configurable square and paper sizes, (default is 1 inch squares on A4 pages)<br></li><li>    Outdoor and dungeon shadows with configurable strength<br></li><li>    Export to your favorite paint program for finishing touches<br></li><li>    Import your own icons<br></li><li>    Create new terrain types from imported images<br></li><li>    Configurable grid, default is to not draw it on top of walls and with thicker lines between pages<br></li><li>    Grid based, terrain is placed in squares or on square edges (icons can be placed and rotated freely)<br></li><li>    Shortcuts to quickly put a random door, tree or bush in a square<br></li><li>    Dungeon layout can be imported from a simple ASCII text file, like this <br></li><li>    Create random dungeons automatically<br></li><li>    Editor to create rules for your own random dungeon<br></li><li>    Color dungeons can be converted to Black &amp; White style dungeons automatically<br></li><li>    Export with a 3d look<br></li><li>    Steam workshop support</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/header.jpg?t=1714808021",
+    "developers": [
+      "Illwinter Game Design"
+    ],
+    "publishers": [
+      "Illwinter Game Design"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

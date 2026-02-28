@@ -1,0 +1,105 @@
+{
+  "488080": {
+    "name": "Taxi",
+    "steam_appid": 488080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A sliding Tile puzzle game with 29 levels ranging from easy to skull cracking. A killer soundtrack and great visuals make this a must play game! Try to get the taxi from start to the airport on each level. Bonuses are given based on how fast you solve the puzzle, how far the taxi travels, and if you go through an intersection tile both ways.<br />\r\n<br />\r\nThere are 11 achievements to unlock as you rush passengers to the airport.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488080/header.jpg?t=1475839356",
+    "developers": [
+      "petraguardsoftware.com"
+    ],
+    "publishers": [
+      "petraguardsoftware.com"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "On a Roll",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/a29d8f4e48e888ea193f59832bfb191feb631cb5.jpg"
+        },
+        {
+          "name": "Sore Finger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/f5946e210b4837d04b966be554423fd3e54a11b5.jpg"
+        },
+        {
+          "name": "Give 'em the tour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/a82b3f3200b5134e12dabc9f8342fe57ef93be6c.jpg"
+        },
+        {
+          "name": "Platinum Child",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/534ed2430725a0eb85bad83af9ca7d0690ce0c17.jpg"
+        },
+        {
+          "name": "Broken Finger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/045fb6cd3104bcee6598c63bbec8202e48db8bbf.jpg"
+        },
+        {
+          "name": "Gold Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/50aa57c00a099802a9e75990b78531477b9f2311.jpg"
+        },
+        {
+          "name": "Busy Earnin'",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/bee7c895ab4f8a9d7e645765fe54aa3f4050995e.jpg"
+        },
+        {
+          "name": "Getting Started",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/7f899f5e344aa942882d15fd6e6618b7946ebf4d.jpg"
+        },
+        {
+          "name": "At the tarmac",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/5b3c84b372c938730c56f2134f5e1a52291ae471.jpg"
+        },
+        {
+          "name": "Keep the Change",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488080/4e4badf33609a143550ace0627699edd2cc46f91.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

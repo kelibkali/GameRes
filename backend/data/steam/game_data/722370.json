@@ -1,0 +1,130 @@
+{
+  "722370": {
+    "name": "Funball Games VR",
+    "steam_appid": 722370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "它已经在这里了。为个人，全家或一群朋友提供六个有趣的<strong>虚拟现实游戏[/]。您不必在玩游戏时坐在电脑前。在玩游戏的同时，您可以以比体育馆更愉快的方式锻炼和燃烧一些卡路里。让我们试着对自己的亲人和朋友进行测试。找出谁更快，更好，更聪明。游戏的原理是单一的，也适用于儿童，每个游戏都包含说明。我们希望你有很多乐趣！<br><br><strong>Graball:</strong><br>球正在被投掷，你用等离子捕捉器捕捉它们，随着时间的推移，更多的球正在向你投掷。当你不抓球时，会抛出更快的绿色球，如果你不抓住那个球，你将失去一条生命。<br><br><strong>Forball:</strong><br>这个游戏的目的是在你和地球之间创造和保持尽可能多的球，记住每个球的行星气氛要复制。<br><br><strong>Gunball:</strong><br>在这个游戏中，你面前有一个大炮，你的任务是避免它的子弹，但要小心，你只有一个生命。花在手边是对嬉皮士的一点致敬。<br><br><strong>Acuball:</strong><br>在这个游戏中你会抓住球，其速度越来越快。如果你不抓一个，你将失去一条生命。也许是一个惊喜。<br><br><strong>Bubball:</strong><br>你有彩球，底部是不同颜色的升起的泡泡。你的任务是捕捉相同颜色的气泡，否则你会失去点数。如果你的分数低于零点，结束游戏，你可以再试一次。<br><br><strong>Runball:</strong><br>在这个游戏中，你将避免火柱，它们可以击中你，但你也可以用剑击退它们。每球得到一分。<br><br><strong>奖金游戏:</strong><br>Cubball - 将球送到它来自的墙上。<br>Oneball - 与自己一起打网球。<br>Bigball - 用头挑选微笑，避开恶魔。</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/722370/header.jpg?t=1576087496",
+    "developers": [
+      "Daniel Rychlý",
+      "Milan Matonok"
+    ],
+    "publishers": [
+      "Fungamesvr"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 57,
+      "highlighted": [
+        {
+          "name": "Graball one star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/adde823d8fa86150b047d52d52846226210b3611.jpg"
+        },
+        {
+          "name": "Graball two stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/86339ba8f274e8d4916fd03464c88789358c44f6.jpg"
+        },
+        {
+          "name": "Graball three stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/a475ca4a58aeb13454da9b2882f654774df32249.jpg"
+        },
+        {
+          "name": "Graball four stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/2ca1189fa5f128a00a34c2318aabac1f21deb735.jpg"
+        },
+        {
+          "name": "Graball five stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/684ab727acfbf2acadb57bfa309f94a755a28e59.jpg"
+        },
+        {
+          "name": "Forball one star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/3ca716d13203aaa7bf1d2546987dec1254d472e6.jpg"
+        },
+        {
+          "name": "Forball two stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/9d0ad7d0f7048d0290b8819bd5684cbe74a241a3.jpg"
+        },
+        {
+          "name": "Forball three stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/a1470df27b7843ee7a8d0cf87588ce463135a2e4.jpg"
+        },
+        {
+          "name": "Forball four stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/4ab8f2bf8f5dfea575075bff3d6f1d14b41c4728.jpg"
+        },
+        {
+          "name": "Forball five stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/722370/2f92e7246e9111c5fab4be51ac828bd1e266c28e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

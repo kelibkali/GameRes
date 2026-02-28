@@ -1,0 +1,89 @@
+{
+  "1379980": {
+    "name": "Unscripted",
+    "steam_appid": 1379980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Take on your developer dream in Catalina City in Unscripted! Follow the journey of a software developer aspiring to publish their video game into the PackStore's prestigious arcade while starting a new life in Catalina City, the city for software developers. Reconnect and meet close friends like Zen'no, new peers like Katorin, the Kotlin-loving developer, and possibly new enemies like Christina, an enigmatic Python developer.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Discord rich presence integration with each chapter* (opt-in by default)<br></li><li> Personalized routes based on choices and story maps (four base routes)<br></li><li> Ambient sounds and support for emphasizing sound effects and ambience over music<br></li><li> Ability to switch to the Lexend font and variant to increase readability<br></li><li> Puzzle mini-game with advanced scripting support<br></li><li> Rich notifications and realistic desktop via AliceOS</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1379980/header.jpg?t=1631557546",
+    "developers": [
+      "Marquis Kurt"
+    ],
+    "publishers": [
+      "Marquis Kurt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/add4370daf88007854799192638913ca5a8e0d5f.jpg"
+        },
+        {
+          "name": "Connected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/3d11bae051d1ed16bf63b10ae59c9f74db6e7077.jpg"
+        },
+        {
+          "name": "Game of the Year",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/c3c8a914b3bba79db62e58fb3eefe17a4bb2faaa.jpg"
+        },
+        {
+          "name": "Love at First Type",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/fdc4408ac5f09b862fdf300b50360bc927a55d69.jpg"
+        },
+        {
+          "name": "A Queen's Demise",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/fc6e4445ea293b42ba151dc50f871c43e7542958.jpg"
+        },
+        {
+          "name": "Completionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/5d8cbb902b008e48f0c64e78cef78d81c6844e36.jpg"
+        },
+        {
+          "name": "Breaking Boundaries",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1379980/1fb9de64d32a8522d68d6348badc347543f528a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

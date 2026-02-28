@@ -1,0 +1,69 @@
+{
+  "1064750": {
+    "name": "Space Tower",
+    "steam_appid": 1064750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Space Tower</strong>是一款基于策略选择的roguelike游戏，根据角色成长的随机性和关卡的随机性，做出恰当的选择是游戏核心内容<br><br>玩家需要在每一层关卡中找到前往下一层的入口，怪物的存在会封锁它附近的地块，只有击败怪物才能解除封锁，找到入口前往下一层<br><br>在探索过程中或者与怪物的战斗过程中会获得不同的武器、特性与遗物。武器会在战斗中不断被消耗，直到彻底损坏，不同的武器在攻击不同怪物时也会有效果的区别；特性可以加强玩家角色的某种属性；而遗物可以使玩家角色获得某些特殊的能力或者改变已有的规则。合理地对武器、特性和遗物进行搭配是通关的关键。<br><br>随着层数的增长，怪物的强度也会越来越高，怪物自身的武器与特性配合也会越来越合理；同时也会出现精英怪物与拥有特殊武器的首领怪物，需要玩家采用不同的方式应对。<br><br>无论是否成功通关，都会根据到达的层数、击败的怪物获得经验，解锁更多的可用遗物，让战斗过程更加丰富。<br><br>在反复的挑战过程中，充足的内容提供了足够的随机性与多样性：<br><ul class=\"bb_ul\"><li>多种不同的武器类型、多种不同的武器特效；多种不同的特性类型，与不同武器搭配效果更好<br></li><li>数十个不同的遗物，让挑战过程充满变数与思考<br></li><li>数十种不同的怪物、多种不同的环境强化效果，让每一次挑战都是不同的旅途</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064750/header.jpg?t=1574135360",
+    "developers": [
+      "JUANWUWU Games"
+    ],
+    "publishers": [
+      "JUANWUWU Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

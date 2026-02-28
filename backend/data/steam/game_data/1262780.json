@@ -1,0 +1,81 @@
+{
+  "1262780": {
+    "name": "Polary",
+    "steam_appid": 1262780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Polary 是一款休闲游戏，可以测试您的反应是否良好。橙色目标随机出现在运动场上，您的任务是点击它们，从而消灭它们，同时获得一个积分。困难在于，不同的目标以不同的方式移动，这使得将鼠标移到目标上非常困难。如果单击某个目标，您将获得一分。某些目标只有在变为橙色时才会被销毁。一些破坏目标会带您一点。您需要多次单击其他目标才能摧毁它们，但是此类物品的奖励会更大。屏幕中央是目标计数器，如果同时有10个以上的对象，您将会迷失方向。另外，如果您的分数为负数，您将立即输掉比赛，并且必须重新开始。您可以赚取多少积分？<br />\r\n<br />\r\n功能：<br />\r\n<br />\r\n-有趣的游戏<br />\r\n<br />\r\n-轻松的图形<br />\r\n<br />\r\n-好听的音乐<br />\r\n<br />\r\n-物体物理对游戏的影响",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262780/header.jpg?t=1584773718",
+    "developers": [
+      "Mike Sambrat"
+    ],
+    "publishers": [
+      "Mike Sambrat"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1262780/15fc4cbd0747a3ab956ab6d1ace001b6515b977d.jpg"
+        },
+        {
+          "name": "All Target",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1262780/72c7ad34e1e342943a30f1429c6a4de9246ca4fb.jpg"
+        },
+        {
+          "name": "Thousand",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1262780/1f6a16549ad4a8ed0e2d86b5bb8dfc5d5b4112d7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

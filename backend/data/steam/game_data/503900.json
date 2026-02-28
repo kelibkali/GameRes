@@ -1,0 +1,81 @@
+{
+  "503900": {
+    "name": "Candy Smash VR",
+    "steam_appid": 503900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Satisfy your hacking and slashing needs in colorful and mushy candy world. <br />\r\nCrush those flying candies and fruits with candy canes and make Pappa Candy happy!<br />\r\nAvoid those nasty time bombs at all cost!<br />\r\n<br />\r\nExperience the most fun you can have in virtual CandyLand.<br />\r\n<br />\r\nMore features to come on the request of player feedback!<br />\r\n<br />\r\nRequires HTC Vive.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503900/header.jpg?t=1764687111",
+    "developers": [
+      "Wadup Games"
+    ],
+    "publishers": [
+      "Conglomerate 5"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "1217280": {
+    "name": "MyBot",
+    "steam_appid": 1217280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Help Mybot find his home through a 3d maze of traps. Beware of shuttering glass, sliding ice, blocking walls and reset traps. Challenge yourself or your friend in multi-player. Have hours of fun and never run out of game-play as you create your own levels. Make your game the cool place to go.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217280/header.jpg?t=1596104054",
+    "developers": [
+      "Emile Badenhorst"
+    ],
+    "publishers": [
+      "Myvar Holdings"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

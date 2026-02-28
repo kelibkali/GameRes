@@ -1,0 +1,109 @@
+{
+  "1654200": {
+    "name": "Propulsion",
+    "steam_appid": 1654200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/ce5d791dd1700d2c53da6cd53d540217.poster.avif?t=1720974173\" width=360 height=56 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/ce5d791dd1700d2c53da6cd53d540217.webm?t=1720974173\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/ce5d791dd1700d2c53da6cd53d540217.mp4?t=1720974173\" type=\"video/mp4\"></video></span><br>Propulsion is a fast-paced 3D platformer inspired by the rocket jumping mechanic that has featured in many other games. The aim is for the player to use their rocket launcher to rocket jump across the levels as fast as possible, flying through a variety of environments, each featuring their own mechanics to spice up the gameplay.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/e96b2b913900e3c60aa7b976c94aa870.poster.avif?t=1720974173\" width=358 height=56 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/e96b2b913900e3c60aa7b976c94aa870.webm?t=1720974173\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/extras/e96b2b913900e3c60aa7b976c94aa870.mp4?t=1720974173\" type=\"video/mp4\"></video></span><br><ul class=\"bb_ul\"><li> <strong>100 Unique levels!</strong><br></li><li> <strong>5 Unique environments themed around seasons!</strong><br></li><li> <strong>In-game level editor with Steam Workshop integration!</strong><br></li><li> <strong>5 Game modes (Including a Speedrun mode)!</strong><br></li><li> <strong>Compete against yourself to get the fastest time using a built in stopwatch!</strong></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654200/header.jpg?t=1720974173",
+    "developers": [
+      "Chadderbox"
+    ],
+    "publishers": [
+      "Chadderbox"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "Liftoff!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/61b95412ca68e66aa18bca8351c96dfdda7220b1.jpg"
+        },
+        {
+          "name": "Rocket Rookie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/4e83c0bc56ede6d0083345636d3b9a4440a222ec.jpg"
+        },
+        {
+          "name": "To The Moon!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/0f20b1596d1aeba8b155a51cb0069f91c73f8061.jpg"
+        },
+        {
+          "name": "To Mars!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/5ecb94fd4669c93a22a86a5fa9ad3629a3566d74.jpg"
+        },
+        {
+          "name": "Rocket Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/8d3ec7df53eb16e44f0df3d156603f7c63bac8ea.jpg"
+        },
+        {
+          "name": "Walk to the shops",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/44f247401566e3433951c214bbb6158edb1f8210.jpg"
+        },
+        {
+          "name": "Morning Jog",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/cf550831f0704f662558816f127c06c8c75ec41c.jpg"
+        },
+        {
+          "name": "Cross Country",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/6711a3746c265f0e3de09e9d25789628eb6e1010.jpg"
+        },
+        {
+          "name": "Marathon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/80c4f75d1ee116c1f971a17eec7d63c6b65a8a2d.jpg"
+        },
+        {
+          "name": "Try And Try Again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1654200/9e2adebab37b83e8299b4f59b3f66372da179c29.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

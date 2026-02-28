@@ -1,0 +1,61 @@
+{
+  "1007240": {
+    "name": "Stage of Light",
+    "steam_appid": 1007240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Stage of Light is a lighting sandbox where you can build stages with procedural modelling tools and control both lights and stage structures with integrated DMX controllers.<br>Every device in the game can be triggered with DMX signal.<br>You can program them from DMX controllers and create nice light shows.<br><br>Supports MIDI control. Anything from a simple MIDI keyboard to Launchpad grid controller and APC style controllers would work.<br>It has plenty of options to support any MIDI device. It supports both MIDI keys and gradual input sources like faders and knobs on a MIDI device.<br>Lights on your Launchpad or similar type of grid controllers can synchronized with playback information in DMX consoles in the game.<br><br>Realityocean Games<br><br><strong>Builder features</strong><br><ul class=\"bb_ul\"><li>19 lighting fixtures with different effects and capabilities.<br></li><li>Fire machine with DMX control.<br></li><li>7-axis industrial robot with 3 different size(can be controlled with DMX too).<br></li><li>Ability to build stage trusses with almost any shape or size.<br></li><li>A special stage builder system that helps you to erect a stage with a few clicks,<br>if necessary resizes trusses when you move them around.<br></li><li>Scaffolding truss builder system that allows you to the create scaffolding structures very easily.<br></li><li>Video panel builder system which allows you to install huge video panels on scaffolding structures.<br></li><li>Cube builder system to create stage floors or other interesting shapes.<br></li><li>Position and Rotation snapping options for ease of use.<br><br><strong>Lighting controllers</strong><br><br>Dmx 960 Console<br>- Up to 40 fixtures<br>- 2 control wheels <br>- Effect Generator<br>- Chase Modulator<br><br>M5000 Dmx Console<br>- Controls virtually unlimited fixtures<br>- 3 touchscreens with scrolling capability<br>- 3 control wheels with integrated display<br>- Fixture groups<br>- Effect Generator<br>- Chase Modulator<br><br>All Dmx consoles can be controlled by clicking their buttons or moving faders &amp; wheels.<br>Playbacks can be triggered by moving faders with mouse or key presses from your keyboard.<br><br><strong>Visual Content</strong><br>In the game there is a 2D graphics engine which generates visuals to display them on video panels. Mapping 2D visuals to video panels can be done with a few clicks.<br><br>In this sandbox you can record everything you have done in the game to a save file and load the save file later and continue playing.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007240/header.jpg?t=1721296660",
+    "developers": [
+      "Realityocean Games"
+    ],
+    "publishers": [
+      "Realityocean Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 18000,
+      "final": 18000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 180.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "1218010": {
+    "name": "HGFaceDD",
+    "steam_appid": 1218010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "注意<br>本软件已经停止维护和更新了哦<br><br><br>HgFaceDD是一款直播用的虚拟角色模拟软件，它可以通过网络摄像头实时捕捉被捕捉者的面部状态变化，并且将它铜步到使用者自己的虚拟角色上去<br><br>facedd在电脑上使用较为轻量的人脸面部捕捉方案 因此捕捉的精度并不是非常精确 并不会有那些大公司制作的面部捕捉技术效果啦 (我做不出来的啦） 需要小伙伴们自行进行平滑以及阈值的调整才可以哦~（使用iphone的faceid的话就无视这一条吧ww）<br><br>购买须知：此软件由皓际单人开发 因此面部捕捉的精度并不是特别高 （重要的事情说好多遍ww）<br>一般使用手动校准对各捕捉参数进行自定义的调整后才可以使捕捉相对稳定 <br>无faceid版本iphone的小伙伴们要是想要傻瓜式的超高精度面部捕捉还请绕道哦 facedd不能满足那样的需求哦~ <br>皓际主职还是一个画师哦 因为自己的电脑太烂了带不动某f开头皮套直播软件所以就自己给自己开发了一个面部捕捉软件啦~ <br>然后各种各种事情就突然通用化处理发布到steam上来啦~（当然faceDD已经拥有了Live2D公司的拓展许可证）<br>皓际作为虚拟皮套man主要使用自己的软件 所以还是会对facedd进行更新优化的 这些优化都会顺带免费更新至这里ww<h2 class=\"bb_tag\" >主要功能</h2>Hgfacedd还拥有基于p2p的多人联动的联机功能 是多人联动直播时的模型互动变得更加简单！<br>主要针对bilibili直播使用，拥有bilibili直播间的自定义礼物互动功能<br>可以自定义表情快捷键<br>可以打开或关闭全局快捷键 无论何时都能按键控制模型表情哦~<br>facedd还可以连接iPhone使用iphone的3d结构光摄像头来进行面部捕捉w iphoneapp的名称为Amgface <br>也可以使用安卓手机来进行捕捉 apk就在facedd根目录哦~ 捕捉方法参照软件根目录的使用说明“readme”文件<br>使用手机捕捉连接电脑不仅可以及大幅度的降低电脑的cpu负担iphone的3d结构光摄像头还可以提供更为准确且稳定的面部捕捉w<h2 class=\"bb_tag\" >【使用方法】</h2>1.首先将模型放入指定模型库  HGLiveDD\\HGfacedd_Data\\StreamingAssets\\liveddmodel<br>2.确保模型的文件夹和文件夹内以model3.json为后缀的文件名字相同<br>3.模型的缩略图也需要和上条的名字相同才能显示 并且需要为png格式<br>4.首先确保摄像头可以正常使用<br>2.打开HgFaceDD<br>3.选择你需要使用的模型<br>4.这个时候你就已经是一名套皮man啦！",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218010/header.jpg?t=1705519521",
+    "developers": [
+      "HG重工"
+    ],
+    "publishers": [
+      "HG重工"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 25 日"
+    },
+    "categories": [],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 169,
+      "total_negative": 4,
+      "total_reviews": 173
+    }
+  }
+}

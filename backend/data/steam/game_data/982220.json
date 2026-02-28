@@ -1,0 +1,117 @@
+{
+  "982220": {
+    "name": "Globesweeper",
+    "steam_appid": 982220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Globesweeper</strong> 是一款对经典扫雷玩法进行全新改编的游戏。利用数字推理出哪些格子可以安全翻开，但一定要小心——只要失误翻到一个地雷，整个球体都会瞬间爆炸，你只能重新开始！</p><p class=\"bb_paragraph\" >提供六边形、三角形和经典方形三种模式，5 种球体大小以及 4 档难度设置。你可以挑战从仅由 92 个格子组成的小型六边形球体，到拥有 20,480 个格子的巨型三角形球体。</p><p class=\"bb_paragraph\" >可选择传统模式或“保证可解”模式，在该模式下你永远不需要猜测。</p><p class=\"bb_paragraph\" >通过获得成就解锁全部 14 款主题，包括地球、月球、火星，以及炫酷的金色、红宝石、绿宝石和蓝宝石主题。</p><p class=\"bb_paragraph\" >你能征服一颗巨型球体吗？</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/7728413fe3b9239a9802783a71ee75cb.poster.avif?t=1764792376\" width=256 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/7728413fe3b9239a9802783a71ee75cb.webm?t=1764792376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/7728413fe3b9239a9802783a71ee75cb.mp4?t=1764792376\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><strong>如何游玩</strong></h2><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >你翻开的每一个格子都会显示一个数字（空白表示 0）。这个数字代表相邻格子*中地雷的数量。<br>例如，在六边形模式中，如果某个格子显示数字 3，而它的 6 个相邻格子中已有 3 个被翻开，那么你就知道剩下的 3 个一定是地雷。</p><p class=\"bb_paragraph\" >现在，如果你看到一个数字为 1 的格子，并且它的某个相邻格子已经被标记为地雷，那么你就知道其余 5 个相邻格子都是安全的，可以放心翻开，因为它的那一个地雷已经被确认了。</p><p class=\"bb_paragraph\" >使用这种技巧，不断推理，直到整颗球体全部被揭开。同样的方法适用于三角形模式和经典方形模式。</p><p class=\"bb_paragraph\" >*相邻格子指任何<strong>共享一个角点</strong>的格子。六边形是 6 个相邻格子，方形是 8 个，三角形则是 12 个。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/2064e9c11bf0f89560baa6dcf564aaa1.avif?t=1764792376\" width=128 height=128 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/34c0070bb0f4d27500dfaabb81dc4e15.avif?t=1764792376\" width=128 height=128 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/extras/a6892e561031654b3c1d208f2c72c4af.avif?t=1764792376\" width=128 height=128 /></span></p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" >主要特色</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 保证可解模式</p></li><li><p class=\"bb_paragraph\" > 六边形、经典方形与三角形三种玩法模式</p></li><li><p class=\"bb_paragraph\" > 5 种球体大小可供选择</p></li><li><p class=\"bb_paragraph\" > 4 个难度等级 </p></li><li><p class=\"bb_paragraph\" > 120 个全球排行榜</p></li><li><p class=\"bb_paragraph\" >14 款可解锁主题 </p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982220/header.jpg?t=1764792376",
+    "developers": [
+      "Incandescent Games"
+    ],
+    "publishers": [
+      "Incandescent Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Super Hexagon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/49799d05199af57e6b66a8522b8655d25e144fac.jpg"
+        },
+        {
+          "name": "Old School",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/d61a237c7880c38e3125f596a91860f541e7ed5b.jpg"
+        },
+        {
+          "name": "Pythagorean",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/e09caad2a32dec08fe596961c91594a719eaa4a1.jpg"
+        },
+        {
+          "name": "Connoisseur",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/664f96d03df392946d24d5b0869bfa35233fb060.jpg"
+        },
+        {
+          "name": "Tessellation Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/107fa60d345154d9246d1b273b818cac94971a97.jpg"
+        },
+        {
+          "name": "I Thought it Would Never End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/0074a0c77d165a95863ae951341924fec5199b5f.jpg"
+        },
+        {
+          "name": "Synesthesia",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/b7fa15935de9fdf3c1017e113d4f5e60f05b9763.jpg"
+        },
+        {
+          "name": "Globe Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/e0e9f26610ea1459ed89cc8bae2e656b713768d3.jpg"
+        },
+        {
+          "name": "Beat the Egg Timer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/ffffb37938a64c5ba034d9b05d87fc7f6f1465d3.jpg"
+        },
+        {
+          "name": "All Safe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/982220/10fd2aebdd652a2ebb93c325d96a40435716a7f5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 58,
+      "total_negative": 10,
+      "total_reviews": 68
+    }
+  }
+}

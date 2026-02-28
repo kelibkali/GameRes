@@ -1,0 +1,101 @@
+{
+  "1098230": {
+    "name": "Eidolon adventure",
+    "steam_appid": 1098230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<u><h2 class=\"bb_tag\" ><strong>关于这款游戏    </strong></h2></u><br>这是一款休闲挂机类游戏,在游戏中你可以通过战胜敌人使你的精灵更加强大.<br><br>你可以通过敌人的掉落品来合成新的精灵或者出售金币在商店中购买素材精灵来增加你精灵的属性.<h2 class=\"bb_tag\" ><strong>特点:</strong></h2><br>6张地图.<br><br>超过60种不同的敌人.<br><br>10种不同的精灵.",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098230/header.jpg?t=1561471558",
+    "developers": [
+      "kibou"
+    ],
+    "publishers": [
+      "kibou"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "史莱姆王国",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/45191d8079523cbf7881628df79f51208861619a.jpg"
+        },
+        {
+          "name": "几何世界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/f894bb4512a88c291184ff68219939ab759de3ea.jpg"
+        },
+        {
+          "name": "元素世界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/6da17ba25ed306a16aa9eb136d431d336c587649.jpg"
+        },
+        {
+          "name": "植物世界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/27c3f082f14ea8b49f3797b5d8e66ace807131c5.jpg"
+        },
+        {
+          "name": "动物世界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/f0a3b2aa4c17d2e69923bfe1058c4943553625dd.jpg"
+        },
+        {
+          "name": "通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/7bbd1b4fd77e502c74fc5ea4a9dd73cac89a1afe.jpg"
+        },
+        {
+          "name": "初级魔法攻击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/f1c6188306d6ef92cea14fd923e0d182af17fa25.jpg"
+        },
+        {
+          "name": "中级魔法攻击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/31f69c44ba84cfb22cfa317e7efdacb611c43d42.jpg"
+        },
+        {
+          "name": "高级魔法攻击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/398376cc10c20327e767346f2fe0085455dec3dd.jpg"
+        },
+        {
+          "name": "初级物理攻击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1098230/fbbad001c15626ac0b7b94343a2218c641b69533.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "672490": {
+    "name": "DeDrive",
+    "steam_appid": 672490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a raceing game with a single and multiplayer game. In one lobby six player can play together. You can chose one map out of the mappool and the count of . The way to create a lobby is very easy and simple. When all player set there status to ready and you start the game you can drive some quick rounds. To control your vehicle you can use W,A,S oder D, but you can also use the arrow keys.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672490/header.jpg?t=1600169147",
+    "developers": [
+      "rydeom",
+      "Cobra"
+    ],
+    "publishers": [
+      "RYD-Company"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Play your first game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672490/b0fa6e91e45082aace45e89b99600543ff991b5c.jpg"
+        },
+        {
+          "name": "Create a Multiplayer Lobby and start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672490/2aec26d0b1854bffd69973f85da8868579e3eaee.jpg"
+        },
+        {
+          "name": "Be faster than USB 3.1 Type C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672490/a07e95f54f1de6d18638d2c7ac01fb26eace2baf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

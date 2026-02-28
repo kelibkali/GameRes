@@ -1,0 +1,105 @@
+{
+  "487370": {
+    "name": "Akin",
+    "steam_appid": 487370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In this puzzle, you only have to draw one continuous line. <br><br>When you draw on a tile, it will change color from orange to blue or from blue to orange. You solve each puzzle, by making all tiles akin. <br><br>There are 96 puzzles on &quot;Normal&quot;-mode and 96 puzzles in &quot;Time&quot;-mode. Each puzzles can have many different solutions. Start with basic puzzles and unlock harder ones. <br><br>There are also special tiles. The &quot;Teleport&quot;-tile, teleports the line to another point in the puzzle. The &quot;Double Use&quot;-tile can be used twice, which is requires to solve some of the puzzles<br><br><strong>Steamworks Integrated</strong><br>This is game is Steamworks integrated with achivements, badges, trading cards and more.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487370/header.jpg?t=1763396873",
+    "developers": [
+      "ThinkOfGames"
+    ],
+    "publishers": [
+      "Conglomerate 5"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Normal Mode Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/3229a1e15062fb0e1d62ac4b73797f5e0572a03a.jpg"
+        },
+        {
+          "name": "Normal Mode Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/d1f94292b8906cf7afa30c5b7c1c69d97bc87aa9.jpg"
+        },
+        {
+          "name": "Normal Mode Advanced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/c80baf11d339c2c8a5f4ec7e7d8a3a62b31be6b1.jpg"
+        },
+        {
+          "name": "Normal Mode Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/035d16d7c0c95f4ac266070644ae99d20f5c3719.jpg"
+        },
+        {
+          "name": "Time  Mode Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/0cfe4e21f905276d4418b5052abcb90f0502addd.jpg"
+        },
+        {
+          "name": "Time Mode Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/12b72f3d3f612cc505df83fc946dc916402aafdf.jpg"
+        },
+        {
+          "name": "Time Mode Advanced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/3a0f6035ea5e68e67fd2f81e5d0c07cf139414c6.jpg"
+        },
+        {
+          "name": "Time Mode Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/1d5080b54df0c26dd7ea2211159c11eeb5165ea0.jpg"
+        },
+        {
+          "name": "Time Lord",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/487370/efa3c3be529d787ef3226812fe4fb1559726ec7e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 44,
+      "total_negative": 7,
+      "total_reviews": 51
+    }
+  }
+}

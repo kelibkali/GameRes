@@ -1,0 +1,129 @@
+{
+  "603260": {
+    "name": "The Cat Games",
+    "steam_appid": 603260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603260/extras/b48984235a516fceafea15c57ff23173.avif?t=1669185816\" width=739 height=140 /></span><br>最近好吗？我看见你在看这个游戏的商店页面。来吧，抓起mouse，摆个舒服的姿势。让我向你介绍一下<strong>猫猫游戏</strong>.<br><br>你可以挑战三个主要游戏：<br><br><ul class=\"bb_ul\"><li> 室内运动：挑战你的反应力，跑跑更健康~<br></li><li> 游泳挑战：测试你的神经韧性，给主子洗澡可比登天还难！<br></li><li> 猫咪血统台球：挑战你的物理和数学知识，以及对猫猫血统的学习能力</li></ul><br>不止这些哦！猫猫游戏中还有数个微游戏，可以狩猎有趣的成就呢！嗯~你还会狩猎，对吗？想知道谁是猫王吗？看看积分榜吧！想要可爱的猫猫表情、徽章和背景？我当然也为你准备好了！这不仅仅是带有猫猫的游戏，而是一款<strong>关于</strong>猫猫的游戏！<br><br>怎么样，想好了吗？<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603260/extras/1bfe2e293b444389baa607db261c9988.avif?t=1669185816\" width=739 height=150 /></span>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603260/header_schinese.jpg?t=1669185816",
+    "developers": [
+      "M. Hanka"
+    ],
+    "publishers": [
+      "Liu Lidan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "测试",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/e46cc3baf1b05f8b824e79f5b1920a73441db896.jpg"
+        },
+        {
+          "name": "美梦",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/4e89152d8f3f6bc73bc9593b215c90c70f056674.jpg"
+        },
+        {
+          "name": "QWERTY？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/03fe9b2777ead3e2f0f9099d9354e946e75427b9.jpg"
+        },
+        {
+          "name": "观鸟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/890e9727555310abd77cfe035c343ff25cb94ab6.jpg"
+        },
+        {
+          "name": "捉虫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/61f96001f78a2c259f3c464c3ef1751043e5ff39.jpg"
+        },
+        {
+          "name": "升天",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/006e2fed511f0ec7e6bf11c7d2120232e6dcc38a.jpg"
+        },
+        {
+          "name": "鹰头猫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/03a940d3e12e9dd23e88c878ec9e6df5a7020abe.jpg"
+        },
+        {
+          "name": "面具",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/904af06a884a27f56ae7daef6c94e465ed5e20e6.jpg"
+        },
+        {
+          "name": "麝香猫咖啡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/89dc870375423fcaadaa1f88f57a1e409cd5e633.jpg"
+        },
+        {
+          "name": "想象实验",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/603260/84ad4095bffb754079355c7c484a7ae97f01d366.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 149,
+      "total_negative": 31,
+      "total_reviews": 180
+    }
+  }
+}

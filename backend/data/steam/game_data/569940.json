@@ -1,0 +1,87 @@
+{
+  "569940": {
+    "name": "Bocce Beach",
+    "steam_appid": 569940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Step into the tropical paradise of Bocce Beach and play an immersive bocce ball game in VR!<br />\r\n<br />\r\nYou can naturally toss bocce balls on the beach with fun special effects and real-time sports commentary. Whether you want to play against the computer or compete with others for the Bocce Beach rankings, you’re guaranteed to have a blast!<br />\r\n<br />\r\nThe game supports both HTC Vive and Oculus Rift with touch controllers (360 tracking required).",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569940/header.jpg?t=1754224900",
+    "developers": [
+      "Funly, LLC"
+    ],
+    "publishers": [
+      "My Way Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "820710": {
+    "name": "Mogic",
+    "steam_appid": 820710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >游戏目标</h2>尽全力吃光所有金币<h2 class=\"bb_tag\" >并不推荐玩这款游戏</h2><strong>这个游戏的功能还不完全，因为这是我个人的一个yearly project。会持续更新到8月，但是并不是每天都会花时间在这上面。游戏最后会变成什么样我自己也不是很确定。<br>上架这个游戏的原因是为了纪念我的第一个游戏，这个游戏并不是好游戏。所以我不推荐大家购买，当然如果你愿意喜加一什么的话那就太好了。<br>未来会更新一些exciting的成就系统，如果集换式卡牌的标准达到了，我也会添加一些有意思的表情和背景</strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820710/header.jpg?t=1523055791",
+    "developers": [
+      "Tibbers"
+    ],
+    "publishers": [
+      "Tibbers"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "吼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820710/1f1f9e2ad91d0512987885874125bb85c8a97336.jpg"
+        },
+        {
+          "name": "01",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820710/4d2b59ac9b82a17ebbc0d8668a7beef4fc7c0668.jpg"
+        },
+        {
+          "name": "02",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820710/98652c6de195c2a561668fb61d0e27e8070f9275.jpg"
+        },
+        {
+          "name": "03",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820710/e82bc17039c775372c3dd1db0b3aefbade93cf46.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 5,
+      "total_negative": 11,
+      "total_reviews": 16
+    }
+  }
+}

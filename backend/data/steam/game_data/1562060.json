@@ -1,0 +1,121 @@
+{
+  "1562060": {
+    "name": "DotStrike",
+    "steam_appid": 1562060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562060/extras/ef0dcd45bf41e034243005a2e364a55b.poster.avif?t=1656144516\" width=736 height=60 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562060/extras/ef0dcd45bf41e034243005a2e364a55b.webm?t=1656144516\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562060/extras/ef0dcd45bf41e034243005a2e364a55b.mp4?t=1656144516\" type=\"video/mp4\"></video></span><br>DotStrike 是一款 3D 在线射击游戏，其中外星入侵者以彩色球体的形式在海港中相互战斗。<br><br>目前，两种游戏模式已完全实现：“团队对抗”和“对抗”。<br><br>在“团队对抗”模式中，玩家分为红蓝两支队伍。每一方的目标是比其他球队更快地得分。<br><br>在“对抗”模式中，每个玩家都是为了自己。最强的外星人将赢得这场战斗。<br><br><strong>游戏剧情</strong><br><br>所有武器都有无限弹药。这一切都归功于即时墨盒制造的外星技术。例如，在 RPG 中，射击后，火箭会在榴弹发射器的枪口中生长。<br><br>但外星人并不是孤军奋战。除了他们，还有另一面。它被称为“未知的力量”。人类不只是观看外星人的冲突。不时有一架轰炸机升到空中，向交战的外星人投掷炸弹。除了人，还有自然灾害也没有袖手旁观。这是突然上升的岩浆或龙卷风，它会吞噬沿途的一切。<br><br>从最近的计划中添加游戏模式：“Zombies”、“2122”、“Serious Ball”。以及新枪，包括外星枪。",
+    "supported_languages": "英语, 俄语, 简体中文, 德语, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562060/header.jpg?t=1656144516",
+    "developers": [
+      "MagicFoxG"
+    ],
+    "publishers": [
+      "MagicFoxG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Secret in the port",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1562060/aa25543ac8a18eb1059a588a5161fefa54474bfb.jpg"
+        },
+        {
+          "name": "Powder?!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1562060/b777eaa4a13ba9c1a34ece40fd69cf8eb377d417.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

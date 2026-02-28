@@ -1,0 +1,42 @@
+{
+  "1356430": {
+    "name": "Vrifier - Teatime Photogrammetry Toolkit",
+    "steam_appid": 1356430,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Photogrammetry Toolkit is a set of preprocessing and postprocessing tools designed to help professional and hobbyist photogrammetry and computer vision workflows.<h2 class=\"bb_tag\" >Frame Reduction</h2>A tool for intelligently processing videos and image sequences for photogrammetry purposes, removing images that are of low quality or too low parallax to be useful. Also contains functionality to extract videos to image sequences and to correct lens distortion.<br>Filtering steps can also be run from command-line.<h2 class=\"bb_tag\" >Mesh Optimization</h2>The Mesh Optimization tool contains support for importing various mesh formats, mesh simplification with the optimized Vrifier algorithms and tools for orientation and reference scaling.<h2 class=\"bb_tag\" >Spherical Projection Mapping</h2>A tool designed for calibration of 3d mesh to spherical image correspondence. (360 equirect) This can be used for recovering the approximate original photography position and orientation, and for projecting the spherical image back on the original world geometry.<br><br> <br><strong>Note that Teatime Photogrammetry Toolkit does not feature actual functional photogrammetry image bundling or mesh creation software.</strong> <br><br>This tool is a co-creation project with the Department of Geosciences and Geography, University of Helsinki, Finland.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356430/header.jpg?t=1594315006",
+    "developers": [
+      "Teatime Research Ltd."
+    ],
+    "publishers": [
+      "Teatime Research Ltd."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

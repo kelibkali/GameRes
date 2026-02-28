@@ -1,0 +1,97 @@
+{
+  "271900": {
+    "name": "Hexcells Plus",
+    "steam_appid": 271900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hexcells Plus是一款适用于PC、Mac和Linux的，氛围轻松的逻辑益智游戏。<br />\r\n<br />\r\n本系列的第二作，包括36个全新的、更具挑战性的谜题。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271900/header.jpg?t=1667308703",
+    "developers": [
+      "Matthew Brown"
+    ],
+    "publishers": [
+      "Matthew Brown"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "世界2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/f01328593533d6335c443dd3faa8442ec7a68ce3.jpg"
+        },
+        {
+          "name": "世界3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/4f0df80215697b0e75e8487f1c6d446cfd290bdb.jpg"
+        },
+        {
+          "name": "世界4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/ba52d59ca512a8409eb9c45374c0322d00d86ac8.jpg"
+        },
+        {
+          "name": "世界5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/2f32a3ceb642b1d73938e83f486d2f538cc7b385.jpg"
+        },
+        {
+          "name": "世界6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/c48324d32dcc1a396ec97a3c7631ec9081149f59.jpg"
+        },
+        {
+          "name": "完美主义者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/271900/099f1e38fc1dc62763727e43bf2e5701323eecc2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 394,
+      "total_negative": 17,
+      "total_reviews": 411
+    }
+  }
+}

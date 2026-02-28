@@ -1,0 +1,129 @@
+{
+  "1351290": {
+    "name": "AccidentHouse",
+    "steam_appid": 1351290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351290/extras/05cb4eec98ede445900607e44466e0a6.poster.avif?t=1737138703\" width=620 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351290/extras/05cb4eec98ede445900607e44466e0a6.webm?t=1737138703\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351290/extras/05cb4eec98ede445900607e44466e0a6.mp4?t=1737138703\" type=\"video/mp4\"></video></span></h2><br><strong>1.这是一个日本学生作为兴趣爱好开发的游戏。<br>2.开发商只懂日语。<br>3.对不起，这都是机器翻译<br>4.我觉得这个游戏很可怕<br>5.你根本无法理解这款游戏的文字。<br>6.请把它当做一个游戏来享受气氛。<br>7.请大家购买!</strong>",
+    "supported_languages": "英语<strong>*</strong>, 俄语, 简体中文, 日语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351290/header.jpg?t=1737138703",
+    "developers": [
+      "K App."
+    ],
+    "publishers": [
+      "K App."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 37,
+      "highlighted": [
+        {
+          "name": "序幕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/0cf5f794ecbb523702cf586cdd7effd5b9a4b19e.jpg"
+        },
+        {
+          "name": "前言",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/f77a4689a5de4f52957c98d03b92271386c54b4b.jpg"
+        },
+        {
+          "name": "更深入...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/d67467a0202d4c9b5506c6d35cce09188a79ec7b.jpg"
+        },
+        {
+          "name": "大计划",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/1f6c708f73859268e23f594143d70762948ff862.jpg"
+        },
+        {
+          "name": "真相",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/b8335a9806e99f0b7fe31d6a5350c6c3485c3103.jpg"
+        },
+        {
+          "name": "夜晚继续...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/8c550a6b32ed592d686d9ed5475a27a6550012d1.jpg"
+        },
+        {
+          "name": "恐惧的开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/f607a1ec78a60f81e155052a30d8dfa802a1a072.jpg"
+        },
+        {
+          "name": "令人毛骨悚然的废弃的房子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/75832f97de0d46530dfafb41abb7eb24bef721af.jpg"
+        },
+        {
+          "name": "痛苦...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/20175b00056e73f531380c2fc58f55ef70273aee.jpg"
+        },
+        {
+          "name": "这是...？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1351290/22d569ff3f9e4cbfb8b8bfeb1ed549cff573f7f0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    }
+  }
+}

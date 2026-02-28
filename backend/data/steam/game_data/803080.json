@@ -1,0 +1,97 @@
+{
+  "803080": {
+    "name": "Bad Day",
+    "steam_appid": 803080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i>*WARNING: BAD LANGUAGE*</i><br><br><strong>Bad Day</strong> - an endless runner with unique combination of 2D graphics and 3D environment. Compete with players from all around the world. But do not forget that the difficulty increases as you progress through.<br><br>- <strong>Endless gameplay</strong>. Run and try to survive as long as you can.<br>- <strong>Obstacles</strong>. The environment will distract you, and various obstacles will not let you get bored.<br>- <strong>Simple controls</strong>. All you have to do is to run and jump. That simple.<br>- <strong>Leaderboard</strong>. You can compete against players all over the world. The leaderboard will be updated in real time.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/header.jpg?t=1573963205",
+    "developers": [
+      "Black Lime Studio"
+    ],
+    "publishers": [
+      "Black Lime Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Nice try",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/c700dc67ac877c70410fb3989b2245af82482338.jpg"
+        },
+        {
+          "name": "Run, Forrest! RUN!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/31bebc0eb6556da15d0c7a401fe1d62be61f3fc2.jpg"
+        },
+        {
+          "name": "Just Do It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/9e3bb50eb1d2729c1111e9cff70a25bda7809c58.jpg"
+        },
+        {
+          "name": "Fastest finger ever",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/11c15549667b390bfe024bb80aa9fb47baa2f6de.jpg"
+        },
+        {
+          "name": "Not bad",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/b5b0ddd8b75f15557129453e4d63cfdb23380c52.jpg"
+        },
+        {
+          "name": "Are you mad, bro?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/803080/0f6d56abbc9119c8e0dd120a4b1975aeedafe034.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

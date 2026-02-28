@@ -1,0 +1,73 @@
+{
+  "1060240": {
+    "name": "Rumia in the darkness",
+    "steam_appid": 1060240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一部以露米娅为主角的黑暗风格冒险游戏。为了阻止某个企图通过修改妖怪们的名字来削弱其力量的邪恶大商人，露米娅将潜入到人类村落中。她必须在不被人发现的情况下前进并突破大量的障碍，同时猎杀村民来获得新技能。<br><br><br><br><strong>游戏特点：</strong><br><br>·支持三种语言：简体中文、英语、日语。<br><br>·游戏类型为策略+解谜+潜行。<br><br>·游戏剧情包含了大量的黑色幽默。<br><br>·作为策略游戏，露米娅的吃人数量将直接决定她是否可以获得新技能。<br><br>·作为解谜游戏，玩家将在10张地图上解开不同的谜题。<br><br>·作为潜行游戏，如果露米娅被多人发现会导致游戏失败。<br><br>·大多数的NPC都有视野范围，看到露米娅就会做出反应。<br><br>·支持Steam云。<br><br><br><br>《黑暗中的露米娅》是《東方Project》的二次同人游戏，遵守相关的发布规约。",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1060240/header.jpg?t=1587373632",
+    "developers": [
+      "Dark Sky Empire"
+    ],
+    "publishers": [
+      "Dark Sky Empire"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 16,
+      "total_negative": 3,
+      "total_reviews": 19
+    }
+  }
+}

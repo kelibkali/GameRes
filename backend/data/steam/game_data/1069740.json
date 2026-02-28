@@ -1,0 +1,125 @@
+{
+  "1069740": {
+    "name": "Seen",
+    "steam_appid": 1069740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>A lonely kid desperately tries to escape his dark world.</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/4774cc393a2694778f7dde9c453f0709.poster.avif?t=1667008688\" width=612 height=192 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/4774cc393a2694778f7dde9c453f0709.webm?t=1667008688\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/4774cc393a2694778f7dde9c453f0709.mp4?t=1667008688\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/1742804356ef5a403e32a50a03ec7949.poster.avif?t=1667008688\" width=612 height=192 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/1742804356ef5a403e32a50a03ec7949.webm?t=1667008688\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/extras/1742804356ef5a403e32a50a03ec7949.mp4?t=1667008688\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/header.jpg?t=1667008688",
+    "developers": [
+      "Seen Games"
+    ],
+    "publishers": [
+      "Seen Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 210,
+      "highlighted": [
+        {
+          "name": "0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/c75441f22057af0c146e98e3ad6e6601d88b5f19.jpg"
+        },
+        {
+          "name": "1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/aa09438eb5da480207f82f5e132cbd2cb036c8f2.jpg"
+        },
+        {
+          "name": "2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/464228e7422485a3497ab751e7efd77496430dd6.jpg"
+        },
+        {
+          "name": "3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/537f3e5d70c33cc359ba71ff0732e68446f23212.jpg"
+        },
+        {
+          "name": "4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/64c14e82add46dd5ed8b4574a9a6e3ef6ba78c53.jpg"
+        },
+        {
+          "name": "5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/66f5fddade24fd65393442651125603199724e20.jpg"
+        },
+        {
+          "name": "6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/493a5a43ae912a19c3afdff59d8bf7b6edd5d499.jpg"
+        },
+        {
+          "name": "7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/d0fac2c0bca9ff9a060b80eec993a33beadd2b86.jpg"
+        },
+        {
+          "name": "8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/3844ca0ba8ae689233c78c8262f4b8638a0bde6c.jpg"
+        },
+        {
+          "name": "9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1069740/e16651c9afb05396f6c5041a79bbe11c914cd413.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 610,
+      "total_negative": 70,
+      "total_reviews": 680
+    }
+  }
+}

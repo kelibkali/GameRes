@@ -1,0 +1,153 @@
+{
+  "280520": {
+    "name": "Crea",
+    "steam_appid": 280520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Embark on an adventure with what little you have and discover what the world of Crea has to offer. Through each action, improve your talents and master many skills. Through each victory, grow in strength and shape yourself. Through each inquiry, unlock new items to craft and build. Through each expedition, explore new realms and uncover Crea’s lore. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/extras/c4110a3729b26c4424f631feb33f80c2.avif?t=1734129970\" width=616 height=134 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Level up by defeating enemies </p></li><li><p class=\"bb_paragraph\" >Learn over 80 skills through the talent system </p></li><li><p class=\"bb_paragraph\" >Loot and craft powerful gear with unique attributes </p></li><li><p class=\"bb_paragraph\" >Discover the world’s expansive mythos and history</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/extras/765a713c74054ec8cb309a0a87f547e2.avif?t=1734129970\" width=616 height=188 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Defeat challenging original monsters each with their own attacks</p></li><li><p class=\"bb_paragraph\" >Survive by timing shield blocks and dodge rolling</p></li><li><p class=\"bb_paragraph\" >Vanquish by your weapon of choice: Sword, Spear, Bow, or Magic</p></li><li><p class=\"bb_paragraph\" >Challenge massive bosses and prepare to die</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/extras/5e022edf70b3e4ffbb41ebeff0f5cdef.avif?t=1734129970\" width=616 height=188 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Research materials to discover their crafting capabilities</p></li><li><p class=\"bb_paragraph\" >Find old recipe scrolls scattered throughout the world</p></li><li><p class=\"bb_paragraph\" >Upgrade equipment to carry over their stats</p></li><li><p class=\"bb_paragraph\" >Use chaos crafting (minigame) to create even more powerful items</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/extras/86fc64cc496235452e4a65e2eae04ce1.avif?t=1734129970\" width=616 height=170 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Explore massive procedurally generated worlds</p></li><li><p class=\"bb_paragraph\" >Quickly teleport through the use of Way Crystals, Way Shards and Rifts</p></li><li><p class=\"bb_paragraph\" >Delve into dungeons that not only look different but play different every time</p></li><li><p class=\"bb_paragraph\" >Travel to completely new Realms beyond the bounds of the main world</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/extras/ea02f8368837cbc820b64c9def8991a1.avif?t=1734129970\" width=616 height=136 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Built from the ground up with modding in mind </p></li><li><p class=\"bb_paragraph\" >All gameplay logic and content exposed in Python </p></li><li><p class=\"bb_paragraph\" >Easily create new content or entirely new gameplay systems </p></li><li><p class=\"bb_paragraph\" >Learn from extensive modding tutorials and API documentation</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280520/header.jpg?t=1734129970",
+    "developers": [
+      "Siege Games"
+    ],
+    "publishers": [
+      "Siege Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 49,
+      "highlighted": [
+        {
+          "name": "The Journey Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/1e84bb76d6750ee4d9aae6add38a24c45f6ed7c2.jpg"
+        },
+        {
+          "name": "Knowledge Is Power",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/337d59db0153e13140da5b86bd1c1c0a89b9a1ea.jpg"
+        },
+        {
+          "name": "No Longer Alone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/af03a53e478b994bddecae97a5bc6b2ecb0b6619.jpg"
+        },
+        {
+          "name": "Improve Your Core!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/aadfddc92d047bf51d28dd5a4ab5718695ea2808.jpg"
+        },
+        {
+          "name": "Lost In Translation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/618490adb33de9f1015002b7e05e952d9fbd3fd8.jpg"
+        },
+        {
+          "name": "ParaGONE!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/c9e8b17a4d993e5469c6a8e9cfee2358c23f1454.jpg"
+        },
+        {
+          "name": "Sleeping With The Fishes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/8652bbf04fdb7c72ec628847f95672bfc704beb6.jpg"
+        },
+        {
+          "name": "Falling With Style",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/3ba2b4247de1e6c6ab3ab5f171d1b2ef255aa473.jpg"
+        },
+        {
+          "name": "Valiant Effort",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/dd01e0e3bab55feee11d35c3404c587fb429c4bf.jpg"
+        },
+        {
+          "name": "Smithereens",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280520/62cbd656807ee84ab3d08cb11d920467e7044759.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 21,
+      "total_negative": 7,
+      "total_reviews": 28
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1366760": {
+    "name": "我的武林江湖",
+    "steam_appid": 1366760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>扮演一位掌门，接管一个门派，在明初的末武时代。</strong><br>你可以<br><ul class=\"bb_ul\"><li>建设门派；<br></li><li>获得武学，不同武学有不同的特性，一共有6种武学；<br></li><li>招募弟子并用不同的武学以得培养弟子以习得不同技能；<br></li><li>一共有18种技能，每个弟子可以从（3+6）种技能中自由搭配任，包括重复的技能；<br></li><li>在不同的事件做出不同的选择；<br></li><li>每次游戏结束后提升掌门技能以在下次更好的扮演掌门；</li></ul>每一局游戏都会获得掌门声望，在游戏结束后提升你的技能。<br><br>添加手动控制模式，可以当成战棋类游戏来玩。<br><br>游戏内共有6类武学心得，每类武学心得可以生成3种技能之1，可以一直只学习1种技能以提升技能等级；<br>游戏内有6种势力，其中玩家可以通过事件成为4种势力之1，每种势力都有其独特特性；<br>游戏内每种武学都有一个特殊人物，有较低的概率获得，会有特殊的属性；<br><br>=================<br>== 以下为作者自述 ==<br>=================<br>本游戏是作者菌在2020年4月，<br>一人回到武汉工作后，<br>下班时间在家无聊而开始动手的。<br>游戏代码是在最初的1个月作者利用下班与双休时间开发完成，<br>因为第一次用unity，加上作者习惯用c语言写代码，<br>没有指针的c#及unity的封装增加了作者菌的大量学习成本，<br>最困难的时候要花近一个双休两天时间才能解决一个问题，<br>比如镜头，坐标系，代码生成unity对象等等。<br>等到1个月时间完成代码后，作者菌开始动笔ui时，<br>花了一个星期没有画出一个自己满意的像素人物，<br>于是找人来帮忙出图，<br>同时6-7月到了，<br>作者的本职公司开始进行995\\单双休加班，<br>比平时更多的工作量下来了，<br>所以精力放在工作上，游戏的开发基本停了，同时同步等美术资源。<br>一直到8月公司的繁重工作缓解后，美术资源因为一些特殊原因最终无果，所以作者菌只好又自己挂帅，<br>通过找unity的内部资源，勉强找最合适的资源自己使用自己调整然后再代码开发，<br>加上后面家里的小孩也跟着回武汉了，个人的可利用时间更短了，<br>一直到现在10月才终于开发完了全部的美术与音乐资源。<br>本着有始有终，虽然这个游戏的美术我个人也不满意，<br>但是还是将游戏发布出来，<br>也算给自己一个交代吧。<br><br>============<br>== 写在最后 ==<br>============<br>这不是一个漂亮的游戏，但是我希望这游戏能让你觉得是一个有趣的游戏。<br><br>这个工作室，是我临时取的名字，工作室的全体成员，其实也就只有我一人，<br>我喜欢开发，也喜欢开发游戏，希望有机会和志同道合的同志一起开发独立游戏，<br>本游戏美术资源我想过了，以后如果可以的话弄成DLC换皮，<br>很多想法也还没实现，这个版本目前也就是第一版，后面有机会在继续更新新内容。<br><br>多语的话本身就已经放到文件夹里了，可以方便玩家自己本地化。<br>有问题可以给我发邮件，做为国人我可能没有看私人邮件的习惯，但是当我想起来时我会去看的。",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366760/header_schinese.jpg?t=1612875049",
+    "developers": [
+      "趣源工作室"
+    ],
+    "publishers": [
+      "趣源工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "加入明朝",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/11eb302c846539ab001fb955b7d50bcce0babe07.jpg"
+        },
+        {
+          "name": "加入鞑靼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/98d1c1aea80aa6a99d5d16e32f9f3f9f18699696.jpg"
+        },
+        {
+          "name": "成为魔教",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/69bdf125878a7197e423d8541c40b55fa2b9cc8e.jpg"
+        },
+        {
+          "name": "公认圣教",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/5ed79b42582f3afd37eda1a1771a2b8c02ce4a14.jpg"
+        },
+        {
+          "name": "初出茅庐",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/0e71ddfddcab926634eefd39144e7b96309f5634.jpg"
+        },
+        {
+          "name": "驾轻就熟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/186b497bb731db0ebf5bdd177cb7894c25afdea5.jpg"
+        },
+        {
+          "name": "豁然贯通",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/12f42eb4297003de4f79a2877f888314ddbab750.jpg"
+        },
+        {
+          "name": "所向披靡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/4b0608b208efb9855469380659b80681eff09072.jpg"
+        },
+        {
+          "name": "门派覆灭",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/7c33775a9a9de5e69f093e938f381797aa00c2b1.jpg"
+        },
+        {
+          "name": "一代宗师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366760/1f2be955de4312bfd96ad3c399d20fb976a1af9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 5,
+      "total_negative": 8,
+      "total_reviews": 13
+    }
+  }
+}

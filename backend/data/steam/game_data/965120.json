@@ -1,0 +1,113 @@
+{
+  "965120": {
+    "name": "能量冲击 Energy Shock",
+    "steam_appid": 965120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《能量冲击》是一款带有roguelike要素的回合制动作游戏.游戏内攻击与移动结合在了一起，每当你想要进攻，你就必须前进，进攻的同时也意味着你将进入敌人的攻击范围。好在游戏内的伤害会击退敌人，只要你把敌人打出攻击范围，就能保持优势。但因为场地有限，如何把握敌我位置就成了策略的核心。每回合使用卡牌后就自动结束回合也让你的选择至关重要。做好万全准备，然后受苦吧！<h2 class=\"bb_tag\" >核心战斗</h2>下图是攻击示意，使用攻击卡会向前移动,如果敌人在移动路径上则会对敌人照成伤害,敌人受伤后则会向后移动,<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/extras/c01b8965c4fd04ea64b021899c96ec94.poster.avif?t=1574412001\" width=600 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/extras/c01b8965c4fd04ea64b021899c96ec94.webm?t=1574412001\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/extras/c01b8965c4fd04ea64b021899c96ec94.mp4?t=1574412001\" type=\"video/mp4\"></video></span><br>如图所示，你使用攻击3的攻击卡，前进1格后，对敌人造成了2点伤害，伤害随着距离减少。<br>并非所有攻击卡都是距离越近伤害越高，有的攻击卡则是越远伤害越高，还有些卡只对特定的距离造成伤害。<br>游戏内有80多种功能各异的攻击卡和30多种技能卡等你发掘。<h2 class=\"bb_tag\" >职业技能</h2>除了出卡之外，每个职业还有自己独特的技能，可搭配攻击卡一起使用。<br>比如你的攻击卡打不到敌人，你可以先使用职业技能，把敌人控制在你的攻击范围上<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/extras/cd3648909e2f546704c4d488a20128c1.poster.avif?t=1574412001\" width=600 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/extras/cd3648909e2f546704c4d488a20128c1.webm?t=1574412001\" type=\"video/webm; codecs=vp9\"></video></span><br>这样你就可以轻松的吊打敌人了。<br>游戏现在有3个职业可以选择，正式版会更新到8个职业。非常平衡。<h2 class=\"bb_tag\" >地图探索</h2>游戏的地图为随机生成,因此每次游戏都能遇到不同的体验。<br>地图内的怪物与世界都有关联，仔细探索，你会发现其中的奥秒之处。<h2 class=\"bb_tag\" >道具</h2>除了卡牌和技能之外,每局游戏还可在商店中购买道具来强化你的卡组.<br>但你的背包只有6个格子，必须谨慎的购买道具。<br><br>我们团队目前只有2个人。我们会尽全力做好《能量冲击》这款游戏，给大家带来不一样的游戏体验。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965120/header_schinese.jpg?t=1574412001",
+    "developers": [
+      "Meowtoy Games"
+    ],
+    "publishers": [
+      "Meowtoy Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3800,
+      "final": 3800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 38.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "初级战士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/866fbdb2fe9a3c8fe07333f9561a815e93a4f3c1.jpg"
+        },
+        {
+          "name": "初级猎人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/7776f432fe2a889ac5690ab66e84d9ab47b6b64e.jpg"
+        },
+        {
+          "name": "下忍",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/38b517191326f57aaa3aa1aab88b3b7f2690e851.jpg"
+        },
+        {
+          "name": "懒惰勇者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/9fb175880a017d65221155cf0b91a68c4fbc5098.jpg"
+        },
+        {
+          "name": "更多护甲",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/9c6aeedf6f46e8734e1833c89a2e0dda4edd2dfb.jpg"
+        },
+        {
+          "name": "唯快不破",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/9f47285cff57df300c725a7f0e09493e2f97e3c3.jpg"
+        },
+        {
+          "name": "初级法师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/ca614ef90417739499cdd64c7a135c9e4736f9f1.jpg"
+        },
+        {
+          "name": "高级战士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/0be5a9626ab158dd415269002169a5a70f269cb4.jpg"
+        },
+        {
+          "name": "高级猎人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/65cab91f3b8f0951c191180df5d8e5c05d530bd5.jpg"
+        },
+        {
+          "name": "上忍",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/965120/5f9b29233e41b7c5fc4f602e6e918cee11c9b923.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 32,
+      "total_negative": 6,
+      "total_reviews": 38
+    }
+  }
+}

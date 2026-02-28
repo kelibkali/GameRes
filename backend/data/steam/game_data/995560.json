@@ -1,0 +1,77 @@
+{
+  "995560": {
+    "name": "Zombies for S2ENGINE HD",
+    "steam_appid": 995560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "感谢我们的合作伙伴CodeThisLab，开发一个新的S2ENGINE HD模型DLC！<br>在这个DLC中，你可以生成各种僵尸模型，帮助你开发一种生存型游戏。<br><br>模型还提供：<br><ul class=\"bb_ul\"><li> 动画<br></li><li> 游戏机器脚本，可轻松集成到您的项目中。<br></li><li> 用于定制颜色和为僵尸大军添加多样性的材质模板。</li></ul><br>技术规格如下:<br><ul class=\"bb_ul\"><li> 6个僵尸模型(5人+ 1只狗)<br></li><li> 每个僵尸都有1到3种不同的材质，具有2k分辨率的漫反射和法线贴图<br></li><li> 每种材质都有自定义颜色的遮罩<br></li><li> 每一个僵尸都有一组动画来模拟:行走、休息、咬人、死亡、攻击<br></li><li> 每一个僵尸都有一个游戏机器的脚本，可以在S2ENGINE HD项目中使用</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995560/header.jpg?t=1726320529",
+    "developers": [
+      "Code This Lab SRL"
+    ],
+    "publishers": [
+      "Profenix Studio SRLS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 11600,
+      "final": 11600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 116.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "1365010": {
+    "name": "Lost Potato",
+    "steam_appid": 1365010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Lost Potato 是一款非常简单的自上而下的角色扮演游戏，在游戏中你不能直接伤害敌人。你需要把敌人推到尖刺里，反弹子弹，帮助年轻的土豆找到出路，走出食人部落丛林!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365010/extras/f835a5b407529a99f41306a91bc1dce6.poster.avif?t=1761654527\" width=600 height=88 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365010/extras/f835a5b407529a99f41306a91bc1dce6.webm?t=1761654527\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365010/extras/f835a5b407529a99f41306a91bc1dce6.mp4?t=1761654527\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li> 可选择随机生成的关卡和升级<br></li><li> 利用你周围的环境打败你的敌人!<br></li><li> 14 顶帽子需要解锁，每顶帽子可让你进入新的开始状态或落入陷阱<br></li><li> 快速的步伐：跑步时间平均持续 3-5 分钟<br></li><li> 推荐使用键盘和鼠标，尽管游戏也支持控制器</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 简体中文, 繁体中文, 韩语, 丹麦语, 芬兰语, 匈牙利语, 日语, 挪威语, 荷兰语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 瑞典语, 捷克语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365010/header.jpg?t=1761654527",
+    "developers": [
+      "Blobfish"
+    ],
+    "publishers": [
+      "Blobfish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Eyebrows",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/8cfd3d043ae4e8531c55029f4c97bf3ed4751639.jpg"
+        },
+        {
+          "name": "Mouth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/de475652e608ecfdd041eb695a80db27ec86b71d.jpg"
+        },
+        {
+          "name": "Eyepatch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/5090d278027aa0e165556a537db547eb84122a60.jpg"
+        },
+        {
+          "name": "Mustache",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/9eed01c45f94cdd6569e8afc5177c772085cbcde.jpg"
+        },
+        {
+          "name": "Mushroom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/c1e5b2fecc35c93cf0fbe35f696d644a32a3e838.jpg"
+        },
+        {
+          "name": "Fetus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/a3ef047aa25f52fb23413a2b3c45134d20d31e43.jpg"
+        },
+        {
+          "name": "Helmet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/d5b9d37927201aeb2bc10fcb6d08ac94b754671a.jpg"
+        },
+        {
+          "name": "Tiny Hat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/041d4888d25abd8755d4f99a5a71c2535f3fce63.jpg"
+        },
+        {
+          "name": "Bandana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/792a45b6af284efa9be36bbaa3a29a6ab86d8176.jpg"
+        },
+        {
+          "name": "Marksman Hat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365010/b46dae2572f930070a400ff5bb36642ebcf2a707.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 20,
+      "total_negative": 2,
+      "total_reviews": 22
+    }
+  }
+}

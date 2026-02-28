@@ -1,0 +1,53 @@
+{
+  "367670": {
+    "name": "Controller Companion",
+    "steam_appid": 367670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "即使不是在游戏中或大屏幕模式下，也可以使用手柄操控。<br />\r\n使用手柄控制电脑，让您无需离开沙发。 控制鼠标、键盘和媒体播放器。 不再需要费劲起身用鼠标和键盘启动您想玩的游戏。<br />\r\n<br />\r\n用鼠标和键盘控制桌面<br />\r\n当未运行大屏幕模式时，您可以使用左摇杆控制鼠标，使用右摇杆滚动。<br />\r\n<br />\r\n按下左摇杆，可直接在桌面上打开键盘输入，会出现一个漂亮的螺旋回廊式键盘。<br />\r\n<br />\r\n关闭电脑时关闭无线手柄<br />\r\n当您关闭电脑时，再也不必取出电池来关闭手柄。 （仅限 Xbox 360 手柄）<br />\r\n<br />\r\n极低的 CPU 使用率<br />\r\n手柄伴侣确保驻留在后台，并使用尽可能少的资源。 只要大屏幕运行，它就会禁用自身。<br />\r\n<br />\r\n在电脑和电视显示之间切换<br />\r\n使用手柄在连接的显示器或电视屏幕之间切换。<br />\r\n<br />\r\n使用手柄作为媒体遥控器<br />\r\n使用手柄控制您的音乐播放器，使用 Y 按钮进行播放/暂停，以及肩部按钮用于上一首和下一首曲目。<br />\r\n<br />\r\n自定义<br />\r\n您可以重新映射按钮。<br />\r\n<br />\r\n支持 Xbox 360 Chatpad <br />\r\n您终于可以在电脑上使用 Xbox 360 Chatpad 了。 一个定制的实验驱动程序将让您在不玩任何游戏时使用 Chatpad。<br />\r\n<br />\r\n常见问题：<br />\r\n它可以用于 Xbox One 和有线 Xbox 360 手柄吗？<br />\r\n是的，它适用于任何支持 XInput 的手柄。<br />\r\n<br />\r\n为什么在播放全屏视频时它会停止工作？<br />\r\n手柄伴侣在运行全屏程序时自动禁用，您可以通过按住 Back 键与 Start 键来覆写此功能。 请参看上面有关自动禁用的视频。<br />\r\n<br />\r\n运行这个应用程序会显示我的状态为“在玩手柄伴侣”吗？<br />\r\n不会！ 手柄伴侣将通过 Steam 启动，然后在后台运行。<br />\r\n<br />\r\n我需要运行 Steam 才能使用手柄伴侣吗？<br />\r\n不，您甚至可以设置在启动电脑时自动启动手柄伴侣。<br />\r\n<br />\r\n手柄伴侣是否有任何类型的 DRM？<br />\r\n没有。<br />\r\n<br />\r\n我可以使用我的 PlayStation 手柄吗？<br />\r\n不能，除非安装 XInput Wrapper。<br />\r\n<br />\r\n是否支持 Xbox One Chatpad？<br />\r\nWindows 10 原生支持 Xbox One Chatpad。 您无需安装手柄伴侣 chatpad 驱动程序就能使用 Xbox One chatpad<br />\r\n<br />\r\n我可以重新映射 Xbox One 精英手柄吗？<br />\r\n不能，精英手柄的按钮功能始终与它们原本被映射的功能一致。 这是 Windows 的限制。",
+    "supported_languages": "英语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367670/header.jpg?t=1561195219",
+    "developers": [
+      "Koga Tech Limited"
+    ],
+    "publishers": [
+      "Koga Tech Limited"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 405,
+      "total_negative": 60,
+      "total_reviews": 465
+    }
+  }
+}

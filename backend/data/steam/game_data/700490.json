@@ -1,0 +1,61 @@
+{
+  "700490": {
+    "name": "玄龙棋MysteryChess",
+    "steam_appid": 700490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "玄棋是一个新的棋类游戏，类似于象棋游戏和卡牌类游戏的结合体，是一个全新玩法的棋类游戏，玩家可以通过使用玄卡改变棋子的特性让棋子变得更强大，以此来获得游戏的胜利，游戏有三种获胜方式，分别是屠龙模式，计分模式和净域模式。<br />\r\n玄棋共有14种类型的棋子，每个棋子最大的差别就是攻击力和防御力。不同棋子的攻击力和防御力不会完全相同。当你的棋子的攻击力大于对手棋子的防御力，你就可以吃掉对手的棋子。<br />\r\n屠龙模式中，龙可以被吃，另外两张模式中龙是不死之身。<br />\r\n屠龙模式 龙 攻击力：10 防御力：10 另外两种模式 龙 攻击力：火 防御力：金<br />\r\n陆兽<br />\r\n虎 攻击力：7 防御力：5 狮 攻击力：5 防御力：7 熊 攻击力：5 防御力：5 豹 攻击力：5 防御力：3 狼 攻击力：3 防御力：5<br />\r\n海兽<br />\r\n鲸 攻击力：8 防御力：8 鲨 攻击力：6 防御力：6 鳄 攻击力：4 防御力：4 海豚 攻击力：2 防御力：2<br />\r\n空兽<br />\r\n雕 攻击力：8 防御力：2 鹰 攻击力：6 防御力：4 鹫 攻击力：4 防御力：6 隼 攻击力：2 防御力：8           <br />\r\n<br />\r\n玄卡有11种类型，32张一个卡组，两种卡可以组合使用,每人手里两张玄卡，用几张补充几张，类似于中国麻将的抽牌形式从卡组中抽牌，卡全部抽完就将使用过的玄卡重新组成新卡组使用。<br />\r\n（金，火，木，水，土）*4  （风，云，雷，电，日，月）*2<br />\r\n游戏规则详情在查看手册。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/700490/header.jpg?t=1578164003",
+    "developers": [
+      "wei"
+    ],
+    "publishers": [
+      "wei"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

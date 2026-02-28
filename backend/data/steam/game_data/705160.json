@@ -1,0 +1,65 @@
+{
+  "705160": {
+    "name": "Moon VR Video Player",
+    "steam_appid": 705160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "官方微信公众号：woaiwanvr<br>欢迎关注后扫码进入微信群，有任何问题都可以在用户群内与我们联系！<br>Moon VR Player是一款看3D电影看VR视频必备的VR视频播放器。操作简洁，功能强大，让你享受观影的每一秒。<h2 class=\"bb_tag\" ><strong>特色功能</strong></h2><ul class=\"bb_ul\"><li>[独家]支持多音轨<br></li><li>[独家]支持外挂字幕<br></li><li>[独创]自动识别视频格式，再也不用一次次手动选择<br></li><li>[独创]智能修片模式（可调换左右眼，镜像反转，调节fov）<br></li><li>支持超采样/抗锯齿<br></li><li>超便捷视频自动刷新，再也不用找文件路径<h2 class=\"bb_tag\" ><strong>产品特性</strong></h2></li><li>支持HTC Vive、Oculus Rift、微软MR、Acer MR、Pico、大鹏等其它Steam VR头盔<br></li><li>支持调节 3D，180°，360°，上下，左右等全部VR视频格式<br></li><li>支持调节屏幕大小、远近、角度<br></li><li>支持调节视距<h2 class=\"bb_tag\" ><strong>格式支持</strong></h2></li><li>视频格式: MP4 | MPEG| AVI | RMVB | WMV | M3U8 | MKV | MOV | FLV | 3GP| WebM | TS等12种常用格式；和28种其他视频格式：3G2|3GP2 | 3GPP | AMV | ASF | DIVX | DV | EVO | F4V | HDMOV | M1V | M2T | M2TS |M4V| MK3D | MOD | MP4V | MPG | MPV2 | MPV4 | MTS | MXF | OGM | OGV | P2V | RM |TP | VOB<br></li><li>字幕格式:SRT/ASS/SSA/VTT<br></li><li>音轨格式: ac3/dts<h2 class=\"bb_tag\" ><strong>未来计划</strong></h2></li><li>完美支持更多视频格式<br></li><li>支持双速播放<br></li><li>超级IMAX影院等场景<br></li><li>优化互动模式</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705160/header.jpg?t=1681376691",
+    "developers": [
+      "InnoVision"
+    ],
+    "publishers": [
+      "InnoVision"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4990,
+      "final": 4990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 49.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 114,
+      "total_negative": 61,
+      "total_reviews": 175
+    }
+  }
+}

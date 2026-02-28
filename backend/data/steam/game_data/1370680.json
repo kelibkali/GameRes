@@ -1,0 +1,117 @@
+{
+  "1370680": {
+    "name": "Lucid Steam",
+    "steam_appid": 1370680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> In the industrial era, the engineer  has a dream. The world of machines that uses the combined power of the magic and steam engines. Being a mechanical device designed by you, you venture out into a lucid dream that moves as your imagine.</strong><br><br>&quot;The engineer has to make his way out of his dreams and defeat the boss. As time passed, bizarre and powerful monsters will appear and cause pain to the engineer. Can the engineer escape his lucid dreams?&quot;<h2 class=\"bb_tag\" >concept</h2>Lucid Steam is a game with a fairly complex system. Basically, it is a rogue-like game dealing with turn-based dungeon crawling, and you have to develop a path, design, and battle with items as well. The dice arrangement battle also includes a luck element, and when the depth of play increases, it becomes more fun to play. Use the synergy of various equipment and artifacts to pave the way and defeat the boss!<h2 class=\"bb_tag\" >Game map</h2>    In the game map, you can explore and move to earn loot. Tiles with monsters placed on them, tiles with loot chests, event tiles where you don't know what's going to happen, and so on.<h2 class=\"bb_tag\" >Card</h2>   The route card is the card that makes the way. It can be distinguished by a yellow icon. When constructing a path, you can rotate a given path. However, in the case of a tile that has been constructed, the path is fixed unless it is a special case.<h2 class=\"bb_tag\" >Move card</h2>   Move cards are cards that allow you to move between created routes. It can be distinguished by a green icon. Unless in special cases, only the connection path can be moved. There are special movement cards such as a jump that can move a path that is not connected, and a pioneer that makes a path on the path after moving a path that is not connected.<h2 class=\"bb_tag\" >Shop and treasure chest</h2>   There are special tiles among the path tiles. Shops and treasure chests are tiles that can definitively acquire items. You can purchase items that enhance your character with money in the store, and you can definitively obtain artifacts from the treasure chest.<h2 class=\"bb_tag\" >Monsters and events</h2>   There are also tiles on which monsters are placed. It's up to the player to decide whether to take a new path to avoid it or fight and move forward. Items can be obtained when the battle is over.<br><br> Tiles with question marks don't know what to expect. Encounter other special tiles such as optional events, shops, treasure chests, and battles.<h2 class=\"bb_tag\" >Defeat conditions and nightmares</h2>Lucid Steam explores the basic cards and dungeons that are initially given, and a deck of new cards is given. When this deck is exhausted, the player must use his hand to proceed to the next floor. If you fail to reach the next floor, you lose. You can also lose health in battle, and losing all health will result in loss.<br><br> Avoiding battles in the game map from scratch and focusing solely on map design is not a good option. The nightmare gauge that accumulates as the turn passes, increases the monster's stats as the stage passes. It is initialized when moving to the next stage.<h2 class=\"bb_tag\" >Battle phase</h2><br>   The battle takes place when encountering a monster. At the beginning of the turn, you roll the dice to see the result and choose your action. The dice consists of three scales: physical attack, magic attack, and defense. After the dice are rolled, it is important to use items that add dice scales or swap equipment to take advantage of yourself this turn.<h2 class=\"bb_tag\" >Equipment item</h2>Equipment item has 11 different states, and some equipment has special effects.<br><br>Basic Physical Attack-This is a stat that can damage statically when performing a physical attack.<br>Magic Basic Attack-This is a stat that can damage fixedly when performing a magic attack.<br>Basic Defense-This is a stat that allows you to obtain a fixed amount of defense when defending.<br><br>Strength-This is a stat that increases the effect of the physical dice scale.<br>Intelligence-This is a stat that increases the effectiveness of the magic dice scale.<br>Agility-This is a stat that increases the effectiveness of the defense dice scale.<br><br>Physics Dice-This is a stat that gives an additional physical dice scale.<br>Magic Dice-A stat that gives additional magic dice scale<br>Defense Dice-A stat that gives additional defense dice scales.<br><br>Warm-up time-Equipment with warm-up time cannot be installed. Activates at the start of the battle and reduces the warm-up time by 1 at the end of the turn Equipment with preheating time of 0 can be installed.<br>Cooldown Time-Equipment cannot be equipped in equipment slots with cooldown time. It works when equipment is replaced/installed, and the cooldown time is reduced by 1 at the end of the turn. Equipment can be replaced/installed in the equipment slot with the cooldown time of 0<br><br>In addition to the status, there is also Equipment item with special functions such as an operation that activates when equipment is replaced, and residual heat that activates when equipment is dismounted.<h2 class=\"bb_tag\" >Token</h2>If you use a token in battle, you get a dice scale that matches that pattern. Tokens can be used as keys on the game map.",
+    "supported_languages": "英语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370680/header.jpg?t=1614347672",
+    "developers": [
+      "Team Lucid Dream"
+    ],
+    "publishers": [
+      "Team Lucid Dream"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6200,
+      "final": 6200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 62.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Rumble Rumble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/1ddee76139acff8b278e9deeb9bc78ddbcdc5a1d.jpg"
+        },
+        {
+          "name": "Crash Crash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/54b2258347b2a296ca428c7b1c78bd96a91ef2c6.jpg"
+        },
+        {
+          "name": "Tik Tok Tik Tok",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/67d322cf2a58b40ab362fbf2fcc7274dd97991d8.jpg"
+        },
+        {
+          "name": "Puff Puff",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/4f1cb4ae1fbb5b908cd68590d912a51b11b9f20f.jpg"
+        },
+        {
+          "name": "Excuse me",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/ef8e6995297b9243d23c2cbe334e03a7840a295b.jpg"
+        },
+        {
+          "name": "Anger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/29f621107c6e5ef81a4d611aff2fbaa737944938.jpg"
+        },
+        {
+          "name": "Affability",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/171ee2cda6ed0a47db9f6f28b535168c98241c99.jpg"
+        },
+        {
+          "name": "Patience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/8c8960ddd5eccaab8fd79d65a761788b4c312756.jpg"
+        },
+        {
+          "name": "You are now prepared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/08a968784a71712cbc484699eded8dfa91f59a12.jpg"
+        },
+        {
+          "name": "Ultimate Weapon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1370680/2ede3d54a473f3656bb93a3f32494ac58b67ad84.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

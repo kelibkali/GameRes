@@ -1,0 +1,89 @@
+{
+  "1383340": {
+    "name": "HEXONEX",
+    "steam_appid": 1383340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "HEXONEX is a casual hex-based puzzle game. Slide tiles to match colors across 108 puzzles. But think carefully before you act! Tiles can only move opposite any adjacent tiles, and you lose a point for every move you make!<br />\r\n<br />\r\nBeat your high scores to unlock new tile palettes, board palettes, and music, and mix and match to customize your experience!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/header.jpg?t=1597245702",
+    "developers": [
+      "MooCow Games"
+    ],
+    "publishers": [
+      "MooCow Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/d97854ec735a98c1f4778a59d9c0d2bcf645727e.jpg"
+        },
+        {
+          "name": "HEX",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/6ee270839ea909721bcd80a8ee9ba21ad9df81c4.jpg"
+        },
+        {
+          "name": "HEXHEX",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/311a2ff3a67a05b821d1c033e22569b238cd8299.jpg"
+        },
+        {
+          "name": "HEXONEX",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/20d251c2e180824a72f4e043bef389ffd96e5e46.jpg"
+        },
+        {
+          "name": "Picasso",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/8743990b176aa2862e917c284fe6449804d5ac8f.jpg"
+        },
+        {
+          "name": "Ross",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/d6ad777762c3fa73a5a7a98068386f2a9b7cfecd.jpg"
+        },
+        {
+          "name": "Boom Box",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1383340/cb8753910afbe6a2d701f1545b042a8fe327babb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

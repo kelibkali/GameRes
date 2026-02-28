@@ -1,0 +1,109 @@
+{
+  "1395750": {
+    "name": "Dasher",
+    "steam_appid": 1395750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Hello, and welcome to Dasher. My name is Doctor Moonbad, and I'm not really a doctor.</strong><br>Dasher is a short game entirely focused on collisions and mechanical reflections. You must use your dashing abilities to destroy and dismantle your enemies, by reflecting on walls or on the enemies themselves. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395750/extras/98277add696359006e54d21b8aeef9a8.poster.avif?t=1657831445\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395750/extras/98277add696359006e54d21b8aeef9a8.webm?t=1657831445\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395750/extras/98277add696359006e54d21b8aeef9a8.mp4?t=1657831445\" type=\"video/mp4\"></video></span><br><br><strong>How to win</strong><br>Your goal is to survive long enough to discover an exit, and eventually escape the robotic coliseum. As time passes, the number of enemies increases, as well as their overall intelligence, which makes searching for the exit harder and harder for each second that passes. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395750/extras/d0d81206ef5cc87ea5be5a6d2c08890e.avif?t=1657831445\" width=600 height=338 /></span><br><br><strong>Death is only the begining</strong><br>No matter how many times you die, you can always retry, although you might as well consider upgrading yourself, both physically and aesthetically. Each time you destroy an enemy, you acquire its bits, which Dasher can use to become stronger, or uselessly prettier.<br><br><strong>Controls</strong><br>Every move's made by clicking and dragging. Left-Clicking anywhere on the screen creates a pivot point. The cursor's position to that point determinate the direction for Dasher to move, but only while you hold the left mouse button. Releasing it causes Dasher to dash to the last direction it was moving along. In simpler terms, always aim for where Dasher currently is, and drag to where you want it to go.",
+    "supported_languages": "英语, 波兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395750/header.jpg?t=1657831445",
+    "developers": [
+      "Doctor Moonbad"
+    ],
+    "publishers": [
+      "Moonbad Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Red Hot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/82c3c822a50afc81122fcdea4109e0bbb1594e9d.jpg"
+        },
+        {
+          "name": "My First Roast",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/d51ea93f89ae1cb8d17a7b8c02d2e9c99a2e9d45.jpg"
+        },
+        {
+          "name": "Triple Kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/dc21f28c806f75d07c09e537e7842dc537015f49.jpg"
+        },
+        {
+          "name": "Darkness",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/99ed5bfd42ec2517b77d0b64b4ce9361cb3059fc.jpg"
+        },
+        {
+          "name": "Too Slylish",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/a51a9f129ca42125a76da9cdb845a8600b896b15.jpg"
+        },
+        {
+          "name": "All Mighty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/3acaf56fbc0e91770d85f94026f35b538ae46f2b.jpg"
+        },
+        {
+          "name": "World Tour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/647947ad1004b6a275539fc8a22cb82ec8a67126.jpg"
+        },
+        {
+          "name": "Escaped!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/f958163e1e2eb2dbf8fb8321476384fb3bb58e19.jpg"
+        },
+        {
+          "name": "Rampage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395750/306c06a0e7c3284363d4f3272ba2d02c264cbdc5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

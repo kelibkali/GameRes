@@ -1,0 +1,86 @@
+{
+  "4302140": {
+    "name": "The Final Oath Demo",
+    "steam_appid": 4302140,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >The Final Oath is a rogue-like, survivor-style, deck-building game where chaos reigns, heroes rise, and the only rule is don’t die... again.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This is my take on the survivor genre mixed in with my love for board games. I like difficult games with simple mechanics, so this is my take on simplifying the mechanics, while delivering a challenging experience. Also, I figured out a way to spawn 2000 enemies on screen, at once, in Unreal Engine. I'm pretty proud of myself. LOL</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How to Play the Game</h2><p class=\"bb_paragraph\" >There are 4 heroes in the game. Each Hero has their own dedicated Starter Deck consisting of 30 cards.</p><p class=\"bb_paragraph\" >1. Build your Battle Deck of 30 cards following the rule: 6 Core Cards, 10 Stat Cards and the remaining with Augments and Actions</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Core Card: The main weapon cards</p></li><li><p class=\"bb_paragraph\" >Augments: These are attached to the CORE cards and provide unique perks to the card</p></li><li><p class=\"bb_paragraph\" >Action: Instant or Conditional cards, used to provide instant and quick benefits</p></li><li><p class=\"bb_paragraph\" >Stats: Provides stat bumps to further support your gameplay.</p></li></ul><p class=\"bb_paragraph\" >2. Choose a Map and difficulty. Easy mode is still a challenge, there is a small learning curve, nothing you cannot handle Hero!</p><p class=\"bb_paragraph\" >3. Your Battle Deck is shuffled and creates the draw pile. On game start, one CORE card will be randomly picked and equipped.</p><p class=\"bb_paragraph\" >4. Kill enemies, collect gold from the ground to trigger Draw phase.</p><p class=\"bb_paragraph\" >5. During Draw Phase, 3 top cards from your Draw pile is revealed and you can pick 1 card to activate immediately. The remaining 2 cards are added to the Discard pile.</p><p class=\"bb_paragraph\" >6. Once the Draw pile runs out of cards, your discard pile will be shuffled into creating a new Draw pile.</p><p class=\"bb_paragraph\" >7. After every Draw phase, the Draft Phase will trigger, where you will be given a choice of 3 cards to pick one from. You don't know what you will pick until you do, so hope that RNG is on your side.</p><p class=\"bb_paragraph\" >8. The Drafted card will be immediately added to the discard pile for you to draw after the next reshuffle.</p><p class=\"bb_paragraph\" >9. Draft phase ensures healthy deck building experience and improve deck quality.</p><p class=\"bb_paragraph\" >10. Thats it, Keep drawing cards to make yourself stronger. Draft more cards to keep your deck healthy and improves it quality, survive 15mins.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Launch Features:</h2><p class=\"bb_paragraph\" >20 Maps at Launch</p><p class=\"bb_paragraph\" >4 Unique Heroes</p><p class=\"bb_paragraph\" >Plenty of Booster packs to earn to improve your starter deck (all earnable in game)</p><p class=\"bb_paragraph\" >Procedurally generated Passive cards, so unlimited options for stats</p><p class=\"bb_paragraph\" >Skin System for Hero Customization</p><p class=\"bb_paragraph\" >Controller Support</p><p class=\"bb_paragraph\" >Exotic Cards</p><p class=\"bb_paragraph\" >FSR4, DLSS4, Intel XeSS for supported devices.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302140/e35d2b4dbc3ea9ea5da88aa0e188f4285bce4f96/header.jpg?t=1770899898",
+    "developers": [
+      "Rat Squad Studios"
+    ],
+    "publishers": [
+      "Rat Squad Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

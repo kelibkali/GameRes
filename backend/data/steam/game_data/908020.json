@@ -1,0 +1,77 @@
+{
+  "908020": {
+    "name": "Tactic Code - 战术代码",
+    "steam_appid": 908020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在游戏中，你作为一名指挥官，你只需要通过可视化编程来给你的骑士下达命令，他们就会自动去执行，并击败敌人（当然，如果命令错误的话，被击败的就是你的骑士了）。<br><br>什么？可视化编程？<br><br>是的，是编程游戏。不过你不用担心不会编程，因为游戏中你只需要创建命令，连接命令，点击发送命令，一切就完成了——是的，就是这么简单，因为这是“可视化的编程”^_^。<br><br><strong><i>* 美术资源购买自 Unity Asset Store</i></strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908020/header.jpg?t=1726324212",
+    "developers": [
+      "Where 游戏"
+    ],
+    "publishers": [
+      "Where 游戏"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "First Defeat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/908020/189edb8d5dc2a49da9d21737347249229c16d725.jpg"
+        },
+        {
+          "name": "Never Defeat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/908020/3bacbaf51d341e5b8dbc2abd1b3d68a94e688a03.jpg"
+        },
+        {
+          "name": "First Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/908020/7b04e2758213298b0d95e766d57d5469b3463c5e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 5,
+      "total_negative": 1,
+      "total_reviews": 6
+    }
+  }
+}

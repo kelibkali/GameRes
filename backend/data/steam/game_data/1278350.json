@@ -1,0 +1,197 @@
+{
+  "1278350": {
+    "name": "Jelly Brawl",
+    "steam_appid": 1278350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1278350/extras/229b604235268b3310db0956d3dc4a88.poster.avif?t=1751419812\" width=600 height=228 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1278350/extras/229b604235268b3310db0956d3dc4a88.webm?t=1751419812\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1278350/extras/229b604235268b3310db0956d3dc4a88.mp4?t=1751419812\" type=\"video/mp4\"></video></span><br><br>果冻争吵（Jelly Brawl）是一款基于物理的多人派对游戏，您可以在其中轻弹，翻滚，然后跳到顶端！当您挣扎成为​​最后一个果冻站时，可以通过无数种基于阶段的果冻战斗来独自或与朋友战斗，跨越成千上万个阶段，迷你游戏和模式！<h2 class=\"bb_tag\" >特征</h2><ul class=\"bb_ul\"><li><strong>煤泥物理混乱!</strong> Jelly Brawl具有简单的指向控制功能，很容易拿起，但很难掌握。没有快速的反应和及时的拍打，就很容易失去对光滑果冻的控制。<br><br></li><li><strong>最多4位玩家对战!</strong>  与本地和在线多人游戏中的多达四个朋友对峙！争取成为站在舞台上的最后一个果冻，或以多种游戏方式中的一种取得胜利！<br><br></li><li><strong>50多个舞台和舞台!</strong> 争取成为50多个设计舞台和舞台之一上的最后一个果冻。躲避危险并在险恶的地形中滑动，成为第一名。<br><br></li><li><strong>4种游戏模式和迷你游戏的完整选择!</strong> 跳入多种模式之一，例如“跑跑”，“竞赛”或“经典果冻站”模式，然后以经典迷你游戏的方式在各种老板回合中对峙。<br><br></li><li><strong>游戏等级编辑和自定义阶段!</strong> 想保持乐趣吗？使用内置的关卡编辑器创建自己的舞台！轻松设计自己的舞台并下载其他舞台以保持乐趣！<br><br></li><li><strong>无尽的挑战和无穷无尽的吨!</strong> 完成无尽的挑战并升级以解锁新的可玩皮肤，阶段和模式!</li></ul><br>*本地多人游戏需要使用控制器。只有一个玩家可以使用键盘和鼠标。",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1278350/header.jpg?t=1751419812",
+    "developers": [
+      "Tiny Shiny Things"
+    ],
+    "publishers": [
+      "Tiny Shiny Things"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 1260,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 42.00",
+      "final_formatted": "¥ 12.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Baby Jelly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/d2803049e1b901605f185006893c7b1dc316acd4.jpg"
+        },
+        {
+          "name": "Making a Mess",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/b1d6daf554faf90942e51bc1ec10ab2f8f6a5b70.jpg"
+        },
+        {
+          "name": "Novice Brawler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/80d4811755b9573ca07c1395823cbf9d2bc13c31.jpg"
+        },
+        {
+          "name": "Creating a Clutter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/b8fff5e9ecf017e0a9ed81cad14222384831b06c.jpg"
+        },
+        {
+          "name": "Professional Brawler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/e56263b3bbb3826204c74235f0f6a991e92cc201.jpg"
+        },
+        {
+          "name": "Causing Chaos",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/76d8662be901d99d9dffe5c6321b2e0fc01c32d5.jpg"
+        },
+        {
+          "name": "King Jelly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/e5fe8e54cfe7aa023e76fbbffcb7dab9d92d7cf0.jpg"
+        },
+        {
+          "name": "Fastest in The West",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/5a1de49f36bcec365f831d26ad439613f44fba1b.jpg"
+        },
+        {
+          "name": "The Finalist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/81b3bc07070b5aad92d4cba026c6f111d0f9d6f5.jpg"
+        },
+        {
+          "name": "Brawl Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1278350/e61c3b1822907122f8babec96e444f5ccb802af4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

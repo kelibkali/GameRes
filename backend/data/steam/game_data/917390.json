@@ -1,0 +1,73 @@
+{
+  "917390": {
+    "name": "DCS: Yak-52",
+    "steam_appid": 917390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Yak-52是前苏联雅克夫列夫设计局设计的使用星型发动机的串列双座型初级教练机。它曾是苏联及许多国家的主要的教练机。自1976年起，正是基于它那坚固的结构、简易的操作、前三点式起落架以及方便的维护，使得它成为各国空军的热门选择。也正是由于这些特性，Yak-52之后在民用特技领域深受大家的欢迎。<br><br>Yak-52配备有一台功率为360马力的Vedeneyev M-14P型9缸星型活塞发动机。我们为此开发了一个套新的活塞发动机仿真（包含了高真实度的发动机冷却模拟）。由于较轻的空重（仅998公斤）和较大的操纵面，它的响应异常灵敏。Yak-52可承受的过载范围从7G到负5G，因此对于全世界的特技飞行团队来说是再好不过的选择。<br>DCS: Yak-52为玩家补上了一个真实的飞行员训练过程的最后一块拼图：从Yak-52到L-39C喷气教练机，再到现代战机（例如MiG-29和Su-27）。<h2 class=\"bb_tag\" >主要特点：</h2> <br><ul class=\"bb_ul\"><li>再现Yak-52飞行特性的专业飞行力学模型，并经过“The First Flight” Yak-52特技团队的测试和验证。 <br></li><li>细致且真实的过失速仿真：允许玩家做出包线边缘和包线外的机动。 <br></li><li>完整的系统建模：发动机、燃油和电气系统。 <br></li><li>真实且可以通过鼠标进行交互式操作的驾驶舱：几乎所有控制单元都可以操作。 <br></li><li>从Yak-52真机录制的精确的外部和驾驶舱音效。 <br></li><li>包含交互式训练课程。玩家可以如同真实飞行员那样学习Yak-52的开车、滑行、起飞以及着陆。 <br></li><li>包含多种涂装（军用教练机和民间特技团队）。 <br></li><li>支持联机下的两人合作驾驶。可以和朋友一同体验驾驶一架飞机的乐趣。 <br></li><li>支持虚拟现实设备（Oculus Rift、HTC Vive以及Microsoft Mixed Reality等）。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 捷克语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917390/header.jpg?t=1727214960",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 28000,
+      "final": 28000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 280.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 10,
+      "total_negative": 1,
+      "total_reviews": 11
+    }
+  }
+}

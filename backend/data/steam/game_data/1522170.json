@@ -1,0 +1,134 @@
+{
+  "1522170": {
+    "name": "KOLOSS",
+    "steam_appid": 1522170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Koloss 是一个 VR 多人在线竞技场。您可以在快节奏的在线比赛中与其他玩家对战，也可以在单人模式中与电脑对战。该游戏目前处于早期接入阶段，其特色是在单张地图上进行 1v1 泰坦战。游戏正在积极开发中，并计划推出几项主要功能（在地面上作战的军队、允许 2v2 和最终 3v3 游戏的附加角色等）。欢迎社区提供意见和反馈！</p><h2 class=\"bb_tag\" >成为巨人</h2><p class=\"bb_paragraph\" >在《科洛斯》中，您将成为泰坦巨人，高耸于战场之上，能够举起并投掷沉重的巨石。您的目标是保护自己的城堡，摧毁对手的城堡。不过，每座城堡都有魔法屏障保护，需要先攻破它。掌握巨石的不同物理属性，这样对手就无法抓住它们。阻挡袭来的石块，并尽可能接住它们，将它们扔回给对手！</p><h2 class=\"bb_tag\" >早期接入路线图</h2><p class=\"bb_paragraph\" >游戏目前正处于积极的开发阶段，会定期发布补丁，添加错误修复、抛光和各种改进。此外，还计划在早期接入过程中添加几个主要功能：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >每座城堡都会出现对立的军队，并向对立的一方进发</p></li><li><p class=\"bb_paragraph\" >附加角色（法师、弓箭手）</p></li><li><p class=\"bb_paragraph\" >附加关卡</p></li><li><p class=\"bb_paragraph\" >额外的游戏模式</p></li><li><p class=\"bb_paragraph\" >观众支持</p></li><li><p class=\"bb_paragraph\" >2v2 支持</p></li><li><p class=\"bb_paragraph\" >支持 3v3</p></li><li><p class=\"bb_paragraph\" >局域网支持</p></li></ul><p class=\"bb_paragraph\" >请注意，由于这是一款早期接入游戏，因此无法保证任何单项功能的实现。我们努力制作最好的游戏，但游戏开发的现实情况是，我们的开发能力取决于我们可用的资金。</p>",
+    "supported_languages": "英语<strong>*</strong>, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522170/header.jpg?t=1746200948",
+    "developers": [
+      "Breakpoint One",
+      "Simmation"
+    ],
+    "publishers": [
+      "Breakpoint One"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Started First Match",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/2afb9d50ae69140a1547096ebc30770a02c5dadf.jpg"
+        },
+        {
+          "name": "Won a match",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/186ad42a470800a6e3a6c4725b42c4d7c0308118.jpg"
+        },
+        {
+          "name": "Lost a match",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/fc99983f55677a0be81f8489ada86e60275ecfb6.jpg"
+        },
+        {
+          "name": "Multiplayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/6efe335b328dad1719f22223b8ffd1ea7ff7fa39.jpg"
+        },
+        {
+          "name": "Shield Down",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/14f520cdc68fd6db3e4ec866516a9e0de5b756e6.jpg"
+        },
+        {
+          "name": "Castle Down",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/720eeb7e3c16adf438e45b5f2689f473e68faed2.jpg"
+        },
+        {
+          "name": "Catched Stone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/f437b96d3669eb9ac47256d28f8d8e35a593ebcc.jpg"
+        },
+        {
+          "name": "Stone vs Stone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/a65c5afb31a785cae9f26add8e300ed8e8667788.jpg"
+        },
+        {
+          "name": "First 3 Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/658f7ff1172b535fdf0e76b19d0dbfee56bcc0db.jpg"
+        },
+        {
+          "name": "First 5 Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1522170/f66e93fd498a176a3d8929fe4aae22fd2e5d62c4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

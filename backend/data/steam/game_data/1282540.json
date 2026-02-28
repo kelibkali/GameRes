@@ -1,0 +1,57 @@
+{
+  "1282540": {
+    "name": "功夫传说",
+    "steam_appid": 1282540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏题材来源于中国武侠，采用类似杀戮尖塔的卡组构建玩法，并从格斗游戏当中获取灵感，游戏每张卡牌都代表一个招式， 每个招式又分解为多个动作，游戏采用一个动作一结算的方式，只有当你的招式完全行动完成后才会拥有使用下一张牌的机会。招式的动作分为四种攻击防御破绽警惕（暂时没找到其他更好的词）。游戏采用灵活的连招系统，只要两个招式间首尾有重叠，则可以省略前一个招式的重叠部分。玩家需要利用这项设定让自己的破绽尽量小，并且尽量利用对手的破绽。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282540/header.jpg?t=1703011059",
+    "developers": [
+      "Colddagger"
+    ],
+    "publishers": [
+      "YWY"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

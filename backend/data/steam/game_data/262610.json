@@ -1,0 +1,63 @@
+{
+  "262610": {
+    "name": "Liquid Rhythm",
+    "steam_appid": 262610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Liquid Rhythm is a wildly innovative beat generator, sequencer, and software MIDI controller. It's powered by a rhythm synthesis engine that gives you instant access to quadrillions of rhythmic patterns that can be manipulated with a comprehensive suite of MIDI effects called Molecule Tools. Paint drum patterns using a palette of note clusters that provide new visualizations for MIDI data, make beats using multi-sample drum instruments or your own samples, and run it standalone or integrate into your workflow through VST/AU/RTAS/Max for Live.<h2 class=\"bb_tag\" >Key Features</h2><br><strong>Accent Modifiers</strong><br>Accent Modifiers target the velocity and groove of notes; basically the things that make music not sound like renegade robots hijacked your studio and started making music. You can think of Accent Modifiers as avenues to <u>humanize</u> your beats and free them from totalitarian robotic rule.<br><br><strong>BeatBuilder: BarForm List</strong><br>When you’re creating a drum track, the Beat Builder is your best friend. By default, it’s a really straightforward look at some commonly occurring patterns for whatever instrument you have selected. For example, if you’re working on a snare instrument, the Beat Builder will instantly highlight snare-specific patterns you can insert into regions with one click.<br><br><strong>BeatBuilder: BeatForm Sequencer</strong><br>A regular sequencer loops one or two bars and you input notes one at a time. The BeatForm Sequencer takes that model to the next level:  Each space in the sequencer can hold one or more notes, up to six. You can think of the spaces in the BeatForm sequencer as placeholders for groups of notes. All it ever takes is one click in the BeatForm Sequencer to get a cluster of notes in any given space. <br> <br><strong>BeatSeeker</strong><br>The BeatWeaver Rhythm Synthesizer can be an intimidating mass of information to negotiate through. That’s why the developers at WaveDNA built the BeatSeeker, an intelligent algorithm that highlights the most commonly occurring patterns for whatever instrument you’re working on. Our team of astute scientists studied several hundred songs from a variety of genres to ensure its accuracy. <br><br><strong>In-Line Editing</strong><br>Liquid Rhythm’s Pencil and Paint tools turn the Arranger into something it should always be– a Canvas. Rhythm is art, your screen is an easel, and these are the tools of your trade.<br><br><strong>Media Library</strong><br>Liquid Rhythm features a handful of  distinct kits, each mapped to the General MIDI standard of percussion (which is a fancy way of saying that when you hook up your MIDI drum pad, everything will work just the way you’d expect it to). There are six electronic kits:<br><br><ul class=\"bb_ul\"><li>DnB<br></li><li>Dubstep<br></li><li>HipHop<br></li><li>House<br></li><li>Techno<br></li><li>Trance</li></ul> <br>...and four acoustic kits:<br> <br><ul class=\"bb_ul\"><li>Acoustic<br></li><li>Pop<br></li><li>Rock<br></li><li>Soul</li></ul> <br><strong>The Music Molecule</strong><br>The Music Molecule is a new representation of MIDI. More importantly, it’s a simpler and more musical representation of MIDI. Unlike traditional MIDI editors, Liquid Rhythm doesn’t require you to have any theoretical understanding of music or the piano. It’s our way of grouping notes together in a 4/4 bar to let you actually paint entire bars of music onto your arranger.<br> <br><strong>VST/AU/RTAS</strong><br>Integrate Liquid Rhythm into your studio setup using our VST/AU/RTAS plugins. Check out  for more compatibility details! <br><br><strong>Max for Live Liquid Rhythm Patch</strong><br>Liquid Rhythm features an exciting new integration system for Ableton Live users: Liquid Rhythm’s powerful MIDI sequencing and editing tools can be used to create and remix MIDI patterns directly in Ableton Live clips. As you jump clip-to-clip in Ableton Live, Liquid Rhythm automatically displays the MIDI contents of each selected clip and Drum Rack information of each track.<br><br><strong>Benefits</strong><br><ul class=\"bb_ul\"><li>Speed up the creation of rhythm tracks in Ableton Live clips.<br></li><li>Integrate with Ableton Drum Racks.<br></li><li>Create and remix MIDI patterns in Ableton Live clips.<br></li><li>Implement your rhythmic ideas into the MIDI clip piano roll instantly.<br></li><li>Build beats entire bars at a time.<br></li><li>Use your own samples to create truly original beats.<br></li><li>Experiment with variations and alternatives to your drum patterns, all in real-time.<br></li><li>See relationships between notes in your MIDI clips with Liquid Rhythm’s Music Molecule MIDI visualization technology.</li></ul><i>This integration is only available when using Liquid Rhythm with Max for Live in Ableton Live 9 Suite. Additionally, Max for Live 6.1.6 is required for Ableton Live Clips Editing.</i><br><br><i>Purchasing Liquid Rhythm on Steam will result in the software ONLY working with the Steam platform running on your computer. If you wish to transfer your license to use Liquid Rhythm outside of Steam there will be a $30 USD fee, please contact <a href=\"mailto:support@wavedna.com\">support@wavedna.com</a>. </i>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262610/header.jpg?t=1447359380",
+    "developers": [
+      "WaveDNA"
+    ],
+    "publishers": [
+      "WaveDNA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1900,
+      "final": 1900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.00",
+      "recurring_sub": 63764,
+      "recurring_sub_desc": "今日需支付 ¥ 19.00，另外自动续订每 1 个月需支付 ¥ 19.00。"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 3 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "WAVEDNA HELLO WORLD 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262610/f6cc8be629db73536392320940cd7ddcdeb16886.jpg"
+        },
+        {
+          "name": "Test achievement 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/262610/35c1125ecae06d42d54c800531b6a886e48d6e71.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

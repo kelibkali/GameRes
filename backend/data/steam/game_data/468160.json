@@ -1,0 +1,125 @@
+{
+  "468160": {
+    "name": "Ancient Go",
+    "steam_appid": 468160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered.<br />\r\n<br />\r\nAncient Go includes tutorials, an AI opponent, ranked online play, and Steam friend challenges.<br />\r\n<br />\r\nThe easy AI has been custom designed for beginners to play against, a place where many AIs fail. For harder difficulties a second AI is brought in that is strong enough to beat players with hundreds of hours of experience.<br />\r\n<br />\r\nOnline play uses free accounts on the OGS server with 400,000 registered users, around 2,000 logged in at any one time. There are quickmatch buttons for the common board sizes, as well as custom open, and Steam challenges. If you end up playing a lot becoming an OGS supporter is highly recommended as we are not affiliated.<br />\r\n<br />\r\nAncient Go uses Unreal Engine 4 and is 64 bit. As such the minimum requirements may be more than some expect. It is full 3D, you can move the camera with the mouse by hold the right mouse button down, and by scrolling. Graphics settings are tuned automatically based on the current frame-rate. It is possible to play on slower machines, but the graphics may tune down substantially for you.<br />\r\n<br />\r\nFor new players the rest probably wont mean much, but players who know Go, read on. <br />\r\n<br />\r\nAncient Go uses visual hints to indicate when playing into atari, positions on the board in atari, ko's and snapbacks. These are places the new players often have trouble, so it speeds up the learning process and increases the fun factor while people learn the rules. They can be disabled in the options menu.<br />\r\n<br />\r\nAGA, Chinese, and Japanese rules are supported and can be selected in the options menu. AGA is default as it solves some problems with online play the popular Japanese rule set does not.<br />\r\n<br />\r\nStone removal uses the Fuego AI to mark dead stones, but can be set manually as well.<br />\r\n<br />\r\nThe AI used is a combination of Fuego (which is open source) and a custom AI. It is tuned to approximate 22 kyu, 18 kyu, 14 kyu, 2 dan. If new players are reading, it means most likely you can have many hundreds into thousands of hours of experience and the AI will still be a useful opponent. There are issues present which are in most AI's where on larger boards especially the AI fails to see larger strategy, but performs well in tactical situations. As such the AI ranks become significantly worse if play is geared to take advantage of this fact. It is possible for users to replace the Fuego.exe in the working directory with newer or custom versions.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/header.jpg?t=1496152693",
+    "developers": [
+      "Hart Laboratories LLC"
+    ],
+    "publishers": [
+      "Hart Laboratories LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "First Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/470eee6ebacd319344f0bc40c0c5b6541a0f233f.jpg"
+        },
+        {
+          "name": "Complete the Tutorials",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/418985bceb4210fc04457dd6d2fbfc3a25d00d68.jpg"
+        },
+        {
+          "name": "Win Playing 7x7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/0b148ddff3f7c7574699fd1d509f8d9c44348769.jpg"
+        },
+        {
+          "name": "Win Playing 9x9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/7b0aaf5a2b38650ba93ecdc211585a2216a29cb4.jpg"
+        },
+        {
+          "name": "Win Playing 13x13",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/46f8cf97764197a5af2af7daae4a01f2d2338c4f.jpg"
+        },
+        {
+          "name": "Win Playing 19x19",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/c7650d90c2cde7dd8dcd312a3eb17849f6a5e065.jpg"
+        },
+        {
+          "name": "Capture a Group of 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/93358274d6b85d6022515950e3869725bc38107d.jpg"
+        },
+        {
+          "name": "Capture a Group of 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/fdaf4a2d813fb3644329c9b8ddfc07bf0970b421.jpg"
+        },
+        {
+          "name": "Capture a Group of 16",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/1e47d7867acdd6a0a2a291cbaad4d889651d820e.jpg"
+        },
+        {
+          "name": "Capture a Group of 25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/468160/d90728e3280f570ef8e75b7a7d6f6824d75a92d9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 14,
+      "total_negative": 4,
+      "total_reviews": 18
+    }
+  }
+}

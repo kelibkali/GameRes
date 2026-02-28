@@ -1,0 +1,101 @@
+{
+  "533860": {
+    "name": "Multimirror",
+    "steam_appid": 533860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "多镜是一款基于最小网格的益智游戏。<br />\r\n反映圈绕其他圈，并采取红圈的制胜点！<br />\r\n特征:<br />\r\n50手创级别<br />\r\n具有许多可调参数的随机级别生成器<br />\r\n完成级别编辑<br />\r\n创建和共享您自己的级别，并发现由社区成员创造建的很棒的水平！<br />\r\n成就，交易卡，云存储<br />\r\n所有颜色的圆圈都可以在同一行或列的另一个圈内反射。<br />\r\n没有圆圈可以走出网格或重叠的另一个圆圈。<br />\r\n目标是把红圈带到制胜点。<br />\r\n绿色圆圈只能用一次来反映一个圆圈。",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 意大利语, 德语, 捷克语, 荷兰语, 日语, 韩语, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533860/header.jpg?t=1479314878",
+    "developers": [
+      "Cleverweek"
+    ],
+    "publishers": [
+      "Cleverweek"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "First",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/ff9c31762bc852f22b9d6d3fb417441c0160bb1d.jpg"
+        },
+        {
+          "name": "Second",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/af5941de493b67e0894c9e567645bfad7873595d.jpg"
+        },
+        {
+          "name": "Third",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/c1c5eaca26619113a1f0441e76264db80969d987.jpg"
+        },
+        {
+          "name": "Fourth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/acdbfc018bb45d6d816fa71866d774be853abb25.jpg"
+        },
+        {
+          "name": "Fifth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/0c9e971233030e186492dd22cf138687cb01473b.jpg"
+        },
+        {
+          "name": "Everyone Makes Mistakes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/533860/1b6ac21ffbca618a1c6006645b2ce5be4ca6f9e9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "1222180": {
+    "name": "复古漂移",
+    "steam_appid": 1222180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "您好，这是一款简单的以复古汽车为主题的街机漂移游戏。<h2 class=\"bb_tag\" >游戏特色</h2><br><ul class=\"bb_ul\"><li>简单易上手的漂移操作，可单手游玩。<br></li><li>4种典型的复古汽车，3张小型赛道地图。<br></li><li>支持自定义AI数量，最小0最大19，最多可容纳20辆车同时竞速。<br></li><li>支持Steam成就。<br></li><li>支持Steam排行榜。</li></ul><h2 class=\"bb_tag\" >游戏玩法</h2><br><ul class=\"bb_ul\"><li>尽可能多的做出完美漂移，积累分数。<br></li><li>尽可能多的收集小扳手，增加分数。<br></li><li>躲避路上的CRT显示器。</li></ul>",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 俄语, 土耳其语, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222180/header_schinese.jpg?t=1597263059",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "5000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1222180/7e158941dff01315d05353dd004a5f35070cdc44.jpg"
+        },
+        {
+          "name": "10000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1222180/5415ecd0aa0240af8e762ad6ad7e35d4b0ce4197.jpg"
+        },
+        {
+          "name": "200000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1222180/634aae9996cc01ad62e2273b048df1a5bf05d467.jpg"
+        },
+        {
+          "name": "50000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1222180/00deb1c60f8e6d80b01a15b8a0592781a953c8c6.jpg"
+        },
+        {
+          "name": "800000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1222180/c4303ff1dc81ae88f8aa316395a073084ef2674d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 2,
+      "total_negative": 2,
+      "total_reviews": 4
+    }
+  }
+}

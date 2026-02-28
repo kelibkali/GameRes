@@ -1,0 +1,85 @@
+{
+  "1472040": {
+    "name": "Cat's Cradle",
+    "steam_appid": 1472040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Cat's Cradle is a 2D action game.<br>You fly with a wire and cut the enemy.<br>There are 6 stages.<br><br><strong>You are free to make gameplay videos and stream live.</strong>",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1472040/header.jpg?t=1658323561",
+    "developers": [
+      "IzukawaN"
+    ],
+    "publishers": [
+      "IzukawaN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Stage1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/d9ad1cd46d821a04829a3f06250ca56c94f978cf.jpg"
+        },
+        {
+          "name": "Stage2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/33f0f97df29d70726f045b3061c2a7026ed3b5e5.jpg"
+        },
+        {
+          "name": "Stage3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/a15d2b293df192aaaef3d075950441120705b010.jpg"
+        },
+        {
+          "name": "Stage4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/ed8f57b70858eba8da90892dd1edd743a02fdaba.jpg"
+        },
+        {
+          "name": "Stage5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/dd142efef333e4d07b496e1f02d3ea88fa82df98.jpg"
+        },
+        {
+          "name": "Stage6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1472040/d9fa57012c863931881fd74d4eedcccbfd2d2862.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

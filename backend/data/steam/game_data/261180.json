@@ -1,0 +1,141 @@
+{
+  "261180": {
+    "name": "Lethal League",
+    "steam_appid": 261180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Lethal League is a competitive projectile fighting game where you have to hit an anti-gravity ball into the face of your opponent to win. The ball speeds up with every strike, up to explosively extreme velocities. Play intense local matches with friends and foes, challenge yourself in the singleplayer mode or battle it out online.<br><br><strong>Key Features</strong><br><br><ul class=\"bb_ul\"><li><strong>Up to 4 players:</strong> <br>Play locally AND online with up to 4 players in free-for-all and team modes.<br></li><li><strong>High performance online GGPO multiplayer:</strong><br>In the online mode, invite friends for a Private Match or head into a Quick Match. Using the proven GGPO technology, the high speed nature of Lethal League translates seamlessly to online play and provides a way to tweak your online experience. <br></li><li><strong>Easy to pick up, hard to master gameplay:</strong> <br>Start off simply hitting the ball faster and faster. Improve by learning how to use Smashing, Bunting, Parrying and Special Abilities to your advantage.<br></li><li><strong>Street-styled characters:</strong> <br>From the mad Candyman to the cyborg crocodile Latch, every character has their own unique play-style and abilities. <br></li><li><strong>Singleplayer challenge mode:</strong> <br>Step up to the plate by yourself and beat a series of opponents arcade-style to reach the beat-blasting bossfight.<br></li><li><strong>Banging beats:</strong> <br>A Big-beat, Hip-Hop and House soundtrack featuring the likes of Grillo, Bignic, Dr. Lazer and more.<br></li><li><strong>No weak shit.</strong></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261180/header.jpg?t=1667229581",
+    "developers": [
+      "Team Reptile"
+    ],
+    "publishers": [
+      "Team Reptile"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4500,
+      "final": 4500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 45.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "Rifle Strike",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/8742df79ceae2f2fc4c153e626405b3136635a6b.jpg"
+        },
+        {
+          "name": "Bats In The Dark",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/f2f1ca63a54322c5867ed3e90c81f9c2d8d83e92.jpg"
+        },
+        {
+          "name": "Chrono Warp",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/349db94854569d25e75402a05ca4c546c1231905.jpg"
+        },
+        {
+          "name": "Chrono Warp Cluster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/5e706cf70bbc6f797944cdf4b770b4b66c669f60.jpg"
+        },
+        {
+          "name": "Grand Slam",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/94917a9734aae79a7f513c5c165f6596d8e52717.jpg"
+        },
+        {
+          "name": "Double Play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/c30690b238809a9d98209e32cc74f3c1c9a8e302.jpg"
+        },
+        {
+          "name": "Mass KO Production",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/3f90ed22f35b79303d94ad6ed7e442a39b13ffa4.jpg"
+        },
+        {
+          "name": "3rd Division",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/c9b0232f71059b62300b3c279aa0c8318b58a184.jpg"
+        },
+        {
+          "name": "2nd Division",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/30a4ef67fef9dcdec1d5177a07d57e9d600f7624.jpg"
+        },
+        {
+          "name": "1st Division",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261180/1283c85381660bf3f1ecbae4844af88892acf363.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 39,
+      "total_negative": 0,
+      "total_reviews": 39
+    }
+  }
+}

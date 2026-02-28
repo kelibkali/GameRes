@@ -1,0 +1,50 @@
+{
+  "4304310": {
+    "name": "GCubeSDK",
+    "steam_appid": 4304310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >GCubeSDK is an easy-to-use framework to develop your own Nintendo GameCube games in C++. GCubeSDK is highly inspired by three.js (a general-purpose 3D library) and built on top of devkitPPC / libogc. The goal of this framework is to give developers a tool to let them focus on what is most important: the actual game development.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >GCubeSDK provides a lightweight, minimalistic GUI for developers who prefer visual management and minimal configuration, while still having full compatibility with traditional terminal-based workflows. Whether you're comfortable in bash or prefer point-and-click simplicity. Start with the GUI to get your project running in minutes, or dive straight into the terminal for complete control.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/extras/02c48b7a3d93daa14cf7681784ed33fb.avif?t=1770367115\" width=529 height=73 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >GCubeSDK comes with a complete Windows installer that bundles everything you need: the devkitPPC development toolkit, MSYS2 environment, Dolphin emulator for testing, and all required build tools and utilities. Simply run the installer and you'll be ready to start developing in minutes. For Linux users or those who prefer manual setup on Windows, GCubeSDK can be configured manually using the configuration files. Just ensure you have devkitPPC, MSYS2 (or WSL), and Dolphin installed separately.</p><p class=\"bb_paragraph\" > <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/extras/e17aebd9cc12e36e4ffd1047596628d6.avif?t=1770367115\" width=529 height=73 /></span></p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Procedural geometries</p></li><li><p class=\"bb_paragraph\" >material system (BasicMaterial, LambertMaterial)</p></li><li><p class=\"bb_paragraph\" >directional and point lights</p></li><li><p class=\"bb_paragraph\" >texture loading</p></li><li><p class=\"bb_paragraph\" >perspective/orthographic cameras</p></li><li><p class=\"bb_paragraph\" >GLTF/GLB and OBJ/MTL loaders</p></li><li><p class=\"bb_paragraph\" >automatic texture conversion</p></li><li><p class=\"bb_paragraph\" >Keyframe animation</p></li><li><p class=\"bb_paragraph\" >animation mixer</p></li><li><p class=\"bb_paragraph\" >complete skeletal animation</p></li><li><p class=\"bb_paragraph\" >support for skinned meshes and rigs</p></li><li><p class=\"bb_paragraph\" >Qt-based GUI</p></li><li><p class=\"bb_paragraph\" >GDB remote debugging (USB Gecko/BBA)</p></li><li><p class=\"bb_paragraph\" >in-game console overlay</p></li><li><p class=\"bb_paragraph\" >automated ISO builder</p></li><li><p class=\"bb_paragraph\" >Dolphin emulator integration</p></li><li><p class=\"bb_paragraph\" >Visual helpers (AxesHelper, GridHelper, Box3Helper)</p></li><li><p class=\"bb_paragraph\" >2D UI system (Object2D)</p></li><li><p class=\"bb_paragraph\" >font rendering</p></li><li><p class=\"bb_paragraph\" >and many more</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/extras/80d300aee657a648538a20b1ee925c0c.avif?t=1770367115\" width=529 height=73 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >GCubeSDK is an ongoing development effort that continues to improve over time. The roadmap is still long and will certainly shrink in the future. By now this project has a reached a shareable state. I am committed to continuously improving the framework if there is community feedback from developers actually using GCubeSDK.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Splines</p></li><li><p class=\"bb_paragraph\" >Collision</p></li><li><p class=\"bb_paragraph\" >Audio</p></li><li><p class=\"bb_paragraph\" >Effects</p></li><li><p class=\"bb_paragraph\" >Fog</p></li><li><p class=\"bb_paragraph\" >Particles</p></li><li><p class=\"bb_paragraph\" >Multiple Language Support</p></li><li><p class=\"bb_paragraph\" >PNG / JPG to TPL embedded conversion</p></li><li><p class=\"bb_paragraph\" >and many more</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/extras/930bb109ab44d2c86769d803529ccd21.avif?t=1770367115\" width=529 height=73 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/extras/e43d1278f9c71e61b95715c6bd84ff1e.avif?t=1770367115\" width=573 height=738 /></span></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 法语, 德语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304310/ad2f1d882ec96a8afbf21bbdf65ea9cf2b22dc4f/header.jpg?t=1770367115",
+    "developers": [
+      "FenixFoxStudios"
+    ],
+    "publishers": [
+      "FenixFoxStudios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "993300": {
+    "name": "Maid_san's Caving Adventure Images",
+    "steam_appid": 993300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "---------------------------------------------------------------<br>-                        Introduction                         -<br>---------------------------------------------------------------<br><br>Maid_san's Caving Adventure is an action game originally released on XBOX 360's XBLIG.<br>A lot of time has passed since its release in 2011.<br>I started off spontaneously, drawing graphics as pixel art.<br>At that time I was having a hard time creating graphics!<br>And making not only all graphics but also the whole game alone was even harder!<br><br>Anyway, a lot happened and after being away for a while, <br>Pixel Game Maker MV got released. <br>So I decided to get on my butt and start developing some new games.<br>And that's when it hit me.<br>I'm sure there are various people who were thinking to do the same thing.<br>However, no graphics, no game!<br>And so I decided to help those in need of some graphics by making this DLC.<br><br>When organizing this DLC, I noticed that there is much less material than I thought there was.<br>I realized how little material was needed to make Maid_san's Caving Adventure.<br>Feel free to create your own games with these materials!<br><br>*Notice*<br>Maid_san's Caving Adventure Soundtrack is not included in this DLC.<br>KoheiGallery does not own the rights to this soundtrack, so please do not use it.<br><br><br>---------------------------------------------------------------<br>-                         About the content                   -<br>---------------------------------------------------------------<br><br>All content in this DLC is from Maid_san's Caving Adventure.<br>However, the characters are not included.<br>Characters have their own personality, so I'd like you to make one that fits your game.<br>As the possibility to make slopes is a feature of Pixel Game Maker MV,<br>I added slopes in the tile map.<br>Also, I added materials of a canceled game.<br>All materials are in the following folders:<br><br>- BG<br>The folder with all background images.<br>They are all loopable horizontally or vertically, so please use them with the tiles.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/feafdc8332c7d6b87e7c8d7f735ebc4f.avif?t=1545058778\" width=620 height=228 /></span><br><br><br>- Item<br>All items are in here. They all have their own animations.<br>The sizes are as follows:<br>      item_star_L  64x64<br>      item_parfait 32x64<br>      item_shoes   64x32<br>      itembox      78x64<br>      Others       32x32<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/143ebf1bb41a7d33a2bc100987acc718.avif?t=1545058778\" width=620 height=224 /></span><br><br><br>- MapChip<br>All tiles are in here.<br>The tilemaps are 32x32 in size.<br>mapchip_water is animated from top to bottom and so they are connectable horizontally.<br>And the lowest tile is used for places other than water.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/4924cc6181ab6c559ae332767d6b8d67.avif?t=1545058778\" width=620 height=312 /></span><br><br><br>- Object<br>These are the background objects for the stage.<br>They all have their own animation patterns.<br>There are a lot of different patterns, so be careful when setting the animations.<br>All objects are animated from the upper left to the lower right.<br>      obj_door_A     192x256<br>      obj_door_B     192x256<br>      obj_machine_A  160x160<br>      obj_machine_B  96x96<br>      obj_machine_C  32x192<br>      obj_machine_D  32x128<br>      obj_mushroom   32x32<br>      obj_ruins_A    64x64<br>      obj_ruins_B    64x64<br>      obj_ruins_C    64x64<br>      obj_shit       96x32<br>      obj_switch     96x32<br>      obj_temple     64x64<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/7f1b532718edbdc9ca76c8a25052d1e4.avif?t=1545058778\" width=620 height=350 /></span><br><br><br>- Platform<br>These are for walkable platforms.<br>You can use them for moving platforms, vanishing platforms, and more.<br>Some of these have animations.<br>      platform_I  96x32<br>      platform_J  96x32<br>      platform_K  96x32<br>      platform_R  32x32<br>      platform_S  128x32<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/8571e9f4bfae4071f638273aff428ef8.avif?t=1545058778\" width=620 height=294 /></span><br><br><br>- Trap<br>These are objects that can cause you damage.<br>Some have animations.<br>The sizes are as follows:<br>      trap_A  32x128<br>      trap_B  128x64<br>      trap_C  64x96<br>      trap_D  96x64<br>      trap_E  96x40<br>      trap_F  32x128<br>      trap_G  210x230<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/ed4540ffeb2c02c5c5b77706bc93e082.avif?t=1545058778\" width=620 height=276 /></span><br><br><br><br>---------------------------------------------------------------<br>-           Example of use(Pixel Game Maker MV)               -<br>---------------------------------------------------------------<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/0d20b49c1ac409703317b723535bf141.avif?t=1545058778\" width=620 height=329 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/extras/2b6ea389667696cae457fe777a25b10c.avif?t=1545058778\" width=620 height=329 /></span><br><br><br><br>---------------------------------------------------------------<br>-           Storage location of purchased material               -<br>---------------------------------------------------------------<br><br>  The default save location is the following path.<br>  C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Maid_san's Caving Adventure - メイドさん洞窟探検 -<br><br><br><br>---------------------------------------------------------------<br>- Guidelines on the Use of Maid_san's Caving Adventure Images -<br>---------------------------------------------------------------<br><br>Only the buyer is allowed to use Maid_san's Caving Adventure Images.<br>Using these means you comply with the following guidelines:<br><br>  [ Requirements for usage ]<br>    1. When using Maid_san's Caving Adventure Images you have to show my logo, koheigallery.png, in your game.<br><br>  [ Allowed things ]<br>    1. Use Maid_san's Caving Adventure Images in your own games.<br>    2. Change/edit materials of Maid_san's Caving Adventure Images when needed.<br>    3. Sell homemade content including Maid_san's Caving Adventure Images.<br><br>  [ Prohibited acts ]<br>    1. Sell or make Maid_san's Caving Adventure Images itself available to other parties.<br>       This includes changed/edited versions of Maid_san's Caving Adventure Images.<br>    2. Act as if you made Maid_san's Caving Adventure Images yourself.<br>    3. Other acts concerning copyright law<br><br><br>© 2018 KoheiGallery",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993300/header.jpg?t=1545058778",
+    "developers": [
+      "KoheiGallery"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 27200,
+      "final": 13600,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 272.00",
+      "final_formatted": "¥ 136.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

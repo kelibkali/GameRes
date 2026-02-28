@@ -1,0 +1,52 @@
+{
+  "1407570": {
+    "name": "Interactive Fluid Wallpaper",
+    "steam_appid": 1407570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Unleash beautiful visuals and give life to your System Wallpaper!<br><br> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407570/extras/4b9c9ad52ba905ff6cb8ce01bffa3992.poster.avif?t=1749542473\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407570/extras/4b9c9ad52ba905ff6cb8ce01bffa3992.webm?t=1749542473\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407570/extras/4b9c9ad52ba905ff6cb8ce01bffa3992.mp4?t=1749542473\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><br><ul class=\"bb_ul\"><li><strong>Realtime Simulations:</strong> no need to learn advanced animation techniques or deal with complicated configurations, just use physics based fluids and let your computer do the work.<br></li><li><strong>WYSIWYG: </strong>Edit your Wallpaper directly in the Desktop.<br></li><li><strong>Image Support:</strong> Use photos, images to reach unique visuals.<br></li><li><strong>Customization options:</strong> there's a lot of options to play around giving settings to use the fluids to build an abstract wallpaper or an animated effect.<br></li><li><strong>Optimized: </strong>GPU based calculations combined with light 2D Particles giving to your CPU and GPU a soft environment.</li></ul><h2 class=\"bb_tag\" ><strong>FAQ</strong></h2><br><strong>Q: Why my Wallpaper is a blank page?</strong><br>A: <i>This happens when you're with default configuration. You need to set new values for your configuration in edit mode, start edit mode using the system tray menu (watch tutorial).</i><br><br><strong><strong>Q: How i set an image?</strong></strong><br>A: <i>Just copy the image url (internet) or the file path (your system), open Edit Mode, Edit Layer, click &quot;Paste From Clipboard&quot; and click &quot;Set Image From URL&quot;. Wait a little and the image will appear. If the image don't appear, try to restart the Edit Mode, check if the path is correct or delete the previous image.</i><br><br><strong>Q: How i rotate the fluid?</strong><br>A: <i>Once the spawn point is activated and the fluid is ON, click rotate to initiate the rotation and click rotate once more to stop.</i><br><br><strong>Q: Does it have Workshop support?</strong><br>A: <i>The initial release is not covering Workshop. The workshop feature will come in future updates.</i><br><br><strong>Q: My antivirus is detecting malware, why this is happening and what should i do?</strong><br>A: <i>This is a simple app made in Unity Engine, you can add the app to exclusion exception into your antivirus. The flag happens because &quot;Start with Windows&quot; and &quot;Remove from Start&quot; write and remove the app.exe in your Windows Startup folder, so majority of virus scanners will see this as malicious.</i><br><br><br><br>Thank you for checking the application!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407570/header.jpg?t=1749542473",
+    "developers": [
+      "SSby"
+    ],
+    "publishers": [
+      "SSby"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 21 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

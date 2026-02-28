@@ -1,0 +1,121 @@
+{
+  "1367680": {
+    "name": "Charge!",
+    "steam_appid": 1367680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "洞悉电路板上电荷的流动,电荷就是这样一款关卡向解密游戏.妥善利用手中可用的资源,从头设计属于自己的模板,将这些零部件一一排布进精妙的仪器之中.从普通的电池到完美的可持续能源,享受游戏技艺不断进步的乐趣吧.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367680/extras/d408a7cb2db5cb9b7d60e991fd44d1a6.avif?t=1667177571\" width=610 height=260 /></span><br><br>分流,合并以及放大电荷.各种手段只为使得电荷最终能够到达目的地.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367680/extras/1222baf378e9b8e391de090d1608d73e.avif?t=1667177571\" width=610 height=194 /></span><br><br>游戏将从简单放置模块的早期关卡逐渐深入至完全把控整块电路.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367680/extras/459fc28fa652c427f88c58077ad89edc.avif?t=1667177571\" width=610 height=490 /></span><br><br>超过90种别具匠心的关卡设计,你值得拥有.",
+    "supported_languages": "英语, 简体中文, 俄语, 德语, 西班牙语 - 西班牙, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367680/header.jpg?t=1667177571",
+    "developers": [
+      "Hidden Depths Games"
+    ],
+    "publishers": [
+      "Hidden Depths Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "Solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/a4056a034e4554e57d051508374fc2375dc04fff.jpg"
+        },
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/64f3e411a7109139606f369fd6c73f7b923a1c9d.jpg"
+        },
+        {
+          "name": "Debugger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/660bcc79d3b07ef25c242c8c5953a2ac7acbc3cf.jpg"
+        },
+        {
+          "name": "Engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/8da1e700083edc594d98399885512d20c61eff5c.jpg"
+        },
+        {
+          "name": "Programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/1bcd29c3b4f61284ba1bf96a9a463560867d0f28.jpg"
+        },
+        {
+          "name": "A Whole New World",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/a4cd50c9b4dea313e76ff0ac83edb630dd0cecd4.jpg"
+        },
+        {
+          "name": "Final Destination",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/8047ef6b8f5322ad572af05528c94577206540b8.jpg"
+        },
+        {
+          "name": "Infinite Possibilities",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/b35a595f16568d049dec9e820a4fc168a2f9d16a.jpg"
+        },
+        {
+          "name": "Creator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/2c2b10a71a9da340275a10b3e6ec93f669e8685f.jpg"
+        },
+        {
+          "name": "Destroyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367680/dcbbc60849935df994f8d2a66e82459c5a2fc00c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

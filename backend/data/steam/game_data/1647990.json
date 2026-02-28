@@ -1,0 +1,42 @@
+{
+  "1647990": {
+    "name": "Ningakki XXVI FPS",
+    "steam_appid": 1647990,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >UPDATE 2025-10-19</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game was made with Unity, which has an RCE exploit designated CVE-2025-59489.  This exploit allows an attacker to run arbitrary code by invoking the Ningakki XXVI FPS executable.  I have updated the game to mitigate this vulnerability, but Steam/Valve will not allow me to upload the patched files (as per &quot;Jason&quot; with Steamworks Support).</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >From my Steam Analytics, I think only nine people have played this game over the last year, so I think the exposure surface is quite minimal.  If Steam/Valve ever fix their systems to allow updates, then I will upload the fixed versions that are not vulnerable.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >=============================================================</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In this game you kill robots to save yourself.  Or just escape and hope someone else deals</p><p class=\"bb_paragraph\" >with the problem.  Or self-sacrifice yourself to blow up the planet.  Or</p><p class=\"bb_paragraph\" >let the robots kill you.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game play is slow, and decidedly unhelpful.  Modern games guide you</p><p class=\"bb_paragraph\" >incessantly towards the objectives.  This game doesn't.  There is no</p><p class=\"bb_paragraph\" >handy weapon to start with, you have to punch the door open with your</p><p class=\"bb_paragraph\" >bare fists and then find a weapon.  There are no hints as to where to</p><p class=\"bb_paragraph\" >find a weapon.  The first weapon you pickup chooses if you are a wizard</p><p class=\"bb_paragraph\" >or a mundane.  There are three wizard weapons, and six mundane weapons.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >I wrote this game as a project to learn Unity.  Getting it onto Steam</p><p class=\"bb_paragraph\" >was also a goal.  The core of the game is the Unity FPS Microgame, but</p><p class=\"bb_paragraph\" >I'd like to think that I added and changed enough things to elevate this</p><p class=\"bb_paragraph\" >above an asset-flip.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >I didn't implement everything I wanted to, but I learned a lot along the</p><p class=\"bb_paragraph\" >way.  My accomplishments are: a surveilance drone, landmines, barbed</p><p class=\"bb_paragraph\" >wire, updated graphics (especially the jetpack model and the sniper</p><p class=\"bb_paragraph\" >rifle model), a healing platform, a pick-up for the compass, a pick-up</p><p class=\"bb_paragraph\" >for the flashlight, a pick-up to expand your jetpack fuel (the Unity FPS</p><p class=\"bb_paragraph\" >Microgame provided the jetpack pickup), tweaked AI aiming, several new</p><p class=\"bb_paragraph\" >AI aggro distributions, the wizard/mundane paradigm, and more I'm sure.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647990/header.jpg?t=1760890177",
+    "developers": [
+      "WilliamDColburn"
+    ],
+    "publishers": [
+      "WilliamDColburn"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

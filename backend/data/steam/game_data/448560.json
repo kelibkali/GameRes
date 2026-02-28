@@ -1,0 +1,105 @@
+{
+  "448560": {
+    "name": "Mind Games",
+    "steam_appid": 448560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个集合了许多有趣的拼图和猜谜的游戏。 当中有一些是我们童年所熟悉的 - 各版本的黑白棋，西洋棋，捉迷藏游戏等。有些则是两种较高难度游戏的组合，例如海战或者数独游戏。 <br />\r\n此游戏有20种难题和大约255个难度关卡。 <br />\r\n考验脑力的序列关卡 <br />\r\n质量良好的图像 <br />\r\n这个游戏肯定能够吸引儿童和青年，甚至是大人们。<br />\r\n警告！这是为聪明人而设计的游戏。如果您无法通过开始屏幕，请删除此游戏，并且不要寻求别人的帮忙。下一关或许会更加复杂。",
+    "supported_languages": "英语, 法语, 意大利语, 韩语, 俄语, 德语, 西班牙语 - 西班牙, 荷兰语, 葡萄牙语 - 葡萄牙, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448560/header.jpg?t=1731068094",
+    "developers": [
+      "AK Games"
+    ],
+    "publishers": [
+      "My Way Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 3 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Complete one level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/6fb718bb2a492edd2d7e377b1de99934d68bf503.jpg"
+        },
+        {
+          "name": "Complete five levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/76f084e0f32df97e5b391dcea0cb88799a4dd8da.jpg"
+        },
+        {
+          "name": "Complete 40 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/742069597c21cb0f75fe21132d4a02568cde9e46.jpg"
+        },
+        {
+          "name": "Complete 100 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/3df53de11c975bf4201134b02ef0b9a80f4d0484.jpg"
+        },
+        {
+          "name": "Complete 200 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/92e2d7d491a863aa9d0087ae2f2438d453c8eb53.jpg"
+        },
+        {
+          "name": "Skip a level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/291b0af13f15b9e2a8bf60bdf31972cdd06800aa.jpg"
+        },
+        {
+          "name": "Solve Entrance",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/a4bbdffa596a69b1c22ed139f3b7ea33956c265a.jpg"
+        },
+        {
+          "name": "Solve Dali ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/012532b84463b3f448a98634635d726f7752fe98.jpg"
+        },
+        {
+          "name": "Solve Bogaryrs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/10446e449b03f4a6c89f1e1f31b0298e7361a935.jpg"
+        },
+        {
+          "name": "Solve Oak Grove",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/448560/0e0a9317f2adf03203d28507df44bad1cf43610a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 10,
+      "total_negative": 3,
+      "total_reviews": 13
+    }
+  }
+}

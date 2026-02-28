@@ -1,0 +1,105 @@
+{
+  "480770": {
+    "name": "Dreamals",
+    "steam_appid": 480770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>梦境萌宠</strong><br>被召唤到梦境的三只动物，为了返回现实世界而开始冒险。<br>结合只能移动至一个方向的动物，找出能够获取钥匙的路。<br><br><strong>特色</strong><br>新的谜题 : 结合只能移动至一个方向的动物，解决谜题吧。<br>多样的玄机花砖 : 好好利用20几种的多样的花砖，解除谜题。<br>多样的关卡 : 4个风格、80种关卡，请体验一下吧。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480770/header.jpg?t=1493253937",
+    "developers": [
+      "XINESS Co,. Ltd."
+    ],
+    "publishers": [
+      "XINESS Co,. Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 4 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Forest Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/25d085841d8aff92d36904dab1b68f3b063be8f6.jpg"
+        },
+        {
+          "name": "Jungle Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/dd0a373fd44d93ed9ceaa1dba7f5ee4af0032735.jpg"
+        },
+        {
+          "name": "Desert Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/1ccd4a5cffd4f61bbe05b791f3a440b27e0177d9.jpg"
+        },
+        {
+          "name": "Chaos Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/190d7659ec914e52426c5719253b59af06d31207.jpg"
+        },
+        {
+          "name": "First Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/e9eeee7e9e48d93c2d45d7f9db6e50db61c1a430.jpg"
+        },
+        {
+          "name": "Star Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/d8b4447e02a7e2ce3d4edfcda6b0b268b65c2764.jpg"
+        },
+        {
+          "name": "Star Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/d8b4447e02a7e2ce3d4edfcda6b0b268b65c2764.jpg"
+        },
+        {
+          "name": "Master of Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/480770/190d7659ec914e52426c5719253b59af06d31207.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "647280": {
+    "name": "Pixel Shooter",
+    "steam_appid": 647280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这个2D平台游戏中，得到你的枪，并以你的方式射击所有的怪物，或者逃跑到出口。<br />\r\n<br />\r\n你的任务是在每个级别找到出口。 各级都装满怪物。 你可以杀死或只是跑，这取决于你决定。<br />\r\n<br />\r\n此游戏使用Unity资产商店的旧资产创建。 我期望你喜欢它。<br />\r\n<br />\r\n我想每月为这个游戏建立更多的水平。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647280/header.jpg?t=1649905293",
+    "developers": [
+      "Sabrina Aridi"
+    ],
+    "publishers": [
+      "Sabrina Aridi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 6000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 60.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "First Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/647280/df27c3eedb7db2fb4720c3139ef5d61235945b11.jpg"
+        },
+        {
+          "name": "More Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/647280/2b52f2079d38e47c8a4ffc814a0bd202faa155b4.jpg"
+        },
+        {
+          "name": "Levels Dominated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/647280/e5531b2f95675f9bf17aafb0b811a57d881c8dd5.jpg"
+        },
+        {
+          "name": "Mastering Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/647280/e5132a483f326dd759021da4017daed0dea0ea3c.jpg"
+        },
+        {
+          "name": "Much time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/647280/88031fab2e84bcbecb1e07426993c6f5490b7a4b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 0,
+      "total_negative": 3,
+      "total_reviews": 3
+    }
+  }
+}

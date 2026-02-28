@@ -1,0 +1,57 @@
+{
+  "1255140": {
+    "name": "方块物语",
+    "steam_appid": 1255140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "方片物语是一个点击冒险游戏。<br />\r\n你将探索这片大陆，寻找老婆的踪迹。<br />\r\n采集资源收集物体。<br />\r\n吃食物增加属性。<br />\r\n打造装备增强能力。<br />\r\n和怪物战斗。<br />\r\n可能，发现一些隐藏的故事。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255140/header.jpg?t=1585630115",
+    "developers": [
+      "3000White"
+    ],
+    "publishers": [
+      "3000White"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

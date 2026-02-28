@@ -1,0 +1,89 @@
+{
+  "429480": {
+    "name": "Vision Runner",
+    "steam_appid": 429480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Vision Runner</strong> is a First Person Parkour game currently in development with Unreal Engine 4.<br><br>The concept of Vision Runner is the Build, Share &amp; Play principle. You got the opportunity to make your own maps/parkour’s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it “Parkour Central”.<br><br>The Editor is easy to use, since we’ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks.<h2 class=\"bb_tag\" >Early Access Features</h2><ul class=\"bb_ul\"><li>In-Game map editor with basic features and map sharing<br></li><li>Parkour Central (map browser)<br></li><li>Playing maps from us or other players against the time.<br></li><li>Basic parkour movement: climbing, sliding, wall running, jump over</li></ul><h2 class=\"bb_tag\" >Planned Features</h2><ul class=\"bb_ul\"><li>Multiplayer<br></li><li>More Game Modes like Trick Running<br></li><li>Various Textures for Objects<br></li><li>More Content for the Editor<br></li><li>More Tricks<br></li><li>Various Characters<br></li><li>Weather<br></li><li>Map Locations<br></li><li>Mini-Story Creator*</li></ul><br>*Low Priority",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/header.jpg?t=1493674541",
+    "developers": [
+      "Snowbit Interactive"
+    ],
+    "publishers": [
+      "Snowbit Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "All beginnings are difficult",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429480/5a5a92664b4aac2f387f667126eee143fa7c8f97.jpg"
+        },
+        {
+          "name": "Ready for take off",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429480/12fd6c199c94aa58ce5c57191de4a5807c9b714f.jpg"
+        },
+        {
+          "name": "Climbing to the Top",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429480/eeafb95dd2055b8d56ba5feaeb58906e2178cedb.jpg"
+        },
+        {
+          "name": "Blockmania",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429480/d13453764ceb2ca709672d10f35a5cecf469810d.jpg"
+        },
+        {
+          "name": "Welcome to the Playground",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/429480/014d7e4cbbdd381b74d092ebc55c03e0e198a5ee.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

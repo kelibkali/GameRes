@@ -1,0 +1,61 @@
+{
+  "1257460": {
+    "name": "Blastboard - Cape Plugin",
+    "steam_appid": 1257460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Cape Plugin adds a character named ‘Cape’ into the game. After installing the DLC, you can change characters by <u>pressing the left or right arrow keys</u> on your keyboard during gameplay.<br><br>This is simply a local aesthetic change and not an online player avatar, so it will not be reflected for other remote players.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257460/extras/0efe4d31b9dd51458073c6151ea93c3a.poster.avif?t=1726127570\" width=400 height=400 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257460/extras/0efe4d31b9dd51458073c6151ea93c3a.webm?t=1726127570\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257460/extras/0efe4d31b9dd51458073c6151ea93c3a.mp4?t=1726127570\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257460/header.jpg?t=1726127570",
+    "developers": [
+      "Enigmatic Network"
+    ],
+    "publishers": [
+      "Enigmatic Network"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

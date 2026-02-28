@@ -1,0 +1,81 @@
+{
+  "862130": {
+    "name": "Rainy Day Racer",
+    "steam_appid": 862130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862130/extras/0d5e34d356b2140b688076b284979b49.poster.avif?t=1757692099\" width=576 height=324 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862130/extras/0d5e34d356b2140b688076b284979b49.webm?t=1757692099\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862130/extras/0d5e34d356b2140b688076b284979b49.mp4?t=1757692099\" type=\"video/mp4\"></video></span><br><br>Rainy Day Racer is a 3D time-attack motor racing game set in a Scottish city where it rains all the time, all the time, just absolutely hammers it down every effing day. Featuring:<br><br><ul class=\"bb_ul\"><li>Arcadey, forgiving handling physics, with no collision damage and gently railroaded drifting<br></li><li>Leaderboards and downloadable ghosts to chase</li><li>3 vehicles, including a quality transit van<br></li><li>3 courses (one bit is shared between two courses, so maybe more like 2.8 courses)<br></li><li>1 beautiful woman model who'll twirl and hold up a sign with your name on it if you set a good record</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/862130/header.jpg?t=1757692099",
+    "developers": [
+      "illegaldogs"
+    ],
+    "publishers": [
+      "illegaldogs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Rainy Day Racer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/862130/74f66e54b5c320f6d655e8db4b8ed9f51b496c0e.jpg"
+        },
+        {
+          "name": "Non Rainy Day Racer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/862130/867b40e6d5840e05edbcc237578be299175b15b0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 9,
+      "total_negative": 0,
+      "total_reviews": 9
+    }
+  }
+}

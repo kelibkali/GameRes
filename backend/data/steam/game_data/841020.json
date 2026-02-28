@@ -1,0 +1,105 @@
+{
+  "841020": {
+    "name": "Knockdown the Ball",
+    "steam_appid": 841020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Have you played before as a simple ball? If you have not played, do not hesitate to try!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841020/extras/c5cc80d7b7076efeba1b043eda903066.avif?t=1603102267\" width=640 height=360 /></span><br><br>* 11 different levels with simple to difficult,<br>* All levels created by block,<br>* Different ball appearances that are different and change over time,<br>* Every time you move it accelerates, so stopping is a lot harder,<br>* If you move at the same time when you jump, you have difficulty standing when you land,<br>* Did you lose balance due to a wrong move you made? Are you about to fall from the block you're in? Then stop the time!<br>* If you finish levels with high scores, you will earn high points<br>* If you fall down you lose your points!<br>* Each block you produces random achievement to you! You can also achieve many achievements by finishing the levels.",
+    "supported_languages": "英语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841020/header.jpg?t=1603102267",
+    "developers": [
+      "ThroneLab"
+    ],
+    "publishers": [
+      "ThroneLab"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 46,
+      "highlighted": [
+        {
+          "name": "A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/aa47a09f761282f5367b84d19cbdcbbdb460e26c.jpg"
+        },
+        {
+          "name": "B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/8c9c508087450a6f69dbfd877151f5c98d746a68.jpg"
+        },
+        {
+          "name": "C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/8b5b3158f066582c7772ffa120cccead2a520cb9.jpg"
+        },
+        {
+          "name": "D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/2b4524edf7fca91fca6a45823282e4c738bb3875.jpg"
+        },
+        {
+          "name": "E",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/287f281330dc47b765288975ca3b446ad77695de.jpg"
+        },
+        {
+          "name": "F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/90859ee2c68ec7bd6d2b0d01b3a3c4d30bdf27e4.jpg"
+        },
+        {
+          "name": "G",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/a6cde2d090008f349349fe1b21d10a3b7c7d7e5e.jpg"
+        },
+        {
+          "name": "H",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/014c974ace8d3098d0f17c1750693e2a8e5ed1b4.jpg"
+        },
+        {
+          "name": "I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/c9fb087c56f170e5a471da0f21873493b8daac57.jpg"
+        },
+        {
+          "name": "J",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/841020/a520ef9ff849c525be6fef7bb24fe4f86bda8362.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

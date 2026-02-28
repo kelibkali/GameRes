@@ -1,0 +1,97 @@
+{
+  "684430": {
+    "name": "JU",
+    "steam_appid": 684430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684430/extras/428c5754fd3ff85791b10f4b996d4f1b.avif?t=1721312134\" width=600 height=600 /></span><h2 class=\"bb_tag\" >游戏简介</h2>JU 是一款轻度解密游戏，通过移动方块到达目的地即可，而移动路径却受到移动方式和地图以及其他机制的影响，需要玩家思考最佳路径的解法。说白了就一点，走到终点就对了，瞎走还是推断取决于你。<h2 class=\"bb_tag\" >游戏玩法</h2>WSAD/↑↓←→ 控制方块移动，每次移动方块移动到底，一步到位。<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>80 关卡</li></ul><ul class=\"bb_ul\"><li>4 种游戏机制：</li></ul><ul class=\"bb_ul\"><li><i>基础机制：移动时绿色方块一步到位，直到碰到墙再停下，目标是移动到红色区域。</i></li></ul><ul class=\"bb_ul\"><li><i>跟随机制：在基础规则的基础上，红色区域也会随控制键移动，所以把绿色方块还是红色区域作为主要移动对象是关键。</i></li></ul><ul class=\"bb_ul\"><li><i>双胞胎：在基础规则的基础上，有两个绿色方块和两个红色区域，绿色方块一旦相互接触就会变为一个整体，所以走法取决于最终两块红色区域的排布。</i></li></ul><ul class=\"bb_ul\"><li><i>卒：在基础规则的基础上，多出了一排绿色区域，每次绿色方块移动它们都会向左挪一格，一旦任何一个绿色区域移动到最左边就GG了，然后必须要把蓝色区域都走（停留）一遍，然后才能走到红色区域。提示：这个机制有些难，实际上因为绿色区域的移动规则可以看出关卡的允许移动次数是有限的，所以移动之前在大脑中推断才是最好的解法，乱走基本没用。</i></li></ul><h2 class=\"bb_tag\" >后续</h2>其实我身边好多同学都吐槽玩法似曾相识，墙裂的既视感233，但是之前已经因为玩法问题弃过一个坑了，所以这次下定决心一定要把游戏发行出来，不能做了好久的游戏还没从给别人看看就寿终正寝在硬盘里吧。希望各位玩的愉快！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684430/header.jpg?t=1721312134",
+    "developers": [
+      "张公子"
+    ],
+    "publishers": [
+      "张公子"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "新游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/a17a70bf614ee507e571d6540edf17e39eed7a85.jpg"
+        },
+        {
+          "name": "小试身手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/8e8b0e643b502e9bc50305254add6d6eea8db45e.jpg"
+        },
+        {
+          "name": "为什么追我",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/9dc6acd8a6dfd46b4c6dfd72284fe60898149440.jpg"
+        },
+        {
+          "name": "跟我来",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/f0115ffdbbc2b8d81b3545acc78bc9b4d2978ef5.jpg"
+        },
+        {
+          "name": "步步为营",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/11fcd43fb5024a76f18175de0f7a40b0fb47204a.jpg"
+        },
+        {
+          "name": "完结撒花",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/a3f688d4c87994d3121f4a42ce5101d3a73fd688.jpg"
+        },
+        {
+          "name": "忠实观众",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/e10287b9ab8b7c8b93a3337fdb5ee329ce99fa12.jpg"
+        },
+        {
+          "name": "发现另一面",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684430/acc34f7da2c7a93cb51b98c5bea3d872b85945aa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 6,
+      "total_negative": 0,
+      "total_reviews": 6
+    }
+  }
+}

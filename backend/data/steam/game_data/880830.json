@@ -1,0 +1,117 @@
+{
+  "880830": {
+    "name": "Cavesweeper",
+    "steam_appid": 880830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "深入这个危险的地下城，与致命的怪物作战并发现史诗般的战利品。 洞穴怪兽是一款独特的随机益智游戏，易于操作，但难以掌握。 在这个令人上瘾的，无限重玩的RPG益智游戏中，没有两个游戏将会是一样的！ 对于有竞争力的球员，排行榜存在 - 你可以把它排在最前面并留在那里吗？<br />\r\n<br />\r\n益智战斗游戏的作用如下：场地上的25个瓦片中的每一个都是某种颜色。当您正确显示一个图块时，将在该图块内显示一个数字。这个数字告诉你四个周围瓷砖（北，南，东和西 - 没有对角线！）中有多少是相同的颜色。当你错误地猜出一个瓦片时，你会被目前正在作战的怪物击中。不同的怪物有不同的属性，效果等等。在整个地牢里，你会找到可以帮助你战斗的装备，例如让你重生生命值或者使用护甲减少你从敌人身上带来的伤害。<br />\r\n<br />\r\n方便的是，每次战斗后游戏都会自动保存。您可以退出应用程序并稍后恢复...享受！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880830/header_schinese.jpg?t=1669554094",
+    "developers": [
+      "bankbank"
+    ],
+    "publishers": [
+      "Wainstop James"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 41,
+      "highlighted": [
+        {
+          "name": "NeverTen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Defeat An Enemy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "5 hit combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Perfect Battle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Destroy 10 Enemies",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "20 hit combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Get 130 HP",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Regen 20 HP in battle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Get 100 gold",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        },
+        {
+          "name": "Get 20 armor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/880830/94fb0dcf12193f541e0cac0b1bf9c9c372ebea31.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

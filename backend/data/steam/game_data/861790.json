@@ -1,0 +1,81 @@
+{
+  "861790": {
+    "name": "Bomb-Bomb",
+    "steam_appid": 861790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >This is <strong>Bomb-Bomb</strong>,</h2>A Quick, Short, Easy to learn game that can be played over and over again.<h2 class=\"bb_tag\" ><strong>Split-Screen Multiplay</strong></h2><br>Split-screen, One keyboard, Bomb throwing game for Casual players.<br>When the time is up the players are transported to a deathmatch map where the map shrinks and forces the players to throw bomb at each other.<br>Battle your friend and score higher to flatten their nose.<br><br>Be warned though, the opponent can reset the score anytime.<h2 class=\"bb_tag\" ><strong>Singleplay Zombie Survival</strong></h2><br>Singleplay, Zombie, Survive<br>Player is transported to a dark map where waves of zombies spawn.<br>Your goal is to kill as many zombies as possible within the time-frame of 10 minutes.<br>It won't be easy though, I myself couldn't reach wave 10 :P<br><br>Zombies hurt you everytime it touches you and is faster than you.<br>They have a weakness though.. They are dumb!<br><br>Use the environment as much as possible to avoid them from touching you.<h2 class=\"bb_tag\" ><strong>Bomb</strong></h2><br>Player can <i>throw</i> bombs<br>Player is <i>not</i> affected by their own bomb<br><br>Bombs ignite when it <i>hits a wall or a floor</i> (not players)<br>Bombs explode after <i>1 second</i><br>Damage decreases by distance away from the bomb<h2 class=\"bb_tag\" ><strong>Items</strong></h2><br>Health Pack: <i>heals</i> the player 50 health<br><br>Bandage: <i>heals</i> 4/sec for 20 seconds<br><br>Shield: <i>Invincible</i> until hit<br><br>Adrenaline: 150% <i>speed</i> for 15 seconds<br>                 200% <i>bomb reload</i> for 15 seconds<br><br><br>Have FUN!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861790/header.jpg?t=1526555734",
+    "developers": [
+      "Vito Devs"
+    ],
+    "publishers": [
+      "Vito Devs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "START GAME",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861790/da8122ea1897a66a24c90b0b6fe467625208f26c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

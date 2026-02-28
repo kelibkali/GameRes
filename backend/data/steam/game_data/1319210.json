@@ -1,0 +1,81 @@
+{
+  "1319210": {
+    "name": "Little Chick",
+    "steam_appid": 1319210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款无聊又困难的游戏。<br />\r\n你可能喜欢或者厌恶它。<br />\r\n<br />\r\n通过鼠标控制小鸡的左右平衡,稳定的走过长长的绳索,到达对面的山顶.途中遇到恶劣的天气可能使你失衡，希望鸡没事。<br />\r\n你可以多练习几次，不用投币，只是有点费鸡。<br />\r\n<br />\r\n任何建议和意见可以发送邮件至greyame@163.com。<br />\r\n玩游戏开心就好！",
+    "supported_languages": "英语, 简体中文, 法语, 意大利语, 德语, 俄语, 日语, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319210/header.jpg?t=1594125854",
+    "developers": [
+      "Grey Game"
+    ],
+    "publishers": [
+      "Grey Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "登顶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1319210/f8963818f36b498c4cf2f2e0f5bc04be1d794dfd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

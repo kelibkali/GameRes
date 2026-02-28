@@ -1,0 +1,105 @@
+{
+  "783420": {
+    "name": "Elementium",
+    "steam_appid": 783420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> Elementium [/] - 一款益智游戏。 管理幻想的世界，并基于幻象和物理解决难题。 独特的操作游戏机制可供您使用，从普通物体开始，以物理规律结束。 无论是普通的立方体还是星球，现在一切都掌握在你的手中！<br><br>产品特点：<br><ul class=\"bb_ul\"><li>超过40个关卡<br></li><li>沙箱模式<br></li><li>时间，重力，火力，行星等等的管理！<br></li><li>独特的谜题<br></li><li>优秀的图形</li></ul></strong>",
+    "supported_languages": "英语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/783420/header.jpg?t=1521479852",
+    "developers": [
+      "Ignite studio"
+    ],
+    "publishers": [
+      "Ignite studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Prolog",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/5bb5439748d93aaf18c10480f9629e23eec10620.jpg"
+        },
+        {
+          "name": "Chapter A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/72a6f7172b1da41a92717ad37b5ec50c14e47123.jpg"
+        },
+        {
+          "name": "Chapter B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/9c704d322f372b197d78bfe6b27a0b6f56fe44e0.jpg"
+        },
+        {
+          "name": "Chapter C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/0ca08c3406088610aaaedde82d981693153987e7.jpg"
+        },
+        {
+          "name": "Chapter D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/511752cc04f5a3976a15702e11d79dfb17fea197.jpg"
+        },
+        {
+          "name": "End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/783420/7de3e0a1729c99d7dd4498d259e9159ed94b2472.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

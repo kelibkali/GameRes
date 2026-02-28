@@ -1,0 +1,59 @@
+{
+  "1409570": {
+    "name": "Goblin Takes No Argument[s]",
+    "steam_appid": 1409570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Goblin Takes No Argument[s] was a school project in pygame we made in 2019. We picked it up again in 2020, and thought it could be fun to try and get it on steam.<h2 class=\"bb_tag\" >Features of the game</h2><ul class=\"bb_ul\"><li>Place towers to destroy the goblins</li></ul><ul class=\"bb_ul\"><li>Upgrade towers to get even more powerful</li></ul><ul class=\"bb_ul\"><li>Sell towers to place even better towers</li></ul><ul class=\"bb_ul\"><li>Different types of goblins to make the game a little harder</li></ul><h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li>Press 'R' on the keyboard to toggle visibillity of the towers range<br></li><li>Right click on the mouse to sell towers at half the price<br></li><li>Left click existing towers to upgrade - An upgrade is successful if the range indicator turns orange it cost twice as much as the base price of the towers</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/header.jpg?t=1617959186",
+    "developers": [
+      "Zeroject",
+      "VinciDa",
+      "MBQJ"
+    ],
+    "publishers": [
+      "Zeroject"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

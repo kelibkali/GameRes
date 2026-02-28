@@ -1,0 +1,113 @@
+{
+  "938220": {
+    "name": "TAPSONIC BOLD",
+    "steam_appid": 938220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938220/extras/0dd4a4fe3baa913fbf8e40182a59842d.avif?t=1592374967\" width=446 height=81 /></span><h2 class=\"bb_tag\" ><strong>MEET POPULAR MOBILE RHYTHM ACTION GAME 'TAPSONIC' SERIES NOW!</strong></h2><br>Check <strong><i>87</i></strong> tracks from TAPSONIC and DJMAX Series as well as STEAM's original new tracks.<br>We will update new contents and new tracks in the future.",
+    "supported_languages": "英语, 日语, 简体中文, 韩语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938220/header.jpg?t=1592374967",
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 69,
+      "highlighted": [
+        {
+          "name": "FIRST CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/ef1717d54177bac5a1252ceb79372d80dd564961.jpg"
+        },
+        {
+          "name": "EASY CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/22e46b5ec8d469c33a3a6837c54b5952135a9baa.jpg"
+        },
+        {
+          "name": "NORMAL CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/e7cf6fe60a81ccbbfc2356db1990c7b8b6510eb2.jpg"
+        },
+        {
+          "name": "HARD CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/b3fa0e916576ab8a92232a182631d8c445037688.jpg"
+        },
+        {
+          "name": "EXPERT CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/7d3744f8643a90de6ea3cb494b02707f7d223ab0.jpg"
+        },
+        {
+          "name": "FIRST FULLCOMBO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/011680ce7cee13b700fe44893320f566f0789916.jpg"
+        },
+        {
+          "name": "EASY FULLCOMBO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/37c50dfd45246f8979d7e63f47f441872759ed6b.jpg"
+        },
+        {
+          "name": "NORMAL FULLCOMBO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/a62e839f6c18f7ce379d1181449217f0a5b8214d.jpg"
+        },
+        {
+          "name": "HARD FULLCOMBO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/07ef2d740ec9715950f6691352b92f1adb48d7c0.jpg"
+        },
+        {
+          "name": "EXPERT FULLCOMBO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938220/4db8cabf7d2befb3c9a891386284ee1ce5ea70ba.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 153,
+      "total_negative": 28,
+      "total_reviews": 181
+    }
+  }
+}

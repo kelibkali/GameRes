@@ -1,0 +1,117 @@
+{
+  "951700": {
+    "name": "Super Jigsaw Puzzle: Space",
+    "steam_appid": 951700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "如果你喜欢玩拼图， Super Jigsaw Puzzle: Space 就是为你打造的游戏。<br><br>造访无限空间一边享受舒适直观的界面和轻松的音乐，一边进行拼图，让你专注于艰巨的任务——解开这些美丽的图像，它们对拼图爱好者来说堪称真正的挑战。<br><br>解开拼图来解锁更加困难的新拼图。最多有 30 个拼图！你会始终拥有几个能用的拼图，不要卡关！<br><br>将拼板拖到它们所在的位置，将其分组进行组合，或使用提供的盒子来按颜色区分它们。<br><br>可配置的拼合系统，让你无压力游玩。<br><br>现在，你还可以旋转拼板！<br><br>新难度：800 片的拼图！<h2 class=\"bb_tag\" > 游戏特色</h2><br><ul class=\"bb_ul\"><li>30 个不同的拼图<br></li><li>自动保存，不会丢失进度<br></li><li>5 种难度级别（40、80、200、400 和 800 片）<br></li><li>可以将拼板组成小组并将它们组合在一起<br></li><li>可配置的拼合系统<br></li><li>5 种不同的界面<br></li><li>轻松的音乐和氛围</li></ul>",
+    "supported_languages": "英语, 意大利语, 西班牙语 - 西班牙, 简体中文, 繁体中文, 俄语, 法语, 德语, 西班牙语 - 拉丁美洲, 日语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951700/header.jpg?t=1541580496",
+    "developers": [
+      "Flat Cat Games"
+    ],
+    "publishers": [
+      "Flat Cat Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "All 40 puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/fb9e9524d4a0df647159329da563507f0d5e1a09.jpg"
+        },
+        {
+          "name": "All 80 puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/c739404b07b1520918ce7daf68febbc986470542.jpg"
+        },
+        {
+          "name": "All 200 puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/e02cef2ffc1c36943b126d6091216b07f8eef44f.jpg"
+        },
+        {
+          "name": "All 400 puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/f60e8d1b3fe219e5255abe39251a3d8764c5ab7f.jpg"
+        },
+        {
+          "name": "All 800 puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/c83b12a6befd51330fe849f653703c3df7c7f168.jpg"
+        },
+        {
+          "name": "One 40 puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/e15e11025d78c3654d75ad7d3bf332d5ef891fe9.jpg"
+        },
+        {
+          "name": "One 80 puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/5c5940bbb1ce1bd0736f54028084672adf9f48f0.jpg"
+        },
+        {
+          "name": "One 200 puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/6f72997d71e7675a07e38054006068660d143e80.jpg"
+        },
+        {
+          "name": "One 400 puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/0cc6ff912634657c37be757aab24509c9bc83630.jpg"
+        },
+        {
+          "name": "One 800 puzzle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/951700/2491cb36e4f5c9c8f0847f82469628aa1cd09cf7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

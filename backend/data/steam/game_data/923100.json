@@ -1,0 +1,149 @@
+{
+  "923100": {
+    "name": "Moduwar",
+    "steam_appid": 923100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Moduwar 是一款以独特模块化玩法重新定义“即时战略”这一类型的游戏。在游戏中，你将不再指挥传统单位，而是操控一种名为 Modu 的具有高度适应性的水生本土生物。这种生物能够实时生长、合并和分裂其有机结构。通过战略性地进化不同的器官，你可以创造出能适应任何战斗场景的自定义单位。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>成长吧</strong></h2><p class=\"bb_paragraph\" >利用资源使你的 Modu 从心脏开始生长，而心脏是你必须不惜一切代价保护的最重要的器官。你可以通过在身体上生长基块并放置新的器官来扩展你的 Modu。随着游戏的进行，你将学会生长更多实用和专精化的器官，以应对任何战斗。 </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >拆分并合并</h2><p class=\"bb_paragraph\" >将基块分裂成单个器官单位，快速侦察你的敌人，并获得战略优势。分裂和合并多个基块来组建你的舰队，组合器官可以解锁独特的能力。你可以派它们参战，或者合并回主体以坚守阵地！</p><h2 class=\"bb_tag\" >活下来吧</h2><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >在单人战役中，你将为生存和解放而战，解锁新的器官组合并进化能力，同时指挥三个不同的阵营之一，但战斗不会止步于此。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >在线对战  </h2><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >除了单人战役外，Moduwar 还提供多种游戏模式：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >多人游戏（最多 4 名玩家） – 在动态战斗中竞争或合作。</p></li><li><p class=\"bb_paragraph\" >竞技场模式 – 在激烈的战斗中测试你最出色的 Modu 构建方案。</p></li><li><p class=\"bb_paragraph\" >生存模式 – 在一场持久战中，面对源源不断的敌人。</p></li><li><p class=\"bb_paragraph\" >经典遭遇战 – 在可自定义设置的战术战斗中一决高下。</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" ><strong>阿卡迪亚的世界</strong></h2><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Moduwar 的故事发生在资源丰富但危机四伏的 Arkadia 世界，让你沉浸在一个充满令人惊叹又毛骨悚然生物的外星生态系统中。然而，Arkadia 正遭受两股入侵势力的围攻，一方是技术先进的人类，另一方是冷酷无情的奇美拉，他们奴役了当地的 Modu，将它们变成了活体战争武器。</p><p class=\"bb_paragraph\" >你将在游戏中扮演一个被迫为 ERE（地球回归远征队）服务的 Modu。你会继续为 ERE 而战，还是会挣脱枷锁，获得自由？你的选择将决定 Arkadia、银河系和 Moduwar 所有生命的命运！</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 乌克兰语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/923100/261b3afc6ece9f0bcbd2aefcbad4a254e4bfea00/header.jpg?t=1768314866",
+    "developers": [
+      "Biohex Studios"
+    ],
+    "publishers": [
+      "Firesquid"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 6 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "Baby Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Snatcher Snack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Double Trouble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "“Nice to Meet You, Miller”",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Gold Standard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Enter the Pit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "On the Board",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Herbivore Experiment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Botanical Betrayal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        },
+        {
+          "name": "Dam Buster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/923100/8c6fce5de2a268f9012556c88ee3ccf726bb068b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 10,
+      "total_negative": 1,
+      "total_reviews": 11
+    }
+  }
+}

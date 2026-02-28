@@ -1,0 +1,157 @@
+{
+  "564050": {
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans",
+    "steam_appid": 564050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>巴德·斯潘塞和特伦斯·希尔的第一个官方游戏！</strong></h2><br>巴德·斯潘塞和特伦斯·希尔将展开他们的首次虚拟冒险。无论是在西部酒馆，迈阿密市区，还是在游乐场；你都可以享受到风趣的对话，拌嘴，当然还有激烈的打斗。<br><br>幽默的豆子是一个同时支持单人或多人玩耍的决斗游戏。除此之外，该游戏还具备多种选项及内置迷你游戏来帮助你更好的理解巴德•斯潘塞和特伦斯•希尔的世界。<br><br>幽默的豆子具有以下特色：<br><ul class=\"bb_ul\"><li>复古的游戏界面<br></li><li>巴德•斯潘塞和特伦斯•希尔风格的打斗<br></li><li>多人游戏功能<br></li><li>内置小游戏<br></li><li>一辆黄色顶棚的红色越野车<br></li><li>风趣的对话和数不清的豆子（显而易见）</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 捷克语, 丹麦语, 葡萄牙语 - 巴西, 匈牙利语, 俄语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564050/header.jpg?t=1754044878",
+    "developers": [
+      "Trinity Team"
+    ],
+    "publishers": [
+      "Buddy Productions GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 2320,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 58.00",
+      "final_formatted": "¥ 23.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 34,
+      "highlighted": [
+        {
+          "name": "THE END?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/ef8858de3480516d02a44e16c56e7f4e62b5a075.jpg"
+        },
+        {
+          "name": "THE END!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/1de684fcbbd690941c15a6f825868476bd0e1a20.jpg"
+        },
+        {
+          "name": "TRIGGHY",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/314c843635dffa2a2aa52d7075bad7cc2b34e55e.jpg"
+        },
+        {
+          "name": "SUPER SNOOPER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/6a4e00ec0203428ec8722d43c79ec5515e4c8917.jpg"
+        },
+        {
+          "name": "PING PONG",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/88caa16ee2eb9493bd79e10d91fa37804bac440c.jpg"
+        },
+        {
+          "name": "HORSE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/b95bb5ca1628079cbdb2577eef8d11249fa2df5b.jpg"
+        },
+        {
+          "name": "STRIKE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/ddf658cf859be5ea6d610aa2880e7c8b4dfd52ab.jpg"
+        },
+        {
+          "name": "SCIENTIST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/487d70e835ba1af6b7798cb3028a0fbe5c015ec3.jpg"
+        },
+        {
+          "name": "BULLDOZER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/6a83e4923d0c33952fdd06f2430a0e7f5f684188.jpg"
+        },
+        {
+          "name": "PATRICK",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564050/bbd647b89e1a5a6dc16f6758b6233df41179aff4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 43,
+      "total_negative": 9,
+      "total_reviews": 52
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "500850": {
+    "name": "回忆忘却之匣 - 原声音乐集",
+    "steam_appid": 500850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《回忆忘却之匣》原生音乐集，乐师：跟弃。<br>包含wav格式（CD音质）与mp3格式。<br><br>本音乐集包含以下曲目：<br><br><ul class=\"bb_ul\"><li>01 - Fresh air<br></li><li>02 - Shiny day<br></li><li>03 - Optimistic attitude<br></li><li>04 - Last second<br></li><li>05 - Black truth<br></li><li>06 - Foggy memory<br></li><li>07 - Mysterious word<br></li><li>08 - Little happiness<br></li><li>09 - Sincere heart<br></li><li>10 - Start again<br></li><li>11 - Colorful hope<br></li><li>12 - Stay alone<br></li><li>13 - Hiemal feather<br></li><li>14 - The moment<br></li><li>15 - The moment（music box ver）<br></li><li>16 - Dark shock<br></li><li>17 - 忆<br></li><li>18 - 忆（instrumental）</li></ul><br>主题曲：忆<br>作词：若池、歌谣<br>编曲/作曲：跟弃<br>演唱：若池",
+    "supported_languages": "简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500850/header.jpg?t=1624676228",
+    "developers": [
+      "DreaMory"
+    ],
+    "publishers": [
+      "NVLMaker"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 675,
+      "discount_percent": 55,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 6.75"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 0,
+      "total_reviews": 13
+    }
+  }
+}

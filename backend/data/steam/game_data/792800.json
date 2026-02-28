@@ -1,0 +1,89 @@
+{
+  "792800": {
+    "name": "Adventures of Hendri",
+    "steam_appid": 792800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Adventures of Hendri is a 2d Platform Game</h2><br>Hendri the main character is about to embark on a dangerous quest to save Ash's little piggy's from being killed.   <br>The object of the game is to rescue the little piggy's. You only have a certain time to do this before the piggy gets killed.<br>Can you save them all?<br><br><ul class=\"bb_ul\"><li>Evade Traps<br></li><li>Race against the clock<br></li><li>Save that piggy<br></li><li>Challenging Levels<br></li><li>Simple Controls<br></li><li>Do not die</li></ul><h2 class=\"bb_tag\" >That is your mission. So come and play and see if you can save them all.</h2><br>Hand painted graphics with a great sound track that will just keep you playing. <br>Easy game-play controls. It will bring a challenge to your skill and reaction.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/792800/header.jpg?t=1521367024",
+    "developers": [
+      "LionAnt"
+    ],
+    "publishers": [
+      "LionAnt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Game Completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792800/b40a6d71765d8270fdb800fdd936c81a54ce2936.jpg"
+        },
+        {
+          "name": "Death of Hendri",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792800/abbfea36b0f02e31be7a5de960efb9b08b14e3fb.jpg"
+        },
+        {
+          "name": "The Stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792800/149729f9db09c9bca095a020942e73e24f8d3d34.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "712880": {
+    "name": "Chess Arena-象棋竞技场",
+    "steam_appid": 712880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/712880/extras/402bb27daf88b4eaabab10072de645e5.avif?t=1557468393\" width=600 height=260 /></span><br>《象棋竞技场》是一款个人制作的创意作品，在下棋时经常输给表弟，我决定让这些棋子动起来，以我格斗高玩水平来战胜表弟，就制作了它。<br><br>首先他是一款传统的中国象棋，当你的棋子吃对方棋子时，会进入一个竞技场，吃子方获得生命Buff，然后展开一场动作游戏的对决，死亡的单位才真正在棋盘上消失。<br><br><ul class=\"bb_ul\"><li>不同棋子化身成拥有不同特异技能的战士。<br></li><li>50个残局战役，你可以用棋艺破解，也可以用操作碾压。<br></li><li>允许联机对战，但需要一方是暴露IP的主机。</li></ul>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/712880/header_schinese.jpg?t=1557468393",
+    "developers": [
+      "HideChara"
+    ],
+    "publishers": [
+      "HideChara"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "卒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/712880/b0aaf6ae803595cf115a076ad2ab2fa33b6bdb38.jpg"
+        },
+        {
+          "name": "士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/712880/ec772e52eafb5f996d6cec4c8008b69e6a0f4e62.jpg"
+        },
+        {
+          "name": "象",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/712880/4cc01f72906a7be2185a40b1be58ad147eeab921.jpg"
+        },
+        {
+          "name": "马",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/712880/05d3211291bc447d700a6fb8677b2cd2c0d75663.jpg"
+        },
+        {
+          "name": "炮",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/712880/720076e35183bab7cdec1c86a74f806e32915df6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 5,
+      "total_negative": 4,
+      "total_reviews": 9
+    }
+  }
+}

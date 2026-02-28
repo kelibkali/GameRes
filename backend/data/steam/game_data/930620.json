@@ -1,0 +1,125 @@
+{
+  "930620": {
+    "name": "Music Killer",
+    "steam_appid": 930620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "音樂殺手（Music Killer）是配合音樂的第一人稱射擊遊戲，其中的關卡氛圍、敵人的速度和遊戲體驗取決於你選擇的音樂。盡可能長時間地在音樂聲中生存，以歌曲的節奏向敵人射擊。與你的蒸汽朋友線上對抗無盡的霓虹燈惡魔波。結合這兩種完全不同的類型，我們創造了一個最上癮和最有趣的遊戲。<br><br>敵人的產生和獎勵取決於所選的音樂曲目。 你的朋友將面臨與你相同的情況！<br><br>遊戲特色：<br><ul class=\"bb_ul\"><li>7種不同的地圖。</li></ul><ul class=\"bb_ul\"><li>遊戲性不斷變化的道具。</li></ul><ul class=\"bb_ul\"><li>線上合作多人遊戲。</li></ul><ul class=\"bb_ul\"><li>基於技能的遊戲。</li></ul><ul class=\"bb_ul\"><li>逆波的視覺效果和感覺。</li></ul><ul class=\"bb_ul\"><li>蒸汽成就和排行榜！</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 泰语, 土耳其语, 乌克兰语, 越南语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930620/header.jpg?t=1592718481",
+    "developers": [
+      "AbstractArt"
+    ],
+    "publishers": [
+      "AbstractArt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "SKULLS CRUSHER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/df4374d8a091ec891a055d995d3e87e499180199.jpg"
+        },
+        {
+          "name": "DEAL WITH IT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/b654e1ec552dfde3e8e19f2663f5063ff2df1f46.jpg"
+        },
+        {
+          "name": "DRAGONS SLAYER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/a28c4f128c6eeb63b598fbdcc9ff198f52b7051f.jpg"
+        },
+        {
+          "name": "UFOLOGY PSYCHO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/dc1d366e685513ca52d3a350c5cac6a6d4a14200.jpg"
+        },
+        {
+          "name": "EXTERMINATOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/932770aaa11492ed9ad246f4050270c43aabfca1.jpg"
+        },
+        {
+          "name": "CRAZY NERD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/31ca5819be1772798a55d13eee6117db160308a4.jpg"
+        },
+        {
+          "name": "MEGA EXORCIST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/9034ff3420b3fea7bf8585aa0ee3ee3bc18ca9df.jpg"
+        },
+        {
+          "name": "RETRO HIPPIE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/d6ff64f950aec9e4fb6347df621f8c43d06b5662.jpg"
+        },
+        {
+          "name": "MUSIC KILLER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/da6f54e44e74b70ca8587966bbf73cc2e13541f8.jpg"
+        },
+        {
+          "name": "GAME OVER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/930620/9b3f18f6ab413b1d9510337b74ec423c9fe31777.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 11,
+      "total_negative": 6,
+      "total_reviews": 17
+    }
+  }
+}

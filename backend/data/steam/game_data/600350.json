@@ -1,0 +1,87 @@
+{
+  "600350": {
+    "name": "VectorWars VR",
+    "steam_appid": 600350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >What Is It?</h2><br>VectorWars is a cool arcade style space shooter, with full support for virtual reality players (Oculus, OSVR, HTC Vive) and non-virtual reality players (Gamepad, Keyboard &amp; Mouse).  Blast away at enemy ships and try to save the planet.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600350/extras/031af7691689b2a0725e7a7bd3f97713.avif?t=1511411462\" width=512 height=300 /></span><h2 class=\"bb_tag\" >VectorWars - How We Got Here</h2><br>It has been over 800 years since we left the planet earth behind.  Isolated, and lost, we've clustered around our space stations like insects.<br><br>In 2842, it finally happened.  Aliens attacked, and we were forced to defend ourselves.<br><br>In this space shooter, you play as Andy, a reluctant asteroid miner that must defend humanity against the alien invasion!  Relying on advice from your sidekick, and orders from your commander, it is up to you to tackle the aliens head on!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600350/extras/f6eef8d0eb193da1e463ebd59151602a.avif?t=1511411462\" width=512 height=160 /></span><h2 class=\"bb_tag\" >History of the Game</h2><br>VectorWars was a low definition, old school arcade game we created for mobile many years ago.  During our live coding streams, we showed how you can rework and recreate old mobile games for high definition, modern VR systems!  We recreated and restructured our game to take full advantage of everything VR!<br><br>Check out the discussions for more information on our mobile journey into VectorWars, and to find information on our live coding sessions (where we did a series of live sessions to create this game in VR!).<br><br><ul class=\"bb_ul\"><li> 11 Achievements<br></li><li> 22 Upgrades<br></li><li> Tons of enemies<br></li><li> Multiple ships to choose from<br></li><li> 1 snarky sidekick</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600350/header.jpg?t=1511411462",
+    "developers": [
+      "Red Iron Labs"
+    ],
+    "publishers": [
+      "Red Iron Labs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "610840": {
+    "name": "JASEM: Just Another Shooter with Electronic Music",
+    "steam_appid": 610840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "难道游戏里你还需要一个理由才能向敌人开火吗？因为 JASEM 并不会提供这样的理由，它只会让玩家装备好武器，置身在疯狂的节奏和敌人包围之中。你需要向它们每一位开火，你来决定是否要杀出一条充满爆炸，闹腾热烈的道路。<br><br>所以，JASEM，也就是另一款电子乐射击游戏的英文名(Just Another Shooter With Electronic music)缩写，实际上是这样一款游戏：<br><br>旋风一般的游戏玩法；<br>永不停歇的枪战；<br>与敌人战斗，无视他们那些慢吞吞的子弹；<br>充满动感的低多面体风格特效；<br>疯狂的物理效果-你可以即兴进入潜行，也可以想办法开辟一条捷径；<br>史诗风格的Boss战！<br>无剧情，叙事和游戏内文字（除了一些视觉癫痫的警告文字，唔，要是不用文字也能传达它们劳烦告诉我）。<br><br>Game design, programming, bugs creation and a lot of stuff you don't want to know about - Stas Shostak;<br>Music: Ira Lobanok;<br>3D-models: Aleksandr Palmov;<br>Testing, creative help, insulting of devs and other invaluable help - Max Efimov, Sergey Mozharovskiy and other awesome guys.<br>[Chinese localization: crafteverywhere, from project gutenberg powered by ]",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 土耳其语, 乌克兰语, 日语, 匈牙利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610840/header.jpg?t=1742387127",
+    "developers": [
+      "Stas Shostak"
+    ],
+    "publishers": [
+      "Stas Shostak"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 6000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 60.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "微风拂面",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/2edead84b9bc0cd53765022c77053df37112759a.jpg"
+        },
+        {
+          "name": "没那么简单",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/65d36850dca99fd1d2108a5116fcb0b6bf2eb642.jpg"
+        },
+        {
+          "name": "非死不可",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/f2dbf7155d9f05e124243095ca59d55476735a1b.jpg"
+        },
+        {
+          "name": "J",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/9a85b65c0b5239acc6586185b237574a7e08ec92.jpg"
+        },
+        {
+          "name": "JJ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/5344475bfd3b2c224d8799676fc2b39eecb231bd.jpg"
+        },
+        {
+          "name": "JJJ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/b05d5fb842bcd9b730ec72264c91b270e56dd2d4.jpg"
+        },
+        {
+          "name": "A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/533336956ae8eaf60a8b12cf7b4225c9a4503c16.jpg"
+        },
+        {
+          "name": "AA",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/3d3a77c2f1a881b7678a4f4ac74975f047535b34.jpg"
+        },
+        {
+          "name": "AAA",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/dfec125d3cea6873f594917375b69fa74e8c0a84.jpg"
+        },
+        {
+          "name": "S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610840/3d239369cc7c421434a8df4b64060cbb3cb89ef5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 11,
+      "total_negative": 4,
+      "total_reviews": 15
+    }
+  }
+}

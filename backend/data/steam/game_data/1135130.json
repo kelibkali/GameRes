@@ -1,0 +1,69 @@
+{
+  "1135130": {
+    "name": "kamer",
+    "steam_appid": 1135130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A game about daydreaming.<br><br>Kamer is a short game about being home. It's a relaxing experience of about 10 to 20 minutes. Walk around a room, interact with some objects, and let your thoughts flow...<br><br>Controls<br><ul class=\"bb_ul\"><li>arrow keys/left stick to move<br></li><li>X to grab</li></ul><br>F4 to toggle fullscreen<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135130/extras/259e85b205031bc0729210bf6363adbc.poster.avif?t=1639494361\" width=560 height=438 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135130/extras/259e85b205031bc0729210bf6363adbc.webm?t=1639494361\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135130/extras/259e85b205031bc0729210bf6363adbc.mp4?t=1639494361\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135130/extras/c350ac25322f0cc81d29044611c576b9.avif?t=1639494361\" width=200 height=70 /></span><br>Sokpop makes a new game every two weeks!<br>Subscribe for 3$ per month at ",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135130/header.jpg?t=1639494361",
+    "developers": [
+      "Sokpop Collective"
+    ],
+    "publishers": [
+      "Sokpop Collective"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 750,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 7.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Dreamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1135130/67bba71c6d2c97d26ebdfbdebc926cc18c4cd20f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

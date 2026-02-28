@@ -1,0 +1,137 @@
+{
+  "505640": {
+    "name": "Antihero",
+    "steam_appid": 505640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在快节奏的数字桌游 Antihero 中成为令人又爱又怕的大师级盗贼！进行隐秘、狡诈的临时刺杀行动，在用煤气照明的维多利亚时代下层社会建立最强大的盗贼公会。<br />\r\n<br />\r\n一个目标。多个敌人。畅玩故事情节推动的战役、进行 AI 对战、或是加入休闲排名的在线 PVP 多人游戏。<br />\r\n<br />\r\n挑战你的好友。邀请好友进行异步对战或是紧张刺激的实时对战。你可根据自己喜好来制定游戏规则！<br />\r\n<br />\r\n占据城市，保护地盘。潜入商家与豪宅、布下陷阱、偷取一切！只要你能抢在对手的前面，这城市的财富就都是你的囊中之物。<br />\r\n<br />\r\n隐匿、刺杀与诡计！升级公会、招募街头顽童、雇用恶棍、建立帮派...贿赂、勒索和刺杀你的对手！你可利用多种方式来建立最强大的公会。<br />\r\n<br />\r\n维持健康经济。用你的不法所得雇用手下、升级偷盗技能、并获得致命武器。黄金是盗贼最好的朋友！",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 波兰语, 葡萄牙语 - 巴西, 日语, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505640/header.jpg?t=1628277155",
+    "developers": [
+      "Tim Conkling"
+    ],
+    "publishers": [
+      "Versus Evil"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "New in Town",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/23ec97049ee6a51f91b2f6f5cce557e8bba61296.jpg"
+        },
+        {
+          "name": "Trounce the Twit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/2125a07bf89f8ca5beb3a5fa3deccab6e4d5ec41.jpg"
+        },
+        {
+          "name": "Harass the Heiress",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/cd5c05b70a05fbb7ad5d61ad6bc5f07d2f11f7eb.jpg"
+        },
+        {
+          "name": "Banish the Butcher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/e104fc6153b2cf2a29e704e9e282de9ad7bb14f5.jpg"
+        },
+        {
+          "name": "Finish the Filcher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/0e260455652bacd36cd56df9f50da10a2525d408.jpg"
+        },
+        {
+          "name": "Rout the Rivals",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/0755ac78eda3fc968b9a1f643de4defbac77829f.jpg"
+        },
+        {
+          "name": "Grandmaster Thief",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/b302942f6cf0f4fb4fc05cc64619a39e9972fb6c.jpg"
+        },
+        {
+          "name": "A New Rivalry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/370be645679e706b0a60f952d380e67f9069c763.jpg"
+        },
+        {
+          "name": "Urchin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/b96d91232260358047b651a8ea8abe80c7ec66a4.jpg"
+        },
+        {
+          "name": "Thug",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/505640/9898b5417c862d841ca903e3562d3ee4830a11ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 60,
+      "total_negative": 2,
+      "total_reviews": 62
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "855420": {
+    "name": "Gal*Gun 2 - Alice in Doki Doki Land",
+    "steam_appid": 855420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Adds the costume set to the Dressing Room.<br />\r\n This set includes:<br />\r\n •'Alice in Doki Doki Land' outfit<br />\r\n •'White Bunny Ribbon' accessory<br />\r\n •'King of Hearts' item",
+    "supported_languages": "英语, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/855420/header.jpg?t=1644408100",
+    "developers": [
+      "INTI CREATES CO., LTD."
+    ],
+    "publishers": [
+      "PQube"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 750,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 7.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

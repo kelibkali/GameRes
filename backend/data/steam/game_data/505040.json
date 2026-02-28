@@ -1,0 +1,73 @@
+{
+  "505040": {
+    "name": "FORTIFY",
+    "steam_appid": 505040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Fortify is a base designer for Rust. Featuring the same parts, placement rules and conditional roof shapes but with extra tools to plan your base faster. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Loads almost instantly with low memory usage, can easily run while in Rust to use as a reference when building the real deal.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Get the resource count needed to build your base and upkeep required. See a visual for the tool cupboard building and stack block area.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >See accurate stability numbers while building and test durability in raid mode with explosives.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >See ranges for auto turrets, shotgun traps, bag timer, heaters and more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fortify supports the save format used by the Copy-Paste plugin that allows transferring designs into or out of a modded Rust server.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Browse and import designs from the steam workshop or publish your own. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Join up to 3 other friends in multiplayer mode to build or share a design. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Share a design quickly with clipboard export, allows pasting data in a message or a site like  to create a shareable link. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fortify has been updated consistently since 2016 to match changes in ever-evolving Rust with more new features still planned.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>More Features:</strong></p><p class=\"bb_paragraph\" >- different scenes to build in: flat terrain, island, caves and icebergs</p><p class=\"bb_paragraph\" >- symmetry mode duplicates placed parts around a set center with any changes affecting symmetrical parts</p><p class=\"bb_paragraph\" >- automatically include related deployables to frames, doorways and windows</p><p class=\"bb_paragraph\" >- info spots - creates a clickable icon that allows saving a note with the current POV</p><p class=\"bb_paragraph\" >- plan in stages with corresponding colored materials for parts</p><p class=\"bb_paragraph\" >- lots of helpful selection tools including drag select</p><p class=\"bb_paragraph\" >- copy/move selections or snap/align separate selections together</p><p class=\"bb_paragraph\" >- quickly build up with a copy level tool or honeycombing/walling off of selections</p><p class=\"bb_paragraph\" >- practice minicopter flying</p><p class=\"bb_paragraph\" >- merge saves together</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505040/header.jpg?t=1754312683",
+    "developers": [
+      "Fergify"
+    ],
+    "publishers": [
+      "Fergify"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 19,
+      "total_negative": 3,
+      "total_reviews": 22
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1412870": {
+    "name": "Block Smash",
+    "steam_appid": 1412870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Choose your powerup, ball, and paddle and face off against a variety of blocks in this game inspired by Breakout!</strong><br><br><strong>Smash</strong> the ball before it hits the paddle to increase damage to the blocks.<br><br><strong>Fight</strong> various block types such as the <i>invader block</i> which must be stopped from reaching the bottom and the <i>coffee block</i> which inverts controls on impact.<br><br><strong>Select</strong> a powerup, ball, and paddle to help with levels such as the <i>poison ball</i> which can poison blocks and drain their health and the <i>freeze paddle</i> which can stop blocks from moving and weaken them.<br><br><strong>Play</strong> through 60 levels across 6 worlds that sometimes have extra mechanics such as paddle hit limits in World 4.<br><br><strong>Progress</strong> through all 3 rounds per level and try to complete the bonus 4th round of each level to gain all <i>achievements</i>.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412870/header.jpg?t=1601251091",
+    "developers": [
+      "RoadToIndieGameDev"
+    ],
+    "publishers": [
+      "RoadToIndieGameDev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "World 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/6a6063e31350e7d33f68c4f9d1d3e54dd3627c46.jpg"
+        },
+        {
+          "name": "World 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/aca6a0e2a09c7764d7512cb2141caea5277e01b6.jpg"
+        },
+        {
+          "name": "World 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/2d48f97ccd2bf5d9cea39c607ea51e786898b5b5.jpg"
+        },
+        {
+          "name": "World 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/300ff390496b9b6ca430a34ef3fb40ae37daa57e.jpg"
+        },
+        {
+          "name": "World 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/e2eddb4b2983e0154b68b1694eac8570ef31bb94.jpg"
+        },
+        {
+          "name": "World 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/5a519a5426135fff1dce1d6fc75eb26a8cf16f76.jpg"
+        },
+        {
+          "name": "Bonus 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/713c45919895617ee25df0bdeb71a2e17b351011.jpg"
+        },
+        {
+          "name": "Bonus 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/09f85609c2ce52c60f30701ea98cff7d3998456e.jpg"
+        },
+        {
+          "name": "Bonus 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/e21fd1f8197ed3d0a0c8a54dc87ed5b9b80cd125.jpg"
+        },
+        {
+          "name": "Bonus 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1412870/d5cab9faafe6c1ea8b85cf6015c6519435097be6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

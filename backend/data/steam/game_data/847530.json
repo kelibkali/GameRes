@@ -1,0 +1,85 @@
+{
+  "847530": {
+    "name": "HyperBowl",
+    "steam_appid": 847530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Be the ball! This remake of the classic arcade bowling game brings you the original six HyperBowl lanes and some new ones. Enjoy the scenery, but remember to head for the pins before time runs out!<br />\r\n<br />\r\nPlay 1-4 players in the original Arcade Mode or quick-play in single-player mode.<br />\r\n<br />\r\nRoll the ball forward, left, right, even backwards by pushing the mouse, swiping the trackpad, or pressing the AWSD keys.<br />\r\n<br />\r\nSpecial thanks to the HyperBowl Facebook fans, especially localization, testing, and bug-squashing help from Ischa Bijl, Raymond Chow, Frank Lin, Lien Luong, Adam Pavlakos, Ian Schwabe, Harrison Sotoloff and Elijah Taylor.<br />\r\n<br />\r\nThis version of HyperBowl by Technicat LLC is built with the original HyperBowl art and sound assets licensed from Absolute Certainty Inc., the Unity game engine, Lens Flare and Simple Particle Pack from Unity Technologies, Selected U3D Japanese Font from Masashi Wada, Particle Scaler by Roel Ezendam, Real Flames by BlackFire FX, FontLibrary from MacXWare, iTween by Pixel Placement, Flocks package from soodaq, Lean Localization from Carlos Wilkes, Finger Gestures from Fatal Frog Software, and Steamworks.NET by Riley Labreque.<br />\r\n<br />\r\nNew lanes are made with the Penelope sample from Unity Technologies, Cartoon Snowboard Funpark from Stefan M., Mushroom Land from Manufactura4K, Grass Road Race from Sugar Assets, and the Campfire Pack from Dreamdev Studios.<br />\r\n<br />\r\nHyperBowl is a trademark of Absolute Certainty Inc.",
+    "supported_languages": "英语, 法语, 德语, 日语, 韩语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847530/header.jpg?t=1705341020",
+    "developers": [
+      "Technicat LLC"
+    ],
+    "publishers": [
+      "Technicat LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

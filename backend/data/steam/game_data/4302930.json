@@ -1,0 +1,141 @@
+{
+  "4302930": {
+    "name": "跳棋",
+    "steam_appid": 4302930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >欢迎来到 西洋跳棋（Draughts） 的世界。</p><p class=\"bb_paragraph\" >本应用将这款流传数百年的经典策略棋类游戏带入数字时代，在保留传统精髓的同时，融入现代化的操作体验。这不仅是一款游戏，更是对西洋跳棋所蕴含的策略深度与纯粹乐趣的致敬。</p><p class=\"bb_paragraph\" >无论你是重温童年记忆，还是第一次接触西洋跳棋，都能在这里找到适合自己的乐趣，老少皆宜。</p><p class=\"bb_paragraph\" >打造出色体验的核心特色</p><p class=\"bb_paragraph\" >多种游戏模式</p><p class=\"bb_paragraph\" >提供 5 个难度等级的 AI 对战模式，也可在限时的双人对战模式中与朋友正面对决。</p><p class=\"bb_paragraph\" >全球西洋跳棋规则合集</p><p class=\"bb_paragraph\" >体验来自世界各地的西洋跳棋规则，包括：英式/美式、俄式、德式、意式、西班牙式、巴西式、泰式以及国际跳棋。</p><p class=\"bb_paragraph\" >高度自定义</p><p class=\"bb_paragraph\" >自由更换棋盘与棋子样式，并通过内置棋盘编辑器设计属于你自己的西洋跳棋棋盘。</p><p class=\"bb_paragraph\" >真实的视觉与手感</p><p class=\"bb_paragraph\" >简洁而精致的界面设计，真实还原传统西洋跳棋的氛围与质感。</p><p class=\"bb_paragraph\" >智能 AI 挑战</p><p class=\"bb_paragraph\" >与高水平、富有竞争力的 AI 对手对弈，带来接近真人对战的紧张感与成就感。</p><p class=\"bb_paragraph\" >贴心的玩家功能</p><p class=\"bb_paragraph\" >支持悔棋、游戏保存与读取，以及计时对局，让游戏过程更加灵活顺畅。</p><p class=\"bb_paragraph\" >成长与奖励系统</p><p class=\"bb_paragraph\" >击败 AI 可获得经验值，见证你的进步：</p><p class=\"bb_paragraph\" >简单：+1</p><p class=\"bb_paragraph\" >普通：+3</p><p class=\"bb_paragraph\" >困难：+5</p><p class=\"bb_paragraph\" >非常困难：+7</p><p class=\"bb_paragraph\" >不断提升策略水平，向西洋跳棋高手迈进。</p><p class=\"bb_paragraph\" >这是一款为策略棋类爱好者打造的 西洋跳棋 应用，完美融合经典魅力与现代功能。</p><p class=\"bb_paragraph\" >适合希望在轻松氛围中享受深度思考与对弈乐趣的玩家。</p><p class=\"bb_paragraph\" >立即下载，走进策略与传统交汇的西洋跳棋世界。</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 印度尼西亚语, 日语, 韩语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 泰语, 繁体中文, 土耳其语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302930/cfaed6bb05e26c303802c43138ea5ca8af64ab41/header.jpg?t=1770020086",
+    "developers": [
+      "Popoko VM Games"
+    ],
+    "publishers": [
+      "Popoko VM Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 77,
+        "description": "可以仅用触控"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Level 1 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/11df32e25d0e2469badc12e99139349822818983.jpg"
+        },
+        {
+          "name": "Level 2 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/a39ee0f5c80c83c330163a8e49fc25cd132886bb.jpg"
+        },
+        {
+          "name": "Level 3 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/ee8d386821d055b9c26a8e23ee6674a473a5b49b.jpg"
+        },
+        {
+          "name": "Level 4 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/44bac3070bfa2fb443e7e75b127afc2cac19eb09.jpg"
+        },
+        {
+          "name": "Level 5 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/6352cec3685650d73a3181d36bbde51c361be3bd.jpg"
+        },
+        {
+          "name": "Level 6 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4302930/85855a228ecefe379f3a73ae7397729c1b334637.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

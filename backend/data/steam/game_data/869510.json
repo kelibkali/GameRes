@@ -1,0 +1,62 @@
+{
+  "869510": {
+    "name": "召唤一些奇形怪状的东西打来打去的小游戏",
+    "steam_appid": 869510,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >我（这款游戏的开发者）正试图摸索出一种崭新的牌组构筑对战类游戏，为了确认目前的构想是否过于偏离大众喜好，于是先将基础玩法和一小部分内容做出来供大伙品评（也就是说，这个版本的游戏内容也只有相当于一个Demo的程度）。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >这个游戏能让你体验到的是以下的设计理念：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >不区分“你的回合”还是“我的回合”，双方同时进行操作。不必在对方回合等待那些漫长而又令人烦躁的表演</p></li><li><p class=\"bb_paragraph\" >新颖的“战斗力”机制。将常见“攻击力”和“生命值”统一为“战斗力”，在受到伤害的同时也会造成伤害输出能力的下降，由此也使“速度”（出手的先后顺序）的高低至关重要</p></li><li><p class=\"bb_paragraph\" >克制的数值设计。在对战中看到的大部分数值都被控制在个位数、最多两位数，带来更接近桌游的游戏体验</p></li><li><p class=\"bb_paragraph\" >克制的随机数影响（不太成功）。我试图去掉抽卡机制、并且使用与角色绑定的产点概率，以降低运气因素对比赛结果的干涉程度。不过就结果而言，目前的产点机制还是使运气过于重要了，这点可能我以后能想到更好的解决方案</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >我脑子里还有很多花里胡哨的机制和内容尚未在这个版本里实现，如果你期待这款游戏以更高的完成度问世，或者有任何建议，甚至如果现有版本的某些地方令你感到厌恶，都请务必以任意形式告诉我。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >PS：这个版本的玩家对战模式是以P2P通信的方式实现的，因社交范围有限，几乎未经过测试，如果体验不佳敬请见谅。游戏文件夹内附有服务器程序，可用于自建服务器。</p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/869510/header.jpg?t=1730649612",
+    "developers": [
+      "DaraDaraDomain"
+    ],
+    "publishers": [
+      "DaraDaraDomain"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

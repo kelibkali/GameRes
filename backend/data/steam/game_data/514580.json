@@ -1,0 +1,129 @@
+{
+  "514580": {
+    "name": "Cooking Witch",
+    "steam_appid": 514580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514580/extras/968857c0ad8236ae7ec07f025dce74c9.avif?t=1770918246\" width=616 height=248 /></span></p><p class=\"bb_paragraph\" >在《烹饪女巫》中，你将扮演一位女巫，飞往森林中的派对，绑架孩子并将他们烹饪后吃掉。</p><p class=\"bb_paragraph\" >升级你的装备，获得更强力的道具：更快的扫帚、更大更高效的锅，以及可以携带更多孩子的钩爪。</p><p class=\"bb_paragraph\" >通过提升力量、生命值和耐力等属性来强化你的女巫。</p><p class=\"bb_paragraph\" >掌握不同类型孩子的优劣势，制定最佳策略，打造最盛大的肉宴。</p><p class=\"bb_paragraph\" >尽可能烹饪并吞食更多孩子，在肉宴排行榜上与其他玩家一较高下——但要提防愤怒的父亲，否则他们会追赶你！</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514580/extras/0d4a055f5bffae9b6b0abcea948bb58e.avif?t=1770918246\" width=616 height=144 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514580/header.jpg?t=1770918246",
+    "developers": [
+      "VaragtP"
+    ],
+    "publishers": [
+      "VaragtP"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 330,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.30"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 40,
+      "highlighted": [
+        {
+          "name": "Servant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/4743e207dcda80fd890fe4a47f25e6b330193dab.jpg"
+        },
+        {
+          "name": "Muncher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/c39ed0d60bc6db2b03e75a6f332c15f62b78edb2.jpg"
+        },
+        {
+          "name": "Oops",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/023033ff664b7d935e306259a27d9c002090b658.jpg"
+        },
+        {
+          "name": "Sprinkle of Green",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/0aaece861cbf9303345f6931450b0c3bf8f5e33d.jpg"
+        },
+        {
+          "name": "Seeing Stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/c32de7ec48353af56a143181f58b8478a9647a41.jpg"
+        },
+        {
+          "name": "Sprinkle of Red",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/4ae0ae84867290df82141149901148e08d47976a.jpg"
+        },
+        {
+          "name": "Sparkle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/51da0943187d503672687a30ffd4bd4cc61be9ac.jpg"
+        },
+        {
+          "name": "Hearty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/c4782be44ec80f1806cd7a842966b05c6e17ef8b.jpg"
+        },
+        {
+          "name": "Daddy Soup",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/3da35acd2d726b78d832e9c0132d0b8ae403aaff.jpg"
+        },
+        {
+          "name": "Chef",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/514580/3cbc3d14981bf03c670f1a4c6aa7ec256d47aab3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "991500": {
+    "name": "Make A Jigsaw Puzzle",
+    "steam_appid": 991500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在《做个拼图玩》中你可以自定义拼图的长宽，图片和拼图边。然后在可以自由移动的平台上游玩。<h2 class=\"bb_tag\" >制作的功能：</h2><ul class=\"bb_ul\"><li>边长最大18，最小2，但拼图块最多不能超过150。<br></li><li>游戏自带6张图片，也可通过游戏内置的简易文件游览器添加你电脑内的图片(JPG或PNG)。<br></li><li>图片可以自由旋转，移动并在0.5倍到2倍间缩放。<br></li><li>总共有3种拼图边可以选择，可以设置全部随机排列或单独设置每一个拼图边。</li></ul><h2 class=\"bb_tag\" >游玩的功能：</h2><ul class=\"bb_ul\"><li>可以自由拼接或断开单块拼图，只要拼图边匹配就会拼接。<br></li><li>可以自由移动拼接在一起的多块拼图。<br></li><li>可以自由移动游玩的平台。<br></li><li>在游玩时打开菜单会保存游戏进度，以便在下次游玩时继续。<br></li><li>可自由移动的预览图，可以用预览图来推开单块拼图。<br></li><li>拼图可以在1到10倍间改变大小。<br></li><li>可以设置游玩平台的颜色。<br></li><li>可以自定义背景的颜色或导入360度全景图。</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991500/header_schinese.jpg?t=1590908339",
+    "developers": [
+      "waci11"
+    ],
+    "publishers": [
+      "waci11"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

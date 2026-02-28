@@ -1,0 +1,110 @@
+{
+  "1532300": {
+    "name": "Sugar Story",
+    "steam_appid": 1532300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" > <strong> <i>“糖的故事” </i> </strong>是一款出色的角色扮演游戏，带有<strong>时间进度战斗系统</strong>和简单而疯狂的故事。</h2>一天到了...您已经得到了非常重要的<strong>任务</strong>，为您的家人获取<strong>糖</strong>，因为<strong>还没有结束。</strong>应付这个挑战？我马上告诉你，这并不容易...您认为这只是对<strong>糖</strong>的追求，在世界颠倒的路上，邪恶是世界所不知道的。 ..您能否与新认识的朋友一起拯救世界？时间将显示出来……时间在邪恶的上帝<strong> <i> Amatsu-Mikaboshi </i> </strong>中疯狂地奔跑。<br><br><br>特征：<br><ul class=\"bb_ul\"> <li>陪伴您穿越世界的史莱姆之友<br></li><li>时间进度战斗系统。 （换句话说，这是一个动态的回合制系统，如果您的对手恢复得更快，您就会在有实力的情况下立即发起攻击）<br></li><li>要解决的难题<br></li><li>美妙的配乐<br></li><li>寻找秘密<br></li><li>很多有趣的任务<br></li><li>获得经验并学习新技能<br><br><ul class=\"bb_ul\"></ul></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532300/header.jpg?t=1647128487",
+    "developers": [
+      "Source Byte Sp. z o.o.",
+      "Nikodem Świder"
+    ],
+    "publishers": [
+      "Source Byte Sp. z o.o."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Find a new friend!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/aa39efde2c0ba8ad09cf01469e54eda993643382.jpg"
+        },
+        {
+          "name": "Find all Gombao",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/e32d47d990ff34dd237f4fe95f6348ff5b8fdb48.jpg"
+        },
+        {
+          "name": "Go for Sugar!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/fa65f5342d74f2a86fcff6a1fb73ac24d7c88701.jpg"
+        },
+        {
+          "name": "Beat Amatsu-Mikaboshi and save the world",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/c5f244a80ed78dac4e56facc5efae5b065303490.jpg"
+        },
+        {
+          "name": "Prepare a decoction for back pain ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/9ccfa8577f13a79a1052a782d51d89e6dad0b670.jpg"
+        },
+        {
+          "name": "Defeat the snakes ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/4822b7a484855be9a4b789c31b869ec3c8db27a6.jpg"
+        },
+        {
+          "name": "You got Sugar!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/4f841c1959e7e27e513dbcc297875ef2a9f3c090.jpg"
+        },
+        {
+          "name": "Back to mummy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532300/f0876a8bc7f2c0626e5d0f5a8092b0d01b1444ab.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

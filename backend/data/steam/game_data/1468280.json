@@ -1,0 +1,85 @@
+{
+  "1468280": {
+    "name": "Inland",
+    "steam_appid": 1468280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Inland 一 款快节奏的跑步游戏。您向前奔跑，您需要躲避黑暗的障碍，每克服一个障碍，您就会得到一分。困难在于，如果您遇到至少一个障碍，您将立即失败。随着时间的流逝，行驶速度会提高，并且躲避障碍物变得更加困难。您可以获得多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-直观的游戏<br />\r\n<br />\r\n-难度增加<br />\r\n<br />\r\n-悦耳的音乐<br />\r\n<br />\r\n-漂亮的图形",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/header.jpg?t=1605891783",
+    "developers": [
+      "borgia mango"
+    ],
+    "publishers": [
+      "borgia mango art"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Like Wind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1468280/2fb9962795cf1da12c2ad4492b16e1917a7e1ddb.jpg"
+        },
+        {
+          "name": "Run",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1468280/21681317cd2225558ebdf09cecf27a5a9b1e6497.jpg"
+        },
+        {
+          "name": "Jogging",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1468280/1587c930804cbb45b105ebbf9afb09ffdaacefcc.jpg"
+        },
+        {
+          "name": "Walk",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1468280/4c720046fb0503f15e8baddfbbaa4173500decc7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

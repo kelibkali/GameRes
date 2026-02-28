@@ -1,0 +1,89 @@
+{
+  "961700": {
+    "name": "NekoCharm",
+    "steam_appid": 961700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "嘿，菜鸟！<br />\r\n你必须经过一系列的测试才能证明你是一个有价值的战士！<br />\r\n然后证明自己在为政府服务！<br />\r\n<br />\r\n特有的属性：<br />\r\n- 有趣和不寻常的游戏。<br />\r\n- 独特的音乐伴奏。<br />\r\n- 该游戏是具有迷你游戏“迷你游戏”元素的“日本视觉小说”类型的代表。<br />\r\n- 所有角色都是动画的，看起来很真实！",
+    "supported_languages": "俄语, 英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/961700/header.jpg?t=1542774466",
+    "developers": [
+      "Hestia Games"
+    ],
+    "publishers": [
+      "Hestia Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "FIRST ENTRY TO THE GAME",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961700/a4c0fa9a66e53ffbbf8d6ceed5a03ef70f9c8865.jpg"
+        },
+        {
+          "name": "WIN TRAINER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961700/bdbe2b1d045a1265b16cdc0e35a364b66cb9b604.jpg"
+        },
+        {
+          "name": "WIN RATEL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961700/e6f2b16f4913160629df4a0944489d45c6ba3503.jpg"
+        },
+        {
+          "name": "WIN BAND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961700/845b49834622e254927404b3b6317bab23fe6ffd.jpg"
+        },
+        {
+          "name": "WIN LIVING GOD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961700/37f2ffeae7ce1c08f0ea36fee9a2b7663c51e0cf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

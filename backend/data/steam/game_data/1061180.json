@@ -1,0 +1,157 @@
+{
+  "1061180": {
+    "name": "Crumble",
+    "steam_appid": 1061180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Wishlist</strong> my other project:<br><br><br>Crumble是即将上映的物理平台游戏，具有令人上瘾和有趣的游戏玩法。<br>世界正在崩溃，试图在你周围的每一个独特的层面上进步。<br>使用你的跳跃和紧身运动保持在上面，用你的舌头恢复。<h2 class=\"bb_tag\" >功能</h2><ul class=\"bb_ul\"><li>一种广告系列[/]模式，世界日益崩溃<br></li><li>多人游戏[/]派对模式，最多4位本地玩家<br></li><li>解锁新的<strong>皮肤<br></strong></li><li>在线<strong>排行榜<br></strong></li><li>高<strong>动态</strong>物理</li></ul><h2 class=\"bb_tag\" >充满活力的环境</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1606794c2b611e6f07dc924955e0de17.poster.avif?t=1718305223\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1606794c2b611e6f07dc924955e0de17.webm?t=1718305223\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1606794c2b611e6f07dc924955e0de17.mp4?t=1718305223\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >正在混乱的混乱</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/a402a0fd2f10883ecd804c4addbbc1c7.poster.avif?t=1718305223\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/a402a0fd2f10883ecd804c4addbbc1c7.webm?t=1718305223\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/a402a0fd2f10883ecd804c4addbbc1c7.mp4?t=1718305223\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >摇摆力学</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1e6599f2585697715ad873dd09c657d9.poster.avif?t=1718305223\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1e6599f2585697715ad873dd09c657d9.webm?t=1718305223\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/extras/1e6599f2585697715ad873dd09c657d9.mp4?t=1718305223\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 俄语, 简体中文, 韩语, 波兰语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 西班牙语 - 拉丁美洲, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061180/header.jpg?t=1718305223",
+    "developers": [
+      "BRUTE FORCE"
+    ],
+    "publishers": [
+      "BRUTE FORCE"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "World 1: Jungle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/d511809891490a9c9d6f844ff5a0e7f0dd4bf7ff.jpg"
+        },
+        {
+          "name": "World 2: Mountains",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/390761df43e008da6a468b2fe93b5bc1d15f0487.jpg"
+        },
+        {
+          "name": "World 3: Ruins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/cb0a7f571f27d324e99388bc3cf3f05fc183d34f.jpg"
+        },
+        {
+          "name": "World 4: Slums",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/428eca51a9437f83fc3a76d97f451f96dd6f8d84.jpg"
+        },
+        {
+          "name": "World 5: Lava",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/ccba6baaddc32c140dbe6333b8c2ca7077416622.jpg"
+        },
+        {
+          "name": "Crumble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/931e34b1822e39645a30a69acb35ebd510a0afc4.jpg"
+        },
+        {
+          "name": "All done",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/41481000eaf04c37f5f80dd71a0aff1228467aa7.jpg"
+        },
+        {
+          "name": "Welcome to Crumble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/7079d296d471e018d666fd221ab401403dd9b6a9.jpg"
+        },
+        {
+          "name": "Never skip leg day",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/612756e68764580c673e1093bb80e5b7dfd39358.jpg"
+        },
+        {
+          "name": "Jumpy boy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061180/66d64a1feae7c21627373df0f750dc4725314ae3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 0,
+      "total_reviews": 13
+    }
+  }
+}

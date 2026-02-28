@@ -1,0 +1,69 @@
+{
+  "642020": {
+    "name": "Gordy and the Monster Moon",
+    "steam_appid": 642020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Gordy and the Monster Moon is a bite-sized exploration-driven game about a pumpkin astronaut going on spooky adventures.<br><br><ul class=\"bb_ul\"><li>Explore the strange and varied biomes of the Monster Moon!<br></li><li>Find upgrades and unlock shortcuts to help you explore even better!<br></li><li>Defend yourself from monsters with a cobweb you found on the ground.<br></li><li>Ask dad for help if you get stuck!<br></li><li>What <i>is</i> in Lander B?</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/642020/header.jpg?t=1695993471",
+    "developers": [
+      "Twinbeard"
+    ],
+    "publishers": [
+      "Twinbeard"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 9 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

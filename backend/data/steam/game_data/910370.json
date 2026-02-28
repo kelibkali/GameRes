@@ -1,0 +1,44 @@
+{
+  "910370": {
+    "name": "CoreOptimizer",
+    "steam_appid": 910370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "CoreOptimizer通过优化计算机的硬件资源来提高您的游戏性能，它也可以被作为系统优化工具来使用。<h2 class=\"bb_tag\" >功能</h2><br><strong>CPU内核优化</strong><br><ul class=\"bb_ul\"><li>限制系统进程在单个核心上运行，以便剩下的所有核心都留给游戏<br></li><li>以高优先级运行游戏<br></li><li>在单核上运行游戏（适用于未针对多核进行优化的单核游戏）<br></li><li>禁止游戏使用超线程<br></li><li>在指定的多个CPU内核上运行游戏<br></li><li> 电脑开机时软件自动启动<br></li><li>限制Web浏览器在单个CPU核心上运行<br></li><li>应用程序白名单过滤(不受单个核心运行约束)<br></li><li>在指定的核心上运行任何流媒体软件<br></li><li>限制任何流媒体软件的优先级<br></li><li>从进程列表中选择进程进行优化<br></li><li>停止(杀死)选定的进程<br></li><li>复制将在内存清理中使用的进程的PID<br></li><li>停止优化</li></ul><br><strong>游戏辅助工具(包括Steam，非Steam游戏和应用程序)</strong><br><ul class=\"bb_ul\"><li>自动检测电脑中所有Steam游戏以进行优化<br></li><li>手动添加任何游戏或应用程序以进行优化<br></li><li>自动检测指定游戏以进行优化<br></li><li>Steam商店和社区链接<br></li><li>收藏你喜爱的游戏<br></li><li>为Steam游戏添加启动选项<br></li><li>自定义Steam游戏的显示名称<br></li><li>更改任何游戏或应用程序的显示图像</li></ul><br><strong>内存清理</strong><br><ul class=\"bb_ul\"><li>显示已使用的内存<br></li><li>显示内存占比<br></li><li>一键清理所有进程内存<br></li><li>清理内存后的统计数据列表<br></li><li>实时图形显示内存使用情况</li></ul><br><strong>硬件分析器</strong><br><ul class=\"bb_ul\"><li>列出属于您计算机的所有资源，包括中央处理器，图形处理器，内存，操作系统，主板，硬盘驱动器，光驱，音频和网络等。</li></ul><br><strong> FPS(帧速)基准测试</strong><br><ul class=\"bb_ul\"><li>将复制的进程PID粘贴到PID文本框以进行FPS跟踪检测<br></li><li>自动检测在软件中启动的游戏的所有进程<br></li><li>选择检测到的游戏进程以进行FPS跟踪检测<br></li><li>一键启动FPS跟踪检测<br></li><li>在跟踪的游戏窗口中显示实时FPS<br></li><li>实时图形显示用于统计分析的FPS数据</li></ul><br><strong>磁盘压缩</strong><br><ul class=\"bb_ul\"><li>包括四种压缩方法<br></li><li>批量压缩所有Steam游戏<br></li><li>选择要压缩的文件夹<br></li><li>压缩已选文件夹<br></li><li>解压缩已选文件夹(之前已压缩过)<br></li><li>列出所有已压缩文件夹</li></ul><br><strong>系统托盘</strong><br><ul class=\"bb_ul\"><li>显示/隐藏窗口<br></li><li>自动记忆最近玩过的5款游戏<br></li><li>停止优化<br></li><li>恢复窗口位置</li></ul><br>如有任何使用问题，请先不要差评，点击【核心优化器CoreOptmizer】或者扫描二维码加入QQ群获取帮助。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/extras/4a76f5244eb47dac228aa6a4a02d9f6b.avif?t=1553819338\" width=298 height=313 /></span>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 乌克兰语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 简体中文, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/header.jpg?t=1553819338",
+    "developers": [
+      "Nincent"
+    ],
+    "publishers": [
+      "Nincent"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4900,
+      "final": 4900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 49.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 16 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 3,
+      "total_negative": 3,
+      "total_reviews": 6
+    }
+  }
+}

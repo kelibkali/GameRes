@@ -1,0 +1,113 @@
+{
+  "1011240": {
+    "name": "Dragon Chase",
+    "steam_appid": 1011240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011240/extras/6d54a2fd0ba8b4f2c12f796d7e2ec72c.poster.avif?t=1563627035\" width=690 height=318 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011240/extras/6d54a2fd0ba8b4f2c12f796d7e2ec72c.webm?t=1563627035\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011240/extras/6d54a2fd0ba8b4f2c12f796d7e2ec72c.mp4?t=1563627035\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >什么是龙追？</h2><br>龙追逐是平台游戏和跑步者之间的小型混合游戏，你可以控制被龙追逐的骑士。避免被龙撕裂，躲避陷阱并在随机环境中抵挡敌人。<br><br>只要你能在在线排行榜上获得一席之地就能生存。<h2 class=\"bb_tag\" >特征</h2><br><ul class=\"bb_ul\"><li>具有挑战性的。不仅你必须处理环境，因为你继续存活，龙会在你进步时开始做不同类型的攻击。<br></li><li>从不相同。环境分为几个部分及其各自的障碍，这些部分的顺序是随机的。每次玩游戏都能获得不同的体验。<br></li><li>蒸汽成就。在玩游戏时享受解锁几项成就！<br></li><li>蒸汽排行榜。通过在线排行榜排名，他们将存活时间最长？<br></li><li>原声大碟。在听金属的同时奔向你的生活吧！</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011240/header.jpg?t=1563627035",
+    "developers": [
+      "Ominous Entertainment"
+    ],
+    "publishers": [
+      "Ominous Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "It Starts...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/b00a1793069fc109c58254840bf3ec470d0f414e.jpg"
+        },
+        {
+          "name": "Cardio",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/f8ac0678645f4780a30e36e6fc371ac9c600211a.jpg"
+        },
+        {
+          "name": "No Sweat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/64f1692188c7b6d342929085aba273e7f47291ef.jpg"
+        },
+        {
+          "name": "Deadly Marathon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/d1c602ae1ec62fde712a67c128326ac20d7fd726.jpg"
+        },
+        {
+          "name": "Master Of Survival",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/db847b4904b3b3e1258e91a108e5691a4776f72d.jpg"
+        },
+        {
+          "name": "Orc Chunks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/cbb020a9cc516acecfaf96aa437474ccaf5bf578.jpg"
+        },
+        {
+          "name": "Orc Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/c87a7edb374afb2a41824cee42d3280db9ef618a.jpg"
+        },
+        {
+          "name": "Orc Massacre",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/cf6cca25b21a498c45412a56d88b75eb61769299.jpg"
+        },
+        {
+          "name": "Orc Extinction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/f919e6b5a60f2fa9fb466d5f8775a4e6a4809145.jpg"
+        },
+        {
+          "name": "Let's Try Again...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1011240/acc6403285340c9f6ccb9b35c41d613d169c84a7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

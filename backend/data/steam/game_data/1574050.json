@@ -1,0 +1,43 @@
+{
+  "1574050": {
+    "name": "OpenGloves",
+    "steam_appid": 1574050,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Opengloves Driver</h2><br>OpenGloves is an OpenVR Driver for Virtual Reality (DIY) hardware, specifically designed to be used with VR Gloves.<br><br>OpenGloves has an open interface  for plugging in your own hardware to SteamVR, without worrying about writing any specific OpenVR driver code.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Full Finger Tracking (Splay, Individual Joints)<br></li><li> Force Feedback Haptics<br></li><li> Positioning from Controllers/Trackers<br></li><li> Automatic calibration for positioning the glove relative to the controller<br></li><li> Button and Joystick Inputs (Joystick X,Y,Click, A Button, B Button)<br></li><li> Multiple communication protocols (USB, Bluetooth, Named Pipes)</li></ul><br>The UI includes the following settings:<br><br><ul class=\"bb_ul\"><li> Edit Driver Settings<br></li><li> Automatic Calibration for positioning the glove relative to the controller<br></li><li> Triggering Force Feedback for testing</li></ul><h2 class=\"bb_tag\" >Authors</h2><br><ul class=\"bb_ul\"><li> Danwillm (`danwillm#8254`)<br></li><li> Lucas VRTech (`LucidVR#0001`)</li></ul><h2 class=\"bb_tag\" >Join our discord!</h2>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574050/header.jpg?t=1664829098",
+    "developers": [
+      "danwillm",
+      "LucasVRTech"
+    ],
+    "publishers": [
+      "LucidVR"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

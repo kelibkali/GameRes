@@ -1,0 +1,121 @@
+{
+  "1247640": {
+    "name": "Dwarf Shop",
+    "steam_appid": 1247640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dwarf Shop是一个商店模拟器，您猜对了，矮人！ 通过堆积成山的闪烁黄金，帮助巨龙部落吸引自己的巨龙。 派一个矮人深入洞穴中寻找材料，而其他人则制作各种装备并卖给毫无戒心的顾客！<br><br><strong>经营一个充满矮人的商店！</strong><br><strong>制作许多不同的手工品和装备</strong><br>为矮人装备自己的制作品，以使制作站获得装备的能力加成。<br>或以合适的价格卖给客户！ 根据客户的反馈来确定销售价格是多少！<br>手工制作甚升级您的店铺，使您的矮人变得更强壮并发现更好的秘方！<br><br>在其他矮人制作时，派出粉碎者，那个战斗矿工探索您店铺下方的洞穴。<br><strong>在不同类型的洞穴中与各种各样的敌人作战。</strong><br><strong>寻找宝藏，装备，黄金，并收集要制作手工品的材料。</strong><br>粉碎阻碍您前进的宝藏！<br>快要精疲力尽了？稍作休息以恢复并送回所有已找到的物品。<br>然后粉碎一些恶意看你的敌人！<br><br><strong>但最终绝对目标。 黄金！黄金！黄金！ 赚取足够的黄金为您的巨龙部落吸引您自己的巨龙，以便可以向所有其他返回游戏的矮人部落炫耀。 （并且可能与您的新宠物巨龙一起消灭几个讨厌的精灵）。</strong>",
+    "supported_languages": "英语, 法语, 德语, 俄语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1247640/header.jpg?t=1586391087",
+    "developers": [
+      "Potion Junkies"
+    ],
+    "publishers": [
+      "Potion Junkies"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 1850,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 37.00",
+      "final_formatted": "¥ 18.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Deep Diving",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/dc6439dcff50bd784149be1d65b03d9e4679797f.jpg"
+        },
+        {
+          "name": "No Arrows to These Knees",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/9407fab4557a3239761648944f1e82f81b38fc3c.jpg"
+        },
+        {
+          "name": "Brotherrr!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/fa874538e1f46fcbc5298cbab8e333e5eff44685.jpg"
+        },
+        {
+          "name": "Beginner Spelunker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/7cfed3eb9da0942dc27b6bb9e4e9c7d7dcad3ed4.jpg"
+        },
+        {
+          "name": "Only A Little Hoarding.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/70281077e3ed2ccac7b33aee9ef483681701ae7e.jpg"
+        },
+        {
+          "name": "The Beginning of A Clan",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/cdb41840ac8f6ba9187ceff4dd326460927a5879.jpg"
+        },
+        {
+          "name": "Battle Royale",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/e40e6ec29733ef890b6532b38c01d169fa5b2a63.jpg"
+        },
+        {
+          "name": "SHINY!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/cd3f1775fb6054b85083a59b5b91a76b5ddb1026.jpg"
+        },
+        {
+          "name": "Problem Drinker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/efdfb83b9f073441f36716369aa0279517d01da8.jpg"
+        },
+        {
+          "name": "A FAMILY AGAIN!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1247640/84feba3a13341a789ff13c1447fdb62a6b8bd1ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    }
+  }
+}

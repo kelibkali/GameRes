@@ -1,0 +1,89 @@
+{
+  "982920": {
+    "name": "HammerBorn: Tears Of Mani",
+    "steam_appid": 982920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Step into adventure in this Immersive, procedural roguelike experience!<br><br><strong>HammerBorn: Tears of Mani</strong> is a 3D VR Rouge-like game designed<br>to create a sense of wonder and adventure through <br>procedurally generated realms of dungeon crawling fun!<br><br>Currently 20 enemy types are planned to add a sense of variety, depth,<br>and engaging gameplay to the overall feel of the experience.<br><br>Cross oceans aboard real-time physical sea vessels, throw a boomerang<br>or take a glider from the peak of a nearby mountain. Take part in a<br>larger-than-myth Quest to Uncover the HammerBorn!<br><br>Current state:<br>-Functional Overworld Terrain Generation<br>-2 enemies ready, 4 more in dev<br>-50 different items<br>-Bow &amp; arrow<br>-Climbing<br>-Simple(and buggy) MP co-op via desktop display<br>-Combat works but needs to be improved upon.<br>-Glider is functional, needs improvement<br>-Crafting system nearly completed<br>-Loot is available by killing mobs, and discovering it randomly by points of interest.<br>-Health system &amp; recovery items, functional but needs work<br>-Stats are not yet saved<br>-First Boss is in development<br>-Dungeon entrances spawn on the overworld. Entering saves the game &amp; your inventory.<br>Dying means you reload the last save. currently if you reach the exit, you keep anything in your <br>pockets and backpack.<br><br>Onward To Adventure!<br><br><br><br>**this is an Early Access Release Development and is subject to change",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982920/header.jpg?t=1651764211",
+    "developers": [
+      "Hareware Studios"
+    ],
+    "publishers": [
+      "Hareware Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

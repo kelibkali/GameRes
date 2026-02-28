@@ -1,0 +1,122 @@
+{
+  "1061220": {
+    "name": "Discontinue",
+    "steam_appid": 1061220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Discontinue是一个独特的竞争性虚拟现实（VR）光盘投掷游戏体验，您的目标是在合成波（霓虹）风格的障碍世界中生存，在那里您将受到欢迎作为其冠军。当你穿过这个世界时，你会遇到各种各样的六边形，这些六边形可能会有所帮助或有害。<br />\r\n<br />\r\n世界由超过0x2000级别组成，每个级别通过种子生成，您可以与朋友或敌人分享以争夺高分。增加可重玩性。<br />\r\n<br />\r\n每种种子都结合了各种手工制作的阶段，产生了独特的跑酷。这些阶段显示为隧道或竞技场，并以许多不同的顺序和变化无缝连接。所有这些都是为了创造快节奏的节奏游戏，混合了更轻松的拼图或过渡阶段。<br />\r\n<br />\r\n隧道都是关于躲避和速度，而在竞技场，你专注于站在你的地面，并以你的方式击败所有障碍。<br />\r\n<br />\r\n结合的各个阶段旨在提供充满行动的丰富且有影响力的科幻体验。<br />\r\n<br />\r\n你有这个挑战吗？<br />\r\n<br />\r\n高分选项：<br />\r\n - 与朋友在您的计算机上本地播放，并在游戏本地高分列表中设置高分。<br />\r\n - 或者玩游戏并在Steamworks排行榜上争夺在线高分。",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061220/header.jpg?t=1667395627",
+    "developers": [
+      "PostBeta",
+      "Blue Knight Games"
+    ],
+    "publishers": [
+      "PostBeta"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Laser Blocker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/5bdf5c3fd35761f9db1181e2c42e1357f3bcfc6a.jpg"
+        },
+        {
+          "name": "Devilish",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/b85606b1b3acacdb80c119f5729b0aef7b17c801.jpg"
+        },
+        {
+          "name": "The ultimate question",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/2575fa1a59cf88cc46fe7f61b82d750839392115.jpg"
+        },
+        {
+          "name": "Bouncer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/3ce408c2fd07beb08cdbc9f1a7b6d9a897929408.jpg"
+        },
+        {
+          "name": "Self Portrait",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/3e413c2ce1c82b9dce204e0c4580d6638de42179.jpg"
+        },
+        {
+          "name": "Bouncer Extreme",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/e0c68e6fc3661c8f5f9266e0d22367b7f6bf9453.jpg"
+        },
+        {
+          "name": "First score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/55681cf78403ed6276e7110f745d2201bbc9d58b.jpg"
+        },
+        {
+          "name": "Rookie: Score above 3000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/9086e0ff49e8ebc1b83ff96e2126ec06309014f1.jpg"
+        },
+        {
+          "name": "Chief: Score above 4000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/2fce3f99e9927d83dbe75f1d790cc6616a7164a0.jpg"
+        },
+        {
+          "name": "Hero: Score above 5000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1061220/023fc433e2b78bd878edb7381da083e6790363d3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

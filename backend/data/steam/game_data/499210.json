@@ -1,0 +1,141 @@
+{
+  "499210": {
+    "name": "Road Rage",
+    "steam_appid": 499210,
+    "required_age": "18",
+    "is_free": false,
+    "description": "Road Rage 是一个摩托车战斗游戏。头顶超过，撞倒拖走，一系列的生猛的摩托车，车技如何一试便知。竞速、战斗，在疯狂的摩托车黑帮里提升自己的排名。 <br><br>使用各种摩托车、武器和战斗策略来推动你进入终极权威的位置。将战斗赛车推向极限，探索开放世界，玩超过90个任务，通过这些任务，不断进步，并有机会成为俱乐部总裁。 <br><br>* <strong>多样游戏玩法。</strong>玩42个故事驱动的任务，另外还有56个附加任务，内容有送货和护送，有战斗竞速，还有帮派决战！ <br><br>* <strong>开放世界探索。</strong>在巨型城市里穿行，在各具特色的社区里发现各种各样的任务和目标。 <br><br>* <strong>疯狂武器。</strong>装备一系列武器，与路上对手开始撞倒拖走大战！ <br><br>* <strong>炫酷骑行。</strong>选择各种摩托车，还有各种定制，满足你耍酷所需。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499210/header.jpg?t=1573156703",
+    "developers": [
+      "Team 6"
+    ],
+    "publishers": [
+      "Maximum Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "73",
+        "description": "暴力"
+      },
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "First place",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/fa15305966c69385215734a8d003a29eee850861.jpg"
+        },
+        {
+          "name": "Still here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/253eef409e1481744c98862c37ed1057b89cbdf6.jpg"
+        },
+        {
+          "name": "Found it ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/fdb6eeced49b4320e381e5e87f3f3f0a4511ed84.jpg"
+        },
+        {
+          "name": "Evil knee ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/70dd431a05c9e87a0a4e1445de39c77ea3bbfc7d.jpg"
+        },
+        {
+          "name": "I didn't do it ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/dc7af14541a0690ccc91d8a39cbedc995be8a1aa.jpg"
+        },
+        {
+          "name": "Time is ticking",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/af48d68703bafaa22f55e02d3120a0e3f14f0e2b.jpg"
+        },
+        {
+          "name": "Time is on my side",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/12146e99f92503110902a45931dbde6a1f0bf10f.jpg"
+        },
+        {
+          "name": "Pocket change ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/88716f417a3e5c531e70b71479f9ad23d4dab710.jpg"
+        },
+        {
+          "name": "Big spender",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/f23fe75fc70d3148f831d5a4fa65f033b9c20616.jpg"
+        },
+        {
+          "name": "Spend more",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499210/6c0790d4de959e7e3a90c2d4b7626c0cb663393f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

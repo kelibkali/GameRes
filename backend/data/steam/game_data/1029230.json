@@ -1,0 +1,87 @@
+{
+  "1029230": {
+    "name": "Two For One",
+    "steam_appid": 1029230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >About</h2>Two For One is a game about 2 brothers who have lost their home planet. It's your job to help them find their home planet! Alone or together with someone else. <br>Puzzle your way through lots of levels to get back home by pushing boxes, opening doors and jumping on your friend's head to solve all kinds of puzzles!<h2 class=\"bb_tag\" >Gameplay</h2>When you load a level you will be spawned somewhere inside of it. Get to the flag as fast as you can. <br>There can be 3 different flags:<br><ul class=\"bb_ul\"><li> A Red Flag: One of the 2 brothers needs to reach this flag<br></li><li> A Blue Flag: Only the blue character can finish here<br></li><li> A Green Flag: Only the green character can finish here</li></ul>The level is complete when all the flags are reached!<br>Use buttons to open doors for yourself or others by standing on top of them or move boxes on top!<br>Be sure to not hit the spikes, lasers and spikeballs. Be sure to stay on the map, because when you fall off or get hit by one of the obstacles, you will explode and the whole level resets!<br><br>When your are done with the level/levels, you will see your end time and you can brag about your personal end time to all your friends!<h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li> W/A/S/D: Movement of player 1.<br></li><li> Arrow keys: Movement of player 2.<br></li><li> R: Reset the level you're in<br></li><li>  ESCAPE: pause the game (no you can not figure out the level while paused to save time :D)</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029230/header.jpg?t=1561718994",
+    "developers": [
+      "2Hyper"
+    ],
+    "publishers": [
+      "2Hyper"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

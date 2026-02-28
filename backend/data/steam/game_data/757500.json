@@ -1,0 +1,82 @@
+{
+  "757500": {
+    "name": "Fadeholm",
+    "steam_appid": 757500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Endless exploration and adventure awaits those fearless enough to enter. Survival is only the beginning! Fadeholm is a procedural virtual reality (VR) survival dungeon crawler designed in the same vein as old school Nethack and Rogue. As one of the remaining ‘Fade’, the player is challenged to explore the depths of the ancient catacombs in search of an ancient relic. The Fadeholm is as rich as it is dangerous, with room after room filled with riches and items that will make exploration just a little bit easier. The player must manage hunger,health, and endurance while they search every corner of the dungeon, because while the undead hit hard, a Vorpal Warblade of Fire hits harder.<br><br>The first chapter, <strong>Upper Fadeholm</strong> includes:<br><ul class=\"bb_ul\"><li> 3 levels of procedural(reproducible random) generated dungeon, expandable to 8 levels through game settings. <br></li><li> Multiple unique monsters, each randomized with their own equipment, tactics, and behaviors.<br></li><li> Randomized loot throughout the dungeon.<br><ul class=\"bb_ul\">    <li> Equipment held and worn by monsters is usable upon their defeat.<br>    </li><li> Items become more powerful and enchanted the deeper the player travels<br>    </li><li> Detailed item inspection system aids in determining the power and abilities of the loot discovered.</li></ul></li><li> Intuitive movement system:<br><ul class=\"bb_ul\">   <li> Touchpad movement (4-axis + controller direction control)<br>   </li><li> Armswing locomotion (4 axis + HMD direction control)<br>   </li><li> Teleport for jumping obstacles and quickly manuvering<br>   </li><li> Player can mix and match modes to both controllers.</li></ul><br></li><li> Interactive inventory system:<br><ul class=\"bb_ul\">\t<li>eight active storage locations<br>\t</li><li>over the shoulder and hip slots “hot swappable’ allowing quick exchange of items<br>\t</li><li>belt slot provides access to various sized satchels for additional storage.<br>\t</li><li>independent shield slots on each arm to allow use of items while still employing a shield in combat.<br>\t</li><li>wearable headgear</li></ul></li><li> Save Game support:<br><ul class=\"bb_ul\">\t<li>Player can save their adventure at anytime and pick up where they left off later.<br>\t</li><li>Supports up to three different ‘Engrams’ (save games with history) to enable more than one person adventuring on a single Steam account.</li></ul></li><li> Seed (Dimensional Thread) based generation of content:<br><ul class=\"bb_ul\">\t<li>Controls generation of dungeon, monsters, loot, etc.<br>\t</li><li>Each Thread generates a unique game play experience.<br>\t</li><li>Share a Thread with a friend and compete on the leaderboards, or just see who can explore the furthest!</li></ul></li><li> Leader boards, both local and Steam. Rank yourself against your friends and the community. Each board based upon the specific dungeon (dimensional thread) selected.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757500/header.jpg?t=1528032571",
+    "developers": [
+      "Enoch",
+      "Horbin"
+    ],
+    "publishers": [
+      "Infinite Opal"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

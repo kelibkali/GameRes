@@ -1,0 +1,54 @@
+{
+  "1533030": {
+    "name": "GLBasic: HTML5 Compiler",
+    "steam_appid": 1533030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This compiler, using Emscripten, results in an html webpage, that runs your GLBasic application/game in any modern webbrowser. You can also use it to export GLBasic function to JavaScript for other projects. Emscripten will compile a wasm (Web assembly) for you, that runs really fast.<br>There are two options included:<br><ul class=\"bb_ul\"><li>HTML5-WebGL - This uses the webgl backend and allows fast graphics, using hardware accelleration<br></li><li>HTML5 - This uses a builtin graphics engine, that renders the output per pixel. It's not as fast as webgl, but more compatible for older computers or computers with higher security limitations.</li></ul><br>There are some limitations, though:<br><ul class=\"bb_ul\"><li>You must run the main loop using SETLOOPSUB, instead of a classic WHILE TRUE; ...; WEND loop.<br></li><li>File write access is quite limited<br></li><li>The data must be loaded using a real webserver, or a local webserver (included for testing). Modern browsers will refuse to load graphics, if you just open the html file from the local drive.</li></ul>",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533030/header.jpg?t=1669525535",
+    "developers": [
+      "Gernot Frisch",
+      "www.glbasic.com"
+    ],
+    "publishers": [
+      "Dream Design Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

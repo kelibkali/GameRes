@@ -1,0 +1,117 @@
+{
+  "548230": {
+    "name": "SPINGUN",
+    "steam_appid": 548230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548230/extras/e0bb26725346d7e1e7740c008c55233a.avif?t=1765471637\" width=616 height=280 /></span><br><br>Goliath正在攻击你的星球，但你英勇地留在飞船上，让你的家人撤离。.通过旋转和射击来取得胜利。<br><br>使用单个按钮飞行和操控，或者同时按下两个按钮来发射您飞船强大的爆破枪。.抓取能量提升，向你的敌人发射导弹、等离子球和火焰。快速将它们炸成碎片以修复你的飞船。你能抵挡他们多久？",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548230/header.jpg?t=1765471637",
+    "developers": [
+      "Fermenter Games"
+    ],
+    "publishers": [
+      "First Break Labs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Endless 30 Seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/9ec3a2d3dabdefc4bdadf1214953ac53596e0248.jpg"
+        },
+        {
+          "name": "Endless 60 Seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/4b0ccf3b4e3c42a92df8d3bc1d04b53ffe58200c.jpg"
+        },
+        {
+          "name": "Endless 2 Minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/30c20f3adcaa9b19ab5635dba6be4d7e9c7f2540.jpg"
+        },
+        {
+          "name": "Endless Hardcore 30 Seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/00ca3928c87dbc3cb0675cf2f57ce0341cf4cc13.jpg"
+        },
+        {
+          "name": "Won Spreader Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/91c535fb41b0d1c642708ca0f8f4610c27c54208.jpg"
+        },
+        {
+          "name": "Won Sploder Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/e7ae62b017920c3e74f6371b934c9ee8e2469b8c.jpg"
+        },
+        {
+          "name": "Won Beamer Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/982654f7905a01b4ad996c651dd8b0ae1a228279.jpg"
+        },
+        {
+          "name": "Won Flasher Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/aee7f3342f930a4d7f7613f8504d7b707001dc46.jpg"
+        },
+        {
+          "name": "Won Pulser Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/57ecbc3760a0d3ebc4a3385eb739de9cae71eb70.jpg"
+        },
+        {
+          "name": "Won Homer Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/548230/3b7ce6a59d7f87088898ee3c87f329479c76f94a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

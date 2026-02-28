@@ -1,0 +1,78 @@
+{
+  "1058720": {
+    "name": "纸上谈兵",
+    "steam_appid": 1058720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "大地图回合制移动，排兵布阵，占领有利资源点，购买部队。<br />\r\n两军相遇会触发战斗场景。每队有五种兵力，选择合适策略全歼对手即可获胜。<br />\r\n多种随机事件影响玩家兵力及部署。<br />\r\n1：起义军，随机占领一块地盘，并将地盘上的部队消灭，生成一只第三方部队。<br />\r\n2：雷雨：雷雨天气所在位置，部队无法移动。<br />\r\n3：叛逃：某些部队可能会将地盘拱手让给对方。<br />\r\n4：增援：固定回合会有增援部队到来。<br />\r\n5：地震：铁路运输1回合无法使用。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058720/header.jpg?t=1657235040",
+    "developers": [
+      "Carrot studio"
+    ],
+    "publishers": [
+      "Carrot studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

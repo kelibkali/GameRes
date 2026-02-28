@@ -1,0 +1,106 @@
+{
+  "666930": {
+    "name": "Luxocraft",
+    "steam_appid": 666930,
+    "required_age": 0,
+    "is_free": true,
+    "description": "3D Ray Tracing Block Construction Builder Free Video Game, supporting users generated free and paid items for sale.<br>Block building game, in which the world construction system is a very similar to Minecraft creating regime, using 346 unlimited customizing materials and 32 basic shapes in two game modes- 1st person builder and 1st person explorer/walker.<br>Use Ray Tracing technology to create as beautiful as you can imagine dynamic worlds, scenes, levels, items.<br>Share [free] or sell [paid] your items in the Steam Workshop.<br><br><strong>Which is the most beautiful scene you can possible create, limited only by your hardware- the mind and the computer?</strong><br><br><ul class=\"bb_ul\"><li>alpha v5.0 [14.09.2020 at 08:58:27 EEST] - Upgrade from UE4.23.0 to UE4.25.1 + four new environments- atmospheric sky, clouds, mirror and water grounds [READY]<br></li><li>alpha v4.0 [07.07.2020 at 14:30:26 EEST] - Automatic Non-Repeating Textures Patterns + 69 new materials [READY]<br></li><li>alpha v3.0 [12.05.2020 at 18:13:42 EEST] - Steam Stats, Achievements and Leaderboards  [READY]<br></li><li>alpha v2.0 [17.04.2020 at 09:02:10 EEST] - Integrated Steam Workshop [READY]<br></li><li>alpha v1.0 [25.02.2020 at 16:33:18 EET] - Luxocraft (upgrade from UE4.12.5 to UE4.23.0) [READY]<br></li><li>alpha v1.0 [17.07.2017 at 11:11:00 EEST] - Celestial Creator [READY]</li></ul><br>1.Free maps and items:<br><br>2.Paid maps and items:<br><br><br><strong>50% creator revenue share.</strong><br>As creator, your creator revenue split is 50% of each paid map, level, scene and item posted in the Steam Workshop.<br>50% is the percentage of revenue an item creator receives from direct sales of their item.<br>Item Creators Can Earn Royalties via Steam Workshop.<br>Items from this Workshop that are accepted for sale will pay the creators a 50% split of the revenue if that item is sold for a fee.<br><br><br>Ray Tracing support for NVIDIA 20 Series Graphics Cards [Turing RTX][Complex RT Effects][Multiple RT Effects][High Ray Count]:<br>•Titan RTX<br>•RTX 2080 Ti<br>•RTX 2080 Super<br>•RTX 2070 Super<br>•RTX 2060 Super<br>•RTX 2080<br>•RTX 2070<br>•RTX 2060<br>Ray Tracing support for NVIDIA Volta GPU Architecture Graphics Cards [Volta][Basic RT Effects][Low Ray Count]:<br>•Titan V<br>Ray Tracing support for NVIDIA 16 Series Graphics Cards [Turing][Basic RT Effects][Low Ray Count]:<br>•GeForce GTX 1660 Ti<br>•GeForce GTX 1660 Super<br>•GeForce GTX 1660<br>Ray Tracing support for NVIDIA 10 Series Graphics Cards [Pascal][Basic RT Effects][Low Ray Count]:<br>•TITAN XP (2017)<br>•TITAN X (2016)<br>•GeForce GTX 1080 Ti<br>•GeForce GTX 1080<br>•GeForce GTX 1070 Ti<br>•GeForce GTX 1070<br>•GeForce GTX 1060 6GB<br>NVIDIA graphics driver v425.31 [11.Apr.2019] - the minimum, supporting for DirectX Raytracing (DXR) technology<br><br>Luxocraft is an updated and modified version of the original Celestial Creator (released on 17.07.2017) game, but with some changed, new features and most important - support of the Ray Tracing Technology - &quot;The Magic Rays&quot; or &quot;The Gods Rays&quot;.<br>Almost all materials have visual identity (thumbnails) and names to the UE4 Editor materials for easy recognizing from UE4 users community.<br>However, if you change only one from many customization parameters with one or two clicks, you can create completely new, unique and custom material and looks.<br>Grow your creativity and innovations with one click.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666930/header.jpg?t=1600063663",
+    "developers": [
+      "Angel T"
+    ],
+    "publishers": [
+      "Angel T"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Free Workshops Item",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/610621d8461f9e131bb433787aa86f8d51204422.jpg"
+        },
+        {
+          "name": "Paid Workshops Item",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/8b9a6eb187b20ff5d5c73df40e98f03693e841f4.jpg"
+        },
+        {
+          "name": "Blocks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/0e3654370eede03ccd049d6c7c401b602bfbab78.jpg"
+        },
+        {
+          "name": "Group Blocks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/1c36093d7a08fb21c6e1113a69c90653fd417cd2.jpg"
+        },
+        {
+          "name": "Unique Materials",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/202b05bf4e672c7c272474a7be2aea79a619f35e.jpg"
+        },
+        {
+          "name": "Variation Materials",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/000c51c9314c482eabe76d90c3c9bd1ea868d83f.jpg"
+        },
+        {
+          "name": "Starter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/666930/f02372828d8df7e061293d98defa027293156d82.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

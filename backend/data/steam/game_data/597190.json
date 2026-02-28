@@ -1,0 +1,109 @@
+{
+  "597190": {
+    "name": "Lunaform",
+    "steam_appid": 597190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Lunaform is a puzzle arcade game like breakout, but instead of destroying all of the blocks your trying to fill them up. Swap the hexes just in time to catch stars of the same color, and fill up the grid to complete the level. Sounds easy at first, but later on increasingly complex star patterns emerge, and the hex grid gets larger as you work on harder planets. Your goal is to finish constructing the solar system by building each planet, accomplished by beating each level. <br><ul class=\"bb_ul\"><li>36 levels<br></li><li>6 upgrades<br></li><li>5 planets, 1 hidden<br></li><li>2-3 hours of gameplay<br></li><li>Windows/Mac/Linux works well with touch screens</li></ul><br>Mechanics, Hexes, and Stars:<br><ul class=\"bb_ul\"><li>Click to swap hexes and catch stars of the same color and fill them up. Hexes need 3 hits to be filled, and 5 to be destroyed.<br></li><li>Click and hold to speed up all of the stars<br></li><li>Bumper Hexes change the direction of stars to get hard to reach hexes, or divert opposite color stars<br></li><li>Locked Hexes create a challenge by letting the player find ways to fill them without swapping them directly<br></li><li>Core Hex is a hex that must be protected, if it gets destroyed then your planet forming fails<br></li><li>Bigger grids with multiple colors, where some hexes must be destroyed, and some must be filled. The challenge comes from what you choose to destroy, as it changes your position and what you are vulnerable to<br></li><li>Normal Stars fill a matching color hex by 1, or damage an opposite hex by 1<br></li><li>Nova Stars explode in a radius to fill or damage multiple hexes by 1<br></li><li>Suns has 2 normal stars rotating around it, fills a matching color hex by 2, or damages an opposite hex by 2<br></li><li>Arc Stars move in an unpredictable arc filling or damaging hexes by 1</li></ul><br>Upgrades:<br><ul class=\"bb_ul\"><li>Time Stop - Stops all star movements, to give you a few seconds to swap hexes freely<br></li><li>Shield - Puts up a barrier around hexes to prevent them from being damaged by the opposite colored stars<br></li><li>Shield Swap - Whenever you swap two of the hexes, it shields them both for a small amount of time<br></li><li>Star Barrier - Produces a moving barrier that changes the color of the stars<br></li><li>Hex Splash - When a hex is full, if it gets hit by the same color stars it will begin to fill adjacent hexes<br></li><li>Star Sweeper - Clears all the stars on the screen</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597190/header.jpg?t=1508437189",
+    "developers": [
+      "Chronobit Studios"
+    ],
+    "publishers": [
+      "Chronobit Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Ready to Build",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/f9d33022e1606ae5544169ad54c208d598727f38.jpg"
+        },
+        {
+          "name": "Centauri",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/13eb528bdc7c5ff7107d13694b8f1660886f22c3.jpg"
+        },
+        {
+          "name": "Nymph",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/13289c7a07eaa750606e54c6797f93f6e0ee6497.jpg"
+        },
+        {
+          "name": "Coran",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/048c419a88b73e785c15b9989b97be0f84b7a8f0.jpg"
+        },
+        {
+          "name": "Slyph",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/62b81377242142d861c10f2e39cf32202b797e68.jpg"
+        },
+        {
+          "name": "Luna",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/0f31891ab20fa7c5cbd9325b21ce680afa00f29f.jpg"
+        },
+        {
+          "name": "Blackhole",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/a73a8d40a3b4de8fc74974722d89f2f9f16cdbad.jpg"
+        },
+        {
+          "name": "Shield Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/bb26fff0d4d9d487bd8587d460018e24a2036c56.jpg"
+        },
+        {
+          "name": "Hex Pusher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/aa32b50df69ba8e4c582c8e14ee17c27c3bde257.jpg"
+        },
+        {
+          "name": "Shield Prodigy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/597190/c21535d39a3792df09ca28c5f9d759040e4c70b1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

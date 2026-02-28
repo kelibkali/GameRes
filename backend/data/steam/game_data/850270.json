@@ -1,0 +1,65 @@
+{
+  "850270": {
+    "name": "Kaleido Chaos",
+    "steam_appid": 850270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Kaleido Chaos</strong> 是一款通过训练来提高人的专注力和反应力的游戏。玩家需要通过控制Kaleid Cube击中正确的球来得分，避开错误的球避免失分。<br>（当Kaleido Cube处于“+”——加号状态时，需要击中具有正值的Colorvalue的球才能得分，同时避免碰到负值Colorvalue的球以免失分；当Kaleido Cube处于“-”——负号状态时，需要击中具有负值的Colorvalue的球才能得分，同时避免碰到正值Colorvalue的球以免失分；按左ctrl键或者鼠标左键可以切换Kaleido Cube的正负号）。<br><br><strong>注意：</strong><br><ul class=\"bb_ul\"><li><strong>玩家可能在刚接触这个游戏时有点难以把握游戏的要诀，请下载本页面右边的游戏手册，它能帮助玩家更快更容易地把握游戏的细节和规则！</strong></li></ul><ul class=\"bb_ul\"><li><strong>全球排名和排行榜只对INFINITE（无限模式）和FUNNYLUCK（欢乐模式）两种模式有效！如果玩家需要实现游戏记录回顾，以及全球排名，请使用FUNNYLUCK和INFINITE两种游戏模式。</strong></li></ul><ul class=\"bb_ul\"><li><strong>1 Colors Mode 游戏模式是用来帮助玩家更快地掌握游戏的规则，但并不能体现游戏的真正乐趣。请尝试一下FUNNYLUCK和INFINITE下的多颜色模式（3 Colors Mode, 5 Colors Mode 和 7 Colors Mode），这有助于各位玩家体现Kaleido Chaos 的真正乐趣！</strong><br></li><li></li></ul><br><strong>游戏细节：</strong><br><ul class=\"bb_ul\"><li>Kaleido Cube和Kaleido Balls 会随着游戏时间的增长而运动得越来越快，相应地，游戏也会随游戏时间而变得困难。</li></ul><ul class=\"bb_ul\"><li>当Kaleido Cube处于“+”——加号状态时，需要击中具有正值的Colorvalue的球才能得分，同时避免碰到负值Colorvalue的球以免失分。</li></ul><ul class=\"bb_ul\"><li>当Kaleido Cube处于“-”——负号状态时，需要击中具有负值的Colorvalue的球才能得分，同时避免碰到正值Colorvalue的球以免失分；按左ctrl键或者鼠标左键可以切换Kaleido Cube的正负号。</li></ul><ul class=\"bb_ul\"><li>当游戏左下角的倒计时变为0时，Colorvalue会发生随机变化。</li></ul><ul class=\"bb_ul\"><li>在FUNNYLUCK欢乐模式中，将会出现魔法物品。</li></ul><br><strong>操作指南</strong><br><ul class=\"bb_ul\"><li>按WASD或↑↓←→键可以改变Kaleido Cube 的行进方向。</li></ul><ul class=\"bb_ul\"><li>按左Ctrl键或鼠标左键可以切换Kaleido Cube的正负号（“+”和“-”）。</li></ul><br><strong>主要特征：</strong><br><ul class=\"bb_ul\"><li>两种主要游戏模式：无限模式（INFINITE）和欢乐模式（FUNNYLUCK）。</li></ul><ul class=\"bb_ul\"><li>四种次级游戏模式：1 Color Mode, 3 Colors Mode, 5 Colors Mode and 7 Colors Mode(游戏难度随着颜色的增加而增加)。</li></ul><ul class=\"bb_ul\"><li>包含9个等级的挑战模式。</li></ul><ul class=\"bb_ul\"><li>对于INFINITE和FUNNYLUCK模式，有记录回顾和全球排名功能。</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850270/header.jpg?t=1535598497",
+    "developers": [
+      "Weiqiang Ou"
+    ],
+    "publishers": [
+      "Weiqiang Ou"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

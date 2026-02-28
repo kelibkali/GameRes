@@ -1,0 +1,121 @@
+{
+  "269270": {
+    "name": "LOVE",
+    "steam_appid": 269270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Love is a reductive platforming game with a retro aesthetic and a focus on a challenging difficulty. It has an custom respawn system, 16 levels, 12 track soundtrack, competitive scoring, and a simple-to-use level creation feature. <br><br>The challenging levels are balanced with the inclusion of a simple yet unique respawn system wherein the player can leave a checkpoint at any location at any point, as long as they are on solid ground. Players have a number of gameplay modes to choose from, whether they want it easy, normal, or they want to try their hand at a mode designed specifically for Speed Running.<br><br>Beyond the visual aesthetic, the challenging level design, and the abundance of features, there is the fantastic soundtrack composed by James Bennett, which brings the simple 3-color atmospheres to life. <br><br>Features<br><ul class=\"bb_ul\"><li>16 Levels <br></li><li>7-Level Remix Mode<br></li><li>Online Leaderboards <br></li><li>Speedrun Mode for intense competition<br></li><li>19 Achievements<br></li><li>Multi-faceted scoring system for competitive play <br></li><li>Unique Respawn Mechanic <br></li><li>Xinput-based Gamepad Support <br></li><li>Level Editor <br></li><li>Extra 10 Level Remix Campaign, with Source Files*</li></ul><br>*Only available on Windows",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 丹麦语, 荷兰语, 葡萄牙语 - 葡萄牙, 俄语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269270/header.jpg?t=1604288906",
+    "developers": [
+      "Fred Wood"
+    ],
+    "publishers": [
+      "Fred Wood"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 2 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "Bouncer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/793b29a49112a0b034940d23d0d3af185eda6def.jpg"
+        },
+        {
+          "name": "Shorcut Taker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/f4e0bde7aae84b083155458837bc8a7aaa9abe59.jpg"
+        },
+        {
+          "name": "YOLNHNNT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/9a32d55619c5ac50e467d16463a7ad332926819e.jpg"
+        },
+        {
+          "name": "YOLO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/e5f5cee2895a1ad59315cf6484f09d0210f09a59.jpg"
+        },
+        {
+          "name": "Game Cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/e233c4e07adee785a5dffd29ede1caaa6aaf87f7.jpg"
+        },
+        {
+          "name": "What Are You Doing Up There?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/a51ced03d451fb39bb4e9c48f18d0df37e273350.jpg"
+        },
+        {
+          "name": "The Direct Approach",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/de0c949b8bcbedf2f20ddfea953b501326047631.jpg"
+        },
+        {
+          "name": "Not a Drop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/1219fd739c17f9b9ee2bad141d538c3a41a2f141.jpg"
+        },
+        {
+          "name": "The High Road",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/ee1541b7128717d603fd24a006c889cbbb20158b.jpg"
+        },
+        {
+          "name": "The Low Road",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269270/3d1e6352b852b8223a074443e8d197a38f7f9bad.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 26,
+      "total_negative": 2,
+      "total_reviews": 28
+    }
+  }
+}

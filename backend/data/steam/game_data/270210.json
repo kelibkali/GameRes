@@ -1,0 +1,105 @@
+{
+  "270210": {
+    "name": "Melody's Escape",
+    "steam_appid": 270210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Run, jump and slide to the <strong>rhythm</strong> of <strong>your own music library</strong>!<br><br>In Melody's Escape, advanced audio detection algorithms transcribe the energy that you feel when listening to music into a synchronized gameplay experience, with a captivating and dynamic obstacle course. The game will adapt in real-time to the intensity of your music and change the movement mode accordingly, from walking during very calm parts up to all-out flying when your music explodes!<br><br>Your goal is the help Melody avoid obstacles and collect floating light orbs, all of which are synced to the beats of your music of choice thanks to <strong>very accurate beat detection</strong>. With the 4 available difficulty modes, you can choose whether to have a <strong>relaxing </strong>experience or a very <strong>intense</strong> one.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270210/header.jpg?t=1669064914",
+    "developers": [
+      "Icetesy"
+    ],
+    "publishers": [
+      "Icetesy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 5 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Warming Up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/be6d7f21fd94a876e176ef8d3324803c9a37f154.jpg"
+        },
+        {
+          "name": "Runner's High",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/759b8bd16014708a83c859e3bd9849cc4406ee8a.jpg"
+        },
+        {
+          "name": "Self-Actualizer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/aa4d14c890141ff33a464af551b42c1ce76652f9.jpg"
+        },
+        {
+          "name": "Transcendence",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/2834188667525ab31772abf01c0c2ccb0e72b028.jpg"
+        },
+        {
+          "name": "A First Taste of Escape",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/d4011a6b88a9a98110bc66dfddca83b977683b2f.jpg"
+        },
+        {
+          "name": "Escape Artist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/3e7dd185d28cb2f023090dca0dbd96a71a73aa54.jpg"
+        },
+        {
+          "name": "Lucid Dreamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/7fa262740e75f931e7ebbf38602173d8c694fa24.jpg"
+        },
+        {
+          "name": "Synesthesia",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/270210/a68fc27e282975583db6830e5b2975c710efe993.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 811,
+      "total_negative": 49,
+      "total_reviews": 860
+    }
+  }
+}

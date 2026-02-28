@@ -1,0 +1,94 @@
+{
+  "1021770": {
+    "name": "丸霸无双",
+    "steam_appid": 1021770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于手柄：</h2>强烈建议使用手柄进行游戏，键鼠也能用，但请使劲儿做好心里准备。<br>如遇手柄适配问题，请尝试steam的设置中对控制器进行设置。<br>游戏默认支持“xbox模组”和“ps模组”的手柄，大众品牌如“北通”都原生具备“xbox模组”。<br>购买游戏前可下载 demo 版本进行手柄测试。<h2 class=\"bb_tag\" >关于联机：</h2>由于联机采用了 Steam P2P 来实现，朋友联机时，如果宽带运营商不太合适，可能会无法建立链接。<br>目前最最最有效的方法是使用加速器。作者亲测了“奇游电竞加速器  ” 效果不错。（价钱也相对高一些。）<br>不额外花钱的办法，可以用 teamviewer 或者其他虚拟局域网的软件，能提高P2P联机成功率，但是就需要研究研究学习学习折腾折腾了。<h2 class=\"bb_tag\" >关于我们</h2><strong>B站/抖音/微博：</strong>丸霸于大进BigYu（使劲关注！）<br><strong>欢迎加入qq群：</strong>36630272，36880789<h2 class=\"bb_tag\" >游戏简介：</h2>《丸霸无双》是一款简陋粗犷的，操作奇特的，抽象古风对打游戏。<br>背景设定在一个存在超自然力量的冷兵器古代，一群来自五湖四海，异于常人身怀绝技的丸霸在江湖上各显神通。<br><br>在《丸霸无双》中，可以选择多样的角色，和朋友或ai对战，不断的掌握战术和技巧，获得奇怪的游戏体验。<br><br>每场战斗快速而轻松，在命中对手时，会感到非常快乐，被对手命中时，也不难受。<h2 class=\"bb_tag\" >游戏特色：</h2> - 本地、联机对战，碾压对手。<br> - 抽象的角色形象，富有灵魂的面部表情。<br> - 一种全新的，基于物理的游戏形式，使用一个摇杆和两个按键进行操作，<br> - 多个可选角色，能力各异，性格多样，打法不同。<br> - 避免患上腱鞘炎的角色体力设定，提高手柄使用寿命。<br> - 抡的越狠，伤害越高，拳拳到肉，咔咔冒水。<br> - 很不友好的血条和计时器。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong>, 繁体中文<strong>*</strong>, 俄语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 丹麦语<strong>*</strong>, 乌克兰语<strong>*</strong>, 保加利亚语<strong>*</strong>, 匈牙利语<strong>*</strong>, 印度尼西亚语<strong>*</strong>, 土耳其语<strong>*</strong>, 希腊语<strong>*</strong>, 挪威语<strong>*</strong>, 捷克语<strong>*</strong>, 波兰语<strong>*</strong>, 泰语<strong>*</strong>, 瑞典语<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 芬兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 越南语<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021770/header.jpg?t=1747108561",
+    "developers": [
+      "Wanba Studio"
+    ],
+    "publishers": [
+      "Wanba Studio",
+      "Wave Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 2000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 20.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 1776,
+      "total_negative": 192,
+      "total_reviews": 1968
+    }
+  }
+}

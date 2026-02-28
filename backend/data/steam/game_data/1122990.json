@@ -1,0 +1,41 @@
+{
+  "1122990": {
+    "name": "PartyLAN",
+    "steam_appid": 1122990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PartyLAN is a tool for playing LAN games over the Steam Network.<br>It is designed to be easy to use and work with any game that supports LAN play.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> No frills interface - just the bare minimum for playing LAN games with your friends<br></li><li> No restarts required - unlike many overlay network solutions, PartyLAN does not require you to restart your computer</li></ul><h2 class=\"bb_tag\" >Usage</h2><br>1. Download PartyLAN from Steam.<br>2. Launch PartyLAN.<br>3. Ensure all players have PartyLAN installed and running. PartyLAN icon should be visible in the system tray.<br>4. For the host, open the game and start as a LAN game host as normal.<br>5. For the clients, click the system tray icon , select the host in the &quot;Online Friends&quot; menu, an IP address should be copied to the clipboard.<br>6. For the clients, open the game and connect to the host using the IP address from the clipboard.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122990/header.jpg?t=1689104410",
+    "developers": [
+      "Yifan Gu"
+    ],
+    "publishers": [
+      "Yifan Gu"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

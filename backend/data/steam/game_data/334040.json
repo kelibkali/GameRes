@@ -1,0 +1,77 @@
+{
+  "334040": {
+    "name": "Down To One",
+    "steam_appid": 334040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Down to One is a competitive survival shooter in a large, interactive, open-world environment. Start out with nothing, and use anything you can find in the environment to survive, and eliminate other competitors over the course of a brutal round. Play solo and roam through the ruins of an abandoned militarized area, or host your own server to compete with other players.<br><br><strong>Core Features:</strong><br><br><ul class=\"bb_ul\"><li>    Realistic Bullet Physics: With physics values from real-world guns, bullet drop, and dynamic bullet penetration, ranged combat has never felt so good.<br></li><li>    Dynamic Looting: Everyone loves looting. With custom loot spawning mechanics, you'll find things where they should be.<br></li><li>    Customization: Play how you want to - take perks that let you knock players weapons out of their hands, play dead to confuse your opponents, and much more. <br></li><li>    Built For Performance: With support for 4K resolution, 64bit-only systems and DX11, your hardware won't get bored easily. <br></li><li>    Advanced 'Netcode': Our networking system dynamically changes network update rates - 'tickrate' - as the player count decreases throughout a round. <br></li><li>    Dedicated Servers: Don't settle for games hosted on someone's dial-up. Our high performance dedicated servers will make multiplayer feel like you're at a LAN. <br></li><li>    Immersive Interaction: Interact with anything you find in the environment with &amp; use it to your advantage. <br></li><li>    Full Body Character: It's hard to have an immersive experience as a floating pair of hands. In Down To One, what you see is what you get.<br></li><li>    Improved Anticheat: With a custom anticheat system, and authoritative networking features, we're aiming to tackle cheating head-on.<br></li><li>    Responsive Input: Raw input sampling and competitively calibrated sensitivity. If you miss, it's not our fault. <br></li><li>    Esports Support: With support for LAN play, custom server rules, and private servers, we're putting the competition into survival.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334040/header.jpg?t=1696714961",
+    "developers": [
+      "Gadget Games"
+    ],
+    "publishers": [
+      "My Way Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 1 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 11,
+      "total_negative": 29,
+      "total_reviews": 40
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "1213770": {
+    "name": "Blastboard",
+    "steam_appid": 1213770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Blastboard is a billiards-like puzzle game.<br><br>Use your mouse to shoot the white cue ball and clear all other balls from the table. <br>In addition to dropping the balls into pockets, you can erase them by making two or more of the same color touch.<br><br>Blastboard has a PvP mode where 2 to 6 players can play together. Both online play and local play using a single mouse are available.<h2 class=\"bb_tag\" >Game Modes</h2><br><strong>“Minimal”</strong><br>A game mode where players compete to clear tables in the smallest number of shots.<br>The mode is designed primarily with solo play in mind, but it's also available in multiplayer.<br><br><strong>“Point Ball”</strong><br>A PvP-only game mode. Players alternate turns every shot and compete for points by clearing balls from the table. After all tables are cleared, the player with the highest score wins.<h2 class=\"bb_tag\" >Types of Balls</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213770/extras/0e8cb4462455fbbf015be144cf6ce48a.webp?t=1740230406\" width=600 height=60 /></span><br><strong>Color Ball</strong><br>Begins to glow when struck by another ball of the same color. Glowing balls vanish after they’ve stopped moving.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213770/extras/893bff64ca1a854ae421948ef1d656c1.poster.avif?t=1740230406\" width=200 height=74 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213770/extras/893bff64ca1a854ae421948ef1d656c1.webm?t=1740230406\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213770/extras/893bff64ca1a854ae421948ef1d656c1.mp4?t=1740230406\" type=\"video/mp4\"></video></span><br><strong>Ice Ball</strong><br>Begins to glow when struck by a ball that’s already glowing.<br><br><strong>Thunder Ball</strong><br>When struck by another ball, all balls of the same color as the ball that struck it and the Thunder Ball itself vanish.<br><br><strong>Eight Ball</strong><br>Only appears in Point Ball mode. Eight Balls are worth eight points, but they become heavier in proportion to the number of balls left.<h2 class=\"bb_tag\" >Other Features</h2><br><ul class=\"bb_ul\"><li>Tables (levels) are randomly generated.<br></li><li>You can retry the same table sets by specifying seed values (Regular Mode only.)<br></li><li>The velocity deceleration behavior of the balls is derived from analysis of real billiard balls in motion.<br></li><li>Color assist mode is available.</li></ul><br>Note: you can also play local PvP via Remote Play Together, but it’s not recommended due to difficulties regarding shared mouse operation.",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213770/header.jpg?t=1740230406",
+    "developers": [
+      "Enigmatic Network"
+    ],
+    "publishers": [
+      "Enigmatic Network"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Gold Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/f6daafcd5dbdb7c6a8e4cbe3929aec4613951077.jpg"
+        },
+        {
+          "name": "Silver Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/7ff120f304a2559acc99361ec4fc1823a782ea60.jpg"
+        },
+        {
+          "name": "Bronze Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/46950939c20dc7e48428be2dbda4f4b1074d0458.jpg"
+        },
+        {
+          "name": "Regular Customer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/5f0b01c2ea56af8226130cbec84b91e418d753cc.jpg"
+        },
+        {
+          "name": "Professional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/ddd809ddbc00effa1dfbca3aebabcc7547e484e1.jpg"
+        },
+        {
+          "name": "Freerun Lover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/678240f0a44595f2f1acd68d469b9ff7c8ec7b59.jpg"
+        },
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213770/242c47bdb37977fd3a015ce0c9e21c499bff39f2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

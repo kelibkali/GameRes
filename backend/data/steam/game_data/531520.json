@@ -1,0 +1,69 @@
+{
+  "531520": {
+    "name": "TankCraft",
+    "steam_appid": 531520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "TankCraft是一个基于角斗士式坦克战斗的动作游戏，但是技能本身不足以在这里取得成功，TankCraft的独特之处在于玩家制作自己的坦克，但他们选择对形状，大小或设计没有限制。战斗分为6个类别;羽毛，轻，中，重，超重和泰坦（无限）和任何坦克在该类的重量限制下可以竞争。<br />\r\n<br />\r\n因为每个坦克都是独一无二的，所以是最好的战斗方式。有多种方法可以打败你的对手，你可以通过销毁他们的武器或存储的弹药来摧毁你的对手的能力，你可以通过摧毁他们的引擎制造任何固定的枪，他们可能没用或你可以直接瞄准心脏和毁灭他们的控制中心立即击败他们，选择是你的。<br />\r\n<br />\r\n在Unity中开发<br />\r\n<br />\r\n特征<br />\r\n- 最大坦克尺寸20x20<br />\r\n-30不同的瓷砖来建造你的坦克<br />\r\n-60预制坦克/等级战斗<br />\r\n- 每个瓷砖都有自己的hp允许每个瓷砖单独吹出一个坦克<br />\r\n- 克服和击败敌人，没有完全摧毁他们，只留下一个破坏不能操作的残骸<br />\r\n- 共9个翻译;英语，法语，德语，西班牙语，意大利语，俄语，中文（简体），日语和韩语",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531520/header.jpg?t=1569172553",
+    "developers": [
+      "Snowdon Games"
+    ],
+    "publishers": [
+      "Snowdon Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

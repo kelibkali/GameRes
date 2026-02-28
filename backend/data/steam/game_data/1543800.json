@@ -1,0 +1,58 @@
+{
+  "1543800": {
+    "name": "Eminus",
+    "steam_appid": 1543800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is <strong>Eminus</strong>. <br>A <strong>Tactical FPS</strong> shooter made for people who love <strong>realistic military shooter games</strong>. I am working hard to bring you the best shooting &amp; combat mechanics, along with an amazing story. Gear up, and get ready to prove yourself in battle!<br>PS. This is a difficult game. Don't run and gun.<br><br><strong>Implemented Features: </strong><br><br><ul class=\"bb_ul\"><li>    5 Different Guns<br></li><li>    1 Forest map with multiple objectives <br></li><li>    Save-checkpoint*<br></li><li>    Standard+ AI**<br></li><li>    Binoculars<br></li><li>    Compass<br></li><li>    Stealth mechanics***<br></li><li>    Lean left/right<br></li><li>    Pickable Ammo, Medical bags, Sniper Rifle<br></li><li>    And many small details such as: Bullet holes, bullet impact SFX etc.<br></li><li>    Graphics &amp; Sound Settings </li></ul><br><strong>Upcoming Features:</strong><br><br><ul class=\"bb_ul\"><li>     4 Large maps with multiple objectives-missions and different Biomes <br></li><li>     More pickable and usable weapons <br></li><li>     Advanced AI<br></li><li>     More character animations such as Prone(update: added), Lean(update: added), Climb, Slide etc. <br></li><li>     More gadgets such as Flashlights, NV Goggles and more <br></li><li>     Pickable Weapon attachments <br></li><li>     Easter Eggs <br></li><li>     Drivable Quadbike<br></li><li>     Possibly Co-op mod <br></li><li>     And a well written story with plot twists that you won't expect. </li></ul><br>* After completing the second objective (use of the enemy radio), the game will save your location, killed enemy status &amp; whether you have picked up the sniper or not. More detailed savegames will come in the future(ammo count, picked up items etc).<br>**Advanced AI: The AI is constantly getting better and it has a long way to become fully advanced. Right know it will see you, hear you, chase you, go crouch sometimes and sneak around to find you, if not it will rust straight to the location you were last seen. If you are still around the corner it will open fire again. If you are gone from that location, the AI will go back to its business.<br>***Using a pistol will reduce the noise you make by about 80%. The same goes for crouch walking and aim walking. You can hide in the bushes and be invisible to the enemy for as long as you stay crouched, and the AI is not very close to you. You can perform stealth takedowns by sneaking up behind the enemy and then press &quot;G&quot;. The enemy doesn't always know your position when you alert it. So if you get spotted run back and change your position as soon as possible.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543800/header.jpg?t=1617394807",
+    "developers": [
+      "LamdaProjects"
+    ],
+    "publishers": [
+      "LamdaProjects"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

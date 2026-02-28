@@ -1,0 +1,37 @@
+{
+  "1512210": {
+    "name": "Ultra App Kit",
+    "steam_appid": 1512210,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Built to power a new generation of game development tools, Ultra App Kit provides an easy-to-use C++ programming SDK for creating cross-platform desktop GUI applications. Learn from extensive documentation with hundreds of examples. Integrate a 3D engine or OpenGL rendering for embedded 3D graphics.<h2 class=\"bb_tag\" >Make it Snappy</h2>Unlike other alternatives like ImGui, Ultra App Kit draws using <i>retained mode</i> instead of <i>immediate mode</i>. This makes resizing windows and interacting with screen elements fast and responsive, even with the most complex interfaces.<h2 class=\"bb_tag\" >Pixel-Perfect Pixels on any Screen</h2>DPI scaling is baked into the core of our design, for a beautiful clean appearance at any resolution.<h2 class=\"bb_tag\" >Small and Efficient</h2>Ultra App Kit runs with no extra dependencies and produces tiny executables (usually less than one megabyte after UPX compression) that start up and exit instantly.<h2 class=\"bb_tag\" >Code Once, Compile Everywhere</h2>Ultra App Kit now supports Windows, Linux, and macOS, so you can build beautiful applications that run everywhere and include native support for Apple Silicon.<h2 class=\"bb_tag\" >API Design</h2><ul class=\"bb_ul\"><li>Smart pointers everywhere makes C++ programming about as easy as C#<br></li><li>Extensible widgets system<br></li><li>Extensive documentation with examples for each command</li></ul><h2 class=\"bb_tag\" >UI Features</h2><ul class=\"bb_ul\"><li>Resolution-independent for any DPI scale<br></li><li>Load SVG vector images<br></li><li>Set widget icons<br></li><li>Change mouse cursor<br></li><li>Custom color schemes stored in JSON files</li></ul><h2 class=\"bb_tag\" >Supported Widgets</h2><ul class=\"bb_ul\"><li>Label<br></li><li>Button (push, checkbox, radio, and toggle styles)<br></li><li>ProgressBar<br></li><li>TextField<br></li><li>TextArea<br></li><li>ComboBox<br></li><li>ListBox<br></li><li>Slider (scrollbar, trackbar, and stepper styles)<br></li><li>Draggable multi-select TreeView<br></li><li>Create your own custom widgets</li></ul><h2 class=\"bb_tag\" >Additional Features</h2><ul class=\"bb_ul\"><li>File I/O<br></li><li>File system watcher<br></li><li>Memory allocation and management<br></li><li>Image loading, saving, processing<br></li><li>Plugin system<br></li><li>Thread management<br></li><li>String manipulation (split, search, conversion, etc.)<br></li><li>Message boxes and file / folder requester</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/header.jpg?t=1750191811",
+    "developers": [
+      "Leadwerks Software"
+    ],
+    "publishers": [
+      "Leadwerks Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 30 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

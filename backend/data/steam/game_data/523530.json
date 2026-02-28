@@ -1,0 +1,77 @@
+{
+  "523530": {
+    "name": "Yu-Gi-Oh! ARC-V: ARC League Championship",
+    "steam_appid": 523530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Play 2 pre-constructed decks, Prediction Princess Deck and Igknight Deck. Includes additional duels in Yu-Gi-Oh! ARC-V Campaign and Challenge Mode.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523530/header.jpg?t=1737504313",
+    "developers": [
+      "Other Ocean Interactive"
+    ],
+    "publishers": [
+      "KONAMI"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "211500": {
+    "name": "RaceRoom Racing Experience",
+    "steam_appid": 211500,
+    "required_age": 0,
+    "is_free": true,
+    "description": "RaceRoom 可免费下载，并基于与 KW Automotive、真实车队和职业车手合作开发的高精度车辆物理系统。每辆赛车都经过精细重现，力求还原其真实操控、轮胎反馈和动力传动的感觉，声音也直接取自真实车辆的录音。<br><br>在每年检查和更新的高精度赛道上驾驶。体验最新、最精确的激光扫描版纽博格林北环，包括最新路缘石以及赛道的最新改动。<br><br>RaceRoom 为所有水平和各种设备配置提供支持，拥有驾驶辅助、VR 支持、三屏显示、内置 FOV 计算器以及丰富的控制选项。您还可以在购买前直接在商店页面试驾任何赛车。<h2 class=\"bb_tag\" >排位与竞技模式</h2><br><ul class=\"bb_ul\"><li><strong>Ranked Multiplayer</strong><br>结构化的在线环境，包含预定赛程、安全评级、车手进阶、短程赛和耐力赛等内容。<br><br></li><li><strong>Time Attack 与全球排行榜</strong><br>刷新最佳圈速，追逐其他玩家的 ghost，通过定期活动攀升全球排名。<br><br></li><li><strong>每周免费组合</strong><br>每周都会提供一套新的免费“车辆 + 赛道”组合，可在所有模式中体验，包括多人模式和 time attack。</li></ul><h2 class=\"bb_tag\" >打造属于你的车库</h2><br><ul class=\"bb_ul\"><li><strong>真实授权的车辆阵容</strong><br>驾驶官方授权的房车、GT3、原型车与单一品牌系列赛车，皆由真实车队与车手参与开发。<br><br></li><li><strong>鲜活的赛道</strong><br>赛道会定期更新，以反映现实中布局、路缘、缓冲区与高度变化等的最新调整。<br><br></li><li><strong>购买前试驾</strong><br>在购买前，您可以在自己拥有的任何赛道上试驾商店页面中的任何赛车。</li></ul><h2 class=\"bb_tag\" >辅助与工具</h2><br><ul class=\"bb_ul\"><li><strong>适合所有水平的驾驶辅助</strong><br>Novice、Amateur 和 Get Real 模式让各类玩家轻松找到适合自己的难度，无论使用方向盘、手柄还是键盘。<br><br></li><li><strong>VR 与三屏支持</strong><br>体验完整的 VR 渲染和真正的三屏投影，沉浸式驾驶效果更进一步。<br><br></li><li><strong>内置 FOV 与视角工具</strong><br>使用内置工具和视觉辅助轻松调整驾驶位置和视野角度。</li></ul><h2 class=\"bb_tag\" >持续进化</h2><br>RaceRoom 持续发展，新增赛车、赛道、物理更新、竞技活动，并根据 simracing 社区的反馈不断改进。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 意大利语, 西班牙语 - 西班牙<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/211500/012ec96f1060dc6dc2cfa123ad073ba41c3bd6fa/header.jpg?t=1764085909",
+    "developers": [
+      "KW Studios"
+    ],
+    "publishers": [
+      "KW Studios",
+      "RaceRoom Entertainment AG"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 26,
+      "total_negative": 5,
+      "total_reviews": 31
+    }
+  }
+}

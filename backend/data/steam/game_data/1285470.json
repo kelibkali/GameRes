@@ -1,0 +1,62 @@
+{
+  "1285470": {
+    "name": "Advanced creator of labyrinths Demo",
+    "steam_appid": 1285470,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Advanced creator of labyrinth Demo can generate endless amount of 3d mazes. You will have a lot of fun exploring them. This version of the game creates labyrinths that are clearly visible and you can see and plan part of the way.<br />\r\n<br />\r\nThe maze is built and works according to certain rules:<br />\r\n    • stairs between floors can be installed in 9 places<br />\r\n    • the maze is divided into stages that are gradually becoming more complicated<br />\r\n    • To go through the stage, you need to activate the key and find the stairs to the next stage<br />\r\n    • until you have completed all the tasks of the current stage, the tasks of the next stage are inactive.<br />\r\n    • each visited maze cell changes color to yellow.<br />\r\n<br />\r\nThe game does not contain 3d models, they are all created from nothing at level generation. For its engine, this is an experimental function, you can rarely see it in commercial projects. The consequence of this, for example, is that the game archive takes up only 20 megabytes. If in the game you press the backspace key, you will see how many nodes and triangles are used in this maze and how many objects they are combined.<br />\r\nThis game is fully developed by one person in half a year. I am not a programmer and was completely unfamiliar with either the Unity3D engine or the C# programming language and was engaged in development only in my free time.<br />\r\nI plan to add many ideas to this project, including new 3D structures, jump puzzles, and active obstacles.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285470/header.jpg?t=1588384713",
+    "developers": [
+      "Gennady Zatsepin"
+    ],
+    "publishers": [
+      "Gennady Zatsepin"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

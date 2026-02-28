@@ -1,0 +1,61 @@
+{
+  "1578020": {
+    "name": "Rat Race",
+    "steam_appid": 1578020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Overview</h2><br>Take part in one of the most important rat experiments of our time. No, we are not just blowing them up for fun, this is actual science! In Rat Race you control one rat for its remaining life span, attempting to navigate it through a hellish maze of sequenced explosions and lasers. While we have plenty of subjects to spare, try to avoid wasting them* Lead your kind as they scuttle and scurry their way through increasingly difficult explosion patterns, on a journey to discover the purpose behind this madness.<br><br>Rat Race includes a built-in level editor for creating/sharing your own levels and campaigns. Our game is directly inspired by the UMS &quot;Bound&quot; maps from a popular sci-fi RTS game in the late 90s. A veteran mapmaker and long-time player within the space designed most of our included levels. This current iteration is the beginning of our vision for a modern Bound game. We are in the process of expanding our art assets and have already implemented basic online play behind the scenes. We plan to create an online elimination game mode code-named S.Q.U.E.A.K. where players create, beat, and then send a map to their competition to beat.<br><br>The main motivation behind making this game is to foster a space where players can create and share a wide variety of maps. Additionally, we want to develop this game with community input as a guiding force for what we focus on as we develop.  With the game taking place in a 3D space we are eager to introduce new mechanics that would otherwise not be possible in the original 2D implementation of this game mode.<br><br><i>*If you find yourself feeling sympathetic towards the test subjects notify a lab technician immediately</i><h2 class=\"bb_tag\" >Linux Users</h2><br>The game is a native Linux app using the Vulkan graphics API. It has most recently been tested against the following distros:<br><br>Fedora 39 + Plasma X11 KDE<br>Linux Mint 21<br><br>If you are running Linux and want to let us know how the game is performing please feel free to reach out on our Discord server or community page.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/header.jpg?t=1706919973",
+    "developers": [
+      "Sojourn Games"
+    ],
+    "publishers": [
+      "Sojourn Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

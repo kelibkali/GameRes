@@ -1,0 +1,126 @@
+{
+  "525610": {
+    "name": "Hardware Engineering",
+    "steam_appid": 525610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hardware Enginnering is a simplified digital circuit design game presenting an opportunity to dive into digital engineering with ease. The game goes from the basic logic components to those of a great complexity, so that the expertise of player who has gone through the whole game is comparable with first college levels, and yet the game requires no previous knowledge of electronic design or programming. <br><br>Every new theoretical idea is first presented to you in a tutorial and subsequently practised in the near workspace. The outputs of your design efforts are tested through a list of tasks, so that there are practically infinitely-many ways to reach the next level, although some are more optimized than others. However, the more ingenuous designs begin to be an absolute necessity when you move further in the game. <br><br>There are four game modes featured. <br>Slow-paced Tutorial and Design modes allow you to design each component they further use from the basic logic. A set of 25 (+hidden) achievements then makes your progress visible to others.<br><br>Sandbox mode gives you all components available in game with infinite workspace to create, test, debug and save whatever you want for further use or publication, and even when you run out of challenges there, there is the option of competing with other players (<i>currently in Alpha test phase</i>).<br><br>All game's components, levels and tasks are stored in a readable format to be easy to edit or create. Scripting of new components, writing new levels and tutorials as well as tests is possible using respective editors included in the game.<br><br>Please note that the game is in <strong>Alpha and ONLINE ONLY</strong>. <br>The original though was that the game would be available on all kind of devices (in various versions), and not all of them (e. g. tablets or smartphones) could bear the complexity of simulation or some other aspects of gameplay (e. g. compilation). It was a design choice made early in the development process and is currently not revertable. We are, however, planning to rewrite the code for the release from the Alpha stage.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525610/header.jpg?t=1732921818",
+    "developers": [
+      "Pb Studios"
+    ],
+    "publishers": [
+      "Pb Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 9 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "Dératiser",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/77e18fb7632dc163c9c5d9930980904ef881353a.jpg"
+        },
+        {
+          "name": "Beating the Clock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/72356f6b559d17c63471b0f84168311ef202e649.jpg"
+        },
+        {
+          "name": "The Seeds of Memories",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/6179697793e114ad9facb63c9552c92f3499f3eb.jpg"
+        },
+        {
+          "name": "Speedy Engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/44bc2a3f6977566b1f087484f1db6be1657003a2.jpg"
+        },
+        {
+          "name": "A Thoughful One",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/bb1cfb6377c23ebf4cc4bf4b7ce1eb4cb932bd9e.jpg"
+        },
+        {
+          "name": "Thinking Ain't Bad",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/a794312c4dfcdee07efd49f91193206ff10ca84e.jpg"
+        },
+        {
+          "name": "Design-Fu Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/35c40cbf3e12d7ccf732375efeb42a3fd603ce4d.jpg"
+        },
+        {
+          "name": "Soldering Burns",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/a1390379ac4bfe85b54b0169176df6cfcee9d848.jpg"
+        },
+        {
+          "name": "Getting the Hang of It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/09ffa71d1174e327cbf158fbf66ec09e3e34df46.jpg"
+        },
+        {
+          "name": "EE Senior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/525610/4e34a71c45d021589eb5435ec656c8f2a2c4cc27.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 3,
+      "total_negative": 7,
+      "total_reviews": 10
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "10": {
+    "name": "Counter-Strike",
+    "steam_appid": 10,
+    "required_age": 0,
+    "is_free": false,
+    "description": "感受世界上至酷超炫的联机对战游戏。 投入紧张刺激的反恐战争，与臭名昭著的恐怖分子展开生死对决。 团结合作，与队友一同完成不可能的任务。 冲锋陷阵，攻城拔塞。 营救人质。 团队成功离不开你的功绩。 团队成功将见证你的功绩。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 意大利语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2000 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 7262,
+      "total_negative": 436,
+      "total_reviews": 7698
+    },
+    "type": "game"
+  }
+}

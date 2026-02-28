@@ -1,0 +1,61 @@
+{
+  "999940": {
+    "name": "Standard Edition",
+    "steam_appid": 999940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "简体中文, 繁体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999940/header_schinese.jpg?t=1761921782",
+    "developers": [
+      "Xuanjin Studio"
+    ],
+    "publishers": [
+      "Xuanjin Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5900,
+      "final": 5900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 59.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

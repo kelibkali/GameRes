@@ -1,0 +1,53 @@
+{
+  "689850": {
+    "name": "DlodloVRPlayer",
+    "steam_appid": 689850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >DlodloVR Player视频播放器</h2>DlodloVR Player让你足不出户就能畅游全世界，支持所有主流格式视频播放，主流VR硬件，打造专属的VR世界，拥有定制化的体验模式，支持4K高清视频，走进一个新视界。<h2 class=\"bb_tag\" >每一帧都是精彩</h2>3D, 360视频提供超强的沉浸感，让用户体验到身临其境的电影观看体验，一旦选择了视频，除了标准的播放控制，可以调整屏幕的大小(CTRL+A, CTRL+S), 屏幕弧度(CTRL+D, CTRL+F), 屏幕上下位置(CTRL+G, CTRL+H),恢复默认设置(CTRL+R), 将空间坐标系的零姿态设置为HMD的当前位置(Z),可根据自己喜好调整出最舒适的观看角度。360全景视频使用全景播放模式，让每一帧画面在你眼前呈现出最极致的感官体验。<h2 class=\"bb_tag\" >产品特性</h2>支持 HTC Vive and OpenVR 头显使用.<br>支持键盘及鼠标控制.<br>支持 2D, 3D, 360°视频格式,适配上下， 左右等视频模式.<br>支持本地视频列表展示.<br>支持URL地址一键播放.<br>调整播放屏幕尺寸.<h2 class=\"bb_tag\" >支持视频格式</h2>.mp4, .m4v, .mp4v, .3g2, .3gp2, .3gp, .3gpp, .mpg, .mpeg, .m1v, .mp2, .mp3, .mpa, .mpe, .m3u, .asf, .wma, .wmv, .wm, .asx, .wax, .wvx, .wmx, .avi, .ivf, .mov",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689850/header.jpg?t=1511144535",
+    "developers": [
+      "DLODLO"
+    ],
+    "publishers": [
+      "DLODLO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

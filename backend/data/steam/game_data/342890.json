@@ -1,0 +1,65 @@
+{
+  "342890": {
+    "name": "Synonymy",
+    "steam_appid": 342890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Synonymy is a non-profit, educational word game narrated by Richard Dawkins where players are challenged to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in a language.<br />\r\n<br />\r\nThe game supports multiplayer, and weekly challenges in which users can compete globally on set start and end words. Every time a path is uncovered by a user, it is tweeted from @synonymygame and posted to our Facebook page. All profits go to educational charities. <br />\r\n<br />\r\nA visualization of the game's network can be seen here -- http://tinyurl.com/med6g8b -- In order to compute relative distance, all synonyms were mapped using 3d graphing software, as if each word were a planet that had a gravitational pull proportional to its number of relationships to other nodes. Above is a 2D representation of that model, a 40,000 x 40,000 rendering.<br />\r\n<br />\r\nMusic by Daduk",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/342890/header.jpg?t=1671522390",
+    "developers": [
+      "Christopher Cinq-Mars Jarvis"
+    ],
+    "publishers": [
+      "Christopher Cinq-Mars Jarvis"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 3 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "1161660": {
+    "name": "Puzzlection",
+    "steam_appid": 1161660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Puzzlection - this is an interesting and uncomplicated puzzle. Move fragments of the image into a solid picture to complete the puzzle. The game has several difficulty modes. The more complex the more fragments the picture is divided. Pictures in the game are also enough to captivate for a long time. The game has the ability to import your own image. Train your memory and play with pleasure.<br />\r\n<br />\r\nFeatures:<br />\r\n5 difficulty modes (easy, medium, advanced, hard, epic).<br />\r\n9 images of a general theme. + Ability to use your images.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161660/header.jpg?t=1570049495",
+    "developers": [
+      "MiCake"
+    ],
+    "publishers": [
+      "MiCake"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1161660/9344f5dd634136cd4b96a969f3d13f462810a681.jpg"
+        },
+        {
+          "name": "Epic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1161660/5faab1d5f9e7e8671f18410b8083831d69fdd19d.jpg"
+        },
+        {
+          "name": "Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1161660/f7e6a3013ff4ec8e9dd6d03ef13a0a061eb07000.jpg"
+        },
+        {
+          "name": "Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1161660/4d76855121e175aecbfa6cd1766d7ff113337d30.jpg"
+        },
+        {
+          "name": "Advanced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1161660/2057afd968a348d430812a024f33a20113a6fd11.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

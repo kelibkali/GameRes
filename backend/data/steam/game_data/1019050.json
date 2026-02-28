@@ -1,0 +1,129 @@
+{
+  "1019050": {
+    "name": "Primal Threat",
+    "steam_appid": 1019050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "故事：<br />\r\n一个古老的外星种族正试图摧毁世界并夺取他们的力量;地球是下一个！扮演迪恩或艾莉的角色，拿起你的武器，拯救你的星球，可能还有银河系！<br />\r\n<br />\r\n主要特点：<br />\r\n-探索由7个相互连接的区域组成的古老迷宫<br />\r\n-用6种不同的武器（原始元素）爆炸半机械人恐龙和其他危险生物<br />\r\n- 发现多达 10 种升级，帮助击败敌人并到达新区域<br />\r\n- 独自战斗或带朋友玩2人合作<br />\r\n-与11个具有挑战性的老板战斗<br />\r\n<br />\r\n开发者说明：<br />\r\n本地多人游戏注意事项：至少需要一个控制器才能进行 2 人合作游戏。 这是由于两个播放器都不能由一个键盘控制。<br />\r\n叠加说明：目前，我无法让 Steam 叠加层在此时正常工作。 我希望尽快解决这个问题。<br />\r\n文件保存说明：在测试时，我发现当我重新打开文件 1 保存时，文件 2 和文件 3 保存被删除（根据需要游戏覆盖）。所以现在，我已经删除了文件 2 和文件 3 保存，直到我可以解决这个问题。<br />\r\n<br />\r\n关于开发商：<br />\r\n你好，我叫乔丹，在业余时间创造了原始威胁。 我在一家杂货店工作，我是经理之一，所以我试着每天晚上花一两个小时来玩我的梦想游戏。 当我的儿子 Dean 于 2020 年 7 月出生时，我和妻子决定用恐龙主题装饰他的房间，我的想象力为我的下一个游戏提供了疯狂的想法。 迪恩和我的侄女艾莉是这次冒险中的两个主要角色。 我自己开发了《原始威胁》，但我的表弟克里斯蒂安创作了所有的音乐。<br />\r\n<br />\r\n我的第一场比赛是枪口装填。 我相信这是一个很棒的学习项目，但有些功能是我无法创建的，我最终能够在原始威胁中实现这些功能，例如：一张揭示性的地图、多种武器装备、本地合作以及多次升级，例如变身为一只小恐龙！<br />\r\n<br />\r\n原始威胁是一个简短但真实的银河战士，需要升级才能克服老板、敌人和障碍。 敌人的设计灵感来自刺猬索尼克的敌人。 关卡设计深受银河战士和Axiom Verge的射击/武器更换机制的启发。 <br />\r\n<br />\r\n合作模式是对刺猬索尼克 2 的回归，尾巴可以加入索尼克的史诗冒险。 它确实使游戏更容易有朋友的帮助，但到目前为止通过游戏测试，这是一个爆炸！<br />\r\n<br />\r\n原始威胁的钩子通过用互补颜色的武器射击敌人，对敌人造成巨大伤害。 有 6 种武器供玩家在世界各地找到，每种武器都有不同的颜色，具体取决于发现的区域。 能够在飞行中正确更换武器的玩家将能够快速消灭敌人。 <br />\r\n<br />\r\n非常感谢您对我的游戏感兴趣！<br />\r\n<br />\r\n真诚地<br />\r\n乔丹·基思",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1019050/header.jpg?t=1697919910",
+    "developers": [
+      "Jordan Keith"
+    ],
+    "publishers": [
+      "Jordan Keith"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 40,
+      "highlighted": [
+        {
+          "name": "Triceratops Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/1c5947bb758e7ed44af51bc14e8eb428e09bcd75.jpg"
+        },
+        {
+          "name": "Velociraptor Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/64ecea754485ea7bc5f9932924db4a71fd852774.jpg"
+        },
+        {
+          "name": "Ice Crocodile",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/1bcdb8d1395b967d26840a9c6fcf08490b6b7cd2.jpg"
+        },
+        {
+          "name": "Fire Crocodile",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/5cd09a2e412cd18d45811cd926542fd501086dfd.jpg"
+        },
+        {
+          "name": "Pterodactyl Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/2e2fa6ab97fd752f550e0502620181dd90baed74.jpg"
+        },
+        {
+          "name": "Dilophosaurus Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/6c84a26dc339644b0ac77549e3c14307a74338f8.jpg"
+        },
+        {
+          "name": "Tyrannosaurus Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/0f95dc34e38fb744c2f468d44673c1c94b7b6a98.jpg"
+        },
+        {
+          "name": "Terrifying Pterodactyl Statue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/a2a2f55d41bcdc33851b893c18162be0ef155360.jpg"
+        },
+        {
+          "name": "Chad Fight Round 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/ef894a7686d965c506ad0dec064f9e38013ea367.jpg"
+        },
+        {
+          "name": "What's up Chuck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1019050/2facae2ea1cf481860893f603f42bca2e2dfb0c6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

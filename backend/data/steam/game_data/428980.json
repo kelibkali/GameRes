@@ -1,0 +1,133 @@
+{
+  "428980": {
+    "name": "Ethereal Legends",
+    "steam_appid": 428980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Ethereal Legends is a modern indie action RPG, built (<i>mostly</i>) by one person in Unreal Engine 4 for PC, PlayStation 4, and Xbox One.<br><br>A powerful foe has descended upon the world of Arcadia. The Ethereal Knights, protectors of the realm, have nearly all been destroyed. <br><br>Only you remain.<br><br>Enter the portal and defend the Ethereal Realms from the evil which plagues them. Battle deadly monsters and huge bosses, wield numerous weapons, cast powerful spells, solve challenging puzzles, and use all the tools at your disposal to put an end to the madness.<h2 class=\"bb_tag\" >Active Combat</h2>Your combat style is determined by the spells, weapons, and armor you choose to equip. With 3 distinct weapon types and a great number of spells, items, and armor pieces to choose from, you are provided with countless options to defeat your enemies.<h2 class=\"bb_tag\" >Environment Puzzles</h2>A plethora of brain teasers awaits deep within the darkest corners of Arcadia. Explore and interact with the world around you to unlock new paths and discover secrets hidden in the Ethereal Realms.<h2 class=\"bb_tag\" >Epic High Fantasy</h2>A pure story of good versus evil. Explore gorgeous elemental locales reaching into the sky and beyond. Battle massive enemies, experience the powerful soundtrack, and enjoy a beautifully rendered fantasy world powered by Unreal Engine 4.<h2 class=\"bb_tag\" >Open Source</h2>Want to build your own game, based on <i>Ethereal Legends</i>? You can! The C++ code used to create this game can be found on Github, under the open source Apache 2.0 license. Maybe you simply want to help make <i>Ethereal</i> better. This is the place to start!  I welcome all contributions, and successful pull requests will have their author credited in-game.<h2 class=\"bb_tag\" >Nvidia Ansel Support</h2>Nvidia Ansel is an amazing photography feature built into to <i>Ethereal Legends</i>.  Ansel allows players with Nvidia GeForce GTX 650 or better graphics cards to take beautiful high resolution or 360 degree screenshots while in game.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428980/extras/8d8ed39e4f3faa140ef1dc4691f6c20b.webp?t=1493157482\" width=250 height=41 /></span>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428980/header.jpg?t=1493157482",
+    "developers": [
+      "Soverance Studios"
+    ],
+    "publishers": [
+      "Soverance Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "Ethereal Squire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/2c7d7a76e29f8acf3d553374f7c6eb6f0268ef37.jpg"
+        },
+        {
+          "name": "Goomba Stomper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/dc680b1340ba5619b30f5b8b14a254fec6cbe3a9.jpg"
+        },
+        {
+          "name": "Vulcan Logic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/e9a5ba3e47bd9c33e82f3f55b235a1770a76b88f.jpg"
+        },
+        {
+          "name": "Destroy the Core!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/31c958a6777a33296aab70abc2d34e692a6d1fa8.jpg"
+        },
+        {
+          "name": "Citizen of Ba Sing Se",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/63c9324cb1f85e58c3957b52cd80b28676552f3b.jpg"
+        },
+        {
+          "name": "Ark Angel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/fb6aeac22b1e901288a2facd492a955202ac51e5.jpg"
+        },
+        {
+          "name": "Herald of Galactus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/cf3c3179eccb72e33bcf9f17547bf123f118f3b2.jpg"
+        },
+        {
+          "name": "Richie Rich",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/f0b906ce8e9fc2793e33cbd70685127e99603641.jpg"
+        },
+        {
+          "name": "God of War",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/a3844790ffbf6a3127fc68f61b393022918cb72b.jpg"
+        },
+        {
+          "name": "Black Belt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/428980/d3533c82c751ba95dd4c3b23228a330de4c96456.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

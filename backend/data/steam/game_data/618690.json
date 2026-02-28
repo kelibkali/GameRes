@@ -1,0 +1,121 @@
+{
+  "618690": {
+    "name": "Gorescript",
+    "steam_appid": 618690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Gorescript is a classic first person shooter game, inspired by the great old FPS games that defined the genre. Fight your way through 18 handcrafted levels of frantic action paced gameplay, from easy to hardcore levels of difficulty.<h2 class=\"bb_tag\" >Patch 1.10 - Monday, May 1st, 2023</h2><br><ul class=\"bb_ul\"><li>Added full controller support (tested with an Xbox controller).<br></li><li>Powerups are now displayed directly on the HUD, so you can cycle through them and use them without needing to open the inventory window.<br></li><li>Keys are now also displayed directly on the HUD.<br></li><li>Automap is now an overlay (can be toggled via TAB key by default).<br></li><li>Added an option for center weapon placement. This is now the default setting but you can still switch to the old right-hand view in the settings menu.<br></li><li>Improved UI scaling at 1440p and 4K.<br></li><li>Added full keyboard support in menu.<br></li><li>The HUD and the automap are now available in Masochistic mode.<br></li><li>Inventory window has been removed.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/618690/header.jpg?t=1682923484",
+    "developers": [
+      "Sergiu Bucur"
+    ],
+    "publishers": [
+      "Sergiu Bucur"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 28,
+      "highlighted": [
+        {
+          "name": "Entryway",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Death From Above",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Apprentice Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Journeyman Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Master Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Grand Master Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Arsenal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Artifact Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        },
+        {
+          "name": "Clean Sweep",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/618690/da7e93b84e6d9393dcb0b95925b9105b3a16bc03.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

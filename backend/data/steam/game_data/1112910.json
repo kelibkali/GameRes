@@ -1,0 +1,78 @@
+{
+  "1112910": {
+    "name": "Alien Fury",
+    "steam_appid": 1112910,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >&quot;From the vast dark, the aliens have come! There is no hope of survival! But if you must go, you go fighting!&quot;</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fight a hopeless battle against an attacking alien race. There is no hope of victory, only to take as many enemies down with you, as you can!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Alien Fury is an arcade space shooter that gets progressively harder, the longer you play.<br>It's a simple a matter of shooting the alien missiles, before they hit you.<br>How long can you survive?</p><p class=\"bb_paragraph\" >It was made for the Steam Deck, but is highly playable on desktop as well.<br>It's also a showcase of my homemade SkullForge game engine, and it's coded 100% in C++.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Enjoy!</p><p class=\"bb_paragraph\" >Odin Strabo Jensen</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112910/header.jpg?t=1739021801",
+    "developers": [
+      "Odin Strabo Jensen"
+    ],
+    "publishers": [
+      "Odin Strabo Jensen"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Yay Skullforge!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112910/0058986d5befcafb5ef3af7a2f8e63fe4a196749.jpg"
+        },
+        {
+          "name": "Take that!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112910/bdd0f3297515b6affd0e0cfb5085a32dc53f9d5c.jpg"
+        },
+        {
+          "name": "Ugh!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112910/a841f6c129146db31d3622dd076265df4a00f2ed.jpg"
+        },
+        {
+          "name": "Space king!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112910/56d6224da7f118155167a1933518dfc8295ae485.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

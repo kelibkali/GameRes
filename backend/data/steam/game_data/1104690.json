@@ -1,0 +1,61 @@
+{
+  "1104690": {
+    "name": "国王万岁(国王别饿死)",
+    "steam_appid": 1104690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "国王万岁(国王别饿死)是一个方块风格的策略游戏<br>你将在幻想世界扮演一名国王,统治这片土地并且守护你的臣民.带领移民一路筚路蓝缕,采集狩猎,破林开荒,接收新的移民者.插旗圈地,扩展领土,壮大自己的势力.建造要塞训练军队抵抗亡灵大军.<h2 class=\"bb_tag\" >地形</h2>王国守卫者的地形是以方块为单位的.每一种固体方块对应一种资源,可以挖掉一个方块采集这种资源(矿工),也可以消耗这种资源,建造一个方块(建筑工).<h2 class=\"bb_tag\" >生态系统</h2>鹿会吃掉地上的植物,如果没有植物可以吃,鹿会最终饿死.狼也是同理.而食物链的最底层-植物,会以一个固定的速率每天增长.当然如果人类杀掉所有的狼,而不捕杀鹿,鹿群最终会把这片土地吃得寸草不生,然后自己因为没有食物而死掉.除了食物以外,水源又是一个新的问题,不同的狼群有可能因为争夺水源打的不可开交(不用担心,由于作者偷懒,人类暂时还不需要喝水).有昼夜循环,太阳直射角与地图有一个小小的偏角(现在是23.5°,以后四季变化在开发计划之内).鹿更喜欢在日间活动,当然不包括紧急情况<h2 class=\"bb_tag\" >国王</h2>国王不会从事大部分工作,他所需要考虑的,是调配资源,分配工作等.国王可以和人民谈话以分配他们的工作,当然这也会打断他们当前的工作(作者恨透了以前在游戏公司上班时总是被游戏策划打断的情景)<h2 class=\"bb_tag\" >领土系统</h2>插旗圈地,插更多的旗圈更大的地.大部分操作(挖掘,建造等)只允许在领地内进行.旗帜同样会提高人口上限,但插的旗帜越多,新增的上限越少<h2 class=\"bb_tag\" >职业系统</h2>人会睡觉(如果有床的话).缺少睡眠的人会有较低的工作效率,夜晚工作也会影响效率(和作者一样,挺讨厌加班的).不同的工具亦会影响工作效率.人民遇到威胁会逃回国王规定的安全区,只有战士才会上前战斗<br>人民分为多种职业:<br><ul class=\"bb_ul\"><li><strong>内政大臣</strong>,可以向领主大人汇报工作以及给平民分配任务<br></li><li><strong>建筑工</strong>,由玩家在地图上设计方块蓝图,建筑工会从仓库拿资源并把方块建造出来<br></li><li><strong>伐木工</strong>,砍树(请保护环境)<br></li><li><strong>工匠</strong>,打造一些小物件或者放置于地上的大物件<br></li><li><strong>采集者</strong>,从森林里采集食物和一些小玩意<br></li><li><strong>猎人</strong>,打猎,并从猎物身上获得肉和毛皮<br></li><li><strong>矿工</strong>,由玩家在地图上设计方块红图,矿工会把对应的方块拆掉并获得资源<br></li><li><strong>铁匠</strong>,加工金属物件.铁器是历史上重要的生产力革命<br></li><li><strong>纺织工</strong>,加工布料,服装<br></li><li><strong>厨师</strong>,将食物原料加工成更好的食物<br></li><li><strong>农夫</strong>,耕种和收获农作物<br></li><li><strong>步弓手</strong>,使用弓箭的战士<br></li><li><strong>步兵</strong>,近身战斗的战士</li></ul><h2 class=\"bb_tag\" >食物</h2>早期的食物大部分来自于采集,之后耕种将会成为一个更高收益的选择.厨师的意义则在于把食物原料加工成更好的食物,能恢复更多的能量.尤其是普通食物会慢慢<strong>腐败</strong>腐败的情况下,由厨师将普通食物加工成干粮将成为一个不错的选择.",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104690/header.jpg?t=1594126695",
+    "developers": [
+      "tyx"
+    ],
+    "publishers": [
+      "tyx"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 3,
+      "total_negative": 3,
+      "total_reviews": 6
+    }
+  }
+}

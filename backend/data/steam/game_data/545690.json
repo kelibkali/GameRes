@@ -1,0 +1,97 @@
+{
+  "545690": {
+    "name": "VOI",
+    "steam_appid": 545690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Do you think 1 + 1 = 0 is correct? So what do you think about &quot;black + black = white&quot; statement? <br><br>VOI is relaxing minimal puzzle game based on XOR logic;<br><br>0+0=0<br>1+0=1<br>0+1=1<br><strong>1+1=0</strong><br><br>VOI gives you a few draggable geometric shapes (triangle, square, rhombus, parallelogram etc.) to reach target shape. That's all. Do you think that the easy?<br><br>* One page game (no start button, no exit button)<br>* Cool music and fx<br>* Use mouse wheel to scroll levels",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545690/header.jpg?t=1614020594",
+    "developers": [
+      "Yunus Ayyildiz"
+    ],
+    "publishers": [
+      "Yunus Ayyildiz"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "complete level 11",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/365f231054a7482c1d88e4b05906a4c8328669a1.jpg"
+        },
+        {
+          "name": "complete level 22",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/813bd57c36316b7f4009688b953d9d4b472d9749.jpg"
+        },
+        {
+          "name": "complete level 33",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/0baf4ff02c789de192dc47ad164537272a021553.jpg"
+        },
+        {
+          "name": "complete level 44",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/b370145ba03a262ed270e3989db5cc033393bb18.jpg"
+        },
+        {
+          "name": "complete level 55",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/2135d92fe9f60eb1d9de48755b370664e4a41020.jpg"
+        },
+        {
+          "name": "complete level 66",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545690/18d12f0c65b16d86c96160b6c63f17c828cda26e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 117,
+      "total_negative": 9,
+      "total_reviews": 126
+    }
+  }
+}

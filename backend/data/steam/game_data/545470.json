@@ -1,0 +1,77 @@
+{
+  "545470": {
+    "name": "Hover Hazard",
+    "steam_appid": 545470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "1 - 4 player/s<br />\r\nNavigate your spaceship inside a deadly arena. Dodge bullets, saws and lasers, while avoiding and using other obstacles in your way. <br />\r\nSee if you can survive in Singleplayer or challenge your friends in Shared Screen Multiplayer (2 - 4 players) for ultimate carnage!<br />\r\n<br />\r\nTip:  Hold Left Shift while launching the game to access controls and resolution menu.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545470/header.jpg?t=1613074112",
+    "developers": [
+      "David Mulder"
+    ],
+    "publishers": [
+      "SA Industry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 300,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 30.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

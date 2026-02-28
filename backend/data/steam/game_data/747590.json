@@ -1,0 +1,109 @@
+{
+  "747590": {
+    "name": "Drive//Shaft",
+    "steam_appid": 747590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >开发者附注</h2>大家好，我是 Alex Schearer，Spotted Zebra Software 的创始人。我做游戏已经有些时日了，但总是在做二维游戏。我之前想要学习制作 3D 游戏，并且我认为每周做一个游戏是一种非常好、非常有挑战的方式。 <br><br> Drive//Shaft是我第一周的游戏作品。你深夜开车在荒岛上极速驰骋，你的目标是收集尽可能多的神秘光球。问题是荒岛上还有其他人，他们的驾驶技术都比你更棒！ Drive//Shaft是一款非常简单而且好玩的游戏，原因有二，一来夜间飙车非常有趣，二来基于物理学的在线游戏非常好玩。<br><br>我正在发布 Drive//Shaft，价格是一美元，这样人们可以和我一起加入这次疯狂的“一周制”大冒险。如果你想分享你的想法，请留下评论，或者在 Steam 论坛上发帖。如果我获得足够的反馈，我会根据玩家的意见进行改进。<br><br>感谢您的阅读；衷心希望您喜欢本游戏！<br><i>Alex Schearer - Spotted Zebra Software</i><h2 class=\"bb_tag\" >游戏玩法</h2>深夜在荒岛上极速飙车。和另外七名玩家竞争，率先抵达神秘的光球。<h2 class=\"bb_tag\" >控件</h2>键盘：使用箭头键或 AWSD 加速、刹车或转弯。<br><br>手柄：使用操纵杆或十字键转弯。使用扳机加速或制动。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>超大的开放飙车环境</li><li>实车物理学</li><li>多达 8 名玩家在同一座岛上竞争</li><li>美轮美奂的 3D 环境和效果</li><li>简短、有趣的挑选和游戏体验</li><li>游戏内的聊天，只需按 Enter 并键入你的消息</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747590/header.jpg?t=1520235735",
+    "developers": [
+      "Spotted Zebra Software LLC"
+    ],
+    "publishers": [
+      "Spotted Zebra Software LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747590/001110d6f52b7e74ad6f823a229525d3f00e8072.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747590/e69b06a332ac4866d2bcbe532ac730b2e1a93a7d.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747590/1af534dc5815f743f165f2008e5c225aec93c77c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

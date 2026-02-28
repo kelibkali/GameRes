@@ -1,0 +1,103 @@
+{
+  "1065230": {
+    "name": "Room of Pandora",
+    "steam_appid": 1065230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065230/extras/7fac002a771df698f9b0e45b928a7e39.avif?t=1770427987\" width=620 height=185 /></span><br>这是作者的第一款Steam独立游戏，之前玩过很多解谜游戏，谜题都是被限制在了游戏之中，作者希望开发出一个不一样的解谜体验，所以有些谜题需要玩家打破电脑屏幕的次元屏障来解决。<br><br>这让我们的真实世界变成了游戏的一部分，但是，谁又能肯定我们这个世界是真实的呢?<br><br>游戏一共有七个结局，对应了七个成就。完成全部关卡即可达成第一个结局，其他结局需要玩家在游戏中进入隐秘的房间才能达成。找到游戏中隐藏的隐秘房间也是游戏的一大乐趣和成就。游戏分为表世界和里世界两个部分，在找到第七个结局后即可开启进入里世界入口。<br><br>作者想用游戏揭露人与造物主的关系，人类的未来在哪里，人与自然的关系，人类最后的结局与归途。<br><br>每个人都是自己命运的表演者，生、老、病、死、爱、恨、别离，诸如此类，人们孤零零的出生，最终也是孤零零的辞世，万物都是生不带来，死带不走，一切的一切，终究如梦一场。<br><br>谢谢你玩我的游戏。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065230/extras/661d56a350049bc6e9e119faccc94506.poster.avif?t=1770427987\" width=620 height=372 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065230/extras/661d56a350049bc6e9e119faccc94506.webm?t=1770427987\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065230/extras/661d56a350049bc6e9e119faccc94506.mp4?t=1770427987\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语, 俄语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065230/header.jpg?t=1770427987",
+    "developers": [
+      "SHEN JIAWEI",
+      "ZHANG FAN"
+    ],
+    "publishers": [
+      "SHEN JIAWEI",
+      "ZHANG FAN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "第一个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/2156427b13f9071cfcb1c51c92d839ea3c0de856.jpg"
+        },
+        {
+          "name": "第二个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/bd29a8a0eb153bfbac6f59e375b4a7fd07fa32c4.jpg"
+        },
+        {
+          "name": "第三个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/c704338f233e59d0dda063368eeb58712238b946.jpg"
+        },
+        {
+          "name": "第四个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/a293e28322226d61db1ac60dbd2a2b86a6d12d51.jpg"
+        },
+        {
+          "name": "第五个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/4b7a6581df99d03b604e783ee87e7d26d565dbd6.jpg"
+        },
+        {
+          "name": "第六个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/f6b83c6e81727968eba8aa57fc8b18f386921944.jpg"
+        },
+        {
+          "name": "第七个结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/8af8750214ca2ad4d471a2fb7577f182c07f65de.jpg"
+        },
+        {
+          "name": "最终结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065230/961f876ea31ef725cf43703394d1a2f182997d9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 5,
+      "total_negative": 8,
+      "total_reviews": 13
+    }
+  }
+}

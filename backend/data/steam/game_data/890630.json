@@ -1,0 +1,125 @@
+{
+  "890630": {
+    "name": "Perspectrum",
+    "steam_appid": 890630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Perspectrum是由独立游戏开发商ProudMom Games开发的2D拼图平台游戏。玩家扮演高陌生人的角色，这个陌生人已经被唤醒，有能力使用古老的喷泉来改变世界的元素。陌生人必须使用散落在各个层面的精神碎片，使山脉恢复活力。游戏包括一个世界和五个地下城，每个都引入了它自己独特的机制，以帮助收集更多的精神碎片。<h2 class=\"bb_tag\" >特性</h2><ul class=\"bb_ul\"><li>通过各种开关和敌人在四个元素 - 水，冰，熔岩和酸之间切换，以解决各种挑战<br></li><li>每个区域都有独特的，令人回味的氛围<br></li><li>征服五个地下城，每个地下城都有自己独特的机制<br></li><li>与镇区内的各种村民互动并了解他们的背景故事<br></li><li>享受专为此游戏组成的原创音轨<br></li><li>多种结局可用，具体取决于玩家收集的精神碎片数量<br></li><li>结束后的地下城挑战，包括元素特定的碎片<br></li><li>适用于Windows，Mac和Linux</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/890630/header.jpg?t=1748323159",
+    "developers": [
+      "ProudMom Games"
+    ],
+    "publishers": [
+      "Vandalia Softworks"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "社交蝴蝶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/2d59231161203c76d796be3fcb02534d58730553.jpg"
+        },
+        {
+          "name": "探洞",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/7e5a92e288aacf89a498fa3143520dfb7171502a.jpg"
+        },
+        {
+          "name": "洞窟学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/8194b11cfb1414e0cc7081e0541a0d69aad7e9fd.jpg"
+        },
+        {
+          "name": "读者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/a840131a1d8263f1de437ebc29e670d0621f6fd5.jpg"
+        },
+        {
+          "name": "图书馆员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/f9169190dc6478203aeb369a6323055e5091d6b5.jpg"
+        },
+        {
+          "name": "坟墓挖掘者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/9b0c62c33def998c8b7490a2f93267a84088d9cd.jpg"
+        },
+        {
+          "name": "考古学家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/cfd8c33f176c0793975733f27cde50acfe1d562a.jpg"
+        },
+        {
+          "name": "绿色管道工",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/ae38cb7a6e58c941bb6e96329cdac5da2169d06a.jpg"
+        },
+        {
+          "name": "红色管道工",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/72af540613b4570aab6103bfdd5f56e31b93d077.jpg"
+        },
+        {
+          "name": "救主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890630/e02c3b2190681d76b596eb8b68734b7cf8d0a01a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

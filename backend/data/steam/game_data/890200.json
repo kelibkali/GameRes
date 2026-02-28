@@ -1,0 +1,101 @@
+{
+  "890200": {
+    "name": "Destruction  Paper",
+    "steam_appid": 890200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Pirates love it, downloaded tens of thousands of times on unauthorized numerous piracy sites!<br />\r\n<br />\r\n<br />\r\n8 levels of action<br />\r\n14 bosses<br />\r\n2 player co-op<br />\r\nhigh score multiplier<br />\r\nnumerous skill levels<br />\r\ncheats and secrets to be discoverd<br />\r\n5 power ups<br />\r\nrun and gun gameplay<br />\r\ncomplete and ready to launch (mac and linux port coming later)<br />\r\nsteam cards and achievements to be added after release (need access to steam sdk to impliment them)<br />\r\n<br />\r\nobtuse and overly convoluted story line only available from developer commentary and such, so in other words no language barrier",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/890200/header.jpg?t=1559685785",
+    "developers": [
+      "Lincoln on a Phone Productions"
+    ],
+    "publishers": [
+      "Lincoln on a Phone Productions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Clear Stage 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890200/637892571b3f3020bbd918ffe4c1bb58e6cdf076.jpg"
+        },
+        {
+          "name": "Clear Stage 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890200/206210415a86e86db4f8353803fdf500e10eba99.jpg"
+        },
+        {
+          "name": "Clear Stage 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890200/10482874adc113385603b26d4a08081306ac02e0.jpg"
+        },
+        {
+          "name": "Clear Stage 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/890200/4e750189fc0268fd9724ee417ee38dabc6bce229.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

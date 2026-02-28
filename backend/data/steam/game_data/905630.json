@@ -1,0 +1,61 @@
+{
+  "905630": {
+    "name": "GALAXY TOP WING",
+    "steam_appid": 905630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个独立开发的休闲小游戏，主要是体验虚拟现实的射击游戏的真实感。玩家驾驶战斗机在宇宙中翱翔，玩家坐在驾驶舱中通过vr可上下左右的观察飞机外面壮丽的宇宙场景，穿过陨石地带、跳跃门、飞船废墟等场景，与队友一起与敌方在太空中大战，后续还开发行星探索、星系漫游、飞船大战等系列。游戏中通过鼠标控制飞机的方向，w键加速向前，s键减速向后，a键向左横滚，d键向右横滚，esc键暂停游戏，空格键运行游戏，按鼠标左键射击，按鼠标右键更换武器。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/905630/header.jpg?t=1535784325",
+    "developers": [
+      "xiangjom"
+    ],
+    "publishers": [
+      "xiangjom"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

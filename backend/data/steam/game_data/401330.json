@@ -1,0 +1,117 @@
+{
+  "401330": {
+    "name": "Akuatica",
+    "steam_appid": 401330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Akuatica</strong> 是一款带有解谜元素的动作冒险游戏。  以下是游戏的一些突出特点：<br><ul class=\"bb_ul\"><li> 多场景。从浅滩，珊瑚礁，大海到深海。</li></ul><ul class=\"bb_ul\"><li> 史诗般的Boss战斗和具有挑战性的谜题。</li></ul><ul class=\"bb_ul\"><li> 几十个独特的敌人。</li></ul><ul class=\"bb_ul\"><li> 独特的纸雕塑视觉风格。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401330/header.jpg?t=1535438238",
+    "developers": [
+      "Tianyu Studio"
+    ],
+    "publishers": [
+      "Tianyu Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "锱铢必较",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/159408414fce4993c10460f6d397ef15612a5f51.jpg"
+        },
+        {
+          "name": "与人为善",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/caed7b8a27d4c340555d268547ca4ae3df80b738.jpg"
+        },
+        {
+          "name": "坚持不懈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/764194c3207c3d28033a674a1c841e700597e1e5.jpg"
+        },
+        {
+          "name": "百密一疏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/dacb9f4d6fe53ff319b9d502b071bfbfe51177b1.jpg"
+        },
+        {
+          "name": "虽死犹生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/c55644a0b4f3631b1f7f280a64eb7ea3aa526538.jpg"
+        },
+        {
+          "name": "I eat babies",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/4b61cefb1264fada86e33aa1b26264d2cd020e85.jpg"
+        },
+        {
+          "name": "Naga.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/4b699c78101c6cbfd116f01102352b95858d47eb.jpg"
+        },
+        {
+          "name": "Volcanica.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/6edb0850827899bf317233a94ec066eeb18c7809.jpg"
+        },
+        {
+          "name": "I'm a Torero.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/6cdaca90e4d50af5701a815382c969dcd79a6450.jpg"
+        },
+        {
+          "name": "Leviathan.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/401330/4e82cc5d1edc9113f72acfc7f381c65ef6f41b32.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 4,
+      "total_negative": 8,
+      "total_reviews": 12
+    }
+  }
+}

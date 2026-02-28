@@ -1,0 +1,121 @@
+{
+  "634340": {
+    "name": "Legend of Himari",
+    "steam_appid": 634340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/634340/extras/daf997ff3a07031be5f268f9c52416b8.poster.avif?t=1755296470\" width=500 height=280 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/634340/extras/daf997ff3a07031be5f268f9c52416b8.webm?t=1755296470\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/634340/extras/daf997ff3a07031be5f268f9c52416b8.mp4?t=1755296470\" type=\"video/mp4\"></video></span>Himari was ambushed! Help her hold out as long as possible, attack enemies, use magic to slay them, maintain Himari’s health level, so she could fight on, and also do not miss!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Chain up your combos to the maximum, so that your hits will become more powerful!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Game features:</h2><p class=\"bb_paragraph\" >♥ simple and exciting gameplay; </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >♥ online scoreboard;  </p><p class=\"bb_paragraph\" >♥ unlockable characters; </p><p class=\"bb_paragraph\" >♥ terrifying bosses; </p><p class=\"bb_paragraph\" >♥ gameplay that requires attention.</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 俄语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/634340/e8a0455c82d2a70986c387f2c800997ba794c578/header.jpg?t=1755296470",
+    "developers": [
+      "TERNOX"
+    ],
+    "publishers": [
+      "TERNOX"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "C-C-COBMO!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/fe4afb8f18331294c34790d9c5f42f6b4e8d4325.jpg"
+        },
+        {
+          "name": "Cool!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/bebf0076e557a6bec249a78979a6fb3951a6275b.jpg"
+        },
+        {
+          "name": "Defeat Fatman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/ec4248ccfa2cafa30403096f0753e04f761705ae.jpg"
+        },
+        {
+          "name": "Defeat Nicolas",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/2dc695806fcb8843c2681bb47f6210dd1c2b3c00.jpg"
+        },
+        {
+          "name": "Defeat Devid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/0c06f19e7171d8044e2694fdebf2adb3edfa1181.jpg"
+        },
+        {
+          "name": "Incredible Himari!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/f6981b648ab1f1d2d085dc964c67b4ee0f44bdbd.jpg"
+        },
+        {
+          "name": "Super Star!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/558393860938261690b90c07ccf08ec3d014fae8.jpg"
+        },
+        {
+          "name": "What a twist!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/2a9b1d49cbf0e3e9801a318436113cc1ade5f7fc.jpg"
+        },
+        {
+          "name": "Trojan",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/2bdab869c6b9ff8ded7ce2b90423614803478ee3.jpg"
+        },
+        {
+          "name": "Alternative Himari",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/634340/513fe857b6addf3a977e51c823a6eecfd4be3dd0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 16,
+      "total_negative": 1,
+      "total_reviews": 17
+    }
+  }
+}

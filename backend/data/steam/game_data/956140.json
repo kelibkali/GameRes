@@ -1,0 +1,121 @@
+{
+  "956140": {
+    "name": "Lifeslide",
+    "steam_appid": 956140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "踏上大气纸飞机飞行冒险之旅，穿越生活，掌握独特的飞行机械方式，穿过不断变化的风景，走向你的目的地。<br />\r\n<br />\r\nLifeslide是一个用爱精心打造的充满活力的世界，没有旁白和文字。故事是通过环境含蓄地讲述的。每个阶段都是一个新的挑战。它需要聪明的选择和瞬间的决定来达到更远的目标。学好飞行是关键。<br />\r\n<br />\r\n特征<br />\r\n- 28个独特的生命阶段<br />\r\n- 30项成就<br />\r\n- 8架不同风格的纸飞机<br />\r\n- 结合电子、摇滚和管弦乐元素的原创乐谱<br />\r\n- 完全控制器支持",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 荷兰语, 日语, 韩语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 土耳其语, 保加利亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/956140/header.jpg?t=1772012618",
+    "developers": [
+      "Dreamteck"
+    ],
+    "publishers": [
+      "Dreamteck"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 31,
+      "highlighted": [
+        {
+          "name": "All Starts Here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/10116e5712e517b8a6286a1d6c084178188f27ff.jpg"
+        },
+        {
+          "name": "Wonderful World",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/72f564047a80f5b6ee75c8f4b2b9af472ce33831.jpg"
+        },
+        {
+          "name": "Turbulence",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/fdd20f38a9eaf758a157072ab3f4c4eb96fd67e6.jpg"
+        },
+        {
+          "name": "Finding The Way",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/19fcb65bd5d45a6e249b2db1b32bfa88ff790a6f.jpg"
+        },
+        {
+          "name": "On The Right Path",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/69a7a41db31a0ce95cfe96e0b3f948d08eb14e27.jpg"
+        },
+        {
+          "name": "Bigger Picture",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/2a84b885b99e97a24117dd51ab486b4b073f027d.jpg"
+        },
+        {
+          "name": "Alive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/05e9501d87f65eddfc70d718c522b0329fa2e217.jpg"
+        },
+        {
+          "name": "Second Wind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/ffd9227b8e1d3d0db4d9ab2cd119bce5978ff710.jpg"
+        },
+        {
+          "name": "What Are The Chances?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/07907964c9f2509ef29ae1a321cd9335c6b42273.jpg"
+        },
+        {
+          "name": "Tangibility",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/956140/f37b3436340236528797a48665e16db0032f6dbf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 27,
+      "total_negative": 5,
+      "total_reviews": 32
+    }
+  }
+}

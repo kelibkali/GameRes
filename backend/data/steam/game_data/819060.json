@@ -1,0 +1,65 @@
+{
+  "819060": {
+    "name": "Red Rover",
+    "steam_appid": 819060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >MARS, IRL! (sort of)</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819060/extras/e5611b4f7ca77a0c3b4b10c20d15f336.avif?t=1614279750\" width=610 height=88 /></span><br><br>When I was a kid, there was an unspoken assumption that when I grew up we would be living in space, working on the moon, and exploring Mars, etcetera etcetera..<br><br>Well, I grew up. Worked on some pretty cool feature film and game projects, but the space exploration part never quite took off.. So I figured it was time to create my own 'space program'.<br><br><i>Red Rover</i> takes satellite and terrain data from NASA's HiRISE Mars orbiter and incorporates it into a driving simulator. I'm taking my decades of movie magic experience and putting it towards making something that lets me virtually experience the real planet Mars (subject to current technological and VR limitations, of course)<br><br><i>Red Rover</i> started as a  personal research project a few years ago - <strong>because I wanted to explore Mars</strong>. I'm now making this available on Steam so that like-minded explorers can get to explore Mars as well! No missions to do, no highscores to beat, just nine curated Mars datasets - roughly about 5km x 5km in size each - for you to explore. I hope to add more maps as time permits and new satellite data is released!<br><br>Red Rover supports Oculus Rift VR, but will also run in non-VR mode.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819060/extras/ad679c0c48b7042d17ac7d76678ed9b6.avif?t=1614279750\" width=610 height=120 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819060/header.jpg?t=1614279750",
+    "developers": [
+      "Alan Chan"
+    ],
+    "publishers": [
+      "Alan Chan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

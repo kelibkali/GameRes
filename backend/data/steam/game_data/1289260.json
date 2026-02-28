@@ -1,0 +1,57 @@
+{
+  "1289260": {
+    "name": "就这消消乐",
+    "steam_appid": 1289260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "介绍：<br />\r\n这是一款表情消消乐游戏，可以在你无聊、不开心的时候，给你带来更多的乐趣。<br />\r\n玩法：<br />\r\n游戏可以通过连续三个以及三个以上相同的表情消除，如果连续消除你会获得更高的分数。<br />\r\n这款游戏多套表情包可以用于消除根玩家互动。<br />\r\n玩家也可以随时生成自己喜欢的表情包。<br />\r\n玩家还可以导入本地的表情包模型，来生成新的属于玩家自己的表情包连连看。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289260/header.jpg?t=1589462141",
+    "developers": [
+      "mmdw"
+    ],
+    "publishers": [
+      "mmdw"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

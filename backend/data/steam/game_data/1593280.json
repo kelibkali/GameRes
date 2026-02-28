@@ -1,0 +1,73 @@
+{
+  "1593280": {
+    "name": "8089: The Next Action RPG",
+    "steam_appid": 1593280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>8089 is a fully featured, open world action RPG featuring randomly generated items, customizable weapons, quests and enemies.</strong> Spawn into a colorful, wacky world with bug-like aliens running amok.<br><br><ul class=\"bb_ul\"><li><strong>Play as you Want:</strong> Focus on certain skills like Guns, Melee or Stealth. Or, be a Leader with followers doing the work for you!<br></li><li><strong>VR Support:</strong> Built for VR, while still supporting traditional gameplay with a keyboard + mouse. Uses OpenXR (SteamVR runtime supported). Want to adjust your held angle? Comfort mode? Keybinds? Swap hands? All there in options!<br></li><li><strong>Lots of Special Abilities:</strong> Different armor provides abilities, like Invisibility, Grappling Hooks, Teleporting, Bullet Time, Tether Beams and more...<br></li><li><strong>Unique Loot Properties:</strong> Watch out, some drops might be infected! Also, if your Engineering skill is low, you'll have to Analyze what things do<br></li><li><strong>Customize Equipment:</strong> Weapons &amp; armor have module slots to program. Make fast-firing blasters, grenade launchers, deadly beams, explosive and homing shotguns...<br></li><li><strong>Laser Swords:</strong> Feel like a powerful character in a famous movie series *ahem* reflecting shots and striking critical hits (especially in VR!)<br></li><li><strong>Vehicles:</strong> Find scooters and flying ships to help get you around the world<br></li><li><strong>Vast Terrain:</strong> Smooth deserts, rocky cliffs, roads, lakes, toxic areas (with better loot) &amp; more to explore endlessly in all directions<br></li><li><strong>Tricky AI:</strong> Enemies (and friendly units) group together, listen closely and convey information. Counter by paying close attention to your detection meter!<br></li><li><strong>Multiple Endings:</strong> 5 different endings based on your choices. Can you get them all?</li></ul><br><i>8089 requires a Vulkan-enabled graphics card with recent drivers installed.<br><br>SteamVR is the only OpenXR runtime supported. 8089 will attempt to use it even if it isn't your default, but if you run into problems, check here.<br><br>VR only supported on Windows. Linux binaries are provided (and tested working on some distros) but support is low. Mac support has been dropped since that platform doesn't support Vulkan (MoltenVK has been unreliable).<br><br>Music by Aries Beats</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593280/header.jpg?t=1684860969",
+    "developers": [
+      "Phr00t's Software"
+    ],
+    "publishers": [
+      "Phr00t's Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

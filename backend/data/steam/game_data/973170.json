@@ -1,0 +1,97 @@
+{
+  "973170": {
+    "name": "RoboBall",
+    "steam_appid": 973170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/cb41ea9f1b2616bf2c1cdd4f6aea252e.avif?t=1667029352\" width=600 height=138 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/7433761bf6e0814a0da4306dc6f46ad5.poster.avif?t=1667029352\" width=600 height=136 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/7433761bf6e0814a0da4306dc6f46ad5.webm?t=1667029352\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/7433761bf6e0814a0da4306dc6f46ad5.mp4?t=1667029352\" type=\"video/mp4\"></video></span><br><br>RoboBall is a game in which you control a ball-shaped robot and solve physics- and logic-based puzzles. Your goal is to control various mechanisms in order to reach the end of the level, where you will find a teleporter that will take you to the next level.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/2b280a8dff42393f7cd0136fc3d365f5.poster.avif?t=1667029352\" width=600 height=190 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/2b280a8dff42393f7cd0136fc3d365f5.webm?t=1667029352\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/2b280a8dff42393f7cd0136fc3d365f5.mp4?t=1667029352\" type=\"video/mp4\"></video></span><br><br>Puzzles<br><br>On every stage you will find a large number of different mechanisms, buttons, laser switches, and doors. To open a door, start an elevator, or simply activate a certain mechanism, you will need to activate a button. Sometimes you can't do it by yourself and will need some help from metal balls, barrels, or crates. But don't forget that they might also need your help to perform certain actions.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/d26991451c5ea7fa1fe3a63f585e59fe.poster.avif?t=1667029352\" width=600 height=188 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/d26991451c5ea7fa1fe3a63f585e59fe.webm?t=1667029352\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/extras/d26991451c5ea7fa1fe3a63f585e59fe.mp4?t=1667029352\" type=\"video/mp4\"></video></span><br><br>Workshop<br>RoboBall has a level editor that is very flexible and packed with functionality. All of the levels in the game were created using this editor. Place static objects such as zones, paths, glass tubes, and metal tracks. Active objects perform various functions. These include doors, elevators, and machines that create metal balls, crates, or barrels. Buttons deserve special attention. You can use them to open or close doors, activate elevators, or deactivate turbines that are preventing you or any other physical object from advancing. There are two different kinds of buttons in the game: switches, which activate the objects they are linked to and then turn them off again when pressed a second time, and triggers, which activate objects as long as you or another physical object remains on top of them. When the object leaves the trigger, the objects linked to the button are deactivated.<br>Once you've created a level you can publish it in the workshop. You can also play other players' levels.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973170/header.jpg?t=1667029352",
+    "developers": [
+      "PS Games"
+    ],
+    "publishers": [
+      "PS Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Drop 20 barrels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/973170/bfb6e5a6ef1469adb3e65a63a2573a3e5187f74a.jpg"
+        },
+        {
+          "name": "Drop 20 boxes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/973170/2b929b1949ea728e70afa4d248009f25aa8fe3a7.jpg"
+        },
+        {
+          "name": "Drop 20 spheres",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/973170/e78d2028339eee8fd2b37cd5dd308296f3d00cff.jpg"
+        },
+        {
+          "name": "Collect plastic cats",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/973170/776578a82d8b5fa97ab4ab5259240769144809b0.jpg"
+        },
+        {
+          "name": "Create and send level to the workshop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/973170/bff21848b741b9d41e8dcbca9ce49e05b8bc4292.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

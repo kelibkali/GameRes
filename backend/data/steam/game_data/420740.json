@@ -1,0 +1,112 @@
+{
+  "420740": {
+    "name": "The Deed",
+    "steam_appid": 420740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "基于一个曲折而又黑暗的传统谋杀故事，《恶果》是一部关于谋杀与逃脱的冒险/RPG游戏<br />\r\n<br />\r\n艾伦. 布鲁斯，邓谢尔庄园的合法继承人，发现他的父亲已经决定除去他的继承权，转而传承给他那精神不正常的虐待狂妹妹。出于愤怒和贪婪，艾伦决定除掉他的妹妹来恢复他的继承权。他能成功逃脱自己种下的恶果吗？<br />\r\n<br />\r\n•\t和家族见面：<br />\r\n探索邓谢尔庄园，遭遇艾伦那扭曲，病态的家人和仆人们。小心了，你的每一句话都会对结局产生影响！<br />\r\n<br />\r\n•\t选择凶器：<br />\r\n绳子，烛台还是鼠药？ 你能将普通的家居用品变为阴险的凶器。从十种谋杀武器中小心选择，但请牢记，你的选择可能给自己制造嫌疑。<br />\r\n<br />\r\n•\t安放伪证：<br />\r\n父亲，母亲，女仆，管家......如果你能找到合适的伪证，并安放在合适的位置来增加督察的怀疑，以上这些人都可以成为你恶行的替罪羊。<br />\r\n<br />\r\n•\t面对督察：<br />\r\n当恶果种下后你必须面对它，一个狡猾的督察将会审问你。你能回避他的问题，避免被怀疑吗？ 你会被无罪释放吗？ 许多可能性在等待你的发现...",
+    "supported_languages": "英语, 简体中文, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420740/header.jpg?t=1771061521",
+    "developers": [
+      "Pilgrim Adventures",
+      "GrabTheGames Studios"
+    ],
+    "publishers": [
+      "GrabTheGames",
+      "WhisperGames",
+      "TheGamesFortress"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "First Degree",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/79e1c71a801915fb90d7dbc18c1858e29e1b6361.jpg"
+        },
+        {
+          "name": "Unsolved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/76b7c77591ca35c6615bdce24ce4dbbcc6af3220.jpg"
+        },
+        {
+          "name": "Temptress",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/6a39ff1caae6ab592139db4d673fb0b1a89842b7.jpg"
+        },
+        {
+          "name": "In the Name of the Father",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/ffba74cc646cb5d9cc6ac23b6091da01623c8eb6.jpg"
+        },
+        {
+          "name": "A Boy's Best Friend",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/aaebf76903754932238f2dcdfeaa330ff6fb2440.jpg"
+        },
+        {
+          "name": "So Cliché!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/0bd465b1470dbad6ce74386789655b016696256a.jpg"
+        },
+        {
+          "name": "The Perfect Crime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/f15d4d70d47e7955bff6480bb1cf4ba0f00a0573.jpg"
+        },
+        {
+          "name": "Domestic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/95b0ee29beab00400cce8a451c73bfef30d7a759.jpg"
+        },
+        {
+          "name": "Traditional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/173d795418e683669663468ffedd4660a4d14ee3.jpg"
+        },
+        {
+          "name": "Snookered",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420740/bb93ec9230901cf574afc7ae5852c6f32870fc3f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 279,
+      "total_negative": 16,
+      "total_reviews": 295
+    }
+  }
+}

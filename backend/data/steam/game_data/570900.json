@@ -1,0 +1,58 @@
+{
+  "570900": {
+    "name": "Art Plunge",
+    "steam_appid": 570900,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Art Plunge是一个虚拟现实美术馆，允许你身临其境地体验世界名画。<br />\r\n这是一个简单而美妙的虚拟现实体验，包含了下列五幅世界著名画作：<br />\r\n蒙娜丽莎，星夜，维纳斯的诞生，创造亚当，窗边读信的少女",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570900/header.jpg?t=1706706161",
+    "developers": [
+      "Space Plunge"
+    ],
+    "publishers": [
+      "Space Plunge"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 7,
+      "total_negative": 0,
+      "total_reviews": 7
+    }
+  }
+}

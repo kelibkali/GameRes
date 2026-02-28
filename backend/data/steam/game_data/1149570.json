@@ -1,0 +1,105 @@
+{
+  "1149570": {
+    "name": "See",
+    "steam_appid": 1149570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "See is a logic puzzle game based on the C programming language.<br />\r\n<br />\r\nA basic knowledge of programming and the C language is highly recommended!<br />\r\n<br />\r\nStart with an empty program and then add lines of C source code. No typing! Just select a line of source code from those provided. As a sandbox game, different programs can be experimented with and run multiple times to test results. Supports writing and calling functions.<br />\r\n<br />\r\nA few functions have been included for displaying results and earning points in the game.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149570/header.jpg?t=1610405844",
+    "developers": [
+      "SunshineOvercast"
+    ],
+    "publishers": [
+      "SunshineOvercast"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Level 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/c082f73f9d32014c1cea56640835b532569d25f2.jpg"
+        },
+        {
+          "name": "Level 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/b92fe7db70c58e44c0fa9cc08181c30d2cd9681b.jpg"
+        },
+        {
+          "name": "Level 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/c86493261d8f4d9df68f5747dff3aea0aeafa4f1.jpg"
+        },
+        {
+          "name": "Level 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/e2e55c893404f21df4f391d394cc2f83fb8327ac.jpg"
+        },
+        {
+          "name": "Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/2f3227bb0098e48d16ab69364a44361db40f6e95.jpg"
+        },
+        {
+          "name": "Level 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/3f51e49bdf44bc0df954e0fcb7940b58efe6afa3.jpg"
+        },
+        {
+          "name": "Level 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1149570/31c3ded2a12b603b6e49c1319395b270bbf154fe.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

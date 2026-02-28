@@ -1,0 +1,65 @@
+{
+  "364970": {
+    "name": "CopperCube 5 Game Engine",
+    "steam_appid": 364970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "CopperCube is a full-featured 3D game engine. No programming needed! Create 3D games, apps and even 3D websites quickly. Includes terrain editor, low poly modelling tools, 3D models, precreated game AI, effects and more. There are also plenty of features for advanced users, like JavaScript scripting and shader support.<br><br>Create your own 3D worlds and 3D models, set camera controllers, materials, behaviors, click 'publish' and your game or app is ready. As Windows or Mac OS X apps, WebGL websites, Flash .swfs, or Android apps. You can do all this without programming.<h2 class=\"bb_tag\" >High performance 3D engine</h2>CopperCube includes manually optimized 3D engines for all supported targets, running with OpenGL, Direct3D, WebGL and Stage3D.<h2 class=\"bb_tag\" > Simple-Click game system</h2>No programming needed: Wether you want to create a simple 3D game, a complex, epic adventure, or a first person shooter: Select from lots of created behaviors and adjust them accordingly.<h2 class=\"bb_tag\" >Terrain Editor</h2>Create your own 3D worlds directly in the editor, textures can be painted quickly with automatic texture blending into the terrain. There are also tools for placing grass and bushes, and creating trees.<h2 class=\"bb_tag\" >Physics Engine</h2>Next to the the built-in blazingly fast collision and repsonse system, there is also a full physics engine integrated when publishing as Windows .exe and Mac OS X .app.<h2 class=\"bb_tag\" >Character Animation</h2>You can model and animate characters using any 3D software, export it into one of the supported file formats and then import them into Coppercube. Also, it is possible to download existing 3D models from the web and use them in the editor.<h2 class=\"bb_tag\" >Low poly editing tools</h2>You can edit your own 3D models directly in CopperCube: It includes a simple 3D modelling tool for creating levels, models and items.<h2 class=\"bb_tag\" >Cross Platform Script system</h2>For advanced users, there is a Javascript API working on all publishing targets. Additionally, when using Flash, you can use ActionScript 3. And for WebGL, there is even a second big JavaScript library with direct access available, which is even open source.<h2 class=\"bb_tag\" > High quality Light Mapper</h2>The editor includes a high quality light mapping tool. Place your lights, click on 'calculate' and your 3D levels will look great.<h2 class=\"bb_tag\" >Native WebGL support</h2>Unlike in other 3D engines, CopperCube's WebGL code is handwritten and highly optimized: Your 3D game will download quickly and run fast, even if run directly on a website. CopperCube's WebGL client is just about incredible 200 KB in size!<h2 class=\"bb_tag\" >Many publishing targets</h2> Create 3D games for these targets, with one single click: <br><ul class=\"bb_ul\"><li>Windows (.exe) apps <br></li><li>Mac OS X (.app) apps <br></li><li>WebGL websites (.html) <br></li><li>Android (.apk) apps <br></li><li>Flash websites (.swf) </li></ul><br>With the WebGL and Flash targets, your games work basically everywhere, even on iPhone and iPad.<br><br>This is the Basic Edition of CopperCube, with which it is possible to create games, apps and websites with a maximum of 10 scenes per file. It is possible to upgrade to the Professional Edition via DLC, which then adds video playback support, adds a scene metrics tool, allows unlimited scenes per file, and has further smaller advanced features, like a CL interface.",
+    "supported_languages": "英语, 德语, 法语, 阿拉伯语, 葡萄牙语 - 巴西, 俄语, 土耳其语, 西班牙语 - 西班牙, 简体中文, 波兰语, 捷克语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364970/header.jpg?t=1478232728",
+    "developers": [
+      "Ambiera e.U."
+    ],
+    "publishers": [
+      "Ambiera e.U."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 3360,
+      "discount_percent": 52,
+      "initial_formatted": "¥ 70.00",
+      "final_formatted": "¥ 33.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

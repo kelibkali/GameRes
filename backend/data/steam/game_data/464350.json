@@ -1,0 +1,103 @@
+{
+  "464350": {
+    "name": "Screeps: World",
+    "steam_appid": 464350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i><strong>Screeps 的含义是编程（scripting）您的爬虫（creep）。</strong> </i><br><br>Screeps 是一款面向编程爱好者的开源 MMO RTS 沙盒游戏，其核心机制是为您的单位编写 AI。您可以使用真正的 JavaScript 代码来实现一个完整策略游戏中包含的任何功能，进而掌控自己的殖民地。并且您的代码将在一个容纳了许许多多和您一样玩家的庞大世界中 24/7 全天候不间断地运行。<br><br>您的殖民地可以采集资源，建造单位，征服领土或是与其他殖民地进行贸易。您征服的土地越多，您扩展疆域的能力和在游戏世界中的影响力也就越大。但是请注意，意图控制相同区域的多个玩家可能会引发一场战争！<br><br>Screeps 是为有编程能力的人开发的。和其他 RTS 游戏不同，您在 Screeps 中的单位不需要您的参与即可对发生的事情做出响应 —— 只要您对其进行了完善的编程。并且，和其他的 MMO 游戏不同，您不需要为了变的更强而经常玩 Screeps，只需要偶尔检查一下是否一切正常即可。<br><br>特点:<br><ul class=\"bb_ul\"><li> 您可以通过编写 JavaScript 来设计一个 AI，即使您离线了，它也会控制您的单位 24/7 全天候运转。<br><br></li><li> 所有玩家的单位都共存于同一个巨大且不断运行的实时世界中并遵守相同的规则。<br><br></li><li> 多种多样的单位、基地建设、采集资源、领土控制、经济、制造、运输、后勤以及贸易 —— 在一个真正的策略游戏中包含的任何功能都等着您去编写！<br><br></li><li> 代码越好，实力越强 —— 无论您玩了多久。您的 creep 会不断的采矿、建造、防御以及征服，哪怕您正在工作、睡觉或者是出门遛狗。<br><br></li><li> 游玩游戏只需要最基本的编程能力。不过，如果您是个专业开发人员，那么现在就是个绝佳机会来发挥您的才能！<br><br></li><li> 您可以选择通过游戏内置的编辑器来编写代码，抑或是使用您最擅长的其他 IDE。<br><br></li><li> 基础入门包中包括了用于访问官方 MMO 世界的永久 20 点 CPU 限额。您可以通过购买一个终身 CPU 解锁（Lifetime CPU Unlock）或是名为 CPU Unlock 的游戏内消耗品（可以通过游戏点数（credit）购买）来为您的官方服务器账号解锁完整的 CPU 额度。<br><br></li><li> 如果您不想购买 CPU 解锁，没有关系 —— 我们有一个独立的 CPU 限制型 shard 世界，您可以在完全平等的情况下和其他同样 “CPU 受限” 的玩家竞争。<br><br></li><li> 搭建您自己的服务器，自定义游戏规则并和您的好友从局域网或是互联网一起游玩。Screeps 游戏服务器是一个完全开源的项目。<br><br></li><li> Screeps 是一个慢节奏游戏（每个游戏 tick 时长从 2 秒到 5 秒不止，取决于您开始游戏时所处的 shard 世界），这么设计的目的是为了使您可以基于现实时间来调试您的代码。您也可以使用自己的私人服务器来进行快速开发和测试（最多 10 tick 每秒）。</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/d1efe845a1ba21f781f8dffd96a1242d4db0115d/header.jpg?t=1771335591",
+    "developers": [
+      "Screeps, LLC"
+    ],
+    "publishers": [
+      "Screeps, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 314,
+      "total_negative": 61,
+      "total_reviews": 375
+    }
+  }
+}

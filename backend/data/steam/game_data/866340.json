@@ -1,0 +1,89 @@
+{
+  "866340": {
+    "name": "Colonumbers",
+    "steam_appid": 866340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "用 Colonumbers 锻炼你的脑力！<br />\r\n<br />\r\n每行有 4 个带有数字的框。一开始你只有 0 和 1。点击数字来改变它。记住，可以将偶数转换为 0、2、4、6 和 8，将奇数转换为 1、3、5、7 和 9。<br />\r\n<br />\r\n必须按照升序从左到右排列数字。你只有在同一列中放置不同的数字，才能完成游戏。",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866340/header_schinese.jpg?t=1578413502",
+    "developers": [
+      "Mario Scarfone"
+    ],
+    "publishers": [
+      "Mario Scarfone"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "初学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866340/66ac0061cc305bd78534e0927931dbcf86b58dfe.jpg"
+        },
+        {
+          "name": "不错",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866340/a265b79bd4cd0cf0cd4f5b69d8958dad77154daa.jpg"
+        },
+        {
+          "name": "不错的工作",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866340/dce9c6d7c86ea075690b853ebe3c5353410f3b56.jpg"
+        },
+        {
+          "name": "大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866340/feefeed204185ab78530e4ef2adc2532adbc6670.jpg"
+        },
+        {
+          "name": "天才",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866340/0e440cef510922bab042d9429054ce173b8f408a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

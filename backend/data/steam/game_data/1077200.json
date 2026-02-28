@@ -1,0 +1,121 @@
+{
+  "1077200": {
+    "name": "Attack Of The Retro Bots",
+    "steam_appid": 1077200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "复古机器人的攻击  (Attack Of The Retro Bots)<br><br>*可作为桌面射击游戏使用。或者在VR中使用HTC Vive，Oculus Rift和WMR。<br>* VR模式支持360度和180度跟踪以及步进旋转。<br>* 10,000张地图，开始超级简单，但逐步变得非常困难。<br>*播放您想要的水平，留在简单的地图上或跳转到高风险，高回报的部门。<br>*从已完成的地图中收集奖励，以升级各种武器和技能。<br>*众多不同的敌人和特殊的地图挑战。<br>*针对不同游戏模式的多个排行榜。<br>*铁杆第一人称射击游戏。<br><br>[开发者注意：“复古机器人的攻击”是一个家庭友好，所有年龄段，50年代复古机器人版本的游戏“亡灵突变 (Necro Mutex)。”]<br><br>他们来自深空，巨大的机器，与50年代的玩具和科幻机器人相似。 他们的宇宙飞船绕地球运行，准备用一系列致命的超级武器摧毁全人类。 虽然大多数地球军队已经失去能力，但是一个小型研究实验室设法破坏了机器人的传送器单元，并将你带到了他们的一艘船上。 现在你必须在他们充电并消灭地球之前摧毁他们的超级武器。",
+    "supported_languages": "英语<strong>*</strong>, 日语, 韩语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077200/header.jpg?t=1572857749",
+    "developers": [
+      "Denormalizer"
+    ],
+    "publishers": [
+      "Denormalizer"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Complete 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/3012d4a896ba913f109b70d061098ed505cec305.jpg"
+        },
+        {
+          "name": "Complete 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/7781e0b67f446d0a0cff882f9d9fcaa51ea61d05.jpg"
+        },
+        {
+          "name": "Complete 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/311783082fec8d443895539b18c8a5281d049b14.jpg"
+        },
+        {
+          "name": "Complete 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/63d277c6d8e67d70e2d7eb516130eca2083ca0b3.jpg"
+        },
+        {
+          "name": "Complete 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/4a86cc38fc91e29783aa605926e7a675d6c16d70.jpg"
+        },
+        {
+          "name": "Kill 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/3151032bb0d990abb92d515492e418b5146725ec.jpg"
+        },
+        {
+          "name": "Kill 200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/89328920f4d7300319fd81e9206d2d0d65282b9f.jpg"
+        },
+        {
+          "name": "Kill 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/2ebb734d36aad597ec5b23fad691cb5e103e9efe.jpg"
+        },
+        {
+          "name": "Kill 1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/88da2377ff02cfc5c812df6b8f72751112f3d207.jpg"
+        },
+        {
+          "name": "Kill 2000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1077200/855eb7035faf3f3c33acdb8bd8a2b2f76c6244c6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

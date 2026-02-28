@@ -1,0 +1,50 @@
+{
+  "1494460": {
+    "name": "Desktop+",
+    "steam_appid": 1494460,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Desktop+ is a powerful, yet lightweight tool for SteamVR bringing your desktops and windows into the VR world. No matter if you just need a more reliable desktop view in your dashboard or a complex context-aware multi-overlay setup with custom shortcuts, Desktop+ offers a wide array of tweakable settings to make the overlays fit <i>your</i> needs.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> User interface with real-time adjustments accessible in VR or on desktop<br></li><li> Smooth, low-latency mirroring of desktops and windows<br></li><li> Low memory footprint and performance impact<br></li><li> Support for creating as many overlays as SteamVR allows at once<br></li><li> Customizable overlay settings (width, position, curvature, opacity, brightness, cropping), with switchable profiles<br></li><li> 3D support (SBS, HSBS, OU, HOU)<br></li><li> Overlay visibility and origin settings: Display a desktop/window during gameplay or attach it to a different origin (play space, seated position, dashboard, HMD, controllers, tracker, SteamVR Theater Screen)<br></li><li> Actions: User-definable functions (input simulation, running applications, overlay control) which can be bound to controller or UI buttons<br></li><li> Custom laser pointer implementation, allowing for non-blocking overlay interaction during gameplay<br></li><li> Configurable PC-style VR keyboard with various layouts and a keyboard layout editor for deeper customization, appearing automatically when detecting text input widget focus<br></li><li> Elevated access toggle, making it possible to deal with UAC prompts and other UIP-restricted UI in VR without using full admin-access at all times<br></li><li> Gaze Fade: Fade-out overlay when not looking at it<br></li><li> Window management: Change window focus depending on overlay/dashboard state or drag overlays when dragging the title bar of a mirrored window<br></li><li> Performance Monitor: View system performance in real-time<br></li><li> Application profiles: Automatically switch overlay profiles when a specific VR application is being run</li></ul>",
+    "supported_languages": "英语, 德语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494460/header.jpg?t=1729266738",
+    "developers": [
+      "elvissteinjr"
+    ],
+    "publishers": [
+      "elvissteinjr"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

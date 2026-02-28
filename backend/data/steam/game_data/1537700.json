@@ -1,0 +1,157 @@
+{
+  "1537700": {
+    "name": "Plasma Spheres",
+    "steam_appid": 1537700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Plasma Spheres is a physics-based arcade platformer where up to four players battle it out in various game modes. Players jump around and attack each other with their main weapon, the plasma rifle. Another powerful tool in their arsenal is their beam. The beam can be used to launch the player into the air using fixed hooks or to grab power-ups and items. There are also thirty power-ups that are shuffled randomly and can be picked up throughout each course. The diverse power-ups, courses, and game modes make every match a unique experience.<br><br>Features:<br><br><ul class=\"bb_ul\"><li>Eight game modes<br></li><li>Twenty-four courses<br></li><li>Online or local multiplayer<br></li><li>Advanced computer AI to battle against<br></li><li>Single player campaign vs bots<br></li><li>Teams option for co-op play<br></li><li>Integrated instant replay system<br></li><li>Extensive stat tracking system</li></ul><br>Game Modes:<br><br><ul class=\"bb_ul\"><li>Beam Ball - Use your beam to get the ball into the goal.<br></li><li>Heist - Collect four gems and escape before any other player's steal them.<br></li><li>King of the Hill - Defend the crown platform from other players.<br></li><li>Elimination - Last sphere standing wins the match.<br></li><li>Point Match - Score points with kills and goals to increase your multiplier.<br></li><li>Reaper - The player who died last becomes the Reaper. Spend the least amount of time as Reaper to win.<br></li><li>Race - Race around checkpoints to win.<br></li><li>Deathmatch - Classic deathmatch. Get more kills than your opponents.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537700/header.jpg?t=1614780501",
+    "developers": [
+      "Abnormal Software"
+    ],
+    "publishers": [
+      "Abnormal Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "Murphy, Murphy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/391a7b145d6ce868ae418b19d3c4d920b6130949.jpg"
+        },
+        {
+          "name": "Play Online",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/b11a9cb875d7a0c74349aa67ef46af05616f2558.jpg"
+        },
+        {
+          "name": "Fire The Laser!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/5c3e3a769318daf6581c517ef7098ea61a7fb965.jpg"
+        },
+        {
+          "name": "Rocket Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/774f28bd16b34aa8cb908d273cf7ce8000bedf9d.jpg"
+        },
+        {
+          "name": "Death From Above",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/59863fe97d824ef1c17996f2f7c9c0bb4e674d63.jpg"
+        },
+        {
+          "name": "Flame On",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/4f271eaba588214ccc6ba51069ee8840fb432814.jpg"
+        },
+        {
+          "name": "El Scorcho",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/a81841e5b2741e8c9e03e03014d46a06adbeed38.jpg"
+        },
+        {
+          "name": "Boulder To The Face",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/e79014f8684a56691efb3542fd0ffb5afdabd6e2.jpg"
+        },
+        {
+          "name": "Self Destruction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/e46f4c942804e47ede16385513215c36cd682db6.jpg"
+        },
+        {
+          "name": "Bombs Away!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537700/d7e001b46557a165869b21f137ab149baeae52ed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "430300": {
+    "name": "MINUS ZERO",
+    "steam_appid": 430300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/430300/extras/d71a9a063edb72e2bd8c57088ee114ee.avif?t=1711512753\" width=600 height=230 /></span><br>在© TRIANGLE SERVICE持续发行的电玩中心专用射击游戏中，本作是为数不多的特别针对家用主机设计的射击游戏。<br>只有锁定射击一种攻击方式，是一款简单的抽象射击游戏。<br>Steam版追加了数项成就与结局等元素。<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/430300/extras/f85c0484bd4dc6372ea711fa0be467b5.avif?t=1711512753\" width=600 height=250 /></span>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/430300/header.jpg?t=1711512753",
+    "developers": [
+      "TRIANGLE SERVICE"
+    ],
+    "publishers": [
+      "KOMODO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "锁定大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/285873c848cced4ea54c8abbe5e4016939121098.jpg"
+        },
+        {
+          "name": "Small target",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/ca02c269ef1a76899354977d7fc537c1df88c99c.jpg"
+        },
+        {
+          "name": "Middle target",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/bdf2baab626003a0155b86ecec4780cf3368be74.jpg"
+        },
+        {
+          "name": "Big target",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/c3730b42397a9388d960e84097147432c3843a4f.jpg"
+        },
+        {
+          "name": "敌弹",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/ecaf302e9a55f64242b96f9e5756485fd96249c4.jpg"
+        },
+        {
+          "name": "MAX LEVEL 抵达",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/4e18848c32da79769e8c40f68b327c3e1125a470.jpg"
+        },
+        {
+          "name": "Congratulations!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/43da44c2cf9f0da606da7c8bf602c14520ff94e1.jpg"
+        },
+        {
+          "name": "好久不见。",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/430300/1a0db421ec46370b6e97396f4d384f593ed6946d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

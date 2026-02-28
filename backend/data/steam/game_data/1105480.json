@@ -1,0 +1,86 @@
+{
+  "1105480": {
+    "name": "GGG Collection",
+    "steam_appid": 1105480,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>6 Arcadegames wait to be explored.</strong><br><br>Dodge others as a line, jump as high as you can as a jumper, dodge hornets as a frog, throw pizzas at shades as scaterboy, blow up obstacles as bombman and smile away your foes.<h2 class=\"bb_tag\" >Engine path limitation</h2>If this game is in too many subfolders the games may not launch, just relocate the game into a steam library in a path with a small pathstring like D:/steam/",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/header.jpg?t=1682941591",
+    "developers": [
+      "GGG"
+    ],
+    "publishers": [
+      "GGG"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Collection",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1105480/ce5ae394f56ebf79ce0e69a960b345926e6b7bbc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

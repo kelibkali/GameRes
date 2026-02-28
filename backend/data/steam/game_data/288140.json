@@ -1,0 +1,145 @@
+{
+  "288140": {
+    "name": "Perfect Golf",
+    "steam_appid": 288140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Perfect Golf is a next generation golf game from Perfect Parallel Studios an independent game developer and published by Perfect Parallel Inc.<br><br>High resolution visuals, highly accurate ball flight physics developed using state of the art launch monitors, Perfect Golf is the best simulation of golf released to date.<h2 class=\"bb_tag\" >Perfect Golf</h2><br>With hundreds of user designed golf courses available along with Full Peer to Peer multiplayer  Perfect Golf should be on anyone's wish list of PC Golf Games<h2 class=\"bb_tag\" >Game Play Modes</h2><br>The default game comes with well over 20 different game play modes including StrokePlay, MatchPlay and Skins scoring methods and supports, many team based modes of play including Foursomes and Greensomes (Alternate Shot), Better ball and Scramble<h2 class=\"bb_tag\" >Multiplayer</h2><br>The game has an integrated multiplayer lobby with matchmaking and course checking to give you a seamless experience in finding online players to play against.  Visit the lobby and join in the chat and find a game to play, or set up a private game for you and your friends using a password protected online game<h2 class=\"bb_tag\" >Highly Accurate and Detailed Courses / Course Forge</h2><br>The game comes with over 12 courses inclduing a driving range and a dedicated practice facility.  All our official courses are fully georeferenced to the real world so the sun will rise and set in the correct place at the correct time for the day of the year. <br><br>Course Forge is our Golf Course design software and is included as a free download with purchase of the game and licensed for non commercial use only.<h2 class=\"bb_tag\" >Advanced API for Tournament and Swing Integration</h2><br>We have built an API for external tournament sites to be able to fully integrate into the game for online real time scoring and tracking.  Tournaments set up on remote sites will show up inside the tournament lobby giving players a wide range of different tournaments to enter every week from public to private to official Perfect Golf Tournaments.  In addition we also have an API to allow anyone to develop a hardware integration to Perfect Golf.  Already people in the community are using these API to work on WII integration and other items.  We have several official integrations with Launch Monitor companies and Simulator Systems Integrations are also in development.<h2 class=\"bb_tag\" >Full Controller Support</h2>The game comes with support for almost all controllers.  We have not left Controllers as an afterthought, almost everything you can do with a mouse in the game you can do with the controller from moving your ball on the tee to aiming, dropping and moving between main and overhead cameras all without the need to have a pointer on the screen.<h2 class=\"bb_tag\" >Multiple Camera Angles</h2>We provide the player with many choices for Cameras.  From the player camera, to the spectator camera to the follow camera there are many ways to watch the game unfold.  In addition we have several different replay cameras to choose from after the shot has finished fully integrated into the multiplayer online experience.<h2 class=\"bb_tag\" >Highly customisable Options</h2><br>Whether you want to change the contrast, brightness or saturation of the golf courses, add a little vignetting, set up your sun rays and lens flares, add a sky scattering effect change the weather, change how far back the camera follows the ball etc pretty much everything is configurable inside the game.<h2 class=\"bb_tag\" >Multiple Difficulty Levels and Swing Types</h2>Perfect Golf offers 5 difficulty levels and unlimited assist customisation to allow anyone to set the game up to play as easy or as difficult as they like.  Do you like par to be a challenge or do you want to have a shot at birdie on every hole.  Whatever your style Perfect Golf has a setting that will work for you.<br><br>We also have many different swing types from two swing meters to motion swing with the mouse to real time integrated swing with the controller or mouse.  There are several simulation options too.<h2 class=\"bb_tag\" >True Time Of Day</h2>Configure the time of day you want to play and watch the lighting change as the day progresses.  Not only that but everything is accurate to real life as the sun will move at the correct angle and rotation for the course being played assuming the course has been properly georeferenced in Course Forge.<h2 class=\"bb_tag\" >Customisable Green Speeds and Course Conditions</h2><br>Perfect Golf offers totally customisable green speeds based on official STIMP measurements from 8 to 14.  In addition there are three firmness settings that can be used to set up a different challenge each time you play.<h2 class=\"bb_tag\" >The Free Camera</h2><br>At any time engage the free camera and go for a wander around the golf course.  While you are waiting for your opponent to hit you could be lining up your putt or taking a look down the hole at the green or simply moving to an aerial view of the course to watch your opponent hit.  Our innovative free camera lets you take control of the way you want to watch the round unfold.<br><br><br>Perfect Golf has been designed from the outset to be a community driven game with regular content and feature releases based on player feedback.  We have spent a long time in early access trying to get the game to be the best golf game on the market.  We have incorporated many community suggestions during this process.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288140/header.jpg?t=1582036990",
+    "developers": [
+      "PERFECT PARALLEL"
+    ],
+    "publishers": [
+      "Perfect.Golf, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10000,
+      "final": 10000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 100.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 28,
+      "highlighted": [
+        {
+          "name": "Golfer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/4ca8afc295fc8bc9fab5ad1c3d7a4c80a18e0ae0.jpg"
+        },
+        {
+          "name": "Beach Party",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/7bc3f449b8e145c6e5f1ecc98cb6b922304e18e3.jpg"
+        },
+        {
+          "name": "Pounder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/23dc9d90e3fb40b0c675fc2718e94b94270f5d0b.jpg"
+        },
+        {
+          "name": "Amateur Golfer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/1398e8a0f495736bae28328f19153256af070cc3.jpg"
+        },
+        {
+          "name": "Professional Golfer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/3a3e25eabdcb73fca90a8b390e1cc23aaaf2a87c.jpg"
+        },
+        {
+          "name": "Tour Professional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/1d9daa24420d7869865fe021ae3ce0e8cafb56d7.jpg"
+        },
+        {
+          "name": "Mr. 59",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/4cfb1dbdd4680dddab5b26693004ac3fd8a07349.jpg"
+        },
+        {
+          "name": "Dive Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/5e4c88f3f884c08bdfb07c35d54e6cde6850b4b5.jpg"
+        },
+        {
+          "name": "Lobby Check In",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/d64850f1a89d932851a4198343bef65702dcea84.jpg"
+        },
+        {
+          "name": "Weather Forecaster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/288140/ad2e846faeed05566c4a38c11a8fadb29846facc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

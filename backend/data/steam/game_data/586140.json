@@ -1,0 +1,137 @@
+{
+  "586140": {
+    "name": "BlazBlue Centralfiction",
+    "steam_appid": 586140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "采用最新的滚动式网络匹配技术，享受亚克系统的标志美丽的视觉与时尚的高层战斗系统！老玩家还是新玩家都再回到苍的世界里吧！可以操作使用各种新系统的 35位漫画风格的独特角色。命运之轮再次旋转!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/16f3b8508c30d78abbace256f194ea01.poster.avif?t=1653281343\" width=398 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/16f3b8508c30d78abbace256f194ea01.webm?t=1653281343\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/16f3b8508c30d78abbace256f194ea01.mp4?t=1653281343\" type=\"video/mp4\"></video></span><br><br>最高峰的快节奏2D格斗对战与重量级视觉小说结合在此,苍翼系列的完结篇来临！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/1b09d014fa78373a452839f3b0cf2de6.poster.avif?t=1653281343\" width=398 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/1b09d014fa78373a452839f3b0cf2de6.webm?t=1653281343\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/extras/1b09d014fa78373a452839f3b0cf2de6.mp4?t=1653281343\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 日语<strong>*</strong>, 韩语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/header.jpg?t=1653281343",
+    "developers": [
+      "Arc System Works"
+    ],
+    "publishers": [
+      "H2 Interactive Co., Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 11200,
+      "final": 11200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 112.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 48,
+      "highlighted": [
+        {
+          "name": "格斗游戏第一步",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/1bc7c0cebd09fd9bbaa134edd79df95ae06e8914.jpg"
+        },
+        {
+          "name": "突击！！格斗游戏学院",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/7bdf0778242109047ee3e8f0f74b1c47d2266bd1.jpg"
+        },
+        {
+          "name": "●REC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/637ea3fbe54515843dff1a19a1032354c07362eb.jpg"
+        },
+        {
+          "name": "这种刺激，简直就是爱！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/ebaa24290fd252fda776d91bd70f36a1203eae3c.jpg"
+        },
+        {
+          "name": "苍炎之挑战者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/68721468f1d350c4e0430ebed328b2067e6801ec.jpg"
+        },
+        {
+          "name": "这就是完美结局！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/94161e85cd8983e94048794267bf000ea62a869a.jpg"
+        },
+        {
+          "name": "The Beginning of the end",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/e61289eba821cc2484167b4a63f0c71543891cde.jpg"
+        },
+        {
+          "name": "Phantom of Labyrinth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/f51edd2fe7730730bb29c04f7e482e7ab1ab6eeb.jpg"
+        },
+        {
+          "name": "Nightmare Memory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/340f01c01cd6d55dab4592617b850beff9c86b0f.jpg"
+        },
+        {
+          "name": "The Requiem",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586140/b37ee0d47c75e7fc526925dfff5d06162afcba74.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 2067,
+      "total_negative": 165,
+      "total_reviews": 2232
+    }
+  }
+}

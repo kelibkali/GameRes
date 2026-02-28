@@ -1,0 +1,113 @@
+{
+  "715560": {
+    "name": "Eastshade",
+    "steam_appid": 715560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/extras/4fd3e92bfca2ebc194b4719f67d901c7.poster.avif?t=1763513492\" width=500 height=280 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/extras/4fd3e92bfca2ebc194b4719f67d901c7.webm?t=1763513492\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/extras/4fd3e92bfca2ebc194b4719f67d901c7.mp4?t=1763513492\" type=\"video/mp4\"></video></span><br><br>你是一位旅行画家，正在探索东方之茵的奥秘。使用画架和画布捕捉世界。与原住民交流，了解他们的生活。结交朋友，帮助有需要的人。探索未解之迷，揭开这块土地的奥秘。穿越天然屏障，到达被遗忘的地方。体验你的行为如何影响周围的世界。<h2 class=\"bb_tag\" >关于这款游戏</h2><ul class=\"bb_ul\"><li>通过包含探索主题和支线对白的动态对话，与当地人互动。<br></li><li>在世界的各个角落创作绘画作品，并将作品提供给各个角色，以获取物品和知识，并解开秘密。<br></li><li>获得材料和原理图以克服障碍。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/715560/header.jpg?t=1763513492",
+    "developers": [
+      "Eastshade Studios"
+    ],
+    "publishers": [
+      "Eastshade Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 3680,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 92.00",
+      "final_formatted": "¥ 36.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Landed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/9c0d8af24eb3229904f6d21d07ce3677c96a68b0.jpg"
+        },
+        {
+          "name": "Carpenter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/ffa1a0be22846a4fde2421162216375553fd9e2c.jpg"
+        },
+        {
+          "name": "Master Brewer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/ae0002df1eaf70cfc08fd8482560d984e6e19a15.jpg"
+        },
+        {
+          "name": "Well-to-do",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/7135c58d8b220182ce21d5e1d3c5b2c8abbacbf3.jpg"
+        },
+        {
+          "name": "Detective",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/a286dfe290a6214fa21e6eec4e2361bd6b7487c7.jpg"
+        },
+        {
+          "name": "Adventurer's Spirit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/61cfe78416b7f0e769f65341cbdeeefa35c5c3cf.jpg"
+        },
+        {
+          "name": "Go-getter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/62344e9d6c61be417ad652e96eaa332283630993.jpg"
+        },
+        {
+          "name": "CandleThief",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/33b67db84adc8cdc5160046fa87a9a80692a37a5.jpg"
+        },
+        {
+          "name": "Prolific Artist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/fa98bb02de6bb7248a1f4e26a95d6dad5f568ef2.jpg"
+        },
+        {
+          "name": "There and Back",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/715560/8d1d1adc33219b9b99bce9ab77799943d0b70bb8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 390,
+      "total_negative": 80,
+      "total_reviews": 470
+    }
+  }
+}

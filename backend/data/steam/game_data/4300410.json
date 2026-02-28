@@ -1,0 +1,81 @@
+{
+  "4300410": {
+    "name": "五行碰碰战",
+    "steam_appid": 4300410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >五行碰碰战，一款以中国传统五行元素为基础对象，通过玩家走位使同属性敌人一条直线爆炸或者引诱到相克的属性陷阱被消灭，每回合可以通过金币升级玩家或者基地的休闲游戏。当某个属性敌人正前方和正后方都有两个以上同属性敌人则当前敌人会爆炸并像前后左右发出能量球，能量球可以攻击同属性以及被克属性敌人。场地有五种属性陷阱，可以消耗能量消灭克制的属性敌人，同属性敌人可以补充陷阱的能量值。玩家可以无限复活，但是基地被毁灭则游戏结束。敌人死亡可获取积分和金币，根据死亡方式获取的数量从大到小依次为，陷阱消灭&gt;同属性爆炸击杀&gt;(玩家攻击击杀，基地攻击击杀)。足够的金币可用于每回合随机的3个选项（从5个固定项随机）中升级玩家或者基地。玩家攻击需要能量（可以金币升级），跳跃需要能量（不能金币升级）。木克土、土克水、水克火、火克金、金克木。</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300410/3d8132131bf2c62a688c0c92c8808a49ae0bfd79/header.jpg?t=1769425374",
+    "developers": [
+      "YIN YUAN"
+    ],
+    "publishers": [
+      "YIN YUAN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

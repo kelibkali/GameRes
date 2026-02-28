@@ -1,0 +1,170 @@
+{
+  "1000360": {
+    "name": "Hellish Quart",
+    "steam_appid": 1000360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是《Hellish Quart》的试玩版 —— 一款以剑术决斗为核心的格斗游戏。在游戏中，刀剑通过物理系统真实碰撞，角色动作基于动作捕捉的击剑技术。扮演 17 世纪的众多战士之一，在单人战役、街机模式，或本地多人模式（两名玩家在同一台 PC 上 / 非联网）中，与朋友一同使用军刀、细剑、阔剑以及更多兵器展开对决。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/extras/866870566e8a24a68a346f3720f089cd.poster.avif?t=1763119384\" width=620 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/extras/866870566e8a24a68a346f3720f089cd.webm?t=1763119384\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/extras/866870566e8a24a68a346f3720f089cd.mp4?t=1763119384\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>特色：</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >基于主动布偶系统的物理剑斗</p></li><li><p class=\"bb_paragraph\" >超逼真的动作捕捉击剑动画</p></li><li><p class=\"bb_paragraph\" >精美的 3D 扫描图像</p></li></ul><p class=\"bb_paragraph\" >《Hellish Quart》使用主动布偶系统。刀剑会通过实时物理相互格挡。手柄上的四个按键代表四个攻击角度，不同的按键组合可以使出特殊攻击和连击。如果你没有攻击，你的角色会自动尝试格挡对手的招式。要想获胜，你必须依靠正确的时机、距离、技巧、速度与智慧 —— 就像真实的击剑一样。</p><p class=\"bb_paragraph\" >《Hellish Quart》的背景具有历史性。游戏发生在 17 世纪的波兰-立陶宛联邦。角色模型基于当时的服饰，通过 3D 扫描制作而成。单人战役深深植根于当时该地区的生活现实。你将与扎波罗热哥萨克、波兰翼骑兵、鞑靼人、奥斯曼禁卫军、瑞典骑兵、法国火枪手等展开决斗。</p>",
+    "supported_languages": "英语, 简体中文, 波兰语<strong>*</strong>, 法语, 德语, 西班牙语 - 西班牙, 日语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/header.jpg?t=1763119384",
+    "developers": [
+      "Kubold"
+    ],
+    "publishers": [
+      "Kubold"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 6800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 68.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "First Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/544b7c460fa70be7695c24bd13a427c7d2ac4b16.jpg"
+        },
+        {
+          "name": "Defeat Samuel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/183b46d12dd155a6d5e99be8f4ff3adadf0f5ab5.jpg"
+        },
+        {
+          "name": "Survive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/026e629ab7f30b8b6ef9fd15ea117d203802699a.jpg"
+        },
+        {
+          "name": "Toughest Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/884c939bb3274b5be84638c1c2720884cf0117bb.jpg"
+        },
+        {
+          "name": "Rich!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/4fcc318426d6ae5a7ff2bc656668ed890a31d83d.jpg"
+        },
+        {
+          "name": "100 Wins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/5ccecc241352a54abb3f1e9f04e0fc74d83d9ce0.jpg"
+        },
+        {
+          "name": "500 Wins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/f70b9e04c08f01741e092d3bfa547a5549724f1c.jpg"
+        },
+        {
+          "name": "1000 Wins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/18eb77b121c81ddaf4d33b30af7f97c4045a0237.jpg"
+        },
+        {
+          "name": "5000 Wins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/d9e0710a4e5f2f1830fcc7001c0c272f64e135e4.jpg"
+        },
+        {
+          "name": "Survive 15 duels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000360/8ccb87ea1444e263e44c7b370c08b70e8bdd4d9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 929,
+      "total_negative": 103,
+      "total_reviews": 1032
+    },
+    "type": "game"
+  }
+}

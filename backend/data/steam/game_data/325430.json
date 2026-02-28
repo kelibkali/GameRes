@@ -1,0 +1,89 @@
+{
+  "325430": {
+    "name": "Metaverse",
+    "steam_appid": 325430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325430/extras/8f2089e8d3733b2d3d7aae1e2c5104bf.avif?t=1459465109\" width=616 height=104 /></span><br>Dig, discover, design, deploy, and defend. Explore your very own planet, and eventually help conquer or help build up the planets of others.<h2 class=\"bb_tag\" >What is Metaverse?</h2>Metaverse is a voxel based action/adventure (Sci-Fi!) game about digging, discovering, designing, deploying, and defending.  But we see it as more than a game.  Metaverse is an ever-evolving platform, shaped by the actions of its players.  Right now that involves players giving feedback about the direction of development.  Before long, players will have a much more direct role in how Metaverse shapes up by traveling to the planets of other players and by trading and selling their fabrications.  Fabrications are custom objects that can be created in-game by players, using the materials harvested from their planet.  See below for more details.<h2 class=\"bb_tag\" >What can I do in Metaverse right now?</h2><u>Story</u><br>Metaverse has what we believe to be an awesome storyline.  Of course, we <i>would</i> say that!  So we’ll let you be the judge.  Tell us what you think so we can make improvements, create story branches, or even change its entire direction.  We’re excited to build this thing with you!  We’ve built out the first chapter of the story in the form of a tutorial.  If you rush through and don’t stop to smell the roses or explore, there’s about 25-30 minutes of playable story in the game right now.<br><br><u>Sandbox Mode</u><br>After the tutorial, you’re dropped straight into sandbox mode.  In this mode, you can explore your planet.  This is also where you can dig and create (though a major component of creating is also found in Metaverse’s Fabricator).  Because of the technical challenges involved with setting up procedural terrains otherwise, most voxel based games offer only either completely cubed geometry or completely rounded geometry.  Metaverse, being a simulation from the future, has cracked the code, and is able to beautifully combine the two in a way that makes logical sense!  The procedurally generated planet that currently ships with Metaverse is 300 Km in diameter, which is indeed very big.  For now, let’s just call it, “New Texas.”  If you were to run in a straight line without stopping, we estimate it would take you about 28 hours to completely circle the planet. Metaverse does not have biomes right now, but that is a planned feature, and we’ve already done a lot of the development work needed to support that.  You tell us what’s most important to you, and that’s where we’ll focus development!<br><br><u>Fabricator</u><br>In the Fabricator, you can process the raw resources you’ve collected from your planet into refined materials.  Using these refined materials in the Simulation mode of the Fabricator, you can create just about anything you want.  And as long as you’ve got enough refined resources for the elements you’ve used, you can fabricate it into an actual object that can be taken outside to your planet and deployed.  Elements in the fabricator are based on real periodic table elements, and have accurate densities.  So if you make the walls of your base out of titanium, they're going to be significantly stronger than if you had made them with clay.<h2 class=\"bb_tag\" >What are the limitations right now?</h2>Metaverse <i>is</i> Early Access, so there will be bugs.  We’re working hard to sort these out, and with your help, will stomp out the ones that are most important to you as quickly as possible.  And if you find something lacking, we want to hear about it!<h2 class=\"bb_tag\" >Is Metaverse under active development?</h2>Yes, very much so!  Metaverse is now a full time project, <u><i>not</i></u> an on-the-nights-and-weekends project!<h2 class=\"bb_tag\" >I have an idea for Metaverse!</h2>Great!  We want to hear it!  Please head over to the Metaverse discussion forums and let your voice be heard.  Metaverse is a game meant to be directed by its community.  That’s why we’re releasing as Early Access, after all!<h2 class=\"bb_tag\" >I found a bug!</h2>Great!  Please do us a favor and send an email to <a href=\"mailto:support@jointhemetaverse.com\">support@jointhemetaverse.com</a>.  That will get your bug into our help desk software and allow you to track its status as we work to fix it.<br><br><br><i>Metaverse exists to be the exemplification of the democratization of knowledge and thereby the dissemination of power, primarily through the novel exploitation of computation through collaboration within simulation.</i>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325430/header.jpg?t=1459465109",
+    "developers": [
+      "Metaware Limited, LLC"
+    ],
+    "publishers": [
+      "Metaware Limited, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 4 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

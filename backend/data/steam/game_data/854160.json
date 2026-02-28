@@ -1,0 +1,81 @@
+{
+  "854160": {
+    "name": "Dino Dawn",
+    "steam_appid": 854160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dino Dawn is a platformer game about adventure of the Dinosaur in which it needs to rescue eggs.<br />\r\nEvil enemies have stolen all his eggs and now the continuation of the genus under threat. Now he needs to save all the eggs and assistant him in this difficult journey will be....pepper!!!! Red pepper, meal which, the hero will be able to spew fire!<br />\r\n<br />\r\nDefeat enemies with the help of red pepper.<br />\r\nCollect eggs to go to the next level.<br />\r\nMove around the world map to select the desired level.<br />\r\nListen to wonderful chiptune music.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/854160/header.jpg?t=1526022856",
+    "developers": [
+      "neonboxgames"
+    ],
+    "publishers": [
+      "neonboxgames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/854160/9865a5b08ce3e1c6af7a0b73fd20608c3a5b923a.jpg"
+        },
+        {
+          "name": "Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/854160/e17ecac7abdfde4c979f4d5bf618e72d1a81c17d.jpg"
+        },
+        {
+          "name": "Defeat Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/854160/e17ecac7abdfde4c979f4d5bf618e72d1a81c17d.jpg"
+        },
+        {
+          "name": "Eggs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/854160/77405b3c573009df5d7fd24596eb40b73ff51a0e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

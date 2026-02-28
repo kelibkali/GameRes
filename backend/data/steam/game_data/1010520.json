@@ -1,0 +1,105 @@
+{
+  "1010520": {
+    "name": "Space Journey",
+    "steam_appid": 1010520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Space Journey</strong> is a first-person space simulator. You will explore 6 levels: Asteroid Belt, Supernova, Orion, Infinite Space, Nebula and Dark Void. <br><br>Explore the infinite space and collect red gas clouds to accumulate them into energy. Each gas cloud gives you 5% of your fuel. You can accelerate and maneuver, each acceleration takes 5% of your fuel, maneuvers take 1%-5% depending on your speed. If you run out of fuel, the ship will start to decelerate slowly. <br><br>Avoid collisions with drifting asteroids, as this will damage ship's armour. If you run out of armour, the level will start from the beginning and all collected gas clouds will be lost.<br><br>– Beautiful Graphic <br>– Atmospheric Ambient and Game World<br>– Supports Controller<br>– Low System Requirements",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010520/header.jpg?t=1582917562",
+    "developers": [
+      "Starmops"
+    ],
+    "publishers": [
+      "Starmops"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Asteroid Belt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/d3a157f72dfbab5b62f86a85fac31d7e3ec7d9ec.jpg"
+        },
+        {
+          "name": "Supernova",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/ea39f3e7540aaf7e388eddccd41c11d8e5bb6294.jpg"
+        },
+        {
+          "name": "Orion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/7c94e4f2c98b72fb206f8f1d08bbfee90b511ae0.jpg"
+        },
+        {
+          "name": "Infinite Space",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/809ad4a2f661e52994d7175e3ffab79cbdd16b07.jpg"
+        },
+        {
+          "name": "Nebula",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/fa7a1bc437b201d125b5a958d03a1ff5c1b20ab8.jpg"
+        },
+        {
+          "name": "Dark Void",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010520/0f8299e536cb0d954b445533a63ad5306839681f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

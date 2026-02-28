@@ -1,0 +1,73 @@
+{
+  "1159340": {
+    "name": "March Forward",
+    "steam_appid": 1159340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >概述</h2><br>《March Forward/前进》是一款以第三人称模式控制的战争模拟游戏，聚焦于细微的部队操作。游戏中你将选择一支部队，并指挥他们在一次次艰难的战斗中取得胜利。<h2 class=\"bb_tag\" >特点</h2><br><strong>兵种：</strong>游戏目前有4个兵种，重步兵、轻步兵、重骑兵、轻骑兵。兵种间并非简单的相互克制，而是需要合理选择武器，利用阵型和地形特性方能打败敌人。<br><strong>武器：</strong>配置不同的主副武器会有不同的效果。<br><strong>阵型：</strong>根据战斗的需要及时变换阵型。<br><strong>地形：</strong>河流会减缓骑兵冲锋，树木能阻挡部分箭矢，山地会阻挡视线，合理利用地形出奇制胜。<br><strong>战斗方式：</strong>远程部队可用箭矢削弱敌人，骑兵可以发动冲锋击溃敌人，或者直接近身厮杀。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159340/header.jpg?t=1571124434",
+    "developers": [
+      "Ram"
+    ],
+    "publishers": [
+      "Ram"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

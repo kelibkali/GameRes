@@ -1,0 +1,65 @@
+{
+  "252530": {
+    "name": "OMSI 2: Steam Edition",
+    "steam_appid": 252530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "让我们进入下一轮吧！体验用全新的OMSI2来体验公车模拟，从Spandau开始你的发现旅程。OMSI 2 是众所周知且备受赞誉的OMSI公车模拟软件的下一代产品。OMSI 2不仅提供了OMSI一代所具有的线路和公交车，而且还增加了许多令人激动的新功能。在 OMSI 2中你可以驾驶在OMSI有史以来的第一辆铰接式客车， MAN NG272。探索从Ruhleben地铁站到Spandau精神病院总距离12公里的5号公交车线路。. <br><br>利用新增加的年表功能你不仅能够去到1986年的Spandau,而且还能够重温Spandau在1986-1994年间的全部变化。享受下80年代和90年代的魅力，并看看柏林墙倒塌以后的时期是怎么样的。这一切你都可以作为双层或者铰接式公交车司机来经历。<h2 class=\"bb_tag\" >OMSI 2的新功能:</h2><br><ul class=\"bb_ul\"><li>铰接式公交车有着对链接运动学和相应的声音与系统的确切物理化和图形化结合。 (折弯保护). <br></li><li>该 MAN NL202 以及SD200和SD202类型一样，都进行了加工和增加了模型。 (制造年份，紧急开门装置，连接板，依据车号变化的音效)。<br></li><li>该 Spandauer Omnibus 5号线覆盖从Ruhleben地铁站到Spandau 精神科门诊总共12公里行车路线，数量众多的新型建筑物，紧凑的行车时间表和众多终点站的紧张5分钟行程以及多样化和持久的驾驶乐趣。 <br></li><li>复制了原本的时间表及 Omnibus5 号线和92号线的旅游规划。 <br></li><li>年表功能:体验从1986至1994年间Spandau的变化吧！ OMSI 2现在也可以呈现给您德国统一以后的那些激动人心的年月以及所有的改革和路线扩展 (开往Falkensee的137号线)。 该功能还允许临时更改地图或者路线，如通过建筑工地或者专用通道等。<br></li><li>扩展和改善了人工智能交通 (更好地行驶和转向，铁路和地铁交通)。 <br></li><li>包括不同故障的系统损伤模型需要时间来修复。 <br></li><li>OMSI 2 支持世界坐标系统，它可以导入一个DEM(数字高程模型) 。(你甚至还可以自己编写一个DLL). <br></li><li>在Spandau地图上动画展示实际海拔高度变化。<br></li><li>新的脚本功能,如，全矩阵视图，增加访问系统变量。 <br></li><li>新的编辑器功能: 航空影响的自动导入， 地形适应道路，改善了花键连接算法，物体围绕所有轴旋转。交叉路口可以很容易地配备各个海拔高度。<br></li><li>地图加载内存优化，允许加载相当大的地图。</li></ul><h2 class=\"bb_tag\" >其他的功能:</h2><br><ul class=\"bb_ul\"><li>经典版本的MAN双层巴士SD200和SD202。<br></li><li>真实的街道交通以及细致的景观。 <br></li><li>真实及可控的天气和季节效果。 <br></li><li>逼真的日间/夜间效果。 <br></li><li>许多动画及动画化物体<br></li><li>功能齐全的IBIS(集成车载信息系统) <br></li><li>四种不同视角: 驾驶员视角，乘客视角，外观视角或者自由视角。 <br></li><li>便于操作，基于地图的路线编辑器。<br></li><li>兼容TrackIR5</li></ul>",
+    "supported_languages": "英语, 德语<strong>*</strong>, 法语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252530/header.jpg?t=1757410180",
+    "developers": [
+      "MR-Software GbR"
+    ],
+    "publishers": [
+      "Aerosoft GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 311,
+      "total_negative": 38,
+      "total_reviews": 349
+    }
+  }
+}

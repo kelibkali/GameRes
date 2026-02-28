@@ -1,0 +1,93 @@
+{
+  "746710": {
+    "name": "Cypher",
+    "steam_appid": 746710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Cypher is a first person puzzle game about cryptography.<br />\r\n<br />\r\nExplore the museum and learn about the history of cryptography, from<br />\r\nsimple substitution ciphers to the Enigma machine and beyond.<br />\r\n<br />\r\nGrab a pen and paper and test your deciphering skills across 40+ challenging puzzles.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746710/header.jpg?t=1667310781",
+    "developers": [
+      "Matthew Brown"
+    ],
+    "publishers": [
+      "Matthew Brown"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Complete all steganography puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        },
+        {
+          "name": "Complete all transposition puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        },
+        {
+          "name": "Complete all monoalphabetic puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        },
+        {
+          "name": "Complete all polyalphabetic puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        },
+        {
+          "name": "Complete all mechanised cryptography puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/d604d985df315a91d6fe1bfdf0a88c902c6e9c3a.jpg"
+        },
+        {
+          "name": "Complete all digital cryptography puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        },
+        {
+          "name": "Complete all challenge puzzles.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746710/decac737d57264b09d18a764e4bf305a4e3297df.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 304,
+      "total_negative": 22,
+      "total_reviews": 326
+    }
+  }
+}

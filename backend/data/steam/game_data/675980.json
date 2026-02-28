@@ -1,0 +1,57 @@
+{
+  "675980": {
+    "name": "Atomic Sky",
+    "steam_appid": 675980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Atomic Sky</strong> this is a small arcade casual game. Unlike classic match-3 games, the action takes place in three-dimensional space.<br><br>There are 6 game modes in this game:<br>3x3x3, 3x6x3, 4x4x4, 5x5x5, 6x6x6 and 7x7x7 <br><br>Simple modes of 3x3x3 and 3x6x3 for a short game<br>For advanced players - 6x6x6 and 7x7x7<br><br>The goal of the game is to score the maximum points.<br><br><ul class=\"bb_ul\"><li>Put in the rows of balls of the same color and earn more points.<br></li><li>The fewer balls in the game, the more points per turn.<br></li><li>The more balls destroyed in one turn, the more points.<br></li><li>If the column with the balls is empty - a new column with balls appears and plus 100 points for each new ball.<br></li><li>If the layer of balls is empty - a new layer of balls will appear and plus 100 points for each new ball.</li></ul><br>Control:<br><ul class=\"bb_ul\"><li>Left mouse button - select the ball.<br></li><li>Right mouse button, as well as the WASD, Arrow keys - the rotation around the playing space<br></li><li>F1 or move the cursor to &quot;Atomic Sky&quot; - about game.<br></li><li>F2 or move the mouse cursor to the timer - view the next move<br></li><li>F3 - Results Table</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675980/header.jpg?t=1504110618",
+    "developers": [
+      "Evgeniy Alemzhin"
+    ],
+    "publishers": [
+      "Евгений Алемжин"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

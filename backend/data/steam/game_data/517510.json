@@ -1,0 +1,121 @@
+{
+  "517510": {
+    "name": "Flatshot",
+    "steam_appid": 517510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Flatshot is a Shoot'em up (Bullet-Hell, Shmup or STG) with minimalist flat aesthetics.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\">    <li>Keyboard and Gamepad support<br>    </li><li>Available on Linux and Windows<br>    </li><li>Continuous boss fights<br>    </li><li>Steam achievements<br>    </li><li>Global and friends ranking<br>    </li><li>Save replays of your bests runs<br>    </li><li>Watch global and friend's replays<br>    </li><li>Interactive tutorial and training<br>    </li><li>Minimalist flat design<br>    </li><li>Random generated backgrounds<br>    </li><li>Engaging soundtrack<br>    </li><li>Diverse, unique and challenging boss attack patterns<br>    </li><li>Deep and simple core mechanics</li></ul><h2 class=\"bb_tag\" >Minimalism</h2><br><strong>Game mechanics</strong><br><br>With only 8 directional movement and a single action button we achieved a deep gameplay experience:<br><ul class=\"bb_ul\">    <li><i>Proximity damage multiplier:</i> The closer you get, the harder you hit.<br>    </li><li><i>Charge attack:</i> Stop shooting to charge, shoot to unleash the an attack that cleans bullets in it's way.<br>    </li><li><i>Parry:</i> Press the shoot button right before getting hit to parry.<br>    </li><li><i>Parry dash:</i> After a successful parry, keep the shoot button pressed for a short invulnerability time and speed boost.<br>    </li><li><i>Damage proration:</i> On hit, the player activates a shield that lowers the next hits damage.</li></ul><br><strong>Graphics</strong><br><br>We created a visually pleasing look inspired by flat principles.<br><ul class=\"bb_ul\">  <li><i>No HUD:</i> We replaced the traditional HUD by other indicators such as screen shakes, sound effects, color effects. Now the player will be more focused on the fast paced action.<br>  </li><li><i>Random generated backgrounds:</i> Every time the game starts a new background will be generated. All backgrounds are carefully designed with colors and shapes that will surprise the player senses every time.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517510/header.jpg?t=1514008094",
+    "developers": [
+      "Turupawn",
+      "Ceteco",
+      "bobbyliciou5",
+      "morghan831",
+      "immac"
+    ],
+    "publishers": [
+      "Rosalila"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "Charge A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/ceb047eb6400a2c4b62d7f132bc3a90f7afe23d1.jpg"
+        },
+        {
+          "name": "Charge B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/cddcd8cbfd8529aa6304128f4ee4197a9e0457af.jpg"
+        },
+        {
+          "name": "Charge C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/7978b96de185e06f6127b84265468641c381bbac.jpg"
+        },
+        {
+          "name": "Charge D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/c44650de0ddab1750189af8391ceb74b4557b19a.jpg"
+        },
+        {
+          "name": "Charge Destroy A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/8040aa2163f8fab5c01274766b0525ba60bdd62b.jpg"
+        },
+        {
+          "name": "Charge Destroy B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/ccc83c60dcf389b7a0156a65dde818fb3d3a9e09.jpg"
+        },
+        {
+          "name": "Charge Destroy C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/a4e61529347bf95a99b82a4cd38af742fb19e5df.jpg"
+        },
+        {
+          "name": "Charge Destroy D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/1bef6e3d2a444cf66c95848e2f582fc5a8b3ea54.jpg"
+        },
+        {
+          "name": "Parry Dash A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/5159a759240d230c8126c64b3376b81702a7aa97.jpg"
+        },
+        {
+          "name": "Parry Dash B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517510/9a4a3346f56df0a9f77b01b528f0db369a0fad97.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

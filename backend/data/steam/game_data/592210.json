@@ -1,0 +1,68 @@
+{
+  "592210": {
+    "name": "Climbtime Demo",
+    "steam_appid": 592210,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Game supports gamepad. Note for the demo version only the first level is available.<br><br><strong>Game goals/modes</strong><br>The game currently has five modes<br><ul class=\"bb_ul\"><li>Climb<br>time-attack - reach the highest block(the one with a blue spinning cube over it same as the one at the base) as quickly as possible.<br><br></li><li>Fly(Vive only)<br></li><li>Glide(gamepad/keyboard)<br>time-attack - destroy(by making contact) all 10 cores(the spinning/pulsing red orbs) at each floating block as quickly as possible<br><br></li><li>Crystal Hunt<br>Find and collect(using the crystal shot) all 10 hidden crystals in the tower. The crystals are small blue cubes and create a sound which grows louder as you get nearer.<br><br></li><li>Explore<br>Fly, glide or long-distance teleport over the terrain and enjoy the views which are modeled on the below real-world mountain and canyon terrains. More content to find in this mode coming.<br><br><ul class=\"bb_ul\"><li>Great Smoky Mountains, USA<br></li><li>Castle Valley, Utah, USA<br></li><li>Yosemite, USA<br></li><li>Grand Canyon, USA</li></ul></li></ul><br>See in-game pause menu(start button, F1) for settings, Controls, Game modes and additional notes.<br><br>Note that game engine graphics and input config options can be accessed by holding down shift or alt or ctrl key while starting the game.<br><br>Credits:<br>Music for levels 2,4,6,8 by Talon Vick",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/592210/header.jpg?t=1487780465",
+    "developers": [
+      "Saluda Systems"
+    ],
+    "publishers": [
+      "Saluda Systems"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

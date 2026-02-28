@@ -1,0 +1,57 @@
+{
+  "1079340": {
+    "name": "homicide",
+    "steam_appid": 1079340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a decryption game (first-person perspective),The player is at a murder scene.The player must first find the body,Then find five clues scattered around the scene,Then you can pass the level.There are two levels in this game,The player focuses on the corpse or clue for more than 2s,Can trigger the dialog box (meanings the body or clue has been found).<br />\r\nControl keys:<br />\r\nWASD movement<br />\r\nThe left Shift running<br />\r\nSpace leaping",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079340/header.jpg?t=1558501720",
+    "developers": [
+      "KiKi"
+    ],
+    "publishers": [
+      "KiKi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 800,
+      "final": 800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 8.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

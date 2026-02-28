@@ -1,0 +1,121 @@
+{
+  "1566690": {
+    "name": "重装前哨",
+    "steam_appid": 1566690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/extras/4d8820829e9b9ee85f084487aee1d2fd.poster.avif?t=1747043120\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/extras/4d8820829e9b9ee85f084487aee1d2fd.webm?t=1747043120\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/extras/4d8820829e9b9ee85f084487aee1d2fd.mp4?t=1747043120\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>哨站搭建</strong></h2>探索世界、收集资源、合成并强化哨站部件，搭建自己的专属哨站。<h2 class=\"bb_tag\" ><strong>独特的武器装备</strong></h2>融合不同属性溶质的独特溶质枪，搭配出性能丰富多样的奇特弹药。<h2 class=\"bb_tag\" ><strong>探索回收模式</strong></h2>难度阶梯丰富、模式多样、地图风貌各异的探索回收模式。深入危险与机遇共存的新区域，回收强大的哨站部件。<h2 class=\"bb_tag\" ><strong>多人合作</strong></h2>既可以在回收日与你的伙伴们并肩作战，也可以在无尽模式中协力挺过源源不断的怪潮，至死不懈。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong>, 法语, 德语, 日语, 繁体中文, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566690/header_schinese.jpg?t=1747043120",
+    "developers": [
+      "Team Ranger"
+    ],
+    "publishers": [
+      "Lightning Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 8800,
+      "final": 8800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 88.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "我还可以再抢救一下",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/c40835e3ba33832dd77ade787de6c5ea323638dc.jpg"
+        },
+        {
+          "name": "偷鸡摸狗",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/edcf1ffc2e7aab123ddd4ee105ada035e2489343.jpg"
+        },
+        {
+          "name": "跪下吧",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/694e6cd5831414f3c2a4f07c3587a89d09a906da.jpg"
+        },
+        {
+          "name": "摘星行动",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/6b2a446bd5a212de7e922abfbedb28bb4354bf90.jpg"
+        },
+        {
+          "name": "初来乍到",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/b15685aa6e6caa9e0d78ffccc5fead3dcf1ca94d.jpg"
+        },
+        {
+          "name": "营救",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/c71239b08a4d48c26d2ba2903f3b49b6977b30d6.jpg"
+        },
+        {
+          "name": "星之子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/daaa95842465dac0337bdda21ad9bc68b2e3dc28.jpg"
+        },
+        {
+          "name": "天使",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/8176b8ac835a4695c6642146993d63c913baf56a.jpg"
+        },
+        {
+          "name": "机动哨站",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/359a90cf5e2c4db769c88d0f0a859617091c35a7.jpg"
+        },
+        {
+          "name": "重装哨站",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1566690/278408256d7439b0752ce4183d7b3a7f33d6533f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 4394,
+      "total_negative": 2828,
+      "total_reviews": 7222
+    }
+  }
+}

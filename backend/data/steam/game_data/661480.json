@@ -1,0 +1,93 @@
+{
+  "661480": {
+    "name": "UniOne",
+    "steam_appid": 661480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;UniOne&quot; 是一款极简美术风格的益智游戏。游戏的目标是在指定步数内将所有节点染成相同颜色。<br />\r\n<br />\r\n游戏特点：<br />\r\n*.基于颜色渲染的游戏玩法，在此基础上引入了新的机制<br />\r\n*.70+关卡，每一关独特不拖沓，游戏难度循序渐进，技巧丰富<br />\r\n*.极简美术风格，最大可能的美感设计<br />\r\n<br />\r\n<br />\r\n感谢您选择本游戏，感谢您的支持！",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661480/header.jpg?t=1511070712",
+    "developers": [
+      "PlayColorfulGames"
+    ],
+    "publishers": [
+      "PlayColorfulGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Common Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/59780d7c5551ba197521976166807733348d86e2.jpg"
+        },
+        {
+          "name": "Swap Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/ac39a89e77ad2d43cda42dea2714d5960f7c3407.jpg"
+        },
+        {
+          "name": "Fixed Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/0fd751816fc720bdb5c254a822023e50ed62a19b.jpg"
+        },
+        {
+          "name": "Common Hard Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/a2ef321bc31b81f132a5e37582e18ea4b5c19490.jpg"
+        },
+        {
+          "name": "Fixed Hard Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/ac39a89e77ad2d43cda42dea2714d5960f7c3407.jpg"
+        },
+        {
+          "name": "Swap Hard Pack Solved",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661480/7579616ef024a2b5482243a5392676a8b2e2adcd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

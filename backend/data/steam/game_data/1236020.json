@@ -1,0 +1,65 @@
+{
+  "1236020": {
+    "name": "Dig Mania",
+    "steam_appid": 1236020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a game about digging holes to survive! You play as a young boy who has to dig holes in the sand in order for him to survive. Dig up hidden treasures to sell them to the shopkeeper, where he will give you points as a reward! Use those points to buy water or upgrades, which can help you in the game! You can dig everywhere in the sand and replenish your quickly-draining water supply at the last minute, or play it safe and spend all of your points on refilling your water supply.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236020/header.jpg?t=1629882818",
+    "developers": [
+      "thechillcheetah"
+    ],
+    "publishers": [
+      "thechillcheetah"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

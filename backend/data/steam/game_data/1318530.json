@@ -1,0 +1,69 @@
+{
+  "1318530": {
+    "name": "我的 Mud 游戏",
+    "steam_appid": 1318530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "***** Mud 制作教学，请连到  Red Cat Studio  的官方网站查看 *****<br>***** 有任何建议或希望增加的功能，以方便您开发自己的 Mud，请到 讨论区  留言给我 *****<br><br>大家好～<br>我是幽魂(Ghoster)，是未知世界 Mud 的大神，My Mud Game 是由我一人所制作出来的独立游戏。<br><br>所谓的 Mud，指的是 Multi-User Dungeon (多人网络地下城游戏) 。<br>主要是以文字叙述方式呈现的网络游戏，游戏主要是靠键盘输入指令，以便与游戏中的世界做互动，可说是现代 MMORPG 的前身。<br><br>不瞒大家说...<br>My Mud Game 现在的游戏内容很贫乏，因为 My Mud Game 与其说是游戏，还不如说是用来作为『制作 Mud 游戏的系统』的功能展示。<br>My Mud Game 单就展示的内容来看，感觉不需要花很多时间就可以制作出来，但却花了我一年多的时间才开发出来！！<br>最主要的原因在于，我想做的是一个...<br><br>『让不会写程序的人，也可以用简单方法就可以制作出属于自己的 Mud 游戏！！』<br><br>如果只是用简单的方法，做一堆写死的功能，让每个功能最多只能改改数值就完事，比如说...<br>『只能调整技能的文字、动画效果与强度。』<br>那做出来的东西就会大同小异，看起来就会一个模子制作出来的，毫无乐趣可言。<br><br>而如果想让功能更有弹性，一般的游戏开发工具的做法，便是提供让玩家撰写程序代码的功能，但这又失去了使用游戏制作工具的意义。<br>因为既然已经会写程序，又何必使用开发工具呢？自己从头撰写虽然比较花时间，但却比较不会绑手绑脚。<br><br>所以在核心技术的开发方面，就花了我很多的时间去研究、制作。<br><br>所以说...<br>My Mud Game 开发的真正目标是，希望可以让使用者能够依照自己的喜好去修改、以制作出属于自己的 Mud游戏。<br>(我不会承认其实我开发 My Mud Game，只是因为想玩别人做的 Mud 游戏...XD)<br><br>此外，为了不失去传统 Mud 的感觉，但又希望可以让第一次玩 Mud 的人，不会因为繁杂的指令游玩方式而却步，<br>所以我尽可能的把本来需要使用键盘输入指令的游戏方式，改成只需要使用鼠标来点击即可，<br><br>针对容易迷路又懒得画地图的人，则增加了小地图的功能。<br>而为了让画面更美观吸引人，所以部分对象也增加了图形功能。<br><br>My Mud Game 现在只具有一个 Mud 最基本的一些功能，包含探险、战斗、装备、道具使用与技能系统，还有简单的事件功能。<br>更进阶的开发，我希望是在与玩家互动后再进行开发，所以...请尽量提出您的需求吧！！<br>在系统架构允许的范围内，我会尽量去增加更多的功能。<br><br>My Mud Game 本身是单机版的 Mud 游戏，并不具有联机功能。<br>因此个人制作的游戏内容分享功能也就变得格外重要，等我搞懂怎么使用 Steam 的工作坊之后，<br>就会开放让大家上传自己所制作的 Mud 游戏。<br><br>关于教学的部分，我发现文件方式的说明效果并不好，所以之后我会找时间尽量多制作一些 My Mud Game 的游戏制作教学影片。<br><br>总之，还请大家多多指教啰～",
+    "supported_languages": "简体中文, 繁体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/header.jpg?t=1591761208",
+    "developers": [
+      "Red Cat Studio"
+    ],
+    "publishers": [
+      "Red Cat Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5400,
+      "final": 5400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 54.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "1322520": {
+    "name": "救赎之门",
+    "steam_appid": 1322520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>你在一间充满异味的地牢醒来，有人告诉你：你必须找到逃离这间牢房的方法，并且小心，你不是一个人……</strong><br><br>这是一个基于文字的解密游戏、互动小说。<br><br><ul class=\"bb_ul\"><li>你可以通过各种系统给出的指令来完成游戏，如输入“use”使用携带物品。<br></li><li>通过使用“w a s d”四个命令来分别表示向北、西、南、东行走，记得多使用“look”来探索这个世界<br></li><li>遇到不会的地方可以使用“tip”命令来获取提示，忘记了命令有哪些，可以使用“Q”命令来查看等。<br></li><li>你除了可以输入系统自带指令外，有时也可以输入一些其他关键字符，关键字符指的就是游戏文本中括号中的字符。<br></li><li>使用越少的提示和步数完成逃生将赢得更高的评价。</li></ul><br>警告：不推荐在办公室玩本游戏 (狗头)",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1322520/header.jpg?t=1593526129",
+    "developers": [
+      "地航者"
+    ],
+    "publishers": [
+      "地航者"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 540,
+      "discount_percent": 10,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 5.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "洁癖患者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/5287d4fa1e2daea4c3a3c769864dfeb5ef225c4e.jpg"
+        },
+        {
+          "name": "地牢侦探",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/15884bd1624d0e494b1f6db229129e021083a23c.jpg"
+        },
+        {
+          "name": "低语者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/dcdd5b2248044446a6cd19ea20a44bc8f5d03690.jpg"
+        },
+        {
+          "name": "受虐狂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/34d9c0945fa6f9ff082cfb718e52d662e24918f5.jpg"
+        },
+        {
+          "name": "游戏王者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/823f6e7c67021d76dc1d71aa32bcd4deb45c526b.jpg"
+        },
+        {
+          "name": "幸存者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/017148eecff39506b57fac19377ef1c39525d8c3.jpg"
+        },
+        {
+          "name": "活地图",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1322520/c94aaafca5caadda863d5f0682b3dd9f12cd9ad4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

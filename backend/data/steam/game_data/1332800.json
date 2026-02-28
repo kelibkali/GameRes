@@ -1,0 +1,65 @@
+{
+  "1332800": {
+    "name": "Snake",
+    "steam_appid": 1332800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Snake is everything you'd expect plus a little extra ;)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Game Modes</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Classic</strong>: The classic game of Snake. Eat food and grow as long as you can without hitting the walls or yourself.</p></li><li><p class=\"bb_paragraph\" > <strong>Open</strong>: This is the same as classic but without the walls, traveling off screen wraps you around to the opposite side of the screen.</p></li><li><p class=\"bb_paragraph\" > <strong>Levels</strong>: This is where the &quot;extra&quot; comes in. There are 12 levels available, each requiring you to get a minimum score on the previous level to unlock. Levels consist of various obstacles that make growing your snake more challenging such as additional walls and portals to take you to various sections of the screen.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Speeds</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game includes Slow, Medium, and Fast speeds to accommodate to any skill level. Levels can be unlocked by playing on any speed, so if you are struggling with a level feel free to slow it down.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Themes</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Don't like the original green tint of Snake? No worries, the game includes 9 themes that change the color palette and design of the entire game.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Controls</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>WASD / ←↑→↓</strong>: Move</p><p class=\"bb_paragraph\" ><strong>Spacebar</strong>: Pause</p><p class=\"bb_paragraph\" ><strong>ESC / Backspace</strong>: Exit</p><p class=\"bb_paragraph\" ><strong>F11</strong>: Toggle Fullscreen</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332800/header.jpg?t=1751026674",
+    "developers": [
+      "Romans I XVI Gaming"
+    ],
+    "publishers": [
+      "Romans I XVI Gaming"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

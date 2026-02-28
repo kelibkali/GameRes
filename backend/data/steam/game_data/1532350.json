@@ -1,0 +1,117 @@
+{
+  "1532350": {
+    "name": "Rogue Explorer",
+    "steam_appid": 1532350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532350/extras/32ff2bc0536da827a971ec6fc117442c.poster.avif?t=1770960805\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532350/extras/32ff2bc0536da827a971ec6fc117442c.webm?t=1770960805\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532350/extras/32ff2bc0536da827a971ec6fc117442c.mp4?t=1770960805\" type=\"video/mp4\"></video></span><br>邀你进入高耸的“无间之塔”冒险!<br>在深渊等待你的会是什么!?<br>这是一款通过像素设计的世界观，探索自动生成的地牢和用带回来的物品不断强化装备的动作游戏。<h2 class=\"bb_tag\" >◆多样的动作</h2>进行跳跃·跳墙·滚动等多彩的动作来推进探索。<h2 class=\"bb_tag\" >◆一日之内结构不变的探索模式</h2>一天之内游戏结构不变，即使探索失败也能玩和上次相同的关卡，你可以一边记住地图结构一边向前探索。<h2 class=\"bb_tag\" >◆每次玩所带来的变化都会构成深层探索模式</h2>每次探索的开始构造都会发生变化，在深层的探索中，也能享受到更简单的玩法。<h2 class=\"bb_tag\" >◆剑、枪、杖等多种武器</h2>玩家角色的装备有多种武器，可以通过探索带回的素材，进行强化。<br>而且通过合成相同武器的话，强化的幅度也会增加。<h2 class=\"bb_tag\" >◆装备变更还能变身</h2>穿着各种装备的话，玩家角色的化身也会变化!<br>也能进行颜色的变更，让玩家成迷于自己定制的乐趣中。",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532350/header.jpg?t=1770960805",
+    "developers": [
+      "Zoo Corporation"
+    ],
+    "publishers": [
+      "Zoo Corporation"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "Start a explore",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/ad5c5d08c6cf155f986634b2c01c438c2e5b90f5.jpg"
+        },
+        {
+          "name": "Clear \"Tutorial\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/74e86928e6b6a3ec9c4fabb618c72cd597b754c1.jpg"
+        },
+        {
+          "name": "Clear \"Grassland\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/62698a4ab0c40712420a268d9076dc8f2471403c.jpg"
+        },
+        {
+          "name": "Clear \"Mine Tunnel\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/f95530302fae721a8497999119a2d60f48e4ff2c.jpg"
+        },
+        {
+          "name": "Clear \"Abandoned Town\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/5609461062100bca2be641499d497c2a9d1a5cb4.jpg"
+        },
+        {
+          "name": "Clear \"Forest\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/700179657aae56f902da9dde8c3c745425fbb3cc.jpg"
+        },
+        {
+          "name": "Clear \"Graveyard\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/82be5c553536f371007fd7037f6b03ef82baa223.jpg"
+        },
+        {
+          "name": "Clear \"Autumn Fields\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/02cfd256e3b548f61a6e0dec09898a49756b605f.jpg"
+        },
+        {
+          "name": "Clear \"Ruins\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/e4860bf3453db9db7d3e69498933e82a6f6670b5.jpg"
+        },
+        {
+          "name": "Clear \"Rocky Area\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532350/80abdfe7ab4e8d541c6106905ec58d1271a8558e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

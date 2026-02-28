@@ -1,0 +1,81 @@
+{
+  "540650": {
+    "name": "Dawn of Warriors",
+    "steam_appid": 540650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;勇士的黎明--混沌之战&quot;是一款Roguelike类型的动作RPG（ARPG）游戏。在这场天堂与地狱的混沌之战中, 你是一位挑战邪恶力量的勇士。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 简体中文, 繁体中文, 葡萄牙语 - 葡萄牙, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/540650/header.jpg?t=1476924362",
+    "developers": [
+      "Flame Spirit Software Studio"
+    ],
+    "publishers": [
+      "Conch Entertainment Corporation"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 3,
+      "total_negative": 7,
+      "total_reviews": 10
+    }
+  }
+}

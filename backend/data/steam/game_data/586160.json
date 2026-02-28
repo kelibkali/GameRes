@@ -1,0 +1,97 @@
+{
+  "586160": {
+    "name": "Dash Fleet",
+    "steam_appid": 586160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dash Fleet是一个简单而有趣的潇洒动作游戏。<br>通过单击向左或向右滑动鼠标按钮，使你的字符向左或向右划线，并飞过各种障碍物。 收集硬币，可以帮助您的进步，并获得成就一个伟大的表现。<br><br><br>特征：<br><ul class=\"bb_ul\"><li>潇洒的动作游戏<br></li><li>通过避免致命的图腾来测试你的技能和反应<br></li><li>多个可播放字符（更多来）<br></li><li>极简主义的像素艺术设计<br></li><li>放松的音乐<br></li><li>永远不会结束乐趣</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586160/header.jpg?t=1667032245",
+    "developers": [
+      "phime studio LLC"
+    ],
+    "publishers": [
+      "phime studio LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 4 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Bronze pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/6dbd7366974fb07474c0818e4920b643056aaf52.jpg"
+        },
+        {
+          "name": "Silver pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/1c1ac2ba138ffabc785c096098b12ef83338e184.jpg"
+        },
+        {
+          "name": "Gold pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/a9038c82195279a21be2bdf1e0fe0382398d9d7f.jpg"
+        },
+        {
+          "name": "Carbon pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/47630ee322a07e19099544f9f3792a2ad4eb9293.jpg"
+        },
+        {
+          "name": "Platinum pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/5ef6ad4535df75f0690af8278d1164d9d7c8cdd7.jpg"
+        },
+        {
+          "name": "Meteor dodger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/586160/6dbd7366974fb07474c0818e4920b643056aaf52.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "797620": {
+    "name": "Dissembler",
+    "steam_appid": 797620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Dissembler》是一款设计巧妙的解谜游戏，一次接一次地翻转五彩斑斓的<br>几何图案。翻转色块，令匹配的同色区块消失：你的任务就是消除全部的色块，<br>让背景板干净如新。游戏循序渐进，你将从基础入门，逐步解开愈加困难的谜题。<br>为了解开它们，你必须步步经营，深谋远虑。<br><br><ul class=\"bb_ul\"><li> 设计精美。极简主义风格的解密游戏，配以静谧、淡雅的音乐体验<br></li><li> 超过 120 个谜题。每一个都是人工设计的美学作品，绝非随机生成<br></li><li> 高自由度的游戏体验。可以随时、随意地撤销任意操作，不受游戏惩罚<br></li><li> 一次购买，终生乐享。不设游戏内购功能，更可免费畅玩每日谜题<br></li><li> 无尽模式。在充满无穷乐趣的游戏模式中，与线上玩家一较高低<br></li><li> 色盲模式。允许每一位玩家都能轻松自如地享受《Diseembler》</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语, 希腊语, 日语, 韩语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/797620/header.jpg?t=1667817098",
+    "developers": [
+      "Ian MacLarty"
+    ],
+    "publishers": [
+      "Shape Shop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Solve 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/797620/67a7f572daa24049473363d0f0100c19effe2776.jpg"
+        },
+        {
+          "name": "Solve all",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/797620/cab29af41cff738d8656965f8e1cfa9603b52777.jpg"
+        },
+        {
+          "name": "Daily",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/797620/2bd28c72c7d45d5c626ad2e2020672074a9e8812.jpg"
+        },
+        {
+          "name": "Infinite",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/797620/d6e1755e4e43faec87a9f7069ed0bab099676d4c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 15,
+      "total_negative": 0,
+      "total_reviews": 15
+    }
+  }
+}

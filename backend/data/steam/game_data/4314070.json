@@ -1,0 +1,62 @@
+{
+  "4314070": {
+    "name": "FFS: Football Freekick Simulator Demo",
+    "steam_appid": 4314070,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >这是一款极简主义的任意球足球游戏，你可以通过选择以下参数来真正控制你的踢球方式：</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >踢球力度触球点触球方向</p></li><li><p class=\"bb_paragraph\" >这些参数决定了球的飞行轨迹，动画只是背景。</p></li></ul><h2 class=\"bb_tag\" >当触球点偏离中心时，球会旋转并受到马格努斯力的影响。</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >如果球水平旋转，它的飞行轨迹会向左或向右弯曲。</p></li><li><p class=\"bb_paragraph\" >如果球垂直旋转，马格努斯力会将其向下推，导致球下坠速度加快（参见 YouTube 上的“大卫·路易斯任意球大师课”）。</p></li></ul><h2 class=\"bb_tag\" >射入球门上角可获得更高分数，并且分数还会乘以连击数，所以不要错过机会，有机会就大胆尝试射门上角。</h2><h2 class=\"bb_tag\" >这款游戏非常适合偶尔放松一下，挑战一下自己的最高分，玩上半小时。你还可以登上排行榜，和朋友们一较高下！</h2>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 丹麦语, 荷兰语, 匈牙利语, 日语, 韩语, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 泰语, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314070/d1d737ace34eb13ce5f335d7f19b05f5021b80d5/header.jpg?t=1771941146",
+    "developers": [
+      "TDSoftwareZ"
+    ],
+    "publishers": [
+      "TDSoftwareZ"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

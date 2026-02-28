@@ -1,0 +1,66 @@
+{
+  "776380": {
+    "name": "FSX SpacePort",
+    "steam_appid": 776380,
+    "required_age": 0,
+    "is_free": false,
+    "description": "FSX SpacePort is an add-on for Microsoft's Flight Simulator X (FSX) that enables a high-fidelity simulation of spaceflight using the visual  environment, assets and the ecosystem of Microsoft's Flight Simulator X.<br />\r\n<br />\r\nFSX SpacePort does not rely on FSX's flight model - instead, it completely replaces it with its own physics engine which implements a sophisticated deterministic physics solver to precisely simulate spaceflight in real time.<br />\r\n<br />\r\nThis physics engine is applied only to the objects that were designed to be used as spacecraft, meaning - the default aircraft fly as normal, and the spacecraft objects behave under ballistic astrodynamic rules of motion.<br />\r\n<br />\r\nAlong with the physics engine comes a sophisticated, high-fidelity collision engine, completely user-definable through FSX's SimObject container expanded with spacecraft-specific functionality.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776380/header.jpg?t=1575584402",
+    "developers": [
+      "TerraBuilder"
+    ],
+    "publishers": [
+      "TerraBuilder"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

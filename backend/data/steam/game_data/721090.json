@@ -1,0 +1,57 @@
+{
+  "721090": {
+    "name": "SKYBOX VR Video Player",
+    "steam_appid": 721090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SKYBOX 是一款终极本地VR视频播放器，可用于 Oculus Rift, Vive, Microsoft MR。<br />\r\n<br />\r\n您可以在同一个 Wi-Fi 下，播放来自您 UPnP/DLNA 媒体服务器的流式视频。 <br />\r\n<br />\r\n您再也不需要手动设置视频格式了，例如 180° , 360° 视频，或上下左右格式等等。当您打开视频时，它将被自动识别为正确格式 = 节省您的宝贵时间！<br />\r\n<br />\r\nSKYBOX 几乎可以播放任何格式的视频，例如 MP4, AVI, MOV, VR, 2D, 180° , 360° 等等。杰出的用户体验会让一切变得前所未有的简单。 <br />\r\n<br />\r\n特点包括：<br />\r\n1. 支持 2D，3D，180°，360° 视频。<br />\r\n2. 支持从您的 UPnP/DLNA 服务器的视频流。<br />\r\n3. 3DSide-By-Side 和 Over-Under视频支持。<br />\r\n4. 支持所有的视频格式。<br />\r\n5. 4K 本地和流媒体播放功能。<br />\r\n6. 自动识别视频类型（180°VR，360°VR，2D，或3D）。<br />\r\n7. 漂亮的用户界面和 VR 环境。<br />\r\n8. 观看 2D 和 3D 视频时可用影院模式。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/721090/header.jpg?t=1637058587",
+    "developers": [
+      "Skybox Studio"
+    ],
+    "publishers": [
+      "Source Technology"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4900,
+      "final": 4900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 49.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 61,
+      "total_negative": 49,
+      "total_reviews": 110
+    }
+  }
+}

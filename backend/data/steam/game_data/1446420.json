@@ -1,0 +1,77 @@
+{
+  "1446420": {
+    "name": "Otherside",
+    "steam_appid": 1446420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;... a surreal little adventure that feels like a blend of Myst and the ending of 2001: A Space Odyssey.&quot;<br><br>&quot;short, odd, sweet&quot;<br><br>&quot;techboi background generator&quot;<br><br>A psychedelic first person exploration game set between worlds. While the game is light on puzzles, it offers an opportunity to look at pretty things and interact with alien artifacts.<br><br>Lights out. Headphones in. See you in the Otherside.<br><br>Playtime: ~10 minutes<br><br>Controls:<br><br>[WASD] - Move<br><br>[Mouse] - Look<br><br>[Right-click] - Look closely<br><br>*Note that this uses some fancy programming magic that isn't suited for lower-end GPUs.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446420/header.jpg?t=1610160566",
+    "developers": [
+      "Ben Lapid"
+    ],
+    "publishers": [
+      "Bunso"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Fate Accepted",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1446420/9cd04604dc44f31ec88199f3e3bd323941c9c4b6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "656490": {
+    "name": "Automobile Tycoon",
+    "steam_appid": 656490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Basic gameplay:</h2>Automobile Tycoon is a simulator of a car manufacturing company where you develop, produce and sell cars. The game is turn-based and covers a period of automotive history between 1905 and 2020.<h2 class=\"bb_tag\" >Mechanics:</h2><br>- turn-based<br>- relatively fast paced (1 turn = 1 quarter, so the game does not drag on)<br>- gameplay ranges from 1905 to 2020 with historical events like world wars, economic crises and inflation (can be disabled if desired)<br>- various starting dates (1905,1920,1948,1960,1980)<br>- various car types (sedan, pickup, cabriolet, minicar, etc) new ones unlocked depending on year<h2 class=\"bb_tag\" >Core design goals:</h2><br><strong>1. Focus on running a car company (it's a tycoon not a car designer simulator)</strong><br>The game is about three primary activities a car manufacturing company need to undertake: developing a car, producing a car and selling a car. I tied to balance all those aspects without making any single one dominant. First your engineers research parts and develop a car then you set up, modernize and expand your factory and next you decide on distribution and marketing. All these are accompanied by secondary activities like paying taxes, taking bank loans and so on.<br><br><strong>2. Fast paced (simulated 100 years of automotive history in mere 400 turns)</strong><br>I tried to make it so the game does not drag on. Each turn represents one quarter, so it goes relatively fast without slowdowns. If you add to it historical events (world wars, economic crises) then you need to adapt your strategy quite often.<br>Also I used mechanics to reduce the need of micromangement and tried to make a convenient to use interface which allows you to execute your strategic decisions swiftly.<br><br><strong>3. Streamlined gameflow</strong><br>While the player is allowed to produce everything there is an incentive to stick to a limited line of models, so you don't need to deal with tons of micromanagement if you want to play optimally. Interface has options to quickly execute your strategic priorities, for example if you want to quickly boost your production you can enable &quot;work overtime&quot; option which makes you pay significantly higher wages for a modest boost of production. Especially introducing new models is streamlined, you just need to enter the model price once and set up region wide optional discounts, no need to check tons of identical boxes and setting every single time.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 波兰语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656490/header.jpg?t=1769593345",
+    "developers": [
+      "Silver Lemur Games"
+    ],
+    "publishers": [
+      "Silver Lemur Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "662970": {
+    "name": "RPG Maker MV - MADO",
+    "steam_appid": 662970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >终极工具，轻松定制您的窗口</h2>MADO 是 RPG Maker MV 系列专用的工具，可自定义游戏中的窗口图形。MADO 包含 50 个框架、窗口角和背景图案主题！只需点击几下鼠标，即可打造与您的游戏世界相匹配的完美窗口！<h2 class=\"bb_tag\" >其中包含</h2><ul class=\"bb_ul\"><li>标准<br></li><li>现代<br></li><li>流行<br></li><li>材料<br></li><li>机器<br></li><li>其他</li></ul><br>您可以从诸如经典奇幻 RPG、未来世界、高校浪漫、恐怖等等主题中，选择定制适合游戏的窗口。<h2 class=\"bb_tag\" >安装 MADO</h2><ul class=\"bb_ul\"><li>打开 RPG Maker MV 和您的项目。<br></li><li>选择工具 - &gt; RPG Maker MV工具……<br></li><li>选择 Window Maker - &gt; 添加<br></li><li>按下“确定”按钮<br></li><li>按下新添加的图标开始使用 MADO！有一个指导可帮助您，请在“Help”选项中查看</li></ul><br><strong>注意：</strong>MADO 会为您的项目安装一个插件。MADO 就是通过这个插件修改游戏窗口的。<h2 class=\"bb_tag\" >定制 MADO</h2>您还可以添加自己的原始窗口图形部件！<br><br><br><ul class=\"bb_ul\"><li>转到工具的根目录。通常，该文件夹位于 Steam\\steamapps\\common\\RPG Maker MV\\tool\\MADO\\Parts 中<br></li><li>您会看到一个 img 文件夹。这是您放置希望使用的新窗口图形的位置。Window_ID050 是您可以遵循的模板<br></li><li>完成后，只需将新图形命名为“Window_ID0XX”即可，0XX 是新编号。这是图形的唯一 ID<br></li><li>拇指文件夹是您新制作的窗口图形的小预览，可以在工具中显示。确保在新创建的图形上添加拇指图像！ <br></li><li>返回 parts 文件夹并打开 setting.json<br></li><li>在“category”：“all”的最后添加最新的窗口图形，例如“051”<br></li><li>然后根据您要设置的类别添加相同的 ID。如果您将新窗口图形归类为幻想，请转到“category”：“Standard”，并在 ID 的最后添加最新的 ID。它看起来像这样：<br>&quot;id&quot;: [&quot;001&quot;,&quot;006&quot;,&quot;007&quot;,&quot;009&quot;,&quot;011&quot;,&quot;012&quot;,&quot;017&quot;,&quot;018&quot;,&quot;036&quot;,&quot;037&quot;, &quot;051&quot;]<br></li><li>恭喜您！您已添加自己的自定义图形！</li></ul>",
+    "supported_languages": "英语, 日语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/662970/header.jpg?t=1669019180",
+    "developers": [
+      "Gotcha Gotcha Games",
+      "KADOKAWA"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 4,
+      "total_negative": 8,
+      "total_reviews": 12
+    }
+  }
+}

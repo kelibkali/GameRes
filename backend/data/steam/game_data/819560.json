@@ -1,0 +1,113 @@
+{
+  "819560": {
+    "name": "TurbOT Racing",
+    "steam_appid": 819560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >简介</h2><br>你是驾驶速机的一位人工智能，速机是不用轮子的终极竞速机器。<br>你从此以后的主要任务是：<br><br>1) 识别环境中被扫描的元素，并将这些信息转换成快速精确的机动动作，以最大限度地提高速度，并预测每个指定路线所需的策略。<br>2) 管理速机反应堆所产生的能量在涡轮系统和处理器之间的分配，考虑什么可以让你在每一秒内获得更好的机动性或者完成更多任务。<br>3) 虽然娱乐的概念或对人类乐趣的完全理解和你的主要任务无关，但是你可以使用关于观看你比赛的人（我们称之为粉丝）的数量信息作为成功的次要参数，因为这也将反映于我们分配给你的轨道数量，和星际电机给你的机身投资的硬件升级。<br>4) 你还需要提供硬件升级的指导，以提高你在每次比赛后的表现。<br>你还将与其它安装在与你的类似的机身上的先进人工智能版本对战，因此，比你的竞争对手有着更好的表现，是被认为更好的人工智能版本不可或缺的一部分。<br>警告：所有因为你的部分故障而造成的损害（不管是对你自己的硬件还是其它赛道上的第三方）将会造成公司降低给被指派维护你这个版本的工程师的经费。 <br><br> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819560/extras/d260ca3ee2b49a80788a96a16e1e4bb9.poster.avif?t=1536940765\" width=532 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819560/extras/d260ca3ee2b49a80788a96a16e1e4bb9.webm?t=1536940765\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819560/extras/d260ca3ee2b49a80788a96a16e1e4bb9.mp4?t=1536940765\" type=\"video/mp4\"></video></span><br><br>V1.19 特点<br><br>- 3D（已优化）画面<br>- 快节奏游戏 <br>- 4 条竞速赛道<br>- 8 种渐进难度的不同竞赛<br>- 升级和自定义颜色<br>- 没有“脑抽”AI 电脑<br>- 游戏内教程（可在游戏目录访问）<br><br><br>游玩提示<br><br>- 不要让涡轮上的能量消耗殆尽，速机“非常”依靠它们来发挥良好的机动性。<br>- 当速机达到一定的运行速度时，会很容易发生车祸，在碰撞前解体是一个很好的解决办法，因为可以避免车祸惩罚。<br>- 另一种避免更严重碰撞的方法是当你意识到碰撞即将来临时，将你的速机处理器超频，不要忘记这个能力。<br>- 超频，最大速度和电阻与一些你将安装的特定组件相关联，例如，你可以在车间内获取更好的处理器和冷却系统，来得到“更强烈”的超频效果和持续时间。<br>- 虽然因人而异，而且游戏有键盘支持，我想请你至少尝试用控制器玩上一次。",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819560/header.jpg?t=1536940765",
+    "developers": [
+      "creasso"
+    ],
+    "publishers": [
+      "creasso"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Perfect Lap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/79d9b5fd354f9937c4129ae2737cbf0bacdce799.jpg"
+        },
+        {
+          "name": "First Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/dae6b174674ae898f66a1056958b790b341c9e75.jpg"
+        },
+        {
+          "name": "ASIMOTORS Q.A.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/a8a2532c3e67564da6dfa4c744840100c5344b96.jpg"
+        },
+        {
+          "name": "Stress Test",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/b6a1715ada863dda0e5dfddf35cf1dbccdd26169.jpg"
+        },
+        {
+          "name": "Test Drive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/cf8ca5b654796563a3c2426c75e3778ced9589e0.jpg"
+        },
+        {
+          "name": "Big Money",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/c5b7fd0bf47990629349316cf9b9cbc5d629e349.jpg"
+        },
+        {
+          "name": "Big Fanbase",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/568ea5de03a925144a5708bc7c179fdee8333cdc.jpg"
+        },
+        {
+          "name": "Race Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/c964e680a9da464b8f85daa405d6e1dc0494ca5a.jpg"
+        },
+        {
+          "name": "System Recognition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/a4892325f5a35701735364a06d8727d170e062a1.jpg"
+        },
+        {
+          "name": "As meant to be",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819560/fc7dc80c5ed020bdf478cbd6e285096392f48229.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

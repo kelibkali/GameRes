@@ -1,0 +1,89 @@
+{
+  "858040": {
+    "name": "Sudoku Jigsaw / 拼图数独",
+    "steam_appid": 858040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Steam平台最好的数独游戏系列第二作《数独：拼图》等你来挑战。<br><br>Sudoku (数独 sūdoku, digit-single) 是一款风靡世界的数字逻辑游戏，玩家的目标是用数字填满9x9的方格，而每行、每列以及每个3x3的九宫格内不得出现重复的数字，只能分别是1~9这九个数字。<br><br>拼图数独的规则与标准数独类似。9x9的网格依然被划分为九部分，但每个部分不再是标准的3x3九宫格，而是九个相连方格组成的不规则区域。而你需要在每行每列以及每个不规则的区域内填入1~9的数字，不得重复。<br><br><ul class=\"bb_ul\"><li> 100个富有挑战的拼图数独谜题<br></li><li> 关卡进度保存功能<br></li><li> 美观大方的极简设计，丰富养眼的色彩主题<br></li><li> 10首令人放松的氛围音乐<br></li><li> steam成就，交易卡牌，徽章，表情以及背景（即将推出）<br></li><li> 支持云存档<br></li><li> 支持 Windows，Mac 和 Linux 版本<br></li><li> 良心的定价</li></ul><br>  ",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 芬兰语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 瑞典语<strong>*</strong>, 繁体中文<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858040/header_schinese.jpg?t=1646329075",
+    "developers": [
+      "Konstructors"
+    ],
+    "publishers": [
+      "Hook Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/858040/a3f0db52d3e87bf37a3446fa5227b10609b79e3a.jpg"
+        },
+        {
+          "name": "Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/858040/b2fa8f65bb8fe651ea45ac5c298485e4bf51d7cc.jpg"
+        },
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/858040/f08870ab1cbb4216239c94edc8f67359e52b9fba.jpg"
+        },
+        {
+          "name": "Jigsaw Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/858040/a457296a9720ec730a7ecbe935c7d09d044e4852.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 136,
+      "total_negative": 8,
+      "total_reviews": 144
+    }
+  }
+}

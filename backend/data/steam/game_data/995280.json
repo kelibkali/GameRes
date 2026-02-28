@@ -1,0 +1,109 @@
+{
+  "995280": {
+    "name": "Stary",
+    "steam_appid": 995280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>死亡是生命中不可避免的合乎逻辑的结论。 所有人都以这种或那种方式理解这一点，但直到最后他们才敢接受只有少数人。</strong><br><br><strong>在短时间内过上长寿。</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995280/extras/79c71f036945f3b9a81104650a5dc363.poster.avif?t=1546080560\" width=512 height=214 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995280/extras/79c71f036945f3b9a81104650a5dc363.webm?t=1546080560\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995280/extras/79c71f036945f3b9a81104650a5dc363.mp4?t=1546080560\" type=\"video/mp4\"></video></span><br><br>经过严肃的手术后在医院醒来，达到你生命中唯一真正的终点。 游戏世界由主角先前所在的地方组成。 它们是串联排列的。 任何转弯都可以变成一个有趣的冒险，但它也可能是一个令人不快的惊喜。<h2 class=\"bb_tag\" >我要去哪儿？</h2>医院，迷宫，监狱，城堡，地牢和许多其他地方参观。<h2 class=\"bb_tag\" >还在等什么？</h2>陷阱和裂缝，笔记和卷轴，死亡和秘密房间。<h2 class=\"bb_tag\" >劝告</h2>在极少数情况下保存。 有可能会损坏剩余的记忆粒子，因此记忆中存在...",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 简体中文, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995280/header.jpg?t=1546080560",
+    "developers": [
+      "Yars"
+    ],
+    "publishers": [
+      "Yars"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Wake Up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/bf1a3a4cb2ce102f1b9b440a6126655059ba2282.jpg"
+        },
+        {
+          "name": "Useless Way",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/5ea6904b88a47f9b7dbe929c389ec74b45255448.jpg"
+        },
+        {
+          "name": "Secret Place",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/6a779de33b911a9248cf86c0018fb9434f0f368b.jpg"
+        },
+        {
+          "name": "Centuries",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/4973f02170675c500f7bfd3cea262f98c7e76eff.jpg"
+        },
+        {
+          "name": "Native Home",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/d2deab831054e517e5bce60a7f270582375047b4.jpg"
+        },
+        {
+          "name": "Oops",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/1fc3e1c3cd556de3ed8415c02b12d2070edf67f8.jpg"
+        },
+        {
+          "name": "Message",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/53d2e8bd1acaeb8bedec7cbe2b6b5cb0df115a74.jpg"
+        },
+        {
+          "name": "Native Crypt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/3d26b6c3c7989e1c0861c18b5f25d35d71fa72b1.jpg"
+        },
+        {
+          "name": "Secret Door",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/bf4066ac93731bd65afd1ccc26b1cbc83e61de2d.jpg"
+        },
+        {
+          "name": "Last Sleep",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995280/6437cd0be7e35957458cac3ad73b168508138e9a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "1593360": {
+    "name": "DCS: Mi-24P HIND",
+    "steam_appid": 1593360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>初始版本将需要安装 Steam 版 DCS World 的 Open Beta 版。</strong><br><br>DCS: Mi-24P“雌鹿”是苏联设计制造的传奇Mi-24武装直升机的模拟。此直升机1972年首次投入作战。在过去的40年里，它作为一种有效的空中作战支援直升机，参与了广泛的行动。快速、可靠、深受飞行员的喜爱，这款不可思议的直升机至今仍在50多个国家服役！<br><br><strong><i>DCS: Mi-24P“雌鹿”的关键功能</i></strong><br><br><strong>预购/抢先体验阶段：</strong><br><br><ul class=\"bb_ul\"><li>专业的飞行动力学和发动机建模，在不同重量和飞行构型的所有高度、温度和速度范围内，具有真实航空器的高精度特性<br></li><li>两个6DOF的高细节驾驶舱（有RU和EN版本）<br></li><li>完全可点击的驾驶舱，用鼠标对所有机载系统进行交互式控制<br></li><li>多人驾驶。第二名机组可以是另一名玩家或“彼得罗维奇”AI（抢先体验阶段是基本AI水平）<br></li><li>对整个电气、燃油、液压、防冰、消防、增稳、自动驾驶和无线电系统进行详细建模<br></li><li>完整的军备和武器系统建模，除了由前座驾驶员操作的9M114制导ATGM外，两个座舱还可以使用30毫米机炮、无制导火箭（S-8、S-13、S-24B）和炸弹<br></li><li>除伊拉克和叙利亚外，还有标准的俄罗斯全新和风化涂装<br></li><li>俄语和英语版本抢先体验手册<br></li><li>训练任务</li></ul><br><strong>正式发布阶段：</strong><br><br><ul class=\"bb_ul\"><li>操作KORD机枪的货舱机枪手<br></li><li>先进的“彼得罗维奇”AI功能，适用于驾驶员或副驾驶-操作员座位<br></li><li>增加ATGM 9M120（HEAT和HE版本）和R-60M空对空导弹<br></li><li>吊运货物操作<br></li><li>先进的损伤模型<br></li><li>其他涂装和涂装模板<br></li><li>完整的俄语和英语手册（完整的语言列表待定）<br></li><li>Eagle Dynamics的战役</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593360/header.jpg?t=1727213653",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 42000,
+      "final": 42000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 420.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 18,
+      "total_negative": 2,
+      "total_reviews": 20
+    }
+  }
+}

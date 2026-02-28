@@ -1,0 +1,93 @@
+{
+  "806860": {
+    "name": "They Are Hundreds",
+    "steam_appid": 806860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong><i>ATTENTION: REWRITE IN PROGRESS.</i></strong></h2><p class=\"bb_paragraph\" >More details to be shared soon. </p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806860/header.jpg?t=1727478057",
+    "developers": [
+      "WoahStudiosus"
+    ],
+    "publishers": [
+      "Woahstudiosus"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Early Access",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806860/de71eead74c03e027b447727a9d87dee01ae83e5.jpg"
+        },
+        {
+          "name": "Turrets let me do it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806860/98d88bcbe3d031f3476256d40d3f2eb3446f779d.jpg"
+        },
+        {
+          "name": "That's Nasty!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806860/ab7261fed1fa432ffcfc3199c0816d0927d4ef26.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 0,
+      "total_negative": 3,
+      "total_reviews": 3
+    }
+  }
+}

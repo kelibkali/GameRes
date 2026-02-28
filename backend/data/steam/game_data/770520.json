@@ -1,0 +1,117 @@
+{
+  "770520": {
+    "name": "Boomer Rampage",
+    "steam_appid": 770520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>The Game</strong></h2><br>Boomer Rampage is a puzzle game in which we control the boomers rocket hand.<br>Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br>- 2 Difficulties (normal, hard).<br>- 90 Levels.<br>- Steam Achievements.<br>- Steam Leaderboards.<h2 class=\"bb_tag\" ><strong>Controls</strong></h2><br>Space bar = Shoot rocket hand.<br>WASD or Arrow Keys = Change direction of the rocket hand.<br>H, J, K  = Use skills.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/header.jpg?t=1521105628",
+    "developers": [
+      "Lunarhellgames"
+    ],
+    "publishers": [
+      "Lunarhellgames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 91,
+      "highlighted": [
+        {
+          "name": "Complete Level 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/6da4205c96205153e5df7baca21f6988b1daa626.jpg"
+        },
+        {
+          "name": "Complete Level 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/533b4ea3823c492c3c1ece19499e69e8fc343c09.jpg"
+        },
+        {
+          "name": "Complete Level 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/37b5ccaf494157f0eeac6962fbabc5e3039f03d5.jpg"
+        },
+        {
+          "name": "Complete Level 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/41eb764005190e8b235430cf3c77ef868c890bdb.jpg"
+        },
+        {
+          "name": "Complete Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/8576a745263d40cafbe72fce54e14bbc333b00ac.jpg"
+        },
+        {
+          "name": "Complete Level 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/7e850e3f4a8e784a86c024bd58feb0d266313613.jpg"
+        },
+        {
+          "name": "Complete Level 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/99f578756711cc5d4553f07ac4d10b6358dc55ba.jpg"
+        },
+        {
+          "name": "Complete Level 8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/8d8b379c21da5cc746e110b17cf97570bb623999.jpg"
+        },
+        {
+          "name": "Complete Level 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/e4f4ea94f7aeae069ddf03fe6b8393f9d97a1e06.jpg"
+        },
+        {
+          "name": "Complete Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770520/2bb3772a737adc5be5587464bbfd426b401303f8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

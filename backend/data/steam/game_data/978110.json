@@ -1,0 +1,117 @@
+{
+  "978110": {
+    "name": "Mutland",
+    "steam_appid": 978110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "打开Mutland，打开新世界：<br />\r\n种植庄稼，获取树木和岩石，狩猎，寻求食物和水，运用各种材料自行创造刀具、斧头、火炬、食物和药品……<br />\r\n以上的种种，目的只有一个，活下去！<br />\r\n然而，这是一个危机四伏的世界，你还要时刻警惕僵尸和变种动物，他们可能会给你致命一击。“Mutland”尘封已久的秘密等你来解开。<br />\r\n<br />\r\n<br />\r\n游戏特色：<br />\r\n<br />\r\n- 沙盒游戏。<br />\r\n- 这是一个巨大的开放式世界，而你唯一要做的，就是生存。<br />\r\n- 运用原材料创造武器/工具/食物/药品……<br />\r\n- 驾驶/射击/近战武器/陷阱/获取……<br />\r\n- 昼夜不断交替：但一定要在晚上保持安静。嘘……<br />\r\n- 僵尸、变种动物、变种植物将是你最大的敌人，生存不易，请时刻保持警惕。<br />\r\n- 散落在各处的神秘线索，也许会给你一线生机。 <br />\r\n<br />\r\n<br />\r\n基础操作说明：<br />\r\n<br />\r\n-移动：W、S、A、D<br />\r\n-跳跃：空格键<br />\r\n-加速跑：左Shift<br />\r\n-趴下：Z<br />\r\n-攻击：鼠标左键<br />\r\n-拾取：F<br />\r\n-上车：F<br />\r\n-下车：F<br />\r\n-刹车：空格键<br />\r\n-旋转视角：移动鼠标<br />\r\n-使用快捷栏物品：1—6<br />\r\n-使用特殊物品的技能：鼠标右键<br />\r\n-地图：M<br />\r\n-笔记：T<br />\r\n-设置：Esc<br />\r\n-背包：E",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978110/header.jpg?t=1546064620",
+    "developers": [
+      "Riovox"
+    ],
+    "publishers": [
+      "Riovox"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "伐木工",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/ef4cdde175ca430dffd5f08e2edf24c7ba6b2150.jpg"
+        },
+        {
+          "name": "伐木达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/8513f378c68a71677bf46a6f5cf6c3af3a79947c.jpg"
+        },
+        {
+          "name": "伐木大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/4aee564d21d4e3e84c1022aef0aaf688a6dafc20.jpg"
+        },
+        {
+          "name": "采石者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/727d5255b789d3f5851c3b32dedcd473da1f0a4d.jpg"
+        },
+        {
+          "name": "采石达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/61c2a3ec6d220e601450472ebda67d1b7a738c0e.jpg"
+        },
+        {
+          "name": "采石大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/01836b61a1028af6b9128d2b6e9acfd42735aceb.jpg"
+        },
+        {
+          "name": "首杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/1c98e43db0a1141475b8f418a5eb0ae5e517675b.jpg"
+        },
+        {
+          "name": "大杀特杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/ad0882f5efc60f0d3e66f103316dd2f6ae7e3c10.jpg"
+        },
+        {
+          "name": "战神",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/6bb5b8a5983f771e7eafad05c55a3568bacae12d.jpg"
+        },
+        {
+          "name": "生存达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/978110/b6b03303ba289a3fdcf9db628de891dda64a86de.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "432030": {
+    "name": "Swanky Paint",
+    "steam_appid": 432030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/extras/2ef55326c6c29bbd41c5930a50e14794.avif?t=1534794135\" width=600 height=150 /></span><h2 class=\"bb_tag\" >A modern Deluxe Paint tribute built using our open source game engine, Gamecake.</h2>It is a perfect tool for creating pixel art and animation.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/extras/ef656884bc8c4aac2479bc71ecae9b88.webp?t=1534794135\" width=600 height=50 /></span><h2 class=\"bb_tag\" >Deluxe Paint is a well designed bitmap graphics editor from the 80s that ran on the Commodore Amiga.</h2><br>To this day, we still find it the best package out there for its purpose and we have yet to find anything close to it in terms of usability and design. We have tried other pixel editors but still keep coming back to an old copy that we still use every now and then for our games. <br><br>However, as times goes by, we find an increasing need for an actual replacement that is not only up-to-date but more importantly, cross platform (Linux/Win/Raspi/Android/Mac). So here is our attempt at recreating our favourite paint package for today's generation of pixel artists. <br><br><i>It should be noted that this is currently in active development so will contain bugs.</i><br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/extras/5c83d9c31c2fe97752cf00d71512ee3b.webp?t=1534794135\" width=600 height=50 /></span><br><br><strong>Features: </strong><br><ul class=\"bb_ul\"> <li> <strong>We don't have a file format - anything created on Swanky Paint can be opened in ANY art software</strong><br> </li><li> Runs on <strong>Linux, Raspberry Pi, Android, Windows &amp; Mac</strong><br> </li><li> <strong>Deluxe Paint shortcuts</strong><br> </li><li> Escher modes: <strong>Hexels, non-Euclidean, strange geometry</strong><br> </li><li> <strong>Bloom</strong> shader options<br> </li><li> Full resolution background <strong>image for tracing and referencing</strong><br> </li><li> <strong>Multiple layers</strong> support<br> </li><li> Simple <strong>animation frames</strong><br> </li><li> <strong>Spritesheet support</strong><br> </li><li> <strong>GIF and APNG import</strong> to frames<br> </li><li> Supports <strong>SVG, GIF, JPG, PNG and APNG</strong> import &amp; export<br> </li><li> Supports Fun64 clipboard conversion to ASCII<br> </li><li> <strong>Dithering</strong> options for paletted and true colour images<br> </li><li> Wrap mode for <strong>tiling preview</strong>, edit anywhere to update the draw area<br> </li><li> <strong>Ultimate undo</strong> remembers your history forever<br> </li><li> Export your image history as a GIF<br> </li><li> Supports <strong>15 popular colour palettes</strong> like Pico8, DawnBringer, C64, ZXSpectrum, NES, Gameboy, MSX, AppleII, EGA, Swanky32 &amp; more<br> </li><li> <strong>Import custom palettes and presets</strong> <br> </li><li> Support for <strong>Lua scripting</strong><br> </li><li> Support for <strong>UV mapping</strong> preview on to low poly 3D model</li></ul><br>These are some of the features that are already included in the current version. We are still adding more during development.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/extras/51f2f00d60f0d24146a8e7adad4cd739.webp?t=1534794135\" width=601 height=50 /></span><h2 class=\"bb_tag\" >Swanky Art, a new kind of pixel art community.</h2>On International Amiga Day 2014, we released Swanky Art, a pixel art community based on daily challenges that restricts your palettes, dimensions and filters.<br><br><br><strong>Our aim is to fully recreate the restrictions of the past, teaching attribute clash to a new and terrified generation.</strong><br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/extras/274492d0b18ba105ccf3af2399c96e3c.webp?t=1534794135\" width=600 height=50 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432030/header.jpg?t=1534794135",
+    "developers": [
+      "Wetgenes"
+    ],
+    "publishers": [
+      "Wetgenes"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 8 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "823530": {
+    "name": "Aesthetic Arena",
+    "steam_appid": 823530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "审美竞技场，是一个以浪潮为基础的射手，其目标是在一个轻松愉快的氛围中依靠向你飞翔的汽车生存。你的车坏了，你被困在霓虹灯沙漠里。随着霓虹枪，健康，弹药和通电，你可以射击敌人，并有速度优势。敌人的包括巨型霓虹蜘蛛和汽车。当你在海浪中前进时，这些敌人会变得更多，更难。你会从这种幻觉中解脱出来吗？",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823530/header.jpg?t=1579747107",
+    "developers": [
+      "Caden Goodwin"
+    ],
+    "publishers": [
+      "csgood"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

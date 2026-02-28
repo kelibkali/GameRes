@@ -1,0 +1,69 @@
+{
+  "1632280": {
+    "name": "Simple Ray tracing Mini Game 10",
+    "steam_appid": 1632280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Is there ray tracing technology just for AAA-class games?<br />\r\n<br />\r\nno!<br />\r\n<br />\r\nNowadays, you can easily create ray tracing compatible games using Unity.<br />\r\n<br />\r\nIsn't it okay to use ray tracing in a simple mini-game?<br />\r\n<br />\r\nWith that in mind, I made 10 crispy pieces.<br />\r\n<br />\r\n<br />\r\nGame content<br />\r\n1. Whac-A-Mole<br />\r\n2. Breakout<br />\r\n3. Car protection game<br />\r\n4. Air hockey (2P match: up to 20 people connected at the same time)<br />\r\n5. Snake game<br />\r\n6. Run game<br />\r\n7. Chicken race<br />\r\n8. Wall protection game<br />\r\n9. Cat jump<br />\r\n10. Zombie protection game<br />\r\n<br />\r\nYou can play with the above games.<br />\r\n<br />\r\n6. Run game<br />\r\nHas experimentally enabled you to play Youtube videos.<br />\r\nFolder under the installation folder<br />\r\nSimpleRayTracingMiniGame_Data \\ StreamingAssets<br />\r\nIt is in,<br />\r\nmusics.txt<br />\r\nYou can play with various videos by editing.<br />\r\nVideo URL, _, time group<br />\r\nAs for the time group, the time of the tapped timing will be accumulated in the edit box displayed when you press the E key during this game, so copy it.<br />\r\n<br />\r\nDuring the game, there are the following hidden functions.<br />\r\nP key ray tracing ON / OFF<br />\r\nF key frame rate display ON / OFF<br />\r\nN key down resolution<br />\r\nM key up resolution<br />\r\n<br />\r\nWe have implemented it all over, but we plan to upgrade it in the future.<br />\r\n2021/6/25<br />\r\nSupports DLSS!<br />\r\nAfter upgrading, it will start in full screen.<br />\r\n(The GTX 1080 runs in about 30 frames.)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1632280/header.jpg?t=1624765279",
+    "developers": [
+      "Kazumitsu Ota"
+    ],
+    "publishers": [
+      "Kazumitsu Ota"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

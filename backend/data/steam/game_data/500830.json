@@ -1,0 +1,90 @@
+{
+  "500830": {
+    "name": "Enigma Prison Demo",
+    "steam_appid": 500830,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Play the open beta and follow the development of Enigma Prison with 11 chambers that gives a small taste of the full experience.",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500830/header.jpg?t=1473394084",
+    "developers": [
+      "Gustavo Rios"
+    ],
+    "publishers": [
+      "GriosDevelopment"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "THANKS FOR PLAYING THE BETA",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500830/7889900d0b383de2ef0f22a9b47ab1be798942c1.jpg"
+        },
+        {
+          "name": "PRISON UNLOCKED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500830/fbf8862ea6ea28780d64839f36c6b91d72da6c84.jpg"
+        },
+        {
+          "name": "BETA CUBE FOUND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500830/3597812b3a33d271a72b158cfe8174f01306826c.jpg"
+        },
+        {
+          "name": "BETA TELEPORT FOUND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500830/9521025d6948a2d14cf7d7e408559e68d9cb35b7.jpg"
+        },
+        {
+          "name": "BETA RC-DRONE FOUND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500830/88e97b08d8d6ce9204cb4e9ae51250a0eac83c7d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

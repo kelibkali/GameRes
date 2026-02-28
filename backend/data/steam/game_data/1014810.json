@@ -1,0 +1,145 @@
+{
+  "1014810": {
+    "name": "Happy Words",
+    "steam_appid": 1014810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Happy words is a word based real time <strong>online multiplayer board game</strong> for 1 to 4 players in which you have to create new words based on existing ones. <br>The object of Happy-Words is to score more points than your opponents. <br>A player collects points by placing words on the game board. Each letter has a different point value, so the strategy becomes to play words with high scoring letter combinations. <br><br>The game supports <strong>English, German, French, Spanish, Italian, Russian and Bulgarian</strong> languages.<br>Your can play Happy Words in 3 modes:<br><ul class=\"bb_ul\"><li>1) Online with your friends or via random opponents from internet <br></li><li>2) Solo versus intelligent robots<br></li><li>3) Local on the same device with your friends and family</li></ul><br>The game is highly customizable. You can play with different settings like &quot;time to think&quot;, one or two bags of letters, with or without use of helping dictionary and many others.<br>You can also <strong>customize your board color and tile color styles</strong>.<br><br>Good luck.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 保加利亚语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014810/header.jpg?t=1697291879",
+    "developers": [
+      "LAN - GAMES LTD"
+    ],
+    "publishers": [
+      "LAN - GAMES LTD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "Win in online game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/58d277e9cbc8ca0efbcf59e4754e1ee3a7aa18f3.jpg"
+        },
+        {
+          "name": "Win in 4 players online game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/83c17466f21d4001fec263c8f34c7fbbdbcdae36.jpg"
+        },
+        {
+          "name": "Win in 4 players solo game against robots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/5ac0b497771c435531ee1d6e3c54c8192b52c80e.jpg"
+        },
+        {
+          "name": "Win 10 solo games vs robot(s)",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/7c5f81abaee789466edfa620d7c8778f7eba0e30.jpg"
+        },
+        {
+          "name": "Win 30 solo games against robots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/ceb99575f292df86b42a018579c59f583fcf2378.jpg"
+        },
+        {
+          "name": "Win in 3 online games in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/3e9056976d17b1bc4e4d20667a6dae4c5e736e44.jpg"
+        },
+        {
+          "name": "Win 10 online games in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/1d787c8bf6593c9d7b0606f83f690c20f11d42b6.jpg"
+        },
+        {
+          "name": "Win in 3 solo games in a row vs robots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/6615fb4e60e336f7ab60c4ae5ea8a33452eb44db.jpg"
+        },
+        {
+          "name": "Win in 10 solo games in a row vs robots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/4613c998d8b4da6e495ebd0518d22f92e946c904.jpg"
+        },
+        {
+          "name": "Win in 20 online games",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014810/b596d81508283b799b4128ec6a840370a92b0104.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

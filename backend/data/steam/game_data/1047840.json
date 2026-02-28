@@ -1,0 +1,89 @@
+{
+  "1047840": {
+    "name": "The Volcano",
+    "steam_appid": 1047840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047840/extras/8222914d044b1ca6fbca2aab229c4c54.avif?t=1571500452\" width=630 height=210 /></span><br><br>Your king will send you to a volcano which is controlled by four different type of element guard. Your mission is to defeat those guards and take their spell books to the king. Good luck.",
+    "supported_languages": "英语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047840/header.jpg?t=1571500452",
+    "developers": [
+      "Sukru Erdem SAHIN"
+    ],
+    "publishers": [
+      "Sukru Erdem SAHIN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "First Element Guard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/bb5a8cc9a2735c0b451db8e17660e63c4b52b78a.jpg"
+        },
+        {
+          "name": "First Portal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/80293cd3dd57e6e2e7f5994e451c0e4cf48bd026.jpg"
+        },
+        {
+          "name": "First Crystal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/c76337fc1f1a0ec856025806621db140f30ae4bd.jpg"
+        },
+        {
+          "name": "Abilities",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/425bd47818fb873236ea2716afc0c723a410f707.jpg"
+        },
+        {
+          "name": "Yes, you can jump from here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/2a44783a3828d95c4da8a68799711b7f8c594204.jpg"
+        },
+        {
+          "name": "See You Next Time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1047840/f7ca5fdcfb0dc522d919a176e117bbe232d9b125.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

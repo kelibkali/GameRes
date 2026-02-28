@@ -1,0 +1,69 @@
+{
+  "1100920": {
+    "name": "DrumMasterVR",
+    "steam_appid": 1100920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DrumMasterVR是一款基于SteamVR的音乐类动作游戏，开始游戏您将进入虚拟世界体验击打爵士鼓的乐趣。<br />\r\n<br />\r\n功能简介：<br />\r\n1.音效响度随力度增大，模拟真实击打效果。<br />\r\n2.使用动力学模拟的仿真镲片，敲击出发真实的震颤效果。<br />\r\n3.乐器的位置、旋转、高度、比例可合理调整，不论是成年人还是小朋友都方便使用。<br />\r\n4.乐器可配置材质。<br />\r\n5.切换场景。<br />\r\n<br />\r\n欢迎您体验！",
+    "supported_languages": "英语<strong>*</strong>, 日语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100920/header.jpg?t=1574709769",
+    "developers": [
+      "Bad spider"
+    ],
+    "publishers": [
+      "Bad spider"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "607730": {
+    "name": "Pathologic Demo",
+    "steam_appid": 607730,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<i>Pathologic: The Marble Nest</i> is a mood-piece created to acquaint you with the world of <i>Pathologic</i>. It’s a self-contained short story that uses the same assets and premise and the main game, but works as a spin-off.<br><br>In terms of gameplay, The Marble Nest doesn’t feature every in-game mechanic that you’ll find in the real <i>Pathologic,</i> and is generally in pre-alpha state. It’s not optimised, so brace yourself for long loading times, bugs, crashes, and other issues. Early alpha versions are not always exactly fun to play. Please be prepared.<br><br><strong>KNOWN ISSUES</strong><br><ul class=\"bb_ul\"><li><strong>No saves. </strong>The Marble Nest only takes ~2 hours to play, but it's still something to keep in mind<br></li><li><strong>Walking glitches. </strong>Sometimes characters walk funny. Will be fixed soon<br></li><li><strong>Don't change resolution and visual settings when playing</strong>—it will lead to visual glitches. It's strongly advised to choose the optimal settings before you get into the thick of it. Will be fixed</li></ul><br><strong>UNKNOWN ISSUES</strong><br>are best reported to <a href=\"mailto:support@ice-pick.com\">support@ice-pick.com</a>. Every bug report helps the development!",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607730/header.jpg?t=1489481829",
+    "developers": [
+      "Ice-Pick Lodge"
+    ],
+    "publishers": [
+      "Ice-Pick Lodge"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "72",
+        "description": "裸露"
+      },
+      {
+        "id": "73",
+        "description": "暴力"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

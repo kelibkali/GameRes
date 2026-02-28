@@ -1,0 +1,85 @@
+{
+  "1380900": {
+    "name": "epsilon wars",
+    "steam_appid": 1380900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "epsilon wars is a turn based artillery game set in space.  players must use the newtonian gravity of suns, planets, and blackholes to guide their torpedoes at enemy ships, space stations, and freighters.  challenge yourself in designed single player levels (including ng+), procedurally generated single player levels, and multiplayer (2-4 players).<br><br>players set their torpedo angle, power, and fire to see how gravity affects their shot.  subsequent turns can be used to adjust power and angle to destroy opponents.<br><br>power is not unlimited, and each time players fire the power used is deducted from their ship's reserve. at the end of each turn 25 power points are re-generated.  players may pass on their turn to build up more power. <br><br>to help gauge the angle and power of each torpedo players can use their sensors to visualize the gravity of each level.  there's even an optional gravity assist system to help players learn how newtonian gravity affects potential shots.<br><br><strong>features</strong><br><ul class=\"bb_ul\"><li> 20 designed single player levels, ng+, and procedurally generated single player levels<br></li><li> 2-4 player multiplayer using procedurally generated levels (local or <i>Remote Play Together</i>)<br></li><li> 6 factions to choose from in multiplayer<br></li><li> 7 different celestial body types, each with different characteristics: red giant star, yellow dwarf star, gas giant planet, goldilocks planet, ocean planet, desert planet and black hole<br></li><li> gravity assist system for new players<br></li><li> built in tooltips for new players<br></li><li> original soundtrack by Cygnus</li></ul><br><strong>options</strong><br><ul class=\"bb_ul\"><li> full screen mode (on/off)<br></li><li> gravity assist (on/off)<br></li><li> fully configurable procedural level generation: number of celestial bodies, black holes (on/off), single centered sun (on/off), and duplicate planet types (on/off)<br></li><li> single player story (on/off)<br></li><li> multiplayer turn clock (off, 12, 30, 45, or 60 seconds)<br></li><li> volume levels for music and sound effects</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1380900/header.jpg?t=1667948379",
+    "developers": [
+      "Thomas Evenson"
+    ],
+    "publishers": [
+      "Thomas Evenson"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

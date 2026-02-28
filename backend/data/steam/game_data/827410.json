@@ -1,0 +1,69 @@
+{
+  "827410": {
+    "name": "Luminous Combat",
+    "steam_appid": 827410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Luminous Combat is a fast-paced multiplayer game in which players compete for points by shooting the level. The player/team with the most points at the end of the match, wins.<br><br><strong>HOW TO PLAY</strong><br><br>The levels are made up of blocks. When they take damage, their color changes to that of the player that shot it. If enough damage is done, it becomes secured and that player/team gets a point. If the player does not do enough damage to secure it, the block will fade to black. Secured blocks can be shot by other players and, if enough damage is done, the other player/team can secure the blocks for themselves and the points with them. Standing on a block you or your team owns heals you and hurts your opponents.<br><br><strong>GAME MODES</strong><br><i>Conquer</i><br>(Solo, Doubles and Squads)<br>Fight to own the most blocks by the time the match ends.<br><br><i>Score</i><br>(Solo, Doubles and Squads)<br>Get points for taking blocks and kills. Most points wins.<br><br><i>Survivor</i><br>(Solo, Doubles and Squads)<br>Be the last player standing. Respawning costs owned blocks, when you run out of blocks you are out. In the case of ties, highest kill count wins.<br><br><i>Darkernaut</i><br>(Solo only)<br>One player is picked as the Darkernaut. Along with boosted speed and jumping, the Darkernaut gets bonus points for unlocking blocks and taking out players. Non-Darkernaut players get points for securing blocks, taking blocks from others, taking out other players and bonus points for taking out the Darkernaut. If someone takes out the Darkernaut, they become the Darkernaut. The Darkernaut is healed by darkness and hurt by all light.<br><br><i>Cube Commander</i><br>(Doubles and Squads)<br>Find the cube and hold it as long as you can while standing on a block your team owns.<br><br><strong>POWER-UPS</strong><br><br>Through out the levels are scattered, various power-ups. Players can pick these up and use them at their discretion. Players can only hold 3 power-ups at a time but can drop a currently held power-up if they so choose. Current power-ups include:<br><br><i>Rapid</i><br>Increases the rate of fire but decreases damage.<br><br><i>Ricochet</i><br>Shots bounce three times and do more damage but have a slower rate of fire.<br><br><i>Rocket</i><br>Fires a single, slow moving projectile that does massive damage but can be prematurely shot, reducing its damage but increasing its effect radius.<br><br><i>Lock</i><br>Locks blocks that belong to the player/team. This prevents other players from securing them. This works best on secured blocks. If an unsecured block is hit, it instantly becomes secured and locked.<br><i><br>Unlock</i><br>Unlocks any block that does not belong to the player.",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827410/header.jpg?t=1535634963",
+    "developers": [
+      "Apefoot Studios, LLC"
+    ],
+    "publishers": [
+      "Apefoot Studios, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

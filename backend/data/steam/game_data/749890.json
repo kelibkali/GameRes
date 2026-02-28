@@ -1,0 +1,117 @@
+{
+  "749890": {
+    "name": "The Hanged Man",
+    "steam_appid": 749890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749890/extras/2b2a687d97dc35e6434269128ae91196.avif?t=1735192320\" width=600 height=80 /></span></p><p class=\"bb_paragraph\" >「你是恶魔之子。<br>总有一天，你会因为你的罪孽在地狱里被焚身而死。」 </p><p class=\"bb_paragraph\" >本作品是 Uri Games 所开发的「The Strange Man」系列的最终章第四部曲。</p><p class=\"bb_paragraph\" > <br>少年威尔跟他的老鼠伙伴波普一起离家出走。 <br>在旅途中误闯废弃了的大楼中，隐藏着的重大秘密及危机正静候他们…… <br>此外，配合Steam版的推出，新增成就，以及支援各种语言的翻译版。  </p><p class=\"bb_paragraph\" >作为同系列的其他作品《The Crooked Man》、《The Sand Man》及《The Boogie Man》也已经在Steam上公开了，欢迎从系列最初开始游玩。</p><h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >包含探索、动作要素的2D恐怖冒险游戏</p></li><li><p class=\"bb_paragraph\" >多种的惊吓演出和残酷表现</p></li><li><p class=\"bb_paragraph\" >全英文配音</p></li><li><p class=\"bb_paragraph\" >多重结局</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 日语, 韩语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749890/header.jpg?t=1735192320",
+    "developers": [
+      "Uri Games"
+    ],
+    "publishers": [
+      "PLAYISM"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 28,
+      "highlighted": [
+        {
+          "name": "Clue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/cfd7f25d2802bf0871d64be53c2042e9be5b9d4b.jpg"
+        },
+        {
+          "name": "The Crooked Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/dfc36e8f008c6af061dcb3717d69663c982de99b.jpg"
+        },
+        {
+          "name": "I've Seen You Before",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/515aaa9f5160c0e315fb97b12f0555588ccfd5ed.jpg"
+        },
+        {
+          "name": "The Sand Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/c4933d80ffd000d3faf719de37d9be33295723a8.jpg"
+        },
+        {
+          "name": "The Boogie Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/2fb39d96af4dff05d3b32c703615836c2c9f5f11.jpg"
+        },
+        {
+          "name": "Loopy Stairs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/8356705ca21abd569b347fa734e0b7f2951e9d82.jpg"
+        },
+        {
+          "name": "That's What the Knife is For",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/6a9ccd4994ed2abbf72582769bfccff44fc35f2b.jpg"
+        },
+        {
+          "name": "Ghost in the Bell",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/872a1ca5805c12b3abac7172653adb54879a5df3.jpg"
+        },
+        {
+          "name": "And Then There Were None",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/7a4968ca7aa4fb4f73abeed8d2a64e2dcbc82121.jpg"
+        },
+        {
+          "name": "The Hanged Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/749890/e3da697d31773b76af8c04c5974320c752d225a7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 20,
+      "total_negative": 8,
+      "total_reviews": 28
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "701650": {
+    "name": "St George Demo",
+    "steam_appid": 701650,
+    "required_age": 0,
+    "is_free": true,
+    "description": "a recopier",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701650/header.jpg?t=1509184002",
+    "developers": [
+      "Obscure Cloud"
+    ],
+    "publishers": [
+      "Obscure Cloud"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Dark Forest Goo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/97e1aecbffeb8f7805807e2bfcde242f1fb029c3.jpg"
+        },
+        {
+          "name": "Equip the dark armor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/0f0c61140208411c82194ccb78d139c8cb077b2f.jpg"
+        },
+        {
+          "name": "Invoke a minion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/1ce5d179de94a81cd33c8edd272828a4b8aea703.jpg"
+        },
+        {
+          "name": "The abomination",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/d7135c54572bc23b9e7198184f6f7da7ad5d3a2c.jpg"
+        },
+        {
+          "name": "The climber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/60044db6684434c7bb3dc1f7cc1c6dc7e097cee5.jpg"
+        },
+        {
+          "name": "Your journey starts here!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/701650/5666845d459d2757b17e01cb31ec6ef60f1f0cc6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

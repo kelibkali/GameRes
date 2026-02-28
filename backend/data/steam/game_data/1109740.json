@@ -1,0 +1,105 @@
+{
+  "1109740": {
+    "name": "Kakuro",
+    "steam_appid": 1109740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >数谜是有史以来最受欢迎的益智游戏之一。训练大脑的好游戏。</p><p class=\"bb_paragraph\" >在所有可用单元格中，您需要输入 1 到 9 中的一个数字，这样，首先，每个块中的数字之和与指定的数字匹配，其次，每个块中的所有数字都不同。</p><p class=\"bb_paragraph\" >日本流行的益智游戏“数谜”(Kakuro) 基于数字的逻辑排列。你所需要的只是你的大脑和专注的能力。</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >游戏包含 900 个不同难度和大小的关卡。</p></li><li><p class=\"bb_paragraph\" >游戏内提示系统</p></li><li><p class=\"bb_paragraph\" >保存等级进度</p></li><li><p class=\"bb_paragraph\" >轻松的背景音乐</p></li><li><p class=\"bb_paragraph\" >精美的太空游戏设计</p></li><li><p class=\"bb_paragraph\" >音乐音量、音效和屏幕分辨率的设置</p></li><li><p class=\"bb_paragraph\" >简单、用户友好的界面</p></li></ul>",
+    "supported_languages": "俄语, 英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 葡萄牙语 - 巴西, 越南语, 丹麦语, 印度尼西亚语, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 荷兰语, 挪威语, 葡萄牙语 - 葡萄牙, 乌克兰语, 芬兰语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109740/header.jpg?t=1733092687",
+    "developers": [
+      "screwyman"
+    ],
+    "publishers": [
+      "screwyman"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 42,
+      "highlighted": [
+        {
+          "name": "5x5x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/e06ea52dc872e51e0aba357f261f95d17050db37.jpg"
+        },
+        {
+          "name": "5x5x5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/89e311c95eb7d49698c36c63ecece975b02bf552.jpg"
+        },
+        {
+          "name": "5x5x10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/b47c77c682384c3cac4371b62816290e17bcdef0.jpg"
+        },
+        {
+          "name": "5x5x25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/ccd7b1b92427b60a6dd6882dc46adc70eff22a5f.jpg"
+        },
+        {
+          "name": "5x5x50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/bd2f349d4d65b9042692b0635479dce9caefdb25.jpg"
+        },
+        {
+          "name": "5x5x100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/53f6b30f4e2f8a86e41418423033b71a92d9b021.jpg"
+        },
+        {
+          "name": "5x5x150",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/01b595b16ce25407c526ae292e11261983d10ae8.jpg"
+        },
+        {
+          "name": "6x6x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/36bd29121fa5efafa961f6ee25ff39da479718b1.jpg"
+        },
+        {
+          "name": "6x6x5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/36f43fb65e80d67785b642058028116f2ca2b881.jpg"
+        },
+        {
+          "name": "6x6x10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1109740/e1ff9b012a5bc98032a782aab9f2179c689d4971.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

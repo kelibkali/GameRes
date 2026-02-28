@@ -1,0 +1,53 @@
+{
+  "793190": {
+    "name": "Daily OVR",
+    "steam_appid": 793190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><h2 class=\"bb_tag\" >Daily OVR 是什么?</h2></strong><br>你想在VR游戏中使用桌面/窗口应用吗?例如，您可以播放VRChat并查看您的 Twitch 聊天窗口。Daily OVR是最好的SteamVR覆盖(OVR)解决方案!支持Oculus, Vive/Viveport/Cosmos/MR/Index!<h2 class=\"bb_tag\" ><strong>为何要使用 Daily OVR?</strong></h2>有多少次当你在玩 VR 游戏时，同时想要检查你的 Twitch 聊天室或观看一部 Youtube 影片？你感觉现在市面上大部分的 VR Overlay 工具设定上都太困难，希望有一个比较简单的使用方式? 目前市面上的Overlay 工具默认的操作按键跟你喜爱的游戏冲突，导致你没办法好好的享受? Daily OVR 可以帮你解决这些问题。 我们一直致力于开发使用者喜欢的 Overlay tool，让使用者可以在享受 VR 游戏的同时，可以同时轻松的多任务。 我们提供了 Demo 版本让你测试，不要怀疑! 马上来使用看看吧!<br><br>这里是初学者教程视频:<br><br><br><strong><h2 class=\"bb_tag\" >特点:</h2><ul class=\"bb_ul\"><li>最人性化的VR UI<br></li><li>将你喜欢的Windows应用程序镜像到VR游戏中。<br></li><li>镜像桌面或显示器。<br></li><li>支持多达5个多重覆盖。<br></li><li>快速切换程序。<br></li><li>将常用设置保存为“我的最爱”。<br></li><li>重设大小，透明度，和位置的覆盖，并保持您的设置。<br></li><li> FPS调整。<br></li><li>绑定覆盖到不同的控制器或HMD。<br></li><li>支持Oculus &amp; Windows MR &amp; Index(通过SteamVR)<br></li><li>VR手机通知弹出。<br>Daily OVR允许你将你的Android手机通知带到VR视图中;你再也不会错过重要信息了。<br>——电话通知<br>——短信<br>——WhatsApp<br>——Line<br></li><li>支持SteamVR 2.0 Input。(您可以自定义按钮设置!)<br></li><li> ML对象检测和显示(例如:键盘、鼠标、猫、狗、杯子、人)<br></li><li> 好用的VR键盘<br></li><li> 时钟小部件</li></ul></strong><br><br>您必须下载Android应用程序:“Daily OVR”，以启用“手机通知”。请在 Google Play 里面搜索 Daily OVR应用程序。<br><br><strong><h2 class=\"bb_tag\" >常见问答</h2></strong><br><strong><u><h2 class=\"bb_tag\" >Daily OVR在某些游戏中不起作用。例如，Elite dangerous, PokerStarVR…等</h2></u></strong><br>这个问题是因为Elite Dangerous试图在Oculus SDK模式下运行引起的，但是Daily OVR不支持Oculus SDK。不过有一个方法你可以尝试，不是每个游戏都可以成功。你可以强迫它在steamVR模式下运行。不成功的原因大部分是因为游戏开发者没有为 SteamVR 模式来设计操作方式，所以你可能会经历无法使用控制器的情况。详细步骤你可以在谷歌上搜索”Daily ovr q&amp;a”来查看。<br><br><strong><u><h2 class=\"bb_tag\" >*我可以打开多少个图层?</h2></u></strong><br>这取决于你计算机的性能。如果表现很差，你可以试试:<br>-关闭覆盖<br>-调整FPS到更低<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793190/extras/db917850e0474203cac13003a9b627d2.avif?t=1585157017\" width=600 height=450 /></span><br><br><strong><u><h2 class=\"bb_tag\" >* 控制器的按钮映像不是很好。我可以换吗?</h2></u></strong><br>你可以透过 SteamVR Input 去改变按钮映像。<br><br><strong><u><h2 class=\"bb_tag\" >* 我不喜欢那个大图标/标志!我能让它消失吗?</h2></u></strong><br>是的，你可以通过长按菜单按钮来隐藏图标。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793190/extras/7ccf76e7e11d8c11fc75efd20a9ebc8d.avif?t=1585157017\" width=600 height=450 /></span><br><br><strong><u><h2 class=\"bb_tag\" >*我在一些应用程序上看不到/移动鼠标指针!</h2></u></strong><br>有些应用程序是作为管理员权限运行的。当Daily OVR不能以相同的权限运行时，它就不能访问这些应用程序。<br>您必须在每天的OVRLauncher.exe属性上勾选“以管理员身份运行此程序”。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793190/extras/77223cd76bda7a11e24941e73f19ce50.avif?t=1585157017\" width=360 height=506 /></span><br><br><strong><u><h2 class=\"bb_tag\" >*我的Firefox屏幕是空白的!</h2></u></strong><br>你有两个选择:<br>1. 您必须禁用Firefox的硬件加速。<br>2. 使用CustomApp<br><br>您可以加入Daily OVR Discord，并与我们分享您的回馈!<h2 class=\"bb_tag\" >Here is Discord invitation link: </h2>",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793190/header.jpg?t=1585157017",
+    "developers": [
+      "TM xR Lab"
+    ],
+    "publishers": [
+      "TM xR Lab"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

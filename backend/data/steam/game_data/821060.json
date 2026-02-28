@@ -1,0 +1,69 @@
+{
+  "821060": {
+    "name": "Desktop Mascot Engine",
+    "steam_appid": 821060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Desktop Mascot Engine allows you to have a character mascot live on your desktop and interact with it in real-time and have it respond to your interactions.<br />\r\n<br />\r\nIf you remember those old Stick-Fight videos on youtube, where the stick-man's were fighting on Windows Desktop, thats pretty much how the character/mascot looks on your desktop. Think of it as a living Game/Anime/3D-Model Character that overlaps over Windows and other apps.<br />\r\n<br />\r\nFor now we are adding diverse variety character models as mascots with some animations to allow you to relax/fiddle with the mascots to distract yourself from stress and stuff.<br />\r\n<br />\r\n====================<br />\r\nThis is the early access build.  <br />\r\nInteraction/Control is only possible directly when clicking (left mouse button) on the character/mascot.<br />\r\n<br />\r\n1. To change the characters, press and hold mouse button 1 (left click) on the character and press left or right key to toggle through the initially available 4 characters.  <br />\r\n2. To change the animation state of character, just left mouse click on the character itself. <br />\r\nAnimation change is random and sometimes its possible same animation plays, if so, left click again to change to different animation.<br />\r\n3. To change the mascot size, left click on mascot and use mouse scroll wheel to increase or decrease size.<br />\r\n<br />\r\n<br />\r\n<br />\r\n=======================<br />\r\n~~Coming Soon: The AI Assistant~~<br />\r\n=======================<br />\r\nFurther down the road, we will be adding AI to it to make it a semi-assistant to perform tasks for a variety of pre-defined things.<br />\r\nWe will be adding character packs of different themes/genres which will allow you a list of things via voice or input command like a Ai assistant would.<br />\r\nWe are looking for more suggestions and input related and unrelated to the AI/Assistant part, what you would like the mascot/character to do, what features you would expect and what particular characters/genres you would like ? Please use Steam Forums/Discussions to provide your feedback and suggestions.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821060/header.jpg?t=1544403964",
+    "developers": [
+      "GamerzDan"
+    ],
+    "publishers": [
+      "GamerzDan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 4,
+      "total_negative": 4,
+      "total_reviews": 8
+    }
+  }
+}

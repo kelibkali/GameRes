@@ -1,0 +1,57 @@
+{
+  "269550": {
+    "name": "Zoom Player : Steam Edition",
+    "steam_appid": 269550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Zoom Player represents my life-long quest as an indie developer to craft the most versatile media player and Home Theater experience for Windows.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >What makes Zoom Player the best overall media player? It's the user interface, viewing experience and tweaking options. Lots and lots of tweaking options, tailoring the playback experience to your personal preferences without bloating up or slowing down.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Under the hood, Zoom Player uses the best audio/video decoding and rendering technologies available to get the job done. Whether it's Microsoft DirectShow framework, the FFMPEG project, LAV Filters, libVLC or the Chromium browser, Zoom Player uses the best playback engine for the task. The flexibility of picking the right media engine for the task means that pretty much every media format can play at the highest quality your hardware can muster. And if it doesn't, I will do my best to resolve any issues in the discussions area.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>What about Control?</strong> If you're scared by long lists, skip to the next paragraph, otherwise know that Zoom Player can be controlled with a Remote Control app; a physical Remote Control; an XBOX controller; a mouse; the keyboard; using a PowerShell Script; Home Automation apps; over TCP/IP; WinAPI; through the Command line; and even with a web browser. Sorry for the long list, but the level of control and attention to detail I designed into Zoom Player is unmatched! Every key, click, swipe, roll and button can be customized to your preferences.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>How does Zoom Player look?</strong> Amazing. The screenshots only tell half the story. With Zoom Player's powerful control overlay customization features, you can easily pick and choose which user interface elements appear on screen (buttons, volume bar, timeline bar, title text, etc), their size, color, transparency and much more. </p><p class=\"bb_paragraph\" >Zoom Player's user interface is designed to look good on any display, regardless of the screen size or resolution and is ideal for the visually impaired. You no longer need to be an artist or coder to craft a beautiful user interface tailored to your exact requirements, you can do it yourself with a few simple clicks.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>What about Streaming?</strong> Zoom Player has the best Streaming implementation on Windows, providing access to live TV from across the world (caveat below). YouTube channels, trends, searches and playlists can be added into the Media Library with ease. Browse and Stream from Media Servers such as PLEX, Emby and Jellyfin. Other streaming sites either work automatically or can be supported through 3rd party plug-ins.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Home Theater?</strong> Zoom Player includes an extensive list of Home Theater features backed up by a powerful media library that can help organize your collection and content sources (see screenshots), including a TV and Movie JukeBox modes that displays Backdrop and Poster images along with meta-data such as description, actors, genre, content-rating, etc.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Support?</strong> The quick usage guides are the first line of support, clear and concise. Next I wrote the most in-depth documentation for a media player, ever. Every checkbox or setting is explained in great detail. I personally provide support and take requests on Zoom Player's reddit community and review the Steam discussion area often. Every question is answered respectfully and thoughtfully. Did you come up with a cool new feature you would like me to add? Let me know and I'll see if I can get it done.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Caveats:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Some of the Steam reviews are old and do not really represent Zoom Player's current potential, please try the demo version and see for yourself.</p></li><li><p class=\"bb_paragraph\" >HDR playback requires that the Video Renderer is set to either MadVR or MPC-VR. You may need to configure the selected video renderer with your choice of HDR settings.</p></li><li><p class=\"bb_paragraph\" >BluRay playback only works on decrypted content, encrypted discs will not play.</p></li><li><p class=\"bb_paragraph\" >To play BluRay discs with menus, you need to install libVLC and the JAVA runtime engine (Zoom Player v19 required).</p></li><li><p class=\"bb_paragraph\" >DVD playback works but it's dependent on Microsoft's Framework which can have issues on some systems. Most issues are easily resolved by switching the audio/video decoders used for DVD, but if you are having issues, create a post on the discussions area and I will help you resolve it.</p></li><li><p class=\"bb_paragraph\" >Zoom Player includes Live/VOD streaming technologies with full EPG support, but such content is not included in Zoom Player. To access Live/VOD streams, you must purchase a subscription from a service provider of your choice. I don't have a recommendation.</p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 捷克语, 匈牙利语, 日语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 瑞典语, 繁体中文, 土耳其语, 乌克兰语, 波兰语, 泰语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269550/header.jpg?t=1767782794",
+    "developers": [
+      "Inmatrix LTD"
+    ],
+    "publishers": [
+      "Inmatrix LTD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 19800,
+      "final": 19800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 198.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 4 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 7,
+      "total_negative": 1,
+      "total_reviews": 8
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "1200230": {
+    "name": "Ludus",
+    "steam_appid": 1200230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200230/extras/1a64618da01d2c38e44dfeca45e35313.poster.avif?t=1751967705\" width=500 height=280 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200230/extras/1a64618da01d2c38e44dfeca45e35313.webm?t=1751967705\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200230/extras/1a64618da01d2c38e44dfeca45e35313.mp4?t=1751967705\" type=\"video/mp4\"></video></span><br>改善您所有的角斗士，并赢得与其他角斗士的胜利。 购买新的盔甲，剑和装备。 贸易赚钱。<br>建立大型综合角斗士学校。 为角斗士创造最舒适的工作环境。<br>购买奴隶并发展他们成为角斗士。 并把它拍卖。<br>从5种角斗士风格中进行选择，并根据这种风格训练您的角斗士。<br>Dimachaerus，Retiarius，Murmillo，Hoplomachus，捷拉斯<br>与所有角斗士打交道时，请不要忘记照顾您的家人。<br>为您雇用和管理最有用的员工。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200230/header.jpg?t=1751967705",
+    "developers": [
+      "Cheesecake Dev"
+    ],
+    "publishers": [
+      "Cheesecake Dev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/3978885ccc69a19b2e1c5ce745e17e8b78f04d96.jpg"
+        },
+        {
+          "name": "Auction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/43d49e6537d9343d4f732939be36739dc0479acd.jpg"
+        },
+        {
+          "name": "Mercantile",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/a8d1cd70a998c6a2f01fc2d146664310a0b72f8c.jpg"
+        },
+        {
+          "name": "Farmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/68eadf6ec18ebabfb93d34dd571cadebc81da585.jpg"
+        },
+        {
+          "name": "Gambler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/5d618a9d96fd4b5f64f955a673cc6d19e2516839.jpg"
+        },
+        {
+          "name": "Fisherman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/0b9e765a00dc27e2e27fa68d5355d889df340421.jpg"
+        },
+        {
+          "name": "Task King",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/a43dd2da175695347ec1c6bcb2f8b2c8eeca4080.jpg"
+        },
+        {
+          "name": "Leaf man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/509ade472052c72b0e44f0ab1d338a0f4d54299a.jpg"
+        },
+        {
+          "name": "Glory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/1f38e99596882273994789e76ee3a8ed488b8e0a.jpg"
+        },
+        {
+          "name": "Bettor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200230/5ad7a5d2ca143de5a12c0f33df580aee31231c2f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 37,
+      "total_negative": 29,
+      "total_reviews": 66
+    }
+  }
+}

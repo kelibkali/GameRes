@@ -1,0 +1,100 @@
+{
+  "464960": {
+    "name": "Hiiro",
+    "steam_appid": 464960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464960/extras/a92b8572c8fe37bf9eba5a940832ffee.avif?t=1760395192\" width=616 height=108 /></span><br><br>Hiiro is a 2D platform game focused on ambient exploration and puzzle solving. Discover a grand world filled with mysterious artifacts and forgotten ruins. Become immersed in relaxing gameplay and meditative music. Remain observant as you unravel an explanation for your solitude. In-game death not included.<br><br>Features:<br>• Exploration - One vast world to travel through with eight distinct environments. Think Seiklus, Knytt, or An Untitled Story.<br>• Discovery - Hidden secrets and puzzles scattered throughout the world. Various levels of hidden and various levels of difficulty.<br>• Dynamic Soundtrack - Meditative music that seamlessly transitions as you move through the world.<br>• No Death - Explore a world without fear.<br>• No Language - A story told without words, spoken or written.<br>• Wide Range of Gameplay - Easy mechanics for the non-gamer, hidden secrets for the casual gamer, challenging puzzles for the hardcore gamer, awesome rewards for the completionist. Something for everyone.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 匈牙利语, 希腊语, 丹麦语, 繁体中文, 简体中文, 韩语, 荷兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 泰语, 土耳其语, 乌克兰语, 芬兰语, 捷克语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464960/header.jpg?t=1760395192",
+    "developers": [
+      "Jon Tiburzi",
+      "Bevibel Harvey",
+      "Philip Gibbons",
+      "Marc Cuva"
+    ],
+    "publishers": [
+      "Sometimes You"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Revival",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464960/f2cc6e7a53e00a5da00a922c31e8b0cce67e2dc2.jpg"
+        },
+        {
+          "name": "Restoration",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464960/4ae17a97dc22d463856252e53f51286d37193ce9.jpg"
+        },
+        {
+          "name": "Librarian",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464960/7c9e7cf5d44ed25b60f1d59523a425d898630d4e.jpg"
+        },
+        {
+          "name": "Inside Joke",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464960/f1bc4b3da2cc80c383f5fb2a90179e6a8cd3285e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 7,
+      "total_negative": 1,
+      "total_reviews": 8
+    }
+  }
+}

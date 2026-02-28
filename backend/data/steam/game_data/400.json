@@ -1,0 +1,153 @@
+{
+  "400": {
+    "name": "Portal",
+    "steam_appid": 400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Portal™ 是 Valve 新开发的单人游戏。故事背景设定在神秘的光圈科技实验室，Portal 已被誉为业界最具创意的新游戏，它将为玩家带来数十小时独一无二的游戏体验。<br />\r\n此游戏旨在改变玩家在特定环境中处理、应付和推测可能性情况的方法；与 Half-Life® 2 的“重力枪”开辟在特定环境下处理目标的新方法类似。<br />\r\n玩家必须通过空间打开前往操纵物体和谜题的入口，解决物理难题和挑战。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 俄语<strong>*</strong>, 丹麦语, 荷兰语, 芬兰语, 意大利语, 日语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 简体中文, 西班牙语 - 西班牙<strong>*</strong>, 瑞典语, 繁体中文<strong>*</strong>, 韩语, 保加利亚语, 捷克语, 希腊语, 匈牙利语, 葡萄牙语 - 巴西, 罗马尼亚语, 西班牙语 - 拉丁美洲, 泰语, 土耳其语, 乌克兰语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 65,
+        "description": "字幕选项"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "实验室的老鼠",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_getportalguns.jpg"
+        },
+        {
+          "name": "自相残杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_kill_companioncube.jpg"
+        },
+        {
+          "name": "常客",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_escape_testchambers.jpg"
+        },
+        {
+          "name": "伤心的人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_game.jpg"
+        },
+        {
+          "name": "终端速度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_infinitefall.jpg"
+        },
+        {
+          "name": "远跳",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_longjump.jpg"
+        },
+        {
+          "name": "纸杯蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_2advancedmaps.jpg"
+        },
+        {
+          "name": "水果蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_4advancedmaps.jpg"
+        },
+        {
+          "name": "香草素食蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_beat_6advancedmaps.jpg"
+        },
+        {
+          "name": "基础科技",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/portal_get_allbronze.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 12268,
+      "total_negative": 229,
+      "total_reviews": 12497
+    }
+  }
+}

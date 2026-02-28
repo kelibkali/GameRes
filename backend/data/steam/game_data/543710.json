@@ -1,0 +1,85 @@
+{
+  "543710": {
+    "name": "Cogito",
+    "steam_appid": 543710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your brain to its utmost potential to decipher puzzles, ciphers, and patterns!<br />\r\n<br />\r\nCurrently only has support for the HTC Vive.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/header.jpg?t=1488161178",
+    "developers": [
+      "Evan Downing"
+    ],
+    "publishers": [
+      "Evan Downing"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2500,
+      "final": 2500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 25.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Beginning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/543710/dc84428c11facad77f85edb7d92bb01f507e65cd.jpg"
+        },
+        {
+          "name": "Big ol' Brain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/543710/eb24aff0bc458ee808f9b48fcdc5a999aa80d3ba.jpg"
+        },
+        {
+          "name": "Hard Mode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/543710/77ae3a4c47d467ef99a30476f395517ffa2bcc55.jpg"
+        },
+        {
+          "name": "Even Bigger Brain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/543710/9007d8e42fb90b536e1924ab27b3d094b6a7b675.jpg"
+        },
+        {
+          "name": "It's a secret to everyone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/543710/064402d25918489029b6c6eac7fcde1a72cea600.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "1340440": {
+    "name": "忘川",
+    "steam_appid": 1340440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "卡牌策略养成与可回退的迷宫冒险，组成了这款类Rouglike游戏。游戏背景为中式玄幻，包含了各种中式鬼怪的传说与事件，通过不断的探索与深入冒险，将会解锁更多的内容，游戏难度也会不断提升。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340440/header_schinese.jpg?t=1598107803",
+    "developers": [
+      "玩多阵 Studio"
+    ],
+    "publishers": [
+      "玩多阵 Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    }
+  }
+}

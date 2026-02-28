@@ -1,0 +1,105 @@
+{
+  "1200420": {
+    "name": "Awesome Pea 2",
+    "steam_appid": 1200420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Awesome Pea 2 - 经典平台游戏的下一章。<br>贪婪的豌豆又回来了！现在有更多的黑暗地牢，致命的陷阱和黄金！<br><br>你肯定会再次在此游戏中找到：<br><ul class=\"bb_ul\"><li>像素Gameboy风格的图形（所有内容均为绿色时）<br></li><li>25个不同关卡<br></li><li>复古配乐（听起来就像您的旧电脑一样）<br></li><li>很多闪亮的金币</li></ul>",
+    "supported_languages": "英语, 俄语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 繁体中文, 简体中文, 韩语, 荷兰语, 波兰语, 葡萄牙语 - 葡萄牙, 土耳其语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200420/header.jpg?t=1668057170",
+    "developers": [
+      "PigeonDev"
+    ],
+    "publishers": [
+      "PigeonDev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "STAGE 0 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/9e0b4910f3d540ec6162fc66192aa2b371c3bd5e.jpg"
+        },
+        {
+          "name": "STAGE 1 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/7da56c7f67d3d3a970b248a14513679a6a196871.jpg"
+        },
+        {
+          "name": "STAGE 2 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/cef71735ba025d1fe2e143ad7ca9362bfdfc26d9.jpg"
+        },
+        {
+          "name": "STAGE 3 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/b156bbbfb5ce94f565adcf801f83da5d55a2110f.jpg"
+        },
+        {
+          "name": "STAGE 4 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/686d854cc8b6de2d6b029636994392921bbdf81e.jpg"
+        },
+        {
+          "name": "STAGE 5 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/14c4693b40ce878f89b8be12d5dc2b632196447f.jpg"
+        },
+        {
+          "name": "STAGE 6 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/2970f3d904060fd16d362ece40364db362e2567e.jpg"
+        },
+        {
+          "name": "STAGE 7 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/c18f2bc0ec51bd6a80b68f3d2ca3a5b633e0402c.jpg"
+        },
+        {
+          "name": "STAGE 8 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/c944bdad19fce7acb5637f9f8b7de55b8bfa565c.jpg"
+        },
+        {
+          "name": "STAGE 9 COMPLETED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200420/76eee0aa71d64535caaf2be0d5848b289aecfc19.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

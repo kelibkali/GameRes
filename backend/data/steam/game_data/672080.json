@@ -1,0 +1,105 @@
+{
+  "672080": {
+    "name": "Cube Creatures",
+    "steam_appid": 672080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "从洞窟中醒来，<br />\r\n没有手脚，<br />\r\n没有耳目，<br />\r\n用尽全身之力向前闯，<br />\r\n纵使深沟高墙也无法阻挡。<br />\r\n<br />\r\n在危险中穿行，<br />\r\n没有武器，<br />\r\n没有防御，<br />\r\n勇敢面对前方的阻挡，<br />\r\n浑身的伤痕是英勇的勋章。<br />\r\n<br />\r\n独自默默闯荡，<br />\r\n也曾犹豫，<br />\r\n也曾彷徨，<br />\r\n心中相信路就在前方，<br />\r\n未知的世界在等我去拜访。<br />\r\n<br />\r\n操作提示：<br />\r\n1.只能控制白色方块向左或向右跳跃，高度和距离与按键时长成正比。<br />\r\n2.没有攻击，防御或二段跳。<br />\r\n3.跳跃基于物理，受力可以加减。<br />\r\n4.机关和生物之间有时会相互伤害。<br />\r\n<br />\r\n-50 个关卡<br />\r\n-15 个成就",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672080/header.jpg?t=1501245782",
+    "developers": [
+      "Chu Xiaosong"
+    ],
+    "publishers": [
+      "Chu Xiaosong"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "打开大门",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/1e0b3adc27565ba7bda0bdfc85b7cb29db5505ab.jpg"
+        },
+        {
+          "name": "逃出洞窟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/622930436aa5ab69e2a6bbf69bec1da4b2f51bd4.jpg"
+        },
+        {
+          "name": "秘密基地",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/87fe2330eee4437d463788775d98b43f7c971c43.jpg"
+        },
+        {
+          "name": "直达终点",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/13193f6dda280e9112f4e31d708ed6c007c73c46.jpg"
+        },
+        {
+          "name": "不是很难",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/89002204cb22c239821a0de16a919db6a7d84b69.jpg"
+        },
+        {
+          "name": "小菜一碟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/3824a29f83b5dbcdfcd6f3720b65d6842f5dc1b8.jpg"
+        },
+        {
+          "name": "完美主义",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/9490c8d01cd1387af0048b0558164c403704ca33.jpg"
+        },
+        {
+          "name": "屡败屡战",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/0784318b1e676d554aa1ef60b908c4ff140d0eef.jpg"
+        },
+        {
+          "name": "不屈不挠",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/10dfb5830c5dbb24a4417a38ab1665ece884722e.jpg"
+        },
+        {
+          "name": "死亡之路",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/672080/831f240864932b9fdde61ebbbb0e5858a4d6cac6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

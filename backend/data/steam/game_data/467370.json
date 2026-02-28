@@ -1,0 +1,97 @@
+{
+  "467370": {
+    "name": "Escape This",
+    "steam_appid": 467370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/8eee270c063aadf8fe042814e72f4895.avif?t=1764928114\" width=400 height=100 /></span><h2 class=\"bb_tag\" ><strong>Escape This</strong></h2> is a casual puzzle game where the main objective is for the player to complete the given stage. <br>Each stage is selected at random.<br><br>All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community.<br><br><strong>Can you escape?</strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/header.jpg?t=1764928114",
+    "developers": [
+      "Four Winged Studio"
+    ],
+    "publishers": [
+      "Conglomerate 5"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 5 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Blocky Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467370/dbecf04e790bdfd537aaa82dc03b20c1c1bfc912.jpg"
+        },
+        {
+          "name": "Turret Encounter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467370/f0019ea2816d5fef1c73dac2103991d6fc96de50.jpg"
+        },
+        {
+          "name": "Space Time Teleport",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467370/88e09c7cca00fe498ef3e09c743ca3ad1a857904.jpg"
+        },
+        {
+          "name": "Suicidal Block",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467370/3165a1b6a130d3e1acb79da63fc6ecac8ef68e7c.jpg"
+        },
+        {
+          "name": "Got Shot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/467370/699b6ef86383682c3cccb28f30edebb5a8c48c75.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 2,
+      "total_negative": 6,
+      "total_reviews": 8
+    }
+  }
+}

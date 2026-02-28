@@ -1,0 +1,85 @@
+{
+  "1519660": {
+    "name": "Goat over it",
+    "steam_appid": 1519660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/Shop_2.png [/]<br>一个基于物理的游戏，您只需要两个键即可控制山羊的平衡，从而到达山顶。<br>一键负责前爪，<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/00.gif [/]<br>第二个是后腿的钥匙。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/02.gif [/]<br>跳跃的高度还取决于按压的持续时间。<br>这样您就可以使跳跃更加准确。<br><strong>精美的图形将帮助您更加感受到游戏的乐趣[/]<br><br><ul class=\"bb_ul\"><li>乍一看，这比看起来容易，但是如果您仍然设法在检查点模式下完成游戏，这有助于了解游戏的机制，那么将为您打开无检查点的模式。在其中一个错误中，您又重新开始。</li></ul><br><ul class=\"bb_ul\"><li>如果您是复杂游戏的狂热者，并且通过了<strong>Bennett Foddy的Getting Over It</strong>，那么此游戏适合您。</li></ul></strong>",
+    "supported_languages": "英语, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519660/header.jpg?t=1627122555",
+    "developers": [
+      "Kiiega"
+    ],
+    "publishers": [
+      "Kiiega"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "First checkpoint",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1519660/955134bd2d6e41752b9faf63854095cb97f0ff45.jpg"
+        },
+        {
+          "name": "Second checkpoint",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1519660/9ddfaf18ff76e5a17b8133749a5ee5f602e7bf60.jpg"
+        },
+        {
+          "name": "Third checkpoint",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1519660/c931c41173341a1f3340eb20928b5f4f41ffdd34.jpg"
+        },
+        {
+          "name": "Peak",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1519660/75a83ee275edafeb34f52179018c9f9eed4f510b.jpg"
+        },
+        {
+          "name": "Just do it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1519660/c3a3994d3c6e13003eb2a1f5ff4a3ddcee0aea55.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

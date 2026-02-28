@@ -1,0 +1,78 @@
+{
+  "957370": {
+    "name": "Chess 2",
+    "steam_appid": 957370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You like Chess? <br>You like cute, cube-shaped animals?? <br>Well, look no further!<br><br>This project was inspired by Oats Jenkins' video on Youtube titled &quot;I Made a BETTER Chess&quot;. In their video, they revised the pieces and rules.<br>This project is that idea, turned into a video game.<br><br><strong><u>FEATURES</u></strong><br><br><ul class=\"bb_ul\"><li>Themed animal aesthetic<br></li><li>Revised pieces with new moves<br></li><li>New win condition (Jail squares)<br></li><li>New Piece: The Bear (can be controlled by both players)<br></li><li>In-Game guide to explain pieces &amp; new rule changes<br></li><li>Multiplayer only (local &amp; online)</li></ul><ul class=\"bb_ul\"><li>Piece Customization &amp; Unlockable Hats!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/957370/header.jpg?t=1711337619",
+    "developers": [
+      "Keelee"
+    ],
+    "publishers": [
+      "TD Indie"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

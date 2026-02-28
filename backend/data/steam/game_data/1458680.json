@@ -1,0 +1,97 @@
+{
+  "1458680": {
+    "name": "Bookshelf",
+    "steam_appid": 1458680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Bookshelf provides a simple way to store and read eBooks. Integrated with Steam, your friends will see which book you're reading and your progress through reading it. From text-books to graphic novels, we intend provide various reader preferences for your optimal reading. <br />\r\n<br />\r\n- Track weekly reading time via your Steam Profile<br />\r\n- Show your friends which books you're reading<br />\r\n- Track progress in each book<br />\r\n<br />\r\nBookshelf currently supports ePub and PDF formats, we are actively adding more supported types; along with more reader options!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458680/header.jpg?t=1614919130",
+    "developers": [
+      "Colton Lathrop"
+    ],
+    "publishers": [
+      "Fivestack"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "Read First Book",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/6593f79384a2089ea221d3f9e6eb825dcb187832.jpg"
+        },
+        {
+          "name": "Read Five Books",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/8c5cc8aa1562e7790169998b0961d0498831b521.jpg"
+        },
+        {
+          "name": "Read Ten Books",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/2d625944f38b9c7fc744fe62dbc7979529de55e9.jpg"
+        },
+        {
+          "name": "Read Fifty Books",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/631c3ddaea0c2064ba2f3f160ec864bccb4385ca.jpg"
+        },
+        {
+          "name": "Read One Hundred Books",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/97c2e2d10991f9f559971da55745e9d84268b2ce.jpg"
+        },
+        {
+          "name": "First Book Added",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/5e42005fccc7f67e594e3e57e0a4749b583aaf33.jpg"
+        },
+        {
+          "name": "Opened First Book",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/2056e0c99427c84340cb31343d4c93071376821a.jpg"
+        },
+        {
+          "name": "Checked Your Stats",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/c71b6f9c0f4467d2e4cfa9db57550b67e8a851fa.jpg"
+        },
+        {
+          "name": "Searched For A Book",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/4c0cf1e4b802db427aa3349f95cf6f005cc2014e.jpg"
+        },
+        {
+          "name": "Read Ten Pages",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1458680/b69b821b4be7856b638ed829c38e6ed03b842221.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

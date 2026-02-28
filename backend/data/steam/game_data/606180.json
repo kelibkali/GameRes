@@ -1,0 +1,50 @@
+{
+  "606180": {
+    "name": "Viveport Video",
+    "steam_appid": 606180,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Viveport Video is your portal into a newer, more immersive way to watch videos. Watch your own favorites, or explore an enormous variety of material from our media partners. Envelop yourself in everything from traditionally-shot short films to sweeping epics designed for total 360˚ views.<br />\r\n<br />\r\nAnd if you are a Viveport INFINITY member, you already have exclusive access to even more video content. Dive in now and start exploring a whole-new video landscape. Caution: watching videos on your phone may never feel satisfying again!<br />\r\n<br />\r\nFeatures:<br />\r\n• Local video playback of standard, 3D, 180˚, and 360˚ videos<br />\r\n• Streaming video playback of standard, 3D, 180˚, and 360˚ videos from various video channels<br />\r\n• A mini-browser interface for mid-video browsing of the streaming catalog <br />\r\n• Changeable video formats<br />\r\n• Resizing and repositioning of standard video content<br />\r\n• Support for both seated and standing experiences<br />\r\n• Support multiple audio soundtrack and .srt subtitle format<br />\r\n<br />\r\nViveport Video offers support for a wide variety of video-viewing formats, including standard (or “flat”), stereoscopic 3D, 180˚, and 360˚. Users may upload new video files in the following formats: .mp4, .mkv, .mov, and .divx.  Viveport Video supports spatial audio in the following formats: Google VR Audio (ambisonic decoding with HRTF), FuMa, Facebook 360 Spatial Workstation (TBE), ITU 5.1, and ITU 7.1 surround sound. Users must upload subtitle files in .srt or .ass format, with multiple languages needing to be embedded in a .mkv format. 360˚ videos not detected by the metadata format &quot;Spherical Video RFC&quot; can be manually adjusted by setting the playing mode to “360”.",
+    "supported_languages": "英语, 简体中文, 繁体中文, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 捷克语, 丹麦语, 荷兰语, 芬兰语, 日语, 韩语, 挪威语, 波兰语, 俄语, 瑞典语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606180/header.jpg?t=1576742034",
+    "developers": [
+      "Viveport"
+    ],
+    "publishers": [
+      "Viveport"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

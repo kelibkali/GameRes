@@ -1,0 +1,75 @@
+{
+  "1091420": {
+    "name": "DLC-猫娘角色",
+    "steam_appid": 1091420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "可以操控新的角色猫娘！<br />\r\n需要在“王城”的“记录官”处领取DLC内容，<br />\r\n领取后可以获得一个猫娘变身器，使用后就会变为猫娘的样子。<br />\r\n(这是一个类似于彩蛋，赞助奖励性质的dlc)",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091420/header.jpg?t=1560157095",
+    "developers": [
+      "绝汪"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

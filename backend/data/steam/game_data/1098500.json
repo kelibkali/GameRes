@@ -1,0 +1,85 @@
+{
+  "1098500": {
+    "name": "Astral Battlefield / 星界战场",
+    "steam_appid": 1098500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在宇宙深处一个无人知晓的坐标上，有一个由 AI 控制的秘密基地，所有人类文明的信息都储存在这里。在这个基地的周围是称之为“星界战场”的区域，一直以来，基地对抗外部威胁的战争都以一种抽象的形式在这里发生。地球上，一些人类会通过“星光投射”的技术传送到这里并组成部队，而所有的外部威胁也会投射为另外一支部队。作为指挥官，你的任务就是在“随机”的战场中率领部队赢得一场又一场的回合制战斗。<br><br>游戏特色:<br><ul class=\"bb_ul\"><li>战场：8x4 的网格大小，敌我部队随机混杂在网格地板之中，开局时全部网格地板处于覆盖状态；<br></li><li>翻转：每回合可选择翻转一块地板，地板翻转后出现地方或我方的战士，并获得 1 点能量值；<br></li><li>能量值：战士需要消耗能量值来使用特殊技能；<br></li><li>部队：双方部队共 16 个战士；<br></li><li>战士种类：一共有 7 种战士，每种战士都有不同的能力。</li></ul>",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 繁体中文, 葡萄牙语 - 巴西, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098500/header.jpg?t=1741696036",
+    "developers": [
+      "Bitca"
+    ],
+    "publishers": [
+      "Bitca"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

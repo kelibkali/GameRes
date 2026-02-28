@@ -1,0 +1,77 @@
+{
+  "50": {
+    "name": "Half-Life: Opposing Force",
+    "steam_appid": 50,
+    "required_age": 0,
+    "is_free": false,
+    "description": "以一名军事专家的身份再次回到黑山基地研究所，任务就是要消灭 Gordon Freeman。 揭开了单人游戏的全新篇章。 遭遇险恶的外星敌人，尝试各种新型的武器。 荣获美国交互艺术与科学学院“年度最佳”游戏大奖。",
+    "supported_languages": "英语, 法语, 德语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/header.jpg?t=1745368539",
+    "developers": [
+      "Gearbox Software"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "1999 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 538,
+      "total_negative": 40,
+      "total_reviews": 578
+    }
+  }
+}

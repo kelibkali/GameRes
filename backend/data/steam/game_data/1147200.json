@@ -1,0 +1,77 @@
+{
+  "1147200": {
+    "name": "SnL",
+    "steam_appid": 1147200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The essence of the game is very simple and understandable even to younger children (despite the fact that adults play this game with great interest !!).<br />\r\n<br />\r\nPlayers take turns to roll a die and move to a certain number of cells. Some cells in the field are ordinary, cells with stairs and snakes move the player’s chip to another cell. The player who first got to the finish line wins.<br />\r\n<br />\r\nBefore the start of the game, chips are placed in front of the playing field. The sequence of the move is determined by lot. Then the players take turns to roll the die and, according to the numbers that have been dropped, move their chips to the appropriate number of cells on the field. The goal of the game is to get to the finish line first - cells with number 100.<br />\r\n<br />\r\nIf a chip has stopped on a cell with a ladder (green), the player moves the chip up to the end of the ladder. If the chip stopped at the cell with the head of the snake (red) - the chip goes down to the very tip of the tail.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147200/header.jpg?t=1567669756",
+    "developers": [
+      "cBlck"
+    ],
+    "publishers": [
+      "cBlck"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "494040": {
+    "name": "PuppetsVR",
+    "steam_appid": 494040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PuppetsVR is a family friendly game about puppetry. Practice your puppetry skills and make your own show for friends, family or other players to enjoy!<h2 class=\"bb_tag\" >Create your puppet</h2>Although there are limited customization options available right now, we plan to add more and more according to your feedback. The game has two base puppets right now, and only one of them is customizable. As we create more art assets, we'll make more options available to you.<h2 class=\"bb_tag\" >Meet other puppeteers</h2>If you've dreamed of getting on a stage and creating your own show, you might know that renting a venue can be costly. With a virtual stage, you won't have to worry about selling tickets to fund your show. PuppetsVR supports multiplayer!<h2 class=\"bb_tag\" >Set the mood</h2>With a rudimentary implementation for stage lights, you can set the lighting to reflect the mood of your show.<br><br>PuppetsVR is meant to be a platform for puppets enthusiasts, families and gamers. We want to grow this platform according to your feedback to provide more customization and creative tools.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494040/header.jpg?t=1579883333",
+    "developers": [
+      "Expo Virtualis"
+    ],
+    "publishers": [
+      "Expo Virtualis"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

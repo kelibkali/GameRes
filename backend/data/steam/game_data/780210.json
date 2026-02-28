@@ -1,0 +1,85 @@
+{
+  "780210": {
+    "name": "Freeways",
+    "steam_appid": 780210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Freeways</strong> is a game where you draw freeway interchanges. You are the traffic engineer.</p><p class=\"bb_paragraph\" ><strong>Draw</strong> roads like you're drawing a picture.</p><p class=\"bb_paragraph\" ><strong>Design</strong> for efficiency or draw the spaghetti junction of your dreams.</p><p class=\"bb_paragraph\" ><strong>Simulate</strong> traffic flow through your interchange. Most importantly, avoid traffic jams.</p><p class=\"bb_paragraph\" ><strong>Connect</strong> a whole world together in a network of interchanges. Features 160 levels.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780210/header.jpg?t=1740437151",
+    "developers": [
+      "Captain Games"
+    ],
+    "publishers": [
+      "Captain Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Freeway Engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/780210/27a8912bbdc77c6c8f6a061194779c71ec99898b.jpg"
+        },
+        {
+          "name": "Maximum Efficiency",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/780210/b9d6c7f4adb55ec5e30687d004ba60a64ad67b71.jpg"
+        },
+        {
+          "name": "Master Engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/780210/9904b771364b175c4f344d201cee7ab56b7339de.jpg"
+        },
+        {
+          "name": "Supreme Efficiency",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/780210/c48063bf36ed269f942d311f1cdd639fa914eeed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 7,
+      "total_negative": 3,
+      "total_reviews": 10
+    }
+  }
+}

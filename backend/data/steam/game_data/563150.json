@@ -1,0 +1,105 @@
+{
+  "563150": {
+    "name": "interLOGIC",
+    "steam_appid": 563150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "inter<strong>LOGIC</strong>是一个简单的大气益智游戏。<br>连接两个，三个或四个相同颜色的块完成水平。<br><br>特征：<br><ul class=\"bb_ul\"><li>脑子戏弄难题<br></li><li>极简主义的复古设计<br></li><li>交易卡<br></li><li>成就<br></li><li>排行榜<br></li><li>放松的音乐<br></li><li>小时的乐趣</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 波兰语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/563150/header.jpg?t=1667032935",
+    "developers": [
+      "phime studio LLC"
+    ],
+    "publishers": [
+      "phime studio LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "WILL POWER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/563150/0f1d4ad67c3bb693db6566e6545fbee649dfd749.jpg"
+        },
+        {
+          "name": "LOGIC STREAK",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/563150/dc3f620fde497d34f429af68d0328bdffad265c9.jpg"
+        },
+        {
+          "name": "BLAZE OF LOGIC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/563150/5dd8cbbfb1957c08169a28bda78d5554d31dfa34.jpg"
+        },
+        {
+          "name": "LOGIC BOT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/563150/a49548541071349d312a42a755e2f93d086a49c8.jpg"
+        },
+        {
+          "name": "LOGIC MACHINE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/563150/50e9bcf4cb8c267ed2b29c649b3acb301547e55d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

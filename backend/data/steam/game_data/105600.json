@@ -1,0 +1,157 @@
+{
+  "105600": {
+    "name": "Terraria",
+    "steam_appid": 105600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。 <br>拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。<br>但要注意，那有很多挑战在等着你……你能完成任务吗？<br><strong>主要特点：</strong><br><ul class=\"bb_ul\"><li>沙盒游戏<br></li><li> 随机生成的世界<br></li><li>免费的内容更新</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "developers": [
+      "Re-Logic"
+    ],
+    "publishers": [
+      "Re-Logic"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 5 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 137,
+      "highlighted": [
+        {
+          "name": "Timber!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/0fbb33098c9da39d1d4771d8209afface9c46e81.jpg"
+        },
+        {
+          "name": "No Hobo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/65bbc5ea6a030b963d9a06e5e1b315c3872837a3.jpg"
+        },
+        {
+          "name": "Stop! Hammer Time!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/4760436e9973519098bb2cc419339d24e56af139.jpg"
+        },
+        {
+          "name": "Ooo! Shiny!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/57b929ffd1a732ffc49abc6c53387e08bac4cbbb.jpg"
+        },
+        {
+          "name": "Heart Breaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/8243e4a0f7f803cd06cf37d64d11e04697afe30c.jpg"
+        },
+        {
+          "name": "Heavy Metal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/f727271437793b278c809a067fa2334ea2846f34.jpg"
+        },
+        {
+          "name": "I Am Loot!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/6705287adc42e2741d632c2d714424b2aa3e5716.jpg"
+        },
+        {
+          "name": "Star Power",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/738ca7765e32895918979d31d600d19254b14190.jpg"
+        },
+        {
+          "name": "Hold on Tight!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/0e2a5e080563ce9c30cf3b45dd155d18640f0bf6.jpg"
+        },
+        {
+          "name": "Eye on You",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/105600/b10b068163125e13444e2cdb145c1a200c7ad607.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 156836,
+      "total_negative": 3188,
+      "total_reviews": 160024
+    }
+  }
+}

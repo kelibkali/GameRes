@@ -1,0 +1,46 @@
+{
+  "778430": {
+    "name": "OSCKit",
+    "steam_appid": 778430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Create in VR</h2>OSCKit is a virtual reality environment for composition and performance. Using Open Sound Control (OSC), OSCKit integrates with production software like Ableton Live or Max/MSP for a customizable creative workflow, no programming experience required!<br><br>Inspired by apps like TouchOSC and Lemur, this software aims to bring that same functionality into the 3rd dimension.<h2 class=\"bb_tag\" >How It Works</h2>OSCKit does not generate audio by itself, but rather controls another production software of your choosing. This is done using OSC messages - small packets of information that, for instance, tell a program to press a note or turn a knob. Loads of software supports OSC including:<br><ul class=\"bb_ul\"><li>Ableton Live<br></li><li>Logic Pro X<br></li><li>Cubase<br></li><li>Max/MSP<br></li><li>Pure Data</li></ul><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>8 expressive control types including sliders, knobs and pads.<br></li><li>Built-in integration with TouchOSC Bridge for MIDI I/O.<br></li><li>Simple UI for one-button arrangement and performance.<br></li><li>Saving/Reopening kits for later expansion and sharing.<br></li><li>Customizable OSC addressing system.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/header.jpg?t=1586654179",
+    "developers": [
+      "MORA"
+    ],
+    "publishers": [
+      "MORA"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

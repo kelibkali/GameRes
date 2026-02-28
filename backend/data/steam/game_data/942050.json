@@ -1,0 +1,127 @@
+{
+  "942050": {
+    "name": "2048",
+    "steam_appid": 942050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "2048 is a classic puzzle with a simple goal; reach 2048.<br>Move your tiles across the grid and merge identical numbers into one. Plan ahead and watch out for new tiles spawning, that may prevent you from joining your numbers. Play on different board sizes and compete with people from all over the world, for your place on the leaderboards.<br><br>Build upon the original 2048, this new version expands the gameplay further with multiple board sizes, game modes, achievements, leaderboards, a night mode, cloud saves, and more!<h2 class=\"bb_tag\" >FEATURES</h2><strong>GAME MODES</strong><br>Compete for your place on the leaderboards in the classic game mode, now with multiple board sizes. Think fast and beat your best times in the new time trial game mode.<br><br><strong>BOARD SIZES</strong><br>Put your skills to the test on the new board sizes. Compete with people from all over the world and set your high score on the leaderboards for each board size.<br><br><strong>LEADERBOARDS</strong><br>Feeling competitive? Show the world who's the best 2048 with the integrated Steam Leaderboards. Compete for a place on the leaderboards for different board sizes or different game modes.<br><br><strong>ACHIEVEMENTS</strong><br>Unlock achievements as you progress on your 2048 journey.<br><br><strong>NIGHT MODE</strong><br>2048 got you playing till the early morning? Yeah, us too. Be kind to your poor eyes with the new soothing night mode. Just as beautiful as the original, but won't burn your retinas.<br><br><strong>THE ORIGINAL MADE BETTER</strong><br>2048 stays true to its roots and the core gameplay that made it such a cult classic. Expanding gameplay possibilities for both new and seasoned players is our main goal.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942050/header.jpg?t=1702036552",
+    "developers": [
+      "LA\\VA",
+      "Nicolai Clemmensen",
+      "Gabriele Cirulli"
+    ],
+    "publishers": [
+      "LA\\VA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Just Getting Started",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/8302c92b2e1dfb5dc3475afd4caad46d1661f3fc.jpg"
+        },
+        {
+          "name": "4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/274f750ef3ec34de3effe9a3f50c9292edc0fa86.jpg"
+        },
+        {
+          "name": "8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/4b190580b25f9e54b73d5c9f3a07ead192a2bbd6.jpg"
+        },
+        {
+          "name": "16",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/65f471b0728869a24181a065ac12936b5c190114.jpg"
+        },
+        {
+          "name": "32",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/15362a3dd31ae1c35e016a23d241b414e6e44415.jpg"
+        },
+        {
+          "name": "64",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/366d1ad06952e05c8593a936109477ce55b0b70e.jpg"
+        },
+        {
+          "name": "128",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/e3a21ceaf74c34c0e49c0c53b591e2373f1f7a04.jpg"
+        },
+        {
+          "name": "256",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/6f891539eb8395055f29966dbfe07765720d8f22.jpg"
+        },
+        {
+          "name": "512",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/e9249a142dc285aeb7874fe7cf878cb240574b4b.jpg"
+        },
+        {
+          "name": "Grand Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/942050/9200a8bd1ac639b9b0af8539e6c033e79820688d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 14,
+      "total_negative": 6,
+      "total_reviews": 20
+    }
+  }
+}

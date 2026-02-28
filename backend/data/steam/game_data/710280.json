@@ -1,0 +1,65 @@
+{
+  "710280": {
+    "name": "Musician",
+    "steam_appid": 710280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "音乐家是一款包含音乐中一些基本元素的游戏。<br />\r\n1.它拥有能够将任意MIDI文件转化成动画，直接演奏在我们眼前的功能，让观众能够欣赏乐谱的演奏效果。<br />\r\n2.它拥有大量的MIDI文件，你也可以自由添加自已的MIDI文件加入游戏中欣赏效果并对旋律进行单人演奏，通过打击音乐中的旋律音符获得分数。<br />\r\n3.玩家们能够在家就能一起通过游戏演奏乐器，像一个乐队一样合作或对抗。<br />\r\n4.您可以在游戏中创作属于自已的音乐，通过一系列的训练。<br />\r\n5.您可以使用小键盘1-7来代表C;DEFGAB等七个音符。也可以使用键盘上CDEFGAB等七个键来代表。升降音如c#等都合并为字母键上。<br />\r\n6.在本游戏中我们将主要使用巴洛克与古典时代大师们的作品‘请每位玩家在演奏中‘不但要演奏自已的旋律‘还要仔细倾听您的队友的旋律‘因为你们的旋律是在不断互相模仿‘追赶‘呼应的‘与你的队友们的旋律组合好‘你们会成为一个整体<br />\r\n7.团体赛：‘游戏中每个人将会演奏复调的其中一个轨‘打击音符的误差小于0.05秒得5分‘小于0.1秒得3分‘小于0.15秒得2分‘小于0.2秒得1分。团体得分达到总分60%以上‘即可获得相应的成就与奖励。",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710280/header.jpg?t=1521511480",
+    "developers": [
+      "ZhangHaiLong"
+    ],
+    "publishers": [
+      "ZhangHaiLong"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

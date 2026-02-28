@@ -1,0 +1,86 @@
+{
+  "1477440": {
+    "name": "Mahjong Solitaire 100",
+    "steam_appid": 1477440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a puzzle game, in which you take tiles from a pile of mahjong tiles according to the rules.<br />\r\n<br />\r\nEnjoy level 1 to 100 puzzles with a unique definition of difficulty.<br />\r\nThe game gets more and more difficult as the number of tiles increases with each level!<br />\r\n<br />\r\nUnlike other games, there is no &quot;shuffle&quot; in this game.<br />\r\nThe reason for this is that the game is arranged in such a way that it can be solved by thinking, not by luck.<br />\r\nWe hope that you will use your failures as a food for thought and arrive at the right answers.<br />\r\n<br />\r\n■The rules are very simple<br />\r\nWhen you select 2 identical tiles (*1) from a pile of mahjong tiles, you can obtain them.<br />\r\nThe objective of the game is to take all the tiles, and leaving some of them behind is a failure.<br />\r\n<br />\r\nThere are 2 rules for the tiles you can choose.<br />\r\n<br />\r\n1. You cannot choose a tile that is sandwiched between other tiles on the left and right.<br />\r\n2. You cannot choose a tile with overlapping tiles on top of it.<br />\r\n<br />\r\nAccording to these rules, the same tiles should be erased from each other.<br />\r\nDo not erase tiles at random, but choose them carefully.<br />\r\n<br />\r\nInitially, the tiles that cannot be removed by default are marked with different colors.<br />\r\nOnce you have a good understanding of the rules, it is recommended to turn off this feature.<br />\r\n<br />\r\n(*1) Seasonal and flower tiles are exceptions; the patterns do not have to be the same for the pair of both seasonal tiles or the pair of both flower tiles.<br />\r\n<br />\r\n■Help Function<br />\r\n1. Clues (up to 3 times per level)<br />\r\nIf you can't find a tile to choose from, use this feature.<br />\r\nHowever, the clues only show the combinations of tiles that can be taken at that point in time, not necessarily the correct answer.<br />\r\n<br />\r\n2. Undo (up to 3 times per level)<br />\r\nWhen you make a mistake in erasing a tile, you can undo the operation.<br />\r\n<br />\r\n3. Selection assistance<br />\r\nIt changes the color of the unselectable tiles.<br />\r\n<br />\r\n4. Time display<br />\r\nYou can choose to display or not to display the time.<br />\r\n<br />\r\n■Do you care about the time?<br />\r\nThe time it takes to solve this puzzle does not affect the progress of the game.<br />\r\nHowever, we use time as a guide to help you solve the puzzles.<br />\r\nIf you solve the same puzzle again, and your time is faster than before, you will be notified of your best time.<br />\r\n<br />\r\nOf course, if you don't want to pay attention to the time, you can hide it from the settings.<br />\r\nYou can change it according to your own playing style.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477440/header.jpg?t=1743090711",
+    "developers": [
+      "ShovelGames Inc."
+    ],
+    "publishers": [
+      "ShovelGames Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "My first game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/897bfa57eb8760e7d186617a43e61cea12c7c11a.jpg"
+        },
+        {
+          "name": "My First Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/6e30ad4838fbef1880bee8503aac3cf0cccb9924.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/5a8e17d2e6058ed73f45242f48493912fac22ff1.jpg"
+        },
+        {
+          "name": "Level 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/f62cd1a0d2c1fb4419614aab3d495400dc5e54ae.jpg"
+        },
+        {
+          "name": "Level 60",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/324a7201ff2e9542f54840e117d8c8b5ca719dc4.jpg"
+        },
+        {
+          "name": "Level 80",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/33e14bd58e5a9e85b0ac8850078ca5cd2249f044.jpg"
+        },
+        {
+          "name": "Level 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477440/96fc4529d95ed27ed88127ae39f08ab5d9df3d82.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

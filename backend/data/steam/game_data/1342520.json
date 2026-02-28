@@ -1,0 +1,73 @@
+{
+  "1342520": {
+    "name": "Bad Apples",
+    "steam_appid": 1342520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Bad_Apples》是一款多人生存动作游戏，游戏中的水果会随着时间的推移而成熟。 您可以在网上与最多4名玩家对战。<br />\r\n随着果实的成熟和果规的上升，它们的状态（速度、攻击、防御等）也会发生变化。 你可以通过向对方射出你的气体来加快对方的成熟速度。 如果太熟了，虽然会腐烂，但放出的气体强度会增加。<br />\r\n在合适的时间使用物品、攻击和特殊动作，打败其他水果，生存下来! (谁是最强的恶果？)<br />\r\n<br />\r\n・可以2~4人同时在线玩。<br />\r\n・你可以和其他用户对战，也可以在私人环境中和你的朋友在线对战。<br />\r\n<br />\r\n※ 如果依旧无法连接到服务器，可以将steam语言设置为英文，然后下载英文版连接到其他服务器（也可以在英文版的选项中选择中文（简体））。",
+    "supported_languages": "日语, 英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342520/header.jpg?t=1638535922",
+    "developers": [
+      "AZDogCats"
+    ],
+    "publishers": [
+      "AZDogCats"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

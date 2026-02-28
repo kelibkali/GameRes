@@ -1,0 +1,78 @@
+{
+  "1652350": {
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport Istanbul",
+    "steam_appid": 1652350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Istanbul Airport (ICAO: LTFM, IATA: IST) is the new main international airport of the city of Istanbul. It has been in operation since 2018 and ranks 1st among airports in Turkey. Istanbul Airport is located on an area of 76.5 million square meters and is intended to be a global hub between the continents of Asia, Africa and Europe. The airport is located northwest of Istanbul on the Black Sea, approx. 40 km from the city center.               <br>                                                                        <br>Stairport and SceneryTR got everything out of X-Plane for this project, so of course all airport buildings were implemented and textures with PBR were used. Animated jetways, VDGS, own animated airport vehicles and much more were installed on the airport area. Compatibility with other add-ons such as Ortho4XP was also ensured. Since the airport is not available in X-Plane by default, we have also included the appropriate AIRAC data.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652350/extras/5d75590246c1db446e324a2c5681b379.webp?t=1624000982\" width=616 height=61 /></span><br><ul class=\"bb_ul\"><li>Highly detailed virtual replica of the airport buildings and its surroundings<br></li><li>Photorealistic textures on airport buildings and vehicles<br></li><li>Custom high resolution ground textures, detailed markings and full PBR<br></li><li>Custom 3D Taxiway signs<br></li><li>Animated jetways, VDGS and marshaller (SAM Plugin required)<br></li><li>Custom animated vehicles (SAM AirportVehicles required)<br></li><li>HDR night lighting<br></li><li>Custom surroundings with hand placed autogen and water<br></li><li>Realistic static aircrafts included<br></li><li>Custom road layout<br></li><li>Seasonal texture adaptions (SAM Plugin required)<br></li><li>Compatible with Ortho4XP<br></li><li>Navdata AIRAC 2104 included</li></ul><br><strong>Note Nav data:</strong><br>In order for the newer nav data to be recognized by X-Plane, the “Custom Data” folder in the “Custom Scenery / SceneryTR - LTFM Istanbul - 01 - Airport / NAVDATA_AIRAC_2104” folder must be copied into the X-Plane main directory. If newer Nav data are already installed, this step is not necessary.",
+    "supported_languages": "英语<strong>*</strong>, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652350/header.jpg?t=1624000982",
+    "developers": [
+      "Stairport Sceneries",
+      "SceneryTR"
+    ],
+    "publishers": [
+      "Aerosoft GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

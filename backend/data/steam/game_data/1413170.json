@@ -1,0 +1,53 @@
+{
+  "1413170": {
+    "name": "DroneGlitch",
+    "steam_appid": 1413170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Drone Glitch is a fast paced FPS set in a Low-Poly futuristic environment. Avoid killer drones while trying to find better weapons to get to your ship! Each time you play Drone Glitch the world is randomly generated, different every time but always exciting to run through! Collect a number of new weapons to help you take down those pesky drones trying to kill you. All weapons and keys are randomly generated as well, keeping the excitement fresh each time you hit the Play button!<br />\r\n<br />\r\nLevels:<br />\r\nEach time a level is loaded, whether by death or starting the game, a brand new level layout is generated. Branching paths and locked doors are generated as well as the new weapon pickup locations. Enemy types are also randomly inserted when the game begins, watch out for those larger drones! The level generator is a robust system that ensures every level is unique and presents a new layer of challenge to the player.<br />\r\n<br />\r\nFirst Person Shooter:<br />\r\nDrone Glitch is based off the Unity FPS Microgame framework, built to be fun, efficient, and robust. This framework allows for future additions to be added quickly and easily to the game, new rooms, weapons, enemies, and more!<br />\r\n<br />\r\nEnvironment:<br />\r\nDrone Glitch uses low poly environments to keep the focus on the action, a &quot;Less is More&quot; design approach! This also makes terrain easier to understand and use as cover. Not to mention future maps can be quickly iterated upon!<br />\r\n<br />\r\n<br />\r\n<br />\r\nUpdates:<br />\r\nBug Fixes:<br />\r\n- Fixed a respawn bug where players fell through the ground on respawn",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/header.jpg?t=1601955592",
+    "developers": [
+      "Corva Nocta"
+    ],
+    "publishers": [
+      "Corva Nocta"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

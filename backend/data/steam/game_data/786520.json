@@ -1,0 +1,77 @@
+{
+  "786520": {
+    "name": "SAO Utils: Beta",
+    "steam_appid": 786520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SAO Utils 是一款专注于 ACG 主题化的<strong>完全潜行</strong> 3D 应用启动器，除此之外更为玩家提供各种各样主题、桌面挂件及强大的实用工具。<br><br>内建的立体支持甚至允许您通过立体显示设备在身临的启动器虚拟空间中同时浏览多个网页。<br><br>它所设计的插件模式，可以让任何的开发者为其设计插件并让其自动加载。<h2 class=\"bb_tag\" >功能介绍</h2><ul class=\"bb_ul\"><li>滑动启动<br>时随地、在屏幕任何地方，按住鼠标 左键 和 右键 并向下拖动，即可呼出应用启动菜单。触控设备直接支持双指下滑手势。<br></li><li>编辑菜单<br>鼠标 右键 任何菜单项目，即可进入编辑模式。拖拽钮改变项目位置，还可以从文件管理器直接拖放文件。<br></li><li>桌面挂件<br>把喜欢的图片、网页、动画、笔记…或是各种系统状态数据，装饰到您的桌面上。<br></li><li>立体模式<br>您可以通过启动器内建的立体模式显示支持，观看网页或视频：<br><ul class=\"bb_ul\"><li>左右立体（压缩）<br></li><li>左右立体（裁剪）<br></li><li>左右立体（缩放）<br></li><li>分色立体</li></ul>开启立体模式：<br><ul class=\"bb_ul\"><li>在 “首选项” - “图形” - “立体眼镜” 设置页，勾选任意一个立体模式并 保存。</li></ul>立体模式操作：<br><ul class=\"bb_ul\"><li>在启动器背景上，按住鼠标 右键 并上下拖动，可以调整可视范围。<br></li><li>在网页浏览器上，按住鼠标 右键 并上下拖动，可以调整网页距离。</li></ul></li></ul><h2 class=\"bb_tag\" >配置迁移</h2><ul class=\"bb_ul\"><li>如果想从其他版本迁移应用配置，可在 Steam 启动选项中运行 “<strong>启动配置工具</strong>”。<br></li><li>支持 <strong>Steam 云配置</strong>，随时随地同步你的应用配置及启动器菜单。</li></ul><h2 class=\"bb_tag\" >创意工坊</h2><ul class=\"bb_ul\"><li>寻找更多图标、ACG 音效、主题或插件： SAO Utils 创意工坊。</li></ul>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/786520/header_schinese.jpg?t=1667681548",
+    "developers": [
+      "Joshua Chen"
+    ],
+    "publishers": [
+      "Studio GPBeta"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1900,
+      "final": 1710,
+      "discount_percent": 10,
+      "initial_formatted": "¥ 19.00",
+      "final_formatted": "¥ 17.10"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "封测者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786520/a73d9ce526cea5dd7ec31840c6114ad04608304f.jpg"
+        },
+        {
+          "name": "SAO 归还者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786520/abe866268d4331fd1068fc554902c9ba227ff0cf.jpg"
+        },
+        {
+          "name": "封弊者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786520/b756545edcbac7dddc64e882376fb3c6f7315803.jpg"
+        },
+        {
+          "name": "创意工坊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786520/996a7d275cfd4b219a3386024691d6daffcae78c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 1946,
+      "total_negative": 264,
+      "total_reviews": 2210
+    }
+  }
+}

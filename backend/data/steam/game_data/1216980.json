@@ -1,0 +1,109 @@
+{
+  "1216980": {
+    "name": "Vaster Claws 3: Dragon slayer of the God world",
+    "steam_appid": 1216980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "*The game text has been fully translated into English.<br><br>The gameplay focuses on raising your soldiers' levels, strengthening their weapons, and balancing their unique traits and skills to create the strongest squad possible. <br>Lead your ultimate squad deeper into the realm of evil, or try it skills online against other players' squads and move your way up the online ranks.<br><br>[Story]<br>Two beings of the 《human world》 hold holy power:<br>《Shrine Maiden》holds “The Holy Power of Transition,<br>《Dragon Slayer》 holds “The Holy Power of Dragonslaying”.<br>These two souls resonate, and the soldiers of the 《human world》 assemble to<br>face the 《evil dragons of the God World》.<br><br><br>You must become the 《dragon slayer》 or 《shrine maiden》to defeat 《Lord Vaster Dragon》 and his monsters to free the 《God World》 from his terrible power.<br>Enter the belly of 《the dragon》 and release the 《spirit hoard》 of Gods and men that are trapped within.<br><br><br>[Focus on the Engine]<br><br>&quot;Lixel 2,&quot; our in-house developed engine, uses CPU commands rather than GPU or hardware implementation to render each pixel individually.<br><br>These efforts have resulted in low-power, low-temperature graphics rendering.<br><br>Lixel 2 excels at control at the pixel-level, and at this level, rendering is much faster than in engines that rely on GPU or hardware.<br><br>*This game uses a legendary skill known as &quot;vram[n]=color,&quot; handed down for generations, for all graphic rendering!<br><br><br>[Artistic Game With Handcrafted Details]<br><br>In addition to wonderful graphics, every facet of this game was designed and constructed with care to create gameplay with a feeling of &quot;zero seconds loading time&quot;. <br>Players will enjoy a stress-free, immersive experience.<br><br><br>[Quest for Timeless Entertainment]<br><br>We believe that truly interesting games will be just as fun to play again 10 or 20 years later. <br>Our small team’s dream is to create an awesome game that will be loved forever.<br><br>Of course, gamers have personal preferences, but we hope that this game will become one of your all-time favorites.<br><br><br>[Q&amp;A]<br>Q) What's the different between the Standard version and Special Pack?<br> The Standard version lets you play through the initial game to the end.<br> The Special Pack(DLC) opens up the post-clear Backside and Claws world.<br><br>Q) How do I change my soldier portraits to rare soldiers like the Sword Master?<br> When Force has risen to a certain level, you can change soldiers' names from the Details screen.<br> For Warriors, enter &quot;Kensei&quot;, &quot;Master&quot;, &quot;Kenshin&quot;, or &quot;God&quot;.<br> For Valkyries, enter &quot;Konken&quot;, or &quot;Spirial&quot;.<br> For Shooters, enter &quot;Izanagi&quot;, or &quot;God&quot;.<br> Their appearance will change! (This will not impact strength.)",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1216980/header.jpg?t=1586591714",
+    "developers": [
+      "StudioGIW"
+    ],
+    "publishers": [
+      "Mediascape Co.,Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9000,
+      "final": 6300,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 90.00",
+      "final_formatted": "¥ 63.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Clear the first Hazama world.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/3ab8fc3b3d8d1cfb2ba0c4e2366c4f37c66d5354.jpg"
+        },
+        {
+          "name": "Clear the first Yomi world.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/8aa31dce74d1c1ddc515617a7fe1b5c4f9e7f35f.jpg"
+        },
+        {
+          "name": "Equip a weapon.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/1f90c77e30abe5ece93d5f6cbebe154ac9c5f310.jpg"
+        },
+        {
+          "name": "Read the Menu World help.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/3a26bb0a7fc476e5b6fef600d8e00fbb97bd8c39.jpg"
+        },
+        {
+          "name": "Have more than 20 soldiers.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/859954af413926ef8c9c4c0e34a11570df42faff.jpg"
+        },
+        {
+          "name": "Win a Ranked Battle.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/c769e6c8c48a26d79443a620fa773b2bb719adc6.jpg"
+        },
+        {
+          "name": "Destroy a white orb.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/043464fc42517e9a45d4094ac778676aff938426.jpg"
+        },
+        {
+          "name": "Increase the level of Magic item.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/72d271033460d7241fe4e1f3bf65a9c822ffbe7f.jpg"
+        },
+        {
+          "name": "Exceed 10000 Total Force.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/b59fd7668069f4fb7f992d34e66ecacb993f7b49.jpg"
+        },
+        {
+          "name": "Clear the first Sanzu world.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1216980/c0098eb65c7c78af387cefa1c8d6b5054c517542.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1454060": {
+    "name": "Shooty",
+    "steam_appid": 1454060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Shooty 2D is a gun battle game. You can set up a room and fight with your friends. Don't be sad if you don't have friends! You can play with artificial intelligence. Gather your weapons and show your strength. Collect life packs on the maps! you'll need a lot.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454060/header.jpg?t=1625646664",
+    "developers": [
+      "Shooty"
+    ],
+    "publishers": [
+      "Shooty"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "50",
+        "description": "财务管理"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Welcome Game!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1454060/7b7ffbd0ff6316a34b813b8749b424c9adbac3e5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

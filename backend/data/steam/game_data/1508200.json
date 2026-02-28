@@ -1,0 +1,121 @@
+{
+  "1508200": {
+    "name": "赛博骑手",
+    "steam_appid": 1508200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "您好，当我看到有很多人喜欢我开发的《赛博司机》后，我想为什么不让速度来的更猛烈些？让速度变成暴风雨？于是这款超高速的飙车游戏就诞生了，我希望这款游戏只有速度与激情，没有其他任何要素需要考虑，让人又放松又紧张又爽快。<h2 class=\"bb_tag\" >游戏特色</h2><br><ul class=\"bb_ul\"><li>超高速的游戏体验。<br></li><li>操作简单易上手，可单手游玩。<br></li><li>可收集多种衣服颜色和摩托车喷漆。<br></li><li>支持3种自定义难度。<br></li><li>支持Steam成就。<br></li><li>支持Steam排行榜。</li></ul><h2 class=\"bb_tag\" >游戏玩法</h2><br><ul class=\"bb_ul\"><li>一路向前，躲避路上的汽车，积累分数。<br></li><li>积累分数，解锁更多衣服颜色和摩托车喷漆。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 简体中文, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508200/header_schinese.jpg?t=1628590472",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 550,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "10K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/e27c5aefc4f45b2fe301762580f3cafce9e178ea.jpg"
+        },
+        {
+          "name": "15K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/3471542b8f1ccf18d4c8803b4e48f3bbfa80f4c6.jpg"
+        },
+        {
+          "name": "20K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/19c9cfa37b780ef94cf87206ba2807bac70db014.jpg"
+        },
+        {
+          "name": "25K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/5c6f5b6465ed075345058a43e83274d26f26b702.jpg"
+        },
+        {
+          "name": "50K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/81c4a674458d533a2c745ad34131a5b0679bd73c.jpg"
+        },
+        {
+          "name": "5 deaths.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/09515493d048cda268d0b4b8816582028c6e12fd.jpg"
+        },
+        {
+          "name": "10 deaths.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508200/799d10da339e03137b9e7cad7705ff3108150a72.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 11,
+      "total_negative": 6,
+      "total_reviews": 17
+    }
+  }
+}

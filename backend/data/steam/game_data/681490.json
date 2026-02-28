@@ -1,0 +1,113 @@
+{
+  "681490": {
+    "name": "dontbegrey",
+    "steam_appid": 681490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "dontbegrey is a minimalistic hardcore platformer with experimental color-themed mechanics.<br>The main feature is the ability to change what is an obstacle and what is the background.<br><br>What's inside:<br><ul class=\"bb_ul\">&gt; 8 colors</ul><ul class=\"bb_ul\">&gt; more than 35 levels</ul><ul class=\"bb_ul\">&gt; computer-composed music</ul><ul class=\"bb_ul\">&gt; about 3 hours of gameplay (about 30 minutes for ultra-pro speedrunners)</ul><ul class=\"bb_ul\">&gt; linux and windows support</ul><ul class=\"bb_ul\">&gt; external level editor (python3 script)</ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/header.jpg?t=1572328700",
+    "developers": [
+      "Evgeny Petrov"
+    ],
+    "publishers": [
+      "Not a Prototype games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "good start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/872e870c0920625425bde262c44f0bdd4830c992.jpg"
+        },
+        {
+          "name": "one-try beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/39463a6b9dfd42284f057c452a4bf6562610f9d2.jpg"
+        },
+        {
+          "name": "one-try pro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/2d3e60c2ec6592314ee7db82695fe6a75e13d14b.jpg"
+        },
+        {
+          "name": "tutorialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/6b01b9feb63c6cdbe5dac1d6eec832bfa11cc0d4.jpg"
+        },
+        {
+          "name": "easy-goer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/2fabf2012c0c9f5daae69c0fc09b67fe45ce4e70.jpg"
+        },
+        {
+          "name": "that's ok",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/1f5a95bf2ac56894ccbd113d47026e3098a386c0.jpg"
+        },
+        {
+          "name": "thank you",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/983cfc12d2822e904f2256fc3d7e89b0c12c80d9.jpg"
+        },
+        {
+          "name": "dontbegreyed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/09eabd41171545cfa1f6983885545133ec7ba417.jpg"
+        },
+        {
+          "name": "try hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/c267de9b5bf277bdbec820dc437893c979d0879b.jpg"
+        },
+        {
+          "name": "dont",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681490/8bd01b855d287b68c915f5eb67bde88a2ddb0832.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

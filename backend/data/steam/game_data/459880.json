@@ -1,0 +1,65 @@
+{
+  "459880": {
+    "name": "PlayFortress",
+    "steam_appid": 459880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PlayFortress is a castle building game where the player controls characters such as the Lord, Master Mason and Engineer using them to construct elaborate castle fortifications and settlements whilst managing their economy.<br><br>The inspiration for the game was to attempt something new with the castle building genre, to create a game focuses upon how castles were constructed during the medieval era.<h2 class=\"bb_tag\" >Early Access</h2><br>The following features are currently implemented in the Early Access version:<br><br><strong>Castle Editing (Master Mason Mode)</strong><br><ul class=\"bb_ul\"><li>Place down castle pieces such as keeps, free-standing towers, drum towers and gatehouses<br><ul class=\"bb_ul\"><li>Connect towers to castle pieces<br></li><li>Connect forebuildings to castle pieces<br>\t</li><li>Add/remove floors<br></li><li>Manipulate castle pieces (change size, rotate, scale edges).</li></ul></li><li>Walls<br>\t<ul class=\"bb_ul\">\t<li>Connect walls to castle pieces<br>\t</li><li>Connect ends of walls together<br>\t</li><li>Bend walls to create curved sections\t</li></ul></li><li>Customise castle pieces<br>\t<ul class=\"bb_ul\">\t<li>Change crenelllation styles<br></li><li>Change roof types<br>\t</li><li>Change gatehouse entrance types\t</li></ul></li><li>Paint mode for changing castle styles (type of stone)<br></li><li>Attachments for adding windows, doors, arrow loops, shields and banners<br></li><li>Buildings<br><ul class=\"bb_ul\">\t<li>Various buildings are available such as the Master Mason Lodge, carpenter hut, blacksmith, market houses and scenery objects such as statues and market stalls.</li></ul></li></ul><br>All castle geometry pieces, walls and buildings can be placed on uneven ground ensuring castles can be built upon slopes and mounds (castle mottes).<h2 class=\"bb_tag\" >Work In Progress</h2><br>More features will be added later, some of these features are currently work in progress and can be seen at the end of the PlayFortress trailer video including:<br><ul class=\"bb_ul\"><li>Building Systems mode for customising (town/settlement) buildings<br></li><li>Engineer mode for terraforming landscape<br></li><li>Lord mode where the castle can be viewed as it is constructed. </li></ul><br>More information will be posted on our Steam store page forums and website.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459880/header.jpg?t=1481134624",
+    "developers": [
+      "PlayFortress"
+    ],
+    "publishers": [
+      "PlayFortress"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 6800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 68.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

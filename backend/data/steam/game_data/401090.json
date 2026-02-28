@@ -1,0 +1,54 @@
+{
+  "401090": {
+    "name": "MODO indie",
+    "steam_appid": 401090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Creative 3D modeling, texturing, animation and rendering tools.</strong></h2><br>Modo’s powerful and flexible 3D modeling, texturing, animation and rendering toolset empowers artists to explore and develop ideas without jumping through technical hoops. Whether you’re creating real-time content for immersive experiences like games or virtual reality; iterating on concepts; using 3D to communicate, visualize or sell an idea, Modo® is your starting point for creative exploration.<h2 class=\"bb_tag\" ><strong>Introducing Modo Indie 14</strong></h2><br>With meaningful features and enhancements across the application, Modo Indie 14 has been engineered to accelerate your everyday creativity. The addition of USD, Cryptomatte, Rig Clay and over sixty more unique features and workflow enhancements marks this release as an essential part of any 3D artist’s toolbox.<h2 class=\"bb_tag\" ><strong>Modo Indie 14 highlights include:</strong></h2><br><ul class=\"bb_ul\"><li> Direct Modeling  -  Modo’s direct modeling toolset has long been renowned for its shared focus on workflow and technical innovation. The new Edge Chamfer tool has now reached feature parity with bevel. Add point and Unbevel offer improved revision capabilities. Polygon Bevel Autoweld provides the automated decision-making that artists expect from modern modeling tools. With over 17 total features and enhancements in this area, direct modeling has never been easier, faster or more flexible.<br></li><li> Procedural Modeling  -  Introduced in Modo 10, the procedural modeling tool sets have provided modo with a system built for the future of modeling. The vast majority of direct modeling features that have been added in this release have also been added to the procedural system. With meaningful additions to MeshFusion via embossing and sharp corners, Procedural Vmaps and Keep Vertices for Deleted Geometry, procedural modeling continues to grow more powerful.<br></li><li> Rendering &amp; Shading  -  A painter is never actually done with a painting. The same is true with a renderer, there’s always room for new capabilities and enhancements. With GPU acceleration via Optix 7, the addition of intel embree support, cryptomatte for intelligent and lightweight automated masking, and shading workflow enhancements from the PBR Loader, mPath has rapidly grown into a powerful renderer that artists can rely on.<br></li><li> UV Enhancements  -  Modos UV tool set has long enabled mapping wizardry. With each release, this set of tools both grows and refines. UV Relax has been added to the procedural system. Unwrap and Relax combines two tools that are commonly used in sequence to improve workflow and the addition of Real World Size makes Modos UV tools an indispensable part of any 3D design arsenal. <br></li><li> Animation &amp; Rigging  -  Modo has one of the most novel Rigging and Animation systems on the market today. By adding streamlined IK/FK switching for planar IK, Rig Clay for animators to more interactively manipulate shapes or set keys, and USD import/Export for industry-standard exchange, Modo is poised to redefine rigging and animation workflows across design and entertainment industries.<br></li><li> Performance  -  There’s always room for more performance and Modo 14 delivers on this notion. The advanced viewport has been optimized for faster shader tree processing. Booleans have been accelerated by as much as 380x in complex examples. Component selection is twice as fast and edge removal operations have shown improvements as high as 100x. <br></li><li> Viewport  -  The 3D viewport is an essential part of any 3D application. It’s where artists spend most of their day. Upgraded Transparency rendering accelerates and improves the quality of these complex effects.Ghost and Xray offer practical visualization options to improve every day tasks like modeling, layout and rigging. The new Topology presets leverage Ghost and Xray to provide a dramatically superior retopo experience.<br></li><li> Workflow and User Experience  -  Without proper attention to workflow, a powerful tool is little more than a digital paper weight. Modo 14 continues to expand on artist focused workflows with many relevant enhancements. Select partial expands on Modos extraordinary selection tools. Form Presets enables anything in a form to be saved to a preset. Alt-Click for Inactive Mesh settings further streamlines interaction</li></ul><br>For the full list of Modo 14 features and enhancements, please see the application documentation.<h2 class=\"bb_tag\" ><strong>Differences between MODO indie and full Modo</strong></h2><br><ul class=\"bb_ul\"><li>OBJ, FBX, glTF 2.0 export limited to 100k polys<br></li><li>Bake and render resolution limited to 4k<br></li><li>Command eval options unavailable<br></li><li>Command, scripts, and command history panel results unavailable except “undo” and “history”<br></li><li>Python editor, third-party scripts, and third-party plugins unavailable<br></li><li>Can import all formats, but can only save in .lxf format<br></li><li>Export formats limited to OBJ, FBX, USD, and glTF 2.0<br></li><li>Image save formats limited to .png, .jpg, .tiff, .tga and .exr<br></li><li>Network Rendering is disabled<br></li><li>Limited to individual use</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401090/header.jpg?t=1730200990",
+    "developers": [
+      "Foundry"
+    ],
+    "publishers": [
+      "Foundry"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "1165560": {
+    "name": "ONAR - Off World Fighter",
+    "steam_appid": 1165560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >ONAR  </p><p class=\"bb_paragraph\" >A 3D fighting game set in deep space, where contestants from 13 countries are forced to compete in a deadly tournament known as 'Onar. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>ONAR – Gameplay</strong></h2><p class=\"bb_paragraph\" ><strong>Onar</strong> offers multiple gameplay modes, including local player-versus-player (PvP), practice mode, and a single-player tournament mode. It’s designed to be a fast-paced fighting game that’s easy to pick up yet deeply challenging to master.</p><p class=\"bb_paragraph\" >The rules are simple: the winner is the fighter with the most remaining health. Attacks are categorized as either <strong>left</strong> or <strong>right</strong>, and stepping outside the ring triggers a reset and a health penalty. Skilled fighters can chain attack sequences and execute command moves to deal greater damage and gain the upper hand.</p><h2 class=\"bb_tag\" ><strong>Regular Blocking</strong></h2><p class=\"bb_paragraph\" >Most attacks can be defended against with a <strong>regular block</strong>, performed by retreating away from your opponent. However, regular blocks <strong>inflict chip damage</strong>, meaning they don’t fully protect the fighter.</p><h2 class=\"bb_tag\" ><strong>Depth Blocking</strong></h2><p class=\"bb_paragraph\" >Depth Blocking is a more advanced defensive technique. A fighter can commit to a <strong>left</strong> or <strong>right</strong> depth block using the corresponding trigger buttons. Depth blocks:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Take <strong>no chip damage</strong></p></li><li><p class=\"bb_paragraph\" >Can block <strong>any attack</strong></p></li><li><p class=\"bb_paragraph\" >Provide a <strong>damage boost</strong> to the fighter’s next attack if successfully executed</p></li></ul><p class=\"bb_paragraph\" >However, depth blocking is a gamble. The fighter must correctly predict whether the opponent’s attack is coming from the left or right. A failed guess leaves them completely exposed to the full attack damage.</p><p class=\"bb_paragraph\" >Depth blocking is the <strong>most powerful defensive tool</strong> in the fighter’s arsenal, but it demands either sharp prediction skills or lightning-fast reflexes.</p><h2 class=\"bb_tag\" ><strong>Movement</strong></h2><p class=\"bb_paragraph\" >Movement within the arena is controlled using the <strong>Left Stick</strong>:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Double-tap</strong> away or toward the screen to dodge in that direction</p></li><li><p class=\"bb_paragraph\" ><strong>Press up</strong> to jump</p></li></ul><h2 class=\"bb_tag\" ><strong>Combos</strong></h2><p class=\"bb_paragraph\" >In addition to basic attacks, fighters can chain together <strong>combo moves</strong> for greater rewards. A combo becomes available after successfully landing a basic attack, provided the fighter inputs the combo command <strong>before the attack window closes</strong>.</p><h2 class=\"bb_tag\" ><strong>Ring Out</strong></h2><p class=\"bb_paragraph\" >If a fighter steps out of the ring, they have <strong>3 seconds to return</strong>. If they fail, both fighters are teleported back to their starting positions, and the one who stepped out loses health points. This mechanic keeps matches flowing smoothly and avoids repetitive wall standoffs while ensuring the fight stays within the arena.</p><h2 class=\"bb_tag\" ><strong>Time</strong></h2><p class=\"bb_paragraph\" >Each fight lasts <strong>90 seconds</strong> and consists of a <strong>single round</strong>, keeping matches intense and fast-paced.</p><h2 class=\"bb_tag\" ><strong>Win or Lose</strong></h2><p class=\"bb_paragraph\" >The fighter with the highest remaining health wins the match.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A tie occurs if both fighters have equal health.</p></li><li><p class=\"bb_paragraph\" >In <strong>story</strong> and <strong>tournament</strong> modes, only a decisive victory allows fighters to progress.</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165560/115e20caef94afa96eab267de46b7924c8f257c1/header.jpg?t=1770883514",
+    "developers": [
+      "Enter Yes Interactive"
+    ],
+    "publishers": [
+      "Enter Yes Studio Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

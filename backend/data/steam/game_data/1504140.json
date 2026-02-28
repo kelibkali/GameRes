@@ -1,0 +1,108 @@
+{
+  "1504140": {
+    "name": "忍者明：新手村",
+    "steam_appid": 1504140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >【简介】</h2>    ——玩法介绍<br>    这是一款平台跳跃闯关游戏，以“飞雷神之术”（名字来源于《火影忍者》）——传送术为主要机制的游戏。<br><br>    ——游戏主要缺点<br>    ①世界观、美术、音效整体性比较差<br>    ②关卡难度梯度波动大，对“手残党”不友好<br>    ③剧情俗套<h2 class=\"bb_tag\" >【玩法演示】</h2>    ——传送（飞雷神之术）<br>    <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/c2230154caef5291f46bb4f01ee28e20.poster.avif?t=1731248304\" width=774 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/c2230154caef5291f46bb4f01ee28e20.webm?t=1731248304\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/c2230154caef5291f46bb4f01ee28e20.mp4?t=1731248304\" type=\"video/mp4\"></video></span><br><br>    ——忍术：火球术<br>    <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/184f71f5ac80e5e7391b8ebf12dfd69c.poster.avif?t=1731248304\" width=316 height=294 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/184f71f5ac80e5e7391b8ebf12dfd69c.webm?t=1731248304\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/extras/184f71f5ac80e5e7391b8ebf12dfd69c.mp4?t=1731248304\" type=\"video/mp4\"></video></span><br><br>    ——其余玩法到游戏里去体验吧~<h2 class=\"bb_tag\" >【幕后】</h2>    ——制作初衷  <br>    我（下文的“我”指作者本人）是独立开发者，这款游戏是我第一款正式发行的游戏。我非常喜欢《蔚蓝》、《超级肉食男孩》，同时热衷于平台跳跃类游戏，因此也想制作一款平台跳跃类游戏。<br>    曾经我希望与妻子一起玩《传送门》，但是由于她晕3D，所以我想做一款2D的类似传送门玩法的平台跳跃游戏。<br>    当我把早期的游戏原型给朋友玩了之后，朋友说：“这不就是《火影忍者》里的‘飞雷神’吗？”于是我便改变玩法，把飞雷神之术作为游戏的核心机制，也就做出了现在的这款游戏。<br><br>    ——制作过程<br>    在操作感上，看了《蔚蓝》作者的演讲以及采访，他们对“土狼跳”、落地前按键记录、人物加速度/减速度/跳/下落算法、刺的体积都有研究；同样的在关卡设计方面《蔚蓝》做的非常出色：单屏关卡易于观察全局；关卡四面设置隐藏关卡增加了游戏趣味；每一关都与剧情背景有关联。因此我把他们优秀的理念引入这款到游戏。<br>    美术、音乐、SFX则是直接购买创作者的素材。",
+    "supported_languages": "简体中文, 英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504140/header_schinese.jpg?t=1731248304",
+    "developers": [
+      "1 Poss Studio",
+      "Jackutea"
+    ],
+    "publishers": [
+      "1 Poss Studio",
+      "Jackutea"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "通过最终试练",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/72916c4acb1375a8f3f2d854052d2e88ae00727b.jpg"
+        },
+        {
+          "name": "初试",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/5a4859e643c8027e55ff05cab07b8506e4d09f01.jpg"
+        },
+        {
+          "name": "逆行者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/557678b67aa762628a3f1168c7c60497941bc648.jpg"
+        },
+        {
+          "name": "又来一位",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/bcfb09f5feb19902e02a54222d4a973ba17f2648.jpg"
+        },
+        {
+          "name": "金色闪光",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/1533e6bfa80b3d901c951ce5c61b7957052578fc.jpg"
+        },
+        {
+          "name": "中忍",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/776480fb3166575c9741d7d7d69f7cebf4b90c87.jpg"
+        },
+        {
+          "name": "上忍",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1504140/4f2c19b5270c01266f04cbe6a7afc692546965f3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 1,
+      "total_reviews": 12
+    }
+  }
+}

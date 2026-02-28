@@ -1,0 +1,85 @@
+{
+  "628570": {
+    "name": "Trivia Night",
+    "steam_appid": 628570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Trivia Night is a fun 80s themed quiz game. It has different game modes. You can play with your friend or on your own!</strong><br><br><ul class=\"bb_ul\">   <li>Different game modes: Normal Trivia, True or False, Fun with Flags, Math, Words.<br><br>   </li><li>Gamepad Support<br><br>   </li><li>Local Multiplayer</li></ul><br>You have two options, true or false. 50% chance. Focus because you have to decide whether the statements are true or false. Time is running out!<br><br>&quot;Was this the color of this country? Was it blue? No, no. It was purple! To which country does this flag belong?&quot; Hope you remember correctly.<br><br>How good are your maths skills? Can you find all numbers in the screen on a limited time? Test yourself and find out.<br><br>How creative are you? Can you make a word by putting one letter to another word? You can play with your friends, with a bot or online.",
+    "supported_languages": "英语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628570/header.jpg?t=1652470286",
+    "developers": [
+      "Timberwolf Studios"
+    ],
+    "publishers": [
+      "My Way Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    }
+  }
+}

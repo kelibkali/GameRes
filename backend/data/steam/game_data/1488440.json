@@ -1,0 +1,113 @@
+{
+  "1488440": {
+    "name": "Bullet Shot",
+    "steam_appid": 1488440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488440/extras/6dcc29702e0ada9a423999e963f91e98.poster.avif?t=1628539074\" width=800 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488440/extras/6dcc29702e0ada9a423999e963f91e98.webm?t=1628539074\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488440/extras/6dcc29702e0ada9a423999e963f91e98.mp4?t=1628539074\" type=\"video/mp4\"></video></span><br><br>Bullet Shot is a game where you control bullets. When the enemy shoots, you can take control over the bullet, and rotate it to target your enemies. The goal is to strategically control the number of available pauses and degrees needed to control the bullets and kill your enemies as fast as possible.<h2 class=\"bb_tag\" >Game mechanics</h2>The ability to control bullets and time gives unprecedented gameplay. You don't walk around the map or shoot enemies. The limited number of pauses and degrees gives quite a challenge.<h2 class=\"bb_tag\" >Maps</h2>The various maps offer interesting places where the player will be. From enclosed rooms to open enviroment. Varied lighting and times of day. Weather effects such as rain make the entertainment even more interesting.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Bullet control with 360 degree rotation<br></li><li>Time control<br></li><li>As many as 3 possibilities to pass each map<br></li><li>As many as 3 maps with over 90 levels<br></li><li>Physics of objects <br></li><li>Ragdoll physics</li></ul><h2 class=\"bb_tag\" >Roadmap(this year):</h2><ul class=\"bb_ul\"><li>Gathering user feedback and incorporating it into game<br></li><li>Increasing content (maps)<br></li><li>Gameplay improvement<br></li><li>UI improvement<br></li><li>Steam Workshop<br></li><li>Localization</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 波兰语<strong>*</strong>, 德语<strong>*</strong>, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488440/header.jpg?t=1628539074",
+    "developers": [
+      "Gamequad"
+    ],
+    "publishers": [
+      "Gamequad"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4300,
+      "final": 4300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 43.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Path A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/d8269e87fa98107d07377e9062f8e95da1a43939.jpg"
+        },
+        {
+          "name": "Path B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/05e55594744d8e37cce3daaca16ae6bf6d899463.jpg"
+        },
+        {
+          "name": " Path C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/3604a29e0732c594fdd0d1bb6064fb505a9287b8.jpg"
+        },
+        {
+          "name": "All Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/ea81d4782a5886a1ac22138eb072c33a15944ed3.jpg"
+        },
+        {
+          "name": "Path A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/ac1b38fc37dd3462df914d1e389d179e8ebef015.jpg"
+        },
+        {
+          "name": "Path B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/a7bcccbe023fd44be8926dc5475b0d99e6d7bdc4.jpg"
+        },
+        {
+          "name": "Path C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/af5b8f4b1ec42e358259571572f0bd8074d4a2bc.jpg"
+        },
+        {
+          "name": "Path A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/b684094162a5225c2570a96031de074a9444324b.jpg"
+        },
+        {
+          "name": "Path B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/a78ae7e17c2f2e5b599fa2313aa26879b6bda2ae.jpg"
+        },
+        {
+          "name": "Path C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488440/07eaeca9347c87b23138c84de57a14de9ea077db.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

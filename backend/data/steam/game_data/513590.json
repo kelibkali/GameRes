@@ -1,0 +1,117 @@
+{
+  "513590": {
+    "name": "So Many Cubes",
+    "steam_appid": 513590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A chaotic strategy game with cubes!<br><br>You have to choose and build deployments to destroy the Mothercube with So Many Cubes<br><br>Features<br><br>Players<br><ul class=\"bb_ul\"><li> Single player vs Bot (game mode 1)<br></li><li> Player vs Player (game mode 2)<br></li><li> Survival single player (game mode 3)<br></li><li> 10+ Cubes: continuous deployment of cubes<br></li><li> 10+ Cubes: op turret to use for a limited time<br></li><li> 20+ Unique cubes</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/513590/header.jpg?t=1511299251",
+    "developers": [
+      "exagongames"
+    ],
+    "publishers": [
+      "NewRealityGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/c040cee23d2a6a24c6e2376c10611afa8e1e2aba.jpg"
+        },
+        {
+          "name": "Normal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/15c7cb8d9c9527bfa826d8842d7d19dd2a4b3f13.jpg"
+        },
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/1e540b75bd0f8194f4ca5bf4e9a9626727714372.jpg"
+        },
+        {
+          "name": "Cubic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/1c2155f2a3ac0671b7d60383bbcb69c90c62ea4f.jpg"
+        },
+        {
+          "name": "Singleplayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/f9202ee3efbb26a408dbaae0b12c371ae19177de.jpg"
+        },
+        {
+          "name": "Player VS Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/d0cfb3cb4e2b40c6c2882698773ad55a569e06d7.jpg"
+        },
+        {
+          "name": "Survival",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/912f279160b7371e4dc1f6ca30139868763c751c.jpg"
+        },
+        {
+          "name": "Image Effects",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/513590/8e5fdcec9b292e343c2fa688933b83dd30030ecd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 0,
+      "total_negative": 5,
+      "total_reviews": 5
+    }
+  }
+}

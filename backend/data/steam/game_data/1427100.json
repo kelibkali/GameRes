@@ -1,0 +1,65 @@
+{
+  "1427100": {
+    "name": "吃鱼3D",
+    "steam_appid": 1427100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏的规则非常简单，通过吃掉比你小的鱼来成长。<br />\r\n同时需要躲避某些大型鱼类，以防被追击。<br />\r\n必要时，还可以使用特殊技能来逃生，当然，只有部分特殊鱼类拥有技能。<br />\r\n<br />\r\n控制：<br />\r\n键盘w, s, a, d - 移动<br />\r\n鼠标移动 - 控制视图<br />\r\n鼠标右键 - 扫描<br />\r\n鼠标左键 - 技能（部分）<br />\r\nShift键 - 冲刺",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1427100/header.jpg?t=1604967660",
+    "developers": [
+      "续梦科技工作室"
+    ],
+    "publishers": [
+      "续梦科技工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

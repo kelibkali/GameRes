@@ -1,0 +1,117 @@
+{
+  "744240": {
+    "name": "FISK",
+    "steam_appid": 744240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《FISK》是一款由我一个人制作的简单的2D平台游戏，基于经典的2D平台跳跃元素，使用简单的按键与怪物互动来增强平台动作能力以通过关卡。游戏目前包含四个世界及两个难度，普通难度在关卡内有多个存档点，除全收集外，通关难度一般。<br>感谢juhani.junkala在opengameart上提供的免费音乐，五首SFC风格的背景音乐和游戏的整体风格及游玩节奏完美匹配。<h2 class=\"bb_tag\" >游戏特色</h2>*简单的按键输入（左右方向+两个按键）通过捕捉不同的怪物带来丰富的平台动作操作<br><br>*完全支持手柄：支持所有x-input模式的手柄，支持steam手柄<br>*四个世界<br>*两种游玩难度（普通难度多个存档点）<h2 class=\"bb_tag\" >未来更新计划</h2>*steam集换卡牌、徽章、表情及背景<br><br>*新关卡：基于与新的怪物互动设计的新关卡将持续更新",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744240/header.jpg?t=1513913945",
+    "developers": [
+      "fjy741"
+    ],
+    "publishers": [
+      "fjy741"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "感谢游玩",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/a0e7c4f138e8996946cb5e2b22d9ec3132a4b364.jpg"
+        },
+        {
+          "name": "第一次冲刺",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/0022633479aebbd0448c1d51d40e02facee9cb78.jpg"
+        },
+        {
+          "name": "蓝色小怪物",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/bf07cf14ad8fa9696610100f17a50032c5f6cda7.jpg"
+        },
+        {
+          "name": "黄色小怪物",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/a2a0dcec96007010304ad3772c35eaa6629b55d9.jpg"
+        },
+        {
+          "name": "弹弹弹",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/f5413d6e2dcd98e6d5e06fc2febc782292013583.jpg"
+        },
+        {
+          "name": "重力反转",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/2f3b79d7e813f16d960063bfb1edae351b717a0d.jpg"
+        },
+        {
+          "name": "起飞",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/834332262719a033439322fe5f376e52dbcb5ccc.jpg"
+        },
+        {
+          "name": "天空",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/6e2c070e9ccbe3532912f98519d9a3f8fa39f1d0.jpg"
+        },
+        {
+          "name": "火山",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/8bc2c68ef5591d9d5356381ad283c0f6e0f2ad14.jpg"
+        },
+        {
+          "name": "森林",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/744240/38a5c14dd4936332450ca25407f6efb8c5943bca.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

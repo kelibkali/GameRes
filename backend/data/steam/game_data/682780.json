@@ -1,0 +1,117 @@
+{
+  "682780": {
+    "name": "Breaking Good",
+    "steam_appid": 682780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "很多人会好奇游戏的玩法，这里是一个简短的说明。<br />\r\n<br />\r\n在解谜过程种，你有四个观察视角，以便查看所有可用可匹配的方块。你可以垂直交换一个方块，或者旋转整行方块，以便一次性进行可能的多处匹配。<br />\r\n<br />\r\n你也可以进行洗牌。洗牌可能会让你一次达成多处匹配，帮助你更快地达到目标。<br />\r\n<br />\r\n你能匹配的最小方块数是3，这将给你1个原子。对于每1个额外的匹配方块，你会再得到2个原子。例如4个方块匹配给你2个原子，5个方块匹配给你4个原子等等。<br />\r\n<br />\r\n屏幕上的计数器栏会显示获得的原子。你可以以任意形状匹配3个以上任意数量的方块。<br />\r\n<br />\r\n要在游戏中更进一步，你需要达成屏幕上指示的目标。例如制造水分子（H₂O），你需要2组3个H（氢）方块，或者1组4个H（氢）方块来得到2个H（氢）原子，以及一组3个O（氧）方块来得到1个O（氧）原子。<br />\r\n<br />\r\n在屏幕的顶部显示了总分、最后一组匹配/组合分，以及最佳匹配/组合分。制作组合能获得更多分数，因为组合的分数是所有原子的总和乘以匹配数。举例来说，你完成了1、1、2、4、4共5组匹配，那么你会获得(1 + 1 + 2 + 4 + 4) × 5 = 60分。<br />\r\n<br />\r\n当一个目标完成时，会出现下一个新目标，并更换相应的元素。例如所有的碳方块会被铀方块替代，所有的硫方块都被钾方块替代，所以你不会失去任何先前可用的匹配/组合。",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 俄语, 乌克兰语, 德语, 葡萄牙语 - 巴西, 韩语, 波兰语, 捷克语, 阿拉伯语, 繁体中文, 简体中文, 意大利语, 土耳其语, 泰语, 日语, 希腊语, 丹麦语, 荷兰语, 罗马尼亚语, 芬兰语, 瑞典语, 保加利亚语, 匈牙利语, 挪威语, 白俄罗斯语, 印度尼西亚语, 克罗地亚语, 爱沙尼亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/4f30512a047f856c3a282394459526e8c3c1264c/header.jpg?t=1755304696",
+    "developers": [
+      "SeekSick6"
+    ],
+    "publishers": [
+      "SeekSick6"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 90,
+      "highlighted": [
+        {
+          "name": "It's time to cook, Jesse!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/966b6665fd8e7a421c5f57e83d006393d34de0bd.jpg"
+        },
+        {
+          "name": "Jesus Christ Marie! They're minerals!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/4c16ab21c4ebc5d9f5c90f32507081537273cbdf.jpg"
+        },
+        {
+          "name": "We had two bags of grass...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/ca45ba93cdc27e9c911e0c49e9c8eb0a7c66d712.jpg"
+        },
+        {
+          "name": "I am Cornholio!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/1b221fc2f898ee69a7aa945c0a5c4fec22a2d50a.jpg"
+        },
+        {
+          "name": "It was at this moment that he knew...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/8e2cfdac739fed6de47899341059bcc96fa23b9d.jpg"
+        },
+        {
+          "name": "Look in the dog",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/6126c0a182195410155ae69a549c0bac7b554251.jpg"
+        },
+        {
+          "name": "I said \"glass of juice\"!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/26202e1d0e6b40bd2a8e191fca174d2cf0e3d575.jpg"
+        },
+        {
+          "name": "I used to be schizophrenic but we're okay now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/0f21882a8b0e7066aacd254d39745ff4937d21b8.jpg"
+        },
+        {
+          "name": "DHMO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/02de1abda90af19eb50457970950c5710a411a10.jpg"
+        },
+        {
+          "name": "I drink and I know things",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/682780/11beb13d0c3b9c8dcf047ded359a34e7b4bc5970.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 4,
+      "total_negative": 3,
+      "total_reviews": 7
+    }
+  }
+}

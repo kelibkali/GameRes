@@ -1,0 +1,85 @@
+{
+  "663080": {
+    "name": "RectRacer",
+    "steam_appid": 663080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Racing on rectangular platforms! </strong><br>In the world of RectRacer, you can design your own levels and compete with your friends in a fun and exciting race on rectangular platforms with four game modes: Solo, Simple Play, Online and Party.<br><br><strong>Solo mode</strong> features a level editor, playable tours and levels and a competitive score listing.<br><strong>Simple Play</strong> is a game mode which brings infinite gameplay.<br><strong>Online mode</strong> introduces level sharing<br><strong>Party mode</strong> brings Versus mode and Marathon mode where up to 10 players can play together and compete locally.<br><br>Enjoy the race :)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/663080/header.jpg?t=1671473009",
+    "developers": [
+      "Tradosoft"
+    ],
+    "publishers": [
+      "Tradosoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

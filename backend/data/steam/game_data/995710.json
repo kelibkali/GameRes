@@ -1,0 +1,74 @@
+{
+  "995710": {
+    "name": "Super X Chess Demo",
+    "steam_appid": 995710,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong><u>The demo doesn't contain multiplayer or the ability to change the AI difficulty. It still includes tutorial and different game modes.</u></strong><h2 class=\"bb_tag\" ><strong>Why Play Super X Chess? </strong></h2>Appreciating Super X Chess means the same thing as appreciating yourself. It means appreciating your creativity, your thinking, your imagination, your intuition and your insight.<h2 class=\"bb_tag\" ><strong>Key Advantages of Super X Chess</strong></h2><ul class=\"bb_ul\"><li> 9 new chess pieces help generate more creative and exiting chess.<br></li><li> Reduced draw percentage.<br></li><li> Success in chess is determined by the ability to play and not by preparation and memorization.</li></ul><h2 class=\"bb_tag\" ><strong>Design</strong></h2>If you decide to combine your pieces, then you get a stronger piece but at the same time you lose time from developing your position. If your opponent can constantly threat your more powerful pieces, then your providing free tempo for the opponent. Having less pieces can prove to be also a drawback when fighting over a critical square as then you can't pile up as many attacks to it. This all makes Super X Chess a well-balanced game.<h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><ul class=\"bb_ul\"><li>Game Modes: Super X Chess, Super960 Chess and Normal Chess.<br> [s]</li><li>Online multiplayer &amp; local multiplayer. [/s]<br></li><li>Single player mode against [s]customizable[/s] AI opponent.  [s] There's AI difficulty levels ranging from estimated Elo of 900 to 1900 on traditional chess. Although I've seen the AI beat ~2600 Elo chess Grandmaster in Super X Chess, as there are a lot of new ideas hidden inside. [/s]<br></li><li>Ability to create handicaps for extra challenge or casual play.<br></li><li>Includes tutorial for both Normal Chess and Super X Chess.<br></li><li>Go through your previously played games to remember your epic wins and to analyze your losses.</li></ul><h2 class=\"bb_tag\" ><strong>Rules</strong></h2><ul class=\"bb_ul\"><li>Move your own piece to the same square as your other piece to create a combined piece. The combined piece has the ability to move as both pieces that got combined.<br></li><li>When 2 pieces are merged, the piece can't be unmerged or merge again. This is to make decisions count and have enough drawbacks for game balance purposes.<br></li><li>Royal pieces (Queen and King) don't merge.<br></li><li>Pawns promote on last rank only if they are not merged or the pawn is merged with another pawn.<br></li><li>Slightly modified pawn promotion rules: Pawn+Pawn pieces promote to more powerful pieces, but regular Pawns now only promote to either Rook, Bishop or Knight.<br></li><li>Piece movement logics that are non-trivial are well thought out and include piece combinations of Knight+Knight, Rook+Rook and Pawn+Pawn.<br></li><li>Otherwise all normal rules of chess apply, including en passant, pawn's double move and castling.</li></ul>",
+    "supported_languages": "英语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995710/header.jpg?t=1707186856",
+    "developers": [
+      "Mlyst"
+    ],
+    "publishers": [
+      "Mlyst"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "The Secret",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995710/9a572b5fbe9885ff1cd615d93b741b0c2cf10065.jpg"
+        },
+        {
+          "name": "Stick together team",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995710/9163b0e44eff7983a15203a8b5d93ebf4ed8f66e.jpg"
+        },
+        {
+          "name": "Good player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/995710/e633b89168c3482ab8e010e5adc58a5e3cdacbe1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

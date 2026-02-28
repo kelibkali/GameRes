@@ -1,0 +1,56 @@
+{
+  "1662910": {
+    "name": "GridlessDB",
+    "steam_appid": 1662910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Say goodbye to spreadsheets!</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/839e1aaf4f3dcc5036ebf36a0ba92676.webp?t=1629894506\" width=582 height=57 /></span><br>Create editors for <strong>items</strong>, <strong>characters</strong>, <strong>worlds</strong>, <strong>storylines</strong>, and anything else your project needs, using simple building blocks called <i>Properties</i>.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/a68c70c52d717b72618d6b507f23f82d.webp?t=1629894506\" width=582 height=54 /></span><br>Create a familiar <strong>tree-like structure</strong> of your categories and items by simply dragging and dropping ui elements. Use an inheritance system to manage your items' properties and propagate changes through whole sets of items. Changing something at the top of the tree will update all descendant items automatically. No more need for micromanaging.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/4b2fd7832f2f442cf370f5e16149f060.webp?t=1629894506\" width=582 height=54 /></span><br>Use a wide array of inputs to edit your data: from simple text/number boxes to file paths with image previews and dynamic drop-down lists or create your own, <strong>custom inputs</strong>. Design the layout of each category using an intuitive drag and drop ui.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/c345a3bc08dc525d9a31c95ed2ee457c.webp?t=1629894506\" width=582 height=58 /></span><br>Export your databases to easy-to-read file formats (<strong>JSON, INI, CSV</strong>) or export directly to Unity's Scriptable Objects - with one click of a button create all the needed C# classes and objects, then simply drag and drop them into the inspector. Text files can be imported into<strong> Unity, Unreal, Godot, Game Maker, Construct</strong>, and many more (including custom frameworks). There are many options to set the structure of the final file.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/145e526330590199708baee783663de2.avif?t=1629894506\" width=585 height=121 /></span><h2 class=\"bb_tag\" >Features list:</h2><ul class=\"bb_ul\"><li> Create any databases from scratch.<br></li><li> Lightweight and beautiful dark interface.<br></li><li> Drag-and-drop workflow makes it easy to design and edit your content.<br></li><li> Organize using an inheritance tree.<br></li><li> Supports many languages (including those with special characters).<br></li><li> Change your content language with a click of a button.<br></li><li> Export to an easy-to-read file and import it into any game engine or framework.<br></li><li> Export to Unity's Scriptable Objects.<br></li><li> Visualize your data with images and colors. Attach any kind of files.<br></li><li> Easily create custom input types.<br></li><li> Make your data interconnected with references to other databases.<br></li><li> Enable relative paths for easier multi-user editing.</li></ul><br><strong>All future updates will be free for owners of the tool.</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/header.jpg?t=1629894506",
+    "developers": [
+      "radmatt"
+    ],
+    "publishers": [
+      "radmatt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 24 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

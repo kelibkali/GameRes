@@ -1,0 +1,113 @@
+{
+  "765030": {
+    "name": "樱雪集～Yuyuko's Butterfly Dream",
+    "steam_appid": 765030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765030/extras/b79cd3423371a6a229ebc726f3b73432.poster.avif?t=1573007504\" width=616 height=124 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765030/extras/b79cd3423371a6a229ebc726f3b73432.webm?t=1573007504\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765030/extras/b79cd3423371a6a229ebc726f3b73432.mp4?t=1573007504\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >卡顿问题公告</h2>有少量玩家遇到了卡顿的现象，可以在显卡设置里将此游戏设置成&quot;独显&quot;运行.即可解决.<br>N卡在任务栏-NVIDIA控制面板-管理3D设置-程序设置里添加NW.exe-高性能NVIDIA处理器<br>A卡在-RADEON设置-系统-已安装的配置好的应用程序-添加高性能<br><br>游戏还在开发阶段，会继续优化运行效率.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765030/extras/52c3dcf99bbcb4fd40fa61e7bcc2a91d.avif?t=1573007504\" width=616 height=176 /></span><h2 class=\"bb_tag\" >反馈渠道</h2>QQ群:57718025<h2 class=\"bb_tag\" >关于这款游戏</h2>樱雪集是一款改编自“东方Project”的、动作平台类二次同人游戏，包含解谜要素和分支剧情系统。<br>故事讲述的是幽幽子闯进了一个奇异陌生的梦境世界。这里充斥着冥界的妖怪及奇怪的旅人。<br>为了把这个梦境一探究竟、找到幻境产生的根源与离开的办法，幽幽子踏上了充满未知的冒险之旅。<h2 class=\"bb_tag\" >关于这个梦境的世界</h2>幽幽子（Yuyuko），已经去世千年的亡灵公主，拥有着诱导事物死亡的能力。<br>在一次久违的假寐中，她竟来到了一个充满着冥界气息与造物的神秘之地。<br>那些好像似曾相识的术式和符咒……以及周围的死蝶，让幽幽子回想起尘封千年的往事……<h2 class=\"bb_tag\" >游戏特点</h2><ul class=\"bb_ul\"><li>简单直观的动作战斗<br></li><li>刺激的BOSS战斗<br></li><li>丰富的游戏道具<br></li><li>多种解谜要素<br></li><li>玩家的选择决定剧情走向<br></li><li>多种游戏结局<br></li><li>经典东方角色的出场<br></li><li>丰富的场景要素<br></li><li>动听的场景音乐<br></li><li>持续更新更多内容</li></ul><h2 class=\"bb_tag\" >鸣谢：</h2>感谢为游戏制作BGM的东方同音社团：疯帽子茶会；<br>感谢美术支援：无感装置、qwer37；<br>感谢剧本和文字支援：月残；<br>以及更多的、参与到制作里的朋友。<br>开发以来你们的帮助都不可或缺，非常感谢！<br><br>游戏目前处于抢先试玩状态，后续更新的计划：<br>游戏系统和关卡的完善、支持全平台(Mac,Linux)、人物配音、英语和日语等更多语言支持和成就系统等。",
+    "supported_languages": "简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765030/header_schinese.jpg?t=1573007504",
+    "developers": [
+      "Mescaline's Wings"
+    ],
+    "publishers": [
+      "Mescaline's Wings"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "樱妖幻葬",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/81abc278f726f9714283a8c652f5f56d87e436c4.jpg"
+        },
+        {
+          "name": "富士业火",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/3af710c5b6468ffe2d91481094103176bbdfe95e.jpg"
+        },
+        {
+          "name": "胃口小开",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/a3ab25f1965bc5a0c12aaa5f19f24ae28167d895.jpg"
+        },
+        {
+          "name": "封印解除",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/a8f8a184b9e9c5d16d34425f4e95cb0816d87b23.jpg"
+        },
+        {
+          "name": "雾气萦绕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/069e7c5d6dff1c4bd692defaca3e49590bce056e.jpg"
+        },
+        {
+          "name": "幽冥境界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/68bf5e7c508b1eb612b22d665a6273ac87250320.jpg"
+        },
+        {
+          "name": "真实之梦",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765030/6e03a2e5e5237cf274c7115775460f0b357f2c97.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 68,
+      "total_negative": 16,
+      "total_reviews": 84
+    }
+  }
+}

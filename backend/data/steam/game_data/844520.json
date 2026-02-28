@@ -1,0 +1,65 @@
+{
+  "844520": {
+    "name": "RECOIL",
+    "steam_appid": 844520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏：<br />\r\n这是个分数冲击的射击游戏，玩家被限制在一个四方的区域之中，区域之外的敌人不断向玩家发动攻击，玩家在消灭敌人的时候获得分数<br />\r\n<br />\r\n特点：<br />\r\n随着分数的增加，难度也会增加<br />\r\n随着分数的增加，敌人的种类会越来越多<br />\r\n玩家的最高分数将会被保存<br />\r\n通过接触武器携带者，从而切换当前的武器<br />\r\n<br />\r\n操作：<br />\r\n使用字母方向键控制角色的移动，鼠标指向射击的方向，按下鼠标左键发射子弹<br />\r\n<br />\r\n要点：<br />\r\n发射子弹时会产生后座力，这会成为一定的阻碍，但是善加利用可以帮助你躲避敌人的攻击<br />\r\n灵活决定是否需要切换武器<br />\r\n保持移动，否则会在不经意的时候遭到攻击<br />\r\n<br />\r\n此游戏在一定程度上借鉴了Bit Blaster，并且由于我在美术上的糟糕能力，因此在一些特效上对Bit Blaster做了模仿。",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/844520/header.jpg?t=1701721017",
+    "developers": [
+      "AHui.Game"
+    ],
+    "publishers": [
+      "AHui.Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

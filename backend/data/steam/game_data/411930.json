@@ -1,0 +1,73 @@
+{
+  "411930": {
+    "name": "DCS: AJS-37 Viggen by Heatblur Simulations",
+    "steam_appid": 411930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AJS37 “雷”是瑞典冷战后期的双三角翼超声速强击机。冷战期间，它是瑞典空军的骨干，作为主要的攻击和反舰平台。AJS诞生于90年代，是在其70年代设计上升级而来（增加了一些先进武器和系统功能）。飞机围绕着驾驶员设计：有着优秀的人机接口；支持驾驶员灵活使用自动驾驶系统；雷达和HUD符号；并能从树梢高度高速对目标投弹。<br><br>飞机配备有多种武器系统，范围从可编程的防区外发射武器，例如RB-15F反舰导弹，到BK90集束弹药布撒器，及各种炸弹、火箭弹和导弹，应对广泛的目标类型。飞机也可以携带机炮吊舱和响尾蛇系列红外制导导弹用于防空和自卫。<h2 class=\"bb_tag\" >DCS: AJS37 “雷”的关键特性包括：</h2><br><ul class=\"bb_ul\"><li>高细节度和准确的6-DOF（自由度）驾驶舱。<br></li><li>广泛和高细节度的飞机建模系统，例如：<br></li><li>CK37机载计算机及导航数据、到目标时间和燃油计算系统。<br></li><li>数据输入/输出接口和预先计划数据磁带功能。<br></li><li>自动推测领航和地形轮廓匹配位置更新系统。<br></li><li>飞行仪表系统。<br></li><li>电气和液压系统。<br></li><li>TILS战术仪表着陆系统。<br></li><li>高级的RM-8A喷气发动机建模和反推、压气机喘振和失速。<br></li><li>复杂的高分辨率空对地雷达技术建模PS-37/A雷达，包括：<br></li><li>多种雷达放大和滤波设置<br></li><li>障碍物探测模式<br></li><li>记忆模式<br></li><li>空对空模式<br></li><li>高精度高级飞行模型基于真实性能数据和文档。<br></li><li>海上侦查能力确定船舶的位置、航向和速度。<br></li><li>先进可编程武器例如RB-15F反舰导弹，带多个航路点，和可配置BK-90“雷神之锤”集束弹药布撒器。<br></li><li>详细建模超过14种独特武器和杂项挂载和多种投放方法，范围从火箭弹、炸弹到先进空对地导弹，例如指令制导的RB-05A和电视制导的RB-75“小牛”导弹。<br></li><li>400+页飞行手册。<br></li><li>广泛的交互与语音训练教程。<br></li><li>快速行动和单机游戏任务</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 瑞典语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411930/header.jpg?t=1744375416",
+    "developers": [
+      "Heatblur Simulations"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 42000,
+      "final": 21000,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 420.00",
+      "final_formatted": "¥ 210.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 2,
+      "total_reviews": 15
+    }
+  }
+}

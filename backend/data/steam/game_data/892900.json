@@ -1,0 +1,54 @@
+{
+  "892900": {
+    "name": "Emoto",
+    "steam_appid": 892900,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Emoto是一款快速制作3D动画的工具，使用起来简单，快速且省成本，利用VR设备（目前仅支持Htc Vive）创建角色动画，并使角色在VR中变得生动而有趣，从而快速完成一部动画影片。<br><br>Emoto具有自带资源库，您不用具备任何3D内容创建的先前知识，你只需要选好场景和角色，扮演他们，想好想要扮演的剧本并完成动画故事。<br>此外，为了让您的艺术创造过程更加独特和富有创造性，我们提供了免费的SDK工具，它将支持导入你自己的场景，角色（可带有表情、手势、以及自定义动作），道具和特效。<br><br>Emoto除了能快速创作3D动画视频，同时也具备专业的视频制作功能。我们将Emoto分为了两个模块：VR游戏和编辑模式。<h2 class=\"bb_tag\" >-在VR模块，具备以下功能：</h2>   使用自定义的角色动作(需要SDK插件改变角色预设动画)<br>   第三人称角色的移动<br>   使用粒子特效<br>   DOF、FOV的摄像机画面效果<br>   平稳的拍摄效果<br>   固定或自由多样拍摄方式<br>   导出高清720P/1080P视频<br>   导出360全景视频<br>   导出高清2K/4K/8K视频（<strong>免费版不支持该功能</strong> ）<br>   将角色录制好的动作导出FBX格式（<strong>免费版不支持该功能</strong> ）<br><br>另外，编辑模式甚至可以在不需要VR设备的条件下使用，只要将软件已经有拍摄好的视频存档导入软件中，你就可以在没有VR设备的条件下继续创作他们。<h2 class=\"bb_tag\" >-编辑模式，具备以下功能：</h2>   视频画面编辑（颜色效果、辉光效果、环境阴影效果、景深、时间特效等）<br><br>   多个mp4视频批量合并导出（<strong>免费版最多支持3个视频合成</strong> ）<br>   角色与场景的替换<br>   动作捕抓（需要Perception Neuron动补系统硬件来支持，<strong>免费版不支持该功能</strong> ）<br>   脸部捕抓（需要一般WebCAM外部硬件支持，<strong>免费版不支持该功能</strong> ）<br><br><strong><u>提供免费开源SDK插件导入自己的角色，场景，道具，特效资源。<br>目前仅支持Unity3D 5.6.1.P1版本</u></strong>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892900/header.jpg?t=1543086068",
+    "developers": [
+      "Guangzhou little lamb Animation Technology Co., Ltd."
+    ],
+    "publishers": [
+      "Guangzhou little lamb Animation Technology Co., Ltd."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      }
+    ],
+    "genres": [
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

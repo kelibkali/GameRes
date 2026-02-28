@@ -1,0 +1,54 @@
+{
+  "444570": {
+    "name": "Ultra Engine Pro",
+    "steam_appid": 444570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "您是否曾经尝试过开发游戏，但随着添加更多内容和功能，帧速率变得越来越慢？这在虚拟现实中尤其成问题，因为低帧率会导致晕动病，并使您的游戏或体验无法玩。 Ultra Engine 旨在实现终极可扩展性，并随着游戏的发展提供极快的性能，其革命性的全新渲染架构可释放显卡的全部功能，提供高达 10 倍的性能提升。<h2 class=\"bb_tag\" >用 C++ 编写游戏</h2><br>Ultra Engine Pro 支持使用 Microsoft Visual Studio 进行 C++ 编程，以提供终极的开发人员体验。文档内容丰富，有数百个代码示例演示如何使用图形、物理、光线投射、寻路和其他系统来构建游戏和 VR 应用程序。<br><br>还包括对使用 Microsoft Visual Studio Code 进行 Lua 开发的支持。<br><br>Ultra Engine Pro 需要一些编程才能充分发挥其潜力，最适合中级和高级开发人员。<h2 class=\"bb_tag\" >为游戏开发者提供无限制免版税许可</h2><br>您创建的游戏可供您玩、出售或赠送，无需额外费用或隐藏费用。而且由于我们只依赖免费的开源中间件库，因此您永远不必担心从第三方购买昂贵的许可证。<h2 class=\"bb_tag\" >图形</h2><ul class=\"bb_ul\"><li>革命性的新渲染架构<br></li><li>Forward+渲染器具有均匀的光照模型和可选的深度预通道<br></li><li>多显示器支持<br></li><li>PBR材料<br></li><li>从 glTF、OBJ、MDL 和 FBX 加载 3D 模型（使用 glTF 转换器）<br></li><li>图像加载、保存、处理<br></li><li>顶点、像素、几何和曲面细分着色器<br></li><li>带镜面反射的法线贴图<br></li><li>后处理堆栈<br></li><li>硬件镶嵌<br></li><li>环境探测器<br></li><li>实例化渲染<br></li><li>实时网格修改<br></li><li>冒名顶替者</li></ul><h2 class=\"bb_tag\" >虚拟现实</h2><ul class=\"bb_ul\"><li>SteamVR 集成，支持各种耳机<br></li><li>快速立体渲染<br></li><li>控制器输入和显示<br></li><li>将物体附加到手持控制器和耳机上<br></li><li>平移和旋转视图偏移</li></ul><h2 class=\"bb_tag\" >实体组件系统</h2><ul class=\"bb_ul\"><li>每个实体支持多个组件<br></li><li>保存和加载游戏状态<br></li><li>视觉流程图连接组件动作以创建事件序列</li></ul><h2 class=\"bb_tag\" >地形</h2><ul class=\"bb_ul\"><li>动态雕刻和绘制地形<br></li><li>在地形上挖洞<br></li><li>多达 256 个材质层<br></li><li>地形植被系统</li></ul><h2 class=\"bb_tag\" >3D模型</h2><ul class=\"bb_ul\"><li>加载并保存 Khronos glTF 文件<br></li><li>加载并保存 Wavefront OBJ 文件<br></li><li>将 FBX 文件转换为 glTF 并加载<br></li><li>将 Collada 文件转换为 glTF 并加载<br></li><li>使用插件系统加载其他格式</li></ul><h2 class=\"bb_tag\" >动画片</h2><ul class=\"bb_ul\"><li>动画皮肤角色<br></li><li>跨多个角色共享骨骼<br></li><li>将对象附加到骨骼上<br></li><li>内置动画过渡和更新系统<br></li><li>硬件换肤<br></li><li>混合和过渡动画</li></ul><h2 class=\"bb_tag\" >物理</h2><ul class=\"bb_ul\"><li>快速准确的异步刚体物理<br></li><li>约束包括铰链、球、运动学、平面和滑动关节<br></li><li>有限制的电动关节<br></li><li>生成物理形状<br></li><li>扫掠碰撞<br></li><li>使用直线或球体进行光线投射</li></ul><h2 class=\"bb_tag\" >寻找路径</h2><ul class=\"bb_ul\"><li>导航网格寻路<br></li><li>人群避开和转向<br></li><li>编辑器中可见的导航区域<br></li><li>基于物理的角色控制器<br></li><li>自动AI跟随</li></ul><h2 class=\"bb_tag\" >声音</h2><ul class=\"bb_ul\"><li>3D声音空间化<br></li><li>头部相关传递函数（HRTF）<br></li><li>音频滤波器，包括失真、镶边、回声和 EAX 混响效果<br></li><li>从任何实体发出声音<br></li><li>自动频道管理<br></li><li>跳到声音中的任何时间</li></ul><h2 class=\"bb_tag\" >图形用户界面</h2><ul class=\"bb_ul\"><li>与任何 DPI 分辨率无关<br></li><li>可扩展的小部件系统<br></li><li>加载SVG矢量图像<br></li><li>设置小部件和项目图像<br></li><li>更改鼠标光标<br></li><li>存储在 JSON 文件中的自定义配色方案</li></ul><h2 class=\"bb_tag\" >系统</h2><ul class=\"bb_ul\"><li>线程管理，带有互斥体和信号量<br></li><li>文件输入/输出<br></li><li>文件系统观察器<br></li><li>内存分配和管理<br></li><li>字符串操作（分割、搜索、转换等）<br></li><li>消息框和文件/文件夹请求者<br></li><li>插件系统</li></ul><h2 class=\"bb_tag\" >蒸汽集成</h2><ul class=\"bb_ul\"><li>验证<br></li><li>用户信息<br></li><li>排行榜<br></li><li>统计数据和成就<br></li><li>多人游戏大厅<br></li><li>点对点网络<br></li><li>互联网协议语音</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444570/header.jpg?t=1764010581",
+    "developers": [
+      "Leadwerks Software"
+    ],
+    "publishers": [
+      "Leadwerks Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 10 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

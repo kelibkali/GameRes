@@ -1,0 +1,121 @@
+{
+  "558850": {
+    "name": "Children of Colossus",
+    "steam_appid": 558850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "巨像之子是一款针对HTC Vive开发的VR动作游戏。玩家将要挑战5个不同的巨像，从而为人类的发展赢得机会。玩家所能依靠的只有一根魔杖和一把剑，玩家必须移动或下蹲来躲避巨像攻击，并抓住机会攻击巨像的弱点。<br />\r\n<br />\r\n自蛮荒纪元开始，人类便和巨像生活在一起，巨像作为人类的守护者，帮助人类抵御天灾，地祸，洪水，猛兽和黑暗生物的侵袭。<br />\r\n<br />\r\n随着自然条件的改善，人类族群发展壮大，曾经作为守护神的巨像，却因为对自然资源的过度消耗，成为了人类发展的禁锢。<br />\r\n<br />\r\n人类要发展，就要弑神。<br />\r\n<br />\r\n单纯的巨像，因为生存的本能，被迫进行反击。即使它们被击败，也毫无怨念，却用身体滋养大地，和曾经守护的人类。<br />\r\n<br />\r\n当最后一个巨像倒下，人类将真正用自己的双脚，立于世间。<br />\r\n<br />\r\n人类感谢那些曾经给予自己，现在依然环绕身边的爱，人类，永远是巨像的后裔…",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558850/header.jpg?t=1485266499",
+    "developers": [
+      "Colossus Interactive"
+    ],
+    "publishers": [
+      "Colossus Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Fire Conqueror",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/743ea3a2307fdfba1fb30a3e81946af9aeba5168.jpg"
+        },
+        {
+          "name": "Ice Tea After Battle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/12aa62216d04a32de0bd578d343080a2d08f7bfa.jpg"
+        },
+        {
+          "name": "Be careful of the Boulde",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/cd62533e581ba2a317644a0411f5cacf925c462c.jpg"
+        },
+        {
+          "name": "Dodge and Attack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/8276169541129d7fa31fbdda883b1525a59107fa.jpg"
+        },
+        {
+          "name": "Attack and Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/370f4289a09b42c71c10f3a4b1de0f5ed2d6b519.jpg"
+        },
+        {
+          "name": "Aches in Hand and Foot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/1064343d6c6ecc7f5f24b826803ceff63f7e7f02.jpg"
+        },
+        {
+          "name": "Flight Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/65f03f7beae91b4604e73d0f0645ee9e589b4044.jpg"
+        },
+        {
+          "name": "Professional Pilot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/b5530595c63106616162c95e354b6e7879f3a2af.jpg"
+        },
+        {
+          "name": "Swing along with Me",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/476761b2ed0ea58c9e9f96cbc112dd66ed61c6c9.jpg"
+        },
+        {
+          "name": "My Precious",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558850/259fc04590cfd6a05c46c70b6b2aafd684f4d660.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

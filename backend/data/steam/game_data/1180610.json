@@ -1,0 +1,105 @@
+{
+  "1180610": {
+    "name": "Npc Problems: Vertex Coloring",
+    "steam_appid": 1180610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Npc Problems: Vertex Coloring is a minimalistic puzzle game about a real computacional problem.<br><ul class=\"bb_ul\"><li>An <strong><u>unconventional</u></strong> puzzle game.<br></li><li>A problem that <strong><u>only artifical intelligence can solve.</u></strong><br></li><li>Solve <strong><u>handcrafted instances</u></strong> of the  Npc problem vertex coloring.<br></li><li>Enjoy a <strong><u>relaxing environment</u></strong> with <strong><u>neon graphics</u></strong> and <strong><u>original synthwave musics.</u></strong></li></ul><br><strong>Linked circles cannot have the same color, can you paint all the circles using the minimal number of colors</strong>?<br><br><br><strong>Additional information:</strong><br>The vertex coloring problem is represented by a graph, which is a set of nodes and lines. The lines connect the vertices and are called edges.<br><br>The vertex coloring problem is one of the complete non-polynomial (NP-complete) problems. These problems cant be solved by today's computers, they could spend several years to get the solution, depending on the size of the instance. To be able to solve large instances, the using of machine learning and artificial intelligence is necessary. In this game, small relative instances are presented for the player to solve.<br><br>There are many real world applications of the vertex coloring problem:<br><br>1) Making Schedule or Time Table: Suppose we want to make am exam schedule for a university. We have list different subjects and students enrolled in every subject. Many subjects would have common students (of same batch, some backlog students, etc). How do we schedule the exam so that no two exams with a common student are scheduled at same time? How many minimum time slots are needed to schedule all exams? This problem can be represented as a graph where every vertex is a subject and an edge between two vertices mean there is a common student. So this is a graph coloring problem where minimum number of time slots is equal to the chromatic number of the graph.<br><br>2) Mobile Radio Frequency Assignment: When frequencies are assigned to towers, frequencies assigned to all towers at the same location must be different. How to assign frequencies with this constraint? What is the minimum number of frequencies needed? This problem is also an instance of graph coloring problem where every tower represents a vertex and an edge between two towers represents that they are in range of each other.<br><br>3) Sudoku: Sudoku is also a variation of Graph coloring problem where every cell represents a vertex. There is an edge between two vertices if they are in same row or same column or same block.<br><br>4) Map Coloring: Geographical maps of countries or states where no two adjacent cities cannot be assigned same color. Four colors are sufficient to color any map.<br><br>Source: ",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180610/header.jpg?t=1631625252",
+    "developers": [
+      "Fractal Projects"
+    ],
+    "publishers": [
+      "Fractal Projects"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "And then you started to getting smater than a robot!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/354e73e39617b32a01da6e9d15524eadad249b1e.jpg"
+        },
+        {
+          "name": "For sure you are more smarter than a donkey!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/5ef19c9fbd71ddc546ea75b402aa2acadf952c8f.jpg"
+        },
+        {
+          "name": "First Buy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/bddef743bf4c13633e96185b6571501fd334647a.jpg"
+        },
+        {
+          "name": "The robots are getting worried!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/86fb53de1d0471dd1e7d3a38b064e32d8b291074.jpg"
+        },
+        {
+          "name": "Watch out with your star card!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/b1f6584cf5d78b1120a40f883c181efd1aac590a.jpg"
+        },
+        {
+          "name": "It can't be... you are the new Turing!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/a158f8cabd8d904c350976ad863756996c631a74.jpg"
+        },
+        {
+          "name": "It is this a spaceship?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/c949e1570fb3ea2a65104967d6c4873df0855ff9.jpg"
+        },
+        {
+          "name": "You brain is still intact?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/e5653735f4949d4ae8b85f06632a9489331fc3f0.jpg"
+        },
+        {
+          "name": "Eletricity made the robots possible.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/9120a7f3721c84381364d821dd3cc2147ea6a4b0.jpg"
+        },
+        {
+          "name": "We could fall of a waterfall with that.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180610/d1e66eb1cdf65cb7f9aa3a2f0fb3c980ca847081.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

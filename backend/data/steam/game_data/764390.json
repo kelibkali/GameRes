@@ -1,0 +1,65 @@
+{
+  "764390": {
+    "name": "Synced Warriors",
+    "steam_appid": 764390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Description</h2><br>Synced Warriors is a puzzle game where each button press controls all of the characters on the screen at the same time. The main feature of the game is that each character moves relative to the direction they are facing. This means that if you instruct the characters to move left, they do not move to the left relative to the camera. Instead, they move left relative to the direction they are facing. This makes for some interesting puzzle situations as you attempt to orchestrate a battle between the forces of red, blue, green, and yellow.<h2 class=\"bb_tag\" >Modes</h2><br>In <strong>puzzle mode</strong> you attempt to move the warriors to the puzzle pads of the same color while killing off the extra warriors.<br><br>In <strong>infinite mode</strong> you attempt to keep the number of warriors on the map greater than 0 and less than a specified number.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>Dozens of puzzles<br></li><li>Three kinds of warriors that add complexity to the puzzles<br></li><li>Moving blocks and ballistae<br></li><li>Puzzle editor for making and sharing puzzles</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764390/header.jpg?t=1516196249",
+    "developers": [
+      "Zack Garrett"
+    ],
+    "publishers": [
+      "TallShrimp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

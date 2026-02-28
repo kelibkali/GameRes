@@ -1,0 +1,81 @@
+{
+  "839530": {
+    "name": "Bomight",
+    "steam_appid": 839530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Bomight is a short time attack platformer.Find and defeat the purple demon in as short a time as possible.<h2 class=\"bb_tag\" >What you have to to do.</h2><br>1:Get 3 keys from large enemies.<br><br>2:Open the gate with that 3 keys.<br><br>3:Defeat the purple demon.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839530/header.jpg?t=1526466219",
+    "developers": [
+      "AAKIOO"
+    ],
+    "publishers": [
+      "AAKIOO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Won",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/839530/3adebdff1e222c6cfa8695e5a9ebae8ce351ef51.jpg"
+        },
+        {
+          "name": "500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/839530/496d3789f78f8c1f06609f162bbe15821e076d33.jpg"
+        },
+        {
+          "name": "400",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/839530/1d2e1261b3c8ab6f3202761006f44a25e315d689.jpg"
+        },
+        {
+          "name": "300",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/839530/7573366cce3a585b69369c32d4be677105c9a32c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

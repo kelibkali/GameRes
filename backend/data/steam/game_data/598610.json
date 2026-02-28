@@ -1,0 +1,113 @@
+{
+  "598610": {
+    "name": "Avalon Legends Solitaire",
+    "steam_appid": 598610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>恢复自然之牌，拯救阿瓦隆！</strong></p><p class=\"bb_paragraph\" >阿瓦隆——一片拥有茂密森林、广阔平原、巍峨高山……以及最重要的，魔法的土地！阿瓦隆的德鲁伊们掌握着强大的治愈魔法，这些魔法通过特殊的魔法卡牌被激活。就像符文石一样，这些卡牌只有按正确顺序放置时，才能释放它们真正的力量。</p><p class=\"bb_paragraph\" >踏上旅程，探索 200 个独特的关卡，收集魔法卡牌，重新组建“自然之牌”卡组。连出巨型连击以提升分数倍数，并在商店中使用你的收益购买强力的增益道具。收集万能牌，并明智地使用它们，追求完美通关！</p><p class=\"bb_paragraph\" >这是最纯粹的纸牌游戏体验——放松、上瘾且充满挑战。拥有 12 种可购买的增益道具、13 项可解锁的成就以及众多挑战，<strong>Avalon Legends Solitaire</strong> 将为你带来数小时的卡牌乐趣。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >上瘾的玩法</p></li><li><p class=\"bb_paragraph\" >200 个关卡</p></li><li><p class=\"bb_paragraph\" >13 项成就</p></li><li><p class=\"bb_paragraph\" >12 种强化道具</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 荷兰语<strong>*</strong>, 波兰语<strong>*</strong>, 捷克语<strong>*</strong>, 丹麦语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 瑞典语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598610/header.jpg?t=1767360341",
+    "developers": [
+      "Anawiki Games"
+    ],
+    "publishers": [
+      "Anawiki Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3400,
+      "final": 3400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 34.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Neophyte Druid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Master Druid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Elder Druid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Lord of the Rain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Prince of the Winds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "King of Storms",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Force of Nature!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Nature Lover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Guardian of the Forest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        },
+        {
+          "name": "Champion of Beasts",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/598610/185e801cdb8fd21cc02d43acca7ccd1d0ddaf697.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

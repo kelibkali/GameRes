@@ -1,0 +1,118 @@
+{
+  "352460": {
+    "name": "Dead Realm",
+    "steam_appid": 352460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>关于此游戏：</strong><br>大约100年前，一位名叫威廉·赫胥黎的孤僻电力大亨以一种极可怕的方式谋杀了他的家人和员工。死者包括赫胥黎的儿子“威廉宝宝”及他的亲信“狼人”。 现在你和你的朋友们必须进入闹鬼的世界，去寻找特殊的文物，并在被杀死前揭开他的秘密。<br><br>Dead Realm 一个令人毛骨悚然的多人动作游戏，里面包含美丽的沉浸式环境。你可以以鬼或人的身份参与游戏，与好友一起逃命、躲藏、生存下去... 或死掉。 <br><br>发展路线图：[/u][/b]<br>Dead Realm 最初的概念是为了创建性质简单的几个游戏类，但同时也可让人与朋友们一起玩的乐而忘返。我们致力与社区合作建立新的鬼与人的角色、新的地图、新的游戏类型。此优先版本只是我们的一个发展不断的项目的开始而已。赶快参与我们的游戏，并向我们提出你所希望看见的的新内容。 <br><br>最后，我们建立的这个游戏不仅是为了好玩，更是同时为了好在旁观看。话虽如此，我们鼓励你捕捉和分享你觉得最惊心动魄的游戏时刻。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352460/header.jpg?t=1598548628",
+    "developers": [
+      "Section Studios"
+    ],
+    "publishers": [
+      "3BLACKDOT"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 37,
+      "highlighted": [
+        {
+          "name": "My First Haunting",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/02e5a1c09350e5498ecf75b3985ea21be383a5c8.jpg"
+        },
+        {
+          "name": "Children's Fairy Tale",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/f4bd36ae427be2657ce620615a283546864c8b2d.jpg"
+        },
+        {
+          "name": "Spooky Scary",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/7767f4cccb94380beff02138eece49241688842d.jpg"
+        },
+        {
+          "name": "Is It Gone?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/89cdadf86bbda0587db48bc74d673aaed1a26b45.jpg"
+        },
+        {
+          "name": "Legendary Ghost Juker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/daa2ed3e5d115da56b6bb125ebf244feccb25287.jpg"
+        },
+        {
+          "name": "What Time Is It?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/0b4d3cb56178f7028d006fc1e4e79c5e24d4b060.jpg"
+        },
+        {
+          "name": "I'm Outta Here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/bbcbe3041ec12dc20db697377075d9c6e04ca685.jpg"
+        },
+        {
+          "name": "Will the Real One Please Stand Up?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/6fb9e5ef459c31529d62dc736b536dc3727244a0.jpg"
+        },
+        {
+          "name": "Screaming Banshees",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/db5c742355e764abd7664bc2b8f6a0d1070a134a.jpg"
+        },
+        {
+          "name": "Bubbilicious",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/352460/5771987ecd5267b50e56689ee111100111c4db4f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 64,
+      "total_negative": 45,
+      "total_reviews": 109
+    }
+  }
+}

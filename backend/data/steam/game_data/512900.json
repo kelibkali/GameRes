@@ -1,0 +1,193 @@
+{
+  "512900": {
+    "name": "Streets of Rogue",
+    "steam_appid": 512900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《Streets of Rogue》 （中文名：《地痞街区》） 这款 Rogue-lite 类游戏能为玩家提供多种选择、广袤的自由度和无政府主义的乐趣。游戏灵感来自于快节奏、自上而下逐层探索的 Rogue-lite 游戏，例如《以撒的结合》和《废土之王》，并加入了《杀出重围》等 RPG 游戏的自由度、实验性和应变式游戏性等元素。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >这款游戏并非发生在地下城中，而是设定在一个程序生成的正常城市中，其中有复杂的 AI 来通知各行各业的居民，后者只是在按部就班地完成日常活动。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >要通关游戏，玩家需要不择手段完成特定的任务目标，包括利用特殊角色的技能、道具和环境。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/87d4315f29d56da6ef15add1bf302b45.poster.avif?t=1758274145\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/87d4315f29d56da6ef15add1bf302b45.webm?t=1758274145\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/87d4315f29d56da6ef15add1bf302b45.mp4?t=1758274145\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/87e22ad9a1af7a4cb3d1840a49596c1f.webp?t=1758274145\" width=32 height=29 /></span>要不要扮演一个先开枪后问话的战士？</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/f0ebf8ab8ae14939715296517e775312.webp?t=1758274145\" width=27 height=30 /></span>还是化身一个使用氯仿和镇定剂悄悄干掉对手的潜行医生？</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/extras/47210d9ee57a5d17b7f59345b1d58283.webp?t=1758274145\" width=32 height=29 /></span>或者变身为一个亲切的酒保，靠着自己的口才说服最可怕的守卫？</p></li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 简体中文, 葡萄牙语 - 巴西, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512900/header_schinese.jpg?t=1758274145",
+    "developers": [
+      "Matt Dabrowski"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 52,
+      "highlighted": [
+        {
+          "name": "适应城市生活",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/3ab7ebc9b3e0f90c7090c1248d05a186eb693e80.jpg"
+        },
+        {
+          "name": "贫民区的救世主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/6a2e01f52127dd2c1af567385a204729f297b900.jpg"
+        },
+        {
+          "name": "工业大亨",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/a5d5e8208f893d5fd70d96e16b0644ca57c550dd.jpg"
+        },
+        {
+          "name": "工业区",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/2538f85978f1f30fd4463d05a560817009c52f33.jpg"
+        },
+        {
+          "name": "未跳过教程",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/4ff95d0dca37d61f0f542000f8e4b07d46c77cab.jpg"
+        },
+        {
+          "name": "流氓（血帮）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/0c1a2c0a1ecdf66a0f348f2832ee1974fed6cf52.jpg"
+        },
+        {
+          "name": "喜剧演员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/407ce92bd2e356ff35b4ec09afa7aacd8e2500c3.jpg"
+        },
+        {
+          "name": "银行家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/eb4f2b85a4433232ac4106630b27a2cb68fd8a8e.jpg"
+        },
+        {
+          "name": "店主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/a0f8d62c86ed44d87e75d798645cc5839eb2c965.jpg"
+        },
+        {
+          "name": "刺客",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/512900/809142f93a2989fac703fc85709728544c73ec57.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 4817,
+      "total_negative": 229,
+      "total_reviews": 5046
+    }
+  }
+}

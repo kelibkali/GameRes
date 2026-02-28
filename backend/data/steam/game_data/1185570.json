@@ -1,0 +1,89 @@
+{
+  "1185570": {
+    "name": "摇摆火柴人",
+    "steam_appid": 1185570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《摇摆火柴人》是一款基于物理引擎的休闲益智类游戏。<br />\r\n<br />\r\n点击游戏中的红色物体可以将其破坏，同时小人会受到其它不可破坏物体的阻挡，拖拽，以及重力影响。<br />\r\n<br />\r\n玩家的最终目标就是将小人移出屏幕，在此过程中，可能会出现各种魔性的物理碰撞哦。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185570/header.jpg?t=1574997479",
+    "developers": [
+      "Hiddenbutterfly Network"
+    ],
+    "publishers": [
+      "Hiddenbutterfly Network "
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "坠落",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185570/33c2b9e3a92e35ffb11653f42a4940986e5f50ad.jpg"
+        },
+        {
+          "name": "恭喜过关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185570/7cf86fd9d5f94cbc4f65c3d3bb4a97ce6a6600c0.jpg"
+        },
+        {
+          "name": "再接再厉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185570/1f0422261baf1eca6555f9a1ef697e0dead5a267.jpg"
+        },
+        {
+          "name": "破坏王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185570/91ea9ffe32215b659f4c7c3e8d65c90a7f0dd134.jpg"
+        },
+        {
+          "name": "我卡住了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185570/e0c118e1559296731d3f667163fbb8aa5ab8981b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

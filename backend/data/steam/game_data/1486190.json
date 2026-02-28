@@ -1,0 +1,77 @@
+{
+  "1486190": {
+    "name": "StreamSavers",
+    "steam_appid": 1486190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Introducing the first stages of StreamSavers! An idle-clicker game with heavy gacha/collecting and leveling mechanics that sits in your YouTube or Twitch streams! Viewers can interact with Twitch commands and donations.  What will hatch on YOUR stream?<br><br><ul class=\"bb_ul\"><li>Platforms: Windows (In Production: SLOBS App, OS X, Linux, HTML5)<br></li><li>Officially Supported Applications: OBS, Streamlabs OBS.<br></li><li>Streaming Platform Integrations: Twitch Chat</li></ul><br><strong>Instructions</strong><br><br>StreamSavers runs in the background of your stream. Use OBS or Streamlabs OBS to capture the game window, choose &quot;Allow Transparency&quot;, and you're all set! The game is played in its own window, preferably on a second monitor, to not obtrude the game window. Game can be minimized and still show in stream.<br><br><ul class=\"bb_ul\"><li>In OBS or Streamlabs OBS, choose Game Capture, choose the StreamSavers window, and set Allow Transparency to True.<br></li><li>&quot;Alt + Enter&quot; to toggle Fullscreen. (Can be run on second monitor, or in the background.)<br></li><li>Press &quot;S&quot; to save your characters. <br></li><li>Press &quot;L&quot; to load your characters.<br></li><li>A Twitch account/channel is needed to gain full access to the application's features in certain modes like RPG and PVP on Twitch. Idle RPG is playable on other platforms and as a standalone game without audience interactions. </li></ul><br><strong>Game Modes</strong><br><br><strong>Idle RPG</strong> - It's like a piranha tank full of tamagotchi-style heroes. Hatch a starting egg to start your journey. Heroes automatically attack enemies, gain experience, level up, and collect coins. Heroes never die. Twitch viewers can interact by spawning effects, enemies, bosses, and coins though chat commands and donations. Coins can be used to buy additional eggs. <br><br><strong>Endless PVP</strong> - Twitch viewers type !join to drop in with their username as a random character. Players continually attack and destroy each other. Viewers can drop power ups and enemies.<br><br><strong>Battle Royale</strong> - Viewers are given 60 seconds to queue up using !battle. The Battle UFO drops all participants into a PVP-enabled battle royale where only one will be victorious.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486190/header.jpg?t=1667077999",
+    "developers": [
+      "MikeTheTech"
+    ],
+    "publishers": [
+      "MikeTheTech"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

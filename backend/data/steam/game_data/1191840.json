@@ -1,0 +1,117 @@
+{
+  "1191840": {
+    "name": "Legend Creatures(传奇生物)",
+    "steam_appid": 1191840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >概述</h2>《传奇生物》是一款集roguelike+自走棋+策略等玩法的个人小品，你可以收集各种奇幻生物，组成不同的团队阵容，这些生物可以像数码兽一样向不同的分支进化。你还可以拓展生物 mod来实现你的奇思妙想，让各种神奇有趣的生物加入游戏。<h2 class=\"bb_tag\" >生物</h2>生物都有属于他的进化树，进化后保留之前能力的同时还会获得新能力。每项独特的能力都是脚本定制的，并非单纯的数值影响。这些生物可以不断进化，甚至到达隐藏阶级。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191840/extras/65e7aedb8f1b01defe98e53ac6138074.avif?t=1689834992\" width=600 height=361 /></span><h2 class=\"bb_tag\" >装备和天赋</h2>每个生物角色还可以佩戴同样脚本定制的装备，不同的装备，天赋及角色和组合会产生各种连锁协同效果，致胜有奇效。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191840/extras/2045ef3f3afc9064b7fab1d0c9ce795f.avif?t=1689834992\" width=600 height=280 /></span><h2 class=\"bb_tag\" >Mod扩展</h2>开放创意工坊（MOD），玩家可以创造属于自己的生物，装备，天赋等。一张生物图片 加上 简易的api，便可以轻松实现自己奇妙甚至恶搞的生物构想。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191840/extras/e3790519b91174180c2a9b7e5506a81a.avif?t=1689834992\" width=470 height=606 /></span><br><br><br>传奇生物玩家Q群：172860952（反馈 测试）",
+    "supported_languages": "简体中文, 英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191840/header.jpg?t=1689834992",
+    "developers": [
+      "HideChara"
+    ],
+    "publishers": [
+      "HideChara"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1900,
+      "final": 1900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "通关难度0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/7c9c3c540a2009c73a6cfa73cc32a04320b5c5f9.jpg"
+        },
+        {
+          "name": "通关难度1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/46706ebdacba42947ba9c3edf144a0eef8551596.jpg"
+        },
+        {
+          "name": "通关难度2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/da0f100d28f3370b7e2342ed128dfb0af57f9f56.jpg"
+        },
+        {
+          "name": "通关难度3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/1922eda2db0b94f5181d5096679c9ee46b63f51c.jpg"
+        },
+        {
+          "name": "通关难度4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/3f5b2061bf07f1662e46cde74979218a9086749c.jpg"
+        },
+        {
+          "name": "通关难度5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/d6f010942f17fef45e4b3df87f346453d0877345.jpg"
+        },
+        {
+          "name": "进化一个2级单位",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/6807328f95a45e59fe1450bbcfc8c061c3b7a318.jpg"
+        },
+        {
+          "name": "进化一个3级单位",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/9cda430204eee4b3d08ddd391953cdcffa0c3867.jpg"
+        },
+        {
+          "name": "进化一个传说生物",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/174d32fa4f9c2b7839d2e92759c0be1e3dfcdb2d.jpg"
+        },
+        {
+          "name": "金币到达1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1191840/769a04965b48506961df47cb8df4178a883bf0c1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 3268,
+      "total_negative": 348,
+      "total_reviews": 3616
+    }
+  }
+}

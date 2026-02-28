@@ -1,0 +1,48 @@
+{
+  "976330": {
+    "name": "kHED",
+    "steam_appid": 976330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts. I released it back in 2009 as a freeware tool and it was quite popular among Half-Life modding community for being easy to learn and functional enough for the job.<br>Currently I'm using it to make models for my upcoming game Ostriv and planning it to be the major modding tool for my game.<br>I decided to release this updated version of the editor in hope it may be useful for other developers and potentially to fund its further development.<h2 class=\"bb_tag\" >FEATURES</h2><br>kHED lets you create models of any complexity, but mainly designed for low-poly props (under 10k triangles). There's variety of geometry primitives like Plane, Polygon, Box, Sphere, Cylinder, Tube, Torus, as well as procedural tools like &quot;lathe&quot; and &quot;loft&quot;. Texture mapping tool supports planar, cylindrical, spherical projection, and basic unwrapping functions.<br>There's also a powerful UV editor with a handy model preview and ability to export UV map to use as background for texture creation.<h2 class=\"bb_tag\" >Game engines support:</h2><ul class=\"bb_ul\"><li>Import/export Wavefront *.obj files<br></li><li>Import/export Collada *.dae files<br></li><li>Import/export Filmbox *.fbx files<br></li><li>Import Blender *.blend files<br></li><li>Directly import Half-Life (GoldSrc) *.mdl and *.smd files <br></li><li>Directly export to Half-Life *.mdl files (<i>NOTE: you need to have studiomdl.exe from Half-Life SDK</i>)<br></li><li>Export to Ostriv assets (buildings, agents, skeletons)<br></li><li>You can also use Milkshape3D import/export plugins<br></li><li>Wide range of supported texture file formats including PSD, DDS, VTX and many others</li></ul><h2 class=\"bb_tag\" >Difference from old freeware version:</h2><ul class=\"bb_ul\"><li>Texture transparency support<br></li><li>Multisampled rendering (anti-aliasing)<br></li><li>Rigging and animation feature<br></li><li>Ghost mode to see hidden groups<br></li><li>Regroup &amp; Isolate functions don't cancel applied texture<br></li><li>Added various features to create Ostriv assets<br></li><li>UV editor: copy texture map as normal map or height map<br></li><li>Group selection synchronized with a list in groups panel<br></li><li>Moving groups up/down in a list<br></li><li>Fixed some issues with 4K screen resolution<br></li><li>New mode in Polygon Tool: On surface</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/header.jpg?t=1650989578",
+    "developers": [
+      "yevheniy8"
+    ],
+    "publishers": [
+      "yevheniy8"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5400,
+      "final": 5400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 54.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 5 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

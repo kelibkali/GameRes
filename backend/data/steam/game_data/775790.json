@@ -1,0 +1,77 @@
+{
+  "775790": {
+    "name": "Rampage Ragdoll",
+    "steam_appid": 775790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Rampage Ragdoll is a ragdoll fight funny action game.<br />\r\nGame Mode:Single Player Mode and Two Players Mode.<br />\r\nSingle Player Mode：Control the Player1 Ragdoll vs the AI Ragdoll.<br />\r\nTwo Players Mode: Player1 Ragdoll vs the Player2 Ragdoll.<br />\r\n<br />\r\nControl:Support keyboard and xbox controller.<br />\r\nKeyboard control:<br />\r\nplayer1:<br />\r\nTorso Move Up:default keyboard button w;<br />\r\nTorso Move Left:default keyboard button q;<br />\r\nTorso Move Right:default keyboard button e;<br />\r\nTorso Rotate Left:default keyboard button 1;<br />\r\nTorso Rotate Right:default keyboard button 3;<br />\r\nLeft Leg Rotate Left:default keyboard button a;<br />\r\nLeft Leg Rotate Right:default keyboard button s;<br />\r\nRight Leg Rotate Left:default keyboard button d;<br />\r\nRight Leg Rotate Right:default keyboard button f;<br />\r\nplayer2:<br />\r\nTorso Move Up:default keyboard button i;<br />\r\nTorso Move Left:default keyboard button u;<br />\r\nTorso Move Right:default keyboard button o;<br />\r\nTorso Rotate Left:default keyboard button 7;<br />\r\nTorso Rotate Right:default keyboard button 9;<br />\r\nLeft Leg Rotate Left:default keyboard button h;<br />\r\nLeft Leg Rotate Right:default keyboard button j;<br />\r\nRight Leg Rotate Left:default keyboard button k;<br />\r\nRight Leg Rotate Right:default keyboard button l;",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775790/header.jpg?t=1629555164",
+    "developers": [
+      "ijal Studio"
+    ],
+    "publishers": [
+      "HandMade Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

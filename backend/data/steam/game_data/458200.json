@@ -1,0 +1,73 @@
+{
+  "458200": {
+    "name": "Rumpus",
+    "steam_appid": 458200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Rumpus is a live-coding playground for room-scale VR.<br><br>Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.<br><br>Follow along with development at  or find me at .",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/458200/header.jpg?t=1470098745",
+    "developers": [
+      "Luke Iannini"
+    ],
+    "publishers": [
+      "Luke Iannini"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

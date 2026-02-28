@@ -1,0 +1,81 @@
+{
+  "1132300": {
+    "name": "Ribbon",
+    "steam_appid": 1132300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Ribbon 是一个简单的飞行游戏，玩家在有限的空间中飞行，同时避免碰到自己的尾迹或飞出空间。<h2 class=\"bb_tag\" >游戏机制</h2><br>玩家可以在特定的有限空间飞行并在飞行轨迹上生成带状的彩色尾迹，同时避免与空间内的几何体以及与自身尾迹相撞。飞行时间越长，得分越高，同时因为尾迹填满了空间，游戏也会越难。游戏目前有10种不同的地图和4种不同的尾迹纹理。<br><br>同屏多人游戏需要1至2个 Xbox One 控制器。<br><br>游戏还包含自由模式，玩家可以自由飞行而不必考虑碰撞。<h2 class=\"bb_tag\" >游戏控制</h2><br>使用鼠标或手柄摇杆控制飞行方向，使用鼠标左右键或手柄肩键和扳机键控制旋转。使用“ESC”键显示或隐藏游戏内菜单。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132300/header.jpg?t=1567177288",
+    "developers": [
+      "Evade Game"
+    ],
+    "publishers": [
+      "Evade Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

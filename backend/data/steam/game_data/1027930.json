@@ -1,0 +1,69 @@
+{
+  "1027930": {
+    "name": "Keystones",
+    "steam_appid": 1027930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Keystones is a simple game about colors and connections.<br />\r\nAt each level you must find the correct location of each colored key and activate all the links.<br />\r\nEach of the 30 levels follows an elaborate flow to present, beyond the mechanics of the game, ever greater challenges involving logic and creativity, providing a pleasant experience.",
+    "supported_languages": "英语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1027930/header.jpg?t=1665862990",
+    "developers": [
+      "Growing Seed Games"
+    ],
+    "publishers": [
+      "Growing Seed Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Completed Keys",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1027930/7f82db7ee0cb2e39d9b1a409b38dd77914be92d0.jpg"
+        },
+        {
+          "name": "Perfect Tones",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1027930/cd8d27d66d795eda236907c141559fe13a5a6054.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

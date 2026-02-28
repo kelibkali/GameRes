@@ -1,0 +1,82 @@
+{
+  "368650": {
+    "name": "Dark Echo",
+    "steam_appid": 368650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "黑暗笼罩，你必须利用可视化的声音来引导自己通过危机四伏的环境。你发出的声音遇到障碍物会反弹，展现出周围世界的轮廓。用不了多久，你唯一感知世界的方式就会吸引来吞噬声音和心灵的可怕恶魔。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368650/header.jpg?t=1744802387",
+    "developers": [
+      "RAC7 Games"
+    ],
+    "publishers": [
+      "RAC7 Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "逃离黑暗",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368650/403b6632a7c6048ec2472a50e00cb3fd102ed379.jpg"
+        },
+        {
+          "name": "逃离光亮",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368650/f9b40084164255e616380efb24331f0393f11f56.jpg"
+        },
+        {
+          "name": "夺宝猎人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368650/6999c86f5d1aed961e65e230de9fceca7c082c03.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 89,
+      "total_negative": 9,
+      "total_reviews": 98
+    }
+  }
+}

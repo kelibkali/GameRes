@@ -1,0 +1,117 @@
+{
+  "1133200": {
+    "name": "Escape Zolstar",
+    "steam_appid": 1133200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Escape Zolstar</strong> is a metroidvania where you explore, collect powerups, fight enemies, and defeat bosses.  You can play with either a keyboard or a controller and can also change controller mappings.  The game is broken up into many smaller connected rooms, and progress can be seen on the map.  There are multiple powerups to collect, such as water shot, double jump, and extra health.  There are six bosses to fight and a variety of other enemies and obstacles.  There are also three different sections with their own appearance, music, enemies, and bosses.  Do you have what it takes to escape Zolstar?<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/474bcfc152e881e9f128ad3775418d64.poster.avif?t=1626900438\" width=480 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/474bcfc152e881e9f128ad3775418d64.webm?t=1626900438\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/474bcfc152e881e9f128ad3775418d64.mp4?t=1626900438\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/927001b39aa11fd166f8bda0d13316dc.poster.avif?t=1626900438\" width=480 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/927001b39aa11fd166f8bda0d13316dc.webm?t=1626900438\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/extras/927001b39aa11fd166f8bda0d13316dc.mp4?t=1626900438\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133200/header.jpg?t=1626900438",
+    "developers": [
+      "Robert Alvarez"
+    ],
+    "publishers": [
+      "Robert Alvarez"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "First Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/97ca43bde257777c00e86174590f69992dfd4768.jpg"
+        },
+        {
+          "name": "Second Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/50750b7f75d592fbc8fca4f07591c7d2b4f1afb0.jpg"
+        },
+        {
+          "name": "Third Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/6c83a72d0a3ec34fade721c9a05337b3275bddff.jpg"
+        },
+        {
+          "name": "Fourth Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/1d6268634071a0d7f6a54ca0e13598dbf11456b3.jpg"
+        },
+        {
+          "name": "Fifth Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/2b21041d06b3937ca32d56c4f8f0f6319dfcc4c4.jpg"
+        },
+        {
+          "name": "Sixth Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/578f4c0551f3f182a1df56ec589147dd880e6286.jpg"
+        },
+        {
+          "name": "Extra Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/fbe7b4f66f9cd809b73e599fadc37712aad11226.jpg"
+        },
+        {
+          "name": "Max Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/0e1046cf6a816ecfb7e832655f26827626e0c999.jpg"
+        },
+        {
+          "name": "Faster Shots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/8f8acdced5758c1b4fc7019a8dd041353be10346.jpg"
+        },
+        {
+          "name": "Rapid Fire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1133200/051020d58ed1aac98069b2c522b9cec6afb4b61c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

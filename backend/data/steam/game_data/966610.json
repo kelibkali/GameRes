@@ -1,0 +1,56 @@
+{
+  "966610": {
+    "name": "FPS Monitor – hardware in-game & desktop overlays",
+    "steam_appid": 966610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "FPS Monitor tracks your PC's hardware state and displays this information as an overlay in-game. You no longer need to switch to desktop or attach a second display to control your hardware status. FPS Monitor will show all valuable information in-game.<br><br>FPS Monitor is the very first special software tool that not only shows an FPS counter similar to good old Fraps™, but can also display a lot of other parameters. This gives a clear overview of how your hardware is performing while you're gaming.<br><br>FPS Monitor does not require configuration and displays all the most useful information immediately after installation, as well as has a rich functionality for those who prefer to configure everything as he likes.<h2 class=\"bb_tag\" >Core features</h2><ul class=\"bb_ul\"><li>Supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan.<br></li><li>Supports rendering to a desktop widget<br></li><li>Can show detailed real time information about CPU, GPU, RAM, Network, hard drives, etc.<br></li><li>Can show detailed real time information about any other sensor like temperatures, voltages, cooler speeds, etc.<br></li><li>Can show realtime hardware information in various graphical form (2D graph as example).<br></li><li>Hardware alerts - software will warn you in the overlay when your hardware is running in a dangerous state or close to critical.<br></li><li>Of course it can calculate and show actual Frame rate, its min/max/average values, frame time, 0.1%/1% Low FPS values.</li></ul><h2 class=\"bb_tag\" >Convenience</h2><ul class=\"bb_ul\"><li>You can configure the font, size, style, colors and other rendering options for each sensor value right in the program (WYSIWYG).<br></li><li>You can add text, images and filled rectangles and clock in a scene.<br></li><li>You can prepare a set of different scenes and switch between them even during playing game.<br></li><li>You can take screenshots from games.<br></li><li>FPS Lock feature.</li></ul><br>FPS Monitor is compatible with well known anti-cheats: Valve Anti-Cheat, EasyAntiCheat, PunkBuster, BattlEye and many others.",
+    "supported_languages": "英语, 意大利语, 匈牙利语, 韩语, 葡萄牙语 - 巴西, 俄语, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/header.jpg?t=1766346275",
+    "developers": [
+      "Eduard Kozadaev"
+    ],
+    "publishers": [
+      "Eduard Kozadaev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 3640,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 52.00",
+      "final_formatted": "¥ 36.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 9 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 247,
+      "total_negative": 76,
+      "total_reviews": 323
+    }
+  }
+}

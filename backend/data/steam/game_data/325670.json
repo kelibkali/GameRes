@@ -1,0 +1,41 @@
+{
+  "325670": {
+    "name": "CRYENGINE - Wwise Project DLC",
+    "steam_appid": 325670,
+    "required_age": 0,
+    "is_free": true,
+    "description": "The EaaS Wwise Project DLC gives you access to the official Wwise Project used to integrate all Audio in the CRYENGINE SDK levels. <br><br>The project will give a good overview of the possibilities Wwise and CRYENGINE have to offer and shows best practices in how to set up the project structure in Wwise, and to use it together with CRYENGINE's Audio Controls Editor (ACE). <br><br>By installing the Wwise Project DLC you will enable the Audio Controls Editor to display all setup connections between CRYENGINE’s ATL and the Wwise audio middleware. This in turns gives you the freedom to rearrange connections any way you want. Additionally you can use the Wwise Project DLC as a reference to learn how Crytek Audio Designers use Wwise. We hope this will help you on your path to create your own Wwise project running with the new CRYENGINE Audio Translation Layer (ATL).<br><br>Instructions to set up this DLC can be found in the CRYENGINE Documentation.<br><br>Audiokinetic's Wwise Middleware can be used for free in your CRYENGINE projects if you are using a maximum of 200 media assets.<br><br>The folks at Audiokinetic will provide you with a Wwise license that suits your projects requirements, register with them to receive a license, at the link below, they have multiple options that cover scenarios from student academic to AAA.<br> <br><br> <br>If you are not planning to sell your game commercially Audiokinetic is offering a free license for non-commercial projects without media asset restrictions.<br>The Audiokinetic Wwise Non-Commercial License can be used for creating game prototypes, developing freeware or working on academic projects.<br><br>If you later on plan a commercial release of your game and exceed the limit of 200 assets you can purchase an appropriate Wwise commercial license.<br>For more information on this please visit:  If you have questions regarding Wwise licensing  they will gladly answer them.<br><br><br><strong>Legal</strong><br>All Audio content of the Wwise SDK Demo project: Crytek GmbH. All rights reserved. © 2015 Crytek. The Audio Content contained in this project is the property of Crytek. <br>If you would like to have the Original Audio Assets, used as part of the CRYENGINE-Wwise Project DLC, to use or modify for a commercial purpose or public demonstration, please contact Crytek directly.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325670/header.jpg?t=1478096559",
+    "developers": [
+      "Crytek"
+    ],
+    "publishers": [
+      "Crytek"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 10 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

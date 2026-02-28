@@ -1,0 +1,97 @@
+{
+  "562570": {
+    "name": "Access Denied",
+    "steam_appid": 562570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Access Denied is a puzzle game in the world where for storage of personal data are used special device in the form of protected boxes. Imagine yourself in the role of the professional cracker of such devices and test your skills for 36 different levels.",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562570/header.jpg?t=1699005076",
+    "developers": [
+      "Stately Snail"
+    ],
+    "publishers": [
+      "Stately Snail"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/92e7a0c8e1f83e59053ac0aced5095843182e046.jpg"
+        },
+        {
+          "name": "Mittelspiel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/c689775ee7f1616270dfa84234a9dc513628efd9.jpg"
+        },
+        {
+          "name": "Endspiel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/f423042970ba2358aca7282636e80168a4d988a2.jpg"
+        },
+        {
+          "name": "Half Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/ebbd93f23f81fd15404e5ec4fbbcc9a305278dbe.jpg"
+        },
+        {
+          "name": "All Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/3ab1e386b78108a7688998a1720a1fbaecf1589c.jpg"
+        },
+        {
+          "name": "Last Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/96db2878cf66115e635b39c248de53a06e579eec.jpg"
+        },
+        {
+          "name": "I Have Tried",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/562570/0c937c98ccd1efdc491bf1c4da3a7a61677a265b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 19,
+      "total_negative": 8,
+      "total_reviews": 27
+    }
+  }
+}

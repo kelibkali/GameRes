@@ -1,0 +1,121 @@
+{
+  "727460": {
+    "name": "Magic Tower",
+    "steam_appid": 727460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >玩法介绍：</h2>游戏由塔防与逃亡两个部分融合而成。即“消灭所有的怪物”vs“控制怪物逃亡”。<br>目前全部流程共32个回合，每一回合都有“塔防”与“逃亡”的玩法，两个玩法都通过才能进入下一回合。<br>（因为许多玩家不太喜欢强制变成怪物，目前版本默认选择跳过逃亡模式。）<br><br>你不必在“塔防”玩法中消灭所有经过的生物，每回合自动重置5个漏网的机会。<br>你也不必在“逃亡”玩法中拯救所有的同类，当然这样会损失掉一些“能量”。<br><br>每一种炮塔都有自己独特的作用，通过各种炮塔间的搭配达才能到最佳输出效果。<br>每一种怪物都有自己独特的属性，利用炮塔的属性克制方能事半功倍。<br><br>游戏的核心内容在于“能量汲取”。（类似于“小偷”、“掠夺”）。即防御塔的攻击会从怪物身上汲取能量，积攒能量就能建造更多的防御塔。<br>后期怪物血量特别多，没有足够的能量是不足以建起强大的防御的。<h2 class=\"bb_tag\" ><strong>特点：</strong></h2><ul class=\"bb_ul\"><li>你不想玩硬核游戏？作弊码greedisgood。（游戏中按回车键呼出控制台）<br></li><li>你只想玩塔防？作者通道直接跳过“逃亡”部分（按空格键跳出沟壑直接两点一线）。<br></li><li>自动存档，失败后重置当前回合，重新布局。</li></ul><br><i>tips：</i><br>回收升级之后的炮塔会有亏损。<h2 class=\"bb_tag\" ><strong>操作说明：</strong></h2>上帝视角___wasd移动视角，鼠标滚动调整高度，点击空地建塔，点击防御塔查看属性or升级。<br>怪物视角___wasd行走，鼠标控制方向，shitf加速。e,r,f键使用技能。<br>Esc键唤出设置界面，小键盘‘+’、‘-’号调节游戏速度。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727460/header_schinese.jpg?t=1517368180",
+    "developers": [
+      "夕"
+    ],
+    "publishers": [
+      "夕"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "会喷火？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/930fc0ddfd671a3e74feacf735fb3915258f41b1.jpg"
+        },
+        {
+          "name": "电疗",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/ffb29e0949bc0099ddddaae44f8c9c232fa360a5.jpg"
+        },
+        {
+          "name": "相依为gay",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/49bb1c41c6d2802831cc5c6d70476b797821b35a.jpg"
+        },
+        {
+          "name": "什么鬼？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/af92e005d9dfa50783e8914d3e7e43dee7088235.jpg"
+        },
+        {
+          "name": "梵高_向日葵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/4842dd3682b753b1b3a1d2d7e6403d3d6993a92a.jpg"
+        },
+        {
+          "name": "人格分裂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/f32a5583cda899ae75e1ccd3c475ba04c103b30f.jpg"
+        },
+        {
+          "name": "黑衣人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/081d695151fe2eef239f2d9d3fa8d0beeb1bba8b.jpg"
+        },
+        {
+          "name": "RTS老司机",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/eb1672dba653fb8771a1d7642728672aa1544d3d.jpg"
+        },
+        {
+          "name": "主机大佬",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/db050e71e62d56d03ea406127f94616046b050e8.jpg"
+        },
+        {
+          "name": "完整的游戏体验",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727460/34dfaf8cb7489ef49def9d8fabc71933dd61241f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

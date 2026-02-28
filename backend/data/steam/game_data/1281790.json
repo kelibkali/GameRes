@@ -1,0 +1,117 @@
+{
+  "1281790": {
+    "name": "SHEEPO",
+    "steam_appid": 1281790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281790/extras/ec234b87199d0288da33ab05e0e12caf.avif?t=1726250782\" width=600 height=276 /></span><br><strong>Sheepo</strong> is a quirky metroidvania platformer featuring a shape-shifting sheep-thing, who must traverse an uncharted planet in order to collect samples of each living species for an intergalactic species database.<br><br>To capture a creature, Sheepo must find their unhatched egg, which happen to be highly guarded by that species &quot;queen&quot; (aka, a boss.) With each egg Sheepo collects, you then gain the ability to transform into that creature on contact, and explore the deeper reaches of the planets sprawling environment<br><br>Sheepo is a metroidvania, but contains no standard combat. Instead, gameplay is based on platforming and exploration. With the collection of each creature, Sheepo is able to dig, fly, and teleport across an interconnected series of landscapes, uncovering hidden shrines, old ruins, and strange characters.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281790/extras/ec1d655127c9b93c7286ced97490ee00.webp?t=1726250782\" width=600 height=56 /></span><br><ul class=\"bb_ul\"><li>Tight platforming with variety. Play as both Sheepo, and the variety of creatures you come in contact with. Gameplay remains fresh as you consistently learn the moves of each creature<br><br></li><li>Traverse a sprawling landscape with tons of hidden rooms and characters. Explore old mines, an abandoned mall, lush forests, the dingy sewer system, and much more.<br><br></li><li>75+ hidden feathers to collect (the planets currency), which can be spent at the last remaining shop in DeadMall.<br><br></li><li>Non-linear gameplay. Sheepo begins somewhat linearly, but the map quickly opens up to allow you to make your own route.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281790/header.jpg?t=1726250782",
+    "developers": [
+      "Kyle Thompson"
+    ],
+    "publishers": [
+      "Kyle Thompson"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 1480,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 37.00",
+      "final_formatted": "¥ 14.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Fly Away",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/88107cb6c35e0f381715404c585437ca091eb4b9.jpg"
+        },
+        {
+          "name": "Dig Deep",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/b61a26cbe27428a970d747fe528a17716038d2a0.jpg"
+        },
+        {
+          "name": "Rolling Around",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/535e5f80e009172e5dcdb4abaff01dd04b45e01a.jpg"
+        },
+        {
+          "name": "Shrine to Shrine",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/d4c7d5c24c48da78dd3b30392a068ab7ac2d1b5c.jpg"
+        },
+        {
+          "name": "A Sticky Situation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/483630bd4365621a808281208dd4fd0c17ad9647.jpg"
+        },
+        {
+          "name": "Something Strange...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/6e6700c176b00985a6fc1af23b2697bef32e5e03.jpg"
+        },
+        {
+          "name": "Mission Complete!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/e621432ffa4da0d95fd0729ef191871403544873.jpg"
+        },
+        {
+          "name": "Fast Lap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/fb90d59964fa7fd3d61e364ece5c8dbdaf396197.jpg"
+        },
+        {
+          "name": "Sprinter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/3b17181900ddd5cbe1b6d294931a44b44d470473.jpg"
+        },
+        {
+          "name": "Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1281790/45985930a339fca287e7c98cc6fb8a4df6b66a07.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 3,
+      "total_reviews": 24
+    }
+  }
+}

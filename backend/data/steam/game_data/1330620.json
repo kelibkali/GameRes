@@ -1,0 +1,90 @@
+{
+  "1330620": {
+    "name": "WEBCUP.SOCCER",
+    "steam_appid": 1330620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "WEBCUP SOCCER is an <strong>arcade soccer game</strong> with <strong>old-school gameplay, fast-paced graphics, responsive controls, accurate ball physics</strong> and <strong>online multiplayer</strong>.<h2 class=\"bb_tag\" >Features / Roadmap</h2><h2 class=\"bb_tag\" >Online Multiplayer</h2>WEBCUP SOCCER is all about playing online. While, in the beginning, WCS will just offer online play of two players against each other, my goal is to add various additional modes, such as playing with up to 8 (or even 20?) players in any vs/co-op combinations, or join a match as a spectator only.<h2 class=\"bb_tag\" >Fast-paced Gameplay</h2>WCS is not a simulation but an arcade “easy to learn, hard to master” approach to playing soccer on a computer. When designing WCS, it is crucial to me that controls always feel utmost responsive, and that you would never have to wait for any animation/script to finish before your desired action commences.<h2 class=\"bb_tag\" >Responsive Controls</h2>All your beautiful dribbling, passes and goals should be a direct result of you controlling the game, pressing the right buttons at the right time and for the correct amount of time, rather than random effects or pre-scripted events.<h2 class=\"bb_tag\" >“Easy to Learn, Hard to Master”</h2>Simulating the complex player movements, feints, tricks, dribbling and kicks, which are part of real-life soccer, leads to very complex controller layouts with lots of buttons to use and dozens of combinations which are hard to master, requiring a lot of practice and making soccer simulations quite hard to pick up.<br><br>WCS is different. I won’t even try to simulate the complexity of the Beautiful Game. Rather, I concentrate on the bare essentials: dribbling, passing and kicking. That’s why WCS only uses (about) 3 buttons and one stick.<h2 class=\"bb_tag\" >Realistic Ball Physics</h2>The ball being the central piece of the game, it actually was the very first thing I started to implement years ago. It’s essential to me to have authentic, plausible and smooth ball physics, as a backbone of exiting, controllable and fun gameplay.<h2 class=\"bb_tag\" >Strong AI</h2>A powerful and challenging AI is crucible for single player matches or co-op matches against a CPU-controlled team. As the goalies (for now) are always CPU-controlled, their AI code is especially important to me: a strong and plausible goalie behavior is crucial in matches of human players against each other: It’s very frustrating if one’s goalie concedes a goal in a buggy, implausible way — so that’s something I try hard to avoid.<h2 class=\"bb_tag\" >Limited Scope</h2>As a solo indie dev, I do have to limit the scope of the game, otherwise it might take even more years before you could play it...<br>So, please be aware that WCS is all about <strong>simple and casual online matches</strong>. There will be <strong>no</strong> cups, leagues or even a career mode.<br><br><strong>I really hope to create a fun, worth-to-play online arcade soccer game with that old-school vibe!</strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330620/header.jpg?t=1688754272",
+    "developers": [
+      "Thorsten Schleinzer"
+    ],
+    "publishers": [
+      "Thorsten Schleinzer"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

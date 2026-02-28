@@ -1,0 +1,66 @@
+{
+  "1263360": {
+    "name": "vrFit Adventures",
+    "steam_appid": 1263360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Let's Build a Game Together During Social Isolation!:</strong></h2><br>Hi, everyone!  The VR Health Institute is shut down because of COVID19 (all the SFSU labs are closed), and so a group of us inside the project have banded together to experiment with exercise games. We want to work with the VR Fit community to explore interesting exercise ideas in mini-games!  Hackathon, COVID19 style!  So try our free builds, and then give us feedback and ideas - either here or at the r/vrfit subreddit. <br><br>We're calling the project vrFit Adventures, a free platform we're using to explore ideas for exercise games. It will start very small, with an experimental 2D game experience called Reckoning Ave. Our goal is to be simple, fast, fun, and creative.<h2 class=\"bb_tag\" ><strong>Reckoning Ave: COVID! Edition:</strong></h2>The first mini-game in vrFIT Adventures is still in its early stages, ready for us to mold it in almost any direction based on your feedback. Intended to eventually be part multiplayer action game, part puzzle challenge, COVID! Edition is a 2D platformer in VR with 1-to-1 controls between you and your character. Move your head, body, and guns to avoid coming in contact with obstacles, forcing you to move around, squat, and dodge. Use bullet time, your guns, and your teleport ability to save the world from a variety of levels and scenarios.<br><br>Expect the gameplay to evolve rapidly - our goal is to incorporate community feedback as we get it. :)<h2 class=\"bb_tag\" ><strong>Current State:</strong></h2>This build is in a deliberately raw state, with only a single mini-game as a placeholder to build off of. Our goal is to put out a very early build and get quick feedback, and then talk with the VR Fit community to figure out what to add next. Let's take this social isolation and build a game together! The current game is designed to be playable, but not robust. It has probably 5 minutes of typical gameplay that is hopefully fun, and designed to be played repeatedly for a 15 to 30 minute exercise session.<h2 class=\"bb_tag\" ><strong>What is built:</strong></h2><ul class=\"bb_ul\"><li>Dodge mechanics designed for ducking and squatting, laying the groundwork for different difficulties.<br></li><li>Basic gameplay mechanics for dodging<br></li><li>A single gun weapon type<br></li><li>Teleport mechanics<br></li><li>Bullet time<br></li><li>A single boss</li></ul><h2 class=\"bb_tag\" ><strong>What is Still Being Built:</strong></h2><ul class=\"bb_ul\"><li>More bosses<br></li><li>More enemies that force you to move in different ways<br></li><li>Evaluation &amp; Inclusion in the VR Health Exercise App<br></li><li>More gun types<br></li><li>More level designs<br></li><li>Multiplayer support<br></li><li>AI-Perfected Exercise<br></li><li>Difficulty settings</li></ul><h2 class=\"bb_tag\" ><strong>Our Design Beliefs for Any Project We Work On:</strong></h2><ul class=\"bb_ul\"><li><strong>1. Gameplay Comes Before Exercise:</strong> A good exercise experience is fun to play. Never create crap gameplay because it's better exercise.<br></li><li><strong>2. Utilize Our Expertise:</strong> Our expertise is in gaming and exercise, not large development projects. Our focus will be on gameplay and creating fun, engaging, and effective content that is also good exercise. Simple is better than complex. Lots of Unity Store assets so we can make it pretty but not perfect. We are failing if our scope gets too big.<br></li><li><strong>3. Listen to Feedback:</strong> We want to invite the VR and exercise community to participate in building these games together. Do you have ideas you wish you could play while exercising, but not a developer? Feel free to join our Discord and we'll be super enthusiastic to explore. :)<br><br>The trade-off for being able to give small feedback is that the games will be shown off while still being built.<br></li><li><strong>4. AI-Perfected Exercise:</strong> One of the things that has us the most excited about VR and AR exercise is the idea of games that know your physical state, and change on the fly as a result. We'll talk more about this as we build it. But it's going to be really cool. :)<br></li><li><strong>5. Engaging, Long-term Gameplay:</strong> Good exercise comes from consistent use over time, and that comes from engaging gameplay that keeps you connected over time. Explore ways to keep players engaged, through storylines, exploration, diversity, and whatever else we can think of.<br></li><li><strong>6. Explore Creatively:</strong> Don't be afraid to try out things that fail in hope of finding something that unexpectedly succeeds. </li></ul><h2 class=\"bb_tag\" ><strong>How Can You Help?:</strong></h2>We’re glad you asked. This project is both an emerging area of academic research and a passion project for most of the team members. Various graduate students, researchers, companies, and industry experts have contributed time, money, or both during the creation of the VR Health Institute and this mini-project. Here are a few ways you can help us, if you are interested:<h2 class=\"bb_tag\" ><strong>Please try out the game, and give us bug and feature feedback.</strong></h2>Join our Discord channel, listed under the &quot;Forum&quot; external links. Hang out and chat with us.<br>Join the r/vrfit subreddit, listed under the &quot;Website&quot; external links.<br>Let us know ideas that you think would be cool to try.<br>Spread the word. Invite others to the world of VR exercise.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1263360/header.jpg?t=1620079838",
+    "developers": [
+      "VR Health EMPIRE"
+    ],
+    "publishers": [
+      "VR Health Institute"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

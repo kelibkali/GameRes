@@ -1,0 +1,197 @@
+{
+  "4000": {
+    "name": "Garry's Mod",
+    "steam_appid": 4000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Garry's Mod 是一个物理实验场。 与普通游戏不同，这款游戏并没有预定的目标或目的。 我们给您工具，您决定游戏内容。<br />\r\n\t\t\t您可以调出各种对象互相组合，创造新的道具，不论汽车、火箭、投石车还是连名字都没有的机器，一切都由您决定。<br />\r\n\t\t\t如果您对设计工程并不在行，也别担心！ 您还能把许多不同角色放在好笑的地方。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语, 克罗地亚语, 爱沙尼亚语, 希伯来语, 立陶宛语, 斯洛伐克语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1764757984",
+    "developers": [
+      "Facepunch Studios"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 1800,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 36.00",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2006 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "独乐乐",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/b8ce64f366e8a8a1c2aef231cca8ec82f3115d63.jpg"
+        },
+        {
+          "name": "众乐乐",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/d6b5b7ac882b0865415218642cb21bfb5a5fca77.jpg"
+        },
+        {
+          "name": "启动千禧年",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/f4bc0f96a846eeaa63a9ea92d11757b342376374.jpg"
+        },
+        {
+          "name": "暗号",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/f331d3e21b7fc96c8f117787fe3e2d5e26b9952e.jpg"
+        },
+        {
+          "name": "依赖性",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/9d99453c08ea180230b5ad24f904c0749e6ce139.jpg"
+        },
+        {
+          "name": "换图狂魔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/7cb317f7a953204e79a3fc2923aad8eb77df74bd.jpg"
+        },
+        {
+          "name": "不止沙盒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/c1421b7d9609b03bca96bae9abde44da628d20a1.jpg"
+        },
+        {
+          "name": "战争地带",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/88f7f6f51232d0792f70683599a55974b14086d1.jpg"
+        },
+        {
+          "name": "好好先生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/14f07b40867ab5ceb305fa99fc1b112fc96abb14.jpg"
+        },
+        {
+          "name": "没错，我才是真的 Garry！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/b018137e2177a4a1ac63460f8b20757d4e7ef2da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 30753,
+      "total_negative": 1017,
+      "total_reviews": 31770
+    }
+  }
+}

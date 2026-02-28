@@ -1,0 +1,61 @@
+{
+  "224880": {
+    "name": "Equate Game",
+    "steam_appid": 224880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "",
+    "supported_languages": "",
+    "header_image": null,
+    "developers": [],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "1000910": {
+    "name": "Lizard DOS Version",
+    "steam_appid": 1000910,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This DLC adds the DOS Version to your Lizard installation. You can use this to play the game on a DOS machine, or emulator such as DOSBox.<br><br>Required:<br><ul class=\"bb_ul\"><li>DOS<br></li><li>386 or better CPU<br></li><li>4MB RAM</li></ul>Recommended:<br><ul class=\"bb_ul\"><li>486 or better CPU<br></li><li>SoundBlaster<br></li><li>4-Button Joystick</li></ul><br>The downloaded files can be found in the application's &quot;local files&quot; (see properties) in the DOS folder.",
+    "supported_languages": "英语, 法语, 德语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000910/header.jpg?t=1721087691",
+    "developers": [
+      "Brad Smith"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

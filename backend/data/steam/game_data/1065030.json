@@ -1,0 +1,61 @@
+{
+  "1065030": {
+    "name": "模拟家装修",
+    "steam_appid": 1065030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《模拟家装修》，游戏中按照自己的想法，预先装修设计，做出装修DEMO<br />\r\n<br />\r\n在游戏中加载自己房屋的CAD图纸，通过CAD图纸绘制房屋框架，然后摆放门窗家具灯光等<br />\r\n<br />\r\n功能：<br />\r\n1，先设置比例尺，通过网络加载CAD图纸画线<br />\r\n2，生成墙体，墙体可以设置宽度，高度，墙体可以移动，删除<br />\r\n3，生成门窗洞，门窗洞大小可以，设置宽度，高度，离地，边距<br />\r\n4，墙体可以添加不同材质<br />\r\n5，可以设置地板和吊顶<br />\r\n6，摆放门窗，门窗可以移动，大小缩放<br />\r\n7，摆放家具，家具，位置，大小，高度可以调整<br />\r\n8，可以添加灯光，反射效果<br />\r\n9，项目可以保存，关闭游戏后可以加载上次保存的项目<br />\r\n10，游戏里可以第三人称和第一人称，移动到每个角落观看正在装修的房间<br />\r\n11，游戏里可以截取，房间效果图",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065030/header_schinese.jpg?t=1764594493",
+    "developers": [
+      "清风"
+    ],
+    "publishers": [
+      "清风"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 2,
+      "total_negative": 8,
+      "total_reviews": 10
+    }
+  }
+}

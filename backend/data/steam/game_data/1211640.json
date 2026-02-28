@@ -1,0 +1,73 @@
+{
+  "1211640": {
+    "name": "Dead Motherland: Zombie Co-op",
+    "steam_appid": 1211640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "深色，自上而下的合作射击游戏，放置在苏联后僵尸末日场景中。您出现在城市中的随机位置。目标是到达交通工具，您将自己创造道路。下午-寻找资源并建立防御工事。在晚上-消灭死者及其上司。独自玩或合作玩！",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/header.jpg?t=1667149960",
+    "developers": [
+      "DEKLAZON"
+    ],
+    "publishers": [
+      "DEKLAZON"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 3,
+      "total_negative": 2,
+      "total_reviews": 5
+    }
+  }
+}

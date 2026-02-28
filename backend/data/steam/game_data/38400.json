@@ -1,0 +1,57 @@
+{
+  "38400": {
+    "name": "Fallout: A Post Nuclear Role Playing Game",
+    "steam_appid": 38400,
+    "required_age": "15",
+    "is_free": false,
+    "description": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. The Fallout® SPECIAL system allows drastically different types of characters, meaningful decisions and development that puts you in complete control. Explore the devastated ruins of a golden age civilization. Talk, sneak or fight your way past mutants, gangsters and robotic adversaries. Make the right decisions or you could end up as another fallen hero in the wastelands...",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg?t=1572025441",
+    "developers": [
+      "Interplay Inc."
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 4100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 41.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 255,
+      "total_negative": 11,
+      "total_reviews": 266
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "1201140": {
+    "name": "2DTo3DModelEditor",
+    "steam_appid": 1201140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款将多层像素图片转化为3D模型的工具，无需建模技能也能以图片的方式建造您喜欢的三维模型，一款简单易用的像素图片生成模型的工具<br><br>只需要画几张张32*32或64*64的像素图，就可以生成一个像素模型<br><br>一键随机生成房子模型和树木模型<br><br>一键随机生成巴士模型和汽车模型<br><br>一键随机生成墙模型和柱子模型等等<br><br>可帮助非美术专业开发者制作三维模型的快捷工具<br><br>能将建造的模型导出成obj文件，并可将obj导入3DsMax或Maya工具中<br><br>在3Dsmax中使用ProOptimizer优化 ，设置合面参数，例如即可将1000面的模型转成200的模型，在导出使用即可完美解决面数高的问题<br><br>注意：obj模型导入3DsMax,模型要在3DsMax里达到2DTo3D的效果，需要写相应的材质,可以参考相关的物理材质<br><br>上线项目End War RTS 2， 模型使用此工具制作<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/extras/c0f289e7ca1c40c5f8ae27cdee46af3e.avif?t=1680958239\" width=800 height=584 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/header.jpg?t=1680958239",
+    "developers": [
+      "Aurora"
+    ],
+    "publishers": [
+      "Aurora"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 17 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

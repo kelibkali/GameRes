@@ -1,0 +1,85 @@
+{
+  "1020610": {
+    "name": "Apoapsis",
+    "steam_appid": 1020610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><i><strong>Apoapsis is a passion project developed in 18 days. </strong></i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Traverse a large alien world and destroy aliens, bosses, collect items, and [soon to come, more things to do]. I would love to expand on Apoapsis to make it a more complete game, and polish it further. The pricing doesn't reflect the current game, but a larger game in mind.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This can be considered a 15 minute Metroidvania. It is designed so you can rush through it, yet why wouldn't you want to upgrade your health and stamina along the way? The graphics, coding, music and everything is all made by me, XPI Sigma Art.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >What to expect: 4 hidden hp upgrades. 10 hidden stamina upgrades, 3 bosses </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Known bugs:</strong></p><p class=\"bb_paragraph\" ><i>-Collision issues while player gets hurt</i></p><p class=\"bb_paragraph\" ><i>-Monitors with a refresh rate over 60 makes game appear too fast (Fixed!)</i></p><p class=\"bb_paragraph\" ><i>-Game slowdown (displays 60fps, yet doesn't reflect it) </i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>This game won't receive any further support from me, but feel free to follow my itch.io page (search XPISigmaArt)</strong></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020610/header.jpg?t=1750084718",
+    "developers": [
+      "Construct Core Works"
+    ],
+    "publishers": [
+      "Construct Core Works"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Mission Start!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020610/d8596741d09b30331e8a2de403024e6cb5413919.jpg"
+        },
+        {
+          "name": "Mission complete!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020610/b33848db73522805be00a60a7a7dcf9217be34bb.jpg"
+        },
+        {
+          "name": "New Friend",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020610/638de8560e9efc78357fbc5a1f862db4bffc5b73.jpg"
+        },
+        {
+          "name": "Watch Your Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020610/223e10985e14f864653fc3da8fccedc20f1abbec.jpg"
+        },
+        {
+          "name": "Ouchies",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020610/baf62c91790c25613b18f86caf91dcedf1c5c0a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

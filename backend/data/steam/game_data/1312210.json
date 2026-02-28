@@ -1,0 +1,57 @@
+{
+  "1312210": {
+    "name": "Autumn-Chess",
+    "steam_appid": 1312210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "个人制作的单人自走棋游戏模板，实验性质作品，囊括了自走棋游戏的基本要素。棋子自动战斗系统，棋子搬运买卖系统，三合一升级系统，也为游戏增加了金钱管理系统，人口系统和商店系统。但是由于经费不足，怪物设定和ending画面均没做。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1312210/header.jpg?t=1591979775",
+    "developers": [
+      "何劲秋"
+    ],
+    "publishers": [
+      "何劲秋"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

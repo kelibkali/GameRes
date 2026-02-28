@@ -1,0 +1,77 @@
+{
+  "757910": {
+    "name": "Away",
+    "steam_appid": 757910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Away</strong> 是一款短篇游戏，讲述主角临死前的经历，以阴郁的黑白风格呈现。<br><br><strong>特色：</strong>• 阴郁的黑白视觉风格。  <br>• 富有氛围感的音效设计。<br>• Steam 成就。</p>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757910/7a460e6428f11588dd4f37d37529b085399cc3ff/header.jpg?t=1771646912",
+    "developers": [
+      "NipoBox"
+    ],
+    "publishers": [
+      "NipoBox Publishing"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Shine",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/757910/458be5686c4010174397db5622c33b8e86116013.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 7,
+      "total_negative": 0,
+      "total_reviews": 7
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "9010": {
+    "name": "Return to Castle Wolfenstein",
+    "steam_appid": 9010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Return to Castle Wolfenstein》原版发布于2001年，是一款恐怖动作风格的第一人称射击游戏，是《Wolfenstein》系列的重启之作。该作采用《Quake III Arena》引擎，支持单人剧情与多人团队在线模式。<h2 class=\"bb_tag\" >剧情</h2><br>第二次世界大战爆发，国家沦陷。党卫军首领希姆莱得到希特勒的全力支持，意图通过科学和秘仪打造出一支能够一劳永逸消灭盟军的军队。你需扮演美国军队的士兵William “B.J.” Blazkowicz，独自作战，执行一项深入第三帝国黑暗心脏的艰巨任务，阻止或拼死阻止希姆莱。<h2 class=\"bb_tag\" >特性</h2><br><ul class=\"bb_ul\"><li> 体验动作与恐怖兼具的单人剧情。<br></li><li> 使用经典二战及科幻武器。<br></li><li> 与纳粹、不死军团和实验性变异士兵对抗。<br></li><li> 扮演轴心国或盟国角色，参加在线团队多人游戏，完成目标。 </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/header.jpg?t=1664380265",
+    "developers": [
+      "Gray Matter Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 1230,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 41.00",
+      "final_formatted": "¥ 12.30"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 277,
+      "total_negative": 7,
+      "total_reviews": 284
+    }
+  }
+}

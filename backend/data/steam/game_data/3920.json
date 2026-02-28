@@ -1,0 +1,53 @@
+{
+  "3920": {
+    "name": "Sid Meier's Pirates!",
+    "steam_appid": 3920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "称霸加勒比海，抢夺虏掠或是成为私掠船，追逐财富 — 您的生活由您决定。 面对顽固敌人，突袭毫无警觉的村落，追求美丽女孩，逃离法网或是发掘秘密宝藏。 体验成为史上最有名的海盗，究竟是怎么一回事！",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920/header.jpg?t=1568748025",
+    "developers": [
+      "Firaxis Games"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2005 年 7 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 55,
+      "total_negative": 7,
+      "total_reviews": 62
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "864110": {
+    "name": "Trap Defense",
+    "steam_appid": 864110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>描述</strong></h2><br>Trap Defense是一只类塔防益智游戏。在每个关卡中，您需要将陷阱放置在正确的位置以防止球体到达终点。<br><br>在传统的塔防游戏中，就算在同一个关卡里，你也经常不知道下一波会出现什么怪物，这样的设定很多时候都会影响你做出最好的决定。<br><br>在Trap Defense里，你不需要再胡猜乱想。所有敌人和陷阱都会在关卡开始前出现。<br>你只需要集中精力，思考如何把陷阱放在最好的位置来消灭所有敌人。<h2 class=\"bb_tag\" ><strong>游戏玩法</strong></h2><h2 class=\"bb_tag\" >陷阱</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/744a720e302c21ca8c699cd71933c292.avif?t=1751783542\" width=64 height=64 /></span><br><strong>炮台</strong>可以射爆在它前面经过的球体，<br>每次攻击后会有3秒的冷却时间。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/f038781038a761dd66cc66a13218f3bf.avif?t=1751783542\" width=64 height=64 /></span><br><strong>地雷</strong>会在球体经过时触发<br>触发后，3×3格内的所有球体都会被炸爆。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/0d58097a03b3a0ea38817c98ee57d95d.avif?t=1751783542\" width=64 height=64 /></span><br><strong>捕捉陷阱</strong>可以将经过的球体定住1秒。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/d30e1e1c0f687a50e2f420ee60f39de2.avif?t=1751783542\" width=64 height=64 /></span><br><strong>尖刺陷阱</strong>每两秒会向地面放出尖刺，<br>正在经过的球体会被插爆。<h2 class=\"bb_tag\" >敌人</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/003c43d80ff975725de243144e6823c7.avif?t=1751783542\" width=64 height=64 /></span><br><strong>石球</strong>会按照箭头的方向不停滚动到终点。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/c66586c80a25e12cc9c037fabbeecae1.avif?t=1751783542\" width=64 height=64 /></span><br><strong>铁球</strong>是种被一层铁保护住的球，<br>可以挡住任何攻击1次。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/extras/b2a561304b0c417e0e5e221ee21e2d82.avif?t=1751783542\" width=64 height=64 /></span><br><strong>火球</strong>会在被破坏时爆炸，<br>爆炸会炸毁3x3格内的所有陷阱。",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864110/header.jpg?t=1751783542",
+    "developers": [
+      "Mifux Studio"
+    ],
+    "publishers": [
+      "Mifux Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/864110/663fb9219618ab55ad85e2d56c875dcc20f71eef.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/864110/8c3b1a604ada85afb4983acdc5a59d73464a55f9.jpg"
+        },
+        {
+          "name": "Level 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/864110/ec87994486f1f875352a1a7b426176cb479e88f1.jpg"
+        },
+        {
+          "name": "Level 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/864110/2ea2958b676168b83d242f64ec2d02027fcb495b.jpg"
+        },
+        {
+          "name": "Level 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/864110/ce5745a83cbe03814db352b8b2b892b71ccd5dcb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

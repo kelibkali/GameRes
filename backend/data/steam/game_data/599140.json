@@ -1,0 +1,137 @@
+{
+  "599140": {
+    "name": "Graveyard Keeper",
+    "steam_appid": 599140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《守墓人》(Graveyard Keeper) 是有史以来最不正经的中世纪墓地经营模拟游戏。建造和经营自己的墓地，并扩张到其他风险项目，同时寻找削减成本的捷径。使用你可以找到的所有资源。毕竟，这个的游戏的主题是资本精神，还有竭尽全力地经营蒸蒸日上的业务。这也是个爱情故事。<br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/extras/5268ad7d068b83df25436875c7c4bdb6.poster.avif?t=1769510251\" width=634 height=556 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/extras/5268ad7d068b83df25436875c7c4bdb6.webm?t=1769510251\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/extras/5268ad7d068b83df25436875c7c4bdb6.mp4?t=1769510251\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li>在道德窘境中艰难抉择。当你周围到处都散放着丰富的资源时，你确定要为了女巫火刑嘉年华把钱花在用来应景的汉堡夹肉上？<br></li><li>收集宝贵的材料，并制作新物品。扩张你的墓地，打造蒸蒸日上的业务。随便拿 — 收集散落在周围的宝贵资源，探索这片土地的财富。<br></li><li>任务和尸体。这些尸体不需要保留所有器官，对吧？何不磨碎这些器官，然后卖给当地屠夫？也可以继续执行合适的任务，由你来扮演角色。<br></li><li>探索神秘的地牢。无地牢，就不算完整的中世纪游戏！踏上未知领地的旅程，发现新的炼金原料 — 这些原料可能会或不会使附近的所有村民中毒。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 简体中文, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 韩语, 日语, 俄语, 意大利语, 波兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg?t=1769510251",
+    "developers": [
+      "Lazy Bear Games"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 125,
+      "highlighted": [
+        {
+          "name": "新手掘墓人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/54f64095383771d79bf2b9f20849116ae045162e.jpg"
+        },
+        {
+          "name": "高级掘墓人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/9d3a274c423e67d6c70b426034371d5216e246ae.jpg"
+        },
+        {
+          "name": "铲挖大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/5e4d9e44ddc61a254411f3a5b2f0c78ef9843462.jpg"
+        },
+        {
+          "name": "第一片尸肉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/49b97c3f9c1580ccf8c1bad21229f60cb86b7ca3.jpg"
+        },
+        {
+          "name": "生鱼片大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/feaa922dfe8616049d3e5775f867850e91377f42.jpg"
+        },
+        {
+          "name": "民房",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/a3bd9d0a818934a11043f1798bde3119d7719c48.jpg"
+        },
+        {
+          "name": "宅第",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/2738fbf53399ca904cdfafcde1e65077a6c0907e.jpg"
+        },
+        {
+          "name": "一天一条鱼！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/7453a4e9532deaba2d4e241dc9d15259d3ac415b.jpg"
+        },
+        {
+          "name": "鱼类收藏家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/5a4f7399441ceecc4da4e0aef25dab19b6818289.jpg"
+        },
+        {
+          "name": "鱼类学家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/599140/b9fe045b889b9e31b8abadfb06080080188a9b62.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 2067,
+      "total_negative": 749,
+      "total_reviews": 2816
+    }
+  }
+}

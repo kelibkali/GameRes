@@ -1,0 +1,117 @@
+{
+  "296710": {
+    "name": "Monstrum",
+    "steam_appid": 296710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> Monstrum 采用了传统恐怖求生游戏的经典设计，融合了由程序生成的随机关卡，采用了永久死亡机制，添加了由人工智能进行控制的掠食者——在这艘废弃的货船上，没有任何角落真正安全。</strong><br><br>在 Monstrum 中，玩家必须绞尽脑汁，使用沿途能找到的一切道具，躲避猎食者的追捕。即便是最顽强的玩家，也需要在 Monstrum 中拼命求生。玩家需要躲避可能潜伏在任何角落之中的恐怖怪物，从危机四伏的环境中顺利逃生。你能在 Monstrum 的世界中存活下来吗？ <br><br><strong>游戏特色</strong><br><br><u>三只独特的怪物</u>*<br><br>每次游戏中，你都要面对三只怪物中的其中一只。每只怪物都有不同的行动模式与捕猎策略。你能想办法从偷袭或正面攻击中存活下来吗？同样的战术会每次都有效吗？<br><br><u>独一无二的冒险</u><br><br>准备好迎接独一无二的冒险吧。每次游戏时，货船内部的构造都会改变，沿途物品的位置也会发生变化。 <br><br><u>逃脱路线</u><br><br>寻找不同的逃生方法，深入货船内部，收集用来修复货船的物品。 <br><br><u>机遇与险境</u><br><br>采取一切可用手段智胜怪物。你可以藏在储物柜里，或是藏在家具下面。你可以使用诱饵将怪物的注意力吸引到你身上。当然，更好的办法是将怪物的注意力吸引到其它地方。但要当心，千万别跑得太快，否则就会落入货船内不计其数的陷阱之中。 <br><br><u>永久死亡</u><br><br>没有复活机制，一旦在 Monstrum 中死亡，就只能重新开始。不过你可能会切换到其它货船，或者是对付其它怪物。祝你好运，赶紧跑起来吧。 <br><br>*若想了解目前已实现功能相关信息，请详见早期体验版的详细资料。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296710/header.jpg?t=1748505684",
+    "developers": [
+      "Team Junkfish"
+    ],
+    "publishers": [
+      "Junkfish Limited"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 6000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 60.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Got To It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/56ca4b172f7c2f1057a2d246a33b01c102289e6f.jpg"
+        },
+        {
+          "name": "Women and Children First",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/9b27daa21dd7ab355a10e86274fe197b239942c4.jpg"
+        },
+        {
+          "name": "The Hunt for Me is Over",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/1519bf72fc041505b0dd0f051062139d9181c7b3.jpg"
+        },
+        {
+          "name": "Well Done",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/22d86d8ec19c925a768461e26a78898b4226a579.jpg"
+        },
+        {
+          "name": "The Most Dangerous Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/fb9610067510e0ce716202d36e6881e9f464c8dc.jpg"
+        },
+        {
+          "name": "Fiendzoned",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/2841cc019d1486de9b89993d3a9165814e290a8d.jpg"
+        },
+        {
+          "name": "Aim Away From Face",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/f17ae560b0b733710c74a31cb8f68227b911d24d.jpg"
+        },
+        {
+          "name": "Bait 'N' Switch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/f7e867c2c75a31b1940642eaca14febf5f13f3b1.jpg"
+        },
+        {
+          "name": "Steam Won't Connect",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/5d57d4a4d8742ef6f087ba8ce1f36419cb77888d.jpg"
+        },
+        {
+          "name": "I Don't Know What I Expected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296710/ee2f4611059e29e497aa3822c03a6d56bbbccd66.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 241,
+      "total_negative": 15,
+      "total_reviews": 256
+    }
+  }
+}

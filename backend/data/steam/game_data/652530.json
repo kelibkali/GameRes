@@ -1,0 +1,89 @@
+{
+  "652530": {
+    "name": "Potentia",
+    "steam_appid": 652530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A multiplayer sci-fi arena shooter with a heavy emphasis on verticality, meant for playing with friends. It combines fast paced quake-style action with unique and skill based weapons, resulting in a competitive and enjoyable experience. The shoulder mounted movement grenade launcher allows the player to uniquely utilize their environment for both offense and defense by propelling their character through the air off of walls and surfaces. The verticality of the level and gameplay design gives more choice to the player as to how to use cover and the weaponry available to their advantage.<br><br><u><strong>Assault Rifle</strong></u>: Your standard assault rifle. Fully automatic, reasonably accurate, and moderate damage. A rather versatile weapon. Nothing too special.<br><br><u><strong>TR9 Shotgun</strong></u>: A semi-automatic shotgun with a wide spread and high damage at close range. Obviously very inaccurate.<br><br><u><strong>SMG</strong></u>: A small, fast firing, fully automatic submachine gun with relatively high spread and low damage. Meant for close range.<br><br><u><strong>Plasma Crossbow</strong></u>: A crossbow that fires a plasma bolt, very high accuracy and damage at the cost of high recoil and low projectile speed. Meant for medium to long range engagements.<br><br><u><strong>DMR</strong></u>: A long range, accurate rifle that sacrifices damage for higher fire rate and projectile speed over the crossbow. Comes equipped with a scope.<br><br><u><strong>Plasma Rifle</strong></u>: One of the more unique weapons. As it is fired, its fire rate and accuracy increases in a somewhat minigun-like fashion. It has no reload, but instead regenerates ammunition when not fired. Relatively low damage, but highly versatile and dangerous in the right hands.<br><br><u><strong>Railgun</strong></u>: A pick-up, it has extremely high damage, accuracy, projectile speed, and recoil, but charges up before fired, forcing the player to predict their enemy's movements. Comes with a scope.<br><br><u><strong>Movement Grenade Launcher</strong></u>: A small, shoulder mounted grenade launcher that fires a movement grenade. It deals no damage, but pushes objects away from it, including players. This allows the player to use it in clever ways, such as propelling them accross the map quickly or pushing enemies away from them.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652530/header.jpg?t=1499151871",
+    "developers": [
+      "Influx Interactive"
+    ],
+    "publishers": [
+      "Influx Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "You're Learning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652530/4ad11f427379dc5d30172330c8b13c047688a5d9.jpg"
+        },
+        {
+          "name": "Murderer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652530/f091075b2eef228705250e9107fd8d241dad2d9b.jpg"
+        },
+        {
+          "name": "Serial Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652530/f8266f879c0959b09cf26fb9b2d3c9c692dc916f.jpg"
+        },
+        {
+          "name": "Genocide",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652530/0ed2f912dcaf489d148d6376a3009da194a2fe66.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

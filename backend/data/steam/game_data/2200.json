@@ -1,0 +1,73 @@
+{
+  "2200": {
+    "name": "Quake III Arena",
+    "steam_appid": 2200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Quake III Arena》是一款广受赞誉的多人竞技场第一人称射击作品，由id Software开发，并于1999年发售。<br><br>*《Quake III Arena》现包含游戏本体和《Quake III: Team Arena》扩展包。<h2 class=\"bb_tag\" >欢迎来到竞技场</h2><br>古往今来的最强勇者们应召参战，为一个古老的外星种族带来娱乐。这款快节奏的第一人称多人射击游戏在高科技哥特式竞技场中展开，需要玩家拥有出众的个人实力，掌握各种枪械和道具，与无情的对手作战，争夺荣誉。<br><br><ul class=\"bb_ul\"><li>在至多16名玩家的竞技场中进行快节奏战斗<br></li><li>离线单人模式下可与AI控制的机器人战斗<br></li><li>各种令人兴奋的游戏模式，包括全部免费（FFA）、团队死亡竞赛（TDM）、锦标赛（1v1）和夺旗（CTF）<br></li><li>体验二十五个独特的哥特风格高科技竞技场<br></li><li>使用十二种强有力的独特武器</li></ul><h2 class=\"bb_tag\" >《Team Arena》扩展包</h2><br>《Quake III Arena》的官方团战扩展包可让玩家从五种角色中选择（堕落者、异教徒、十字军、入侵者和Strogg），争夺霸权。玩家需要熟悉角色在各种新模式和竞技场中的优势和劣势。曾经孤身奋战的勇士现在需要组队配合，参与竞技场的角逐。<br><br><ul class=\"bb_ul\"><li>体验全新的单人锦标赛模式<br></li><li>探索三个新模式：单旗夺旗、过载和收获者<br></li><li>体验二十个全新竞技场<br></li><li>与四种新AI机器人对战：Pi、Fritzkrieg、Janet和James<br></li><li>使用三种全新枪械：火神炮、钉枪和感应火箭筒<br></li><li>两种全新强化道具：自爆弹和无效之盾，以及四种夺旗专用符文：斥候、倍压器、守卫和补给。</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1664229254",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "id Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6200,
+      "final": 6200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 62.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 51,
+      "total_negative": 2,
+      "total_reviews": 53
+    }
+  }
+}

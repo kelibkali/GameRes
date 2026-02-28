@@ -1,0 +1,53 @@
+{
+  "1384020": {
+    "name": "Ovrlay - VR Discord Notifications",
+    "steam_appid": 1384020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "See your discord notifications inside of VR in a non-intrusive popup. Never take off your headset to find out it was just another @everyone again!<br><br><ul class=\"bb_ul\"><li> Connects to your local Discord app<br></li><li> One-time setup (instructions displayed on Startup)<br></li><li> Follows your Discord notification settings</li></ul><br>Automatically run Ovrlay when you are in VR by going to SteamVR &gt; Settings &gt; Startup / Shutdown &gt; Choose Startup Overlay Apps.<br><br>Requires SteamVR.<br><br>Ovrlay is in active development. We'd love to hear comments or feedback you have!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384020/header.jpg?t=1637142532",
+    "developers": [
+      "Synth Software LLC"
+    ],
+    "publishers": [
+      "Synth Software LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

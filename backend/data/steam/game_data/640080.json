@@ -1,0 +1,54 @@
+{
+  "640080": {
+    "name": "Vrifier",
+    "steam_appid": 640080,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Vrifier is a 3D model &amp; data viewer for extended realities with built-in optimization and export for large models and datasets. Vrifier is designed to handle large and complex meshes. Interface is customized for quick and easy 3D viewing for both professional and casual use.<h2 class=\"bb_tag\" ><strong>MAIN FEATURES</strong></h2><h2 class=\"bb_tag\" >Control the optimization process</h2> Import large models and define how you want to optimize the model for viewing in virtual and augmented reality.  Vrifier gives you the control to create multiple simplified versions of your models.<br> <h2 class=\"bb_tag\" >Progressive point cloud loading</h2> Vrifier’s support for progressive loading of point clouds makes it possible to bring over 8 billion points to be viewed in virtual reality.<br>(While using the Potree format)<h2 class=\"bb_tag\" >Viewpoints</h2> Save viewpoints to your models and easily navigate back to them whenever you want.  Create presentations of important locations to show others.<h2 class=\"bb_tag\" >Wide import file formats support</h2> Current officially supported file formats include .obj, .fbx, .ifc, .stl, .ply and .xyz.  <br>Many other formats can also be imported, but import quality has not been confirmed.<h2 class=\"bb_tag\" >Export optimized models</h2> Optimized models can be exported from Vrifier for later use. Currently Vrifier supports exporting models in standard .obj and .fbx, as well as instantly loading proprietary formats .vrf and .vrx.<h2 class=\"bb_tag\" >Cross-platform support</h2> Vrifier works currently with HTC Vive, Oculus Rift and Windows Mixed Reality headsets.<h2 class=\"bb_tag\" >Co-creation model</h2>Some features are developed to meet the demands of the industry on request;<br><ul class=\"bb_ul\"><li> <u>Teatime Photogrammetry Toolkit</u> (DLC) with <strong>the Department of Geosciences and Geography, University of Helsinki, Finland</strong>.<br></li><li> <u>Scene customization and kiosk mode features</u> with <strong>3DVisLab, University of Dundee, Scotland UK</strong>.</li></ul>Organizations are encouraged to get in touch and guide our features to meet their needs through our co-creation partnership program.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640080/header.jpg?t=1594314959",
+    "developers": [
+      "Teatime Research Ltd."
+    ],
+    "publishers": [
+      "Teatime Research Ltd."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

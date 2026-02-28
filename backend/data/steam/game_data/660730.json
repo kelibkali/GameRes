@@ -1,0 +1,83 @@
+{
+  "660730": {
+    "name": "Ventura Inc",
+    "steam_appid": 660730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Ventura Inc</strong> is an economic simulation in a consistent multiplayer world. (MMO)<br>As a player you'll be running a company, signing contracts with other players involving the exchange of goods and services.<br>In this simulation, you are, just like in the real world, doing business with other player companies to make your profit. <br>It is possible to choose who you deal with and who's pricing you'll try to undercut. There are different business branches available from where you can make your money:<br><ul class=\"bb_ul\"><li>Oil Refinery<br></li><li>Transportation<br></li><li>Storage<br></li><li>Farming<br></li><li>Banking<br></li><li>Power Plants<br></li><li>...</li></ul>Key to avoiding bankruptcy is making sure you run your business more cheaply than that of your opponents. (Signing better deals)<br>Most of the branches need other branches to function. As an example: to generate power you have to rely on storage as well as oil transported to your power plant. Someone will also need to build your power plant for you (someone with a construction branch).<br><br><strong>Ventura Inc</strong> wants to bring you a game in wich you can play with your friends , work in team, communicate, trade and get rich.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/660730/header.jpg?t=1527842853",
+    "developers": [
+      "Ben Strijbos"
+    ],
+    "publishers": [
+      "Ben Strijbos"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6700,
+      "final": 6700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 67.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

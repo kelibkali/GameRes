@@ -1,0 +1,89 @@
+{
+  "1599270": {
+    "name": "Crazy Race",
+    "steam_appid": 1599270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Crazy Race is a fast-paced arcade racing game with low poly graphics and great physics. Enjoy the dizzying ride! In the classic race, you will find 12 tracks with sharp bends and straight sections for a comfortable ride.<br />\r\n<br />\r\nEnjoy the classic game as well as new modes: &quot;City Driving&quot; and &quot;Physics Drive&quot;.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599270/header.jpg?t=1619195666",
+    "developers": [
+      "Dani Gas"
+    ],
+    "publishers": [
+      " Louie Inc"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 480,
+      "discount_percent": 20,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 4.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Start the game.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1599270/5b582a6f9cf6f206a04159345c2461375d085aa0.jpg"
+        },
+        {
+          "name": "Complete all tracks!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1599270/82fadce957c7edb544eba9e443fed2428069b1ff.jpg"
+        },
+        {
+          "name": "Start Physical Ride!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1599270/92f90c1f52d0fac24a99e7e5230bed41cd51ca2d.jpg"
+        },
+        {
+          "name": "Start City Driving!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1599270/f0c0809c6662007b23be148cb03c99f20bdd1ae5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "1264110": {
+    "name": "Simplode Suite - Borderless Fullscreen",
+    "steam_appid": 1264110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "包括无边界全屏功能，该功能使您可以将通常不支持无边界全屏模式的某些程序和游戏强制变为无边界全屏。此功能也可以在“免费选择”软件包中作为选择使用。<br>该产品以英语提供本机版本，但是它具有针对大多数主要语言的自动翻译。<br>内容：无边框全屏  (⇱⇲)<h2 class=\"bb_tag\" >无边框全屏  (⇱⇲)</h2>尝试使当前窗口成为无边界全屏窗口。<br><ul class=\"bb_ul\"><li>警告：可能导致某些程序出现图形故障，甚至可能导致功能故障。您应该先保存工作，然后才能在应用程序上首次尝试。</li></ul>设定：<ul class=\"bb_ul\"><li>无边界全屏互动调整 (默认: 真正)<br>有些程序在检测到它们处于无边界全屏模式时，会尝试变得更聪明并执行某些操作。以我的经验，这些事情通常是有害的。这种调整会将像素设置为1，在我看到的情况下可以避免这种情况。如果您使用的程序在没有此调整的情况下运行良好，则可以将其关闭以更接近像素完美度。<br></li><li>无边界全屏全窗口修复 (默认: 假)<br>启用后，无边框全屏将不会尝试删除边框，而是会以使边框在屏幕外的方式尝试调整程序大小。某些程序尝试与正常模式抗争，但启用此功能后将起作用。<br></li><li>无边界全屏跨度所有屏幕 (默认: 假)<br>使用无边框全屏功能时，跨所有屏幕。<br></li><li>无边界全屏水平过扫描 (默认: 1)<br>切换到无边框全屏时，尝试以该比率水平过扫描/欠扫描。某些程序可能会抵制过扫描，但欠扫描应更频繁地工作。<br></li><li>无边界全屏垂直过扫描 (默认: 1)<br>切换到无边框全屏时，尝试以该比率垂直过扫描/欠扫描。某些程序可能会抵制过扫描，但欠扫描应更频繁地工作。<br></li><li>无边界全萤幕锁定 (默认: 真正)<br>启用后，设置为无边框全屏的程序将在更改后自动重置为全屏。这对于某些出于奇怪原因更改其大小和位置的应用程序很有帮助。您需要关闭无边框全屏才能解锁。</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264110/header.jpg?t=1606274892",
+    "developers": [
+      "Simplode LLC"
+    ],
+    "publishers": [
+      "Simplode LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1400,
+      "final": 1400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 14.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

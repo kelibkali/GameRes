@@ -1,0 +1,89 @@
+{
+  "1117520": {
+    "name": "G.A.C.K. - Gaming App Construction Kit",
+    "steam_appid": 1117520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "G.A.C.K. started as a competition entry to build a S.E.U.C.K. remake, based on the C64 original. Since then, many changes have been added so the workflow is easier to understand and more comfortable. With the current version G.A.C.K. is a lot more than just a remake. It's a fully featured game maker with export options for many target platforms.<br>With this App you can create games that can be played by a single person or with two players simultanously on devices that allow multiple controls.<br>You should be able to distribute your game to many platforms.<br><br><strong>Features</strong><br>GACK has a GUI that is much easier to use with a mouse or touchscreen than with a joystick back then. OK, the Amiga version had that, too, but then there was a very hard limit on visible sprites. That's gone, too. You can produce the enemy occurrence you're used from games like &quot;WarBus&quot; easily on modern hardware.<br>Did I mention this baby has pixel perfect collisions for everything?<br>You can spawn attack waves at different visible trigger-positions, thus entering one wave, make ten enemies fly the same route.<br>The levels can scroll sideways, too. They start at the bottom and move upwards, but when you make them wider than the screen, the players can move sideways, causing the screen to scroll.<br>Options for horizontal scrollers and jump&amp;run games have been added as well.<br>The image and animation editors have copy/paste support and some other useful features.<br>Saved game files are astonishingly small, too. (At least for this century).<br><br><strong>How does it work?</strong><br>Basically you just draw images as &quot;Sprites&quot;, that's everything that moves, and &quot;Backgrounds&quot;, that's - yes - what not moves.<br>Next, you define how the animations for each player or enemy would look like.<br>Then you use the map editor to paint the levels on 2 layers. The background is just for show. The foreground can optionally stop the players, or kill them.<br>After the scenery is set, you simply add a bunch of baddies, save the game and heat the triggers.<br><br><strong>And then?</strong><br>You can export your game as a standalone game. We also have experimental export to HTML5 and configure an Android-Studio project for you.<br>This way, you can share your games with friends or even sell them on an online store. Will we see your game on STEAM? How cool would that be.",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/header.jpg?t=1567112794",
+    "developers": [
+      "Gernot Frisch"
+    ],
+    "publishers": [
+      "Dream Design Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

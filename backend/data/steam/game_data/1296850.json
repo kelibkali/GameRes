@@ -1,0 +1,62 @@
+{
+  "1296850": {
+    "name": "//HEX Demo",
+    "steam_appid": 1296850,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Welcome to The //HEX demo.<br />\r\n<br />\r\nSo you've decided to ditch the straight and narrow, and try your hand at hacking?<br />\r\nWell, it just so happens that we have the perfect job for a noob like you.<br />\r\n<br />\r\nThe Central bank of Bech is currently busy switching over to a new IT service provider, which means that this is the perfect time to execute a cyber attack.<br />\r\nYou have a small window of opportunity, so you'll have to be quick, and keep your wits about you.<br />\r\n<br />\r\nThis bank contains two security measurement flaws; namely the Injection and Force nodes, leaving 2 open vulnerabilities for you to bypass in order to withdraw the recommended funds to your account.<br />\r\n<br />\r\nYour role as //HACKER consists of the following:<br />\r\n<br />\r\n//INJECTION NODE<br />\r\nConnect a path from our output to the target machine's input ports in order for control to inject the SQL code.<br />\r\nYou will have to rotate pieces and inform your //CONTROL where the missing pieces are that they need to fill.<br />\r\nAfter which you have connected all the pipes with no visible 'leaks' that may cause data loss, you may inform your //CONTROL that they may initiate the attack.<br />\r\n<br />\r\n//FORCE NODE<br />\r\nUse your brute force skills to pass in possible passwords into the login's password input.<br />\r\nWait for further instructions from your //CONTROL whom is calculating the probability of each password.<br />\r\nWhen the correct password has been revealed you may continue with the final step.<br />\r\n<br />\r\n//TRANSFER<br />\r\nHere you should start the Revenue Transfer Protocol (RTP), where the available funds in the bank will be transferred to your account.<br />\r\nBut don't sit back and watch the cash role in just yet, as some of the portpipes will be traced.<br />\r\nIf a portpipe gets traced while there is data flowing through, it will cause the pipe to be closed and essentially 'break', making the pipe useless for the rest of the RTP.<br />\r\nYou'll have to listen to your //CONTROL to know which pipes need to be manually closed before the trace has begun. <br />\r\nAwait on your //CONTROL to inform you when the RTP needs to be stopped to not pass the detection threshold.<br />\r\n<br />\r\nYour role as //CONTROL consists of the following:<br />\r\n<br />\r\n//INJECTION NODE<br />\r\nAwait instructions from your //HACKER in which location they require a connection piece in order to establish a valid connection.<br />\r\nAfter which you have to inject the SQL commands.<br />\r\n<br />\r\n//FORCE NODE<br />\r\nEvery time your //HACKER tries to input a possible password, you will receive a packet containing the password along with a probability percentage.<br />\r\nThe packet can be calculated to retrieve a list of passwords containing the correct letters in reference of the packet's password.<br />\r\nOn receiving a high probability chance the list of passwords should be small enough for the //HACKER to Brute Force the login.<br />\r\n<br />\r\n//TRANSFER<br />\r\nOnce the //HACKER has initiated the RTP, you will be notified on white portpipes will be traced.<br />\r\nYour job is to inform the //HACKER which pipes they need to close to not get traced.<br />\r\nYou are as well responsible for informing them when to stop the RTP as it nears the threshold.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296850/header.jpg?t=1712080442",
+    "developers": [
+      "Solis Studios"
+    ],
+    "publishers": [
+      "Solis Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

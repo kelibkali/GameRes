@@ -1,0 +1,81 @@
+{
+  "941970": {
+    "name": "Devil May Cry 5 - 200000 Red Orbs",
+    "steam_appid": 941970,
+    "required_age": "18",
+    "is_free": false,
+    "description": "可取得游戏道具「红魔魂石」200,000个。<br />\r\n<br />\r\n能用以取得玩家角色的技能和提升各种能力，以及复活角色。<br />\r\n<br />\r\n※追加内容将会反映到标题画面上。<br />\r\n※红魔魂石的最大可持数量为「99,999,999」。如已达上限，将不会再增加。<br />\r\n※不会算进「成就」之中。<br />\r\n※游玩「Bloody Palace」时并不会反映。<br />\r\n<br />\r\n※购入的红魔魂石将会保存于存档。如删除存档，已购入的红魔魂石亦会消失，敬请留意。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 波兰语, 俄语, 简体中文, 繁体中文, 日语<strong>*</strong>, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941970/header.jpg?t=1702626771",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 1000,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 20.00",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

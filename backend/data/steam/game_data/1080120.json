@@ -1,0 +1,65 @@
+{
+  "1080120": {
+    "name": "FinalAdventure",
+    "steam_appid": 1080120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Partir à l'aventure... Un étrange phénomène est survenu suite à la collision d'une comète...<br>Faite équipe avec des personnages que vous allez rencontrer au cours de votre périple.<br>Saurez vous sauver ce monde avant qu'il ne meure ?...<br><br>Final Adventure et un jeu RPG 2D [Role Playing Game].",
+    "supported_languages": "法语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/header.jpg?t=1559305049",
+    "developers": [
+      "Dupeyron"
+    ],
+    "publishers": [
+      "Dupeyron"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

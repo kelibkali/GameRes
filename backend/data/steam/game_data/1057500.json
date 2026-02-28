@@ -1,0 +1,81 @@
+{
+  "1057500": {
+    "name": "Sim 4K VR MediaPlayer",
+    "steam_appid": 1057500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A high-performance VR media player that can play media files greater than 4K. <br>If you have a high-performance GPU, you can play files with a QUHD (7680 × 4320) resolution.<br>I thought a lot about VR for convenient operation.<br>If there's anything uncomfortable, please leave a message on the bulletin board and I'll check it out.<br><br><strong>Features include:</strong><br><br>1. Support for GPU hardware-accelerated video decode (.mkv does not support GPU hardware-accelerated)<br>2. Control screen size and location and color<br>3. Control the size and location of subtitles<br>4. File bookmark  <br>5. Folder bookmark <br>6. Equalizer Control Sound<br>7. Reset Control Panel Position<br>8. Anti-aliasing Control<br>9. Control Up-Scaling Adjustments<br>10. Explorer Support Files<br>11. Supports keyboard input<br>12. VR Controller Input Support<br><br><br><strong>Media features include:</strong><br><br>1. 2D, 3D, 180°, 360° video support.<br>2. 3D Stereoscopic image Side-By-Side, Top-Down support.<br>3. Supports UHD 3840 × 2160, QUHD 7680 × 4320 video.<br>4. Supports .3g2 .3gp .3gp2 .3gpp .ac3 .aif .aifc .aiff .amr .au .avi .bwf .caf .cdda <br>.m4a .mp4v .mov .mp3 .mp4 .qt .sdv .snd .wav .wave formats<br>5. Support for .Srt .Smi subtitles <br><br>(cautions related to subtitles)<br>If the folder path and file name are not English, the subtitle file can not be read. Always run in English.<br>If the name of the subtitle file is the same as the name of the media file, the subtitle is recognized automatically.<br>When a subtitle file is run, it automatically plays the media if there is a media file with the same name.<br><br><strong>Input guide</strong><br><br>Mouse input support<br><br>Keyboard Input <br>Space Bar: Stop/Play Video<br>Directional keys left and right =Back/forward of the image<br>Up and down the arrow<br><br>VR Controller<br>Pad Left and Right = Back/forward of the image<br>Up and down the pad=Small/Large, Scrollup/down in File Explorer<br>Trigger = Click/Hide Menu<br><br><strong>FolderHow to Create Shortcuts</strong><br>When you click the folder icon in the File Explorer, the folder shortcut icon is added.<br><br><strong>Updated in the future</strong><br>theater background<br>YouTube 2D, 3D, 180°, 360° video support.<br><br><br><strong>known issue</strong><br>chaperone is an internal function of the StramVR.<br>Internal access is not available at this time for safety reasons.<br>Other existing VR programs were developed with the old version of Openvr SDK and removed the chaperone.<br>However, it is not possible to remove the chaperone at this time.<br><br>However, there is a way to bypass the circular chaperone while sitting down.<br>The contents are as follows.<br>Run the setup in SteamVR.<br>In the Developer entry, click the Quick Adjust button in Room and Tracking .<br>The circular chaperone is then changed to a boxed chaperone and the circular chaperone is invisible.",
+    "supported_languages": "英语, 韩语, 德语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057500/header.jpg?t=1566359749",
+    "developers": [
+      "SimppleGames"
+    ],
+    "publishers": [
+      "SimppleGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Rain down on",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1057500/1d6e6bc3b6aabf8e17621ac4b25401e9181cd62f.jpg"
+        },
+        {
+          "name": "2k Media Play!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1057500/57705ebde3433b76b3a83adffb9ce5c78476d613.jpg"
+        },
+        {
+          "name": "4k Media Play!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1057500/45e1100671b836ecf8aec93f0583f087281cdbe3.jpg"
+        },
+        {
+          "name": "8k Media Play!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1057500/f4daed02eae32b17925a6e9961259ac755de50a4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

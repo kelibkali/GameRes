@@ -1,0 +1,137 @@
+{
+  "206190": {
+    "name": "Gunpoint",
+    "steam_appid": 206190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Gunpoint is a stealth puzzle game that lets you rewire its levels to trick people. You play a freelance spy who takes jobs from his clients to break into high security buildings and steal sensitive data.<br><br>To get past security, you'll need to make creative use of your main gadget: the Crosslink. It lets you see how all the security devices in a level are wired up, and then you can just click and drag with the mouse to wire them differently. So you can connect a lightswitch to a trapdoor, then flick it when a guard walks across to make him fall through.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li> Rewire levels to work however you want<br></li><li> Trick guards into trapping themselves or shooting each other<br></li><li> Throw yourself - and others - through plate glass windows<br></li><li> Investigate a noir-inspired story of murder and espionage over 20 missions<br></li><li> Choose what to tell your clients, including lying to trick them<br></li><li> Choose your own playstyle: quick, quiet, non-violent, no living witnesses, or any combination<br></li><li> Discover new solutions to levels that no-one else has thought of<br></li><li> Buy specialist gadgets to suit how you want to play<br></li><li> All story stuff is skippable<br></li><li> Hardest puzzles are optional<br></li><li> No bosses - everyone dies in one shot, including you</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/header.jpg?t=1724172937",
+    "developers": [
+      "Suspicious Developments"
+    ],
+    "publishers": [
+      "Suspicious Developments"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 6 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 42,
+      "highlighted": [
+        {
+          "name": "Cat Burglar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/a1c9f1c8a615ae914df6d60f07f1daf30176dba0.jpg"
+        },
+        {
+          "name": "On The QT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/0334180a0f22c8f72cd0e81311db20e4616bfe20.jpg"
+        },
+        {
+          "name": "Not Really A Prank, Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/ca6c90c2f109215d19170997a20cb3a3598fe5b2.jpg"
+        },
+        {
+          "name": "Crossfire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/118f9fdd836b68c6a9ee8f29081a4d33ed3352b0.jpg"
+        },
+        {
+          "name": "Title Finally Relevant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/3845a45c3d3d49823979b937c28b12415490f6f5.jpg"
+        },
+        {
+          "name": "Breaking And Entering",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/7f1fbb92d858ddc3fe5e311ea04b78c96d19e875.jpg"
+        },
+        {
+          "name": "Low Flying Doors",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/6e299a54568af57880557a37fe054cc7b5dc0dcd.jpg"
+        },
+        {
+          "name": "Might As Well Have An Achievement For That Too",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/da7a96521034208d63ce404ef9f924b2cb4ccfe8.jpg"
+        },
+        {
+          "name": "Open Door Policy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/daf95ca9735d975056cfa50dc051a318dfe68955.jpg"
+        },
+        {
+          "name": "So This Is Why People Don't Like Me",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206190/d93da061a1b929054fb4f614c5696fc6174aaf51.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 172,
+      "total_negative": 11,
+      "total_reviews": 183
+    }
+  }
+}

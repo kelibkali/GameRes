@@ -1,0 +1,81 @@
+{
+  "511600": {
+    "name": "Space Jones VR",
+    "steam_appid": 511600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏简介：<br />\r\n星际浪子是VR第一人称射击游戏。时值人类太空殖民大扩张时期，玩家扮演的赏金猎人意外获得一块被称为“星盒”的神奇宝贝，导致被不同的星际海盗势力盯上，进而展开一场大战。玩家必须消灭蜂拥而至的海盗飞船！<br />\r\n<br />\r\n游戏特点<br />\r\n体感飞行：用身体移动操控飞船移动方向，躲避激光、导弹和各种障碍物<br />\r\n体感机炮：用体感手柄操作两个机炮对的敌人进行360°全方位的打击（同时也支持手柄模式）<br />\r\n赏金猎人：不断完成击毁任务，获得赏金，名利双收<br />\r\n改装飞船：升级和解锁新武器，选择你喜欢的武器修理敌人<br />\r\n超级武器：导弹、激光、子弹时间、超级加速等特殊装备<br />\r\n丰富的关卡剧情：从小规模的空战到以一人之力面大小战舰组成的舰队<br />\r\n<br />\r\n<br />\r\n后续<br />\r\n<br />\r\n将增加多语种支持<br />\r\n将陆续支持其他VR设备",
+    "supported_languages": "英语<strong>*</strong>, 日语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/511600/header.jpg?t=1513307558",
+    "developers": [
+      "VikingVRStudio"
+    ],
+    "publishers": [
+      "VikingVRStudio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/511600/0a452e5df0cb03339e964983309969c31e7cf6d2.jpg"
+        },
+        {
+          "name": "Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/511600/0a452e5df0cb03339e964983309969c31e7cf6d2.jpg"
+        },
+        {
+          "name": "Interstellar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/511600/0a452e5df0cb03339e964983309969c31e7cf6d2.jpg"
+        },
+        {
+          "name": "Orbiter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/511600/0a452e5df0cb03339e964983309969c31e7cf6d2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 2,
+      "total_negative": 3,
+      "total_reviews": 5
+    }
+  }
+}

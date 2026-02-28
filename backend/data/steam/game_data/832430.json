@@ -1,0 +1,117 @@
+{
+  "832430": {
+    "name": "Electric Dreams",
+    "steam_appid": 832430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A collection of half-finished projects, minigames, and tech demos that aren't complete or interesting enough to justify releasing on their own, but may be interesting in aggregate.<br />\r\n<br />\r\nCurrent Dreams include:<br />\r\nThe MicroDream Arcade - A collection of minigames (currently 11), some common, some uncommon. Try Bartending, Block Breaking, Fruit Catching, Lights Out-ing, Mail Sorting, Minesweepering, Number Combo-ing, Pattern Taps-ing, Picross-ing, Stack 'Em-ing, and Word Guessing!<br />\r\n<br />\r\nSimplyTrivia - A simple multiplayer trivia game with a lobby system that may be familiar to those who enjoy packs of party games. Trivia is drawn from OpenTDB.<br />\r\n<br />\r\n<br />\r\n<br />\r\n***REQUIRES .NET Core 6.0***<br />\r\nI tried to set it up to install with the game but I have no idea if it worked, if it didn't and you didn't already have .NET Core from another game then you can just grab the latest version from Microsoft. Sorry for the inconvenience!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/832430/header.jpg?t=1679593960",
+    "developers": [
+      "nanzington"
+    ],
+    "publishers": [
+      "nanzington"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 680,
+      "final": 680,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 43,
+      "highlighted": [
+        {
+          "name": "Bartending Bronze",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Bartending Silver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Bartending Gold",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Block Break Bronze",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Block Break Silver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Block Break Gold",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Fruit Catch Bronze",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Fruit Catch Silver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Fruit Catch Gold",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        },
+        {
+          "name": "Lights Out Bronze",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832430/f55d0f1cb822b25e64f5cff463ec0524e897a76f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

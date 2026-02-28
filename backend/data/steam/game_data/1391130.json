@@ -1,0 +1,61 @@
+{
+  "1391130": {
+    "name": "Asteroad",
+    "steam_appid": 1391130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >故事</h2>这是在谁都可以变身为星座的世界的，独自一人的少女的故事。<br>与流星雨一起坠落的，<br>是支离破碎的，少女最喜欢的”星星”。<br><br>为了让星星重回夜空，少女开始收集星辰的碎片。<br><br>在这个世界，你可以将星星连接起来形成道路，也可以将其变成过去某人创造的星座。<br>遇到困难的时候，就抬头仰望夜空吧。<br><br>“Asteroad”，用星星连接起的道路。<h2 class=\"bb_tag\" >游戏特征</h2><ul class=\"bb_ul\"><li>关卡：难度会逐渐增加的5个关卡<br></li><li>游戏时间：约1-2小时<br></li><li>完全通关后会有游戏彩蛋<br></li><li>以“★”为主题的游戏<br></li><li>2019年日本游戏大奖业务部门入选游戏</li></ul><h2 class=\"bb_tag\" >操作方法</h2><ul class=\"bb_ul\"><li>A/D键：跑<br></li><li>A/D键 + Shift键：歩行<br></li><li>空格键：跳跃<br></li><li>M键：望向远方<br></li><li>ESC键：菜单，取消<br></li><li>鼠标左键：连接星星<br></li><li>鼠标右键：断开已连接的星星<br></li><li>S键：决定<br></li><li>Q键：切换成星座选择模式<br></li><li>E键：切换成Asteroad生成模式</li></ul><h2 class=\"bb_tag\" >对于那些想在笔记本电脑上玩的人[/]<br>如何更改为低规格模式<br>1. 在记事本中打开“ Asteroad&gt; Asteroad_Data&gt; config”文件。<br>2. 将“ low-spec-mode：false”重写为“ low-spec-mode：true”。</h2>",
+    "supported_languages": "英语, 日语<strong>*</strong>, 韩语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1391130/header.jpg?t=1604297627",
+    "developers": [
+      "EllGames, LLC"
+    ],
+    "publishers": [
+      "EllGames, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "NEW_ACHIEVEMENT_NAME_1_0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1391130/2c539751903414f0c746d5a0bba6c5aaeb263cc2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

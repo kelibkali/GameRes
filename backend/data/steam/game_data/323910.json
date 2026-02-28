@@ -1,0 +1,44 @@
+{
+  "323910": {
+    "name": "SteamVR Performance Test",
+    "steam_appid": 323910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SteamVR 性能测试将通过一段 2 分钟由 Valve 所制作的 《光圈科技机器人维修 VR 展示》来评估您计算机的渲染力。在收集相关数据后，它将判断您所使用的系统能否维持在 90 fps 的帧率运作以及 VR 内容的视觉保真能否够校调至推荐的水平标准。对于未达水平的系统，它能协助辨别硬件上的限制是来自于显卡、处理器或两者皆有。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 保加利亚语, 荷兰语, 希腊语, 匈牙利语, 日语, 波兰语, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 繁体中文, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323910/header.jpg?t=1700593759",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 2 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

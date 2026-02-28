@@ -1,0 +1,62 @@
+{
+  "913000": {
+    "name": "Sheepageddon",
+    "steam_appid": 913000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sheepageddon is a 2d puzzle game where you play as a cute wolf that is constantly craving for sheep to eat in order to not starve to death. In each level it is more difficult to do so as the sheep have guard dogs near by to alert all the sheep in the level. A level is passed when all the sheep have been eaten in any given level.<br />\r\nThe game is made to be fast paced due to a constant decline of the wolfs health and zero second transition delays between levels or restarting the level at hand.<br />\r\nThere are 7 levels. Estimated play threw time is 10-30 minutes depending on how fast you figure out how to get all the sheep. The game is locked to 640x640 windowed mode, so it should run on any device.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913000/header.jpg?t=1536607639",
+    "developers": [
+      "Sander Juss",
+      "Liisa Lvova"
+    ],
+    "publishers": [
+      "Sander Juss"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "781010": {
+    "name": "The Disappearing of Gensokyo: Kogasa, Iku Character Pack",
+    "steam_appid": 781010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i><br>为游戏添加永江依玖、多多良小伞两个可用角色。</i><br><br>================================================================<h2 class=\"bb_tag\" >永江依玖</h2>美丽的绯之衣<br><br><ul class=\"bb_ul\"><li>主要攻击：发射可以弹射多次的连锁闪电<br></li><li>次要攻击：使用钻头将敌人击飞<br></li><li>Bomb攻击：对导电的敌人降下雷电进行轰炸<br></li><li>闪避：普通的冲刺<br></li><li>特性：被依玖攻击过的敌人会进入导电状态</li></ul><br>================================================================<h2 class=\"bb_tag\" >多多良小伞</h2>愉快的遗忘之伞<br><br><ul class=\"bb_ul\"><li>主要攻击：转动雨伞，向前甩出一排弹幕<br></li><li>次要攻击：张开雨伞，抵挡敌方弹幕<br></li><li>Bomb攻击：旋转雨伞，以小伞为中心发射螺旋弹幕<br></li><li>闪避：普通的冲刺<br></li><li>特性：能抵挡大部分弹幕，侧重于防守型角色</li></ul>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/781010/header.jpg?t=1530103684",
+    "developers": [
+      "MyACG Studio"
+    ],
+    "publishers": [
+      "MyACG Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 1,
+      "total_reviews": 22
+    }
+  }
+}

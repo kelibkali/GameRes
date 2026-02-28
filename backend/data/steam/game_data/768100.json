@@ -1,0 +1,50 @@
+{
+  "768100": {
+    "name": "GizmoVR Video Player",
+    "steam_appid": 768100,
+    "required_age": 0,
+    "is_free": true,
+    "description": "GizmoVR 是一款虚拟现实媒体播放器。<br />\r\nGizmoVR 的功能：<br />\r\n——支持所有立体声格式，包括双路高清左右格式以及环绕格式<br />\r\n——媒体库功能可将所选择的文件夹添加至收藏<br />\r\n——从本地存储空间运行文件时进行自动双路高清监测<br />\r\n——从浏览器一键启动<br />\r\n——虚拟桌面<br />\r\n——集成下载管理器  灵活的回放设置<br />\r\n——如果摘下耳机，可自动停止播放<br />\r\n——能够拖拽播放器<br />\r\n——影院模式（曲面或平面屏幕）<br />\r\n——免提模式下注视控制应用程序<br />\r\n——网络摄像头动作监测<br />\r\n——2D模式<br />\r\n——从YouTube回放<br />\r\n<br />\r\n支持的视频格式：2D/360/180 .avi, .mkv and .mov 4K, 8K (是否能够回放取决于安装的多媒体数字信号编解码器）",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 简体中文<strong>*</strong>, 俄语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 乌克兰语<strong>*</strong>, 日语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768100/header.jpg?t=1730875602",
+    "developers": [
+      "Gizmo VR LTD"
+    ],
+    "publishers": [
+      "Gizmoplay Ltd"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

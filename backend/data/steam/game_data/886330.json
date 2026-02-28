@@ -1,0 +1,110 @@
+{
+  "886330": {
+    "name": "DomiCard",
+    "steam_appid": 886330,
+    "required_age": 0,
+    "is_free": true,
+    "description": "在《DomiCard》中开始你的多米诺游戏吧！在你的电脑烧掉之前，你可以在游戏中创建任意数量的多米诺骨牌。此外，你可以发挥想象力并且用“方块”建造你想要的东西，例如桥梁，大门，或者其他的建筑物。<br />\r\n<br />\r\n现在，该游戏支持单人模式和多人模式(局域网和在线)，创意工坊也开工啦！<br />\r\n<br />\r\n游戏多米客只是一个虚拟游戏。应该尝试在现实世界中和朋友一起玩多米诺骨牌，这会增加你们的感情。<br />\r\n<br />\r\n请留下评论用以帮助我改进这个游戏。<br />\r\nNote: 在“/SteamApps/common/DomiCard/DomiCard_Data/”下有一个叫做“savedExamples”文件夹。其中有三个已经保存的游戏存档文件夹可供读取。在Steam创意工坊中也有其他作品。希望大家喜欢。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/header.jpg?t=1727272908",
+    "developers": [
+      "Jun Zhao"
+    ],
+    "publishers": [
+      "Jun Zhao"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "100张多米诺",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/886330/558cc9a7440e16790dc4a57930158696ed8d9b10.jpg"
+        },
+        {
+          "name": "1000张多米诺",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/886330/9ce3be053b2d42885bced06f869f1ce2424bcb4a.jpg"
+        },
+        {
+          "name": "准备就绪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/886330/bdc7452454f301f2ea828b3e9c06997505e53d3c.jpg"
+        },
+        {
+          "name": "道具大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/886330/752adc09300b0ade5547aa8588ca15d7840560f9.jpg"
+        },
+        {
+          "name": "耐心",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/886330/92a1b01d651a32b2ad9a531769d1e97e27ef8a84.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

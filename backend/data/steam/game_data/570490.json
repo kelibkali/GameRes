@@ -1,0 +1,77 @@
+{
+  "570490": {
+    "name": "SHENZHEN SOLITAIRE",
+    "steam_appid": 570490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>NO ENGINEERING, ALL PROCRASTINATION! </strong><br><br>SHENZHEN SOLITAIRE is a brand-new solitaire variant originally developed for SHENZHEN I/O, and is now available as a standalone game! It's simple but challenging, and oddly addictive. <br><br><ul class=\"bb_ul\"><li> A brand-new solitaire variant inspired by Mahjong and FreeCell!<br></li><li> Simple to learn, but persistently challenging!<br></li><li> Over 98% of deals are solvable!<br></li><li> Win 100 games and become immortal! (with a Steam Achievement)</li></ul><br>NOTE: If you own SHENZHEN I/O, you don't need to purchase SHENZHEN SOLITAIRE! After solving a few puzzles in SHENZHEN I/O, a link to a full version of SHENZHEN SOLITAIRE will be placed on your in-game desktop for you to play.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570490/header.jpg?t=1618420451",
+    "developers": [
+      "Zachtronics"
+    ],
+    "publishers": [
+      "Zachtronics"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "CLIMB THE MOUNTAIN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570490/b19b0af60c18a9275ba6d26a346a0e01915a5833.jpg"
+        },
+        {
+          "name": "MEET THE DRAGON",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570490/f3e856e41f4533b7f2de20a9b86582761fc4c00b.jpg"
+        },
+        {
+          "name": "BECOME IMMORTAL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570490/46fffbdb060096cf4860c50fe3c9c1923287c819.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 0,
+      "total_reviews": 13
+    }
+  }
+}

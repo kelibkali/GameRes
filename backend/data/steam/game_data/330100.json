@@ -1,0 +1,133 @@
+{
+  "330100": {
+    "name": "BossConstructor",
+    "steam_appid": 330100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330100/extras/127f539925ca7f82c8bb7236345deabc.avif?t=1654779699\" width=600 height=294 /></span><br><br>BossConstructor is a game about building and flying your own spaceship. Assemble your own ships from a number of components and explore procedurally generated galaxies!<h2 class=\"bb_tag\" >Building your Ship</h2>At the core of the game lies the ship editor. An editor that allows you to freely assemble your very own spaceships using a vast variety of (currently) over 60 modules. The way you build your ships determines how they behave and what they are capable of doing, and, as every module costs money, weight and energy, designing a good, efficient spaceship is a challenging yet rewarding task.<h2 class=\"bb_tag\" >Expedition and Sandbox Mode</h2>The expedition mode lets you explore a procedurally generated galaxy inhabited by the von-Neumann; a constantly evolving AI species. You begin with a small, basic ship and advance as you complete missions, discover new enemy species, and scavenge more powerful or exotic components to improve your ship with. Alternatively, you can always build any ship you like without any constraints in the sandbox mode.<h2 class=\"bb_tag\" >Artificial Intelligence</h2>Being a single player game, a lot of attention is being given to the game's artificial intelligence system. The von-Neumann enemies you will encounter in the expedition mode have been painstakingly created using elaborate artificial evolutions, in which vast numbers of mutating ships have competed for survival. Several bonus game modes allow you to lean back and watch just how different AI species compete with each other for survival and how each generation evolves.<h2 class=\"bb_tag\" >FAQ</h2>Q: Which are the supported platforms?<br>A: The game supports Windows, Linux, SteamOS and MacOS. Mac users do still need to manually install Java though (worry not, it's free).<br><br>Q: Will there be a multiplayer mode?<br>A: Unfortunately implementing multiplayer support is exceedingly complex. Therefore I am focusing on providing a solid single player experience instead.  <br>Q: What types of ships can you build? <br>A: Any ship built with the available modules is valid as long, of course, as the modules do not overlap. You can build ships with moving parts as well as ships consisting of multiple ship parts (which can be controlled individually). <br><br>Q: How large can the ships be?<br>A: You can add modules to your ship as long as they fit within the editor's boundaries and its 14x14 grid (which can be expanded to 18x18 using the integrity enhancer module). <br><br>Q: How many module types are there? <br>A: There are currently over 60 module types in the game (not counting visual variations). More modules will be added in the future. If you like, you can suggest your own ideas and if enough players like them, I will be happy to incorporate them in the game.<br><br>Q: How does the artificial evolution work? <br>A: The artificial evolution works by simulating a huge tournament in which mutated versions of existing ships compete with each other. The most successful ships, i.e. the ships which have dealt most damage to their enemies, proceed to the next round while the losers are eliminated.<br><br><strong>Q: Yeah, but should I buy it?!</strong><br>A: Are you kidding? Absolutely! ;) If you enjoy being a part of constantly-updated games during their development process, BossConstructor might just be what you've been looking for! Please, do feel free to check out the reviews of other gamers or the forums. Also, do keep in mind that the latest changes in Steam's refund policy actually allow you to return the game should you not enjoy it.",
+    "supported_languages": "英语<strong>*</strong>, 德语, 法语, 葡萄牙语 - 巴西, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330100/header.jpg?t=1654779699",
+    "developers": [
+      "Neomateria Games GmbH"
+    ],
+    "publishers": [
+      "Neomateria Games GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Tutorial completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/633c144295e433b69d8b31af9af76008201b84f6.jpg"
+        },
+        {
+          "name": "Fast lane",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/7b41d8926e25a75dcb1f44d0679bc39da57237ce.jpg"
+        },
+        {
+          "name": "AutoFac no more",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/401545df006d154a2ddb40b5de28c66fb66ff9f1.jpg"
+        },
+        {
+          "name": "Boss unconstructed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/fae1763ce90e1e2e3d7714e54e3f0c762f8303fb.jpg"
+        },
+        {
+          "name": "Ore collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/74a33db411232bdcbb27b02330be28d46e02f3e6.jpg"
+        },
+        {
+          "name": "Supply and demand",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/d22c66a185cb522775f5f2f951a4717a25d7e3a1.jpg"
+        },
+        {
+          "name": "Lower management",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/c7b97858ac37e8e8174149642a99107203a79fb6.jpg"
+        },
+        {
+          "name": "Middle management",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/8872619dd530c9a69adf75995a07ae5e1d6c0de7.jpg"
+        },
+        {
+          "name": "Upper management",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/75772217e97288147386a5a990b41b408e613bed.jpg"
+        },
+        {
+          "name": "Drop the base",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/330100/c6d93dc0e56572ccbd148d904bfe330658b1450c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

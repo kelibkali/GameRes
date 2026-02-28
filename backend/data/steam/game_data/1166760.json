@@ -1,0 +1,77 @@
+{
+  "1166760": {
+    "name": "Jinga Online",
+    "steam_appid": 1166760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/7ace8f3a5b96fd27ee77acb61c777c08.poster.avif?t=1581900075\" width=622 height=268 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/7ace8f3a5b96fd27ee77acb61c777c08.webm?t=1581900075\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/7ace8f3a5b96fd27ee77acb61c777c08.mp4?t=1581900075\" type=\"video/mp4\"></video></span><br><br>Jinga Online is a hand-physics implementation of the popular party game.<br>The goal of Jinga is super simple, you have to grab a block from anywhere under the last completed row and then put it on the top - that's it! The longer you play the harder it'll be as the tower becomes more and more unstable, however, you'll also get more points that you can use to unlock levels and cosmetic items. <br><br><ul class=\"bb_ul\"><li>Play solo for relaxation <br></li><li>Play with up to six players online(friends or randoms) for drama<br></li><li>The loser will be marked by one of the players(or they can show mercy, but then what's the point!)<br></li><li>6 unique environments(one of them was specifically designed for low-end potatoes, IMHO everyone deserves to be yelled at regardless of hardware)<br></li><li>Full control over the hand movement(forearm, wrist, and fingers)</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/c48dbaf81a77ba63a4eb117150961fb0.poster.avif?t=1581900075\" width=576 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/c48dbaf81a77ba63a4eb117150961fb0.webm?t=1581900075\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/extras/c48dbaf81a77ba63a4eb117150961fb0.mp4?t=1581900075\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166760/header.jpg?t=1581900075",
+    "developers": [
+      "2SD"
+    ],
+    "publishers": [
+      "2SD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

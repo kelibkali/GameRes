@@ -1,0 +1,61 @@
+{
+  "1147970": {
+    "name": "Abode 2",
+    "steam_appid": 1147970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147970/extras/176c839787568fdff797c1bc099b9ed3.poster.avif?t=1587713049\" width=574 height=464 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147970/extras/176c839787568fdff797c1bc099b9ed3.webm?t=1587713049\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147970/extras/176c839787568fdff797c1bc099b9ed3.mp4?t=1587713049\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147970/header.jpg?t=1587713049",
+    "developers": [
+      "Overflow"
+    ],
+    "publishers": [
+      "Overflow"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

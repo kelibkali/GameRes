@@ -1,0 +1,113 @@
+{
+  "664240": {
+    "name": "RetroWar: 8-bit Party Battle",
+    "steam_appid": 664240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>RetroWar</strong> is a collection of 8-bit <i>retro style</i> arcade games.  Currently we are focused on <strong>single-screen multiplayer games</strong> that you play with your friends <i>locally</i> (i.e. sitting on the couch together.)  <strong>Most of the games don't have single player mode</strong> (If you <i>want</i> single player mode then vote for it in the forums!)<h2 class=\"bb_tag\" >Games</h2><br><ul class=\"bb_ul\"><li><strong>Spaceships</strong> - vector thrust in the tradition of SpaceWar / Asteroids  / Subspace.<br></li><li><strong>Droids</strong> - fast-paced twin stick shooter.<br></li><li><strong>Tanks</strong> - tactical sniping game .<br></li><li><strong>Bomb Bots</strong> - drop bombs to blow up your opponents, but don't get caught in the blast.<br></li><li><strong>Ghost Jumpers</strong> - platform race to be first while jumping over spooky enemies.<br></li><li><strong>SnakeEaters</strong> - the classic snake game.<br></li><li><strong>Balloonacy</strong> - mash buttons to fill your balloon.</li></ul><br>Our <strong>UniBlaster</strong> game engine is designed with the specs of a 'fantasy' 1980s console, akin to an NES, but with modern standards for framerate, aspect ratio and controller input.  It's easily extensible, so you can mod games, mash up different games, or even create your own.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li><strong>Authentic</strong>: old school low resolution gaming - no mixing of different sized pixels here.<br></li><li><strong>Controls</strong>: modern controllers/keyboard/mouse, but still fully playable with a NES or SNES style controller.<br></li><li><strong>Music</strong>: authentic soundtracker mods and  8-bit chiptunes.<br></li><li><strong>Modable</strong>: change the music, graphics, rules, or write your own games.<br></li><li><strong>16 local players</strong></li></ul><h2 class=\"bb_tag\" >Early Access plans</h2><br>We want feedback from you as to what you would like to play.  None of these features are guaranteed, but we plan to work on the features you support.<br><br><ul class=\"bb_ul\"><li>Steam Workshop  (download games and mods made by fans).<br></li><li>Online multiplayer.<br></li><li>Linux and Mac support.<br></li><li>JumpJet Troopers - run and gun game.<br></li><li>Artillery game.<br></li><li>Football mod for Droids.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/header.jpg?t=1606509202",
+    "developers": [
+      "Electron Studio"
+    ],
+    "publishers": [
+      "Electron Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Retro Booted!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        },
+        {
+          "name": "Played One Game!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        },
+        {
+          "name": "Played Five Games!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        },
+        {
+          "name": "Played Ten Games!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/d18587df5c3ef4ee1444217544d211ee0134e6c1.jpg"
+        },
+        {
+          "name": "Played Twenty Games!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        },
+        {
+          "name": "Played Fifty Games!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        },
+        {
+          "name": "Played One Hundred Games!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664240/2c3cff37b04ea4541de97d61dfbbff4ae136ec63.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

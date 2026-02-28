@@ -1,0 +1,48 @@
+{
+  "1363650": {
+    "name": "Dungeon Display",
+    "steam_appid": 1363650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dungeon Display lets you design and play through functional maps with your friends. <br />\r\n<br />\r\n- Maps can use any image asset that you want in your game. Have a set of tokens or some really cool art you want in your dungeon? Your free to put all of that cool stuff in! You can also use tile sets to change the entire look of a dungeon instantly.<br />\r\n<br />\r\n- Shadow system that can be easily edited. When you load a map, shadows will automatically be created on wall tiles, and then lights can be placed in the map to create the shadow effects. Also, there are tools to create areas that players will always be able to see, and a shadow tool for custom maps that lets users create their own shadows.<br />\r\n<br />\r\n- Save and load any of your maps.<br />\r\n<br />\r\n- Play online with friends. The host has certain privileges like toggling global lighting.<br />\r\n<br />\r\n-  Import a variety of files to use as maps. Add an image file where each color pixel represents a certain tile type (ie. green = wall). These maps are very easy to make and add to your game. Add a text file which marks tile types by having 'w' be wall, etc. The in game guide tells you how to make these maps easily. Lastly, you can simply upload a pre-made map image for full personal customization.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363650/header.jpg?t=1604355823",
+    "developers": [
+      "Dark Yellow"
+    ],
+    "publishers": [
+      "Dark Yellow"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 2 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

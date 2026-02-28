@@ -1,0 +1,61 @@
+{
+  "3020": {
+    "name": "Call of Juarez",
+    "steam_appid": 3020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Call of Juarez》是一款史诗般的西部题材第一人称射击冒险游戏。玩家需交替扮演两个截然不同的对立角色：东躲西藏的逃犯Billy和他的追捕者牧师Ray。除了两个主角间极具趣味的情感与心理联系外，玩家在扮演特定角色时还将体验到许多差异性的游戏玩法。<br><br>游戏地点设定在西部片后令人难忘的场景，以快节奏的手枪对决为特色，并采用准确贴合历史的枪支、马术、骑行战斗和潜行。基于对刚体和布娃娃物理系统的精确模拟，以及各种液体、气体、火焰和烟雾的逼真效果，为游戏的非线性和涌现式玩法带来独具创意的体验。<br><br><br><ul class=\"bb_ul\"><li>严肃的狂野西部主题，详细重建了那个时代的人物和视效<br></li><li>使用物理模拟和创新性的火、液体、灰尘、烟雾和气体模拟，构建出涌现式玩法<br></li><li>利用当今顶级显卡技术，呈现精湛的图像效果<br></li><li>扮演2个具有不同能力和玩法的角色<br></li><li>骑马、站在马鞍上射击和枪手决斗<br></li><li>使用鞭子战斗、移动物体和玩家角色<br></li><li>来自淘金狂热时代的传奇武器，手动方式的双持模式<br></li><li>西部题材跌宕起伏、扣人心弦的故事情节</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020/header.jpg?t=1729249870",
+    "developers": [
+      "Techland"
+    ],
+    "publishers": [
+      "Techland Publishing"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 11 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 118,
+      "total_negative": 32,
+      "total_reviews": 150
+    }
+  }
+}

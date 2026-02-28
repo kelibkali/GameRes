@@ -1,0 +1,69 @@
+{
+  "1360480": {
+    "name": "推箱子(Push Box)",
+    "steam_appid": 1360480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >本游戏是一款推箱子休闲益智游戏, 有如下3个特色：</p><p class=\"bb_paragraph\" >1.设计132+关卡, 每个关卡都自带标准解答方法, 难度递增。</p><p class=\"bb_paragraph\" >2.玩家的通关方法可以保存为二进制文件(小于1kb), 系统可以读取该类型文件来回放通关视频, 所以无需担心电脑硬盘容量不够。</p><p class=\"bb_paragraph\" >3.启动游戏时可选择游戏模式或关卡编辑模式(设计新关卡或者修改已有的关卡)。 </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>温馨提示：</u></strong></p><p class=\"bb_paragraph\" >【 <strong><u>Windows 11</u></strong>系统的最新版本，如24H2版本的游戏界面显示有问题，属于设置问题。解决方案：启动游戏，游戏界面顶部的页签上可以使用鼠标左键或右键打开<u><strong>设置 - 启动 - 默认终端应用程序 - Windows控制台主机</strong></u>。保存设置。关闭游戏界面所有页签再重启游戏即可。】</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 <strong><u>Windows 11</u></strong>系统可以调整、优化显示效果：点击任务栏的<strong><u>开始 - 设置 - 系统 - 屏幕 - 缩放和布局 - 缩放 - 125%</u></strong>。】</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 首次启动游戏时如果弹出提示框提示<u><strong>缺少游戏启动文件</strong></u>，是由于杀毒软件(如360安全卫士)误删引起的,  可以先关闭杀毒软件，然后卸载游戏并重新安装游戏，然后启动杀毒软件，最后启动游戏并根据杀毒软件的<u><strong>误删提示框</strong></u>恢复误删文件<u><strong>PushBox.exe</strong></u>并添加其为<strong><u>信任软件</u></strong>，即可永久解决报错问题。<strong>他日，待杀毒软件官方审核<u>PushBox.exe</u>完成后，启动游戏不会再弹出提示框提示缺少游戏启动文件。</strong>  首次启动游戏后如果没有进入界面全屏模式，是由于杀毒软件误报引起的。可以关闭游戏后重新启动游戏即可。】</p>",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360480/header_schinese.jpg?t=1738824746",
+    "developers": [
+      "Wu Zhang"
+    ],
+    "publishers": [
+      "Wu Zhang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

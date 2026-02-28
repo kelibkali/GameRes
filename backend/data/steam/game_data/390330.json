@@ -1,0 +1,149 @@
+{
+  "390330": {
+    "name": "Mekazoo",
+    "steam_appid": 390330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mekazoo是一款2D平台游戏，具有瑰丽生动的3D关卡世界。玩家可切换多种技能独特的“机械动物”进行单人闯关或者多人共同作战。Mekazoo汲取经典平台游戏精华，为您营造全新创意，独特有趣的游戏体验。五种“机械动物”各自身怀绝技，包括犰狳、青蛙、袋鼠、鹈鹕和熊猫。Mekazoo让玩家能无缝选择正确的动物，克服棘手的关卡，击杀大怪兽。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390330/header.jpg?t=1482450034",
+    "developers": [
+      "The Good Mood Creators"
+    ],
+    "publishers": [
+      "The Good Mood Creators"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "机械装备幻化",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/ebe67de2982453d67ba8344266bc93b98b95ccd8.jpg"
+        },
+        {
+          "name": "走在壁橱里",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/73db39aa9fe6ab9f9bd3ea071abe4144b75dce88.jpg"
+        },
+        {
+          "name": "协同",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/a4784b5a760ea20337a937ab7753ba602e772e93.jpg"
+        },
+        {
+          "name": "蜂群思维",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/c4e04c6b426c47fdd99c8540ee1163d321dc85fb.jpg"
+        },
+        {
+          "name": "很好！现在去玩点别的",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/4aa7ee879fd3a87393c7e7ef6f1528f8a2ffd021.jpg"
+        },
+        {
+          "name": "公交车钱",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/080f72b7fe2bea2b62802120155da52808c2f1f9.jpg"
+        },
+        {
+          "name": "牙线",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/55296ba1b5eebe417d644b59f3217e74530bd13a.jpg"
+        },
+        {
+          "name": "垄断者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/4d18acd2d546756d8e01b4cde40a8004ed07b3f6.jpg"
+        },
+        {
+          "name": "我是大老板",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/4268c4b768308d304ad502f7c6deaa549c0f1912.jpg"
+        },
+        {
+          "name": "永远最快！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/390330/cf23688ce1ddb2df91c016c7194ff89ecfaa6545.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

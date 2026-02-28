@@ -1,0 +1,77 @@
+{
+  "1096550": {
+    "name": "桌面萌娘2:魔法引擎",
+    "steam_appid": 1096550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >买2代送4代活动进行中</h2>现在购买《桌面萌娘2: 魔法引擎》，即可获赠《桌面萌娘MMD4: 为舞而生》<h2 class=\"bb_tag\" >更多演示视频： </h2><h2 class=\"bb_tag\" ><strong>【无法显示模型或特效的解决办法汇总】</strong></h2>1. 请尝试将“管理模型”&gt;&quot;已加载&quot;列表中的所有模型关闭，然后重启软件即可。<br>2. 请尝试从托盘右键菜单退出软件，然后在steam的库里面点击“校验软件文件完整性”，然后启动软件。<br>3. 请尝试从托盘右键菜单退出软件，然后删除软件安装文件夹下的缓存文件 DesktopMagicEngine/AppData/Cache ，然后启动软件。<br>4. 请尝试从托盘右键菜单退出软件，然后删除软件安装文件夹下的文件 DesktopMagicEngine/AppData/Themes/Default/theme.json，然后启动软件。<h2 class=\"bb_tag\" ><strong>【软件介绍】</strong></h2><h2 class=\"bb_tag\" >让您的桌面充满生机</h2>桌面萌娘2:魔法引擎(DesktopMagicEngine)是桌面萌娘系列的第二代，她不仅能让超萌超有爱的小姐姐们在您的桌面上撒娇卖萌热舞，还能在桌面上显示出各种酷炫惊艳的动画特效。您可以与她们一起互动玩耍并欣赏她们的热辣舞姿。特别打造的萌娘AI，各种卖萌撒娇比心，可爱而治愈；支持创意工坊; 支持关联网易云音乐/酷狗等多款第三方播放器。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>桌面特效支持各种参数设置，可轻松调节特效的偏移/缩放/旋转等<br></li><li>始终保持在其他所有窗口之上(可选)，时刻陪伴，兼容各种动态壁纸软件。<br></li><li>直接支持MMD的PMX模型，一键导入起舞。<br></li><li>特别打造的萌娘AI，各种卖萌、撒娇、比心、，可爱而治愈，更有超多动作和互动等您解锁。<br></li><li>支持创意工坊，一键从创意工坊下载和分享各种特效、模型和舞蹈。<br></li><li>支持关联网易云音乐、QQ音乐、Spotify、Winamp、Foobar2000、酷狗等第三方播放器，能自动根据当前播放歌曲跳对应的舞蹈。<br></li><li>支持鼠标感应，当鼠标在她视野范围内的时候会自动看向鼠标，她是一个有灵魂的萌娘。<br></li><li>内置60款舞蹈模板(19款慢节奏/15款中等节奏/17款快节奏/8款短舞/月步舞)，一键为您喜爱的音乐选配适合的舞蹈；支持将MMD的舞蹈转换后导入。<br></li><li>支持设置任务栏透明和模糊<br></li><li>深度优化，特效极度流畅，CPU占用少。<br></li><li>支持Windows 7 (with Aero), 8, 8.1, 10<br></li><li>支持多国语言</li></ul><h2 class=\"bb_tag\" >注意</h2>桌面魔法引擎不是一款动态壁纸软件，所以它可以和所有动态壁纸软件同时兼容使用，如：Wallpaper Engine 或 RainWallpaper.<h2 class=\"bb_tag\" >Translation / Proofreading by Nyanco Channel</h2><h2 class=\"bb_tag\" >常见问题集</h2><h2 class=\"bb_tag\" >图文教程</h2><br><br>================================================================================<br>问：无法显示模型或特效的解决办法汇总<br>答：1. 请尝试将“管理模型”&gt;&quot;已加载&quot;列表中的所有模型关闭，然后重启软件即可。<br>       2. 请尝试从托盘右键菜单退出软件，然后在steam的库里面点击“校验软件文件完整性”，然后启动软件。<br>       3. 请尝试从托盘右键菜单退出软件，然后删除软件安装文件夹下的缓存文件 DesktopMagicEngine/AppData/Cache ，然后启动软件。<br>       4. 请尝试从托盘右键菜单退出软件，然后删除软件安装文件夹下的文件 DesktopMagicEngine/AppData/Themes/Default/theme.json，然后启动软件。<br><br><br>问：如何添加模型到桌面？<br>答：1. 先打开&quot;管理模型&quot;&gt;&quot;创意工坊&quot;从里面订阅自己喜欢的模型，并等待Steam自动为您下载安装完毕。<br>        2. 在“管理模型”&gt;&quot;已安装&quot;内加载模型到桌面即可。<br><br><br>问：为何某些电脑上启动软件后黑屏？<br>答：1. 禁用 Nvidia显卡控制面板里面针对 dmmdcore.exe 的 抗锯齿 FXAA 即可。<br>2. 或者全新清洁重新安装显卡驱动，注意不能是默认的那种覆盖升级安装。<br>3. 或者请尝试将windows操作系统的视觉效果设置为最佳，并确保启用了Aero。<br>详细图文说明： <br><br>问： 如何在steam中不显示“正在玩桌面魔法引擎”?<br>答： 托盘右键菜单“设置”然后去掉勾选“启用steam支持”，然后从托盘右键菜单重启软件即可。<br><br>问：感觉模型粗糙怎么办？如何切换到高清模型贴图？如何修改模型的绘图质量？<br>答：为了节省内存模型默认是低质量贴图，可切换到高清模式：“管理模型”&gt;&quot;已安装&quot;列表中右键点击模型选择菜单“编辑”，在编辑窗口选择“绘图质量”为高清，然后重新打开模型<br><br>问: 如何将桌面萌娘MMD的模型舞蹈导入魔法引擎?<br>答: 需要将桌面萌娘MMD的模型的整个文件夹复制到新作的 Appdata\\Assets 文件夹下即可。<br>另外可以一键导入桌面萌娘MMD以前订阅的模型动作: 打开 steam目录下的 Steam\\steamapps\\workshop\\content\\1282940 文件夹，把里面的那些订阅的都复制过来到魔法引擎的 Appdata\\Assets 目录下就可以了<h2 class=\"bb_tag\" >如何一键导入MMD的PMX模型</h2><br><br><strong>哪里可以下载到PMX模型？</strong><br>",
+    "supported_languages": "英语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/header_schinese.jpg?t=1652877726",
+    "developers": [
+      "DesktopMMD Team"
+    ],
+    "publishers": [
+      "DesktopMMD Team"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 317,
+      "total_negative": 140,
+      "total_reviews": 457
+    }
+  }
+}

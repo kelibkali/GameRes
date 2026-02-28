@@ -1,0 +1,125 @@
+{
+  "610960": {
+    "name": "红石遗迹 - Red Obsidian Remnant",
+    "steam_appid": 610960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/extras/89cb8bad08ce8278d419ef51edcd1c5b.webp?t=1574320654\" width=616 height=63 /></span><h2 class=\"bb_tag\" >游戏系统简述</h2><ul class=\"bb_ul\"><li>★这是一款roguelike玩法和动作系统相结合的地牢游戏<br></li><li>★你将最多携带三把武器，在战斗中交替使用，形成错综变化的攻击方式<br></li><li>★大量效果各异的道具，丰富你在冒险时的决策和穿戴上的搭配<br></li><li>★怪物异化系统，同一只怪物可能受到多种异化的影响，变得十分难缠<br></li><li>★类似跑团的事件机制，各类事件包含了一定的抉择和随机性</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/extras/f3e528664b6af332aacd3abe9c75b11e.avif?t=1574320654\" width=616 height=277 /></span><h2 class=\"bb_tag\" >《红石遗迹》中哪些元素是你们认为有趣、创新的呢？在你们看来，地牢探索roguelike类游戏的核心是什么？</h2><br>      我们也是第一次制作Roguelike游戏，玩过很多同类游戏，从他们身上去学习，这种游戏类型是长线rpg的浓缩，在每局体验中玩家角色都经历一次养成，为了保持每局体验的新鲜感，除了挑战内容的随机，每局养成套路的多变也很重要。而红石是一个动作游戏，他战斗套路的变化更多体现在招式上，另外在红石中装备是影响角色养成的核心，所以我们让角色一次携带多把武器，每把武器的招式可以穿插连携，不同武器的搭配能直接形成战斗风格。这也许可以算一个点子，但我觉得规则是在种种限制下诞生的，一个点子只是刚好解决了设计上的问题。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/extras/c6280b410abb4c7601259a3b2efda6fa.avif?t=1574320654\" width=616 height=248 /></span><h2 class=\"bb_tag\" >游戏中的怪物系统有何特色？如何把握特色的怪物系统与游戏难度曲线之间的平衡？</h2><br>      作为动作游戏，设计出各种招式差异性的怪物是基础，在这个基础上我们增加了怪物异化的系统，异化的怪物身上会附着绕其旋转的小球，不同小球携带各类效果，他可能让怪物死亡后自爆或者寄生，分裂，算简单做一个乘法。另外红石里不会出现纯霸体的怪物，霸体会让动作游戏基础系统被击受招失效，无法进行连段攻击，只能摸几下就跑，这种打法作为动作游戏很憋屈，所以霸体只作为怪物部分招式的特性。<br>关于难度和怪物的关系，在高难度我们会提升怪物的AI积极性，异化出现数量，危险房出现的概率，总之尽量不动怪物的基础数值。<h2 class=\"bb_tag\" >开发测试群</h2>172860753<h2 class=\"bb_tag\" >新浪微博</h2>",
+    "supported_languages": "简体中文, 繁体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/header.jpg?t=1574320654",
+    "developers": [
+      "Red Obsidian Studio"
+    ],
+    "publishers": [
+      "Beijing New Era Network Technology Co., Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "一个有价值的灵魂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/bfd50f6515991febb412339227d8a07c0cfc184f.jpg"
+        },
+        {
+          "name": "老练的冒险家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/0accd7bf71b4a0b2468d96282fdddc7f6ad9b605.jpg"
+        },
+        {
+          "name": "无畏的勇者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/7da71c939184591772834bbf7815e8720b4c6d86.jpg"
+        },
+        {
+          "name": "达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/20bb1717edb451b06341e164ebd78182de88859f.jpg"
+        },
+        {
+          "name": "恶行",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/2308491d0787c324d20527e3e1bdbb0635c02bcb.jpg"
+        },
+        {
+          "name": "伙伴",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/4e54abba6bd6b9a37cefca950deb83e599f6dad3.jpg"
+        },
+        {
+          "name": "恶魔之眼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/d3bdeb779da27ff30ef7f8f815954db574ed9e63.jpg"
+        },
+        {
+          "name": "冒险的开端",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/05d1bfc49aa4bba0806eb53778be81df73194d24.jpg"
+        },
+        {
+          "name": "前行的旅者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/2cd1e545204e7a6cfe063b169ef96026472cd3e0.jpg"
+        },
+        {
+          "name": "深渊的战士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610960/3651556fb5bfe2739dc99b5e83192ed3e078674e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 515,
+      "total_negative": 96,
+      "total_reviews": 611
+    }
+  }
+}

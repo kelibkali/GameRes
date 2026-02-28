@@ -1,0 +1,53 @@
+{
+  "1386320": {
+    "name": "Table Top Turrets",
+    "steam_appid": 1386320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Table Top Turrets is a cartoon-style tower defence strategy game based on the imagination of a child playing a board game.<br />\r\n<br />\r\nBefore you start a level, you must choose your difficulty:<br />\r\n - Easy - 20 waves - Low Health Enemies<br />\r\n - Medium - 40 waves - Mid Health Enemies<br />\r\n - Hard - 60 waves - High Health Enemies<br />\r\n<br />\r\nOnce you have completed a level, the button for the difficulty you have completed will turn green. If all three difficulties have been completed on a particular level, the button for that level will also turn green.<br />\r\n<br />\r\nPlace turrets by choosing one from the shop menu and clicking on your desired position on the grid.<br />\r\n<br />\r\nSelect turrets by clicking on an already placed turret. After selection it will open the upgrade menu which is full of information, e.g. Damage. It will also show you the range of the turret on the course. You can now Upgrade, Sell or Deselect your selected turret.<br />\r\n<br />\r\nUpgrade by clicking the &quot;Upgrade&quot; button. It will cost 30% of the initial cost multiplied by the level you are currently on.<br />\r\n<br />\r\nSell by clicking the &quot;Sell&quot; button. You will receive 50% of the money you spent buying and upgrading the turret.<br />\r\n<br />\r\nDeselect by either clicking any empty space on the grid or selecting a different turret or building another turret.<br />\r\n<br />\r\nThere are currently 6 pieces of information on the Game Board:<br />\r\n - Your current money (Green)<br />\r\n - The price of the turret you are hovering over in the shop menu (Red)<br />\r\n - The current wave (Green)<br />\r\n - The wave countdown timer (Red)<br />\r\n - Your current health (Green)<br />\r\n - Your remaining shield (Red)<br />\r\n<br />\r\nGreen information will be there permanently. Red information will only show when necessary, e.g. when counting down for the next wave.<br />\r\n<br />\r\nYou can also zoom in and out with the scroll wheel and move your camera around with WASD. If you zoom out, no matter where your camera has moved to, it will go back to the centre so that you can see the whole board again.<br />\r\n<br />\r\nBuild, Upgrade, Protect!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386320/header.jpg?t=1616955529",
+    "developers": [
+      "Ben Shattock"
+    ],
+    "publishers": [
+      "Ben Shattock"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

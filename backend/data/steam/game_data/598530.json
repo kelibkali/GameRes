@@ -1,0 +1,66 @@
+{
+  "598530": {
+    "name": "Naev",
+    "steam_appid": 598530,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Naev is a game about space exploration, trade and combat. Players travel the galaxy and earn money by trading, fighting and performing missions.<br><br>Main features:<br><ul class=\"bb_ul\">    <li>A large galaxy with hundreds of planets and moons to explore.<br>    </li><li>Real-time, semi-Newtonian gameplay reminiscent of the Escape Velocity games.<br>    </li><li>Many different ships to buy and pilot, and many ways to customize each of them.<br>    </li><li>Multiple factions, each with unique ship designs and personalities.<br>    </li><li>Open-source, meaning ultimate freedom of modding.</li></ul>Currently Naev is a playable game, but it is far from being a complete one. To further mature the game, we, the developers, need you. Yes, <i>you</i>. All it takes is the motivation to be creative in some way! Probably the easiest way to help, as well as one of the most valuable ones, is by coming up with new stories for the game, and by shaping those stories into playable missions. Other ways to help include making art or sounds, improving gameplay via balancing work, or (if you have the ability) even a bit of coding on the main program.<br><br>A few things to keep in mind:<br><ul class=\"bb_ul\">    <li>This game is a hobby project, not an indie development project. There is no final plan, no time frame for the &quot;finished game&quot;.<br>    </li><li>The dev team does not accept monetary donations, only direct contributions to the game itself.<br>    </li><li>The game engine is written in C. Missions are written in Lua.<br>    </li><li>No, there is no multiplayer, and there probably won't be. Unless <i>you</i> add it!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598530/header.jpg?t=1764269758",
+    "developers": [
+      "Naev Team"
+    ],
+    "publishers": [
+      "Naev Team"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

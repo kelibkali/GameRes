@@ -1,0 +1,54 @@
+{
+  "981340": {
+    "name": "Niplheim's Hunter - Branded Azel Demo",
+    "steam_appid": 981340,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>About the Demo</strong><br>You can only play and explore the first area of the game.<br>The demo does not have all the features of the full game.<br><br><strong>Controls</strong><br>The game can only be played with a keyboard or a controller.<br>Mouse is not supported.<br>[Z] = Accept, Hold for Fast Battles<br>[X] = Cancel, Menu<br>[Ctrl] = Skip Text<br>[Shift] = Auto Text Mode, [X] to stop<br>[Q]= Hide Dialog<br>[W] = Text Log<br><br><u><strong>Save data from the demo is NOT compatible with the full game.</strong></u><br>If you have a non-empty <strong>Save</strong> folder in your main game folder,<br>please rename it. Launching the DLC (or main game) with incompatible data<br>in the save folder will give an error, but your save data won't be lost.<br><br>All characters are over the age of 18.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/981340/header.jpg?t=1682676978",
+    "developers": [
+      "Black Train"
+    ],
+    "publishers": [
+      "Kagura Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

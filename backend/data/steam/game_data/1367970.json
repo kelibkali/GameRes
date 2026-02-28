@@ -1,0 +1,81 @@
+{
+  "1367970": {
+    "name": "Motionless",
+    "steam_appid": 1367970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Motionless 是第一人称射击游戏，您可以在其中测试您的准确性。您的主要任务是向目标射击，一旦成功击中，就会收到子弹。困难在于，每发一发子弹就花掉了，如果您还没有留下子弹，那您将输掉，必须重新开始。同样在游戏中，有不同的敌人试图攻击您，如果您失去所有生命值，您也将失去。您可以将时间缩短一会儿，以评估情况或使瞄准更容易。尝试使用狡猾并保存项目符号。您可以收集多少颗子弹？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-快速的游戏<br />\r\n<br />\r\n-具有不同行为的聪明敌人<br />\r\n<br />\r\n-简约的图形<br />\r\n<br />\r\n-悦耳的音乐",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367970/header.jpg?t=1595605678",
+    "developers": [
+      "leo wood"
+    ],
+    "publishers": [
+      "Motionline tm"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367970/3dad809a3846c6f599e2620b1fc73ba7c1b1fc2d.jpg"
+        },
+        {
+          "name": "Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367970/70a9348c3bc0c1a57b2751ca50eaefb8b70754ed.jpg"
+        },
+        {
+          "name": "Get 10 bullets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367970/f0bb9b897a34058af71e7fcdd71d4d332cd1aec6.jpg"
+        },
+        {
+          "name": "Get 100 bullets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1367970/32c2f2725581a7b3d062b5db5be937970701a53a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

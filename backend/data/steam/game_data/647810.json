@@ -1,0 +1,61 @@
+{
+  "647810": {
+    "name": "Verto Studio VR",
+    "steam_appid": 647810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "VertoStudio VR is a fully-capable 3D modeling studio designed to run entirely in VR!  No mirroring or external software is required of any kind. You can use it to import FBX, OBJ, DAE (and more) directly in front of you, then configure every aspect of the visual display of these scenes directly down to the individual polygons.  It also supports a full-scale desktop 3D modeling mode that can run at the same time as the VR mode!<br><br>Whether you are mocking up a quick VR workflow, or designing production VR environments, this tool eliminates all of the pipeline complexity involved with getting 3D assets and content into VR quickly.  Using Verto Studio, there is no more guesswork in designing for VR.  By including a traditional desktop-based 3D modeling mode, artists can move into VR at their own pace, and leverage the benefits of both modes as they navigate their way into this new technology.<br><br>Verto Studio VR Features <br><ul class=\"bb_ul\"><li> Create 3D scenes from scratch without the need for external computers or software. <br></li><li> Prefabs: Plane, Cube, Sphere, Torus, Cylinder, Sketch (draw in 3D), Terrain height map (image based), Text (supports custom ttf fonts)<br></li><li> Object edit mode: Rotate, Translate, Scale, Select entire objects and manipulate their transforms.<br></li><li> Includes real-world unit system for editing absolute position and scale of objects in meters. <br></li><li> Snap to grid, snap to vertex, snap to edge, snap to face<br></li><li> Low-Poly CSG (Union, Intersect, Subtract, Chisel)<br></li><li> Complete JS-powered scripting engine to extend Verto Studio with custom modeling/animation/experimental features.<br></li><li> Live polycount reduction (quadratic mesh simplification),<br></li><li> UV texcoord editing<br></li><li> Subdivide<br></li><li> Mesh smooth<br></li><li> Vertex weld<br></li><li> Grabbing objects &amp; polygonal selections via grip buttons.<br></li><li> Teleport and Fly locomotion support<br></li><li> VR Skyboxes environments: Includes Blue sky, gray sky, light grey environments (or can be disabled).<br></li><li> Immersive VR (IVR) scale setting via simple control to easily dial in scale of entire scene.<br></li><li> Left-handed controller mode.<br></li><li> Multiple editable lights<br></li><li> Material editing: Phong, Reflective/refractive environment mapping, Bump mapping, Toon shading<br></li><li> Runs custom GLSL shaders created in other versions of the app<br></li><li> File importing: FBX, DAE, OBJ, and more<br></li><li> File Exporting: OBJ and vsxproj (Verto Studio)<br></li><li> Concurrent editing features (drop into desktop editor while in VR at the same time).<br></li><li> Export Verto Studio scenes to cloud drive. <br></li><li> Full-featured Desktop Mode allowing editing concurrent with VR viewer (two-user mode).<br></li><li> VR Voice Commands on Windows 10 &quot;Edit&quot;, &quot;Select All&quot;, &quot;Delete&quot;, etc.<br></li><li> HoloPlay mirroring support for Looking Glass Displays<br></li><li> Complete file compatibility with the HoloLens, iOS, and Mac versions of Verto Studio 3D<br></li><li> and more!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647810/header.jpg?t=1613115463",
+    "developers": [
+      "Verto Studio LLC"
+    ],
+    "publishers": [
+      "Verto Studio LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "983780": {
+    "name": "XSprite",
+    "steam_appid": 983780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "超级桌面精灵(XSprite)是一个非常轻量级的的桌面动画精灵引擎，内置的在线资源库包含数百款千奇百怪的动画精灵，支持一键下载安装，定能让您的桌面与众不同、充满个性。精灵的种类包括动物、昆虫、人类、机械、汽车等等。<h2 class=\"bb_tag\" ><strong>特色</strong></h2><ul class=\"bb_ul\"><li>使用数百款动画精灵让您的桌面与众不同充满个性。<br></li><li>动画精灵支持鼠标拖拽、双击等交互，并可配置。<br></li><li>使用内置的在线资源库，您能一键下载使用数百款精灵。<br></li><li>众多种类的精灵，包括动物、昆虫、人类、机械、汽车等等。<br></li><li>可以与任何其他Steam游戏或应用程序兼容使用，可与Wallpaper Engine兼容使用。<br></li><li>支持Steam的云同步用户数据和精灵。<br></li><li>极少占用系统资源，就算同时打开数十个精灵，CPU的占用也几乎可以忽略不计。</li></ul><h2 class=\"bb_tag\" >快速上手指南</h2><strong>一、基本操作：</strong><br>1、下载精灵：鼠标右键单击托盘图标，选择“下载精灵…”菜单即可打开『超级精灵资源库』，下载海量精灵动画！<br><br>2、添加精灵：<br>①在桌面空白处双击鼠标左键可随机添加本地已安装精灵。<br>②鼠标左键双击托盘图标，双击你要添加的精灵预览图或者预览图右下角的“+”即可添加到桌面。<br><br>3、缩放精灵：在精灵上单击鼠标中键（滚轮）调出『精灵选项』页面，点击缩放比例左右两侧的“+”“-”即可，也可以手动修改缩放数值。<br><br>4、关闭精灵：在精灵上双击鼠标左键默认为关闭精灵。若已修改了默认的双击操作，则需右键点击托盘图标，选择“管理精灵…”，在“运行中”页面 进行删除操作。<br><br><strong>二、进阶操作：</strong><br>1、给精灵添加快捷方式：在精灵上单击鼠标中键（滚轮）调出『精灵选项』页面，点击“当被双击时”右侧下拉小三角按钮，选择相应的快捷选项并确定。<br><br>2、给精灵添加自定义网址：在精灵上单击鼠标中键（滚轮）调出『精灵选项』页面，点击“当被双击时”右侧选项文本框，修改成你需要打开的网址。<br><br>3、自定义精灵移动范围: 在精灵上单击鼠标中键（滚轮）调出『精灵选项』页面，点击“移动风格”右侧下拉小三角按钮，选择“随机游走”，然后在下方的“限制移动范围”处分别设置“上方”和“下方”的值。 数值 -1 代表不限制移动范围， 0代表平行移动， 1~99代表移动范围为屏幕尺寸的1%~99%<h2 class=\"bb_tag\" ><strong>性能</strong></h2>超级桌面精灵(XSprite)旨在使用尽可能少的系统资源但提供更好玩有趣的桌面体验。您能使用各种调整质量和性能的选项来满足您的需求。根据我们对steam上乃至全球所有同类桌面精灵软件的对比测试发现，超级桌面精灵是占CPU最小的！<h2 class=\"bb_tag\" >小技巧提示</h2><ul class=\"bb_ul\"><li> 双击桌面空白处可添加随机的精灵；在桌面上双击精灵可以将其关闭。<br></li><li>用鼠标中键点击桌面的精灵，可以打开精灵的配置窗口。<br></li><li>您可以在精灵的配置窗口设置“当精灵被双击时”执行的动作，例如：运行软件、打开文件夹、打开网页、关机等等</li></ul>",
+    "supported_languages": "英语, 简体中文, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983780/header.jpg?t=1593496046",
+    "developers": [
+      "XSP Dev"
+    ],
+    "publishers": [
+      "XSP Dev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

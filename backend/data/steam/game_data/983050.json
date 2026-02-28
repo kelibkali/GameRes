@@ -1,0 +1,79 @@
+{
+  "983050": {
+    "name": "Sticky Apps :: Monitor Ping",
+    "steam_appid": 983050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sticky Apps :: Monitor Ping是一个应用程序，用于查看与Internet上多个系统的网络连接。这是监控PING /网络到游戏服务器，视频流服务器或ISP的一种很好的方法。该软件名为“Sticky Apps”，因为每个应用程序都可以粘贴到您的桌面上，便于查看信息。<h2 class=\"bb_tag\" >监视您的PING </h2><br><ul class=\"bb_ul\"><li>监控您对Internet上各种服务器的ping<br></li><li>更改您监控的目的地数量<br></li><li>更改颜色方案以满足您的需求<br></li><li>粘贴在桌面上的任何位置<br></li><li>导出ping统计信息的图像</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983050/extras/531de663c2786578a8f8ac59e0ed7f35.avif?t=1558884422\" width=520 height=216 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983050/extras/24b0380bf0d3b01e089afbb1c128cdc9.avif?t=1558884422\" width=520 height=366 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983050/extras/4c5690928c839e8bfc90a11179f24f92.avif?t=1558884422\" width=584 height=402 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983050/extras/c3e03b50af95a43267f3088d5564c460.avif?t=1558884422\" width=784 height=542 /></span><h2 class=\"bb_tag\" >常见问题：</h2><br><strong>这和命令提示符ping有什么区别？ </strong><br>内置的Windows命令提示符ping更多是单个主机的实时延迟检查程序。此Monitor Ping应用程序通过以下几种方式改进：<br><ul class=\"bb_ul\"> <li>只需点击一下就可以同时Ping多个位置（它可以保存位置）<br></li><li>有一个图形界面，您可以缩放其大小，以便立即直观地表示延迟<br></li><li>以持续的方式跟踪数据包损失<br></li><li>具有启用跟踪图形大小的选项（例如，60秒历史记录与60分钟）<br></li><li>视觉上令人愉悦<br></li><li>可以单击将图形导出为图像（PNG）</li></ul><br><strong>这会占用大量带宽吗？ </strong><br>一点也不！每台显示器使用约。每秒输入/输出32字节的流量。从透视角度来看，您可以在使用甚至1 MB输入/输出之前轮询服务器32,000次。相比之下，只需在Youtube上观看一秒钟（1秒）的1080p视频，其带宽就会比您运行的每台显示器多出100,000倍。<br><br><strong>我为什么要用这个？ </strong><br>这是决定“是我吗？”的好方法。通过执行以下操作：<br><br><ul class=\"bb_ul\"> <li>将Monitor＃1设置为您的路由器（即192.168.0.1 / 10.0.0.1等）。<br></li><li>将Monitor＃2设置为您的ISP的下一跳（执行tracert以确定此情况）。<br></li><li>将Monitor＃3设置为通常非常可靠的东西。我建议8.8.8.8或谷歌。 COM<br></li><li>将Monitor＃4设置为您通常玩的在线游戏服务器。</li></ul><br>现在让我们假设你从你喜欢的游戏服务器上掉落，或者遇到延迟。只需查看Monitor Ping应用程序，您现在可以确认一些非常重要的信息。<br><br><ul class=\"bb_ul\"> <li>它是在你的电脑和你的路由器之间（例如坏的wifi？）。好吧，只需检查图＃1即可回答它。没有数据包损失+稳定延迟=不是wifi问题。<br></li><li>您的家庭和ISP之间的连接是否是电缆型号问题？好吧，cheeck Graph＃2，它将回答它。<br></li><li>它是你的ISP骨干吗？那么，图＃3将有助于回答这个问题。<br></li><li>它是实际游戏服务器的网络吗？图＃4将有助于此。</li></ul>此应用程序是确定网络连接问题的第一步，也是一个完整的监视器，可以查看操作的运行情况。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983050/header.jpg?t=1558884422",
+    "developers": [
+      "Tim Sullivan",
+      "StartupTim, LLC"
+    ],
+    "publishers": [
+      "Tim Sullivan",
+      "StartupTim, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Monitor Ping User",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/983050/390eac33ebe07a01f495852fba5f198856c8957b.jpg"
+        },
+        {
+          "name": "Features: 1x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/983050/1b04c2fa7c2dee6fc3e5b25312ce8d6ded034c50.jpg"
+        },
+        {
+          "name": "Features: 2x2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/983050/78f248857c224af44e04720c3dae155f2c1b22c9.jpg"
+        },
+        {
+          "name": "Features: 3x3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/983050/2ac3d7f5caa263ec0acfcf21258a7ad80df6c535.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 7,
+      "total_negative": 0,
+      "total_reviews": 7
+    }
+  }
+}

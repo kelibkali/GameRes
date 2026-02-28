@@ -1,0 +1,105 @@
+{
+  "1185270": {
+    "name": "经典扫雷",
+    "steam_appid": 1185270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款经典的电脑单机休闲游戏。<br />\r\n<br />\r\n游戏目标是就在最短的时间内根据记录用鼠标点击格子出现的数字找出所有非雷格子， 同一个时间避免踩雷。<br />\r\n<br />\r\n左键单击格子：如果不是地雷，格子上出现数字，则表示其周围相邻格子中的地雷数；格子为空（相当于0），则可以递归地打开与空相邻的格子；如果不幸触雷，则游戏结束。<br />\r\n<br />\r\n右键单击格子：标记为地雷（显示为小红旗），再次点击标记为疑似（显示为??)，再次点击取消标记。 如果在游戏菜单中勾选了禁用疑似标记，则两次操作即可取消标记。<br />\r\n<br />\r\n左键点击数字：相邻格子已标记雷数等于该位置数字时操作有效，相当于对该数字周围未打开的方块均进行一次左键单击操作。地雷未标记完全时点击无效。若数字周围有标错的地雷，则游戏结束。<br />\r\n<br />\r\n2023/10/17<br />\r\n正式版本<br />\r\n<br />\r\n2020/5/5<br />\r\n在原有的正方形板块基础上增加了六边形板块<br />\r\n<br />\r\n<br />\r\n2023/10/1<br />\r\n正式上线，增加传统模式，增加六边形变种，八边形板块",
+    "supported_languages": "简体中文, 英语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/header_schinese.jpg?t=1697536670",
+    "developers": [
+      "koyomogi"
+    ],
+    "publishers": [
+      "koyomogi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "第一次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/d0861ec99c3d2eb0a6c1b44daa7bf9e8760bcab5.jpg"
+        },
+        {
+          "name": "正方形 初级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/13847b227f7b2c8d41516d7576ab8e58701fcafa.jpg"
+        },
+        {
+          "name": "正方形 中级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/e59d832a8f3e78fc1eb69e49111397cea27c3c0d.jpg"
+        },
+        {
+          "name": "正方形 高级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/b4cd4342b34c2850e5f1fcc1cc54b50d9f453b7f.jpg"
+        },
+        {
+          "name": "六边形 初级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/ea2ca97567daabae3256526bdd2dd82de818a920.jpg"
+        },
+        {
+          "name": "六边形 中级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/d47ccda9df74c9314ee6d1adf09c778c1454f391.jpg"
+        },
+        {
+          "name": "六边形 高级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/235687acfd2de34761794181435557828213bf3d.jpg"
+        },
+        {
+          "name": "六边形2 初级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/048c73f6e5820afa50bd54ad6c9359aaead69591.jpg"
+        },
+        {
+          "name": "六边形2 中级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/11ecf9e88c3facea7c18924d45121d566a2e07a7.jpg"
+        },
+        {
+          "name": "六边形2 高级难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1185270/cc6a54193dd6a6da7df3d4e5f1a0509a2236eb4e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 3,
+      "total_negative": 8,
+      "total_reviews": 11
+    }
+  }
+}

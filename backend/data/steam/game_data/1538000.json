@@ -1,0 +1,69 @@
+{
+  "1538000": {
+    "name": "ColdSide - Support the Developer",
+    "steam_appid": 1538000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该DLC不会向游戏本身添加任何新内容。<br><br>如果要支持我，可以购买此DLC。 作为“谢谢”，您将获得奖励内容：<br><br><ul class=\"bb_ul\"><li>在幕后<br></li><li>旧版本和新版本的屏幕截图（4K）</li></ul><br>右键单击库中的游戏以访问文件：<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1538000/extras/f3ca59eda85ad99738119e474ec6d2e3.avif?t=1611929083\" width=300 height=222 /></span>",
+    "supported_languages": "俄语, 英语, 土耳其语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1538000/header.jpg?t=1611929083",
+    "developers": [
+      "AdroVGames"
+    ],
+    "publishers": [
+      "AdroVGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 550,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "866540": {
+    "name": "VR Flush",
+    "steam_appid": 866540,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>Imagine this:</strong><br>You are sitting on a toilet - minding your own business - when you are abducted and beamed up to an alien spaceship. <br>And you have to convince an A.I. that you really are an intelligent lifeform.<br><br>VR Flush is a free VR experience / adventure which we originally made as a 4th semester student project at the university of applied sciences in Darmstadt, Germany in 2015.<br><br>Although the game wasn't ready for release back then, it was shown at several german exhibitions, for instance in Frankfurt Am Main.<br>For these, we actually made visitors sit down on a real toilet. <br>For some reason, almost nobody wanted to fold up the toilet lid before sitting down...<br>Here are some pictures :)<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866540/extras/d291f3167195c0af53888841b82a097b.avif?t=1705684209\" width=600 height=260 /></span><br><br>Now, about 2.5 years after our first presentation, I finally had a few months to update and release our game.<br>It's completely free! Just download, play and have fun! =)<br>Also please rate this game and leave some feedback. We appreciate it!<br><br><br>The Brudingo Team<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866540/extras/82e061d7eaa07c30dfc7aae8801586a9.avif?t=1705684209\" width=600 height=124 /></span><h2 class=\"bb_tag\" >Additional controls (which are not explained inside the game):</h2><br><ul class=\"bb_ul\"><li>ALT + ENTER\t- Fullscreen<br></li><li>F \t\t        - Show FPS<br></li><li>ENTER \t\t- RECENTER View<br></li><li>SPACE\t\t- Toggle between mirror modes (How the game is displayed on your screen - Only works with Oculus Rift)<br></li><li>BACKSPACE\t- Speed up game by factor 10<br></li><li>LEFT/RIGHT\t- Rotate grabbed objects (You'll only need those in desktop mode)<br></li><li>ESC\t\t- Quit game</li></ul><h2 class=\"bb_tag\" >Update Notes: (Release Patch)</h2><br>VR Flush Patch 1.3 (2018)<br><br><strong>Engine</strong><br> <ul class=\"bb_ul\"><li>Engine upgrade from UE4.9 to UE4.15<br></li><li>VR Performance optimized</li></ul><br><strong>Controls</strong> <br><ul class=\"bb_ul\"><li>Oculus Rift Consumer Version (CV1) and HTC Vive are now supported <br></li><li>Game can now also be played using the Rift or Vive motion controllers <br></li><li>Grabbed objects can now also be rotated (When using the mouse as input device, use LEFT/RIGHT on keyboard to rotate) <br></li><li>The entire Game can still be played without an HMD (Though its much more fun in VR)</li></ul><br><strong>UI</strong> <br><ul class=\"bb_ul\"><li>Crosshair is now a 3D object and is optimized for VR (Mesh will always be rendered in foreground) <br></li><li>Crosshair now sticks to objects targeted by the player (distance wise) and lights up when an interactive object is focused</li></ul><br><strong>Sound </strong><br><ul class=\"bb_ul\"><li>Added several sound effects for intro level, player character and the Loot Toilet [TM]</li></ul><br><strong>Intro Level</strong> <br><ul class=\"bb_ul\"><li>Right at the start of the game, the optimal render resolution is calculated. The game looks at the most complex scene in the game and steadily increases the render resolution (r.screenpercentage) until the framerate drops below 88 fps.<br></li><li>Players playing the game without an HMD will have to wait 30 seconds for this test to be skipped automatically. <br></li><li>Deleted Intro level, moved contend to main level (No more loading time)<br></li><li>The Intro level was previously only used to start the game. Now its also used for the following: <br><ul class=\"bb_ul\"><li>Explain how the game is meant to be played (Sitting on a chair) <br></li><li>Recenter HMD - Pick Controller (Mouse, Vive Controller, Rift Controller) <br></li><li>Explain Controls for each input device <br></li><li>Introduce players to their toilet ;) <br></li><li>Start the game (which is now done by flushing the toilet) </li></ul></li><li>The Intro level is now narrated by a text plane that tells a short story (Player receives incoming text messages)</li></ul><br><strong>Toilet </strong><br><ul class=\"bb_ul\"><li>Flo now waits 30 seconds before he knocks on the door and starts complaining<br></li><li>Physics objects on the toilet don't fall through walls or the floor anymore. <br></li><li>All toilet paper except for those in the basket removed. <br></li><li>The remaining toilet paper rolls are now covered by a magazine. This forces the player to take the magazine first. <br></li><li>The toilet paper roll which will be beamed to the spaceship is now green. All others are white. <br></li><li>New teleport effect for green toilet paper (dissolves)<br></li><li>Lighting adjusted <br></li><li>Decals reordered (better readability) <br></li><li>New decals added <br></li><li>Toilet moved backwards (Some players didn't notice the hole in the wall to their left.) <br></li><li>New feature - The Loot Toilet [TM] <br></li><li>The Loot Toilet [TM] is an animated Decal on the wall next to the window. <br></li><li>Plays a short animation when the player looks at it <br></li><li>Plays different animations and spawns loot when the player interacts with it. <br></li><li>Some Loot will change the players surroundings or spawn new items <br></li><li>Loot tiers: regular, rare, epic and legendary</li></ul><br><strong>Spaceship</strong> <br><ul class=\"bb_ul\"><li>The green toilet paper now hovers in front of the players eyes after he arrives on the spaceship. It then flies towards the examination platform.<br></li><li>The robo now starts in the room to the players right. He then flies to the examination platform and starts examining the toilet paper. Timing and animation adjusted. </li></ul><ul class=\"bb_ul\"><li>The player now starts a lot closer to the examination platform. - Player transport to the middle of the room is now a lot slower and smoother. Acceleration and deceleration phases toned down to minimize motion sickness symptoms.</li></ul><ul class=\"bb_ul\"><li>Transition between toilet paper and ashpile improved <br></li><li>All spaceship screens now show a human as soon as the player is transported to the examination platform. <br></li><li>Laser impact improved (Space shuttle)</li></ul><br><strong>Credits </strong><br><ul class=\"bb_ul\"><li>2D Credits deleted, didn't work in VR <br></li><li>The environment in the toilet room will now be dimmed before the credits start rolling. With the exception of the robot. <br></li><li>Credits now emerge from the toilet floor and roll upwards <br></li><li>New credits (more detailed, now include voice actors and additional artwork)</li></ul><br><strong>Bug fixes </strong><br><ul class=\"bb_ul\"><li>Objects can now be targeted and picked up precisely in VR (was bugged) </li></ul><ul class=\"bb_ul\"><li>Game doesn't automatically recenter the HMD after teleporting the player anymore. It now uses the initial recenter done by the player for the entire game and only alters HMD camera rotation. </li></ul><ul class=\"bb_ul\"><li>Lots and lots of smaller bug fixes and adjustments</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866540/header.jpg?t=1705684209",
+    "developers": [
+      "Brudingo Broductions"
+    ],
+    "publishers": [
+      "Brudingo Broductions"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Die A.I., DIE!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866540/dc2673bd575fe9c3ad55625d5eba9f5df1a03350.jpg"
+        },
+        {
+          "name": "Legendary Crap!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866540/7a6278c514f29d2d20595d8de2739daa012f8d7d.jpg"
+        },
+        {
+          "name": "Legendary Shit!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866540/b22d81e1adf603df141fe3c8484dbc8ad2b80d80.jpg"
+        },
+        {
+          "name": "Darth Toilet!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866540/586adb8b086255e2edecc9e6479b79ab7e5e9558.jpg"
+        },
+        {
+          "name": "Handsome Robo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/866540/acb47cfb114113ef336ead0335169e310efcb488.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

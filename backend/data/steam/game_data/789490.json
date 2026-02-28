@@ -1,0 +1,65 @@
+{
+  "789490": {
+    "name": "Boom! Maze",
+    "steam_appid": 789490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A virtual reality version of the classic bomberman.<br />\r\n<br />\r\n** Now comes with non-VR gameplay **<br />\r\n<br />\r\n<br />\r\nBlast your way through a maze and destroy all the crates and enemies to to find the key. Collect useful items to help you progress.<br />\r\nBoom! Maze is another interpretation of a timeless classic from Lucid Pixel. Beat scores from players around the world. Enjoy a wonderful atmosphere and a colorful world.<br />\r\n<br />\r\n<br />\r\nPick up power ups to help you through the levels:<br />\r\nBomb Up- Increase the amount of bombs you can deploy at the same time by 1<br />\r\nBomb Down- Decrease the amount of bombs you can deploy at the same time by 1<br />\r\nFire Up- Increase the range of fire for your bombs by 1<br />\r\nFire Down- Decrease the range of fire for your bombs by 1<br />\r\nMarble Bomb- Throw a bomb anywhere<br />\r\nPierce Bomb- Pierce through crates, destroying more of them<br />\r\nPower Bomb- Increase the range of fire to fill all the space in a line<br />\r\nHp Up- Increase your HP<br />\r\nHeart-  Increase your amount of lives<br />\r\nClock- Increase the time you have to complete the level<br />\r\nVest-  Temporary invincibility<br />\r\nBonus- Instantly gain more points",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/789490/header.jpg?t=1569081186",
+    "developers": [
+      "Lucid Pixel"
+    ],
+    "publishers": [
+      "Lucid Pixel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

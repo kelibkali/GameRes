@@ -1,0 +1,125 @@
+{
+  "1197100": {
+    "name": "Red Mercenary",
+    "steam_appid": 1197100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Red Mercenary is a <strong>action adventure</strong> with <strong>rogue-lite</strong> element. <br>You are hired as a mercenary to retrieve a magic crystal. Alone or with your friends,  you fight your way through dungeons, gain new abilities with magic items,  level up, gain new items and level up again. But mainly try to survive to the swarm of enemies that constantly spawn around and of course want you dead.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><strong>Online Co-op</strong> - Adventure cooperatively with up to four players.<br></li><li><strong>Procedural Generation</strong> - Never get the same run!<br></li><li><strong>Choose your style</strong> - Choose your class and upgrade it through multiple runs.<br></li><li><strong>Make your build</strong> - Enchance your characters with over 100+ items<br></li><li><strong>Swarm</strong> - Fight through hordes of different ennemies.</li></ul>",
+    "supported_languages": "英语, 法语, 葡萄牙语 - 葡萄牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197100/header.jpg?t=1713514757",
+    "developers": [
+      "Nicolas Zurek"
+    ],
+    "publishers": [
+      "Nicolas Zurek"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 4100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 41.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Spirit Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/0e57db14fc5d25af3b50008e961b762d4480d7a8.jpg"
+        },
+        {
+          "name": "Helper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/f8b3db68b0a3dfaeaff8f81503188a7553dce659.jpg"
+        },
+        {
+          "name": "Tank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/72eeb9b56b8a8cbff78ead668f6323153b281862.jpg"
+        },
+        {
+          "name": "Damage dealer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/6fbc63ed4bf0c882a19d9aaa2ee02cdcffaf0519.jpg"
+        },
+        {
+          "name": "Collectionner ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/9e981e028695193d59d2d6b957d230e152c10206.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/f780d3b666f59b76867e3b6174618b03d7eb9faf.jpg"
+        },
+        {
+          "name": "Red Mercenary",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1197100/e07f4cc11251840cf3370bc7fc9f8080d30e17e7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

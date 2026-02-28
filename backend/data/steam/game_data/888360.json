@@ -1,0 +1,85 @@
+{
+  "888360": {
+    "name": "The Vagrant Artbook",
+    "steam_appid": 888360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该DLC 将会展示给您我们在游戏中使用到的美术资源。包括人物角色，背景美术，游戏中的物品和装备，怪物设计，以及游戏中出现的过场插画。<br />\r\n<br />\r\n在这份设定集中还会包含我们在早期Kickstarter众筹期间使用过的图片素材，还有我们在较早的开发阶段使用的设定和图像（实际并没有在最终版本使用）。<br />\r\n<br />\r\n美术设定集的格式为PNG图片，DLC购买下载后,在游戏安装目录下的DLC_TheVagrant_Artbook目录查看图片。",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/888360/header.jpg?t=1529638599",
+    "developers": [
+      "O.T.K Games"
+    ],
+    "publishers": [
+      "SakuraGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 330,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.30"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 26,
+      "total_negative": 1,
+      "total_reviews": 27
+    }
+  }
+}

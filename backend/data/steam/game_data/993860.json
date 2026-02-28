@@ -1,0 +1,109 @@
+{
+  "993860": {
+    "name": "圈圈工坊 OO.Inc",
+    "steam_appid": 993860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "圈圈工坊 OO.Inc是由一个人独立开发的创意型三消游戏。<br />\r\n<br />\r\n游戏玩法：<br />\r\n把 点环链 放置到棋盘上。<br />\r\n三个相同颜色连在一起即可得分。<br />\r\n消除只与颜色有关，和形状无关。<br />\r\n斜着的三个相同颜色也可以消除。<br />\r\n点形状可以和环形状堆栈。<br />\r\n彩色可以代替任何颜色消除。<br />\r\n<br />\r\n游戏术语：<br />\r\n原料：点-环链。<br />\r\n供料不足：只有当原料全部使用后才会产出新原料。<br />\r\n不规则原料：形状各不相同的原料。<br />\r\n<br />\r\n得分规则：<br />\r\n放置单个得分+1<br />\r\n消除单个得分+5<br />\r\n消除n个颜色，每个得分+5xn<br />\r\n<br />\r\n评级：<br />\r\n500以下：D<br />\r\n500~999：C<br />\r\n1000~1999：B<br />\r\n2000~2999：A<br />\r\n3000+：S<br />\r\n<br />\r\n关卡编辑及本地化：<br />\r\n在安装目录的StreamingAssets下<br />\r\nLocalization.csv可以修改翻译<br />\r\nTempleteSDS.csv可以修改关卡<br />\r\n（在正式版本将会提供可视化编辑工具）<br />\r\n<br />\r\n联系我：<br />\r\n本游戏由我个人完成，开发过程中难免有不足甚至错误。如果您对游戏有任何建议或疑问，欢迎给我发送电子邮件或qq洽谈。",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993860/header.jpg?t=1732200831",
+    "developers": [
+      "CQuark Studio"
+    ],
+    "publishers": [
+      "CQuark Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "One A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/5be96db62fd4ac7cc647ac84f8374d3614a232d6.jpg"
+        },
+        {
+          "name": "Five A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/687a67a9da075f8387b4c211604830c58ce43f59.jpg"
+        },
+        {
+          "name": "Ten A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/02a641484a0fe79ea7f9b7010c9300047abb7618.jpg"
+        },
+        {
+          "name": "Fifteen A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/5311899b327352777605e7586c5690f072f12a8d.jpg"
+        },
+        {
+          "name": "Fantastic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/fff6c0a30234e6b7418c9b64a47da4cb1d9df26f.jpg"
+        },
+        {
+          "name": "Do M",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/63a0a8abbadef90f3cdbcf1902a34de8f9464ffe.jpg"
+        },
+        {
+          "name": "One S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/388eaf62551b0a2cf94ef993776a28b8e84c8547.jpg"
+        },
+        {
+          "name": "Five S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/7c862fb18848cfba646ff7d9fcec822c0355b870.jpg"
+        },
+        {
+          "name": "Ten S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/eb2d53a38e4196138703d29110240c285b4a33a2.jpg"
+        },
+        {
+          "name": "Fifteen S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/993860/f1526459d36a4d96441e442d77c2c4c8d16b9759.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

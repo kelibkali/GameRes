@@ -1,0 +1,70 @@
+{
+  "1125000": {
+    "name": "Touhou Multi Scroll Shooting",
+    "steam_appid": 1125000,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Multi scrolling mode</h2>Seamlessly switching between horizontal, vertical and 3d shooter.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/a5157e9ce70e1c6d5490ed535556fb4e.poster.avif?t=1723895890\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/a5157e9ce70e1c6d5490ed535556fb4e.webm?t=1723895890\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/a5157e9ce70e1c6d5490ed535556fb4e.mp4?t=1723895890\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Story</h2>No story narration. Just move around and shoot for fun.<h2 class=\"bb_tag\" >Keyboard control (default)</h2><br><ul class=\"bb_ul\"><li>Arrow keys : Move<br></li><li>z : Shoot<br></li><li>x : Use skill<br></li><li>Left shift : Slowdown movement and aim to an enemy.<br></li><li>Space bar : turn<br></li><li>escape : pause game<br></li><li>You can set key config as you want in the option menu.</li></ul><h2 class=\"bb_tag\" >Miscellaneous game play features</h2><ul class=\"bb_ul\"><li>Konpaku Youmu is the only one playable character.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/d0673a3687d2d354822022791de7055e.poster.avif?t=1723895890\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/d0673a3687d2d354822022791de7055e.webm?t=1723895890\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/extras/d0673a3687d2d354822022791de7055e.mp4?t=1723895890\" type=\"video/mp4\"></video></span><br></li><li>There are 3 stages. Stage 1, Stage 2 and Extra Stage. Player do not need to clear a game to unlock extra stage.<br></li><li>3 difficulties. Easy, Normal and Hard.<br></li><li>Screen resolution setting. 1920x1080, 1280x720, 640x360. Choose which ever fit for your machine. The game has better performance with a lower resolution.<br></li><li>Unlimited continue. When player dies, player can continue at check point or restart a whole stage. If player use continue, the remaining hp is set to small amount. No deduct score when player use continue.<br></li><li>No pick up items. Youmu can recover Hp and Mp by herself.<br></li><li>Kill enemies consecutively to get more chain bonus.<br></li><li>No Luck base. All enemies and bullets behavior are not random. They have some algorithm behind them.</li></ul><h2 class=\"bb_tag\" >Save game location</h2>C:\\Users\\username\\AppData\\Local\\TestProject",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125000/header.jpg?t=1723895890",
+    "developers": [
+      "Skydash studio"
+    ],
+    "publishers": [
+      "Skydash studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "BigJellyFish",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1125000/fdfb0cd36a1430baaf216142fbef82164a04daf5.jpg"
+        },
+        {
+          "name": "AnotherYoumu",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1125000/49f41d6c2e9f198718a286ee30e8b66127477e94.jpg"
+        },
+        {
+          "name": "DoubleBigJellyFish",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1125000/95944b6ac09e0d9359d1beaf9a10be99b8cca31f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "1242730": {
+    "name": "双子树 TwinTrees",
+    "steam_appid": 1242730,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >关于DEMO</h2>*该DEMO与本体内容一致*<br><br>-其实就相当于游戏免费<br>-本体收费类似于“赞助”选项<br>-也就是如果您相信这种“直播弹幕互动游戏”玩法有潜力<br>-那么请为这可能性增加一点可行性吧...🙏<h2 class=\"bb_tag\" >简介</h2>一款需要主播和观众合作完成的直播弹幕互动游戏<br><br><br>-观众可以输入“1” “2” “9” “0”的弹幕来在不同位置降下雨点；<br>//目前版本含有测试功能，按下1、2、9、0同样可以达到弹幕生成效果，方便测试<br>-主播可以按下“Q” “W” “O” “P”来升起挡板；<br>-光球可以为树木提供光照值，并且受重力影响;<br>-树木需要光照值才能生长，光照值归零就会下降生长值;<br><br>-降下雨点，让平台倾斜，使光球移动;<br>-保持光球来回移动，保证俩颗树光照值不会归零;<br>-当俩颗树都达到100点生长值通关;<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242730/extras/4f97c3ceb7b7742cb88360897e8cd0f7.poster.avif?t=1635774855\" width=738 height=402 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242730/extras/4f97c3ceb7b7742cb88360897e8cd0f7.webm?t=1635774855\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242730/extras/4f97c3ceb7b7742cb88360897e8cd0f7.mp4?t=1635774855\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >特殊事项</h2>-这款游戏并不能单人游玩！<br><br>-目前仅支持Bilibili直播；<br>-目前游戏还很简陋(处于非常早期的半成品版本)🙇‍；<br>-潜力股？🙇‍<br>//还有许多关于直播弹幕互动游戏的想法<br>//不知道何时才能化为现实...<br>//有关于直播弹幕互动游戏的想法和建议等可以直接加Q群讨论671664163",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1242730/header_schinese.jpg?t=1635774855",
+    "developers": [
+      "NightLightAnimal"
+    ],
+    "publishers": [
+      "NightLightAnimal"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

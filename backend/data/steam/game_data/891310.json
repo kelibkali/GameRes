@@ -1,0 +1,93 @@
+{
+  "891310": {
+    "name": "Medical verdict",
+    "steam_appid": 891310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Try to pass a virtual medical examination with realistic graphics with a first-person view! Your attention is represented by the following doctors and procedures:<br />\r\n1. Therapist<br />\r\n2. Ophthalmologist<br />\r\n3. The psychiatrist<br />\r\n4. MRI<br />\r\n5. X-ray<br />\r\n6. Gastroscopy<br />\r\n7. Analyzes<br />\r\n8. Sexologist<br />\r\nAll inspections are accompanied by individual mini-games for reaction speed, luck and endurance.<br />\r\nAt the end, each player receives an individual virtual health score on a fractional 100-point scale.<br />\r\nCompete against each other! Collect points, open bonuses and remember that this is just a game!",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/891310/header.jpg?t=1585753741",
+    "developers": [
+      "Volokitin Andrey"
+    ],
+    "publishers": [
+      "Volokitin Andrey"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "REGISTRATION_SUCCESS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/891310/641f44a399885f3e360be5350ac75f23529213ed.jpg"
+        },
+        {
+          "name": "Ghost of Eva",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/891310/abb6088639050bb5802bc7a5f446b83c9f976ebf.jpg"
+        },
+        {
+          "name": "More than you can",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/891310/5f62502f806b7344777d7ce62c3ef691a6de5fa5.jpg"
+        },
+        {
+          "name": "Key found",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/891310/405bc6657fc928aa18d9dbe17bc1096e99055c00.jpg"
+        },
+        {
+          "name": "ESCAPE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/891310/8de31f35ee00ffbe6a1580c1bedf56248338516d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

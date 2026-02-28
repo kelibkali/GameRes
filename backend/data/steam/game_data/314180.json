@@ -1,0 +1,133 @@
+{
+  "314180": {
+    "name": "Deathsmiles",
+    "steam_appid": 314180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "死亡微笑是 CAVE 的一款弹幕射击游戏，在这个游戏中，你可以选择扮演五个天使角色中的一位，来保护吉尔佛拉多的魔法土地不受地狱黑暗势力的侵袭！与好友组队，选择一位天使，在六种不同的游戏模式中铲除这次的邪恶攻击，以绝后患！<br><br>死亡微笑的开发商 CAVE Co., Ltd.是备受推崇的弹幕射击游戏（虫姬、怒首领蜂、圣战之翼等等）背后的动力工厂。<br><br><ul class=\"bb_ul\"><li>在六种不同的游戏模式中水平滚动、疯狂射击，其中包括大型黑色标签模式。<br></li><li>幽灵般的游戏趣味！在这个以哥特式恐怖为主题的冒险游戏中，大战幽灵、恶魔、食人植物和巨牛。<br></li><li>有五位可游戏的天使供玩家选择，其中每一位天使都有自己忠实的密友。<br></li><li>支持双人本地合作游戏。团结一致，驱逐地狱的邪恶力量！<br></li><li>极具挑战性的强大计数系统，让你有一分耕耘，就有一分收获。<br></li><li>各种恐惧阶段的非线性进度，允许你自由选择路径和难度。</li></ul>",
+    "supported_languages": "英语, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314180/header.jpg?t=1723878286",
+    "developers": [
+      "CAVE Interactive CO.,LTD."
+    ],
+    "publishers": [
+      "KOMODO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 3 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 48,
+      "highlighted": [
+        {
+          "name": "Opening Salvo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/b9b61c4ee8cc2915e48cca3ae1bfdfc70a8b4616.jpg"
+        },
+        {
+          "name": "Resurgence",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/d71e62f01948e85e15310f44d7d7b8a81db7fcfc.jpg"
+        },
+        {
+          "name": "Infernal Scythe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/837e763adb63bc568478c58889ecfc5de870bfff.jpg"
+        },
+        {
+          "name": "Buried Alive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/686159ab40d3c7838f7a9164cee8cc9393ea029e.jpg"
+        },
+        {
+          "name": "Putting down Roots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/a2be340d5b9ec8e5b31580a01b4262d1acf24f63.jpg"
+        },
+        {
+          "name": "Successor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/5fa161827a5364f30bb9b4aa79523e7ae972e0f2.jpg"
+        },
+        {
+          "name": "Boss Milking",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/4fc72ffce50cafb68fa9cb512791e3e88b84d1c2.jpg"
+        },
+        {
+          "name": "Flame Dragon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/dc02e823bbd52bfb0be5230f49a38cd9ff63d2d0.jpg"
+        },
+        {
+          "name": "The Twin Wyrms",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/3c286d8e631087567aca4b63a67b0c7ccbc7f824.jpg"
+        },
+        {
+          "name": "Gatekeeper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314180/ac9eebfff760368042dd671d34f04c5c31fd2489.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 61,
+      "total_negative": 2,
+      "total_reviews": 63
+    }
+  }
+}

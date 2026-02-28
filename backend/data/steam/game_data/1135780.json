@@ -1,0 +1,82 @@
+{
+  "1135780": {
+    "name": "ALLBLACK Phase 1 Demo",
+    "steam_appid": 1135780,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This demo covers Chapter 1-3. There are 6 chapters total. Additional chapters will be added in the future as a final release version.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135780/header.jpg?t=1602205858",
+    "developers": [
+      "NSAID"
+    ],
+    "publishers": [
+      "NSAID"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "ALLBLACK",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1135780/a5ead63a62f1169b9002d98d059d0d2f289e9f83.jpg"
+        },
+        {
+          "name": "α - Nous",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1135780/941575c75576182b30f565a2f605dda84e878ee6.jpg"
+        },
+        {
+          "name": "β  - Identity",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1135780/af82f19abdc26915b81e1f782480279a6b2ac87a.jpg"
+        },
+        {
+          "name": "γ  - History and Memory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1135780/2b6a50129643f8b5dc042a7c7a28eb7e44d527ed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

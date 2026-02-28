@@ -1,0 +1,65 @@
+{
+  "908660": {
+    "name": "Circle Brawl",
+    "steam_appid": 908660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是2D版本的《术士之战》——魔兽争霸3 中经典的竞技场地图<br />\r\n2D视图方便您实现更加精确的操作<br />\r\n下面复习一下《术士之战》的精髓：<br />\r\n---------------------------------------------<br />\r\n将敌方术士击入熔岩范围从而快速消灭他们。<br />\r\n给敌方术士造成伤害可以累积伤害点数。<br />\r\n伤害点数越高， 攻击敌方术士造成的击退距离就越远。<br />\r\n每回合结束后可以继续购买技能或装备。<br />\r\n可高度自定义的游戏参数。<br />\r\n多种不同的游戏模式。<br />\r\n各有特色的技能组合运用。<br />\r\n用超强的意识+YD的走位完美KO对手。<br />\r\n激烈的对抗与可自定义的地形。<br />\r\n---------------------------------------------<br />\r\n上面这些都会有的。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908660/header.jpg?t=1551265561",
+    "developers": [
+      "xvzan"
+    ],
+    "publishers": [
+      "xvzan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

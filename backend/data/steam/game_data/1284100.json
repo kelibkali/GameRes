@@ -1,0 +1,65 @@
+{
+  "1284100": {
+    "name": "HookShotVR",
+    "steam_appid": 1284100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Let's fly around 3D space with fictional movement item &quot;HookShot&quot;.<br><br>*** Note : Some in game texts are Japanese.<br>*** No need to worry about &quot;How to Control&quot;, you can read it &quot;Read Me&quot; in English. <br>*** You need VR sets.<br>*** If you use &quot;Index&quot; Controller, please change bindings.<br><br><strong>What you can do in this game.</strong><br><ul class=\"bb_ul\"><li> You can fly around inside of map.<br></li><li> You can shoot a &quot;Hook&quot; wherever you want except out of map<br></li><li> You can challenge that how fast clear the stages.</li></ul><br><strong>What you should not expect this game</strong><br><ul class=\"bb_ul\"><li> Stories<br></li><li> Beautiful Graphic</li></ul><br><strong>Game Modes</strong><br>1. Time Attack Mode<br>        Go through the arches in the order and compete for the time to finish all.<br>2. Break Time Attack Mode<br>        Compete the time to destroy all objects on the stage.<br>3. Battle Mode<br>        Compete the time to destroy all enemies(objects) on the stage.",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284100/header.jpg?t=1667213292",
+    "developers": [
+      "HookShotVR Team"
+    ],
+    "publishers": [
+      "HookShotVR Team"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

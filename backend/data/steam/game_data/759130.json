@@ -1,0 +1,62 @@
+{
+  "759130": {
+    "name": "DCS: AV-8B Night Attack V/STOL",
+    "steam_appid": 759130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AV-8B项目起源于20世纪70年代早期，旨在解决第一代AV-8A鹞式攻击机在服役中暴露出的各种不足。该项目希望使改进型飞机的作战能力和飞行性能得到大幅提升。AV-8B于1981年11月首飞，1985年1月进入美国海军陆战队服役。之后该机型又进一步进行了改进，改进机型为AV-8B N/A（夜间攻击型）和AV-8B鹞式II+。<br><br>1987年1月26日，第一架进行夜间攻击能力改型的AV-8B首飞，并于1989年开始交付驻扎亚利桑那州尤马的美国海军陆战队VMA-214中队。1992年底，位于尤马的其他单位也完成了该机型的交付。AV-8B N/A改型（最初被叫做AV-8D）于1984年开始进行研制，包括加装用于夜间任务的NAVFLIR（导航前视红外相机，包括位于机鼻的GEC-马可尼的FLIR系统）。飞行员装备了马可尼公司的&quot;猫眼&quot;头戴夜视镜。座舱中的彩色多功能显示器、宽视场平视显示器和彩色CRT数字地图也进行了相应的改进。除此之外，先进的航电系统使飞行员不需要观察机外就可执行任务。AV-8B N/A共装备6套特拉可公司的ALE-39干扰弹布撒器，4套位于后机身上部，2套位于后机身下部。AV-8B N/A使用罗罗公司的改进型飞马 11-61（F402-RR-408）矢量推力涡扇发动机。<br><br>本产品以制造号163853和其之后的AV-8B N/A机型（代表了AV-8B夜间攻击型的最新改型）作为参考。<h2 class=\"bb_tag\" >RAZBAM开发的DCS: AV-8B夜间攻击型垂直起降攻击机的关键特性包括：</h2><br><ul class=\"bb_ul\"><li>高级飞行力学模型提供了对飞机性能和垂直起降特性的真实模拟<br></li><li>高精度的外部3D模型<br></li><li>高精度的六自由度（6 DOF）驾驶舱，使用鼠标与驾驶舱控制交互<br></li><li>真实的电气、燃油、液压、灯光、发动机和导航系统模拟：<br></li><li>发动机数控系统（DECS）<br></li><li>自动燃油系统<br></li><li>空中加油系统<br></li><li>供电系统<br></li><li>机身灯光<br></li><li>驾驶舱灯光<br></li><li>液压系统<br></li><li>飞控系统（FCS）<br></li><li>平视显示器（HUD）<br></li><li>前上方控制面板（UFC）<br></li><li>选项显示单元 (ODU)<br></li><li>多功能彩色显示器（MPCD）<br></li><li>VREST 计算机（用于喷气增升飞行）<br></li><li>大气数据计算机（ADC）<br></li><li>环控系统（ECS）<br></li><li>机载供氧系统（BOGS）<br></li><li>真实的武器、传感器和防御系统：<br></li><li>GAU-12 &quot;平衡者&quot; 25毫米/0.984英寸加特林机炮吊舱<br></li><li>6个翼下挂点，最大挂载9,200磅（4,200千克）：<br></li><li>AIM-9 &quot;响尾蛇&quot; 以及近似的红外制导空空导弹<br></li><li>AGM-65 &quot;小牛&quot; 空对地导弹<br></li><li>Mk80 非制导炸弹（包括3千克/6.6磅和14千克/31磅的训练弹）<br></li><li>宝石路激光制导炸弹（LGBs）<br></li><li>JDAM（GBU-38、GBU-32和GBU-54）<br></li><li>Mk20 集束炸弹（CBUs）<br></li><li>AN/AAQ-28V LITENING 瞄准吊舱<br></li><li>ALQ-164 电子对抗吊舱<br></li><li>多套涂装<br></li><li>详细的操作手册和袖珍指南<br></li><li>快速行动、单机任务以及训练任务<br></li><li>LHA的首舰 - 美国海军塔拉瓦号（LHA-1）的高精度模型</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/759130/header.jpg?t=1744132126",
+    "developers": [
+      "RAZBAM"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 19,
+      "total_negative": 9,
+      "total_reviews": 28
+    }
+  }
+}

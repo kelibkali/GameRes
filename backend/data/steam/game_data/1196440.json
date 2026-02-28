@@ -1,0 +1,137 @@
+{
+  "1196440": {
+    "name": "Potion Party",
+    "steam_appid": 1196440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/513d0c267b8f60807ff29dbe431e1e63.poster.avif?t=1715363193\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/513d0c267b8f60807ff29dbe431e1e63.webm?t=1715363193\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/513d0c267b8f60807ff29dbe431e1e63.mp4?t=1715363193\" type=\"video/mp4\"></video></span><br><br>《药水欢乐趴》是一款可由一至四个玩家一起合作的欢乐炼金术游戏。在你自己的炼金店里和你的朋友们一起玩耍！发财出光，改善工具，装饰商店!成为颜值担当的炼金大师！加油噢！<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/ed962818c4171f912a75d7174925c6fa.avif?t=1715363193\" width=80 height=80 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/aa5ee8268e421fcd3f59f507fb5f87e1.poster.avif?t=1715363193\" width=640 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/aa5ee8268e421fcd3f59f507fb5f87e1.webm?t=1715363193\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/extras/aa5ee8268e421fcd3f59f507fb5f87e1.mp4?t=1715363193\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 德语, 简体中文, 西班牙语 - 西班牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196440/header.jpg?t=1715363193",
+    "developers": [
+      "RPGames"
+    ],
+    "publishers": [
+      "RPGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "First Day",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/12304260555dcac2e7da8081ddb471ccd7a59a2d.jpg"
+        },
+        {
+          "name": "Junior Alchemist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/e2ed1e2bd2e30820f8e774612270d100d466ac42.jpg"
+        },
+        {
+          "name": "Senior Alchemist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/ca607570453c90af348f91429a50aed62d6ccf1b.jpg"
+        },
+        {
+          "name": "Master Alchemist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/9aed2f4385c415ea26ef110c532a507cb233b89d.jpg"
+        },
+        {
+          "name": "Full House",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/1d1e9d9ffdb322d5460e2b1d7769fafaa3837f3e.jpg"
+        },
+        {
+          "name": "Functionality",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/e739dc23d8781e6264496a351053f77776fe5664.jpg"
+        },
+        {
+          "name": "Beautiful Shop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/dc133826bb565dc38de0849fa8e4bfa662bd0ba8.jpg"
+        },
+        {
+          "name": "Still poor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/8e7f21bc47b61c33ed34ea1805271b1a7a3bb0d2.jpg"
+        },
+        {
+          "name": "Rich",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/fec61f5dd74106cbad5a0a20d24a61a25f9ae09d.jpg"
+        },
+        {
+          "name": "Richer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1196440/8dabaa89d6439f006928bb9a28b260226a07550d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 2,
+      "total_negative": 2,
+      "total_reviews": 4
+    }
+  }
+}

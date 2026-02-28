@@ -1,0 +1,58 @@
+{
+  "909870": {
+    "name": "VR Model Viewer Demo",
+    "steam_appid": 909870,
+    "required_age": 0,
+    "is_free": true,
+    "description": "VR Model Viewer Demo allows you to import a variety of model formats for viewing in VR. Supported formats:<br />\r\n<br />\r\n- OBJ (with MTL file)<br />\r\n- 3DS<br />\r\n- FBX<br />\r\n- STL<br />\r\n- DXF<br />\r\n- DAE (Collada)<br />\r\n- X3D<br />\r\n- Blend<br />\r\n- GLTF<br />\r\n- PLY<br />\r\n<br />\r\nOnce imported you can rotate/scale/position the model, pick it up and examine it close up in VR.<br />\r\n<br />\r\nVR Model Viewer demo allows you to import only a single model and provides two test scenes. It also only provides a subset of the available tools, and you cannot save or load any scenes you build. Use this demo to test if your model will import properly before purchasing the full version.<br />\r\n<br />\r\nKnown issues/limitations: <br />\r\n<br />\r\n- Lights will be enabled in a future release.<br />\r\n- Old FBX-DOM formats are not supported.<br />\r\n- Newer FBX versions (2016+) are not fully supported  (work in progress).<br />\r\n- FBX animations will be enabled in a future release<br />\r\n- Inverse kinematics are not supported.<br />\r\n- Vertex animation is not supported .<br />\r\n- Blend shapes are not supported at the moment.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909870/header.jpg?t=1532693729",
+    "developers": [
+      "MindRend Technologies"
+    ],
+    "publishers": [
+      "MindRend Technologies"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

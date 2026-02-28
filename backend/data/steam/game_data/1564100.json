@@ -1,0 +1,113 @@
+{
+  "1564100": {
+    "name": "Synth Drift",
+    "steam_appid": 1564100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Get ready to test your speed and agility in <strong>Synth Drift</strong>, an exhilarating game featuring 30 progressively challenging levels. Your mission is simple: race as fast as you can to reach the goal while avoiding the ever-encroaching spikes. This game may be straightforward, but it demands quick reflexes and sharp focus!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>30 Thrilling Levels</strong>: Each level ramps up the difficulty, pushing your skills to the limit.</p></li><li><p class=\"bb_paragraph\" ><strong>Achievements</strong>: Earn an achievement for every level you conquer.</p></li><li><p class=\"bb_paragraph\" ><strong>Online Leaderboards</strong>: Compete with players worldwide and showcase your best completion times.</p></li><li><p class=\"bb_paragraph\" ><strong>Cloud Saving</strong>: Never lose your progress with seamless cloud saving.</p></li><li><p class=\"bb_paragraph\" ><strong>Full Controller Support</strong>: Enjoy a smooth and immersive gaming experience with full controller compatibility.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Don’t wait too long—those spikes are closing in! Dive into Synth Drift and see how fast you can go!</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564100/header.jpg?t=1728114105",
+    "developers": [
+      "NanningsGames"
+    ],
+    "publishers": [
+      "NanningsGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 360,
+      "discount_percent": 40,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Level 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/1eb9337800713da11772d7db7aa984e280975f8a.jpg"
+        },
+        {
+          "name": "Level 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/586dcfe88caabc586bed220362f98893d9ceb8fe.jpg"
+        },
+        {
+          "name": "Level 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/f9ae7e39def9be8830c9e338bb426bdf6f338137.jpg"
+        },
+        {
+          "name": "Level 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/956603e18fd5e31e514a4e06f32293f347abbe8a.jpg"
+        },
+        {
+          "name": "Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/444ff277523560624a1dd232382530617abea2cf.jpg"
+        },
+        {
+          "name": "Level 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/7818fdd1176b9a5955d4c37dc429d5d3385ff280.jpg"
+        },
+        {
+          "name": "Level 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/2576205a359f926189204570bc41c604751c76cc.jpg"
+        },
+        {
+          "name": "Level 8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/570d2a0d22f3dcee3f49bb2be71cbebc5ec813d2.jpg"
+        },
+        {
+          "name": "Level 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/936ebbf5f7607c8d6b019b55e1adc123978354a4.jpg"
+        },
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564100/210aab0af23bad1c8c8057230a83cb67dcf6d863.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

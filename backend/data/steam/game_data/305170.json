@@ -1,0 +1,65 @@
+{
+  "305170": {
+    "name": "NoLimits 2 Roller Coaster Simulation - Professional License",
+    "steam_appid": 305170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This Professional License DLC adds more features to the standard version of NoLimits 2.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > The professional license allows to use screenshots and videos for commercial usage.</p></li><li><p class=\"bb_paragraph\" > Set custom friction parameters in the coaster properties.</p></li><li><p class=\"bb_paragraph\" > Password protect your park packages.</p></li><li><p class=\"bb_paragraph\" > Import and Export the track spline (points along a track) from and to a CSV file.</p></li><li><p class=\"bb_paragraph\" > Import/Export of supports in custom XML format </p></li><li><p class=\"bb_paragraph\" > Import/Export of scenery in custom XML format </p></li><li><p class=\"bb_paragraph\" > Import/Export of terrain in custom XML format </p></li><li><p class=\"bb_paragraph\" >Export of terrain in 3D format  </p></li><li><p class=\"bb_paragraph\" > Unrestricted Video Export resolutions (up to 4k, no watermark)</p></li><li><p class=\"bb_paragraph\" > 360 degree (Equirectangular) Video Export</p></li><li><p class=\"bb_paragraph\" > High quality motion-blur effect in Video Export</p></li><li><p class=\"bb_paragraph\" > High resolution poster screenshots</p></li><li><p class=\"bb_paragraph\" > Transparent background screenshots (screenshots with alpha)</p></li><li><p class=\"bb_paragraph\" > Debug Information Panel</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >Note: This DLC is not required if you already have purchased the Professional License Upgrade from our website.</p><p class=\"bb_paragraph\" >Note: The spline import/export files cannot be directly loaded into other 3D applications. It is a custom format that stores position and orientation vectors of the track and does not include any 3d geometry data. Therefore this DLC is <strong>not</strong> a solution for easy 3d printing. There currently is no soluation available to export any 3d geometry for 3d printing.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305170/header.jpg?t=1767107375",
+    "developers": [
+      "Ole Lange"
+    ],
+    "publishers": [
+      "O.L. Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 14800,
+      "final": 14800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 148.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

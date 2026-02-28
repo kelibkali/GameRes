@@ -1,0 +1,41 @@
+{
+  "1365760": {
+    "name": "Defold",
+    "steam_appid": 1365760,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Free 2D Focused Cross-Platform Game Development</h2><br>Defold is a completely free to use game engine for development of desktop, mobile and web games. There are no up-front costs, no licensing fees and no royalties. The source code is made available on GitHub with a developer-friendly license. The Defold editor runs on Windows, Linux and macOS and includes a code editor, debugger, profiler and advanced scene and UI editors. Game logic is written in Lua with the option to use native code to extend the engine with additional functionality. Defold is used by a growing number of developers to create commercial hits as well as games for game jams and in schools to teach game development. Defold is known for its ease of use and it is praised for its technical documentation and friendly community of developers.<h2 class=\"bb_tag\" >Supported Targets</h2><br>Deploying Defold games to supported targets is a low friction experience and can even be fully automated with our <i>bob</i> scripting tool. This means with Defold it is possible for you to one click deploy new game builds to Steam as some in our community do.<br><br><ul class=\"bb_ul\"><li> Windows<br></li><li> macOS<br></li><li> Linux<br></li><li> HTML5<br></li><li> Android<br></li><li> iOS</li></ul><br><i>Some console platforms not listed here may require partner verification to use. When your project / team is ready to get verified, please contact us to get verified as required by console vendors.</i><h2 class=\"bb_tag\" >Discover Defold</h2><br><ul class=\"bb_ul\"><li> Active community on the Defold official forum<br></li><li> Large number of community contributed libraries and extensions with many popular SDKs you would expect supported<br></li><li> Refactoring is a first class feature, quickly make large organizational changes in your projects with the busy work taken care of for you by the editor<br></li><li> Though 2D focused the engine is still 3D<br></li><li> Lightweight, efficient engine runtime with the ability to strip out additional features as desired<br></li><li> Make webgames, mobile games, and Steam games all from the same project<br></li><li> Texture Profiles make it easy to enable per platform compression levels when size matters<br></li><li> Live Update enables you to release new content and fixes quickly<br></li><li> No need to install extra dependencies to make platform build bundles<br></li><li> Fonts are handled efficiently with only the glyphs in use kept in memory, even distance field fonts are supported<br></li><li> Don't love Lua? Code using Haxe with hxdefold<br></li><li> Visit the official Defold site for manuals, API reference, examples, and tutorials</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365760/header.jpg?t=1654893261",
+    "developers": [
+      "Defold Foundation"
+    ],
+    "publishers": [
+      "Defold Foundation"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 28 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "4313160": {
+    "name": "Castle of the Winds",
+    "steam_appid": 4313160,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >Castle of the Winds is a classic early Windows roguelike. Set in a world inspired by Norse mythology, players explore procedurally generated dungeons near a quiet village, battling monsters, discovering magical items, and unraveling the mystery of an ancient evil. Castle of the Winds became a formative introduction to roguelikes for an entire generation of PC players, and remains a fondly remembered gem of the Windows 3.x era.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>As a faithful port from the original source, you can expect:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Amazing 16 color  pixel art! State of the art effects from 1989!</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Hand crafted town levels and procedurally generated dungeons! </p></li><li><p class=\"bb_paragraph\" >Dozens of magic spells to learn!  Infinite magic items to find! </p></li><li><p class=\"bb_paragraph\" >A drag and drop inventory interface that was novel at the time (mice were new back then).</p></li><li><p class=\"bb_paragraph\" >A keyboard interface that supports both the numeric keypad and the classic rogue movement keys. </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A classic Windows Help File for documentation, even though I had to recreate the help engine myself.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Seriously, this is all about nostalgia.  We did add support for Steam achievements and Cloud Saves, but if you're expecting 3D art, shaders, and particle effects you're in the wrong place!  </p><p class=\"bb_paragraph\" >This version of the game has been lovingly (?) recreated by original developer Rick Saada to run on modern 64 bit Windows environments. It contains both Part 1: <i>A Question of Vengeance</i> and Part 2: <i>Lifthransir's Bane.</i></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313160/26fc4c717516839c0fa75f0f95c12b2f3063005e/header.jpg?t=1769625698",
+    "developers": [
+      "SaadaSoft"
+    ],
+    "publishers": [
+      "Nimble"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

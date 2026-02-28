@@ -1,0 +1,65 @@
+{
+  "1093730": {
+    "name": "Supraland Crash",
+    "steam_appid": 1093730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一个全新的Supraland 冒险，充满着探索、解谜和惊喜... 以及一点点的战斗。<br>Crash 是一个全新的Supraland 章节故事，您可以直接在游戏主页面选择游玩。你并不需要先完成游戏本体，但是我们强烈建议您先完成游戏本体再来体验。<br><br>Crash 的预估游玩时间: 约7到13小时。<br><br><strong>游戏本体的进度/存档会不会影响到DLC？</strong><br>完全不会！ DLC的故事章节是分开的，一个额外的冒险。 DLC接续着本体的故事，主选单会有额外的故事选择，游戏存档也将会分开存放。<br><br><strong>我需要完成游戏主体才能游玩DLC吗？ ?</strong><br>不需要，但你应该这么做，因为DLC 沿用许多游戏本体内就有的机制，你可能需要对本体的游戏机制有一定的了解。<br><br><strong>为何不将DLC 做为一款单独游戏发售？</strong><br>- 本DLC 与本体并没有太巨大的差别。比起2代，这更像是Supraland 1.5。玩家可能不会喜欢续作跟前作的机制太过相似。<br>- 可能会有混淆的问题。随着Supraland 的故事越来越多，玩家可能会搞不清楚游戏的顺序。<br>- 本DLC 是给予进阶玩家。这并没有从头开始讲解一切。单独发售可能会让许多玩家在尚未游玩游戏本体前就接触此作品，这不是我们希望发生的。",
+    "supported_languages": "英语, 德语, 日语, 繁体中文, 简体中文, 法语, 土耳其语, 俄语, 波兰语, 韩语, 匈牙利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093730/header.jpg?t=1725021444",
+    "developers": [
+      "Supra Games"
+    ],
+    "publishers": [
+      "Supra Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4700,
+      "final": 3525,
+      "discount_percent": 25,
+      "initial_formatted": "¥ 47.00",
+      "final_formatted": "¥ 35.25"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 27,
+      "total_negative": 13,
+      "total_reviews": 40
+    }
+  }
+}

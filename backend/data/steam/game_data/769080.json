@@ -1,0 +1,97 @@
+{
+  "769080": {
+    "name": "The Little War",
+    "steam_appid": 769080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>《The Little War》是一个快节奏PVP射击游戏. 游戏拥有多种武器及MOBA、夺旗、死斗等多种游戏模式, 更有独特的升降台机制. 上手简单,且清晰明了的规则和设定: 让你更专注于杀敌或被杀之间!</strong><h2 class=\"bb_tag\" >地图和游戏模式</h2>Hexagons的多张地图中包含了各式各样的战场. 尽管大小不一, 但是都各具特色且拥有独特的玩法:<br><ul class=\"bb_ul\"><li>MOBA模式（无技能的纯射击带线推塔模式）</li></ul><ul class=\"bb_ul\"><li>死亡竞赛</li></ul><ul class=\"bb_ul\"><li>夺旗模式</li></ul><h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>独特的升降台机制, 可以使你拥有更多的腾空时间进行高空杀敌.</li></ul><ul class=\"bb_ul\"><li>游戏中多种武器, 都有左键右键两种射击模式. 总有新的使用方法可以让您在Hexagons中杀死敌人.</li></ul><ul class=\"bb_ul\"><li>拥有多个游戏角色.</li></ul><ul class=\"bb_ul\"><li>更多的功能还在开发中.</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769080/header.jpg?t=1515097167",
+    "developers": [
+      "Hexagons Studio"
+    ],
+    "publishers": [
+      "Hexagons Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "1 Kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/769080/f000427b2aadcee69c462873cfccbe036180faca.jpg"
+        },
+        {
+          "name": "10 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/769080/85e59a8ecf12d8104421f0bb5fab35fca38e75ee.jpg"
+        },
+        {
+          "name": "100 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/769080/923bf971a094ab9eff95826707084661745c84a6.jpg"
+        },
+        {
+          "name": "1000 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/769080/1b6c701f6b8819f14b951184ffc03c5927211b48.jpg"
+        },
+        {
+          "name": "100 compliments",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/769080/c2695314d06cfc6ec6e7382323f901c61d2575b7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

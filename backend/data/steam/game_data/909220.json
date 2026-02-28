@@ -1,0 +1,71 @@
+{
+  "909220": {
+    "name": "Punch Pad Workout",
+    "steam_appid": 909220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a workout plus memorization game, where the player must punch the pads, in the correct order that each combination is called out, over 3 rounds. At the end of the workout your score will be added to the leaderboard. The faster you throw correct combinations and the more punches you throw in total, the higher your score will be. You will need to memorize the combinations called out and throw them as fast as you can in the correct order.<br />\r\n<br />\r\nYou will receive points for each punch, based on how quickly that punch was thrown. If you complete the combination correctly, you will receive bonus points based on how many punches there were. If you get a punch wrong, then you will not gain any bonus points for that combination. If you successively get combinations correct, then the combo number will go up and if you get one wrong, then the combo number will go down.<br />\r\n<br />\r\nThere are 5 available modes, of which are the original 'Combo Punch Mode', the 'Punch Dodge Mode', 'Coach Mode', 'Heavy Bag Mode' and the 'Music Workout Mode'. The original mode involves memorizing long combinations and using all of the 8 pads. On the other hand, the second mode involves only memorizing 2 to 3 punch combinations, of which are shown at a much faster pace and without the voice calling them out. It involves an additional swinging arm, you will have to either duck underneath, or move back away from. If you get hit by the arm, then you will lose 50 points. The new 'Coach Mode' involves a boxing coach character, who will show you the combination beforehand. You will receive points for every completed combo and lose points for every mistake. The 'Heavy Bag Mode' doesn't involve a score and you can take as much time as you want, to do the combinations. When a number is called out, throw a combination of that many punches. The 'Music Workout' mode involves hitting a sequence of oncoming pads while avoiding the blocks. The sequences are generated from music tracks. There are 3 in game tracks to choose from and you can also generate workouts from your own music too.<br />\r\n<br />\r\nIf you are using the standard HTC Vive controllers, then try holding them sideways, so that you can throw punches more comfortably. You can alternatively use boxing bag gloves, with trackers attached to the top of the wrists. If you do this then make sure the tracker is firmly attached and that it doesn't wobble. If it wobbles then this will result in the virtual glove also wobbling the same amount, so keeping it as rigid and stable as possible is important.<br />\r\n<br />\r\nWhen you first start the game put your hands inside the virtual gloves, in the position you want them to be. The calibration will start and then the gloves will be locked in place. Also before starting the game, use the height adjuster to raise or lower the pad stand. You want the top row of pads to be the same height as your head.<br />\r\n<br />\r\nIf you want to play music via the in game music player, then after the game has ran once, a file named 'MusicDirectory.txt' will be created in the game's root folder. Enter your music folder's directory path here and the game will then load the mp3 files located in this folder.<br />\r\n<br />\r\nYou can record a video like the one shown in the trailer, by activating the third person cam inside the game.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909220/header.jpg?t=1676158838",
+    "developers": [
+      "MobileFusion Apps Ltd"
+    ],
+    "publishers": [
+      "MobileFusion Apps Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

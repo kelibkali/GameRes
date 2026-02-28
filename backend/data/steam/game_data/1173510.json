@@ -1,0 +1,105 @@
+{
+  "1173510": {
+    "name": "XSOverlay",
+    "steam_appid": 1173510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "XSOverlay is a Desktop Overlay application for OpenVR. This means that you can access your desktop, or specific applications, and interact with them however you'd like to.",
+    "supported_languages": "英语, 日语, 西班牙语 - 拉丁美洲, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 荷兰语, 芬兰语, 匈牙利语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 瑞典语, 繁体中文, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/header.jpg?t=1698417988",
+    "developers": [
+      "Xiexe"
+    ],
+    "publishers": [
+      "Xiexe"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "Welcome to XSOverlay",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/5210d473cc8b7dd4e98db143a93d59acb8eb6bea.jpg"
+        },
+        {
+          "name": "A true multitasker, huh?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/79053d745c9c9b23db96ba0084ec5d3a58f6ef8d.jpg"
+        },
+        {
+          "name": "Why?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/ca82930bd3849295447c4dc892ae772c5ed54118.jpg"
+        },
+        {
+          "name": "Trying to go somewhere?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/5fa66ec8790e15cd94ad4a6c91734b7b869f16f0.jpg"
+        },
+        {
+          "name": "Summoned a bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/05f4a41646d85410a5121914bc0b766ee5389e3b.jpg"
+        },
+        {
+          "name": "Bronze Typist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/d2cad76cac915233ad98beed23eb017eda978797.jpg"
+        },
+        {
+          "name": "Silver Typist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/cd23595b672377a1d108f2a00e4c3f38728fd329.jpg"
+        },
+        {
+          "name": "Gold Typist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/9c52931995e3755aa423341cb3d804432be14564.jpg"
+        },
+        {
+          "name": "Platinum Typist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/e85dc1dbfe5c5a69c0b662f12af04f4cb290f6a7.jpg"
+        },
+        {
+          "name": "Diamond Typist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1173510/af13e83bad2d94caed5c538bfe39b0006e51bab6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 12,
+      "total_negative": 1,
+      "total_reviews": 13
+    }
+  }
+}

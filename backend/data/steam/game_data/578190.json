@@ -1,0 +1,89 @@
+{
+  "578190": {
+    "name": "Diesel Power",
+    "steam_appid": 578190,
+    "required_age": "3",
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >About</h2><br>Diesel Power is inspired by classic arcade games and not designed to let the player &quot;finish by default&quot;.<br>It is best described with the words: challenging and merciless.<br><br>The goal is simple: Get to the end of the track<br>The challenge: There is no track<br><br>While trying to keep the hover car on track, you need to find triggers to spawn the next section of the road.<br>Don't dawdle as foes or even the track itself will end your game early.<br>Experts are able to collect extra points and find secrets paths to top the leaderboard.<br><br>Sounds easy?<br>Handling the controler and the looks via HMD requires motoric skills which will hinder most to get past the first corners.<br><br><strong>An excessive use of the quick restart function is inevitable for everyone</strong><h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\">    <li>Gameplay designed exclusively for VR<br>    </li><li>One single level; no checkpoints<br>    </li><li>Online Crossplatform Leaderboards<br>    </li><li>Smooth &amp; constant 90fps on min specs<br>    </li><li>Oculus Rift (full support including Oculus Universal Menu)<br>    </li><li>HTC Vive <br>    </li><li>SteamVR <br>    </li><li>Experimental: Motion Controllers are used like standard game controllers. There is no hand motion gameplay!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578190/header.jpg?t=1545746566",
+    "developers": [
+      "Irmas Ibric"
+    ],
+    "publishers": [
+      "Irmas Ibric"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Why Would You Do That?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578190/3cde77fc34d6296982dbed97fccc3b5cac57e87b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

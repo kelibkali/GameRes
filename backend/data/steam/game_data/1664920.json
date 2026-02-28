@@ -1,0 +1,52 @@
+{
+  "1664920": {
+    "name": "Fantasy Heroes: Character Editor & Sprite Sheet Maker",
+    "steam_appid": 1664920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fantasy Heroes is a character editor. Create and customize human characters, save them as sprite sheets and use with different game engines to make your game! You can also use Fantasy Heroes for prototyping and visual reference.<br><br>Asset included:<br><ul class=\"bb_ul\"><li>Fantasy Heroes (medieval sprite collection)<br></li><li>Undead Heroes (medieval sprite collection)<br></li><li>Epic Heroes (extension)<br></li><li>Abandoned Workshop (extension)<br></li><li>Style (extension)</li></ul><br>Features:<br><ul class=\"bb_ul\"><li>Create and customize characters<br></li><li>Save and load characters as JSON<br></li><li>Save characters as sprite sheets (flipbooks) for frame-by-frame animation<br></li><li>Import user sprites (beta)<br></li><li>Export source/raw sprites</li></ul><br>Sprite sheet export options:<br><ul class=\"bb_ul\"><li>Animations that can be exported: Idle, Walk, Run, Slash, Jab, Bow Shot, Cast, Death<br></li><li>Frame size: 128-512 px<br></li><li>Frames per animation: 4-16</li></ul><br>Notes:<br><ul class=\"bb_ul\"><li>The asset can't be used for NFT projects (please contact us for Extended License)<br></li><li>Exporting firearms shooting is not supported yet</li></ul><br>Future plans:<br><ul class=\"bb_ul\"><li>Exporting firearms shooting</li></ul><br>I'm always opened for your suggestions about new features, feel free to leave your feedback!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664920/header.jpg?t=1645307246",
+    "developers": [
+      "Hippo Games"
+    ],
+    "publishers": [
+      "Hippo Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9000,
+      "final": 9000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 90.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 3 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

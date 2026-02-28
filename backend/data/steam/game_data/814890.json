@@ -1,0 +1,65 @@
+{
+  "814890": {
+    "name": "BoxEngine",
+    "steam_appid": 814890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "玄学的小盒子<br />\r\n<br />\r\n这是一个通过控制鼠标或拖动滚动条来让盒子跳跃的一个小游戏。<br />\r\n它能让你自己通过录制屏幕得到属于自己的动态桌面 结合Wallpaper Engine 。/滑稽<br />\r\n它能让这些小盒子播放自定义的视频和展示自己的图片 ，以及自定义的波浪等等。 ps：动感十足~<br />\r\n自己在后台播放音乐跟着音乐来创造自己的节奏图~<br />\r\n<br />\r\n一个人上课之余开发，希望玩家们能愉悦♂的玩弄♂这些小盒子哦~<br />\r\n<br />\r\nR/F控制方块高度大小<br />\r\nWASD控制视角旋转移动<br />\r\n上下滚轮放大或缩小视野<br />\r\n按H可以把隐藏的UI重新恢复显示<br />\r\n开始菜单按钮左边两个空位用来自定义设置格子个数--长x宽 ~ps：不要作死设置∞小心电脑起飞哦/滑稽<br />\r\n<br />\r\n在viedo 的url处输入自己的视频地址就可以播放了哦 网络上https://www.****.com/video.mp4 和本地D:\\xxx\\xxx.mp4 ////_////<br />\r\n在其余url位置处可以输入图片地址png格式  maze处黑底白字图片效果更好哦~",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814890/header.jpg?t=1656416240",
+    "developers": [
+      "Mashiro"
+    ],
+    "publishers": [
+      "Mashiro"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

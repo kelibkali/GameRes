@@ -1,0 +1,37 @@
+{
+  "779260": {
+    "name": "Kode Studio",
+    "steam_appid": 779260,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Kode Studio is an all-in-one integrated development environment for portable and high performance game development and creative coding. The bundled Kha framework provides a low-level but easy to learn API on top of the Haxe programming language (similar to Java or C#) and GLSL (for shader programming). Your program can be exported to very efficient HTML5 which makes use of the latest browser features where available (WebGL 2, WebAudio,...) but falls back gracefully when run in older browsers all the way back to Internet Explorer 9. But your program can also be exported to small and efficient binaries for all currently common systems. This includes support for PlayStation 4, Xbox One and Switch (please contact us with prove of your developer status with the console manufacturers to receive the console plugins).<br />\r\nKode Studio is based on Visual Studio Code and many of its extensions can be used.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/header.jpg?t=1542310832",
+    "developers": [
+      "Robert Konrad"
+    ],
+    "publishers": [
+      "Robert Konrad"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 1 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "1066900": {
+    "name": "qomp",
+    "steam_appid": 1066900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "qomp is a small game about freedom.<h2 class=\"bb_tag\" >the game</h2><ul class=\"bb_ul\"><li> 1 - 3 hours of gameplay<br></li><li> many  mechanics<br></li><li> bossfights<br></li><li> not super hard</li></ul><h2 class=\"bb_tag\" >extra content</h2><ul class=\"bb_ul\"><li> no secrets<br></li><li> beating the game unlocks challenges<br></li><li> beating the challenges unlocks nothing</li></ul><h2 class=\"bb_tag\" >accessibility options</h2><ul class=\"bb_ul\"><li> invincibility<br></li><li> zoom-out <br></li><li> aim-assist<br></li><li> autofire </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066900/header.jpg?t=1693323663",
+    "developers": [
+      "Stuffed Wombat",
+      "Britt Brady",
+      "Miroko",
+      "Clovelt"
+    ],
+    "publishers": [
+      "Atari"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "25%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066900/3e3ca85bdaa95444f9d1e7643d561e61d47bcff0.jpg"
+        },
+        {
+          "name": "50%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066900/db5168d4615131b744b5e912b8efb853f1e2d6b7.jpg"
+        },
+        {
+          "name": "75%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066900/73d1de833f428f2c7537736961162b36d479dd58.jpg"
+        },
+        {
+          "name": "100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066900/373ed6ccf98552211f0d266044a6a1b129824ca5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 19,
+      "total_negative": 0,
+      "total_reviews": 19
+    }
+  }
+}

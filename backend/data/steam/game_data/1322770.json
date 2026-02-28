@@ -1,0 +1,47 @@
+{
+  "1322770": {
+    "name": "3DMark Storage Benchmark",
+    "steam_appid": 1322770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >对您的 SSD 进行基准测试</h2><p class=\"bb_paragraph\" >使用快速的现代 SSD 存储，加载时间更短，关卡重启更快，并且游戏中断更少。 PC 游戏玩家现在可以选择各种高性能存储选项，从最快的 PCI Express 4.0 和 NVMe 设备到较为便宜的 SATA SSD 和大容量混合硬盘。 </p><p class=\"bb_paragraph\" >3DMark 存储基准 DLC 通过专用组件测试扩展了 3DMark，以测试存储硬件的游戏性能。 它支持所有最新的存储技术，并针对诸如加载游戏，保存进度，安装游戏文件以及录制游戏视频流之类的活动测试实际的真实游戏性能。 </p><h2 class=\"bb_tag\" >3DMark 存储基准测试</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >使用专为游戏玩家设计的基准测试您的 SSD</p></li><li><p class=\"bb_paragraph\" >基于真实游戏活动的测试，使用方便</p></li><li><p class=\"bb_paragraph\" >比较分数以找到您价格范围内的最佳 SSD</p></li><li><p class=\"bb_paragraph\" >支持所有最新的高性能存储技术</p></li><li><p class=\"bb_paragraph\" >适用于内部和外部硬盘</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>3DMark DirectStorage feature test</strong></p><p class=\"bb_paragraph\" >Microsoft DirectStorage是一种用于使用PCIe固态硬盘系统的技术，可减少加载游戏数据时的负担。DirectStorage与GDeflate 等其他技术搭配使用时，可缩短游戏加载时间，GPU可代替CPU来解压某些游戏素材。在Windows 11上，DirectStorage还包括BypassIO，通过减少传输数据时CPU 的工作量来降低游戏的CPU负担。</p><p class=\"bb_paragraph\" >DirectStorage功能测试展示了使用DirectStorage的近乎最佳情况 - 性能不受游戏素材管理系统等变量的影响，也不受GPU在加载游戏场景时执行其他典型任务的影响，例如渲染几何图形。这可以让您了解启用DirectStorage可能为您的系统带来的近乎最大的潜在性能优势。</p><p class=\"bb_paragraph\" >3DMark DirectStorage功能测试包含在存储基准测试DLC中。</p>",
+    "supported_languages": "英语, 德语, 简体中文, 俄语, 西班牙语 - 西班牙, 日语, 韩语, 繁体中文, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1322770/13f926ae139868126c79400ab55592012a7ccc6c/header.jpg?t=1756110805",
+    "developers": [
+      "UL"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 4,
+      "total_negative": 10,
+      "total_reviews": 14
+    }
+  }
+}

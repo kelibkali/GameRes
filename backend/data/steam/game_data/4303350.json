@@ -1,0 +1,113 @@
+{
+  "4303350": {
+    "name": "Lunar Tide",
+    "steam_appid": 4303350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Lunar Tide</strong> 是一款生存动作 Roguelite 游戏。在暗黑幻想世界中，你将面对无尽的魔物围攻。选择你的命运，精通钢铁与魔法，坚持到第一缕曙光驱散黑暗。<h2 class=\"bb_tag\" >主要特点</h2> <ul class=\"bb_ul\"> <li> <strong>疯狂的割草战斗：</strong> 在屏幕上同时对抗数百名敌人。分秒必争，每一步都可能是最后一步。 </li><li> <strong>4种独特职业：</strong> 掌握不同的战斗风格。从最残暴的近战到最黑暗的魔法，每种职业都提供了独特的对敌方式。 </li><li> <strong>不断进化的武器库：</strong> 解锁超过25种武器和技能。创造毁灭性的组合（协同效应），成为不可阻挡的力量。 </li><li> <strong>永久进度系统：</strong> 失败也是旅程的一部分。在每场比赛中收集金币，永久提升你的属性并解锁新天赋。 </li><li> <strong>史诗般的挑战：</strong> 探索4个氛围感十足的区域，面对考验你策略与反应的最终Boss。 </li></ul><h2 class=\"bb_tag\" >暗黑幻想像素风</h2> <strong>Lunar Tide</strong> 的视觉风格深受8位和16位经典游戏启发，营造出一种直接且深邃的黑暗氛围。简洁而有效的视觉设计让你专注于最重要的事情：疯狂的行动与武器管理。",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 简体中文<strong>*</strong>, 俄语<strong>*</strong>, 加泰罗尼亚语<strong>*</strong>, 巴斯克语<strong>*</strong>, 加利西亚语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303350/eba262d0bfe1c06f6033efd311848fd796b64a92/header.jpg?t=1769986869",
+    "developers": [
+      "whipli"
+    ],
+    "publishers": [
+      "whipli"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 40,
+      "highlighted": [
+        {
+          "name": "First Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/fb1919137e7a545838872a7d8b5ed1f5fb3b6e6b.jpg"
+        },
+        {
+          "name": "Survivor I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/c7e246da8c56d2f1bf2c65051a543caacbd54344.jpg"
+        },
+        {
+          "name": "Survivor II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/657aa5cf03d61ef4154b9a53fd861f65bd59dcf5.jpg"
+        },
+        {
+          "name": "Survivor III",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/c7126ddc53e01b9573abb9934fc6b47243281d2f.jpg"
+        },
+        {
+          "name": "Survivor IV",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/06e997d4ae522879307a1b62ba9b3f20b58b87fc.jpg"
+        },
+        {
+          "name": "Untouchable",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/a9164ab2642153baf418a796809731c9cde8412d.jpg"
+        },
+        {
+          "name": "Phoenix",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/9b599d7eb80cbecb329969914f4a54265b100be6.jpg"
+        },
+        {
+          "name": "Perfectionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/d93c00cb2a7ed3ebd6454f0083ebc309b72cbf70.jpg"
+        },
+        {
+          "name": "First Blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/bc661a746ec08af7ddda6bb219c86ac1dfb163a6.jpg"
+        },
+        {
+          "name": "Slayer I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4303350/78beab0d06d6045910bc8ca2b1ae1cf0158eb857.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

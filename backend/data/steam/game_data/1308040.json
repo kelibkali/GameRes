@@ -1,0 +1,110 @@
+{
+  "1308040": {
+    "name": "Agence",
+    "steam_appid": 1308040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在《Agence》中，你将掌控人工智能生物的命运。 你会帮他们和平生活下去，还是让他们陷入混沌的深渊？<br><br>《Agence》这部互动式影片融合了电影的叙事手法、人工智能与你的交互，让你每次游戏都会有新发现。 <br><br>那么，你会扮演人工智能的神吗？ 作为智慧生物，智人会以意想不到的方式与你互动。<br><br>他们可以继续和谐生活下去，或者变得凶猛好斗， 有些甚至会跌落到星球下方的无尽深渊中。 你还会注意到智人会通过声音与面部表情来表达恐惧、好奇、无聊或兴奋的情绪。<br> <br>在智人的世界中，你可以：<br><br><ul class=\"bb_ul\"><li>在各个星球之中施展你的神力，观看故事发展；<br></li><li>种植神奇的鲜花，影响智人的行为以及他们互动的方式；<br></li><li>移动智人，干扰他们的生存方式。 你可以把他们隔开以避免冲突，帮助他们取得平衡，防止他们从星球上掉下去，或者让他们坠入无尽深渊；<br></li><li>旋转宇宙来观察智人，从不同的角度看故事如何发展；<br></li><li>将智人加入由人类工程师预先训练过的环境中；使用强化学习系统设定的目标和奖励，让智人学会独立思考和行动。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 日语, 韩语, 简体中文, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308040/header.jpg?t=1728655531",
+    "developers": [
+      "Transitional Forms",
+      "National Film Board of Canada"
+    ],
+    "publishers": [
+      "NFB / ONF"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Decision Boundary",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/83c4c2c43f4d411e8a0db9aa7b8ec0481c5f9276.jpg"
+        },
+        {
+          "name": "Normalization",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/ff83934341499165223ccc2a4da796ee56860eef.jpg"
+        },
+        {
+          "name": "Adam Optimizer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/b9566abf967b3b4d758f421067510c0166717961.jpg"
+        },
+        {
+          "name": "Turing Test",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/2ea531a7cda22d654f3e1484fd01206c9242a476.jpg"
+        },
+        {
+          "name": "Loss Minimization",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/b165fb387271036849a2eded5fbda9f4f8b4fb92.jpg"
+        },
+        {
+          "name": "Computer Vision",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/414617aceeaa77096001646dc1013c84cbd660eb.jpg"
+        },
+        {
+          "name": "Unsupervised Learning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/c8a25611401bcb07ef014781fe92c1af021a3cef.jpg"
+        },
+        {
+          "name": "Backpropagation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/6872be8491e17e731c37ccc965851e8a5a71451f.jpg"
+        },
+        {
+          "name": "Gradient Descent",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/3236b677a2ef4a91da0d0b8b579a43e09b2f9b54.jpg"
+        },
+        {
+          "name": "Weights and Biases",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1308040/bcaa9eafa7dd47f18f53444d7dcd2b4db4d9323f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

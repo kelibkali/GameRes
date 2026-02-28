@@ -1,0 +1,93 @@
+{
+  "504400": {
+    "name": "Optika",
+    "steam_appid": 504400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Optika是一款益智游戏，你必须控制光线与14种动光器件来完成每个阶级。<br />\r\n你需要巧妙的找出正确的颜色射到接收器， 这些我们的Opticus教授和索非亚都可以帮助你。<br />\r\n通过透镜，反射镜和棱镜我们把光分解和移动。把握好时间，并最终把光引到目标！<br />\r\n<br />\r\n特征<br />\r\n- 160级别<br />\r\n- 探索14种不同的光学器件<br />\r\n- 控制游戏的光与颜色<br />\r\n- 游戏使用透镜，反射镜和棱镜<br />\r\n<br />\r\n探索光物理学：游戏中可用激光，棱镜，反射镜，磁铁和其他几十个光学器件。<br />\r\n与Opticus教授和他的助手，索非亚探索Optika的游戏世界！研究并完成一百多种具有挑战性的迷题！<br />\r\n所有你将要经历的游戏谜题都是启发于真实世界的光学物理！",
+    "supported_languages": "英语, 法语, 德语, 简体中文, 俄语, 荷兰语, 波兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504400/header.jpg?t=1611513035",
+    "developers": [
+      "PlayZilla.tk"
+    ],
+    "publishers": [
+      "PlayZilla.tk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "教程已通过",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504400/80d9c5d8aa85e44e8ea80e332cf5d4ba9daeb1df.jpg"
+        },
+        {
+          "name": "已通过50关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504400/1ca362332c629d6a3ff9c9589af2320affa7299e.jpg"
+        },
+        {
+          "name": "已通过100关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504400/28bdbc62115b4a0a71a33089a08622e65e3eb1ba.jpg"
+        },
+        {
+          "name": "已通过所有关卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504400/96e930c051e299302718f84499de7a8546eafc7d.jpg"
+        },
+        {
+          "name": "已发射100万光子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504400/bf889d92c3c0155aa0ae48312f2cc43e5e36fad2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 38,
+      "total_negative": 4,
+      "total_reviews": 42
+    }
+  }
+}

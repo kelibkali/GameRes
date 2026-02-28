@@ -1,0 +1,141 @@
+{
+  "1070770": {
+    "name": "Skat 3D Premium",
+    "steam_appid": 1070770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Realistic 3D Skat simulation with <strong>singleplayer, multiplayer and tutorial</strong>. With configurable AI strength and many adjustable <strong>rule and game variants</strong> you can start exciting Skat tournaments - or just play for fun.<br><br>Compete with <strong>tricky computer opponents</strong>, or play relaxing rounds with <strong>friends or family</strong> in online mode!<br><br><strong>Game environment, cards, rule variants</strong> and much more can be customized! For beginners, there is an <strong>animated tutorial</strong> in which the Skat game is completely explained step by step.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong>Singleplayer mode</strong> with configurable opponents<br></li><li><strong>Many rule variations</strong> with popular Bock- and Ramsch-rounds<br></li><li><strong>Multiplayer mode</strong> with LAN or Online mode<br></li><li><strong>High Quality</strong> full animated 3D graphics<br></li><li><strong>Lots of tables, rooms and decks</strong><br></li><li><strong>High-performance A.I.</strong>: different levels of difficulty<br></li><li><strong>Voice output</strong> and sound<br></li><li><strong>Highscore</strong> lists<br></li><li><strong>HD widescreen</strong> output<br></li><li><strong>Tutorial</strong>, detailed game instructions and help</li></ul><h2 class=\"bb_tag\" >Note for Linux and Steam Deck users:</h2>To run the game correctly on <strong>Linux or Steam Deck</strong>, make sure to enable <strong>Force Proton</strong> in the compatibility settings.",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070770/header.jpg?t=1740443982",
+    "developers": [
+      "BufoProject"
+    ],
+    "publishers": [
+      "BufoProject"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "50 Hands played",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/3e92049a87deeb6e9b79b1ab095e49a56ed3c2e5.jpg"
+        },
+        {
+          "name": "100 Hands played",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/839ce420439f214250e21e356c49cf48277ea19a.jpg"
+        },
+        {
+          "name": "250 Hands played",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/525f99beb7e4512be8f03bebb49c485ad65afbc6.jpg"
+        },
+        {
+          "name": "1000 Hands played",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/7f8d2b3cab2582437bdd688b305e767e222bc191.jpg"
+        },
+        {
+          "name": "Bronze Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/b8ec852cb07535a0555a008742ca101155671a33.jpg"
+        },
+        {
+          "name": "Silver Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/1f9177f8e1271b3bd1a5db8f54da43858f6eb528.jpg"
+        },
+        {
+          "name": "Gold Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/ba82013e40e50c5a270f4fb55abc7fbc3b6c9b35.jpg"
+        },
+        {
+          "name": "Platinum Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/d995160d5e9de7f27a0e3c15dcf0d89bff997990.jpg"
+        },
+        {
+          "name": "Online Bronze Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/ffbbaf0c7f46847a75865aa6f26086050f418772.jpg"
+        },
+        {
+          "name": "Online Silver Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070770/dd353708c3acd41b68e5a4bf9a64449d4486b948.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

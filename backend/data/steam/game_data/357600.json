@@ -1,0 +1,125 @@
+{
+  "357600": {
+    "name": "Unium",
+    "steam_appid": 357600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这款游戏中你只需简单地画一条线，但真有这么简单吗？试试就知道了！<br />\r\n<br />\r\n从一个方块开始画一条线到另一个方块，然后再到下一个。画过的每个方块将从黑色翻为白色，或反之。你能只用一条线翻开所有黑色方块吗？<br />\r\n<br />\r\n最简单的关卡也可以有数百种解法，Unium提供了超过100个关卡让你尽情畅玩。先解开一些简单的关卡可解锁一些较难的关卡，探索哪些方式可行哪些不可行，以多种方式通过关卡可赢得成就。Unium是一款容易上手、很好玩的游戏，保证你百玩不厌。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357600/header.jpg?t=1668642958",
+    "developers": [
+      "Kittehface Software"
+    ],
+    "publishers": [
+      "Kittehface Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 22,
+      "highlighted": [
+        {
+          "name": "新手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/9c57444b17ff7ad018ea1a080943f77e3a3ecda6.jpg"
+        },
+        {
+          "name": "简单",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/531996a9bd98cdb1a5c627b68e6290508d31a04a.jpg"
+        },
+        {
+          "name": "中等I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/f9cd3baa491b4925605877e022f17d3c836e177e.jpg"
+        },
+        {
+          "name": "中等II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/92d5eca457c41c698559368f0ad695f06b9fe341.jpg"
+        },
+        {
+          "name": "进阶I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/43c59e92d9be8035a8500610ecf7209254151a5e.jpg"
+        },
+        {
+          "name": "进阶II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/85e73126ba4179f10bbba466ecdc2b5ea214a3e6.jpg"
+        },
+        {
+          "name": "进阶III",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/df6d79934b45cae1466fd15cab5e83df81a5c4ba.jpg"
+        },
+        {
+          "name": "进阶IV",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/b6eddbe986eb69d892bd912ceef95a915c999ecb.jpg"
+        },
+        {
+          "name": "进阶V",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/898750c604a8695b33b734a1ecc08b6daa431974.jpg"
+        },
+        {
+          "name": "电池通电",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/357600/89c166fe4eae940e6ea2b107c50bda7bcc09b3bc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 48,
+      "total_negative": 2,
+      "total_reviews": 50
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "630020": {
+    "name": "The First Class VR",
+    "steam_appid": 630020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《第一课》是一款VR互动游戏，在游戏的过程中体验人类航空航天的历史，并亲身参与其中。在整个系列游戏中，这是星际舰船船员的第一课，树立远航的信念与荣耀；是人类探索未知的第一课，学习如何从离开大地到离开地球。<br><br>特色：<br>VR互动游戏：玩家既是行动的参与者，又是情节的推动者，既具备戏剧结构又融合游戏特点的叙事手法，使VR影片更接近于“游戏电影”——不像传统电影一样被动，也不像游戏那样互动，而是介于二者之间的一种全新体验。<br><br>惊人的临场感和画面表现力：借助ue4引擎和vr技术，让玩家拥有出色的游戏电影互动体验<br><br>出色的叙事：我们希望能够带领玩家，共同经历人类航空航天历史上的伟大时刻，向人类不懈探索的精神致敬。<br><br>作为科幻小说《三体》的粉丝，我们还在设计中做了一些同人致敬的内容，希望能够令同样喜爱《三体》的玩家喜欢。<br><br><br>由于《THE FIRST CLASS》是个轻交互的体验，里面会有几个交互点：<br>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 日语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630020/header.jpg?t=1548672160",
+    "developers": [
+      "Light & Digital Technology"
+    ],
+    "publishers": [
+      "Zodiac Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "完成了第一课！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/4e977af32d28d95f74c58a420b24ebf4550c2c9e.jpg"
+        },
+        {
+          "name": "博物馆爱好者！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/c8c6c3d63ede4b095f3022dcc83a1403384c2e30.jpg"
+        },
+        {
+          "name": "请不要着急：）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/c9bf26132206147ae75fb0ef9cb7b351d39941cb.jpg"
+        },
+        {
+          "name": "天文爱好者！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/c7a56baae4db484059ae91f6f7d090a877001417.jpg"
+        },
+        {
+          "name": "成为伊卡洛斯！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/0fe31e8c120fab00e9a4e7226d6e1ced6671ab48.jpg"
+        },
+        {
+          "name": "欢迎来到光和数字！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/a6acb07e2cb8bf8b104a903b8b0eebea03b4bf6b.jpg"
+        },
+        {
+          "name": "请你返回冬眠舱吧。",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/793ed00790f225049ae269bca85cc8b24b5bf835.jpg"
+        },
+        {
+          "name": "奔波儿灞欢迎你！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/47656902d036d9a50998fdac3d18dbd6d7505a36.jpg"
+        },
+        {
+          "name": "复习是个好习惯！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/10ccef78ef5a4e511577f44eb64d948efa4af2ed.jpg"
+        },
+        {
+          "name": "学霸！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/630020/40fa3898f02b1608d392b18ebcfd1035edee84da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 14,
+      "total_negative": 1,
+      "total_reviews": 15
+    }
+  }
+}

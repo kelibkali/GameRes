@@ -1,0 +1,58 @@
+{
+  "1293650": {
+    "name": "b 2",
+    "steam_appid": 1293650,
+    "required_age": 0,
+    "is_free": true,
+    "description": "b 2: <strong>online-only</strong> multiplayer<br><br>b 2 is the successor to b, in a different setting which is manageable to synchronise over the internet.<br><br><i>the server part is in Early Access and not guaranteed to be available or working (all the time).</i><br><br><u>requires web access by https and udp.</u><br><br>some software such as Asus GameFirst IV network monitor swallow incoming udp data thus exit such software first.<h2 class=\"bb_tag\" >an alien place</h2>a plane in space, nearby an iceplanet with an asteroid belt, colored corrugated iron homes around a central big tree and a bear growing, progressing anti-clockwise around it, is a new playground of b, the bumblebee of subgenus gaudium formosum, recognizable by their cheeky :p .<h2 class=\"bb_tag\" >you are the bee</h2>fly where you want, play as you like. Your desire and curiosity is the fuel of this &quot;feel free&quot; experience.<h2 class=\"bb_tag\" >60 players per place</h2>up to 60 minutes per place after which its configuration changes, up to 60 players per place, many places (all places share the same configuration), &quot;safe&quot; bandwidth for around 273 concurrent players, max. around 1365 players. Server hardware performance throughput to be evaluated. You are placed in the first place having space. Likewise after every reconfiguration and reload, press keyboard key F5 to reload. You can see a places place number at the bottom middle of the screen. At the bottom left you see the remaining time in minutes and at the bottom right you see the number of players in this place. Press keyboard key Esc(ape) to exit.<h2 class=\"bb_tag\" >controls are like last time</h2>controls are like last time, this time non-configurable:<br><ul class=\"bb_ul\"><li>WASD QE L left-shift space<br></li><li>joystick 1</li></ul><h2 class=\"bb_tag\" >changes</h2>changes from b:<br><ul class=\"bb_ul\"><li>more loose camera<br></li><li>b faster<br></li><li>collisions added</li></ul><br>changes since media creation:<br><ul class=\"bb_ul\"><li>bear added<br></li><li>sky day color less intense</li></ul><h2 class=\"bb_tag\" >issues</h2>known issues:<br><ul class=\"bb_ul\"><li>bear might be not synchronised (his animation and progress is handed independantly by the game engine to the time synchronisation; a best attempt is made to set him synchronised initially)<br></li><li>precise time synchronisation requires a high-resolution system timer<br></li><li>first firework at end of place's time only synchronised across players (remaining depend on framerate)<br></li><li>the odd home is floating in the air<br></li><li>if b flies into a cover from the camera, the camera is readjusted to see b but can get stuck at the last cover which would have hidden b; fly b behind another cover to have the camera readjust</li></ul><h2 class=\"bb_tag\" >made with</h2><ul class=\"bb_ul\"><li>game engine Unity<br></li><li>3rd party asset DirectX 11 Grass Shader<br></li><li>3rd party asset LowPoly Asteroids Pack<br></li><li>3rd party asset Mesh Effects<br></li><li>3rd party asset Lux URP/LWRP Essentials<br></li><li>3rd party asset Fireworks Pack 3D&amp;2D<br></li><li>3rd party asset Real Fireworks<br></li><li>3rd party asset Poly Art Animals Forest Set<br></li><li>3rd party asset Animal Controller<br></li><li>Standard License for: Hopeful (Full track), Artist: Dynamedion Royalty-free, Composer: Stefan Bode (no PRO affiliation)<br></li><li>Standard License for: LYN123: Nature &amp; Weather (Bumble Bee Buzzing 03: Long bumblebee buzz with some bird tweets in background), Artist: Bjorn Lynne, Composer: Lynne, Bjorn</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293650/header.jpg?t=1667044144",
+    "developers": [
+      "u&i"
+    ],
+    "publishers": [
+      "u&i"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

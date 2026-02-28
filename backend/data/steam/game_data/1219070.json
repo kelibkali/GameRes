@@ -1,0 +1,114 @@
+{
+  "1219070": {
+    "name": "HexiHashi",
+    "steam_appid": 1219070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "HexiHashi is a minimalistic puzzle game based on the classic puzzle &quot;Hashiwokakero.&quot;   You are presented with a field of nodes, each having a number.  Nodes may be connected to each other along gridlines with either single or double bridges.  A puzzle is complete when all nodes are connected, and the number of bridges connected to each node is equal to the number indicated on that node.  HexiHashi is a fresh and original take on this classic puzzle.  <br />\r\n<br />\r\nWhereas classic Hashi is played on a rectangular grid, HexiHashi is played on a triangular grid.  A game of classic Hashi can be solved nearly completely using deductive reasoning, with normally only one or two moves per game requiring an intuitive guess.  In HexiHashi, because each node has six possible connections instead of four, pure deduction will normally solve less than 10% of a puzzle (even small ones).  As a result, gameplay focuses more on inuitive heuristics, testing hypotheses, backtracking, and tweaking of solutions.  One puzzle in HexiHashi may have more than one acceptable solution, but our puzzle generation algorithm guarantees that every puzzle is solvable.  <br />\r\n<br />\r\nFeatures: <br />\r\n- Beautiful piano score by the inimitable Steve McRae<br />\r\n- Dynamic sound effects which harmonize with the background music<br />\r\n- Puzzle Generation Algorithm providing endless replayability<br />\r\n- Time Attack, Move Master, and Endless modes<br />\r\n- Cool-looking Hint system<br />\r\n- Levelling System <br />\r\n<br />\r\nHexiHashi will scratch the puzzle-itch of any avid puzzler.  Buy it for yourself! Buy it for a friend!  Buy it for a friend's dog!  Buy two copies!  C'mon, it's only three bucks. (American).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/header.jpg?t=1611055102",
+    "developers": [
+      "NCC Moore",
+      "Steve McRae"
+    ],
+    "publishers": [
+      "Devonian Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 64,
+      "highlighted": [
+        {
+          "name": "Puzzle Ordinary Seaman ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/939932fe1a489eb538274694d2ea78f708dcbb58.jpg"
+        },
+        {
+          "name": "Puzzle Able Seaman ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/5c05f95aad0af10e5000edaefd26acaad6900fed.jpg"
+        },
+        {
+          "name": "Puzzle Leading Seaman ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/c55078d48f805cf97c2b25a1560dabede9cfef10.jpg"
+        },
+        {
+          "name": "Puzzle Master Seaman ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/03667ebc598c8421bdd2dc3f2905556a14cd5e9f.jpg"
+        },
+        {
+          "name": "Puzzle Petty Officer 2nd class",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/07154efe84b36a318d320819007ab7b30ec748ae.jpg"
+        },
+        {
+          "name": "Puzzle Petty Officer 1st class",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/8da76c0375a50ea9910dcf6b08a98fcfd0bb896d.jpg"
+        },
+        {
+          "name": "Puzzle Chief Petty Officer 2nd class",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/ed6d930a9d428efb69b03947e30ac9c3286bdc10.jpg"
+        },
+        {
+          "name": "Puzzle Chief Petty Officer 1st class ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/ea3fcaff2da7ce1e05f2f9a71977a74ac1a7380f.jpg"
+        },
+        {
+          "name": "Puzzle Acting Sub-Lieutenant ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/c32347f963c38dc87d395482f6d07af99ff98984.jpg"
+        },
+        {
+          "name": "Puzzle Sub-Lieutenant ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1219070/5911b4143e33337e437c04735e848755de74d3f2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

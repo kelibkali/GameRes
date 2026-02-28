@@ -1,0 +1,113 @@
+{
+  "324160": {
+    "name": "CLANNAD",
+    "steam_appid": 324160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324160/extras/480fd302638343a86fee59d9d44c49d7.avif?t=1770337441\" width=600 height=3800 /></span>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324160/header.jpg?t=1770337441",
+    "developers": [
+      "VisualArts/Key"
+    ],
+    "publishers": [
+      "Sekai Project"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 15200,
+      "final": 15200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 152.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 22,
+      "highlighted": [
+        {
+          "name": "长长的坡道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/d81e64455a2d36a5886656cf6d5809162e8b63bc.jpg"
+        },
+        {
+          "name": "CLANNAD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/b41ab1dbe93212da3a05fdfe5b8f1acefc828a03.jpg"
+        },
+        {
+          "name": "永远在一起",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/a814b1490e8751c6a7a64fc873cc78df1494745e.jpg"
+        },
+        {
+          "name": "那一天终将来临",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/c37d59aa3fd54292279b6a61919cc8d48754bd3d.jpg"
+        },
+        {
+          "name": "宽敞的庭院",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/450b4d01769229f7a223918a286ac00bd51d7c9a.jpg"
+        },
+        {
+          "name": "头发，还会留长的",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/cb44fcd99a2a6811e384310e6eb2b0033aefc945.jpg"
+        },
+        {
+          "name": "盛开的樱花",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/6d91d03bf60b3bc58c3a9f2e3d49a0c50dedd7e3.jpg"
+        },
+        {
+          "name": "柔和的风景",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/64a94f95faecce95d766756ace426d67427dfb19.jpg"
+        },
+        {
+          "name": "一直就在身边",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/6da96aab0c77fb051994c14651fe1b7964b884ab.jpg"
+        },
+        {
+          "name": "欢乐成双",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/324160/adadb77d97346c9b987f420ff1cf4729da163374.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 6482,
+      "total_negative": 64,
+      "total_reviews": 6546
+    }
+  }
+}

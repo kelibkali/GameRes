@@ -1,0 +1,111 @@
+{
+  "493200": {
+    "name": "RiME",
+    "steam_appid": 493200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一片亟待探索的发现之地画卷般地铺展在你眼前。在 RiME 这款单人解谜游戏中，你将探索这个美丽而充满艰辛的世界。在 RiME 中，你将扮演一个小男孩，一场暴风雨过后你在一个神秘的岛屿上醒来。你将看到各种野兽，长久被岁月埋藏的遗迹，还有一座巨大的塔指引着你向它靠近。用你的智慧和排除万难的决心武装自己，在一只乐于助人的狐狸的引导下，你必须探索这座神秘莫测的岛屿，登上塔顶，解开此处所深藏的秘密。 <br />\r\n<br />\r\n<br />\r\n特色<br />\r\n<br />\r\n探索——按照自己的步调探索这座神秘的岛屿。可以与野生生物进行互动，寻找隐藏物品，也可以只是单纯地欣赏景色，聆听声音。<br />\r\n<br />\r\n解谜——在古老的遗迹和隐藏的奇景中穿行，通过声音、光影投射、空间透视、平面构筑甚至操控时间，解开谜题。<br />\r\n<br />\r\n发现秘密——揭开数十个秘密，找到可收藏的物品，从而更深刻地发掘男孩的背景故事。<br />\r\n<br />\r\n沉浸其中——灵感来源于地中海的壮丽景观，极富感染力的音乐和色彩相得益彰，让你沉醉在这瑰丽的世界中。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 日语, 波兰语, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493200/header.jpg?t=1667232008",
+    "developers": [
+      "Tequila Works",
+      "QLOC"
+    ],
+    "publishers": [
+      "Grey Box",
+      "Six Foot"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 8800,
+      "final": 8800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 88.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 31,
+      "highlighted": [
+        {
+          "name": "Toyful Child",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/28dbd335f461ee5f087ac33f148cdf55b3c8489b.jpg"
+        },
+        {
+          "name": "Full Wardrobe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/85a5600835d83f8fac0623739c152a6da1d5672a.jpg"
+        },
+        {
+          "name": "Lost Lullaby",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/6e2af1c0519112f73491e319e59659e80e4398fb.jpg"
+        },
+        {
+          "name": "The Truth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/31e68b3e6b0e36a45c48646dcbf4170b219ff197.jpg"
+        },
+        {
+          "name": "It's a process",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/7627aa812fa507b5148bb07afb62a70af8d5f273.jpg"
+        },
+        {
+          "name": "Sweet Memory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/02220510eaa5386fa28d5f4d270bd68ab10c67c6.jpg"
+        },
+        {
+          "name": "Don't say no",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/be82a07f43712c6b6d04d12a0a24c3540ad3e3a5.jpg"
+        },
+        {
+          "name": "Unbearable",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/5b9f1e9254fa9d06ac63662ff15dc4d8092da85e.jpg"
+        },
+        {
+          "name": "Ask for a miracle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/1a3b775fd9dd10d15bd458608044932940e49cb1.jpg"
+        },
+        {
+          "name": "No hope",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493200/39d2ef31ea898ca62951639dacf52007a9fda5da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 495,
+      "total_negative": 43,
+      "total_reviews": 538
+    }
+  }
+}

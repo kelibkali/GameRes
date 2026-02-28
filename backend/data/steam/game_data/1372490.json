@@ -1,0 +1,69 @@
+{
+  "1372490": {
+    "name": "Incremental Adventures - Premium Experience Bonus",
+    "steam_appid": 1372490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Increases your in-game experience gain. This DLC includes 1 premium upgrade (stacks with other DLC).<br />\r\n<br />\r\nFor specific details to your current point in progression, see the in-game DLC tab.<br />\r\n<br />\r\nThe default effect is:<br />\r\n<br />\r\nPremium experience multiplier: 2 ^ prestige layers unlocked (or 1, if none are unlocked) ^ premium upgrades. So at layer 3, with 1 premium upgrade bought it would be 2^3^1 = x8.<br />\r\n<br />\r\nPremium gold gain and soft-prestige: 2 ^ multipliers bought with real money. So with 1 upgrade bought it would be 2^1 = x2. This multiplier is added before exponential floor scaling is applied. Keep in mind that the soft-prestige multiplier is applied to points gained, not (directly) to stats gained, as they increase in price.<br />\r\n<br />\r\nIn short, the upgrade increases in effect during your playthrough. But with the way the game scales, it becomes less important over time. This is by design, playing the game rewards you more than paying with real money.<br />\r\n<br />\r\nIt is advised to play the game for free before checking out the DLC options, as they are not required to play the game.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372490/header.jpg?t=1597157330",
+    "developers": [
+      "Gniller"
+    ],
+    "publishers": [
+      "Gniller"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

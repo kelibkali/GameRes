@@ -1,0 +1,106 @@
+{
+  "515880": {
+    "name": "001 Game Creator Demo",
+    "steam_appid": 515880,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>Create games without limits</strong><br>001 Game Creator prides itself on offering users a diverse set of tools and features to create any type of game you can think of:<br><br><ul class=\"bb_ul\"><li>PC, Steam, Android, iOS, HTML5 with multi-finger gestures and network testing<br></li><li>Online Multiplayer/LAN/Networking (supports both TCP and UDP)<br></li><li>Multiple layer map editor with parallax canvases<br></li><li>2D/3D camera system with 7.1 3D HD audio<br></li><li>Split-screen games with multiple gamepad support<br></li><li>Sprite layer, 3D model and particle effect systems<br></li><li>Dynamic resource loading/unloading to improve performance/reduce memory usage for larger games<br></li><li>Interface/HUD designer<br></li><li>Built-in graphics editor<br></li><li>AI action battle mechanics and actor routes<br></li><li>Choice of graphical script and text code editors with game debugger, variable watching and statistics</li></ul><br><strong>Graphically Assisted Scripting</strong><br>001 Game Creator offers creators the ability to craft intuitive and imaginative games without any prior coding knowledge. This is especially beneficial to artists and designers who prefer a more hands-on and visualised approach or developers who don’t wish to spend hours bashing their head against a wall. Unlike traditional Event-Driven Programming applications, 001 Game Creator offers a huge set of built-in events, with the ability to also create custom events for specific tailor-made functionality just for your games.<br><br><strong>PC, Steam HTML5 &amp; mobile development all-in-one</strong><br>001 Game Creator allows developers to build their games for Windows PCs (exe) - with Steam API support (achievements, statistics, etc.), HTML5 (js/html) and mobile devices (apk) all-in-one! Unlike other similar engines, 001 Game Creator provides developers with the freedom to create their games for all available platforms without paying anything extra. Best of all, there are no additional license or revenue fees for selling your games - so if you’ve purchased a copy of 001 Game Creator you can sell your games without having to share the profits with us!<br><br><strong>Play games with everyone</strong><br>001 Game Creator gives developers the tools to create ambitious online multiplayer/co-op experiences with built-in networking features (TCP/IP). In addition, 001 Game Creator also allows developers to create local multiplayer experiences with up to four players - with multiple gamepad support included.<br><br><strong>The possibilities are endless</strong><br>001 Game Creator unlocks the doors to a wide range of possibilities. Make any game you can think of, including (but not limited to) RPGs, shoot-‘em-ups, racing games, fighting games, simulation games, platformers, tower defense, card games and even 3D games! If you can imagine it, you can create it with 001 Game Creator.<br><br><strong><i>Please note: Our documentation is currently only available in English at this time.</i></strong>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 挪威语, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/515880/header.jpg?t=1727109344",
+    "developers": [
+      "SoftWeir Inc."
+    ],
+    "publishers": [
+      "SoftWeir Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

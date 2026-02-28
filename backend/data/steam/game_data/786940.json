@@ -1,0 +1,81 @@
+{
+  "786940": {
+    "name": "Afternoon empire",
+    "steam_appid": 786940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这款游戏存在致命BUG, 谨慎购买, 作者正在募资重新制作",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/786940/header.jpg?t=1722165531",
+    "developers": [
+      "Red Rider"
+    ],
+    "publishers": [
+      "Red Rider"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "轻步兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786940/7b7af409cc5ae2694755c1bfaef7a1f9a720589f.jpg"
+        },
+        {
+          "name": "轻骑兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786940/b9fbe1bc0261dc90aa131cc23c7baa0c3c41bfd8.jpg"
+        },
+        {
+          "name": "轻弓兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786940/71c13c106a1a657c883a519e6eeefe2b4fce3774.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 0,
+      "total_negative": 6,
+      "total_reviews": 6
+    }
+  }
+}

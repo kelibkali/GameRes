@@ -1,0 +1,62 @@
+{
+  "2210": {
+    "name": "Quake 4",
+    "steam_appid": 2210,
+    "required_age": "18",
+    "is_free": false,
+    "description": "Raven Software于2005年与id Software合作开发了《Quake 4 》。这是一款剧情向、科幻题材、军事风格第一人称射击游戏，也是《Quake II》的正统续作（包含竞技场风格多人游戏模式）。<h2 class=\"bb_tag\" >故事</h2><br>在成功刺杀Strogg首领后，地球军队再次发动了对敌对外星家园Stroggos的攻击。作为精英犀牛小队的海军下士马修·凯恩，你的任务是带头入侵。但是，在这场为人类的生存而与无情敌人开展的恶战中，你可能会发现，打败他们的唯一方法……便是成为他们中的一员。<h2 class=\"bb_tag\" >特色</h2><br><ul class=\"bb_ul\"><li> 体验《Quake II》正统续作的剧情战役。<br></li><li> 升级和使用众多先进武器，迎战Strogg军队。<br></li><li> 用机械化步行机器人和悬浮坦克粉碎Strogg的阵线。<br></li><li> 扮演Strogg族或陆战队员，联网进行死斗、团队死斗和夺旗等多人模式。</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210/header.jpg?t=1664372514",
+    "developers": [
+      "RavenSoft",
+      "id Software"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6200,
+      "final": 6200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 62.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 8 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 53,
+      "total_negative": 5,
+      "total_reviews": 58
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "738830": {
+    "name": "Atlas Tile Editor (ATE)",
+    "steam_appid": 738830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Atlas Tile Editor</strong> (ATE)<br><br>2D TILE CREATOR!<br><br><strong><i>What's an Atlas Tile?</i></strong><br><br>In games of yore, atlases (also known as sprite sheets) combined to form the entire world of a game.  You could build the world by using a single texture, which helps decrease &quot;texture swaps&quot; in GPU hardware, and speeds up the game's rendering, while also helping the world get made by reusing art stored on these atlases. <br><br><strong><i>Yes, you can save to PNGs and use the output from this program in RPG Maker or GameMaker or Construct or AppGameKit or .. many more game engines!</i></strong><br><br><strong>Atlas Tile Editor (ATE) is an up-and-coming tile editor that will allow pixel artists:</strong><br><br><ul class=\"bb_ul\"><li>Create reusable sprite atlases similar to the functionality of GlueIT and TexturePacker.<br></li><li>Create advanced geometric tilesets for OpenGL (and DirectX) games in a way not currently available.<br></li><li>Pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building heightmaps as you customize tiles, using a provided height atlas.<br></li><li>Use the native ATE format, or a JSON exporter for tile overlay geometry features<br></li><li>Export &quot;baked&quot; tiles (available, but not recommended) as PNG, for legacy engines or engines that cannot use Atlas Tiles(tm).</li></ul><br><strong>Whoa whoa whoa, wait, you mean you can put actual geometry on these tiles?</strong><br><br>Yes, the entire premise of the Atlas Tile Editor is to provide a way to draw tiles on the fly from a single texture, but using 2D geometry to allow multiple samples from this texture to create essentially new artwork as a collage.  The 2D geometry is then assembled into a VBO and displayed in your favorite engine using a shader.<br><br>Just to recap, here's what you'll do in Atlas Tile Editor (ATE):<br><br>1) Create customized tiles from texture atlases.<br>2) Save &quot;baked&quot; tiles as PNGs<br>3) Save &quot;unbaked&quot; tiles as ATE packages.<br>4) Save &quot;unbaked&quot; tiles as CSS/JSON packages.<br>5) Save your workspace to recall your work whenever you'd like.<br>6) Create and associate customized height maps, which are converted automatically to normal maps.<br>7) Export tile packs with height maps, normal maps and color maps.<br>8) Import and pack tiles using BestRectPack algorithm.<br>9) Import and pack tiles using &quot;row and column&quot; packing (to create Sprite Sheets)<br>10) Add, rotate and stretch tile geometry with granular control.<br><br>Future features may include:<br>- Create short replayable presentations in HTML/CSS or <br>- Create 2d particle FX systems and &quot;bake&quot; films of their animations<br>- Create 2.5D isometric tiles and export them with normal mapping.<br>- Create a &quot;3D&quot; atlas tile, similar to a Minecraft block",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/header.jpg?t=1727213525",
+    "developers": [
+      "Lost Astronaut Studios"
+    ],
+    "publishers": [
+      "Lost Astronaut Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 8 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

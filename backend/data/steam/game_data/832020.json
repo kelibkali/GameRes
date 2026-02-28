@@ -1,0 +1,93 @@
+{
+  "832020": {
+    "name": "Questery",
+    "steam_appid": 832020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "***更新***<br />\r\n增加了对控制器的支持 - 用操纵杆控制你最喜欢的英雄！<br />\r\n*** ***<br />\r\n你在一座中世纪的城堡中醒来。你怎么了？你为什么在这里？有一件事你肯定知道：你需要尽快离开这个不幸的地方！克服棘手的陷阱，找到复杂难题的答案并释放两个骑士之间的战争。只有这样你才能达到理想的自由！<br />\r\n我们正在苦苦等待着你！<br />\r\n特点<br />\r\n<br />\r\n 完全控制角色。移动你的手和身体，抓住物体！<br />\r\n<br />\r\n 交互式环境<br />\r\n<br />\r\n 2个美丽的关卡，其中有许多谜题，其数量将会增长。<br />\r\n<br />\r\n在开发中<br />\r\n<br />\r\n 多人！我们想给你一个和朋友一起玩的机会<br />\r\n 支持控制器！",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/832020/header.jpg?t=1594981036",
+    "developers": [
+      "Stequer"
+    ],
+    "publishers": [
+      "Stequer"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "First level complete! ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832020/1b9590cf6f09a441e1bb79209aae3975e42625f2.jpg"
+        },
+        {
+          "name": "Second level complete! ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832020/ec2bdea3bd36cc908918d990ee720ec9e5ce9b3f.jpg"
+        },
+        {
+          "name": "Beware of traps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832020/3475953cc3b3ee8ac666e5a760c57f2547b11e2d.jpg"
+        },
+        {
+          "name": "The first thing is taken",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832020/be6b16d0cd2c174f175a335bfbd00e314b515536.jpg"
+        },
+        {
+          "name": "Portal in a new world! Or not..?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/832020/c2865989919dbcc01da39d6340a5504573b1abd8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

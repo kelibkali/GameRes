@@ -1,0 +1,37 @@
+{
+  "770170": {
+    "name": "EzBench Benchmark",
+    "steam_appid": 770170,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" ><strong>Disclaimer:</strong></h2>Ezbench Benchmark is a MVP / Prototype. It has a solid benchmarking core, but a limited feature set. We are currently developing an advanced benchmarking tool, expect great things in the future!<h2 class=\"bb_tag\" >General Info: </h2>Ezbench Benchmark (MVP) is a GPU stress test tool that allows users to push their graphics card to its limits in order to test its stability and performance. With Ezbench, users can run a series of intense graphical workloads on their GPU in order to simulate real-world scenarios and ensure that their graphics card is functioning properly. Ezbench also features a user-friendly interface that makes it easy for users of all skill levels to run and understand the results of their stress tests. Whether you're a professional looking to ensure your GPU is ready for demanding workloads or a casual user who just wants to make sure your graphics card is running smoothly, Ezbench has you covered.<br><br><strong><h2 class=\"bb_tag\" >EzBench is currently under heavy development - expect changes to be released routinely.</h2></strong><br><strong>We are soon entering full-time development of Ezbench with exciting new features being planned. Join our community and give us feedback!</strong><h2 class=\"bb_tag\" >FAQ:</h2><strong><i>I am struggling with inconsistent scores!</i></strong><br>Inconsistency in scores is often due to thermal throttling, which occurs when your system's temperatures rise during testing, impacting your overall performance. To enhance stability, consider upgrading your cooling solution or lowering your clock speeds. Keep in mind that conducting multiple tests consecutively can place significant stress on your cooling system.<br><br><strong>We strongly recommend using a video card with minimum 8GB of video memory.</strong><br><br>Will give <strong>any</strong> PC a challenge. While it runs on lower end systems as well, this test will make your RTX 3090 sweat.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770170/header.jpg?t=1697531796",
+    "developers": [
+      "Ezbench Solutions AS"
+    ],
+    "publishers": [
+      "Ezbench Solutions AS"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 13 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

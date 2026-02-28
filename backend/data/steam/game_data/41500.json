@@ -1,0 +1,109 @@
+{
+  "41500": {
+    "name": "Torchlight",
+    "steam_appid": 41500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "歡迎來到Torchlight！一處沈睡之中的國中國，因為人們發現「原火礦石」的豐富礦脈而誕生；這種稀有且神秘的礦石有能力讓碰觸的人全部得到魔力或是毀滅。邪惡生物組成的眾多軍團受此力量鼓舞，開始前仆後繼地從城鎮下方的坑道與洞穴蜂擁而出。這套動作 RPG 有三位英雄供您選擇，降到城鎮下方的洞穴內，找出無盡的寶藏，爭取無上光榮。<h2 class=\"bb_tag\" >主要特色</h2><br><br>隨機<br>您的歷險唯一只屬於您個人。七個精心打造而成的環境隨機產生，每回您展開探索的旅途，都會準備新的怪物、寶藏、拼圖和物品。<br><br>支援 MOD 功能<br>我們製作 Torchlight 所用的工具，在 TorchED 中完全可用。您可改變遊戲體驗，亦可全新創造某樣事物，以便探索和分享。<br><br>寵物和釣魚<br>您可從步調快速的任務歷險之餘抽身出來釣魚，稍事休息。得到的收穫在您的旅途中也能帶來幫助。單人歷險也許有些寂寞，您可找個忠實夥伴作陪。寵物可為您攜帶物品，戰鬥時能助一臂之力，有「恰好的魚」在時甚至能將寵物轉化成強大的盟友！<br><br>退役機制<br>掛起靴子，不代表歷險就此結束。讓您的英雄「退役」可將得到的高級物品傳承給新的英雄，繼續享有其中獨特的屬性。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41500/header.jpg?t=1767670770",
+    "developers": [
+      "Runic Games"
+    ],
+    "publishers": [
+      "XD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 960,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 48.00",
+      "final_formatted": "¥ 9.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2009 年 10 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 66,
+      "highlighted": [
+        {
+          "name": "The Adventure Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/07c2f02d0c630594306296366d09a68ffbdcda0c.jpg"
+        },
+        {
+          "name": "Master Smasher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/5768058b0e1353dae209e63221b7d308121cb0e2.jpg"
+        },
+        {
+          "name": "Beast of Burden",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/070257ef270d02f5cfec62ecb427783344c82f7d.jpg"
+        },
+        {
+          "name": "Rich",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/3730b45435358152666e030f16dd5dfd90ed3c09.jpg"
+        },
+        {
+          "name": "Deep Pockets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/fe22c18b66b112d9c076213814aa161c737e68f3.jpg"
+        },
+        {
+          "name": "Gibbed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/ee575f2f11026307ac45add6741d6ce62106278b.jpg"
+        },
+        {
+          "name": "Deep Delver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/550721f09664943da48d644da2c9eac7ea1864cd.jpg"
+        },
+        {
+          "name": "Epic Strike",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/bf2a7e8927fe048856e01221a3ac9b07a6815c49.jpg"
+        },
+        {
+          "name": "True Delver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/b11ffb59d5034b5ad96f819258fd98353bc9401b.jpg"
+        },
+        {
+          "name": "Angler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/41500/3f23f1bcdcd886c3fed6594451a5b86e4db76666.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 210,
+      "total_negative": 17,
+      "total_reviews": 227
+    }
+  }
+}

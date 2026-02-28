@@ -1,0 +1,66 @@
+{
+  "1206020": {
+    "name": "Justice Strikes",
+    "steam_appid": 1206020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Justice Strikes</strong></h2> JS is a third-person-shooter action game.<br>The player is a special agent in a city populated by two types of people: thugs and common people.<br>Several thugs form a gang. Each gang consists of a leader and gang members.<br>There are several gangs in the city that make problems. The goal is to seek them and defeat them.<h2 class=\"bb_tag\" ><i>Action mode</i></h2>In the game, there are two types of missions:<br><br><strong>1. Investigation</strong><br><ul class=\"bb_ul\"><li>1.1. Finding clues in a crime zone and discovering suspects.<br></li><li>1.2. Investigating suspects (spying on them) to find out their hideouts, bases and connections between gang members (finding more suspects).<br></li><li>1.3. Initiate action mission.</li></ul><strong>2. Action mission</strong><br><ul class=\"bb_ul\"><li>2.1. Joining an action mission (initiated from the player or generated from other agents -- computer or co-op players).<br></li><li>2.2. Attacking gangs’ bases or hideouts.<br></li><li>2.3. Pursuing (by foot or car) gang members to arrest or defeat them.<br></li><li>2.3. Locating gang members in an area to spy on them or arrest them.<br></li><li>2.4. Asking for help.<br></li><li>2.5. Rescuing an agent.</li></ul><h2 class=\"bb_tag\" ><i>Creative mode</i></h2><strong>3.Procedural City Generation.</strong><br><strong>4.Mission Creation.</strong>  Create missions, export them and share with the community. Import and play missions from friends and community.<br>Create mission:<br><ul class=\"bb_ul\"><li>4.1. Select number of people in the city.<br></li><li>4.2. Select number of gangs.<br></li><li>4.3. Select members of the gangs<br></li><li>4.4. Select leader of the gang.<br></li><li>4.5. Select gang's base and gang's hide outs .</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206020/header.jpg?t=1748451194",
+    "developers": [
+      "NPCWARE"
+    ],
+    "publishers": [
+      "NPCWARE"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

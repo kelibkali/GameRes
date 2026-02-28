@@ -1,0 +1,81 @@
+{
+  "1129610": {
+    "name": "寻书人",
+    "steam_appid": 1129610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "关于这款游戏：<br />\r\n这是一款总流程在一小时左右的剧情解密游戏，<br />\r\n其中包含有一定的恐怖元素、追逐战和解密内容，<br />\r\n游戏不支持鼠标操作请完全使用键盘。<br />\r\n<br />\r\n故事简介：<br />\r\n你将在游戏里扮演一名接受了委托的侦探，<br />\r\n你的委托人希望你帮忙寻找他爷爷的遗物：一本很特别的书，<br />\r\n委托人的书在一天夜里被人破窗而入抢走了，<br />\r\n当你深入了解这件事情之后却发现这里面蕴含着一些秘密，<br />\r\n甚至关系一个不可言述的种族……",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129610/header_schinese.jpg?t=1753847065",
+    "developers": [
+      "泽渔制作组"
+    ],
+    "publishers": [
+      "泽渔制作组"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "进入女厕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1129610/76e67180e40c1d34e3dd5517632ce7d32547d823.jpg"
+        },
+        {
+          "name": "end . 死亡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1129610/2817f1cbad756738a98444bfde00925a28bea063.jpg"
+        },
+        {
+          "name": "end . 食尸鬼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1129610/50023d79e06dc67a5c7a0591643eec479d63feb3.jpg"
+        },
+        {
+          "name": "end . 调查员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1129610/783be831c5510463f4b3b51e3fa28648f296b2d2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

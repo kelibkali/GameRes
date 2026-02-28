@@ -1,0 +1,93 @@
+{
+  "919040": {
+    "name": "Skywriter",
+    "steam_appid": 919040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In this puzzle game you control a plane and draw figures with a smoke trail.<br />\r\n<br />\r\nTo progress you have to be precise, but to excel you also need to be fast and smart.<br />\r\nThere are 60 levels, can you get three stars on all of them?<br />\r\n<br />\r\nPop the balloons for bonus credits and to increase your score.<br />\r\n<br />\r\nIn free form creative mode your imagination is the only limit.<br />\r\nDraw whatever you want!<br />\r\nUse various smoke trails to make even more crazy drawings!<br />\r\n<br />\r\nUnlock new planes and paintjobs to customize them!",
+    "supported_languages": "英语, 荷兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919040/header.jpg?t=1535706881",
+    "developers": [
+      "Zero Flag"
+    ],
+    "publishers": [
+      "Zero Flag"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Star Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/919040/5b408664350c23f001164cc0cd64b149780fd8ce.jpg"
+        },
+        {
+          "name": "Pilot License",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/919040/e83b2b2f07e82ce169f0063a08f496d4ceb8e38c.jpg"
+        },
+        {
+          "name": "More Wings",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/919040/a2ce14aa6bba36ee492c2be6086dfdf1228ec773.jpg"
+        },
+        {
+          "name": "Even More Wings",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/919040/7ad0e7ec5388a17aa4f012639a56af29e6b018ab.jpg"
+        },
+        {
+          "name": "Out of this world!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/919040/f00aeab6b2e3a0dcd34e754dd91f42b54ef65c0a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

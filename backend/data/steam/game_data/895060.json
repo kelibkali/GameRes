@@ -1,0 +1,61 @@
+{
+  "895060": {
+    "name": "My House",
+    "steam_appid": 895060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895060/extras/1c867d634a0ae58a4a5de50338602dab.avif?t=1757818217\" width=616 height=352 /></span><br><br><strong>根据你在我家中的愿望建造你的房子！ 让您的创造力在寒冷的氛围中表达自己！</strong><br><br>选择房间的布局，大小，颜色，形状......很多家具可以让你把风格放在你的房子里！<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895060/extras/47dd666a64e421922a7a8efcd37bf613.webp?t=1757818217\" width=600 height=38 /></span><br><br><strong>特征：</strong><br><br>■放松和放松游戏！<br>■易于操作！<br>■几种绘画选择！<br>■很多家具！<br>■漂亮的背景音乐！",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895060/header.jpg?t=1757818217",
+    "developers": [
+      "RewindApp"
+    ],
+    "publishers": [
+      "RewindApp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 8,
+      "total_negative": 2,
+      "total_reviews": 10
+    }
+  }
+}

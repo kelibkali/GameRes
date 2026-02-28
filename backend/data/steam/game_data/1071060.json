@@ -1,0 +1,62 @@
+{
+  "1071060": {
+    "name": "KUMACURE",
+    "steam_appid": 1071060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "An exhilarating 2D action made with &quot;PixelGameMakerMV&quot; comes up.<br><br>※2019/09/18 update<br>-some windows do not start.<br>-Changed to stop the timer during the weapon switching menu. (Press the button again to cancel)<br><br><br>In order to stop the ambition of Dr. Salmon's [Evil Robo Corps],<br>All-round Robo girls [KUMACURE] fight with marshmallows of justice as weapons.<br><br>If you find and clear all hidden [Mystery Bear], the true ending is waiting for you.<br><br>Left or right key: Move<br>A: Decision / Jump<br>↓(down arrow) + A: Slide kick<br>X: Shot<br>RB: Weapon switch menu<br>start + select: game reset<br><br>*If receiving an error message for missing DLLs, please confirm that the VC2010, VC2012, VC2013, and VC2015 redistributables are installed.For Windows 7 and Windows 8 users, updating to the latest OS version via WindowsUpdate may be required before the rebistributables can be installed.*<br><br>Production: Dot Zo Games<br>Music: PANICPUMPKIN",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071060/header.jpg?t=1605228709",
+    "developers": [
+      "Dot Zo Games",
+      "Gotcha Gotcha Games"
+    ],
+    "publishers": [
+      "Gotcha Gotcha games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

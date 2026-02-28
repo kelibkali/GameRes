@@ -1,0 +1,66 @@
+{
+  "1342940": {
+    "name": "Hecatomb",
+    "steam_appid": 1342940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In a world where cultists desperately need to be shot...<br><br>What, Were You Expecting A <i>story</i>?<br><br>Oh, Alright.<br><br>You are *checks notes* Gary, an unassuming nobody with no backstory, personality or, for the moment, voice, who got kidnapped by an evil cult aiming to summon their god into this reality. You are the final sacrifice. And you're having none of it. You break out of your cell, and kill <i>literally everybody</i> so the cult cannot summon the great evil they worship.<br><br><strong><h2 class=\"bb_tag\" >A Window Into The 90s</h2></strong><br>3D enemies? 3D weapons? <i>No.</i> The enemies, the weapons, most of the props are all 2D sprites. What 3D models there are are crude and low-poly. Texture resolutions are abominable. I even wrote a special shader that lowers the apparent colour depth.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342940/extras/cb158cb05ad0fc962a23acbabb4dbea1.avif?t=1670529954\" width=512 height=512 /></span><br>Commitment to the 90s aesthetic is near absolute: The <i>sole </i>exception is that the weapon viewsprites are normal mapped, which is anachronistic but looks <i>so good.</i><br><br><strong><h2 class=\"bb_tag\" >Boom, Pew, Bang</h2></strong><br>Shoot all the bad guys! Or hit them! Or kerplode them!<br>Defeat your foes with these bog-standard FPS weapons:<br><ul class=\"bb_ul\"><li>Carpenter's Hammer<br></li><li>Pistol<br></li><li>Submachine Gun<br></li><li>Shotgun<br></li><li>Hand Grenade<br></li><li>Fire Staff<br></li><li>Staker<br></li><li>Rocket Launcher</li></ul><i>(Note: List subject to change as I see fit.)</i><br><br><strong><h2 class=\"bb_tag\" >Reinventing the Wheel</h2></strong><br>Unity? UE? Build?<br>No.<br>That would be <i>easy</i>.<br>Hecatomb is coded entirely in <i>GameMaker.</i> I had to do everything 3D myself. Among the things I had to figure out are:<br><ul class=\"bb_ul\"><li>Drawing walls and ceilings without tanking performance<br></li><li>How sprite-based enemies move<br></li><li>Shaders to restrict the colour palette<br></li><li>A normal mapping shader for the weapon viewsprites<br></li><li>How to calculate the position of bullet holes in a wall (it uses the <i>tangent</i>!)<br></li><li>How to bake lighting into the map<br></li><li>How mouselook works <i>(Note: vertical mouse look is implemented, but disabled.)</i><br></li><li>And many more that cropped up over the months but I can't think of right now.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342940/header.jpg?t=1670529954",
+    "developers": [
+      "PixelJanosz"
+    ],
+    "publishers": [
+      "PixelJanosz"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

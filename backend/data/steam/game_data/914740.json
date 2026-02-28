@@ -1,0 +1,117 @@
+{
+  "914740": {
+    "name": "I Hate Robots",
+    "steam_appid": 914740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>I Hate Robots</strong> – 一款科幻背景的黑暗动作射击游戏。</h2><p class=\"bb_paragraph\" >您憎恨机器人，您的唯一目标就是摧毁路上遇到的每一个金属怪物。您必须穿越危险的传送门，找到机器的老巢，并将它们从地球上抹除！</p><h2 class=\"bb_tag\" ><strong>游戏特点：</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >多样化的关卡与独特任务：在敌人的猛攻下生存，探索幽暗地点，并寻找科学神器。</p></li><li><p class=\"bb_paragraph\" >7种武器组成的军火库，用于消灭敌人，每种武器对特定类型的敌人都有效。</p></li><li><p class=\"bb_paragraph\" >大量的机器人及其变体——从小型侦察无人机到强大的炮塔和自爆蜘蛛。</p></li><li><p class=\"bb_paragraph\" >科幻风格的黑暗氛围关卡，充满了紧张感和未知。</p></li><li><p class=\"bb_paragraph\" >具有挑战性的玩法——资源有限，威胁不断，必须时刻保持警惕。</p></li></ul><h2 class=\"bb_tag\" >您准备好踏入未知了吗？</h2><p class=\"bb_paragraph\" >每一步都可能是最后一步。您能否找到并摧毁所有机器人，安全地离开它们的星球？</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 乌克兰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914740/36ebc30020cf8702aa1478625b26b9b96c296d78/header.jpg?t=1763573094",
+    "developers": [
+      "MindReforge"
+    ],
+    "publishers": [
+      "MindReforge"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 6 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 28,
+      "highlighted": [
+        {
+          "name": "Aim Optional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/b5e01575b90c4c2f9642452bc661d0c43990ef5c.jpg"
+        },
+        {
+          "name": "Big Boom Theory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/99e47fe43705f185b24e7540aed1668225e89a05.jpg"
+        },
+        {
+          "name": "Critical Overdrive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/cd4c3fba75b843220e43e1b75abe6d7ecaf1f722.jpg"
+        },
+        {
+          "name": "Diamond Defense",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/53f04a6be3932fe55f7535a840782568f5c8ee7b.jpg"
+        },
+        {
+          "name": "Emergency Landing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/acea0b3d5d7892f3f87ca510b7af186923f12857.jpg"
+        },
+        {
+          "name": "First Blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/d82a96a3d54d56965bcc927f61f9e9597de7b9fe.jpg"
+        },
+        {
+          "name": "Gift Delivery: Express Edition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/ff72db11a2b05e7d2bf8d8ab17409126653146cc.jpg"
+        },
+        {
+          "name": "Lunar distance: negligible",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/22f385c044777bf271707737296f85906cc4daf4.jpg"
+        },
+        {
+          "name": "Ghost Walls Detected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/f7abc94850be977e156d43d7b00a6439bd62f871.jpg"
+        },
+        {
+          "name": "Not a Bird, Not a Plane",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/914740/e4f2fdd0d783f082d9fc0ec9289a7fed772693d3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

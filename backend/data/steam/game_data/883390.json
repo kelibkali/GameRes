@@ -1,0 +1,89 @@
+{
+  "883390": {
+    "name": "Beyond the Mind",
+    "steam_appid": 883390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Beyond the Mind 超越心灵 - 是一个简短的轻松游戏，你需要解开谜语，探索心灵深处。 你也会得到一个个人Oracle来解决你的问题。<br />\r\n<br />\r\n- 您可以向Oracle询问所有事情（可以回答yes或no的问题）<br />\r\n- 惊人的放松配乐<br />\r\n- 美丽的照片<br />\r\n- 10个谜语",
+    "supported_languages": "英语<strong>*</strong>, 日语, 西班牙语 - 西班牙, 简体中文, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883390/header.jpg?t=1530813860",
+    "developers": [
+      "morojenoe's empire"
+    ],
+    "publishers": [
+      "morojenoe's empire"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "你解决所有的谜语",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883390/c524a3efab133b563e011c901044ba65d6dd5c2b.jpg"
+        },
+        {
+          "name": "现在你知道了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883390/4e2b351d3dac285aaf876a27f604607c20c129bf.jpg"
+        },
+        {
+          "name": "听到很难过",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883390/5b06893a2ff19ecf5da94a212b77cd89dbb291ae.jpg"
+        },
+        {
+          "name": "真是笑话！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883390/99c7c2c28eafc795c576541e7735fad32cb7bf6a.jpg"
+        },
+        {
+          "name": "需要再试一次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883390/af24861a13e58b383a4316d956b59ebbf41085a5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

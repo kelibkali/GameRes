@@ -1,0 +1,65 @@
+{
+  "1547300": {
+    "name": "Drawy",
+    "steam_appid": 1547300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Drawy 是一款交互式绘图游戏，可以在您的 Twitch 聊天中玩！ 作为主播，您画出这个词，然后您的聊天尝试通过在聊天中输入该词来找到该词。<br />\r\n<br />\r\n每轮获胜的玩家都会根据时间获得积分。 最后得分最多的玩家获胜！<br />\r\n<br />\r\nDrawy 提供多种语言版本，更多语言版本即将推出！ 超过1000个友好的单词让您的聊天充满互动乐趣，并展示您疯狂的绘画技巧！<br />\r\n<br />\r\n请注意，您需要拥有 Twitch 帐户才能玩游戏。",
+    "supported_languages": "英语, 土耳其语, 西班牙语 - 西班牙, 德语, 意大利语, 法语, 荷兰语, 丹麦语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 波兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547300/header.jpg?t=1761569044",
+    "developers": [
+      "CAN TASPINAR"
+    ],
+    "publishers": [
+      "CAN TASPINAR"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "249570": {
+    "name": "The Castle Doctrine",
+    "steam_appid": 249570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Castle Doctrine is a massively-multiplayer game of burglary and home defense.  It's 1991, and things are bad.  You're a guy with a house and family.  Other players are coming to take what's yours.  Build security to stop them.  Study their houses, buy tools, and break in to take what's theirs.  Everything you do is permanent.<br><br>I'm Jason Rohrer, and The Castle Doctrine is my 10th game.  It's a bit hard to describe, because there's never been anything quite like it before.  It's a brutal game in terms of its perma-death and perma-destruction consequences, and it is turn-based, so it's rather Rogue-like.  But building such a brutal game in a multiplayer context, with absolutely no cushion between players to stop them from brutalizing each other, is quite strange and new.  <br><br>Everything is real in this game.  When you rob someone, you are actually hurting another player in a permanent way by destroying and stealing their hard work.  When someone dies in this game, they lose everything and start over.  If you devise perplexing security systems, you can perma-death other players when they come to rob you.  Watching those security tapes, where someone gets what's coming to them, is an exhilarating experience.  On the other hand, you just killed someone and perhaps caused them to lose days of their hard work.  And you've been on the other side too, losing everything because of some thoughtless move you made in someone else's house.<br><br>But there is no randomness in this game, so everything is fair.  When you die, it is always your fault.  When things get dicey, you can always retreat back out the front door to save your own neck.  Of course, human folly will get the better of you.<br><br>Here's what you get when you buy the game:<br><br><ul class=\"bb_ul\"><li>A lifetime account on the central world server that I'm running.<br></li><li>Access to the full game source code (after launching the game on Steam, go here).<br></li><li>Everything you need to run your own game server (requires a PHP/MySQL web server, download the source bundle to get started).</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249570/header.jpg?t=1724974424",
+    "developers": [
+      "Jason Rohrer"
+    ],
+    "publishers": [
+      "Jason Rohrer"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

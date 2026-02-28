@@ -1,0 +1,77 @@
+{
+  "369270": {
+    "name": "Megatect",
+    "steam_appid": 369270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Essentially, Megatect is a multiplayer map builder without limitation!</strong><br><br>Use a plethora of blocks, objects, and wires to create your own challenge maps, arenas, new sports, whatever you can dream up! Play solo or with friends and share grids online for others to play!<br><br>Megatect is currently in <strong>early access</strong>. Being a one man development team means updates may be slow, but much more content is definitely on the way!<h2 class=\"bb_tag\" >As of Version 0.13:</h2><ul class=\"bb_ul\"><li> You can Build grids alone or with friends via direct connect IP (currently requires port forwarding, I'm looking for a solution)<br></li><li> Build your map with a large selection of blocks to work with, and many more coming!<br></li><li> Place special blocks such as spawn points, jump pads and teleporters<br></li><li> Place Guns, Pickups, and Ammo spawners<br></li><li> Use wires to connect doors to buttons, activate platforms or lasers, and generally create puzzles!<br></li><li> Launch the grid you're working on into Game Mode and play a match with your friends!<br></li><li> Customize your character with different colors and armor pieces<br></li><li> Change the time of day, world color and game properties from the world node<br></li><li> More stuff I've forgotten to mention!</li></ul><h2 class=\"bb_tag\" >Big future plans:</h2><ul class=\"bb_ul\"><li>Public hosting: Host a map you made in a public lobby and let everyone join you in your own map!<br></li><li>Grid Sharing: Upload your gird for others to play and rate<br></li><li>vehicles!<br></li><li>Waypoints for races, navigation or as an end for your challenge maps<br></li><li>team based power cores and receivers for CTF style games<br></li><li> Even more stuff I've forgotten to mention!</li></ul><br>Be sure to check  for recent information, And always feel free to get in touch with me and share your ideas or to tell me how broken and awful it is!<br><br>I hope you enjoy Megatect, happy building!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369270/header.jpg?t=1681242640",
+    "developers": [
+      "Jaunty Antics"
+    ],
+    "publishers": [
+      "Jaunty Antics"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

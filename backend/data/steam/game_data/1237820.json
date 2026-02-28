@@ -1,0 +1,93 @@
+{
+  "1237820": {
+    "name": "Tower Blitz",
+    "steam_appid": 1237820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Tower Blitz is a fun and challenging Tower Defence game with over 10 levels,<br />\r\n<br />\r\nIn Tower Blitz you have to stop hords of monsters from destorying your village build towers to defeat them.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237820/header.jpg?t=1600879470",
+    "developers": [
+      "GXPlay"
+    ],
+    "publishers": [
+      "GXPlay"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Beat a level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/86a6b5ae1adc32547af9be86f0fc08a1dd8a37bb.jpg"
+        },
+        {
+          "name": "Lose a level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/98bb47755358c8da9fcc8ae5da38b84858396dc4.jpg"
+        },
+        {
+          "name": "Sell a Tower",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/7cf41c9af50797323b96d4e4e92867baadf3a910.jpg"
+        },
+        {
+          "name": "Heal a Unit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/3daf8d38586ea716a21e2ebdda8a8419153692e8.jpg"
+        },
+        {
+          "name": "Deal Damage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/015349b6980dd5b5e5fbcbc867357886c41224df.jpg"
+        },
+        {
+          "name": "Build a Tower",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1237820/a0ae430f46223989292016bb2339b383156060ed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

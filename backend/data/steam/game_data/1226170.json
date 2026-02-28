@@ -1,0 +1,61 @@
+{
+  "1226170": {
+    "name": "Forest of MATH",
+    "steam_appid": 1226170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a game I made for my 8-year old who loves games, but doesn't like to practice math. In the game, the damage dealt to enemies is a result of calculations. This means that results which are harder to compute are more beneficial to the gameplay. I was surprised that he would estimate and compute hard ones first, because it meant beating the enemies in style.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> explore the forest<br></li><li> fight monsters in turn-based combat<br></li><li> cast mathemagic spells<br></li><li> compute damage with addition and subtraction up to 200, and multiplication up to 100<br></li><li> find map scrolls to help you navigate the maze, or health upgrades to beat bosses<br></li><li> collect magic digits to build your numeric spells</li></ul><h2 class=\"bb_tag\" >Is it hard?</h2><br><ul class=\"bb_ul\"><li> In the early game the enemies are weaker, and there's more room for error. <br></li><li> Later enemies have more HP and hit harder, but the player can still win with a couple of errors. Sometimes the battles can be won quickly, if the player gets lucky with digits chosen for calculations. For example, 98+98 does massive damage.<br></li><li> Bosses require precise computation. Even then, make sure you collect most of the health upgrades before attacking.</li></ul><h2 class=\"bb_tag\" >What's the Forest like?</h2><br><ul class=\"bb_ul\"><li> The map is procedurally a generated maze - different every time you start a new game. <br></li><li> Monster and treasure placement is also randomised.<br></li><li> Sometimes you might get map upgrades at the very start, another time you might get health upgrades instead.<br></li><li> Order in which you gain the digits is also random. You might start with something easy as 2 and 6, and doing math like 26+2 or 62-2. Or you might get 8 or 9 quickly, which is more challenging, for example to compute: 83-38.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1226170/header.jpg?t=1734524479",
+    "developers": [
+      "Agencija SQL"
+    ],
+    "publishers": [
+      "Agencija SQL"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 800,
+      "final": 800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 8.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

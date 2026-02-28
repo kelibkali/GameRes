@@ -1,0 +1,93 @@
+{
+  "1142110": {
+    "name": "YOU - God Mode",
+    "steam_appid": 1142110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >PRESENTATION</h2><br>Discover new generals, new troops, new challenges and... new strategies!<br><br>With this DLC, unleash the power of God Mode and play from the start with all the Generals available in the game or a themed party.<br>The game plays identically but instead of getting your Generals one after the other, you get your full party of 9 from the start and it never changes.<br><br>Aside from the &quot;All Generals&quot; options, you can play the following themed party:<br><ul class=\"bb_ul\"><li>Great 9<br></li><li>Rare 9<br></li><li>War 9<br></li><li>Worst (?) 9</li></ul><br>This DLC is a fantastic way to play from the start powerful Generals that you'd only get at the end otherwise.<br><ul class=\"bb_ul\"><li>Oculus the Harpy and his 3 elementals (fire, water and wind)<br></li><li>Kayzer the Dark Knight and the most destructive power on the planet!<br></li><li>Orianne the invincible demon<br></li><li>Iris the Lady spider</li></ul>Also play from the start unusual armies such as spiders, zombies, succubuses and more!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142110/extras/d63416081364dd182646810195555404.avif?t=1658176633\" width=640 height=288 /></span><h2 class=\"bb_tag\" >HINTS</h2><br><ul class=\"bb_ul\"><li>Make sure to go to &quot;Manage Armies&quot; in the first castle and select all your Generals.<br></li><li>Use your spells economically, otherwise you might run out of MP before you can win all the waves<br></li><li>Balance out your experience, try to spare the fights evenly, don't leave behind any general</li></ul><h2 class=\"bb_tag\" >How to find the DLC</h2><br>1.<br>From your computer, go to:<br>C:\\Program Files (x86)\\Steam\\steamapps\\common<br>Then select the game folder.<br><br>Or directly from the Steam Client, first right-click on the game, then select:<br>Properties &gt; Local Files &gt; Browse Local Files<h2 class=\"bb_tag\" > </h2><h2 class=\"bb_tag\" >EXAMPLE</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142110/extras/3e517bedf45880c1a1b5153970cb44be.avif?t=1658176633\" width=800 height=310 /></span><br><br>2.<br>Find Save9.rxdata and copy/paste it to:<br>C:\\Users[Your Name]\\AppData\\Roaming\\You_Saves<br><br>3.<br>Launch &quot;You and who Else&quot; and load savefile number 9.<br>At some point during the introduction, you will be asked to choose your bonus.<br><br>Have fun!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142110/header.jpg?t=1658176633",
+    "developers": [
+      "Aldorlea Games"
+    ],
+    "publishers": [
+      "Aldorlea Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 450,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 4.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

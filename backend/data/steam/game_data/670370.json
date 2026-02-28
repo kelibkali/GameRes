@@ -1,0 +1,103 @@
+{
+  "670370": {
+    "name": "Fallen Cube",
+    "steam_appid": 670370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Description</strong></h2><strong>Fallen Cube</strong> is a puzzle game where you should in any way <u>deliver the red cube (or cubes) to the destination</u>, which is green (if one cube) or purple (if two cubes) marker.<br>You will be prevented by other cubes of different types. You will be given several removal points, after spending which you will be able to clear the way for the red cube to the marker.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li><u>90</u> levels </li><li>relaxing background soundtrack </li><li>pretty good timekiller </li><li>comfortable graphics</li></ul><h2 class=\"bb_tag\" ><strong>Controls</strong></h2><i>&quot;Left Mouse Button&quot;</i> - For removing blocks<br><i>&quot;Spacebar&quot;</i> - Restart level",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 乌克兰语, 芬兰语, 瑞典语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/670370/header.jpg?t=1507922546",
+    "developers": [
+      "WRD"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 324,
+      "discount_percent": 46,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.24"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "First Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/ff3c83c4ab7040ad9261a9216956f5f163f300ef.jpg"
+        },
+        {
+          "name": "Second Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/c1f6b40e6b98ab6ddc4a9f63326e416f021461a5.jpg"
+        },
+        {
+          "name": "Third Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/21c8a40abf34ac3925bf0466c61c2ec96cc9dc47.jpg"
+        },
+        {
+          "name": "Fourth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/757de2970c602cc35737868d4257ca7d3835cb4a.jpg"
+        },
+        {
+          "name": "Fifth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/75219d298d796738cee670e8a18d8b957731a572.jpg"
+        },
+        {
+          "name": "Sixth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/f7e6a445c2634d9110078247387fd10825f03e8f.jpg"
+        },
+        {
+          "name": "Seventh Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/91784de022b8ea23a8849ad7febb2f821ca6823a.jpg"
+        },
+        {
+          "name": "Eighth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/f042bc0ef25e9783f99571bcc169a59e59c37b28.jpg"
+        },
+        {
+          "name": "Ninth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/72abaaefc4e7ec475ac1dd36c7cdee50279f5b93.jpg"
+        },
+        {
+          "name": "Tenth Stage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/670370/fb4be36263911fcd6634f9ff09649c0aca567dcf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

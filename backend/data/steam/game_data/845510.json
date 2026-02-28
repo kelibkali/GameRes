@@ -1,0 +1,109 @@
+{
+  "845510": {
+    "name": "DiyMachinery （自定义机械）",
+    "steam_appid": 845510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DiyMachinery 是物理游戏，22个基础零件建造机器完成越过，跨过，吊过，爬过，架桥...等障碍。没有等级限制，只要你的电脑好就可以建造很大而有趣的机器。这个游戏需要很高逻辑思维，观察能力，操作方法，空间想象力。喜欢研究思考的就不要错过了。<br><br>这个游戏的视频我上传的B站了，感兴趣的去看一下，有人看的话后面我会继续更新关于这个游戏的有趣视频。<br><br> <h2 class=\"bb_tag\" >建造基本操作：</h2>单击蓝色方块，再点击组件界面你想建造的组件，单击组件后按Q，W，E，A，S，D等键盘按键进行旋转。<br>Z键移除选中的组件。<br>Ctrl+c复制选中的组件，然后选中蓝色方块Ctrl+v粘贴。<br>单击一个蓝色的方块，在单击另一个的方块，然后按X键焊接两个蓝色方块的组件，如果焊接转向轮，转弯时会出现组件断开（也可以按游戏右下角焊接按钮）。<br> <h2 class=\"bb_tag\" >添加操作组：</h2>方法1： 按住Ctrl键进行多选，然后点击添加组按钮，游戏界面左下角会出现列表，列表中的k1和k2按钮是控制组件的功能，例如液压顶杆：按k1顶，再按一次k1停止，按k2收，再按一次k2就停止收，基本上所有可操作的组件都是这类操作的。<br>方法2：点击右上角的控制器按钮，进入控制器界面，拖动图标进行整理操作组，然后选中要操作的行，再按右下角的 K1 k2 大按钮控制选中的行。（这个方法跟第一个方法不冲突，也就是说你设置第一个方法不会影响第二个方法，反之也一样）<h2 class=\"bb_tag\" >轮子：</h2>系统会自动打开前面几个轮子的转弯功能，你也可以单击轮子打开轮子控制界面，控制轮子的转弯，转向，开启关闭动力。<h2 class=\"bb_tag\" >车头：</h2>单击车头打开控制界面，可以控制轮子的悬挂力，转弯轮子的数量。<h2 class=\"bb_tag\" >滑轨</h2>滑轨就是长长的那一个，在建造的时候单击这个滑轨可以调节长度。<br> <h2 class=\"bb_tag\" >总结：</h2><strong><br>这个游戏可以锻炼你的大脑，说容易也容易，说复杂吧其实组件也就那两三个操作的方法，看你什么建造和搭配，如果你能完全通关了，那你比我这个作者牛多了，最后建桥那一关需要的技术跟高铁架桥的技术不相上下，过关了你也可以当工程师了。</strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/845510/header.jpg?t=1529585153",
+    "developers": [
+      "me"
+    ],
+    "publishers": [
+      "me"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/27eb65cebdd2ce64f61fa7499cee2df24bcd4a58.jpg"
+        },
+        {
+          "name": "300",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/a7b35c8e8bc2ece60ce05277a5069cf458361238.jpg"
+        },
+        {
+          "name": "500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/d57c7ca42fc0254e463789d85ecb9651304164c8.jpg"
+        },
+        {
+          "name": "tremendous",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/617a6159ab0e05c2eea5c936852b7494ac6f7569.jpg"
+        },
+        {
+          "name": "Junior machinist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/3a7293455e4056167d95d1a2e46268a34b7c3131.jpg"
+        },
+        {
+          "name": "Intermediate mechanic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/b2fab5888749ceb3699306612e8f05aa625b25ab.jpg"
+        },
+        {
+          "name": "Senior machinist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/e2d04d192cab627f7995128f45fdfa27cc17c8af.jpg"
+        },
+        {
+          "name": "Special engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/20660eaa051c970317d5c3a3e38c1766dfb20f37.jpg"
+        },
+        {
+          "name": "Reverse days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/fb49d76ecd88dfd72966840fbc79d7d3193fec33.jpg"
+        },
+        {
+          "name": "50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845510/0e05bbe551d8c79ca611780fd665d2e2a85ae20f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

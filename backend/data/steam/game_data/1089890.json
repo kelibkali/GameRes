@@ -1,0 +1,62 @@
+{
+  "1089890": {
+    "name": "3D Life",
+    "steam_appid": 1089890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "3D Life is a game of cellular automata that generate endless patterns from a few simple rules.<br><br>Cells live or die based on the number of live neighbors. Too many cells nearby, a cell is overcrowded. Too few, it is underpopulated. Empty cells come to life if they have a certain number of live neighbors. <br><br>From these rules evolve a multiplicity of forms that grow, blink, and glide through mathematical space. The behavior of each rule set is unique.<br><br>Use your stopwatch to control the flow of time: start and stop cell movement, slow down or speed up gameplay. <br><br>Use your flashlight to generate cells in three ways: randomly, frozen until discovered by the algorithm, or spaceships. Spaceships are cell patterns which move on their own, repeating after a number of generations. They can be created in any direction and orientation. <br><br>This game is VR-only for SteamVR-compatible headsets and motion controllers.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>14 rule sets, each with their own unique patterns and behavior<br></li><li>23 spaceships<br></li><li>20 million+ cells<br></li><li>Start, stop, and control speed of play<br></li><li>Supports play areas up to 8 x 8 meters (26 sq. ft.)</li></ul><h2 class=\"bb_tag\" >Photosensitivity Warning</h2>This game has rapid, flashing patterns.<h2 class=\"bb_tag\" >Acknowledgements</h2>Original <i>Life</i> by John Conway<br>Spaceships from the published work of Carter Bays<br>Game music from <i>The Suite Acoustic</i> by Matthew Lister<br>Trailer music by Christopher Wolff",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089890/header.jpg?t=1736881423",
+    "developers": [
+      "Perhapsa LLC"
+    ],
+    "publishers": [
+      "Perhapsa LLC"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

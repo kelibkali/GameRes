@@ -1,0 +1,99 @@
+{
+  "336210": {
+    "name": "Just Death",
+    "steam_appid": 336210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Just Death is an “Open-World Sandbox Crime Game” set in procedurally generated cities.  At its core gameplay mode - Just Death is my take on the Vigilante genre.  You must rid the streets of “thugs and scum” using your antihero, playing in the first or third person.  Due to the procedural nature of the environments, I can provide ample replayability with ease.  The game has an Online open-city multiplayer mode, and 3 offline gameplay modes (Vigilante, Bank Heist, and Gang War). <br><br><strong>Gameplay modes</strong><br> Vigilante ( clean up the streets from scum and bad guys ).<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/extras/b728d25dc65f5e40823f55c0505c612f.avif?t=1456370917\" width=500 height=164 /></span><br> Bank Heist ( rob the bank with friends, and escape the procedural cities ).<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/extras/0cdc25b8a0be0034f82cebc0d1e90204.avif?t=1456370917\" width=500 height=280 /></span><br> Gang War ( fight for control of the city against other gangs ).<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/extras/8e39eb0b23b4b43be1ab27a171f216fd.avif?t=1456370917\" width=500 height=280 /></span><br>You can also play online in a multiplayer open-city mode.<br><br><strong>Procedural City Generation</strong><br>The core feature of <i>Just Death</i> is the <i>Procedurally Generated Cities</i>. With a feature like this, I can provide the players with almost unlimited gameplay environments, by simply changing the “seed number” used to randomly generate the world, or by changing the simplistic input splines which form the “backbone” or basis for the city generation.  See the image below for a visualization of the input and output my technology can produce. One issue that has plagued procedurally generated environments for the longest time is that they always look “boring”. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/extras/8757012762cde08ec35114b7a3474a07.avif?t=1456370917\" width=500 height=288 /></span><br><br>My solution was to simulate every layer of a city individually with as much detail as possible, to hopefully alleviate the repetition. The static environment details I procedurally generate include: <i>buildings, skyscrapers, roads, sidewalks, intersections, crosswalks, elevated train tracks, alleyways, plazas, parks, fences, traffic lights, street lights, trees, fire hydrants, phone booths, newspaper dispensers, trash bins, dumpsters, garbage bags, paper debris, sewers, vents, utility access panels, and more!</i><br><br>Below are a set of real-time images from the <i>Procedurally Generated Cities</i> in <i>Just Death</i>. <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/extras/525e02736aa6b6dc78586977c5163f2d.avif?t=1456370917\" width=500 height=100 /></span><br><br><strong>Core Features @ Final Release</strong><br>- Procedurally Generated Cities<br>- Online Mulitplayer Open-City mode (64 players-per-server, currently supports 16 in test servers), and 3 Offline Gameplay modes (Vigilante, Bank Heist, and Gang War).<br>- 50+ Weapons (when game is finished)<br>- 25+ Vehicles (when game is finished)<br>- XP/Rank/Statistics tracking through Steam",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336210/header.jpg?t=1456370917",
+    "developers": [
+      "Radioactive-Software"
+    ],
+    "publishers": [
+      "Radioactive-Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

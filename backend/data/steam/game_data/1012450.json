@@ -1,0 +1,77 @@
+{
+  "1012450": {
+    "name": "HopSquash!",
+    "steam_appid": 1012450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/6377474a06cbb61ecd4eef24a48c3198.poster.avif?t=1739426491\" width=320 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/6377474a06cbb61ecd4eef24a48c3198.webm?t=1739426491\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/6377474a06cbb61ecd4eef24a48c3198.mp4?t=1739426491\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Overview</h2><p class=\"bb_paragraph\" >HopSquash! is a spiritual successor to the classic DOS game &quot;Jump 'n Bump!&quot; It's a simple little game for people of all ages to play together.  Give a controller to a non-gamer friend and watch them get caught up in it!  Just move and jump! Great for parties! And parents, you choose to have candy or confetti instead of blood, as this is a great game to play with the family too!  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Never run out of controller options - Mix and choose; keyboard adds 2 players, mouse adds 1 player, gamepads can add one player each, or can be split to add 2 players each!  No settings, just grab a controller, and start pressing buttons to join in!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >(Permission was given by Andreas Brynervall, artist for Jump 'n Bump, to refer to HopSquash! as a spiritual successor to &quot;Jump 'n Bump&quot;!)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/d1d0d3a4e25a6899daade815b098dd1d.poster.avif?t=1739426491\" width=320 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/d1d0d3a4e25a6899daade815b098dd1d.webm?t=1739426491\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/d1d0d3a4e25a6899daade815b098dd1d.mp4?t=1739426491\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Full gamepad support, and up to 8 players local multiplayer!  Including split gamepad mode with 2 players per gamepad, so 2 gamepads means 4 players; 4 gamepads means 8 players! </p></li><li><p class=\"bb_paragraph\" >  Selectable animal characters, and 8 colours to customise them with </p></li><li><p class=\"bb_paragraph\" >36 levels, with 6 themes (Meadows, Candy, Haunted House, Forest, Desert, Farm)</p></li><li><p class=\"bb_paragraph\" > Each round takes place over 5 randomly selected levels before the final results are shown (round duration and number of rounds are configurable)</p></li></ul><h2 class=\"bb_tag\" >PARENTS! You can turn the blood off</h2><p class=\"bb_paragraph\" >If you'd like your kids to play (as has been requested several times) you can change the &quot;Squash Mode&quot; between Blood, Colours or Candy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/833d547df110327cc9dbf85891e341ad.poster.avif?t=1739426491\" width=320 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/833d547df110327cc9dbf85891e341ad.webm?t=1739426491\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/extras/833d547df110327cc9dbf85891e341ad.mp4?t=1739426491\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Legacy version</h2><p class=\"bb_paragraph\" >HopSquash! went through a major overhaul where it was moved from the Godot engine to the Unity Engine, and more features were added. But the &quot;Level Editor&quot; and some other minor features were dropped. </p><p class=\"bb_paragraph\" >When you first start the game on Steam, you'll be asked to run HopSquash! (the current game) or HopSquash! Legacy.</p><p class=\"bb_paragraph\" >Legacy version is missing a lot of improvements, has less levels, and many frustrating things about the old levels have been fixed in the new version which are not present here.</p><p class=\"bb_paragraph\" >But the Legacy version contains a Level Editor, which didn't get ported across to the new version. <strong>NOTE:</strong> The Mac version doesn't support level editing in either version of the game.</p><p class=\"bb_paragraph\" >The Legacy version is also compatible with 4:3 monitors and custom arcade cabinets. Custom arcades cabinets use an IPAC which lets you convert button presses into keyboard key signals.  By default, this game allows for 2 players on the keyboard, but by editing the settings.conf file and setting &quot;keyboard_only=true&quot; will add 2 extra players on the keyboard, controlled by the keys YHGJ and P;L'. You can bind these keys in your IPAC settings to your joysticks and buttons, which will allow you 4 players on your home made arcade cabinets.  (Not enabled by default because having 4 players on an actual keyboard is not only impractical but will hit the simultaneous key press limit on standard keyboards.) </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What is Jump 'n Bump?</h2><p class=\"bb_paragraph\" >I love Jump 'n Bump, and I have recently thought that it's a shame it's locked away in its DOS form and is limited to only using 1 gamepad. And as good as that original level is, wouldn't it be cool if there were more levels? And more players possible? And a built in level editor so that pretty much anyone can get in and start making levels without having to learn Photoshop etc?  So I set out to make an expanded version, going full time into game development.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This was to be called &quot;Super Jump 'n Bump&quot;. I got in touch with one of the original creators, Andreas Brynervall (artist) and his only requirement for me to sell this commercially is to not use the original name or assets, and I can refer to the new game as a &quot;spiritual successor&quot;. So now we have HopSquash!</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012450/header.jpg?t=1739426491",
+    "developers": [
+      "Domarius Games"
+    ],
+    "publishers": [
+      "Domarius Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

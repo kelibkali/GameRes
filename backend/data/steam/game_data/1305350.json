@@ -1,0 +1,105 @@
+{
+  "1305350": {
+    "name": "C-4",
+    "steam_appid": 1305350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Do you want to be the best in your favorite game? Never stop training!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1305350/extras/34ca86a4c7f195da6befb88c1983d348.avif?t=1648312110\" width=500 height=64 /></span><br><br><ul class=\"bb_ul\"><li>C-4 enhances players' skills making them superior to their opponents;<br></li><li>You don't need to leave your favorite game to practice with it;<br></li><li>Runs on top of any game using &quot;Full Screen Windowed&quot; mode;<br></li><li>Can be minimized anytime by pressing &quot;Esc&quot;.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1305350/extras/81265c3e3d08832cf39b7b70ee0010fe.avif?t=1648312110\" width=500 height=64 /></span><br><br></li><li><h2 class=\"bb_tag\" >Launch C-4 and then your favorite game;</h2><i>(favorite game should be in &quot;Full Screen Windowed&quot; mode)</i><br><br></li><li><h2 class=\"bb_tag\" >Enable &quot;Play Audio When Game In Background&quot; in your favorite game;</h2><i>(enable developer console and type snd_mute_losefocus #)</i><br><br></li><li><h2 class=\"bb_tag\" >Increase the background FPS limit of your favorite game;</h2><i>(enable developer console and type  engine_no_focus_sleep 0)</i><br><br></li><li>C-4 has no impact on the players' performance, nor record data or tamper with game settings files.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1305350/header.jpg?t=1648312110",
+    "developers": [
+      "Microblast Games"
+    ],
+    "publishers": [
+      "SA Industry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Detonation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/8cd4899bf5f193c12478c59ede1a3a3e4921161a.jpg"
+        },
+        {
+          "name": "Discharge",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/420b4b14c6c30d17dac0f2817a63bcee0a578a14.jpg"
+        },
+        {
+          "name": "Eruption",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/6ade97e8af1b145766783d348cae38a63b2c5617.jpg"
+        },
+        {
+          "name": "Ignition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/14ed5354b76142672c0df9cade265446c986457e.jpg"
+        },
+        {
+          "name": "Bang",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/0b381a1067b32f5196fb2256b4041a65ac5ac7be.jpg"
+        },
+        {
+          "name": "Boom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/fb8ccc8c655314fe5cf5950043b976dcb4fd37f1.jpg"
+        },
+        {
+          "name": "Ebullition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/b6f8d71c388d3adf7d1b95c83b04a748d82fba60.jpg"
+        },
+        {
+          "name": "Mushroom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/633bf48531e99152be4ad19a6702d9378012af04.jpg"
+        },
+        {
+          "name": "C-4 BLAST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1305350/ec573bde1f3de4d8110b5f90ff238ed56f5146ab.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

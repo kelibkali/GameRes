@@ -1,0 +1,105 @@
+{
+  "1234070": {
+    "name": "Wire Flying Maid",
+    "steam_appid": 1234070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>!!! NOTE !!! Full-screen mode will not work properly if the display aspect ratio is not 16:9.</strong><br><br>Wire Flying Maid is a 2D action game where a maid flies using wires.<br><br>- Use only left and right clicks and mouse wheel<br>- Hook the wire on the flapping ring and fly in the sky<br>- Collect rings to unlock 7 maid costumes and 7 wire colors<br>- Keep flying for high score",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234070/header.jpg?t=1657714871",
+    "developers": [
+      "IzukawaN"
+    ],
+    "publishers": [
+      "IzukawaN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Score 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/7b74425693c499d125e2f27ba0c28674532965ab.jpg"
+        },
+        {
+          "name": "Score 1,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/de6db541ddf68ab58827c0883793ed45eeff64d8.jpg"
+        },
+        {
+          "name": "Score 3,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/386e40fa8e59e26b298b849562426e9a97116490.jpg"
+        },
+        {
+          "name": "Score 5,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/f8fcdb0e76466a7d09cb5bd7826da11e09f05ffa.jpg"
+        },
+        {
+          "name": "Developer's Best Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/8c1558d579079225a6003d338edb5218337d15e4.jpg"
+        },
+        {
+          "name": "Really? Wow... Really?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/a256a18843166114e1ad57d2446f866ccfb50b34.jpg"
+        },
+        {
+          "name": "Maid Made Up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/488b0b68b4c35a6293643d91c3251c127eda4b03.jpg"
+        },
+        {
+          "name": "Line Up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1234070/85dba5be4f76404167e7cecdf293030a8790b262.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

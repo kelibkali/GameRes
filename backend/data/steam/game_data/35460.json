@@ -1,0 +1,125 @@
+{
+  "35460": {
+    "name": "The Ball",
+    "steam_appid": 35460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Ball is a first person action-adventure game featuring a full single-player experience built on Epic’s Unreal™ Engine 3 technology. As a swashbuckling archaeologist working on the slopes of a dormant volcano somewhere in Mexico, you get stuck in a cavern. It doesn’t take long before you realize this is more than just a cave. You reveal ancient ruins that have been hidden from outsiders for centuries and discover a mysterious artifact, a gold and metal shelled Ball. As you progress towards solving the mystery of this amazing place you must unlock the secrets of the Ball and learn to control this ancient artifact. Venturing deeper into the volcano, you reveal some of mankind’s greatest secrets and you will start to encounter not just puzzles and traps, but also various strange creatures – the guardians of this mystery. These creatures have to be overcome, using only the Ball to defend you.<br>\t\t\t\t\t\t<h2 class=\"bb_tag\" >Key Features</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>8 hours of single-player adventure<br>\t\t\t\t\t\t\t   </li><li>Game mechanics that are very simple to pick up, immersing the user in the physics-based gameplay right from the start<br>\t\t\t\t\t\t\t   </li><li>8 huge levels to explore<br>\t\t\t\t\t\t\t   </li><li>Includes bonus Survival game mode, with 4 additional levels<br>\t\t\t\t\t\t\t   </li><li>Wide range of enemies to overcome, including mummies and an undead gorilla<br>\t\t\t\t\t\t\t   </li><li>Unique vehicles – an underground train and the mysterious “Ball Chariot”<br>\t\t\t\t\t\t\t   </li><li>35 secrets hidden away to be discovered, as well as multiple achievements for the player to earn<br>\t\t\t\t\t\t\t   </li><li>Steamworks™ features including achievements and leaderboards<br>\t\t\t\t\t\t</li></ul>",
+    "supported_languages": "英语, 丹麦语, 荷兰语, 法语, 德语, 意大利语, 西班牙语 - 西班牙, 瑞典语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35460/header.jpg?t=1693583682",
+    "developers": [
+      "Teotl Studios"
+    ],
+    "publishers": [
+      "Tripwire Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 720,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 36.00",
+      "final_formatted": "¥ 7.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2010 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Beginners Luck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/cde606fedc4fd7eabf3c66eb0cdaafe0391faf08.jpg"
+        },
+        {
+          "name": "Enlightenment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/498709cb467eb05062ffe9fd1ca7164b37e43798.jpg"
+        },
+        {
+          "name": "Archeologist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/27838add56e325e042ae7c58894f61d9b544f50c.jpg"
+        },
+        {
+          "name": "Brushing Off The Dust",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/b655d2c982d21f8cef2c3230c84631759ac2233d.jpg"
+        },
+        {
+          "name": "Archeologist Supreme",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/ef9513ae7b02134542fae2d3d8ad88aa6a64530a.jpg"
+        },
+        {
+          "name": "Survival Of The Fittest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/918dc799e444a4698cebda60d565e066f2010dc1.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/3d07a0e5d012e494d0ec6df92d1b35f59e81f4b9.jpg"
+        },
+        {
+          "name": "Master Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/004e03e30ecbf01a1e6cb2d0cd3de32e054789a3.jpg"
+        },
+        {
+          "name": "Circus Clown",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/8d28e8961755ee68f3132bd1f093c675bb5ff4ee.jpg"
+        },
+        {
+          "name": "Shotput",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/35460/57121f69c189bc2cf6411c2c92dcfbbfd59ff4ae.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 1,
+      "total_reviews": 14
+    }
+  }
+}

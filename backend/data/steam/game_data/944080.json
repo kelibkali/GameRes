@@ -1,0 +1,129 @@
+{
+  "944080": {
+    "name": "Pode",
+    "steam_appid": 944080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "穿过神秘山峦内部的魔法世界，布尔德和格罗两个人重新唤醒了一座古老的沉睡世界，并用它们独特的天赋和能力去探索一个早已逝去的文明。只有通过互相帮助，他们才能解开古老的谜题，从而打开通往费尔海姆山洞的秘密通道。<br />\r\n<br />\r\n特色：<br />\r\n<br />\r\n探索。发现一系列美丽而古老的洞穴，解开深藏的秘密，实现你的目标。<br />\r\n<br />\r\n谜题。解开谜题、谜语和奥秘。结合两个角色的特殊能力来克服各种障碍。<br />\r\n<br />\r\n合作或单人模式。与朋友一起体验，或享受独自探险的乐趣。<br />\r\n<br />\r\n独特的艺术风格。沉浸在充满挪威风情的艺术与环境之中<br />\r\n<br />\r\n<br />\r\n为获得最佳体验效果，我们建议使用控制器。<br />\r\n合作模式至少需要一个控制器。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 葡萄牙语 - 巴西, 丹麦语, 芬兰语, 简体中文, 日语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 瑞典语, 土耳其语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944080/header.jpg?t=1667212285",
+    "developers": [
+      "Henchman & Goon"
+    ],
+    "publishers": [
+      "Henchman & Goon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Hand in Hand",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/736d78156b7e559b0b8139ec06571c00ea3496a1.jpg"
+        },
+        {
+          "name": "Sowing A Seed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/8081c1c00c6bbbc315797c88c019cd63e181449a.jpg"
+        },
+        {
+          "name": "Growing Stronger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/99b234695717e6f53b3801ac8be6ea813fd91224.jpg"
+        },
+        {
+          "name": "Growing Closer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/118302cf45f30689cdf43cad0b3b76b0594e755c.jpg"
+        },
+        {
+          "name": "Growing Apart",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/3ad53fe13917248c5df4cc7b2d43b6668977eb9d.jpg"
+        },
+        {
+          "name": "To The End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/bb931bab177ba63857b98aff7066db4292d4b871.jpg"
+        },
+        {
+          "name": "Bringing To Life",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/be63c1813a90017aea445916afd79e777524a54a.jpg"
+        },
+        {
+          "name": "Learning From The Past",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/4fe30e6adcf47c50373460bb3afc6e67e196ce08.jpg"
+        },
+        {
+          "name": "Freeing Flying Friends",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/944080/af41e1058d326d925b18eedf94a76b61f77e563a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 76,
+      "total_negative": 11,
+      "total_reviews": 87
+    }
+  }
+}

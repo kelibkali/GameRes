@@ -1,0 +1,58 @@
+{
+  "693900": {
+    "name": "Aquila Bird Flight Simulator Demo",
+    "steam_appid": 693900,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>Have you dreamed of what it would be ... to soar like an eagle?</strong><br><br>Aquila Bird Flight Simulator lets you experience soaring bird flight using virtual reality.  It was originally designed for the Oculus Rift, but has now been modified for OpenVR.  You embody one of three species of eagle flying over either Northwest Scotland, a part of Columbia, or Graham Island in British Columbia. This is designed as a relaxing soaring flight simulation, and is not arcade-style flight, and as such you can make use of ridge lift and thermals.  If you want a work out try flapping with motion controllers!<br><br>If it works well for you, please consider trying the full version.  Proceeds from this project go towards a major bird of prey centre in Hampshire (UK), where I do voluntary work. Supporting this project helps towards vital conservation, rehabilitation, and education schemes throughout the UK and overseas.  So on behalf of the birds, and the staff, thank you!<br><br>This free demo version features the bald eagle in Scotland, with a 5 minute flight time limit.  While developed with Oculus in mind, I welcome any feedback via the community hub regardless of your VR setup.<br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>Dude you're an eagle! Featuring three species of eagle:<br><ul class=\"bb_ul\"><li>Bald eagle<br></li><li>White tailed sea eagle<br></li><li>and the Harpy eagle.</li></ul></li><li>Simulates an 8kg bird with a 2.5m wingspan. (cosmetic difference only at present).<br></li><li>Steer your bird using:<br><ul class=\"bb_ul\"><li>Motion controllers - only Oculus Rift, and HTC Vive have been tested.<br></li><li>Your VR headset<br></li><li>An Xbox360/One controller</li></ul></li><li>Satellite photography scenery for:<br><ul class=\"bb_ul\"><li>13km x 13km for Northwest Scotland<br></li><li>Columbia and British Columbia, of equivalent size.</li></ul></li><li>Day/Night cycle using trueSKY.<br></li><li>You have thermals and ridge lift to make flying easier.<br></li><li>Configurable wind direction and speed, shown as 'dandelion seeds' in-game.<br></li><li>Free looking in VR, along with selectable views on the birds back and a chase view.<br></li><li>You can land and take off, and walk around on the ground.<br></li><li>Options to start in the air or on the ground.<br></li><li>Tutorials for all control modes.  The Motion Controller tutorial is narrated.<br></li><li>Comfort mode:  This levels the camera, and limits your pitch and roll to produce a more comfortable experience.  It is on by default, but can be turned off.<br></li><li>Some relaxing music to go with the flying.<br></li><li>Observer mode: The in-flight menu allows you to select a view that is displayed on your main pc screen while you play in VR.  This can impact performance, but allows people not playing to watch your flight.<br></li><li>Non-VR ... the game will run without a VR headset connected, and defaults to a chase view, but it's just not the same as VR!<br></li><li>Next Level V3 motion platform support is working, but is not included in the Steam or Oculus Home versions because of the SDK's involved.  Contact me if you are interested in this feature.</li></ul><br><br><strong>Current issues:</strong><br><ul class=\"bb_ul\"><li>Satellite photography is best experienced with a bit of height.  The illusion will not work when you're near the ground.  I hope to address this in the future using World Creator.<br></li><li>If you look behind you, the game will try and adjust your view so you look down your side.  However, ultimately, if you intentionally move your head to defeat that compensation, you can look through yourself!  I can't stop you.<br></li><li>You can't crash yet, but you can try.  You'll simply land, no matter how hard you hit.<br></li><li>You can't currently 'trim' in pitch, although you can fly just fine without.<br></li><li>The Harpy eagle is currently the only bird with a ground walking animation.<br></li><li>Observer mode does not output sound to your normal pc speakers, if you are using the Rift headphones.  You need to change your settings on the Oculus software (or equivalent) to enable sound mirroring, or whichever output option you wish.<br></li><li>Oculus Touch and HTC Vive are prone to problems with bright UV light, and requires a solid sensor setup.  The flapping motion required with Oculus Touch requires your sensors to have a good view of your complete motion, or it may not work correctly.<br></li><li>Very very rarely, after a cold start, when starting airborne you may actually start on the ground.  This is due to a short delay in the tracking setup on starting the game.</li></ul><br><strong>Future plans:</strong><br><ul class=\"bb_ul\"><li>(PARTWAY THERE) More dynamic landscape with things to do of course (challenges).<br></li><li>Trophy/achievement support (there are a few already).<br></li><li>(PARTWAY THERE) Maybe one large landscape, or many smaller ones. Next on the list is to add a few trees.<br></li><li>Possible survival simulation including weather, defending your territory, nest provider, etc.<br></li><li>Narrate the tutorials for headset steering and using a gamepad.  The Motion controller tutorial is now narrated.  Perhaps the narrator could be another bird flying with you nearby?  One for the to-do list...<br></li><li>Special needs access (head steering is the start of this).</li></ul><br><strong>Final note:</strong><br>This game is not finished, and is under early access.  It's a start point of what to expect, and an opportunity to report back with bugs.  Please do report back with any issues you encounter; it helps me make it better!<br><br>Also note that, due to the SDK's involved, Next Level Motion platform support is not included in the Steam or Oculus Home versions.  Contact me if you are interested in this feature.<br><br>Thank you again for your support, and thank you for looking!<br><br>Graeme",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/693900/header.jpg?t=1588265034",
+    "developers": [
+      "Graeme Scott"
+    ],
+    "publishers": [
+      "Graeme Scott"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

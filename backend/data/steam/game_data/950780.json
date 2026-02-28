@@ -1,0 +1,77 @@
+{
+  "950780": {
+    "name": "PRATAGON",
+    "steam_appid": 950780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>MOBA</strong> shooter. Five heroes, two lines with creeps and towers, one forest with neutral monsters. Target: destroy enemy base.<br><br><strong>FEATURES</strong><br>     Headshots.<br>     Homing bullets.<br>     Shoot down enemy bullets.<br>     Teleporters for greater gameplay dynamics.<br>     Neutral monsters with advanced intelligence.<br>     Rune of random ability.<br>     Flight.<br><br><strong>LEVELING</strong><br><strong>Stats:</strong>                    health, damage, attack speed, health regeneration and energy consumption.<br><strong>Modifiers of attack:</strong> restoration of health from the damage, critical damage, splash damage, micro stunning.<br><br><strong>ULTIMATE ABILITIES</strong><br><strong>Stun Shot:</strong>        damage, stun ( one enemy ).<br><strong>Stun Bomb:</strong>      damage, stun ( all enemies in area ). More enemies - greater damage.<br><strong>Laser Shot:</strong>       damage ( all enemies in the line of fire ).<br><strong>Vacuum Bomb:</strong> damage, stun ( all enemies in area ). Greater collision speed - greater damage and stun time.<br><strong>Teleport Shot:</strong>  damage, slow ( all enemies in area ). Greater height of the fall - greater damage.<br><br><strong>RUNES</strong><br>Runes fall out from a neutral monsters: random skill, double damage, increased attack speed, health regeneration, gold.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950780/header.jpg?t=1543595427",
+    "developers": [
+      "Domoskanov Evgeny"
+    ],
+    "publishers": [
+      "Gurova IAna"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

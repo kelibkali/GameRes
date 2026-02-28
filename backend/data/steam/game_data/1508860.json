@@ -1,0 +1,89 @@
+{
+  "1508860": {
+    "name": "Minforiga",
+    "steam_appid": 1508860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Minesweeper with a character! <br />\r\n<br />\r\nThe earth's core crystal has cracked, sending pockets of unstable energy across the land. You must dig down to the center of the earth, avoiding pockets of unstable energy along the way, and mend the core crystal before it's too late. <br />\r\n<br />\r\nThe core gameplay is the same as Minesweeper, but you are limited by the tiles which your character can actually reach as you dig. Use gems with different abilities to help you along your way. Compete against yourself to push your high score higher, or relax and dig in casual mode.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508860/header.jpg?t=1611271495",
+    "developers": [
+      "Ned Yonkers"
+    ],
+    "publishers": [
+      "Ned Yonkers"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Success",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508860/0a8ed5ce9f4966cf49048bf487ad719c8195746d.jpg"
+        },
+        {
+          "name": "High Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508860/c40016df2b097aa2a3c652096fb84571a266c816.jpg"
+        },
+        {
+          "name": "That was close",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508860/d7b9c752200202b0d5647f51ad73fd78139f3560.jpg"
+        },
+        {
+          "name": "Speedminer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508860/c5f8670c72f095caa579bd8f9353f16023145f66.jpg"
+        },
+        {
+          "name": "you care <3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1508860/4ee622f6e12ece7805cc9b8ef0ff4957eb2983c5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

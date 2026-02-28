@@ -1,0 +1,90 @@
+{
+  "1201870": {
+    "name": "Drinks With Abbey",
+    "steam_appid": 1201870,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Drinks with Abbey is a short, slice-of-life visual novel about a first date, from a male's perspective.  After connecting with Abbey on a dating app, you meet in person for the first time at a local bar.  <br><br>This game is simply a conversation with her and the choices you make about what to say and do.  But don't expect the date to go well on the first try.  You need to pay attention, and as things are revealed about Abbey, you will be able to make better choices next time.<br><br><ul class=\"bb_ul\"><li> 15 to 30 min playthrough, better choices = longer date.<br></li><li> Realistic art style and atmosphere, based on western culture.<br></li><li> Dry/subtle style of humor used between the characters (think Jim &amp; Pam from The Office).  Important to keep this in mind to avoid misinterpreting the conversation.<br></li><li> Text-based game.  If you don't like reading, beware.<br></li><li> No saving or roll-back, but you can skip previously seen content.</li></ul><h2 class=\"bb_tag\" >A prototype game</h2><br><br>Drinks with Abbey is my first game.  I wanted to make a similar, larger game, with more resources put into it, but I wasn't sure what people would think of the style, because it's different than most existing visual novels.  I thought it was important to get feedback on a scaled-down version first, to give the general sense of the larger game, but not do everything I'd like to with it (that's why it's free to play).  If you are willing to give feedback, please be specific so I know what to do more/less of in the next game.<h2 class=\"bb_tag\" >Interface</h2><br><br>There are no menus, except when you click the X to quit. You can click the textbox/choices to advance or use the arrow keys + spacebar. You can also press F to enter fullscreen mode. The 5 icons shown in the bottom left of the screen are the game's only options:<br><br>1. Toggle between speaker and headphones modes. Speaker mode is intended to sound like it's being played in the bar and includes crowd noise, while headphones mode plays the music as it was recorded.<br><br>2. Toggle music on and off.<br><br>3. Toggle lightning mode, which just removes the typing effect.<br><br>4. Toggle auto-play mode.  This mode only requires your input for choices.<br><br>5. Toggle skip mode.  When on, you will fast forward through all previously seen content.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201870/header.jpg?t=1578244635",
+    "developers": [
+      "Ramify Games"
+    ],
+    "publishers": [
+      "Ramify Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Thrown Towel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/c37e1e70dd6b17a0c7d2d693108061f49684481f.jpg"
+        },
+        {
+          "name": "Deja Vu",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/1f4a4825e206661dcecaba04006343ec6060ace1.jpg"
+        },
+        {
+          "name": "High Stakes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/540ff8c6c3202bf2c96a19f135da7b850232710c.jpg"
+        },
+        {
+          "name": "Tainted Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/b1c4655fb0bbd7a9472a973401ed2f58438cd521.jpg"
+        },
+        {
+          "name": "Sick Leave",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/3ff53b6830b603b9f25125fbf0ba169221e19c18.jpg"
+        },
+        {
+          "name": "Sleep Walker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/62872c3aa2fe1353e586b39f9f25ab0ff3c0c513.jpg"
+        },
+        {
+          "name": "Second Date",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/93e8c30f533274f2b93047b8132e03eef76d508e.jpg"
+        },
+        {
+          "name": "Lucky Dog",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/ab0fa6814d003c679bd2d9cf61b503db58f3774d.jpg"
+        },
+        {
+          "name": "Three's Company",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1201870/0800846ede8b29f1c0d35eb3534339333a8d018e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

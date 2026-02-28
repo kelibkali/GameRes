@@ -1,0 +1,89 @@
+{
+  "1098540": {
+    "name": "Monsters sandbox",
+    "steam_appid": 1098540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "主要比赛<br />\r\n在“怪物沙盒”中，您會發現幾個小地方，可以在其中嘗試遊戲模式，例如波動模式，對象防禦，致命戰鬥，隨機迷宮中的協同遊戲。 在遊戲中，您會獲得積分，可以為下一場比賽購買武器。 在多人遊戲中最多可以同時參加4人。<br />\r\n<br />\r\n机械学<br />\r\n游戏中有一个详细的敌人伤害模型。 例如，击中僵尸的腿，他将为你爬行，击中手，怪物将失去他的手。 这使游戏与其他游戏区别开来，拍摄变得非常有趣。 游戏实现了一个简单的库存系统 - 你可以找到并拿起武器或弹药，并通过与朋友分享你的武器扔掉它。<br />\r\n<br />\r\n精致的游戏玩法和相对较小的游戏空间不会让你感到无聊！",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098540/header.jpg?t=1667199423",
+    "developers": [
+      "xFAIRx"
+    ],
+    "publishers": [
+      "xFAIRx"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "24240": {
+    "name": "PAYDAY™ The Heist",
+    "steam_appid": 24240,
+    "required_age": "18",
+    "is_free": false,
+    "description": "<strong>《收获日：掠夺》</strong>是一款充满动作元素的第一人称射击游戏，让玩家开启硬派的职业犯罪生涯，在充满变数的掠夺中不断追求下一笔“大买卖”。携带大量武器与装备。与其他三位玩家或者人工智能队友在犯罪中经历六场高风险的掠夺。<br>《收获日》到了——在票子花光前想办法弄点吧！<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>六场高强度的掠夺<br></li><li>互动的 4 名玩家合作游戏体验<br></li><li>无限的可玩性<br></li><li>庞大的角色升级技能树<br></li><li>自定义您的技能来适应您的首选暴力形式<br></li><li>人质交易<br></li><li>更多的下载包：追加的掠夺，武器与装备意味着《收获日》——一款仅需零售游戏一半价格的 AAA 级数字发行大作——尽在 OVERKILL</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 意大利语, 西班牙语 - 西班牙<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24240/header.jpg?t=1766064903",
+    "developers": [
+      "OVERKILL - a Starbreeze Studio."
+    ],
+    "publishers": [
+      "Starbreeze Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 56,
+      "highlighted": [
+        {
+          "name": "Diplomatic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/c978926b7d3213173e5d849628849219c59e6836.jpg"
+        },
+        {
+          "name": "Cheney?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/f900c44dcfd075eeacb6bc2c0f3b5ee5e4a3227b.jpg"
+        },
+        {
+          "name": "Intimidating",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/3ccffb8c9c858eabd1e83ed392e9cbe12241528a.jpg"
+        },
+        {
+          "name": "Left for dead",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/714796fcb2695cc464b00f157538d920a2ad6ecb.jpg"
+        },
+        {
+          "name": "Blood in, blood out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/617255c83427fcc39597b30c3a6e299f180548e8.jpg"
+        },
+        {
+          "name": "A bridge too far!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/2e28782ae6edff90fafef7ddd49aac3d3dd25155.jpg"
+        },
+        {
+          "name": "Dodge this!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/d65c47fc5cd9ad29cf1bd70a4e0db484a777fe9d.jpg"
+        },
+        {
+          "name": "But how?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/700595443b83abba7526b052754aef2bb8261f90.jpg"
+        },
+        {
+          "name": "Last man standing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/5b2f9c16ef8151766fcb189a2241ae0a97cc39e9.jpg"
+        },
+        {
+          "name": "Windowlicker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/24240/58243c7cc523e587bcc461445105c732c811e626.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 554,
+      "total_negative": 67,
+      "total_reviews": 621
+    }
+  }
+}

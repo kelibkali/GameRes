@@ -1,0 +1,65 @@
+{
+  "880620": {
+    "name": "荒漠求生",
+    "steam_appid": 880620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款第三人视角的FPS沙盒游戏,玩家在一个荒漠中寻找资源,建造自己的基地,抵御敌人的入侵.<br />\r\n游戏中的枪可以随意更换配件,消灭敌人可以升级学习新的技能<br />\r\n游戏不断更新中,由于开发团队就我一个人,天天都在昼夜加班更新内容,没时间测试,如果有bug或建议请留言.<br />\r\n价格会随着内容增加而递增,现在购买享受永久更新<br />\r\n越早购买越划算.<br />\r\n<br />\r\n操作说明:<br />\r\n按下F1 开启关闭帮助界面<br />\r\nW S A D行走<br />\r\nC下蹲 Z趴下 E使用<br />\r\n1 手枪 2突击步枪 3狙击枪<br />\r\nTAB 物品栏  M地图 T建造<br />\r\n鼠标左键 挖矿或砍伐或挥拳<br />\r\n鼠标右键按住瞄准<br />\r\n瞄准后按F切换第一视角<br />\r\nF5快速存档<br />\r\n由于中国大陆地区需要翻墙才能登陆社区发布消息 请上微博搜索Steam荒漠求生 我在微博发更新消息<br />\r\n翻译文本我放在\\DFJW01_Data\\LanguageText\\ 是txt文件,由于我是用软件自动翻译的,可能不准确,有需要可以自行编辑.",
+    "supported_languages": "简体中文, 英语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880620/header_schinese.jpg?t=1534949955",
+    "developers": [
+      "许志修"
+    ],
+    "publishers": [
+      "许志修"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 17,
+      "total_negative": 9,
+      "total_reviews": 26
+    }
+  }
+}

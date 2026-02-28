@@ -1,0 +1,89 @@
+{
+  "601920": {
+    "name": "Adjacency",
+    "steam_appid": 601920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Adjacency is a puzzle game about colors and shapes.<br />\r\nSpread colors to adjacent tiles to complete the pattern.<br />\r\nMaster puzzles by solving them with as few moves as possible.<br />\r\n<br />\r\nMinimal yet challenging, for the casual or perfectionist player.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601920/header.jpg?t=1587861946",
+    "developers": [
+      "sleepy macaw"
+    ],
+    "publishers": [
+      "sleepy macaw"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Skilled",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601920/e630f5209f7c79c193ce1ac3c77974800c79c068.jpg"
+        },
+        {
+          "name": "Wizard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601920/a530d9a0ed9c41ba7220f7cc87dc05d2f77cb33f.jpg"
+        },
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601920/fb683577efa7182c24f5b8f87fe389e1273329a2.jpg"
+        },
+        {
+          "name": "Beat the Dev",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601920/23e9b38e382235fda654052af3d8e4fb747cd86b.jpg"
+        },
+        {
+          "name": "Fool",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601920/2d542355f81a2211fe61b7bbfaa5f2f4a1a12c41.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

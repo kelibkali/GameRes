@@ -1,0 +1,41 @@
+{
+  "1569980": {
+    "name": "CHAOS GAME",
+    "steam_appid": 1569980,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >The term <strong>Chaos Game</strong> refers to a method of creating a fractal image using a polygon and an initial point selected at random inside it. This program is a simple fractal generator, supporting famous fractals involving Chaos Game, Mandelbrot Set, Julia Set and others.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Feature</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Customize Chaos Game Fractal with number of points, jump ratio and special jump point select condition.</p></li><li><p class=\"bb_paragraph\" > Customize Julia Sets by setting C, Z and Z exponent.</p></li><li><p class=\"bb_paragraph\" > Customize Dragon Curve by setting each dragon starting point, size and stroke width.</p></li><li><p class=\"bb_paragraph\" > Customize Barnsley Fern by setting multiple coefficient of affine functions and their probability. </p></li><li><p class=\"bb_paragraph\" > Customize Mandelbrot Set by zoom selection, max iteration and Z value.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About</h2><p class=\"bb_paragraph\" >This program is written in Rust Programming Language, with GUI elements programmed using FLTK Rust Library. The program contains nearly all features, and is free of charge. However, several accommodate features like the ability to support multiprocessors,  save/load program configuration and QHD/4K export are available in a separated DLC.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Special Thanks</h2><p class=\"bb_paragraph\" >Quang Minh Truong for mathematical consultant and helping with the development of Windows interface and performance optimization. </p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569980/6a7a0f16d366789139af5919f7f5655edce10b6f/header.jpg?t=1759861328",
+    "developers": [
+      "snet"
+    ],
+    "publishers": [
+      "snet"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 10 月 6 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

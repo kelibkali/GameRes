@@ -1,0 +1,73 @@
+{
+  "1061820": {
+    "name": "XMusicVisualizer",
+    "steam_appid": 1061820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >软件简介</h2>酷鱼3D桌面频谱(X Music Visualizer 3D)是一款酷炫好玩的3D桌面音乐频谱动态壁纸。当您使用任意播放器播放音乐的时候，它会在您的桌面壁纸上显示出惊艳的多种频谱特效。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>支持多种频谱主题一键切换，支持创建/编辑/分享频谱主题<br></li><li>支持所有音乐播放器<br></li><li>支持Steam创意工坊，下载和分享频谱主题<br></li><li>超低CPU使用率<br></li><li>丰富的个性化设置，支持图片和动态视频作为自定义背景<br></li><li>支持任务栏透明</li></ul>",
+    "supported_languages": "英语, 简体中文, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061820/header.jpg?t=1585802352",
+    "developers": [
+      "XDesktopSoft"
+    ],
+    "publishers": [
+      "XDesktopSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 7,
+      "total_negative": 8,
+      "total_reviews": 15
+    }
+  }
+}

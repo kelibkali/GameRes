@@ -1,0 +1,54 @@
+{
+  "707340": {
+    "name": "Awakening",
+    "steam_appid": 707340,
+    "required_age": 0,
+    "is_free": true,
+    "description": "觉醒3D是一个小巧，简洁高效的三维创作工具（3D引擎），可用于制作实时渲染的三维场景。这套工具主要包括三个模块：场景编辑器，场景播放器，和网页插件（用于网页内嵌播放场景）。支持脚本逻辑控制，无需C++编程，即可制作交互场景。对于特殊功能需求，可通过 C++ SDK 或 脚本 扩充功能。觉醒3D基于dx9.0c，运行于Windows平台。<br />\r\n<br />\r\n觉醒3D致力于清新山水画风特色渲染，可应用于 产品演示，虚拟旅游，3D游戏 等。<br />\r\n<br />\r\n+ 你仍然可使用 固定管线模式 在低端显卡上高效渲染，这在 VR 应用里尤其有用（VR功能将很快推出）。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707340/header.jpg?t=1506237037",
+    "developers": [
+      "AwingSoft"
+    ],
+    "publishers": [
+      "AwingSoft"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

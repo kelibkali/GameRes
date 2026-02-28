@@ -1,0 +1,69 @@
+{
+  "1321110": {
+    "name": "MonsterTerritory",
+    "steam_appid": 1321110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "怪物领域是一个点击冒险游戏。<br />\r\n玩起来有点像数学谜题。<br />\r\n地图分为许多个区块，每个区块上有若干怪物和一些战利品。要杀死区块上的怪物才能拿走上面的战利品。<br />\r\n不同的战利品增加不同的属性。你要想好优先拿哪些战利品，同时也要考虑怪物的强度，找到清理区块的正确顺序<br />\r\n你要合理地分配属性点，每一点属性点都非常珍贵<br />\r\n要在正确的时机吃正确的食物<br />\r\n在战斗前计算你和怪物的攻、防、血量<br />\r\n需要做许多S/L",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321110/header_schinese.jpg?t=1590594709",
+    "developers": [
+      "3000White"
+    ],
+    "publishers": [
+      "3000White"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

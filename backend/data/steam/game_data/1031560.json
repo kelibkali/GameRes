@@ -1,0 +1,117 @@
+{
+  "1031560": {
+    "name": "Sudoku3D 2: The Cube",
+    "steam_appid": 1031560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Possibility to choose size of cube from 3^3 to 9^3.<br />\r\nThe choice of complexity from 1 to 9 (a certain analogue of the probability of an empty cell from 10% to 90%).<br />\r\nAs the level of complexity increases, several solutions appear, but only the one that was originally generated will be true!<br />\r\nSince In this version of Sudoku there is a choice of size, the rule of small composite squares 3x3 as part of a full 9x9 does not actual.<br />\r\nThere are ghost cubes that confuse and turn the numbers. Although, thanks to the scanner, they are easily detected. The scanner is available only once in the current session, which trains the photographic memory well.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031560/header.jpg?t=1674556208",
+    "developers": [
+      "Shmurdik"
+    ],
+    "publishers": [
+      "Shmurdik Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "It was easy too",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/1a6010e62d31a11690560d2f1a550ffec8923706.jpg"
+        },
+        {
+          "name": "Zzz",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/fa7397de6334db135f471628377ddfff7f117058.jpg"
+        },
+        {
+          "name": "3x3x3x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/3526d411f61e9149de9bbe50757f32fa9314db5d.jpg"
+        },
+        {
+          "name": "4x4x4x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/6d8ecc94b85dc7669283559578d3c1d9a3670737.jpg"
+        },
+        {
+          "name": "5x5x5x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/36f0d4acd5ab5852e476a1fff9eeb9b45aff0627.jpg"
+        },
+        {
+          "name": "6x6x6x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/515260b4654863f95a1d9d548123b6c5f0330103.jpg"
+        },
+        {
+          "name": "7x7x7x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/477292d3242a31766e0fbc128cb01a2fdd802040.jpg"
+        },
+        {
+          "name": "8x8x8x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/a0b8d82f3a03afc310b6abb6fc0ce37d236bdb18.jpg"
+        },
+        {
+          "name": "9x9x9x1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/e3804e2ba86aa778f5f87620747ced7a6bcc531d.jpg"
+        },
+        {
+          "name": "3x3x3x10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1031560/ceb27515443f07d409c85a702e529bc29f6bf292.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

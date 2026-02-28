@@ -1,0 +1,126 @@
+{
+  "299420": {
+    "name": "CubeGun",
+    "steam_appid": 299420,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<ul class=\"bb_ul\"><li>简单上手的DIY：为玩家提供简单的编辑工具来设计功能和形态各异的飞船<br></li><li>武器平衡：各种武器与防具之间互相克制，每种武器都有特长和弱点。<br></li><li>多变的战术：利用武器的互相克制，可针对不同的敌人采用不同的战术。使用能量盾克制速射武器，使用鱼雷和迫击炮等绕过能量盾直接攻击目标，使用防空炮击落鱼雷，使用装甲直接撞毁对方飞船，使用推进器快速绕到对方的薄弱环节进行进攻。使用火炮的冲击力击退想要撞击自己的飞船。<br></li><li>无等级：对战中的玩家是平等的，不会出现外观相同数值差距悬殊的飞船，胜负取决于操作和武器搭配。<br></li><li>自定义职业：虽然没有内置职业但通过不同的武器和防具配置，可以自由设计出各种职业的飞船：远距离打击/近距离冲撞/伤害吸收/治疗/限制敌人攻击。<br></li><li>简单的战斗操作：只有三种操作，移动，旋转和技能释放，通过走位和合理的技能释放来赢得战斗。<br></li><li>武器合体和武器高度设定：多个同种设备拼成方形合体成一个尺寸和威力都更大的设备，增加武器下方甲板高度可提高射程。<br></li><li>一切都可以物理破坏：飞船的甲板和设备可以逐个击落，飞船被撞击会反弹和旋转并可以使甲板脱落，地面可以被武器完全破坏<br></li><li>支持多人组队战斗：利用自定义职业的特点，可以与队友配合产生各种组合战术，如维修装置合体后扩大治疗范围来为队友加血，装配大量装甲的玩家充当坦克掩护后方使用迫击炮远程打击的队友。利用撞击和卡位来阻挡敌人的移动意图等。</li></ul><h2 class=\"bb_tag\" >武器系统</h2><ul class=\"bb_ul\"><li>机枪：射速高，子弹速度快，直线打击前方目标，使用时需要旋转飞船来瞄准。<br></li><li>能量盾：阻挡普通子弹，防御范围宽5格，长1格，吸收过量伤害后会变红并暂时失效。<br></li><li>鱼雷：无视能量盾，直线飞行，是唯一可以击碎甲板的武器。<br></li><li>防空炮：可击落鱼雷迫击炮等慢速武器的炮弹，射速高但是距离近，伤害低。<br></li><li>装甲：用来加固甲板，加固后即可抵挡多颗鱼雷，也可以用来撞击对方船体。加高的甲板加上装甲具有非常高的防御力<br></li><li>迫击炮：射速满，炮弹速度慢，射程远，可以绕过能量盾和装甲直接攻击目标，击中后有范围伤害效果，伤害大，适合攻击重装甲敌人，不适合攻击走位灵活的敌人。<br></li><li>推进器：飞船体积增大后移动和旋转都会变慢，推进器可以增加移动和旋转速度。<br></li><li>火炮：子弹速度快但射速低，击中目标有击退效果，可用来阻止对方靠近或者将对方推到山体上撞死。<br></li><li>干扰机器人：击中目标后使其暂时失去功能，可以作用在武器/能量盾/维修站/推进器上。<br></li><li>维修站：自动修理附近的设备，不包括自身<br></li><li>甲板方块：所有装备都必须放在甲板上，甲板可以设定高度，高度越大，上面的武器射程越远，甲板方块承受伤害后会脱落，当最后一层甲板脱落后上面的设备也会脱落，所以通过撞击或者鱼雷直接打击甲板的方式，可以间接打掉上面的设备。<br></li><li>核心：飞船的心脏，生命值比普通设备要多，核心下的甲板也比普通甲板生命值更多，脱落后，飞船坠毁。</li></ul><br><br><strong>武器平衡</strong><br>能量盾 克制 高速武器<br>慢速武器 无视 能量盾<br>防空炮 拦截 慢速武器<br>鱼雷 摧毁 甲板<br>装甲 抵挡 鱼雷<br>迫击炮 越过 装甲<br><br><strong>战术平衡</strong><br>高射速型克制灵活机动型：<br>高射速的武器可以有效击中目标，让对方无法通过高速机动来躲避<br>防御型克制高射速型：<br>能量盾和装甲可以有效抵消对方的攻击<br>慢速武器型克制防御型：<br>利用对方无法灵活移动的特点使用高伤害并无视能量盾的武器有效摧毁对方防御<br>灵活机动型克制慢速武器型：<br>通过走位躲开对方攻击并绕道对方薄弱位置进行射击或者撞击<br><br><strong>点数与重量平衡</strong><br>设计飞船时的点数是有限的，不同的分配方案都有其优缺点 武器等设备需要点数较高，甲板方块需要点数少，廉价的甲板可以用来撞击对方船体，并且较高的甲板可以提高上方武器的射程并保护后方的设备。 但是较多的甲板也会导致重量上升，降低移动和旋转的速度。 某些武器数量较少时效果微弱，如迫击炮的设计精度很低，但是数量增加后齐射的命中率大大提高，所以专注提高某种武器的数量比将点数平摊给各种武器要好。并且多个同种武器可以合体带来更大的攻击力。<br><br><br><strong>怒气系统</strong><br>飞船中数量最多的前三种设备可以在战斗中释放怒气。同一种设备数量越多，需要积累怒气的时间越长，威力自然也越大。怒气释放后该所有同种类的设备会持续几秒钟怒气状态。 不同的设备释放怒气时效果不同。有些武器是增加攻击频率，有的是增加攻击力，推进器是增加推力，能量盾会瞬间恢复能量并大幅增加恢复速度，装甲会瞬间补满生命值并大幅增加防御力。 在正确的时机使用怒气是胜利的关键，有些设备的怒气可以配合使用，比如推进器配合装甲可以实现突然冲刺并撞击敌人的连续效果。撤退时也可以开启推进器怒气的同时激活火炮的怒气来一边撤退一边击退追击的敌人。<h2 class=\"bb_tag\" >游戏模式</h2><br><strong>单机游戏</strong><br>游戏提供了一系列教学关卡让玩家熟悉武器的相克关系,玩家在这个模式可练习拼装各种飞船,挑战各种敌人和boss.有些玩家可能喜欢自己设计敌人和关卡来自己挑战或者分享给其他玩家.我们打算近期开放整个编辑器给所有玩家,玩家可以编辑好关卡自动上传到游戏服务器供其他玩家使用.<br><br><strong>基地掠夺战</strong><br>编辑自己的岛屿抵抗其他玩家的进攻,使用飞船掠夺其他玩家的金币,当然如果你挂了,掉落的金币归对方.这个模式需要联网下载随机玩家的岛屿数据,但不像pvp那样需要稳定的网络连接,所以如果在室外用手机或平板玩这个模式,普通的移动网络也够用.<br><br><strong>联机对战</strong><br>这是本游戏最重要的部分,组队和其他玩家公平pk,除了需要单机模式里面练习的飞船设计和操作技巧,更重要的是队友间的&quot;职业&quot;配合.地图可以选择内置地图或者玩家DIY的图. 我们计划提供以下几种对战地图<br><br>组队死亡竞赛:死亡后会从后方复活,回城后可以换飞船<br>多人岛屿副本:玩家一起对抗电脑控制的岛屿<br>多人飞船副本: 玩家一起对抗一波一波的电脑控制的飞船",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299420/header.jpg?t=1486783416",
+    "developers": [
+      "candyrocketstudio"
+    ],
+    "publishers": [
+      "candyrocketstudio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 5 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 42,
+      "highlighted": [
+        {
+          "name": "Gladiator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/a4b5d982aaff00e3306f221f1bc92910b7b59f73.jpg"
+        },
+        {
+          "name": "Gladiator 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/a4fdc1f1486a14742e53988f6beb08acc54927dc.jpg"
+        },
+        {
+          "name": "Gladiator 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/2771f386c38e908488d5c0e8c3b909b1d990a9ee.jpg"
+        },
+        {
+          "name": "Strategist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/8d93db4e7c39bce9ece1d3cf4110a83486c2d862.jpg"
+        },
+        {
+          "name": "Strategist 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/cf8ec93295a65e8a5e9bf410c6a834d1d2eb3314.jpg"
+        },
+        {
+          "name": "Strategist 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/e548e9e54b497f2a6bccb48e5d63ecd17a9c202a.jpg"
+        },
+        {
+          "name": "Assasin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/a60947bb9f4b3ffe3cf760c5d7806ceb77bb8554.jpg"
+        },
+        {
+          "name": "Assasin 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/209f42f76f8ba90a051844471f608aec8c2abda5.jpg"
+        },
+        {
+          "name": "Assasin 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/d9a67d59c4d7db8ebfdae3f28f411fdd239602c6.jpg"
+        },
+        {
+          "name": "Newbie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299420/ff036f48236199fb1a4ac093e61c5bafe4fd371b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 4,
+      "total_negative": 2,
+      "total_reviews": 6
+    }
+  }
+}

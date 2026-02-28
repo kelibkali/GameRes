@@ -1,0 +1,125 @@
+{
+  "547970": {
+    "name": "Celestial Breach",
+    "steam_appid": 547970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Celestial Breach is a Short Solo/Online Coop arcade flight game in a Sci-Fi setting, Focused on Cooperation versus NPC.</strong><br><br><i>It contains a lots of the old school arcade flight sim components, while being refreshing by focusing on cooperation and adding more exotic weapons, abilities, and GamePlay mechanics.</i><br><br><i>The Game is set in an &quot;arcade&quot; type game mode, where you restart from the first level each time. With enough GamePlay diversity to make every game session different and interesting.</i><br><br><strong>Short Gameplay Summary:</strong><br><br><i>At the start of the game each player choose an airplane class and a secondary weapon in the lobby. Then They have 3-4 Objectives to complete in order to progress to the next level <strong><u>Only two levels</u></strong>. During Combat they can upgrade their aircraft and choose new exotic abilities/weapons from an in game upgrade menu. When all the missions are completed they can eventually progress to the next level together. If all the players die at the same time, the Game is over and must be restarted from the first Level</i><br><br><strong>Current State of the features in the game:</strong><br><br><ul class=\"bb_ul\">    <li> Multiplayer: Host and connect via a Server List, no need for port forwarding or firewall rules, possibility to join and invite via Steam friends, and to limit to LAN or friends only.<br>    </li><li> Airplane classes: Four Classes of Aircraft With each their own flight characteristics and unique secondary weapons.<br>    </li><li> Secondary weapons: 11 Unique weapons, Ranging from Railgun to cluster missiles.<br>    </li><li> Upgrade Menu: Base Stats upgrades + Secondary weapons upgrades done (armor, speed, shield, locking speed, range, ...).<br>    </li><li> Special Abilities: 5 done, Speed boost, teleportation, flare charge, distract charge, healing beam.<br>    </li><li> Enemies: 7 enemies type, From the small fighter aircraft to the Ground missile launcher.<br>    </li><li> Objectives: Currently two objective types: &quot;destroy all targets&quot;, &quot;protect allied targets&quot;, with variation such as Big space ship boss and altitude restrictions.<br>    </li><li> Levels: Only two for now, a &quot;Winter&quot; Level, and a &quot;Canyon&quot; Level. The Canyon level has altitude restrictions, to challenge players to fly into the canyons :)<br>    </li><li> Controller Support: Full controller support You can do everything with a standard controller. &quot;Flight Stick&quot; support is planned after the early access launch.</li></ul><br><strong>Emphasis on TeamPlay and Cooperation</strong><br><br>The gameplay has great emphasis on teamplay and Cooperation with your friends, by using some special mechanics:<br><br><ul class=\"bb_ul\">    <li> When someone kills an enemy, everyone gets the reward (credits to use upgrades on your ship).<br>    </li><li> All Players Sees everyone's health and shield status at all time, if someone is dead, everyone see it's remaining respawn time.<br>    </li><li> The Game is lost When everyone is respawning at the same time.<br>    </li><li> At each death the respawn time increase a little bit. the respawn time is the same/shared with all players.<br>    </li><li> The countermeasures of your ship  can deflect any missile, so you can protect a friend by dropping flares near him.<br>    </li><li> Two new abilities have been added recently, that allows you to heal your teammates and to drop flares on them.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547970/header.jpg?t=1507903608",
+    "developers": [
+      "Dark Nebulae"
+    ],
+    "publishers": [
+      "Dark Nebulae"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 44,
+      "highlighted": [
+        {
+          "name": "Stuborn Soldier",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/b31062e5d38263006f7b8aa78391e841689c579d.jpg"
+        },
+        {
+          "name": "War Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/9360cba73e26ad17683dc78d92b9c6001c24453a.jpg"
+        },
+        {
+          "name": "Short Haul Flight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/57bf3142e8f15427181b8d1c9fa046fd6e96d2a0.jpg"
+        },
+        {
+          "name": "Long Haul Flight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/b96976904823be3d11a43e98467eb1b1928488ed.jpg"
+        },
+        {
+          "name": "Full Auto Released",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/5746977d6ec6c2e8cdf7718e9629c9c24852bb78.jpg"
+        },
+        {
+          "name": "MachineGun Malfunction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/60da1e2f65cc592e9f6386b81f7bf663a1dfc1ab.jpg"
+        },
+        {
+          "name": "AAM technician",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/25b8491fc0509ba317f00bd531d3ec23bfa22e32.jpg"
+        },
+        {
+          "name": "AAM Specialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/12a088c2e276bf96d5940f2bc7ea5493165acdeb.jpg"
+        },
+        {
+          "name": "AAM Fanatic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/80d6c02af6186de06af460b2f70d3b68c7549f62.jpg"
+        },
+        {
+          "name": "UGR technician",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/547970/ed6ee043795c02222d502e67ff05353e6e75d55d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

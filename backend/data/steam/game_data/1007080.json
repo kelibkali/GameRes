@@ -1,0 +1,99 @@
+{
+  "1007080": {
+    "name": "Death Rpg",
+    "steam_appid": 1007080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Introduction:</h2><br>Top down RPG puzzle and strategy game. Player have 3 different characters in every level with different skills, abilities and attack patterns. Drag &amp; drop player units on the grid with mouse. Move characters to desired slots and press attack button, then every attack happens automatically. After player have make all his moves, shift turns to AI opponent. Player can continue as long as at least 1 of his characters are alive. Levels contain 1-4 waves and last wave contain boss. After boss is death level are completed. Only last wave will contain bosses. So use your brains and just mouse to beat enemies<h2 class=\"bb_tag\" >Features:</h2>- 3 player characters with different skills and attack patterns:<br>   - Pig Warrior. most powerful player character with double damage <br>   - Gangsta Mage <br>   - Woman Mage<br><br>- Police enemies in every waves<br>- Different bosses in end of levels:<br>   - Green zombie boss with double damage ability<br>   - Red Cyborg boss with ability to spawn rocks to attack grid<br>- 7 levels<br>- Easy steam achievements<h2 class=\"bb_tag\" >Planned features:</h2>- more different bosses",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007080/header.jpg?t=1764922350",
+    "developers": [
+      "Ruskija game experience",
+      "Gangsta Studios",
+      "Tero Lunkka"
+    ],
+    "publishers": [
+      "Tero Lunkka"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 308,
+      "discount_percent": 86,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Lava map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/ebdddfed98e8668d347ba9a3256e2682024424c5.jpg"
+        },
+        {
+          "name": "Snow map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/9e5f600e91757046bf1c8b155955138d6204799b.jpg"
+        },
+        {
+          "name": "Forest map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/ef021be450e5b6502368b7525429a046a11e09a9.jpg"
+        },
+        {
+          "name": "City map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/3a56ea05df4043461722f60aee825e99b8b84a66.jpg"
+        },
+        {
+          "name": "City map 2 ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/3b5d0278a236eedcafcbc365311baaf1126cc6ad.jpg"
+        },
+        {
+          "name": "Black boss map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/ced494b07b688897513ddc3c2e6308660718db70.jpg"
+        },
+        {
+          "name": "Super boss map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007080/d65540b0b2a669260154a8cd7f6ff335e21e52d9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

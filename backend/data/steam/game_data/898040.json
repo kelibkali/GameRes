@@ -1,0 +1,61 @@
+{
+  "898040": {
+    "name": "Whirlygig",
+    "steam_appid": 898040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Whirlygig </strong>is a block building game which consists of 4 unique grids – Fall, Winter, Spring, and Summer.  Blocks move upward in Fall, to the right in Winter, downward in Spring, and to the left in Summer.  Every 5 turns, a new grid is randomly selected as the next grid to play in.<br><br><strong>Block Control:</strong>  Blocks can be controlled with keyboard or joystick inputs.  Blocks can be rotated clockwise or counter clockwise.  The controls can be updated by the user within the Controls screen.  <br><br><strong>Game Levels:</strong>  The beginning level of the game is set by the user when selecting the difficulty.  This dictates the speed of the block fall, the movement of the blocks from side-to-side, and the number of points achieved when destroying rows of blocks or activating a special bomb.  Every 10 rows destroyed increases the level as long as the level is greater than the starting difficulty selected by the user.<br><br><strong>Scoring:</strong>  Points are accumulated when 1 to 5 rows of blocks are destroyed, or a bomb is detonated.  The more rows that are destroyed at once or individual pieces blown up, the higher the points earned.  <br><br><strong>Game Over: </strong> The game has no timer or restriction on number of levels, lines, or blocks.  The game ends when the block level reaches any of the 4 spawn points.<br><br><strong>Whirlygig:</strong>  4 destroyed rows at once is called a Whirlygig.  When this is achieved, a bonus piece is created.  The user has 5 turns to destroy this bonus piece to receive a good block that will be stored within the grid for later use.  If the bonus piece is not cleared, the user receives a bad block immediately.  Up to 3 good blocks can be stored in each grid, but only one can be activated in a given turn.  However, good blocks can be activated one after the other, and their spawning is in addition to the 5 standard turns received in the grid.<br><br>Extra Long = The extra long good block is 5 pieces high allowing the user to obtain a higher score by destroying 5 rows at once. <br>Bomb = The bomb good block destroys any piece to the left, right, top, or bottom of the bomb.  The bomb itself is also destroyed in the process.<br>Single = The single good block spawns 3 consecutive single blocks for the user.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898040/header.jpg?t=1532514178",
+    "developers": [
+      "Bannerman Games"
+    ],
+    "publishers": [
+      "Bannerman Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

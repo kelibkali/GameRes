@@ -1,0 +1,73 @@
+{
+  "697000": {
+    "name": "YOU ARE KING",
+    "steam_appid": 697000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个模拟“蚂蚁的战争”的游戏，玩家像蚁后一样可以指挥蚂蚁，生存，攻击，跟随等。但目前还不完善。鼠标左键选择人物，按&quot;R&quot;打开菜单，选择功能，选中人物后，鼠标右键可指定攻击。我想做成一个模仿蚂蚁战争的游戏。<br />\r\n目前还没有做完，一个人在做，技术有限，如果能有一定资金的话，会找人一起做",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697000/header.jpg?t=1505804508",
+    "developers": [
+      "GHSSJ"
+    ],
+    "publishers": [
+      "GHSSJ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6500,
+      "final": 6500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 65.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

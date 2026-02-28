@@ -1,0 +1,44 @@
+{
+  "1529240": {
+    "name": "AudiobookConverter",
+    "steam_appid": 1529240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >History</h2>AudioBookConverter was originally designed as a simple and lightweight application to convert a set of mp3 files to single or set of m4b (aac) files to be played on your mobile device (or any device now).<h2 class=\"bb_tag\" >Now</h2>Over time AudioBookConverter evolved and currently can support conversion of most of the popular formats (mp3, wma, m4a, flac) to m4b, mp3, ogg. It also can handle existing m4b files and process them with chapters, artwork and other meta information.<br><br>AudioBookConverter can work smart to find relevant artwork and can do advanced chapter management.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Parallel encoding of files: more cores - faster results (unlike other legacy encoders which use single core from your &quot;24-core beast&quot;)<br></li><li>Parallel processing of conversions queue: prepare next book while encoding another<br></li><li>Smart artwork support: combined from MP3 artwork and cover files from MP3 directory or copy and paste picture from internet<br></li><li>Unicode tags support: keep tags in own language<br></li><li>Flexible quality management: find balance between size and quality, managed by prebuilt and custom presets<br></li><li>Instant preview: listen what you are going to encode<br></li><li>Simple and lightweight user interface: convert a book with few clicks</li></ul><h2 class=\"bb_tag\" >Advanced chapters support: </h2><ul class=\"bb_ul\"><li>combining multiple mp3 into single chapter<br></li><li>re-import existing chapters from existing m4a/m4b<br></li><li>loading chapters information from mp3 or cue files<br></li><li>splitting monolithic file into chapters<br></li><li>automatic naming of chapters based on metadata or filename of source files</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/header.jpg?t=1721412596",
+    "developers": [
+      "Recoupler"
+    ],
+    "publishers": [
+      "Recoupler"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 12 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

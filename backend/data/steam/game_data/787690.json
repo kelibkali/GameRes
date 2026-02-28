@@ -1,0 +1,97 @@
+{
+  "787690": {
+    "name": "Math Hero",
+    "steam_appid": 787690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个心算游戏。如果想给你或你的孩子作一些心算练习，这或许是个不错的选择。<br><br>随机地图，三种攻击方式，自动瞄准，输入正确的算式得数射击。<br>算式难度可调节，可选择加减法、乘除法、算式数字位数。<br>算式得数不会出现小数或负数的情况。<br>更高的难度，更多的得分。<br>你的最佳得分会录入全球排行榜。<br><br><br>操作：<br>WASD键或方向键——移动。<br>数字键——输入数字。<br>Enter——确认输入或清空得数。<br><br>推荐使用全键盘操作。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787690/extras/ca3baf0ab48dc8bd94f9804d4a5c2762.poster.avif?t=1522381268\" width=500 height=374 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787690/extras/ca3baf0ab48dc8bd94f9804d4a5c2762.webm?t=1522381268\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787690/extras/ca3baf0ab48dc8bd94f9804d4a5c2762.mp4?t=1522381268\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 西班牙语 - 西班牙, 俄语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787690/header.jpg?t=1522381268",
+    "developers": [
+      "Right Games"
+    ],
+    "publishers": [
+      "Right Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "得分 x 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/22a513e6d9e9e66b95914cf651f7c5991ec75f52.jpg"
+        },
+        {
+          "name": "得分 x 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/2b572b23cf812661d6a5f49b01780b5e41beeb80.jpg"
+        },
+        {
+          "name": "得分 x 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/8a6517d081a9e17d1e7a2cae80d850b046100c05.jpg"
+        },
+        {
+          "name": "得分 x 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/93ec60ce3c424bc636cfd8f707f5981b8fd1ea60.jpg"
+        },
+        {
+          "name": "得分 x 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/cb29e1a2552e3d3c570ab69c740ef9b30d93e284.jpg"
+        },
+        {
+          "name": "得分 x 8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/cc7ee592c6f1754c0344d3cad6da264745e4550e.jpg"
+        },
+        {
+          "name": "得分 x 12",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/787690/10c0fe9096051148430f7fa04a94a671944eb28b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

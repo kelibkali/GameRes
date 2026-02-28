@@ -1,0 +1,113 @@
+{
+  "1263720": {
+    "name": "长天 VR",
+    "steam_appid": 1263720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1263720/extras/e60c959990eb5d58dfc6846814e5de8e.webp?t=1652429002\" width=616 height=51 /></span><br><br>您好，这款游戏是我另一款游戏《长天》的VR版本，它集成了后者所有的优化，并完全针对VR控制重新制作。<br><br>当你在玩平面飞行射击游戏的时候是否有想过这样两个问题：“下面平面上那个小飞船在想什么？它看到的世界是什么样子的？”基于这两个问题，我开发出了这款游戏。<br><br>游戏中玩家会降临到平面飞船中，在3D平面战场中躲避陨石和敌人，尽可能多的积累分数。<br><br>感谢您花时间阅读本文，我希望这款游戏可以让您喜欢。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1263720/extras/b786a0c6942b52ce43f1a7a0909a793e.webp?t=1652429002\" width=616 height=51 /></span><br><br><ul class=\"bb_ul\"><li>在VR第一人称视角下控制你的飞船在平面上移动，躲避或摧毁撞过来的一切物体。<br></li><li>获得更高的积分，解锁成就和挑战排行榜。</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1263720/extras/cf7759207ac4342236ae2a3371f31822.webp?t=1652429002\" width=616 height=51 /></span><br><br><ul class=\"bb_ul\"><li>VR平面街机风休闲游戏。<br></li><li>完全VR操控，简单易学，流畅的游戏操作体验。<br></li><li>快速的游戏节奏，不断挑战过去的分数让人上瘾。<br></li><li>无限的游玩模式，只有你能阻止自己停下。<br></li><li>Steam成就、排行榜支持。<br></li><li>Steam云支持。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 简体中文, 葡萄牙语 - 巴西, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1263720/header_schinese.jpg?t=1652429002",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/6351b71e9b9c90cbb7ce889e63034a792a850564.jpg"
+        },
+        {
+          "name": "200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/962404a3a3d27962241da675281e7dbd472b84ea.jpg"
+        },
+        {
+          "name": "300",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/bc57c081463710f9f501ca8496c7c7b19b374367.jpg"
+        },
+        {
+          "name": "400",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/5301a416120ceee6552c158c86ad534f393ea2b5.jpg"
+        },
+        {
+          "name": "600",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/7a200acfbc765311787d757d3c058553853d4718.jpg"
+        },
+        {
+          "name": "1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1263720/344f3d268c31508b5be86b6af1cfed006a4479b8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

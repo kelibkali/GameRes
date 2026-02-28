@@ -1,0 +1,57 @@
+{
+  "1205800": {
+    "name": "Hexon",
+    "steam_appid": 1205800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一个简约的益智游戏，您需要将所有六边形放置在发光的平台上。但是每个六边形都有自己的轨迹，因此不会那么简单。如果您想分心几个小时并以易于理解的机制解决有趣的问题，那么您会喜欢的。在游戏中，您会发现许多难度越来越高的关卡，但是您不受时间，尝试次数的限制，可以根据需要决定多少，然后重新启动关卡。但是总的来说，Hexon中的任务不是很复杂，因此它们对您来说不会成为太大的负担。有一个不错的游戏。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 葡萄牙语 - 巴西, 匈牙利语, 越南语, 希腊语, 丹麦语, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 荷兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 泰语, 土耳其语, 乌克兰语, 芬兰语, 捷克语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205800/header.jpg?t=1621217855",
+    "developers": [
+      "LuteGames"
+    ],
+    "publishers": [
+      "LuteGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

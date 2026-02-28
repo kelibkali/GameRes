@@ -1,0 +1,81 @@
+{
+  "392400": {
+    "name": "INK - Soundtrack + Art",
+    "steam_appid": 392400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This DLC includes INK's Original Soundtrack music and high resolution INK Wallpapers. <br>The music was composed by Vincent Rubinetti. The songs will be included in high quality MP3 and OGG formats.<br>The art was made by Fellipe Martins. All Wallpapers are 1920x1080 resolution in JPEG format.<br><br>Songs will be located in your INK folder in the Steam Directory:<br><strong>...\\Steam\\steamapps\\common\\INK\\OST</strong><br><br>Wallpapers will be located in your INK folder in the Steam Directory:<br><strong>...\\Steam\\steamapps\\common\\INK\\Wallpapers</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392400/header.jpg?t=1485335808",
+    "developers": [
+      "ZackBellGames"
+    ],
+    "publishers": [
+      "ZackBellgames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 8 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

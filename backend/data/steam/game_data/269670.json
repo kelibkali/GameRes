@@ -1,0 +1,141 @@
+{
+  "269670": {
+    "name": "BADLAND: Game of the Year Edition",
+    "steam_appid": 269670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在BADLAND赢得年度游戏称号的世界中飞行和生存，一路发现无数极富想象力的陷阱、谜题和障碍。<br />\r\n<br />\r\n屡获殊荣的BADLAND：年度游戏版将为您带来前所未有的游戏体验。BADLAND：年度游戏版针对Steam重新设计，在拥有绝妙氛围、手绘图像的BADLAND原作基础上，增强了超全高清画质、完全重新设计的操控、超过15小时的单人玩家冒险，并让最多四个玩家可以在合作模式和战斗模式中体验无穷乐趣。<br />\r\n<br />\r\nBADLAND自2013年在iPad上初次亮相后便备受好评，并赢得了众多奖项，包括鼎鼎有名的由Apple颁发的iPad年度最佳游戏奖。最重要的是，它获得了超过2500万玩家的真心称赞，平均评分为4.7 / 5。<br />\r\n<br />\r\n功能：<br />\r\n- 横向卷轴式的动作冒险游戏，拥有基于物理原理的创新玩法。<br />\r\n- 最多4个玩家在合作和战斗模式中尽享乐趣。<br />\r\n- 100个各不相同的关卡供单人玩家尽情冒险（约15个小时的游戏时长）。<br />\r\n- 100个多人合作关卡和27个战斗关卡。<br />\r\n- 全面支持游戏控制器，重新设计的新操控方法，可完全左/右/上/下控制角色。<br />\r\n- 最多4个玩家可以用一个键盘（老式）或键盘和控制器的组合进行游戏。<br />\r\n- 针对新操控方法对所有关卡进行了修改。<br />\r\n- 增强的超全高清画质。<br />\r\n- 排行榜",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 捷克语, 芬兰语, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269670/header.jpg?t=1569395419",
+    "developers": [
+      "Frogmind"
+    ],
+    "publishers": [
+      "Frogmind"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 78,
+      "highlighted": [
+        {
+          "name": "Badlander",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/fdba56d949c6cdcca9354e517edbe8ea1a550bb4.jpg"
+        },
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/6da935626591874fec63f51ab842339f3d0f455f.jpg"
+        },
+        {
+          "name": "Ultimate Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/438e5122836345341ed9965f32121781ec4022a9.jpg"
+        },
+        {
+          "name": "Rambo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/3fb6cdb7f313a5077613207b18889d68633614dc.jpg"
+        },
+        {
+          "name": "Voyager",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/fdba56d949c6cdcca9354e517edbe8ea1a550bb4.jpg"
+        },
+        {
+          "name": "Globetrotter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/6da935626591874fec63f51ab842339f3d0f455f.jpg"
+        },
+        {
+          "name": "Semi Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/438e5122836345341ed9965f32121781ec4022a9.jpg"
+        },
+        {
+          "name": "Red Eye",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/3fb6cdb7f313a5077613207b18889d68633614dc.jpg"
+        },
+        {
+          "name": "Doomed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/3fb6cdb7f313a5077613207b18889d68633614dc.jpg"
+        },
+        {
+          "name": "Dream Come True",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/269670/3fb6cdb7f313a5077613207b18889d68633614dc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 350,
+      "total_negative": 61,
+      "total_reviews": 411
+    }
+  }
+}

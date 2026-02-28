@@ -1,0 +1,57 @@
+{
+  "497150": {
+    "name": "DJ Streamer",
+    "steam_appid": 497150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>DJ Streamer使用虚拟麦克风将音频文件播出至其他程序。</strong><br><br>你可以在电脑上利用现有文件快速创建播放列表，向其他人播放。它支持许多常用文件格式，如wave,ogg,windows media 以及MP3。你可以暂停、停止或越过文件，还能修改播放顺序。它能满足你所有的假音需求。<br><br>DJ Streamer还能与MorphVOX一同使用，充分利用内置声效和背景声音，为聊天和游戏软件提供无缝混合的输出音频。播放列表中的音频文件能清晰融合，利用独立的音量调控器，你能调节自己的变音音量，使其高于或低于与其他人分享的音乐（或其他内容）。<br><br>DJ Streamer完美实现了在游戏及网上聊天中与朋友分享音频的需求。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/header.jpg?t=1525884973",
+    "developers": [
+      "Screaming Bee"
+    ],
+    "publishers": [
+      "Screaming Bee"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "1654330": {
+    "name": "AudioSpace",
+    "steam_appid": 1654330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This music visualization experience was awarded at the Aalto Creatives Art &amp; Tech Open Call ’25 with the following citation:</p><p class=\"bb_paragraph\" ><i>&quot;AudioSpace harnesses modern computing power to deliver exceptional music visualisation experiences. AudioSpace utilises Unreal Engine and offers high quality visuals to various settings from home PCs to live stages, and VR environments.</i>&quot;</p><p class=\"bb_paragraph\" >Visualization works with any audio received (such as microphone input) or played back (like media players) on your PC. There’s also a powerful built-in synthesizer that responds to MIDI input, allowing you to play music yourself and see it visualized in real time.</p><p class=\"bb_paragraph\" >Your virtual audiovisual room orbits a planet/star of your choice. On the walls of this room you may choose to display things like vectorscopes, spectrograms, waveforms, or just a cat nodding its head to the music if that's your thing. There are many visualization shaders readily available, and you are free to modify them or create new ones!</p><p class=\"bb_paragraph\" >Each wall also has a media player, supporting a wide range of audio and video formats as well as playlists. Inside the room and in the surrounding space you have a selection of unique 3D visualization elements that you may combine and configure to your liking. Sound moves and shapes the elements, particles dance to the rhythm. Chill out watching the auroras, fly over rolling wavescapes, or engage full speed into a warp tunnel. Freely configurable scene presets can be instantly selected with keyboard or set to change at random (or in order) when silence is detected between tracks. Randomization can also be activated for visualization parameters and color palettes.</p><p class=\"bb_paragraph\" >Virtual Reality is supported through OpenXR; reference hardware is Pimax 5K Plus with Valve Index controllers (finger tracking included), but any OpenXR compatible VR headset should work. Controller support is readily available for HTC Vive, Oculus Touch and Windows Mixed Reality, but can be customized and expanded via SteamVR Input. In VR, music and visualization can come together in a wonderful way. Nowhere else does one have the freedom to see absolutely anything, only limit is the imagination. AudioSpace puts this freedom into good use and creates an unprecedented way of experiencing music. Enjoy!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Tutorials<strong> </strong>are available both for the basics and for advanced use in the Community Hub Guides. Some Questions and Answers are found there as well.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Performance and compatibility:</strong></p><p class=\"bb_paragraph\" >AudioSpace is best experienced with powerful hardware, both CPU and GPU should be relatively recent, mid-to high-end devices. Audio card/interface with low latency is recommended when visualizing audio input instead of output. For professional use, ASIO capturing can be enabled with the &quot;useASIO&quot; option in Documents/AudioSpace/config.ini.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/header.jpg?t=1766182922",
+    "developers": [
+      "Ferrit"
+    ],
+    "publishers": [
+      "Ferrit"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

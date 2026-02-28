@@ -1,0 +1,62 @@
+{
+  "432200": {
+    "name": "Voice of the Citizens - .NET Voice Hotkey App",
+    "steam_appid": 432200,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<i>Developer's Note: This is being worked on whenever the time is available. Updates might not come regularly and I want to apologize in advance for that. Steady wins the race. Right now the GUI is undergoing an overhaul.</i><h2 class=\"bb_tag\" >Voice of the Citizens</h2>VOTC was originally created for playing StarCitizen but can be used for any game that is playable on Windows (possibly even applications). While there is support for many games, there are games that at this time have no VOTC support. In order to solve this problem, I have implemented the Steam Workshop where anyone (even you!) can upload and share scripts with other users.<br><br>VOTC was quickly realized to be not quite as user­friendly as competing application (Voice Attack) so the goal was shifted: VOTC is not built for the average user, however Tech­savvy individuals can easily get started in using it. VOTC is an additional layer of abstraction over the RealSense SDK providing a way to access the RealSense API asier. This allows easy interaction between RealSense and Games/Applications in an environment that promotes user interaction. This benefits all parties.<h2 class=\"bb_tag\" >WINDOWS 10 READY</h2> VOTC requires at least Windows 8.1 but Windows 10 is highly recommended as this is the platform it was developed and tested on.<h2 class=\"bb_tag\" >Creating Scripts</h2>VOTC gives you the ability to write scripts in any .NET language!. You have full access to every single feature including libraries, however if your script attempts to use Sockets/Listeners your script will be flagged for administrator review until it has been confirmed that the script does nothing malicious. Safety first, m'kay?<br>You can find samples and tutorials on the workshop page!<h2 class=\"bb_tag\" >FEATURES</h2> <br><ul class=\"bb_ul\"><li>Control any game or application with your voice ­ as long as there is a script for the game (feel free to make one!)<br></li><li>Built­in media player (Others like Online Radio, Spotify, SoundCloud, etc. are scripts on the workshop)<br></li><li>In­game overlay with FPS (frames per second) counter with the ability to take screenshots<br></li><li>Facebook &amp; Twitter integration<br></li><li>Script Workshop ­ Download scripts or upload your own<br></li><li>Utilizes Intel RealSense speech recognizer (by Nuance) for outstanding accuracy<br></li><li>Supports various languages, not limited to the language set on your computer<br></li><li>Hardware Sensors ­- check your CPU &amp; GPU temperatures and more</li></ul><h2 class=\"bb_tag\" >CREDITS</h2><br>The Star Citizen Facebook Group who helped me test it from day ONE. I've met some amazing people there and made many new friends. They even came up with the name for VOTC!<h2 class=\"bb_tag\" >Stay in touch</h2>Facebook: VOTC<br>Twitter: VOTC",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432200/header.jpg?t=1467941933",
+    "developers": [
+      "Yuki"
+    ],
+    "publishers": [
+      "Yuki"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

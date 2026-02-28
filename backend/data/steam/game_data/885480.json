@@ -1,0 +1,141 @@
+{
+  "885480": {
+    "name": "Maze Crusher",
+    "steam_appid": 885480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>IMPORTANT NOTICE</strong><br>This project is frozen until further notice. We stopped development in 2023 for various personal reasons (referr to the announcements) and it is not clear if or when this project will be continued. You are buying a game in an unfinished state with only a minor amount of levels.<br>We adjusted the price down so it represents the current state of the game. If you buy, remember that you are buying the game &quot;as it is&quot;.<br><br><br>Maze Crusher is a game originating from Ludum Dare 42 Game Jam.<br><br><strong>This game is in early access as it's still missing much content and many features. We want to make Maze Crusher a great game together with our community. This is why we are involving YOU in such an early state. Read the EA notes for more information.</strong><br><br>You are Kurisou, the little dragon - trapped in a huge and creepy maze. You need to find a way out of the maze as fast as you can. You have a limited amount of time to get out. The quicker you are, the more score you get.<h2 class=\"bb_tag\" >Sounds Simple So Far Huh?</h2>You will need to deactivate totems in different parts of the maze to open the exit-portal and you will encounter enemies all over the maze. You have three lifes per maze. If an enemy gets too near (touches Kurisou) you will lose a life. <br>Warning! Exploding fireballs cause a shock wave which will make walls collapse. And no, you can't get over collapsed walls. The tricky part is: Wall fragments can make it difficult to pass by - so watch out! Do not run out of space.<br><br>Beneath the single player &quot;puzzle mode&quot;, there are some multi player party modes available:<br><ul class=\"bb_ul\"><li>Treasure Fight (2-4 players)<br>Collect treasures and fight your friends to become the richest dragon in the maze<br></li><li>Capture the flag (2 or 4 players - coming during EA)<br>In this mode you need to find a way to your opponent's spawn point, grab his flag and bring it back to your spawn. But beware! You might lose the flag if you don't watch out.</li></ul>Note: Multi player is only available with controllers! You can not mix keyboard and controllers.<br><br>Maze Crusher is a small arcade-like game, aiming to be fun for everyone. It's meant as a casual game and does not contain any storyline or campaign mode. This game is about creating and solving mazes (Level editor coming soon) and having fun together (party mode).<br><br>For optimal gaming experience use a controller. Officially supported and tested: Xbox One Controllers, PS4 Controllers, Nintendo Switch JoyCons (Names are trademarks of their respective owners). Many more are working out of the box though.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885480/header.jpg?t=1687292538",
+    "developers": [
+      "Firesplash Entertainment"
+    ],
+    "publishers": [
+      "Firesplash Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Being Special",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/49e11062347159e3f5adf13724b102a907758298.jpg"
+        },
+        {
+          "name": "A new star in the sky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/e1796a5720747483a2cbdb034284ec0f41c31871.jpg"
+        },
+        {
+          "name": "Better than nothing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/d0d5754f149e6a983dfc002a6d98095180904883.jpg"
+        },
+        {
+          "name": "Practice for progress",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/c3f9795ab97a439a3e0135adfce15fab9fdbdd7b.jpg"
+        },
+        {
+          "name": "Head over to Holleywood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/5095fec83a404c19eb2b56f13d0069ac042b583d.jpg"
+        },
+        {
+          "name": "Killer!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/04fe15d9513a3a610e6cb34801ae79f11ce3c7b0.jpg"
+        },
+        {
+          "name": "R.I.P.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/cea0312daa9164b3e5497c0cadcd4ae9e5dcd184.jpg"
+        },
+        {
+          "name": "Maze Crawler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/0251cfc4e4db00ae1b145331ef37a090680752cc.jpg"
+        },
+        {
+          "name": "Full-Time-Job",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/ecaa2ff7d9b96878a6d4aed43d81fbd8674d303c.jpg"
+        },
+        {
+          "name": "Explosive!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/885480/c0fed55cd7e9ff4d7ae259fb9eb9fb944f0789e4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

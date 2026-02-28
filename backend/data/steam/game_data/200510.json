@@ -1,0 +1,127 @@
+{
+  "200510": {
+    "name": "XCOM: Enemy Unknown",
+    "steam_appid": 200510,
+    "required_age": "18",
+    "is_free": false,
+    "description": "XCOM: Enemy Unknown will place you in control of a secret paramilitary organization called XCOM. As the XCOM commander, you will defend against a terrifying global alien invasion by managing resources, advancing technologies, and overseeing combat strategies and individual unit tactics. <br><br>The original XCOM is widely regarded as one of the best games ever made and has now been re-imagined by the strategy experts at Firaxis Games. XCOM: Enemy Unknown will expand on that legacy with an entirely new invasion story, enemies and technologies to fight aliens and defend Earth. <br><br>You will control the fate of the human race through researching alien technologies, creating and managing a fully operational base, planning combat missions and controlling soldier movement in battle.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Strategy Evolved: XCOM: Enemy Unknown couples tactical turn-based gameplay with incredible action sequences and on-the-ground combat. <br><br></li><li>Strategic Base: Recruit, customize and grow unique soldiers and manage your personnel. Detect and intercept the alien threat as you build and expand your XCOM headquarters. <br><br></li><li>Tactical Combat: Direct soldier squads in turn-based ground battles and deploy air units such as the Interceptor and Skyranger. <br><br></li><li>Worldwide Threat: Combat spans the globe as the XCOM team engages in over 70 unique missions, interacting and negotiating with governments around the world.</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 韩语, 西班牙语 - 西班牙<strong>*</strong>, 俄语<strong>*</strong>, 日语, 波兰语<strong>*</strong>, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg?t=1587584126",
+    "developers": [
+      "Firaxis Games",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Feral Interactive (Linux)"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9500,
+      "final": 9500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 95.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2012 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 85,
+      "highlighted": [
+        {
+          "name": "No Looking Back",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/9ea8b01a66eb7af4d074430bbb3300414b7d457d.jpg"
+        },
+        {
+          "name": "Meet New People. Then Kill Them.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/9482cd730f28638327a9c424436df80e228a978f.jpg"
+        },
+        {
+          "name": "Xavier",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/09d2da99a772a2384a9020d235126ec8af8e22f8.jpg"
+        },
+        {
+          "name": "Humanity's Savior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/fd65f5f048227a81eb53776e156d6e2b0628a8a4.jpg"
+        },
+        {
+          "name": "Earth First",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/55ebb4cfb4cdb20ac1c5e45a06aad59f7e2883b4.jpg"
+        },
+        {
+          "name": "Our Finest Hour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/d0d22b110c9308f167c945b67548cc6e4151fa7f.jpg"
+        },
+        {
+          "name": "Lone Wolf",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/d08e8ac97e1d0e8d7c786adac8034f616d17ad4a.jpg"
+        },
+        {
+          "name": "Bada Boom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/7471e3a89fc7d4e343fc8dfcc1a1d11e71476f73.jpg"
+        },
+        {
+          "name": "Welcoming Committee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/ace80749b9519c7829b177b8b2c70de8f14fe949.jpg"
+        },
+        {
+          "name": "Pale Horse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200510/c5deca36ee53aab6eebc4e5db9d76625d4c67914.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 1024,
+      "total_negative": 209,
+      "total_reviews": 1233
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "1300620": {
+    "name": "解药公司: 救世行动",
+    "steam_appid": 1300620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300620/extras/fef9608ed9c6343ddf928a2afd6312cc.webp?t=1612808132\" width=616 height=61 /></span><br><br>您能拯救全世界吗？现诚邀您即刻执掌大权并全力遏止全球致命流行病。尝试在《解药公司：救世行动》中调配资源以提升检测能力、推广口罩使用、实施区域封锁或探索实验疗法！<br><br>《解药公司：救世行动》是一款精致而应时的全球抗疫模拟器，其开发过程获得了包括 WHO、CEPI 和 GOARN 等机构在内的各地健康专家的倾情协助。<br><br>疾病溯源：派遣科研团队全球搜索零号病人，追查病原体扩散轨迹并为地方疾控响应提供支持。<br><br>疫情管控：实行诸如密接追踪、区域封锁和边境封闭等措施以遏制疫情蔓延，同时督促居民洗手并指示医院做好准备收治病患。<br><br>经济支撑：隔离措施须经精心设计方能被民众接纳。推行强制休假计划及其它政策以争取民间共识。<br><br>疫苗研制：研发、生产并配送特效疫苗以终结疫情。谨遵工艺规程并推进国际合作以加速研究进度。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300620/header.jpg?t=1612808132",
+    "developers": [
+      "Ndemic Creations"
+    ],
+    "publishers": [
+      "Ndemic Creations"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "神秘武器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/a515ecdb5d6e23b871822bc7a580a8ba0be4d169.jpg"
+        },
+        {
+          "name": "反疫苗者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/3a66d6099ad40cea9f5660c4925ae0cfd1bf6012.jpg"
+        },
+        {
+          "name": "细菌治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/cb3a3e052caaacb41e38365dbac563b77ba5d9eb.jpg"
+        },
+        {
+          "name": "生化武器治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/cef56828549f79373cacef6f23d20022fe3d57e7.jpg"
+        },
+        {
+          "name": "真菌治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/68d36a96c2688d4bfbc9afa2ec8b184387bfc0de.jpg"
+        },
+        {
+          "name": "纳米病毒治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/10a964d7276a04b30fadb591cb6ccf1fd43679b0.jpg"
+        },
+        {
+          "name": "寄生虫治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/09136da8ffef53389410099038e86d2045cd3cfe.jpg"
+        },
+        {
+          "name": "朊病毒治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/7cbac4dfc3319268c4b4e941283105a61f3cb32b.jpg"
+        },
+        {
+          "name": "病毒治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/1ad1eb7d94a7030e39931fa2bb9c3437eefd915f.jpg"
+        },
+        {
+          "name": "末日营救",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300620/5e5727ed7af5c3f8d57844d8aa23f6f028d99c81.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 134,
+      "total_negative": 48,
+      "total_reviews": 182
+    }
+  }
+}

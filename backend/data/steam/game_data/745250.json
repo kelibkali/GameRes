@@ -1,0 +1,101 @@
+{
+  "745250": {
+    "name": "YAPP: Yet Another Puzzle Platformer",
+    "steam_appid": 745250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个适合你的游戏，如果你满足以下条件当中的至少三个：<br><br>1. 你喜欢创新的解谜游戏。<br>YAPP的设计理念是做一个充满惊喜的游戏。<br>在大部分游戏中，如果游戏给你一个箱子，你推它到合适的位置然后跳上去。<br>在YAPP当中，箱子和你的能力会发生奇特的互动。有一关你需要将箱子放在你的分身头顶上，再跳到箱子上面以达到高处，之后的一个地方则要将分身放在箱子顶上，抓着箱子起跳，之后传送到分身的位置再从箱子顶上起跳来实现二段跳。<span class=\"bb_spoiler\">另一关则需要将分身放在高台的边缘，抓着低处的箱子起跳后迅速传送，在高处接住跟着自己起跳的箱子。</span><br><br>2. 你喜欢有挑战性的解谜游戏。<br>在我的所知范围内，它是最难的平台解谜游戏之一。<br>（但不是最难的解谜游戏，至少它比史蒂芬的香肠卷简单一点）<br><br>3. 你有平台跳跃基础。<br>这个游戏的平台跳跃部分对普通玩家来说不算难，但它可能引起新玩家的不适。<br>（内含“二段跳”）<br><br>4. 你可以容忍糟糕的美术。顺便一提，你是幸运的，英文版玩家还要容忍我糟糕的英文。<h2 class=\"bb_tag\" >特征</h2><ul class=\"bb_ul\"><li>六个世界，六个主题。<br></li><li>42个独特的关卡，包括一些有挑战性的关卡。<br></li><li>10颗星星，更有挑战性。<br></li><li>可调节的时间流速。（在平台跳跃时很有帮助）<br></li><li>每一个谜题都是可跳过的，除了选关界面。（没错，选关界面本身也是一个谜题）<br></li><li>几处改编自中国古代哲学家著作的文本。<br></li><li>世界6-7的巨大惊喜。</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745250/header.jpg?t=1642357962",
+    "developers": [
+      "Artless Games"
+    ],
+    "publishers": [
+      "Artless Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "The Hermit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/56e142f1f86421e86d8f9fdcb25b48d1ac15d8bb.jpg"
+        },
+        {
+          "name": "The Spiked",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/8f32d178a6a3e78e1bb6be328b2e602a03efe5c3.jpg"
+        },
+        {
+          "name": "The Trampled",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/04ce905e80b52e05897dee23b2760c122f0cf923.jpg"
+        },
+        {
+          "name": "The Jumper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/074dade8e33da32bd61fd68c52dc7a5f3ff102a7.jpg"
+        },
+        {
+          "name": "The Controlled",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/74393fe985c6370817a15df1e136775f1abea314.jpg"
+        },
+        {
+          "name": "The Dreamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/73e0e0a96718eafda63ea27ae17262ca2fc81d87.jpg"
+        },
+        {
+          "name": "The First of Many",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/300bf5e687d7168d6fdb06a792374541cb4ef9ae.jpg"
+        },
+        {
+          "name": "Oh, No, Not Again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/f901f498c1536377055f0fd2343085b42ec30e37.jpg"
+        },
+        {
+          "name": "A Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/6e8dbc3ab175b53e92c3c5cf07c823951fbd7a62.jpg"
+        },
+        {
+          "name": "All-stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/745250/cca202381d2959b5c36e7ec7aa71f153918e0876.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 23,
+      "total_negative": 0,
+      "total_reviews": 23
+    }
+  }
+}

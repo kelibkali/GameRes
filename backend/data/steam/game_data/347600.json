@@ -1,0 +1,97 @@
+{
+  "347600": {
+    "name": "Total Miner",
+    "steam_appid": 347600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Total Miner is an open world voxel sandbox game. It is primarily designed for creative RPG game builders, but also has two action/adventure style game modes where you can just jump in and play.<br><br><strong>Please note:</strong> The above trailer references Xbox 360 multiplayer and will differ from the multiplayer experience here on Steam.<h2 class=\"bb_tag\" >Main Game Features</h2><ul class=\"bb_ul\"><li>Built in Script language and editor with full help documentation and examples: Automate manual tasks, create quests, mini games, boss fights, almost anything you can imagine with this powerful scripting tool. Can also be used by the NPC behaviour and dialog trees.<br><br></li><li>Lua scripting support as an alternative to our in-house scripting language.<br><br></li><li>Creative Tools: Fill and Clear large areas in one operation. Replace blocks or textures over large areas quickly. Have the game build lines, paths, walls, sphere's and forests for you. Flood large irregular spaces with any block using the painters algorithm. Copy and paste parts of your world or save parts as components for use later or in another world.<br><br></li><li>41 Full length Music Tracks - Over 3.5 hours of music.<br></li><li>25 different Texture Packs built into the game, both SD (16x16) and HD (64x64).<br></li><li>74 inbuilt Avatars and NPCs models. Fully customizable behaviour and dialog trees for NPCs.<br></li><li>234 unique Blocks.<br></li><li>338 unique Items.<br></li><li>410 Items or Blocks can be Crafted, Smelted, Smithed or Cooked.<br><br></li><li>NPC behaviour and dialog creator to create unique interactions with NPCs in your world.<br><br></li><li> Built-in HUD designer.  Design your own HUD for your own map that your players will see - can also be tied in with scripts!<br><br></li><li>Zones: Wrap zones around areas of your world to protect them or set custom properties.<br>Permissions: A powerful set of player permissions to control who can do what and where.<br><br></li><li>Player Skills (Optional): 16 different player skills. Gain XP by doing activities. Raise your skills to gain access to better items.<br><br></li><li>Particle Emitters: Create animated effects using 3D particles.<br></li><li>WIFI Power: Create powered logic circuits using WIFI.<br></li><li>Farming: Sow your crops and reap their harvest. Use the harvest to cook better food.<br></li><li>Day/Night/Season cycle, wind animated flora and animated liquid physics for water and lava.<br></li><li>Take photos of your creations with the Camera item and store them in your album.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347600/e02bc0a973dbe51ad2bdc7b984b0a339935ec8c3/header.jpg?t=1754268239",
+    "developers": [
+      "Brandon Moore"
+    ],
+    "publishers": [
+      "Brandon Moore"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

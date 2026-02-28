@@ -1,0 +1,97 @@
+{
+  "806970": {
+    "name": "Loader",
+    "steam_appid": 806970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806970/extras/6cb1c7d385a7256e8a2a4029d0443ac6.avif?t=1530302141\" width=600 height=100 /></span><h2 class=\"bb_tag\" >Description:</h2>Loader is an exciting puzzle game where you place loads on platforms to pass levels. <br>In this game you have to correctly place the loads onto platforms to pass the levels.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806970/extras/6c3415da7ff4a60c8f64554b1e4d9fb8.avif?t=1530302141\" width=600 height=100 /></span><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"></ul><ul class=\"bb_ul\"><li> More than 15 exciting levels<br></li><li> Ability to change textures<br></li><li> Level editor<br></li><li> Adding levels other players made<br></li><li> Adding your own textures, as well as other players textures<br></li><li> Steam Achievements</li></ul>",
+    "supported_languages": "英语, 意大利语, 葡萄牙语 - 葡萄牙, 俄语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 挪威语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806970/header.jpg?t=1530302141",
+    "developers": [
+      "Errigar Games"
+    ],
+    "publishers": [
+      "Errigar Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Beginning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/f44ea62d77ec71932487cd5b55285198cea4ba03.jpg"
+        },
+        {
+          "name": "Newbie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/b0dd8acf5145240fe946d3dc54f60e22c21b3497.jpg"
+        },
+        {
+          "name": "Professional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/0c7f4492c7e35c994a68dcf294ce60bb4e3846b9.jpg"
+        },
+        {
+          "name": "Editor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/1fac150a8bf1b7a22e43ef839b37ab090e3f2aa8.jpg"
+        },
+        {
+          "name": "Cleaner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/31c781d47cad006e02e319de2c1d9bed02c43594.jpg"
+        },
+        {
+          "name": "A new style",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806970/2e4251f10cdb56d6849f69e00207f8fc51644274.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

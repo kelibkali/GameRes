@@ -1,0 +1,57 @@
+{
+  "512400": {
+    "name": "Multiscreens",
+    "steam_appid": 512400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Multiscreens is a early-access program that lets you have as many screens as you want in VR. Specifically, each program is its own screen and can be moved around as desired.<br />\r\n<br />\r\nRight now you can:<br />\r\n<br />\r\n- Change the target framerate of each window captured<br />\r\n- Play multiple videos simultaneously (just make sure if you are in chrome to disable Hardware Acceleration in advanced settings) while playing a game<br />\r\n- Turn on supersampling<br />\r\n- Control everything with your mouse which leaves your keyboard and controller free for typical use (there is also a mouse sensitivity setting)<br />\r\n- Move windows freely in a 3D space around you and make them bigger or smaller as desired<br />\r\n- Capture right click menus and other context menus<br />\r\n- Capture the mouse on the currently active window<br />\r\n- No Headless Ghosts are required, this program works fine when you simply have a single physical monitor (or headless ghost) plugged in<br />\r\n- Minimize (hide) windows as desired<br />\r\n- Change focus between windows with a single click<br />\r\n- Use a webcam that's displayed below you to see your keyboard while in VR<br />\r\n- Multiscreens can technically capture every window, but some it can only capture while they are currently focused<br />\r\n- There is a &quot;virtual taskbar&quot; that allows you to bring up programs you have opened by clicking on their icons below<br />\r\n- You can change this Taskbar's position<br />\r\n- Reset view<br />\r\n<br />\r\nCurrent limitations (in order of planned feature addition):<br />\r\n<br />\r\n- Screens can't be curved yet<br />\r\n- You generally need to open windows before opening Multiscreens, it's difficult to start programs while in Multiscreens (I'm going to add a search bar to open any program you currently have installed and allow you to &quot;pin&quot; programs to your taskbar)<br />\r\n- Can't capture the entire desktop<br />\r\n- Vive controller support doesn't exist yet, everything is currently controlled with your mouse<br />\r\n<br />\r\nEnjoy, and let me know what you think! I'm happy to listen to feedback and will try and make this the best product for all of you as possible :)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512400/header.jpg?t=1471612467",
+    "developers": [
+      "Phylliida"
+    ],
+    "publishers": [
+      "Phylliida"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

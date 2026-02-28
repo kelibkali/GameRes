@@ -1,0 +1,54 @@
+{
+  "1142730": {
+    "name": "Player Power",
+    "steam_appid": 1142730,
+    "required_age": 0,
+    "is_free": true,
+    "description": "A 2D, pixel art football arcade game in which your ability is determined by your level of power (And speed). Avoid referees and manager's who'll try to take that power away, but seek out agents and physios who'll do their darnedest to give it back to you, all in the name of scoring more sweet, sweet goals.<br><br><strong>Timed Arcade Challenge</strong><br>Score as many goals as you can inside the allotted time!<br><br><strong>Buffs and Debuffs</strong><br>Your ability to run quickly and kick the ball hard can be affected both for better and worse by the NPCs who'll spawn more frequently the more goals you've scored:<br><ul class=\"bb_ul\"><li>Physio: Buffs your Speed &amp; Power by 10% of their initial value, adds an extra 10 seconds to the game timer with a magic sponge. Thank you, physios.<br></li><li>Manager: Buffs your Speed but debuffs your Power by 5% of their initial value. They'll get you fitter, then put you in your place.<br></li><li>Agent: Buffs your Power but debuffs your Speed by 5% of their initial value. As long as you hold the Power, Agents are happy.<br></li><li>Referee: Debuffs your Speed &amp; Power by 10% of their initial value with a stern talking to. Come on, ref.</li></ul><br><strong>20 Wearable kits, 9 Unlockable Costumes</strong><br>You can start the game by wearing any of the 20 initial kits, but the better you do, the more costumes you'll be able to unlock!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142730/header.jpg?t=1665081120",
+    "developers": [
+      "Dave O'Leary"
+    ],
+    "publishers": [
+      "Dave O'Leary"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

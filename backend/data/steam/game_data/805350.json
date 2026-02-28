@@ -1,0 +1,93 @@
+{
+  "805350": {
+    "name": "Sphera Turris",
+    "steam_appid": 805350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sphera Turris is a timed rotating platformer where you guide a ball past an array of increasingly difficult obstacles to the top of a tower. Precision controls, environmental physics, and challenging levels will have you trying over-and-over to shave a few tenths of a second off your best times. The custom music goes great with the colorful, futuristic graphics. Start comparing speed run times and tips with your friends today!<br><br>Highlights include<br><ul class=\"bb_ul\"><li>An array of levels broken into Easy, Medium, and Hard (very hard) sections<br></li><li>Physics enabled environments<br></li><li>Personal best times tracked on each level<br></li><li>View Leaderboards in game -  See your ranks globally and against your friends<br></li><li>Achievements<br></li><li>Custom music</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805350/header.jpg?t=1520252389",
+    "developers": [
+      "Mark Wiedmann"
+    ],
+    "publishers": [
+      "Bugslayer Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Beat your first level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805350/f077a663db5aeb3df4d62d8a80db0f26043e28e6.jpg"
+        },
+        {
+          "name": "Beat all easy levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805350/59fce67c4abc2ddc7b930aa257c32949b373a672.jpg"
+        },
+        {
+          "name": "Beat all medium levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805350/995cf26abafdd9c385a9ff4e2d0366ec634ff0ce.jpg"
+        },
+        {
+          "name": "Beat all hard levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805350/66842efc42a64d1601fa8a453f5303488d7bc1ff.jpg"
+        },
+        {
+          "name": "Beat the game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805350/d7baa7588afcdcc49099d6d318844f03ccb0b236.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

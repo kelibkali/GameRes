@@ -1,0 +1,73 @@
+{
+  "801280": {
+    "name": "Cowboy Escape",
+    "steam_appid": 801280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hardcore runner platformer.<br />\r\nYou play for Cowboy, whose goal is to go through all levels without falling into an abyss.<br />\r\n<br />\r\n- Multiple levels<br />\r\n- Pleasant graphics<br />\r\n- Great soundtrack<br />\r\n- Multiple game modes<br />\r\n- You can play one or the other on one PC<br />\r\n- Hardmode - difficulty in this mode is increased<br />\r\n<br />\r\nControl:<br />\r\nPlayer 1 WASD<br />\r\nPlayer 2 YGHJ",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801280/header.jpg?t=1639122728",
+    "developers": [
+      "azimuth team"
+    ],
+    "publishers": [
+      "azimuth team"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

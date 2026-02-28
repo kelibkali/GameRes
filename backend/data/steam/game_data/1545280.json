@@ -1,0 +1,89 @@
+{
+  "1545280": {
+    "name": "Garetto",
+    "steam_appid": 1545280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Garetto 是一款基于物理的休闲游戏，您可以控制绿色球体并向前移动。您需要收集随机出现在途中的钻石，每收集一颗钻石，您就会获得1分。困难之处在于，途中会随机出现不同的形状，您可以推动或移动灰色的形状，如果与红色的形状碰撞，则会立即丢失，因此需要避免使用它们。您可以获得多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-简单的游戏<br />\r\n<br />\r\n-使用物理学<br />\r\n<br />\r\n-简约的图形<br />\r\n<br />\r\n-悦耳的音乐",
+    "supported_languages": "英语, 法语, 德语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1545280/header.jpg?t=1749426826",
+    "developers": [
+      "FranciscoGames"
+    ],
+    "publishers": [
+      "Ff games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "10 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/8d6323400657f4313ed4bd6ac68d6e00e183f064.jpg"
+        },
+        {
+          "name": "25 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/1ba53233fadcbd547d2feed5afe1844b33c1978c.jpg"
+        },
+        {
+          "name": "50 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/fbf6c6738ac7db6f22e2f8a48e3c3a1b2bb5bdf2.jpg"
+        },
+        {
+          "name": "75 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/b1c10049528c1168a372862299b260c535075ef6.jpg"
+        },
+        {
+          "name": "100 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/a73674bae0dd9dee649cd99579c7fbb23b4d5f59.jpg"
+        },
+        {
+          "name": "200 Diamonds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1545280/5228d991cc0b2e4acd901abab12ccf73d1276cc8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

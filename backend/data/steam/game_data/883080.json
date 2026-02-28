@@ -1,0 +1,129 @@
+{
+  "883080": {
+    "name": "Ludo Online: Classic Multiplayer Dice Board Game",
+    "steam_appid": 883080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Ludo Online是一款2至6名玩家参与的策略棋类游戏，在游戏中，玩家从开始到结束均根据一个骰子的摇动情况使用四个棋子比赛。<br />\r\n<br />\r\n2、3、4、5或6个玩家可在不认识的情况下玩游戏，玩家可以是人或由电脑控制，可以在同一台电脑上玩，也可以在互联网上玩。<br />\r\n<br />\r\n游戏开始时，每个玩家的四个棋子均需放在自己的大本营内。玩家必须掷出一个6，方可让一枚棋子从自己的大本营进入游戏的起始位置。每个玩家每回合摇掷一次，如果玩家掷出了一个6，可以再掷一次。棋子向前移动的步数与骰子显示的数字相同。玩家不能在自己已占据的位置上结束移动。如果一个棋子前进时恰好要停在对手棋子占领的位置上，对手的棋子就会回到自己的大本营。首先把所有棋子都移动回家的玩家获得第一。第二和第三名根据玩家有多少棋子到家。",
+    "supported_languages": "英语, 德语, 保加利亚语, 西班牙语 - 西班牙, 韩语, 意大利语, 日语, 简体中文, 法语, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883080/header.jpg?t=1703240003",
+    "developers": [
+      "Peter Todorov"
+    ],
+    "publishers": [
+      "Cytec BG Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Watching Paint Dry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/ad3a35c6249fef027cdbd6deed6ce15646616d64.jpg"
+        },
+        {
+          "name": "Sloth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/6e390cfcfa084a04480a478239e6bf1f86789f3a.jpg"
+        },
+        {
+          "name": "Turbo Snail",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/48d6b5d2b706984e282be5da1dd5ebfbaab91b96.jpg"
+        },
+        {
+          "name": "Haxor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/9ee26abfb82c1153422250eb8a21d4d21892d587.jpg"
+        },
+        {
+          "name": "Elite Haxor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/65ea43235969ddaaa12e64545e5c4612d5aa0e97.jpg"
+        },
+        {
+          "name": "Introvert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/19939fae2b640ad935486f119b56331e1ef0c0cf.jpg"
+        },
+        {
+          "name": "Pawn King",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/ca67521440d505e34e2e30502daba92689ff0258.jpg"
+        },
+        {
+          "name": "A Friendship Broken",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/0b7ef9a52b0ee8609bd3f1b91f27d4fee20e0e9e.jpg"
+        },
+        {
+          "name": "Sharpshooter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/3766261240ade32be8acecd76f834fedae041422.jpg"
+        },
+        {
+          "name": "Terminator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/883080/ef3045d94fc129d8be3c6ccd7d09dac1397ddcfb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "879110": {
+    "name": "Dragon`s Checkers",
+    "steam_appid": 879110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Your pawns are at the bottom of the board.</p><p class=\"bb_paragraph\" >In your turns you move one of your pawn diagonally to one of a nearest square.</p><p class=\"bb_paragraph\" >You can destroy enemy's pawn by jumping diagonally over it. </p><p class=\"bb_paragraph\" >Note: If you can destroy enemy's pawn you MUST do it.That's the rule.</p><p class=\"bb_paragraph\" >If any of your pawns reach oposite end of the board it change itself into queen pawn.</p><p class=\"bb_paragraph\" >From now on it can move diagonally by any number of squares and also destroy enemy's pawn that way.</p><p class=\"bb_paragraph\" >You win a game when there's no other figures except yours.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Good luck!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >new ver. 4. 18 released,  20.04.2020.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Multiplayer (by  port 2600)  has been improved, pls if you find some errors or problems, give me message. It help me if you </p><p class=\"bb_paragraph\" >get involved too, so enjoy, next thing and point is run server (without port 2600)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also chat in game by internet is almost ready, but still in progres (sometime work, sometime not), and only for few players.</p><p class=\"bb_paragraph\" >All in work</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >06.05.2020, - Works at internet serwer and direct IP are break, I dont know when will be back, Top reason, </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >new ver. 4.25 released, 06.09.2020</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >now You can play by internet (no need open ports) but only for 2 players in lobby and server sometime is offline  (all works in progres).  Some a little errors was deleted</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >31.10.2020 -  Works at internet serwer are break again.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >27.07.2022 - new version 4.28  released, better AI system, now for 3.6 GHZ processors it take 25 sec per move,</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >28.12.2023 - new better version 3.1i released, added Polish language and delete few bugs, server still off and italy rules now off for long while, you can play now on map, it is correct now, i concentrate now on eliminate bugs then i will do Italian rules</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >18.03.2024   - New update 3.1n, some minor bugs fixed, Italian rules available, and added Chinese language</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >13.10.2024   new version 3.1y launched and improved, I think a few more months and I'll take care of the server</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>15.08.2025 -</strong> so far it has not been possible to set up the server (online game)   and no chat during the game via Direct IP, direct IP works ok, </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >26.12. 2025  -I’m still programming checkers, but I have limited time. In the mornings, I attend other activities. When I get home, it’s already 2:00 PM, and I spend some time programming and some time playing games. I’m in the process of changing the standard from IPv6 to IPv4 because that’s the only way I can run the server so that it’s possible to play in online mode, which means setting up port forwarding.</p>",
+    "supported_languages": "英语, 波兰语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/879110/header.jpg?t=1766760879",
+    "developers": [
+      "iwangr"
+    ],
+    "publishers": [
+      "iwangr"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

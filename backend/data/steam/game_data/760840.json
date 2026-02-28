@@ -1,0 +1,69 @@
+{
+  "760840": {
+    "name": "FSX Steam Edition: Airbus Series Vol. 1 Add-On",
+    "steam_appid": 760840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "FeelThere’s Airbus Series Vol. 1 is a detailed depiction of the fascinating world of Fly-By-Wire technology as well as the Airbus’ high-end systems. Developed by highly qualified programmers and with the help of active professional pilots, this add-on is the perfect entry into the universe of airliners. Much of the modern technology and systems are typical to the Airbus philosophy. Whatever your knowledge level - beginner or expert - the user's manual will teach you step by step all systems and procedures.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>Aircraft included: <br><ul class=\"bb_ul\"><li>Airbus 318 CFM<br></li><li>Airbus 319 CFM<br></li><li>Airbus 319 CJ<br></li><li>Airbus 319 IAE</li></ul></li><li>Head-up display to show all the necessary flight information. The HUD is useful to manually fly low-visibility approaches.</li></ul><h2 class=\"bb_tag\" >NAVIGATION</h2><ul class=\"bb_ul\"><li>SID/STAR Management<br></li><li>Target Altitude: The target climb or descent altitude is shown on the route with a blue arrow and its position is updated in real time.<br></li><li>TOC Real-Time Update: The position of the top-of-climb (TOC) point is computed in real time.<br></li><li>SID/STAR filtering: When a departure or arrival runway is selected, only the SID/STAR procedures that apply for the selected runway are displayed.<br></li><li>Flight Plan Display: As the aircraft flies toward the next waypoint, the displayed distance to the next waypoint is updated in real time.<br></li><li>Approach Speed: The managed speed on approach depends on the flap handle position instead of depending on the flaps position, like in the real aircraft. This makes the approach the approach smoother with less variation of engine power.</li></ul><h2 class=\"bb_tag\" >SYSTEMS</h2><ul class=\"bb_ul\"><li>Electricity: All the electric devices, such as lights (landing, taxi, beacon, strobes) and the 6 EFIS screens (PFD, ND, E/WD and SD) are properly managed and can be switched ON only if the appropriate electric source is available - APU, GPU or engine generator.<br></li><li>Alert Clear and Recall: The alerts displayed on the E/WD can be cleared and recalled if necessary.<br></li><li>Fly-by-Wire (auto-coordination): The fly-by-wire system provides auto-coordination. The rudder pedals are active even if auto-coordination is active. This allows you to &quot;kick&quot; the aircraft - very important with crosswind, like in the real aircraft.<br></li><li>Computed Speeds: The FACs (Flight Augmentation Computers) are in charge of computing the Green Dot, F and S speeds.<br></li><li>Fuel Tank Management.<br></li><li>Speed Brake Alert.<br></li><li>Radios.<br></li><li>MCDU AIRAC Cycle and Version: The AIRAC cycle is displayed on the MCDU A/C STATUS Page.<br></li><li>SD DOOR Page: The door status page shows the right door selections.</li></ul><h2 class=\"bb_tag\" >MISCELLANEOUS</h2><ul class=\"bb_ul\"><li>Push-back steering.<br></li><li>Cold &amp; Dark configuration.<br></li><li>Improved multi-monitors management for pedestal and overhead consoles.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760840/extras/cecda0243e4d589259d5df1df432088f.webp?t=1537265591\" width=126 height=50 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760840/header.jpg?t=1537265591",
+    "developers": [
+      "FeelThere"
+    ],
+    "publishers": [
+      "Dovetail Games - Flight"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

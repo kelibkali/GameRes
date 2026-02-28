@@ -1,0 +1,48 @@
+{
+  "625100": {
+    "name": "TileSetGenerator",
+    "steam_appid": 625100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Make tilesets for your games in minutes.</h2><h2 class=\"bb_tag\" ><strong>Main features:</strong></h2><ul class=\"bb_ul\"><li>Automatic tileset generation:<br>          <ul class=\"bb_ul\">          <li>Rectangular tilesets<br>          </li><li>Isometric tilesets<br>          </li><li>Hexagonal type A tilesets<br>          </li><li>Hexagonal type B tilesets<br>          </li><li>Platformer tilesets<br>          </li><li>Street/path tilesets<br>          </li></ul></li><li>Resize tile<br></li><li>Select the number of columns in tileset<br></li><li>Change the distance between tiles<br></li><li>Specify the type of blending transitions between tiles (with or without blurring)<br></li><li>Create custom masks<br></li><li>Replace tile and all its mixes in the finished tileset<br></li><li>Changing tile position in tileset<br></li><li>Selects the background color (transparent for .png)<br></li><li>Saving and loading project .tsg<br></li><li>Saving the finished tileset to .png or .bmp<br></li><li>Exporting the created tiles in single files</li></ul><br>The program generates a tile transition map from textures (using built-in masks). You can select how many textures will be mixed (1-4). And of course you can select any textures you want.<br>The program then combines these tiles into a tile set, and you can change the position of the tiles and change the number of columns.<br><br>All tiles can be used for commercial purposes.<br><br>Yes, you can save to PNG and use the output from this program in GameMaker, RPG Maker, Construct, AppGameKit, Tiled Map Editor,...<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625100/extras/569d79a5634add4763a5f78f73702b0a.avif?t=1761769370\" width=948 height=212 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625100/9e083acd7300e91b548bd79cfe06d5ce3fdab05e/header.jpg?t=1761769370",
+    "developers": [
+      "Aleksandr Kotukhov"
+    ],
+    "publishers": [
+      "Aleksandr Kotukhov"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 22 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

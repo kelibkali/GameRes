@@ -1,0 +1,62 @@
+{
+  "1081800": {
+    "name": "101010",
+    "steam_appid": 1081800,
+    "required_age": 0,
+    "is_free": true,
+    "description": "101010 is a simple VR puzzle game created as a class project for CS 498 VR at UIUC to help showcase the capabilities of VR. Place 3D blocks in virtual reality and clear lines to earn points. How long can you last? How high of a score can you earn?<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Grab 3D blocks in virtual reality with your own hands.<br></li><li> Place blocks strategically in a 3D grid.<br></li><li> Clear lines to earn points (both horizontally and vertically).<br></li><li> Rotate the grid if you wish.<br></li><li> You are given a constant amount of time to place each block, so don't dawdle!<br></li><li> If you do not successfully place a block in time, it's game over.<br></li><li> Develops spatial ability, visual memory, and quick thinking.</li></ul><br>Designed for use with Occulus Rift. Inspired by the game 1010. Created by Eric Shen, Miranda Li, Hunter Ha Huynh, Changcheng Fu, and Jenny Chen.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081800/header.jpg?t=1570118185",
+    "developers": [
+      "Jenny Chen",
+      "Changcheng Fu",
+      "Hunter Huynh",
+      "Miranda Liu",
+      "Eric Shen"
+    ],
+    "publishers": [
+      "Hunter Huynh"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

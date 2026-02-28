@@ -1,0 +1,105 @@
+{
+  "531930": {
+    "name": "Dungeon Rats",
+    "steam_appid": 531930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你的故事始于一座帮派林立、等级森严的监狱矿场最底层，作为一位初来乍到的新囚犯，你必须通过战斗以求生存，不断磨炼自己的战斗技巧，并获取更好的武器及装备。你可以选择与志同道合的同伴并肩作战或作为踽踽独狼单打独斗，与那些愚蠢到与你为敌者一决高下。<h2 class=\"bb_tag\" >特点包括：</h2><ul class=\"bb_ul\"><li>回合制战术系统：不同的攻击类型，包括普通攻击、瞄准不同身体部位的攻击和不同武器的特殊攻击方式（旋风斩、穿刺等）。\t<br></li><li>详尽的制造和炼金系统：打造武器和护甲，炼制药水或毒剂，掌控火油和黑火药的力量。<br></li><li>八种各具特色的武器：匕首、刀剑、斧、锤、矛、弓、弩和投掷武器，每种武器都有其独特的长处及弱点。<br></li><li>完全自定义的主角，11名不同的队友，并非所有队友都是人类（小队成员上限为4）。<br></li><li>50场极具挑战的战斗，四种不同的结局。</li></ul><h2 class=\"bb_tag\" >在《The Age of Decadence》基础上的重要改动：</h2><ul class=\"bb_ul\"><li>组建你的小队——应玩家社区最为强烈的呼声。<br></li><li>侧袭等战略加成，这意味着站位将十分重要。<br></li><li>开战前将可手动部署小队成员。<br></li><li>魅力决定你的小队成员上限和可招募的角色。<br></li><li>小队成员的数量将影响技能点数的获取：小队成员越多，每个人获得的技能点数就越少，升级也就越难。<br></li><li>新的武器、护甲和生物。<br></li><li>三种不同的难度：好好先生、铁骨硬汉和杀人狂魔。</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 俄语, 法语, 波兰语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531930/header.jpg?t=1753390379",
+    "developers": [
+      "Iron Tower Studio"
+    ],
+    "publishers": [
+      "Iron Tower Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "杀人或是被杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/4a90516a90ea31b361aa0a9710e94d4a91a9a7c7.jpg"
+        },
+        {
+          "name": "更上一层楼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/f1be061500fe028c63bacc7635d6e06178a88f9d.jpg"
+        },
+        {
+          "name": "惩奸除恶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/3b52236fe9828a859d3bb312f396197fd8a3b89f.jpg"
+        },
+        {
+          "name": "观众上场",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/666636904d16f0e10c0464bbbc15d8a04d7c71ad.jpg"
+        },
+        {
+          "name": "搅乱派对",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/96796ca382c9c5bc48e35a281a5d4826d04073a4.jpg"
+        },
+        {
+          "name": "势不可当",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/365cc1cd01ac2510c2502899220363d3110564b9.jpg"
+        },
+        {
+          "name": "异乡陌客",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/669862f47387dc54cf0dd214e661eec8f31620db.jpg"
+        },
+        {
+          "name": "谈判专家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/dd0845688d84b77accbf66c8ea322d6347a277d4.jpg"
+        },
+        {
+          "name": "齐装满员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/e2ab66e1a87099c70e56b66119aeffbd6d836e93.jpg"
+        },
+        {
+          "name": "一人乐团",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/531930/56e6800ce64cdfb4a9d1d31f2fb6b9db0f73160a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 28,
+      "total_negative": 7,
+      "total_reviews": 35
+    }
+  }
+}

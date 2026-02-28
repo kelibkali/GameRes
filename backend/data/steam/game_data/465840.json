@@ -1,0 +1,134 @@
+{
+  "465840": {
+    "name": "THE LAST BLADE",
+    "steam_appid": 465840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>注意：由于本作品使用的为海外版本，所以游戏内文本为英文。 </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >以幕末为舞台展开的剑剧浪漫对战游戏<i>「幕末浪漫 月华之剑士」</i>终于在Steam上回归！刺激紧张的对战请一定在Steam上体验吧！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >◆以幕末为舞台的壮大故事</p><p class=\"bb_paragraph\" >围绕守护着生与死的边境“地狱门”的守护神“四神”，与被宿命交织引导在一起的剑士们的战斗现正开始！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >◆包含头目角色计14人可以操作</p><p class=\"bb_paragraph\" >故事主轴的12名剑士以外，头目角色「晓 武藏」「嘉神 慎之介」全部可以使用！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >在角色选择画面中输入以下指令，</p><p class=\"bb_paragraph\" >将光标移至枫与翁旁边便可以进行选择。</p><p class=\"bb_paragraph\" >[脚踢攻击键6次、强斩攻击键3次、脚踢攻击键4次]</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >◆体验战略性对战的独特系统</p><p class=\"bb_paragraph\" >可选择威力重视的“力”亦或者繁琐重视的“技”的「剑质」、「弹性」「升华」等独特系统搭载！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >◆NEOGEO主机版的完全移植</p><p class=\"bb_paragraph\" >故事模式（单人游戏）、VS模式、计时模式、练习模式等NEOGEO版的完全移植！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >◆与全球玩家进行连线对战</p><p class=\"bb_paragraph\" >与挑战者进行连线对战之外，还对应可以记录了解分数与排名的「阅览版」功能。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>** Windows XP不保证可以运行。 **</strong></p>",
+    "supported_languages": "英语, 法语, 意大利语, 西班牙语 - 西班牙, 日语<strong>*</strong>, 韩语, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/465840/header.jpg?t=1727159467",
+    "developers": [
+      "SNK CORPORATION",
+      "Dotemu"
+    ],
+    "publishers": [
+      "SNK CORPORATION"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "All Characters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/e298d9efc822777a7e0339cb87a9be5038930df9.jpg"
+        },
+        {
+          "name": "Perfect",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/4ac6d2e887bf270868a5e2855eeb10688cf1f499.jpg"
+        },
+        {
+          "name": "Multiplayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/8423842a8efe14ad048e17e7cbb08fecb0d385a1.jpg"
+        },
+        {
+          "name": "Multiplayer 10 Victories",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/d37620a7d5a45b2bb50fcbb745d6c8ed8ea08900.jpg"
+        },
+        {
+          "name": "Story Mode 30 Victories ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/27100779db08f9c04c911d580935c78f2068ce29.jpg"
+        },
+        {
+          "name": "Time Attack 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/d56d881ce502c43cfa2e14c198e8f9c4f56c7609.jpg"
+        },
+        {
+          "name": "Time Attack 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/342f3274fda9c84adfb634964853160404a011fe.jpg"
+        },
+        {
+          "name": "Story Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/e75589fe8e3eadeb02828dfa06f0600d3158744f.jpg"
+        },
+        {
+          "name": "Arcade Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/81a42cd440b23afa60b67b921dc385956c14e8f4.jpg"
+        },
+        {
+          "name": "Who's the boss?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/465840/a3c33a2185812b94d36f6840125f57fc668a1ae3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 26,
+      "total_negative": 7,
+      "total_reviews": 33
+    }
+  }
+}

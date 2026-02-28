@@ -1,0 +1,97 @@
+{
+  "958230": {
+    "name": "AXE:SURVIVAL",
+    "steam_appid": 958230,
+    "required_age": "12",
+    "is_free": false,
+    "description": "Build your building and forget to try to survive in this open world it will be a little harder every day to get used to surviving only everyday. Collect spoils to fight hunger, thirst and cold, and make life easier.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958230/header.jpg?t=1572353767",
+    "developers": [
+      "DCELL GAME STUDIO"
+    ],
+    "publishers": [
+      "DCELL GAME STUDIO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "You survive 5 days!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/958230/8e9d5a811d939e9ab1432e585f4fd11e7acacd1e.jpg"
+        },
+        {
+          "name": "You survive 10 days!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/958230/1b1012ee830baf53068d478119a56a362e925194.jpg"
+        },
+        {
+          "name": "You survive 15 days!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/958230/71faf43d3aa3c0a71bfdde0e1fcd63ca6fe402ad.jpg"
+        },
+        {
+          "name": "You survive 25 days!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/958230/d4edd99e7b4353947476e6a4c77cb89a90fbabb8.jpg"
+        },
+        {
+          "name": "You survive 30 days!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/958230/875c41f330d444565eff75dcd76b565fde8fd084.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

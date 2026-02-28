@@ -1,0 +1,77 @@
+{
+  "1021680": {
+    "name": "Music Escape",
+    "steam_appid": 1021680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Music Escape是一款充满动作感的节奏战斗虚拟现实游戏，其中包含忍者，赛博朋克武器和自杀爆炸机器人！体验您最喜欢的配乐的近战战斗。全新的评分系统以先进的触觉和风格化的视觉效果为基础，慷慨地奖励那些能够保持荒诞的长击连胜的人。享受我们精心策划的电子音轨或带上您自己的图书馆；无论哪种方式，这款游戏都很容易上手，但很难掌握。<br><br>我们正在积极改进游戏，欢迎通过我们的Discord提供任何反馈。<h2 class=\"bb_tag\" >功能[/] [列表]<br>[清单]<br><ul class=\"bb_ul\"><li>街机模式-接送游戏，然后查看您的分数在我们全球排行榜上的排名<br></li><li>歌曲-包括10余首歌曲；自定义音乐支持（下面的目录路径）<br></li><li>赛博朋克忍者武器-Katanas，Nunchucks或Tekko-Kagis<br></li><li>排行榜-与世界各地的其他人一起测试自己的实力<br></li><li>音乐类型-音乐引擎支持许多不同的音乐类型，从流行，摇滚到EDM[/列表] [/列表]<br><br><strong>致Music Escape所有者：[/]<br>1.如果您想给我们反馈或有机会免费赢得此游戏，请不要忘记加入我们的Discord：https：<br>2.添加您自己的歌曲！只需将歌曲目录复制并粘贴到以下文件中即可：〜\\ SteamLibrary \\ steamapps \\ common \\ Music Escape \\ Music Escape_Data \\ StreamingAssets \\ MusicFolders.txt（使用；在路径之间添加多个文件夹）。</strong></li></ul></h2>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021680/header.jpg?t=1580826188",
+    "developers": [
+      "2049VR"
+    ],
+    "publishers": [
+      "2049VR"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

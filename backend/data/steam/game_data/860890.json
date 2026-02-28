@@ -1,0 +1,121 @@
+{
+  "860890": {
+    "name": "Factory Town",
+    "steam_appid": 860890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/e23d53caecc34346bdbbf613d8e2b8d3.poster.avif?t=1742905867\" width=620 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/e23d53caecc34346bdbbf613d8e2b8d3.webm?t=1742905867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/e23d53caecc34346bdbbf613d8e2b8d3.mp4?t=1742905867\" type=\"video/mp4\"></video></span><br><br>由几名工人开始，探索并采集所需的资源，逐渐建立起复杂的工厂，并为你的城市提供有价值的商品。<br><br>你还可以通过研究新科技来提高你的产品链的生产效率，并从一个小村镇扩张成为一个拥有大量人口与建筑的繁忙都市。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/0c95aac8144d566f79b46c05047a03d4.avif?t=1742905867\" width=616 height=80 /></span><br><br>- 依据环境选择最佳的交通方式：公路、马车、矿车、传送带或者魔力设备<br>- 可以修改的3D地形<br>- 使用逻辑计算电路来智能化地运输货物<br>- 通过大量的食品、医药、工具以及魔力物品来维持你的城市的快乐值<br>- 直接为工人下达指令，以确保货物正确地送达目的地<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/39e2d9c982a61e15b5fb75444d03dac1.poster.avif?t=1742905867\" width=612 height=274 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/39e2d9c982a61e15b5fb75444d03dac1.webm?t=1742905867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/extras/39e2d9c982a61e15b5fb75444d03dac1.mp4?t=1742905867\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 简体中文, 德语, 葡萄牙语 - 葡萄牙, 俄语, 繁体中文, 日语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860890/header.jpg?t=1742905867",
+    "developers": [
+      "Erik Asmussen"
+    ],
+    "publishers": [
+      "Erik Asmussen"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "神石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/0a251961bc700d98a4b278c821ecea76a83dafc4.jpg"
+        },
+        {
+          "name": "火之水晶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/91fdaf41b1cf96a25584ca2129940b1329d9c4cd.jpg"
+        },
+        {
+          "name": "水之水晶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/f90a76a5d196206d368e9c88fc7b3de89e7ba244.jpg"
+        },
+        {
+          "name": "土之水晶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/09a8197ce12447ed5541509ff7fa15a1bf0855a0.jpg"
+        },
+        {
+          "name": "风之水晶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/d9566362c6034601910cdbbdb81d3c55fdff37fa.jpg"
+        },
+        {
+          "name": "魔力水晶",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/7137a1d619ddada3131228de2f352e9b6289039c.jpg"
+        },
+        {
+          "name": "浆果蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/82d9b3fd46926baab03dc0ecfb58eec436a4892e.jpg"
+        },
+        {
+          "name": "炖鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/9f9cc3509cca68be837996e3382d51e353142620.jpg"
+        },
+        {
+          "name": "炖肉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/de36d9aff1c7b617baac1b8b9612b1b3c0022226.jpg"
+        },
+        {
+          "name": "炖菜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/c8b12c4312800ed57604d0ca51fc4f179404a1a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 233,
+      "total_negative": 50,
+      "total_reviews": 283
+    }
+  }
+}

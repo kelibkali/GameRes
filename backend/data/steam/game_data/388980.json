@@ -1,0 +1,44 @@
+{
+  "388980": {
+    "name": "Race Track Builder",
+    "steam_appid": 388980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Race Track Builder is a software design tool that has a simple, easy to use interface that allows you to build fantasy race tracks or use Google Maps data to create real-life terrain and roads.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >For examples of the current features take a look at the latest tutorials on youtube. </p><p class=\"bb_paragraph\" >[B]Free Upgrades[/B] </p><p class=\"bb_paragraph\" >Additional functions that have already been added since the initial release:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >More Terrain editing tools for greater control. <br>    </p></li><li><p class=\"bb_paragraph\" >Objects - more content and improved interface. <br>    </p></li><li><p class=\"bb_paragraph\" >String-Objects - more content and align-to-track tool. <br>    </p></li><li><p class=\"bb_paragraph\" >Expansion Packs - more textures, materials and objects have already been added since the initial release and more content is on its way.<br>    </p></li><li><p class=\"bb_paragraph\" >Objects - trees, signs, barriers, pit stands, cones, tyres, fences - all can now be added into your track.<br>    </p></li><li><p class=\"bb_paragraph\" >Complex Objects - parent-child relations create a more complex object with greater variety. <br>    </p></li><li><p class=\"bb_paragraph\" >String-Objects - Make long lines (strings) of objects and quickly move them about as your design evolves.<br>    </p></li><li><p class=\"bb_paragraph\" >Walls - edit the cross-section and customise the look of walls.<br>    </p></li><li><p class=\"bb_paragraph\" >Start/Pits/Timing Positions - Set Grid/Pit positions and Timing Gates that are exported to AC.<br>    </p></li><li><p class=\"bb_paragraph\" >Fast Undo/Redo.<br>    </p></li><li><p class=\"bb_paragraph\" >Windows 64 bit support.<br>    </p></li><li><p class=\"bb_paragraph\" >16k &amp; 8k textures in addition to lower resolutions already supported.<br>    </p></li><li><p class=\"bb_paragraph\" >Super fast GPU texture painting.</p></li><li><p class=\"bb_paragraph\" > Support for Plugins for height and texture.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Additional functions will be added as free upgrades as they are developed. Many of the BTB functions will be integrated into the new interface and many entirely new features are planned as upgrades occur each month.</p><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Direct export to Assetto Corsa (and more planned)</p></li><li><p class=\"bb_paragraph\" >Easier creation of Invisible Walls</p></li><li><p class=\"bb_paragraph\" >Intersections -  connect Roads more easily making intersections a cinch. <br>    </p></li><li><p class=\"bb_paragraph\" >Expansion Packs (Xpacks) including additional textures, materials, objects, string-object and cross-sections definitions.<br>    </p></li><li><p class=\"bb_paragraph\" >... and much more.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >RTB exports to the Autodesk FBX format which can then be loaded into 3d modelling tools for export into games with a little more work. This opens up RTB to more game developers and this in turn will generate more RTB content (XPacks) for people to use across all types of games. <strong>Soon to be released ... direct export to some games</strong>. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The first title with specific support is Assetto Corsa with materials and shaders created to replicate the shading used. The landscape uses Multilayering shading with support for direct modification of the underlying texture. When targeting Assetto Corsa the export prepares the objects ready to be imported into the AC Editor, generating the Configuration file so that materials and textures are applied as they appeared in RTB.</p><p class=\"bb_paragraph\" ><strong>UPDATE</strong>: From March 2025, Google now requires Billing to be enabled and they have changed the way they bill. They now give a free quota per month of 10,000 images (for the background image) and  5,000 Elevation requests (For height data). This is only 2 x 8K images at Very High quality per month. Use lower quality to test first. Elevation data is unlikely to hit the limit.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388980/header.jpg?t=1765487703",
+    "developers": [
+      "Brendon Pywell"
+    ],
+    "publishers": [
+      "Brendon Pywell"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 15200,
+      "final": 15200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 152.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 8 月 20 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

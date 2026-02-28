@@ -1,0 +1,85 @@
+{
+  "1486300": {
+    "name": "Death Cube",
+    "steam_appid": 1486300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;Death Cube&quot; is a 2D platformer where you need to cross a room full of obstacles to get to the exit.<br><br>Spikes, saws, projectiles and lasers, survive through these obstacles and reach at the end of the level.<br><br>And Remember...<h2 class=\"bb_tag\" >DO NOT KILL THE CUBE</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486300/extras/db452a23459e3837696ea66c6edc4079.poster.avif?t=1652399175\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486300/extras/db452a23459e3837696ea66c6edc4079.webm?t=1652399175\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486300/extras/db452a23459e3837696ea66c6edc4079.mp4?t=1652399175\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486300/header.jpg?t=1652399175",
+    "developers": [
+      "Little Nap Studio"
+    ],
+    "publishers": [
+      "Little Nap Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Chapter 1 Completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1486300/5ac63b9753fa1cde46927f84019f783ec44b1dcd.jpg"
+        },
+        {
+          "name": "Chapter 2 Completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1486300/6c241756da74780194920db9a052f92038220c56.jpg"
+        },
+        {
+          "name": "Chapter 3 Completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1486300/1badb713fe2d5b287c740e2535533e7576c7d597.jpg"
+        },
+        {
+          "name": "Chapter 4 Completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1486300/9896850ddeedb09fbaa72927da924d5bab848006.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

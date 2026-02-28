@@ -1,0 +1,62 @@
+{
+  "1083280": {
+    "name": "SpaceEngine - Mercury HD",
+    "steam_appid": 1083280,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This Mercury HD DLC (addon) contains high-resolution textures for Mercury. It improves the level of detail of the Mercurian surface compared to the default SpaceEngine installation.<br><br><strong>Credits:</strong><br>Surface color map combines the MESSENGER low incidence angle mosaic with a color map by DeviantArt user &quot;FarGetaNik&quot;. Elevation map is a combination of a stereography-based map with one based on Mercury Orbiter Laser Altimeter data (used for high northern latitudes).<br><br><strong>Source data:</strong><br>Elevation map: USGS Astrogeology Science Center / NASA/Goddard Space Flight Center<br>Image resolution: 23040x11520<br>Effective resolution: 0.66 km/pix<br><br>Surface albedo map:  MESSENGER PDS mosaic<br>Image resolution: 92160x46080<br>Effective resolution: 0.165 km/pix",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083280/header.jpg?t=1649210920",
+    "developers": [
+      "Cosmographic Software"
+    ],
+    "publishers": [
+      "Cosmographic Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 7,
+      "total_negative": 1,
+      "total_reviews": 8
+    }
+  }
+}

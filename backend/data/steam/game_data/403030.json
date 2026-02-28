@@ -1,0 +1,49 @@
+{
+  "403030": {
+    "name": "mdiapp+ SE",
+    "steam_appid": 403030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "mdiapp+ SE is a paint tool for creating cartoon.<br><br>It is equipped with the following convenient functions for creating a cartoon, such as:<br><ul class=\"bb_ul\"><li>1bit/8bit layer that requires a small memory consumption (the standard color layers are also available)<br></li><li>32bit and 64bit versions available (64bit version enables a faster performance)<br></li><li>Project management window that enables to organize the cartoon pages<br></li><li>Supporting multi thread (for the brush/blending mode processing)<br></li><li>Script Brush that enables programming (Lua)<br></li><li>3D Perspective tool for drawing sterically<br></li><li>Pen Pressure input from a pen tablet (Wintab/TabletPC)<br></li><li>Free Transform/Mesh Transform on layer<br></li><li>Common MDP format with FireAlpaca/MediBang Paint<br></li><li>Concentration Lines Filter</li></ul>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403030/header.jpg?t=1618802670",
+    "developers": [
+      "nattou.org"
+    ],
+    "publishers": [
+      "PGN Inc"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 39000,
+      "final": 39000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 390.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

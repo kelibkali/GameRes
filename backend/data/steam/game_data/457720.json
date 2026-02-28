@@ -1,0 +1,90 @@
+{
+  "457720": {
+    "name": "Blood Code Costume Pack",
+    "steam_appid": 457720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此服装包包含4件衣服，这些衣服拥有额外的加成效果：<br><br><ul class=\"bb_ul\"><li>蝶雪——送礼时额外+5好感，自由行动偶遇时额外+1好感<br></li><li>幽梦——主魔法课额外+2属性<br></li><li>忘忧——打工获得金币额外+10<br></li><li>绯鹿——打工获得魔晶额外+5</li></ul>除此之外，这4件衣服均可以一次性额外+50全属性。",
+    "supported_languages": "简体中文, 英语, 繁体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457720/header.jpg?t=1650732570",
+    "developers": [
+      "ZiX Solutions",
+      "Weixi Studio"
+    ],
+    "publishers": [
+      "ZiX Solutions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 9,
+      "total_negative": 2,
+      "total_reviews": 11
+    }
+  }
+}

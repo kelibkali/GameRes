@@ -1,0 +1,66 @@
+{
+  "1574420": {
+    "name": "Chunkers",
+    "steam_appid": 1574420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/extras/583ddfc1443ec53e6f2152e202fd5d60.poster.avif?t=1670409033\" width=600 height=130 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/extras/583ddfc1443ec53e6f2152e202fd5d60.webm?t=1670409033\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/extras/583ddfc1443ec53e6f2152e202fd5d60.mp4?t=1670409033\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>😟 This project is no longer being worked on 💔</strong></h2>Sadly, Chunkers was too much of a mess for us to finish. We were a two-man team with big dreams and a lack of initial planning. You can still play the somehow-functional version with your friends by hosting the game on your own machine. Your friends can join by clicking on a button next to your name in the main menu.<h2 class=\"bb_tag\" ><strong>About Chunkers</strong></h2>Chunkers is a <strong>casual, multiplayer, voxel-based first-person shooter</strong>. Set during a war on a far-away exoplanet where two sides, a corporation and a cult, fight over a mysterious element. Pick a side and destroy your enemies using a variety of weapons, or use your pickaxe to dig tunnels, build bridges and re-make the entire map to your liking.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/extras/9d38c02579e36090a0b675c21c7ca970.avif?t=1670409033\" width=600 height=160 /></span><h2 class=\"bb_tag\" >Control point</h2><ul class=\"bb_ul\"><li>The goal is to capture a deposit of the rare element and hold it for a longer period of time than the enemy team</li><li>Preceeding the main gameplay is a short building phase where the teams are separated by a barrier and can build defenses, start digging tunnels before meeting the enemy team head on</li></ul><h2 class=\"bb_tag\" >Team deathmatch</h2><ul class=\"bb_ul\"><li>No real objective, the teams attack each other and the team with the largest amount of kills wins</li></ul><br>As the game comes closer to release, we're planning on adding a zombies mode as well as many other different gameplay modes.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/extras/042b72893d19e81be68ea41bb0123817.avif?t=1670409033\" width=600 height=160 /></span><br>Chunkers was designed to allow for easy map creation and sharing. There are two ways of making a map for Chunkers:<br><ul class=\"bb_ul\"><li><strong>Design the map in-game and save it from the menu</strong>. As a server admin, you can use the 'creative' command to give yourself every block there is and design the map from within the engine. You can also self-host a server and design the map with your friends. And yes, you can save how the map currently looks from any server you're currently connected to as well.</li><li><strong>Use a voxel editor</strong>. Chunkers maps are saved in a voxel format that's usually used for voxel art. Any editor supporting this format can be used to edit the map. To learn more about this, check out our documentation.</li></ul><br>Chunkers also features many interesting blocks that interact with their surroundings. For example:<br><ul class=\"bb_ul\"><li><strong>Lava</strong> gives damage to any player walking over it</li><li><strong>The Piston</strong> bounces the player high into the air when stepped on</li><li><strong>The Explosive</strong> ignites when shot and explodes in a little while after</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574420/header.jpg?t=1670409033",
+    "developers": [
+      "brimstone.studio"
+    ],
+    "publishers": [
+      "brimstone.studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

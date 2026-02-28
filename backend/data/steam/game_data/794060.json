@@ -1,0 +1,62 @@
+{
+  "794060": {
+    "name": "RPG Maker MV - GENE",
+    "steam_appid": 794060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >简单易上手的事件场景生成器</h2>GENE 是一款 RPG Maker MV 专用的操作简单的新工具，可简化视觉事件场景创建并加速项目开发。现在您可以使用直观的时间线和快速预览模式制作游戏的开场、结局和剪辑场景。借助 GENE，您可以让角色的半身立绘渐隐、放大/缩小和移动，创造出令人印象深刻的视觉效果和剪辑场景，足以与您最喜欢的RPG游戏相媲美。<h2 class=\"bb_tag\" >易于使用的时间线</h2>别再用直角坐标和百分比设置了！有了GENE，您可以直接拖放点放图片并调整图片大小。移动图片只需设置开始点和结束点，以及所需的透明度变化，就能让图片与场景完美搭配。您可以在时间线上创建任意行数，只需在正确的点拖放它们即可添加背景、效果和文本。<h2 class=\"bb_tag\" >完美的预览场景工具</h2>想看看您的场景将如何呈现给玩家？GENE 的预览命令无比简单，点击播放按钮即可预览！您不再需要暂停事件才能测试场景的外观。使用GENE的简易预览和编辑场景，确保工作流程更加流畅。<h2 class=\"bb_tag\" >复制并粘贴回 MV</h2>打开 GENE 时，您可以读取 RPG Maker MV 游戏中的所有图像，够轻松挑选现有项目中的素材。只需简单地复制粘贴，即可在 RPG Maker MV 事件编辑器中直接使用 Gene 制作的场景，再添加开关和变量，场景就大功告成啦！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 俄语, 日语, 韩语, 繁体中文, 阿拉伯语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794060/header.jpg?t=1669019152",
+    "developers": [
+      "Gotcha Gotcha Games",
+      "KADOKAWA"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 7,
+      "total_negative": 3,
+      "total_reviews": 10
+    }
+  }
+}

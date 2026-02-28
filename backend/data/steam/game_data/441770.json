@@ -1,0 +1,52 @@
+{
+  "441770": {
+    "name": "MindTex 2",
+    "steam_appid": 441770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Overview</strong><br>MindTex is a normal map generation utility for game developers and 3d professionals. Built to rival the competition in quality without the steep price, whether you want to generate a normal, height, specular, gloss, self-illumination, occlusion, or reflection map, you can easily do it in seconds flat from a single source texture with MindTex.<br><br>Integrating MindTex into your 3d content pipeline will save you substantial amounts of time, money and effort, allowing you to focus on what is really important: building immersive worlds and making great games.<br><br><strong>Features</strong><br>MindTex takes a diffuse, normal, or height map as an input texture and generates any combination of a normal, height, specular, gloss, self-illumination, occlusion, and/or reflection map. A variety of settings are offered for each map type, allowing you to fine-tune the generated results. <br><br>MindTex offers a toggleable 2d/3d preview with a variety of options to easily visualize your textures in action; you will be able to quickly customize a variety of lighting conditions to simulate the environment in which your texture will be used, pick the model (standard or custom) that your texture will be applied to, change the UV tiling on said model, and pick which maps will be enabled in the 3d view.<br><br>MindTex additionally includes a map export settings panel which allows you to specify which maps to export as well as how the final maps will be generated. The map generation options are applied on a per-pixel basis, allowing you to quickly and easily do things like store a grayscale map in the alpha channel of an RGB texture or bake ambient occlusion into the diffuse texture on export.<br><br>MindTex includes a batch processing-and-export feature. Accessible with a GUI through the utilities menu, this feature makes generating normal maps for a large collection of textures simple and automatic.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/441770/header.jpg?t=1456137695",
+    "developers": [
+      "Frozen Flame"
+    ],
+    "publishers": [
+      "Frozen Flame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 2 月 22 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "1516440": {
+    "name": "ATC Infinite",
+    "steam_appid": 1516440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "ATC Infinite challenges you to manage and control arrival and departing aircraft. As a controller you can head for different and unique airports from all over the world. There are different game modes to play. Which one will you choose? Infinite, 15 min challenge or 10 min challenge? Test your skills by coordinating the aircrafts to their destination without crashing into one another. <br><br>For controlling the airplanes use the command line: click on an airplane to get its name into the command line, then type:<br><br>LH201 <i>TR 120</i><br>The airplane LH201 will turn right to heading 120.<br><br>or <br><br>LH201 <i>DOMEG</i><br>LH201 will go directly to the waypoint <i>DOMEG</i><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516440/extras/28204dea5c289c00b519c7bccf8b75c1.avif?t=1626209253\" width=532 height=324 /></span><br><br>In this game you can play the following airports: <br><br><ul class=\"bb_ul\"><li>Los Angeles International Airport (LAX)<br></li><li>Tokyo Haneda Airport (HND)<br></li><li>London Heathrow Airport (LHR)<br></li><li>Amsterdam Airport Schiphol (AMS)<br></li><li>Frankfurt Airport (FRA)<br></li><li>John F. Kennedy International Airport (JFK)<br></li><li>Dusseldorf International Airport (DUS)<br></li><li>O. R. Tambo International Airport (JNB)<br></li><li>Princess Juliana International Airport (SXM)<br></li><li>Beijing Capital International Airport (PEK)</li></ul><br><i>We will add more maps in the future! You can request them in the community tab.</i>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1516440/header.jpg?t=1626209253",
+    "developers": [
+      "Framebar Studio"
+    ],
+    "publishers": [
+      "Framebar Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    }
+  }
+}

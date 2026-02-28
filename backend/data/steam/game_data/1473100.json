@@ -1,0 +1,69 @@
+{
+  "1473100": {
+    "name": "Guess Colors",
+    "steam_appid": 1473100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Guess Colors</strong> is a minimalist puzzle game we used to play in the childhood. <br><br>We have four cells and six colors available and you should try to find in less than ten steps what is the right color sequence.<br>Green stars means you have a cell with the right color in the right position, red starts means you have the right color in the wrong position.<br><br><ul class=\"bb_ul\"><li> Try to guess the color sequence in less steps<br></li><li> Accumulate points and try to beat your records<br></li><li> Try to get the &quot;Hole In One&quot; achievement!</li></ul><br><i>Relax playing this fun game from your childhood!</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/header.jpg?t=1607425944",
+    "developers": [
+      "Paulo Sigrist"
+    ],
+    "publishers": [
+      "Paulo Sigrist"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Hole In One!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1473100/6dace4e00cdbc11c945f67a0b655919cdae03b87.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

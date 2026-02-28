@@ -1,0 +1,125 @@
+{
+  "1111200": {
+    "name": "Car Soccer World Cup",
+    "steam_appid": 1111200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Pure Soccer! The combination of cars and soccer never fails to amuse us. This game combines cars and soccer with a twist. You will have the full overview of the soccer field and control your complete team. There are many nations available to choose from to have a unique appearance of the cars. This game has a single player campaign, single player fast game modes and online multiplayer to compete against players from all over the world.<br />\r\nThe game supports Mouse, Keyboard and Game Pads. Each of these input modes have their own strength and weaknesses. You play only one car at once, but you can switch between them at any time. <br />\r\nThis game is a casual action game. The match takes either 90 In-Game minutes or until someone scores 5 goals at first. In Championship Mode you have to win against every other country. The difficulty increases with every match. During the progress the against wind will be stronger until you really have to show, that you are good enough to beat even the strongest opponent and get the achievement car soccer world champion.",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111200/header.jpg?t=1564821702",
+    "developers": [
+      "DitzelGames"
+    ],
+    "publishers": [
+      "Daniel Erdmann"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Game Started",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/5dd811161d7b0e656ba821c008ddd20fc556dfd7.jpg"
+        },
+        {
+          "name": "Birdie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/4fded5a639964033fff3414b7a43b0a28e663c7d.jpg"
+        },
+        {
+          "name": "Eagle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/97f879616b1b5b5943552b68d6874251a8f96324.jpg"
+        },
+        {
+          "name": "Albatross",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/d402e18e6398ad533e36e78968847d49603326a1.jpg"
+        },
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/4c177e1a439bb7fdbba0a8cf1b0faf439b1de00a.jpg"
+        },
+        {
+          "name": "Double Ear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/a8d13723d2d01853d776342dae325c931e75204c.jpg"
+        },
+        {
+          "name": "ShootOut",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/b7964ad79a7fc1ad60064c99c5979f78d68157d4.jpg"
+        },
+        {
+          "name": "Quintuple",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1111200/9d41d98248fff2cdbe98d341dea9df4c16af632b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

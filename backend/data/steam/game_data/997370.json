@@ -1,0 +1,61 @@
+{
+  "997370": {
+    "name": "SimpleMovie",
+    "steam_appid": 997370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Simple Movie is a simulation, crafting and sand box game. The goal is to create a short film. The player is the film's writer, producer and director. The game creates a video with fixed background music and subtitles.<br />\r\n<br />\r\nThe player is at once the screenwriter and director of a film. As screenwriter, he writes the story. As director, he has the principal role in choosing the cast, controlling the production design and managing the creative aspects of filmmaking.<br />\r\n<br />\r\nSimple Movie is a Non Player Character animation (NPC-mation) tool where:<br />\r\n<br />\r\nNPC-mation is an animated filmmaking technique in which NPC are manipulated by a movie program in small increments between individual screenshots (frames) so they exhibit independent motion when the frames series is played back as a sequence. NPCs with movable joints are used for their ease of repositioning. <br />\r\n<br />\r\nThe movie program contains scenes, with each scene having one or more lines.<br />\r\n<br />\r\nA line has an actor or an item, animation (actors only), a start and end locations (can be the same), camera, speed (or duration) and subtitles.<br />\r\n<br />\r\nNOTE: The output video depends on the installed video codec. The game does not include any video codec (except uncompressed video).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997370/header.jpg?t=1592819136",
+    "developers": [
+      "NPCWARE"
+    ],
+    "publishers": [
+      "NPCWARE"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

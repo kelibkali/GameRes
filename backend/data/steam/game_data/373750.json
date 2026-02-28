@@ -1,0 +1,73 @@
+{
+  "373750": {
+    "name": "DinoSystem",
+    "steam_appid": 373750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >⚠️ <strong>WARNING</strong>: The <i>Remote Play Together</i> tag is used solely to enable multi-device play and does <strong>not</strong> indicate any multiplayer functionality.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>DinoSystem</strong> is a 2D top-down ecosystem and survival simulation. Play as a godlike overseer managing the ecology of an evolving island populated by dinosaurs — or as a human trying to survive in it, facing realistic survival mechanics and a deep character progression system that tracks your body’s physical adaptation over time.</p><h2 class=\"bb_tag\" >🦕 A Living, Emergent World</h2><p class=\"bb_paragraph\" >Every element on the island follows biological and physical rules. Nothing spawns from thin air: will you hunt the last dinosaur of its species for a steak, or protect it from extinction and ensure its eggs hatch? These are the dilemmas you'll face — if you don’t go extinct first.</p><h2 class=\"bb_tag\" >⚙️ Development</h2><p class=\"bb_paragraph\" >To learn more about the upcoming features planned for 1.0 and beyond, check out the development roadmap. Feel free to join the discussion and suggest new ideas!</p><h2 class=\"bb_tag\" >🕹️ Game Modes</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>God Mode</strong>: Control the island's ecology, change the weather, trigger disasters, and observe how nature reacts.</p></li><li><p class=\"bb_paragraph\" ><strong>Survival Mode</strong>: Start as a stranded human. See how long you can survive — and how your body changes with your lifestyle.</p></li></ul><h2 class=\"bb_tag\" >🌍 World Simulation Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>True ecological simulation</strong>: animals and plants are born, grow, reproduce, and die. No artificial “spawns”.</p></li><li><p class=\"bb_paragraph\" ><strong>Seasons and day/night cycle</strong>: gradual transitions with sun angle, temperature, and light dynamically affecting the environment.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced weather model</strong>: dynamic rain, fog, storms, snow, wind, and sandstorms, driven by real variables like humidity and air pressure.</p></li><li><p class=\"bb_paragraph\" ><strong>Realistic water cycle</strong>: puddles form, evaporate or turn into lakes depending on temperature, humidity, and sun exposure.</p></li><li><p class=\"bb_paragraph\" ><strong>Terrain evolves</strong>: fertility, vegetation, and water presence can transform areas over time.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic fire system</strong>: reacts to weather, spreads with fuel and wind, and affects all nearby objects and characters. Wildfires triggered by lightning can spread and destroy forests.</p></li><li><p class=\"bb_paragraph\" ><strong>Animal AI</strong>: survival-driven behavior with reproduction, parenting, foraging, and territorial conflict.</p></li><li><p class=\"bb_paragraph\" ><strong>Procedural island generation</strong> at game start, based on player settings.</p></li><li><p class=\"bb_paragraph\" ><strong>Real decomposition</strong>: items decay based on weather and environment, not artificial timers.</p></li></ul><h2 class=\"bb_tag\" >🧍 Survival Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Dynamic body evolution</strong>: your appearance and abilities change based on fat, muscle, and diet. Adapt for winter, combat, or speed.</p></li><li><p class=\"bb_paragraph\" ><strong>Needs are systemic, not scripted</strong>: thirst, hunger, and fatigue respond to climate, weight, exertion, metabolism, and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Complex skill system</strong>: skills improve with use and decay with neglect.</p></li><li><p class=\"bb_paragraph\" ><strong>Crafting &amp; building</strong>: create gear, weapons, clothes, and build shelters (or find a cave).</p></li><li><p class=\"bb_paragraph\" ><strong>Food system</strong>: nutritional values matter. Protein from meat helps muscle growth — but don’t forget to cook it!</p></li></ul><p class=\"bb_paragraph\" >Many more features will be added throughout development. Follow the roadmap, and get involved in shaping the game!</p><h2 class=\"bb_tag\" >📝 Note for Laptop Users</h2><p class=\"bb_paragraph\" >If you experience poor performance despite having a dedicated GPU, Windows might be running the game on the integrated graphics.<br>To ensure optimal performance, open <strong>Settings → System → Display → Graphics</strong>, search for DinoSystem.exe, and set it to use your <strong>High Performance GPU</strong> (usually your dedicated graphics card).</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373750/5fdd38dc136dcd5ae7e6dfeb917d7f932ce83d09/header.jpg?t=1760901578",
+    "developers": [
+      "Daniele Ferraro"
+    ],
+    "publishers": [
+      "Daniele Ferraro"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 6 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "785070": {
+    "name": "Dig and Shoot",
+    "steam_appid": 785070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个特殊的游戏。<br>表面看上去是一个弹幕游戏，实际上有一个更深的故事在后面。<br>游戏操纵简单容易上手<br>但是很难通关。<h2 class=\"bb_tag\" >游戏特色</h2><strong>游戏中隐藏着多种元素<br>每次死亡后游戏会发生改变<br>你的选择会影响最后的结局</strong><h2 class=\"bb_tag\" >游戏保存机制</h2><strong>你并不能够保存<br>但是电脑会帮助你死后自动保存</strong>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785070/header.jpg?t=1520991360",
+    "developers": [
+      "COKE"
+    ],
+    "publishers": [
+      "COKE"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

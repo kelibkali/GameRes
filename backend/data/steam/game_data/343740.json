@@ -1,0 +1,66 @@
+{
+  "343740": {
+    "name": "InMind VR",
+    "steam_appid": 343740,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343740/extras/99f7592d923ec6b6315952044abd87e2.avif?t=1725276116\" width=616 height=360 /></span><br><br>InMind is a short scientific adventure with arcade elements designed for the Oculus VR.<br><br>This first demo allows the player to experience the journey into the patient's brains in search of the neurons that cause mental disorder. Submerge into the microworld and experience the miracles of the human mind.<br><br>The future is nigh. The humanity is standing upon the brink of a new era where modern healthcare makes tremendous scientific advancements. With the help of nanotechnologies a surgical prototype bathyscaphe allows its operator to shrink to a microlevel and travel inside the patient's body.<br><br>A unique experimental project made by Nival to test the opportunities of the new Virtual Reality provided by Oculus Rift.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Enter the microworld inside the human brain.<br></li><li>Pacify disordered neurons to stop them from spreading wrong synapses to other neurons.<br></li><li>Replay to increase your rating.<br></li><li>A very comfortable VR experience.<br></li><li>Supports Windows (VR), Mac and Linux versions.</li></ul><br><strong>Keys</strong><br><br><ul class=\"bb_ul\"><li>Esc - exit<br></li><li>Space - recenter camera<br></li><li>H - disable helmet<br></li><li>M - disable VR-to-Screen mirroring</li></ul><br><strong>Tips &amp; Known issues</strong><br><br><ul class=\"bb_ul\"><li>Oculus Rift is not supported in linux and mac version<br></li><li>DirectX 9 not supported for Oculus Rift DK2<br></li><li>There is known issue with DK2 black screen on Windows with AMD Mobility Radeon HD Series  (we are working with Unity3D devs to fix it)<br></li><li>There is known issue with linux version, application sometimes crashing right after the launch on Kubuntu 14.04 (we are working with Unity3D devs to fix it)</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343740/header.jpg?t=1725276116",
+    "developers": [
+      "Luden.io"
+    ],
+    "publishers": [
+      "Luden.io"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "695510": {
+    "name": "Rena And Elin",
+    "steam_appid": 695510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >故事</h2>睁开双眼的蕾娜发现自己身处在森林中，正打算启程寻找出路时遇到了也打算走出森林的艾琳，两人决定一起出发。<br><br><ul class=\"bb_ul\"><li>蕾娜负责击退怪物，艾琳会捡起附近的物品。<br></li><li>物品由艾琳保管，所以使用物品时需要靠近艾琳。<br></li><li>艾琳还会制作物品，需要两人靠近火堆。<br></li><li>吃东西会恢复体力值LP，LP会随时间一点点减少。<br></li><li>使用技能时也会消耗LP。<br></li><li>当LP等于0时攻击力会减半，技能也无法使用。</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695510/header.jpg?t=1568961903",
+    "developers": [
+      "90s Studio"
+    ],
+    "publishers": [
+      "90s Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "蛇杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/03abb755adf6d3de70d21abde8ec1244804f7571.jpg"
+        },
+        {
+          "name": "鸡杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/72251ff69a15a030ab3694e486a668858a517329.jpg"
+        },
+        {
+          "name": "野猪杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/b10bab1865ef34a5d08ac111b607a6ae9e5ea2c4.jpg"
+        },
+        {
+          "name": "树精杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/11918caaf514b5ddf043b144cc7ef5139d958dd1.jpg"
+        },
+        {
+          "name": "爱吃烤鸡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/d0de3fc2109ce70edf3c06e09c5c51f5ee6db220.jpg"
+        },
+        {
+          "name": "冲太靠前了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/9b84bd4fa349b3ed367c53b6e1eec4a70cce0f57.jpg"
+        },
+        {
+          "name": "爱吃猪扒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/2918abf4061f00918f2f6f124d44ca9b624020d7.jpg"
+        },
+        {
+          "name": "爱吃煎蛋",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/f8104262d5203d10183ca863cb0546f02c778fe3.jpg"
+        },
+        {
+          "name": "爱吃苹果",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/a6c0032fae10c2019a47c2178116e7aabed4204d.jpg"
+        },
+        {
+          "name": "爱吃草莓",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695510/0a9d47d2bda931def65ce6266f06d005d2c33405.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 9,
+      "total_negative": 6,
+      "total_reviews": 15
+    }
+  }
+}

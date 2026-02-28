@@ -1,0 +1,149 @@
+{
+  "510430": {
+    "name": "Stacks On Stacks (On Stacks)",
+    "steam_appid": 510430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>《Stacks On Stacks (On Stacks)》</strong> 是一款古怪的3D堆塔城建游戏。扮演堆积大师洛克特，必须利用她的精神头盔来堆叠散落在疯狂世界的彩色砖块。<br><br><ul class=\"bb_ul\"><li>通过巧妙平衡来堆造平稳的塔楼。<br></li><li>混合各种材料融入你的塔中：艺术品、水中生物、磁铁等等。<br></li><li>保护你的塔楼免受鬼魂、喷火龙和其他奇怪危险的威胁。<br></li><li>用一个破碎球把你完成的塔楼敲倒。</li></ul><br><strong>游戏模式：</strong><br><ul class=\"bb_ul\"><li>故事模式：富有堆积难度的36个关卡，如在流沙或巨大的弹簧秤上建造。<br></li><li>合作模式：找一个搭档组队完成比赛。<br></li><li>对战模式：与你最好的伙伴分屏对战。<br></li><li>Twitch模式：可选Twitch接入让你的观众投票来影响游戏结果。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/510430/header.jpg?t=1587575206",
+    "developers": [
+      "Herringbone Games"
+    ],
+    "publishers": [
+      "Herringbone Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4300,
+      "final": 4300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 43.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "满星通关（普通）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/d48a59025c01259f8bb7d78361d75866ed90884f.jpg"
+        },
+        {
+          "name": "满星通关（困难）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/dd2eadb4b31ba02aa7d57d0053bfcf17ac25ff09.jpg"
+        },
+        {
+          "name": "满星通关（疯狂）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/cd87e9ee4761d216ad224338a041a9aae848e0bf.jpg"
+        },
+        {
+          "name": "完美主义（普通）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/8f88edf209a17bd7381d76f03c4cae0daf8e5157.jpg"
+        },
+        {
+          "name": "完美主义（困难）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/5f95d8cb67f1560d9da3d2fc225db12cf99ff9e1.jpg"
+        },
+        {
+          "name": "完美主义（疯狂）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/265356144f206234bbcf179a75c345b9c42df2be.jpg"
+        },
+        {
+          "name": "得胜者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/d90f50f96cfacf0a962980c815c3efadd974f98b.jpg"
+        },
+        {
+          "name": "无尽：20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/3eacde4592065fb1fb5a52eb2bacc874132496e8.jpg"
+        },
+        {
+          "name": "无尽：30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/9d1cddbeed0fc733b48ce364e454375c3631db83.jpg"
+        },
+        {
+          "name": "达成5关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/510430/0bd9dcb3d844dda617b729cdae344a3ec4cd0327.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

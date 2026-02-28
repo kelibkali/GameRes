@@ -1,0 +1,54 @@
+{
+  "1069090": {
+    "name": "PureDesktop",
+    "steam_appid": 1069090,
+    "required_age": 0,
+    "is_free": true,
+    "description": "使用 <strong>PureDesktop</strong> 您可以轻松地创建自己的动画壁纸。视频、图片、效果、可视化工具等等。所有您需要的都可以在一个应用程序中实现。借助于<strong>Qt 和 QML</strong>的强大功能，您可以轻松创建自己的扩展。或者可以通过<strong>共享中心</strong>从社区获取扩展。您也可以从社区下载完整的壁纸或发布自己的壁纸。<br><br><strong>重要:</strong><br>使用这款软件需要一些训练，而不是“即插即用”的。因此它需要一点训练时间！请注意！<br>教程: <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069090/extras/c3daafa43b864513ce9d6c38c5c5082b.webp?t=1585236184\" width=320 height=46 /></span><br><br><ul class=\"bb_ul\"><li> 基于图层的设计<br></li><li> 现场设计者<br></li><li> 高性能<br></li><li> 低CPU使用率<br></li><li> 不同的模式: <i>在后台</i>, <i>在桌面上</i>, <i>总是置顶</i><br></li><li> 共享中心 - 上传和下载扩展和壁纸<br></li><li> 可使用鼠标和键盘操作<br></li><li> 完整的Qt包: Qt3D, QML, OpenGL, QtQuick, Qt WebEngine (Chromium), Shaders and Lottie</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069090/extras/d48c012b0294801641937e2fe4e90ce4.webp?t=1585236184\" width=320 height=46 /></span><br><br>60 FPS在大多数情况下是稳定的，但这取决于您的壁纸使用的视觉效果和图层的数量。软件将以较低的CPU优先级运行，如果同时运行其他进程（如游戏），则会导致延迟。确切的说您的壁纸将会延后于您的游戏 ;)<br>您还有一些性能选项，比如渲染类型、替换间隔等。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069090/extras/b3002e3c0dc9ca3c2e05fdee3a74deeb.webp?t=1585236184\" width=320 height=46 /></span><br><br>由于Qt插件 (QML / C ++) 的简单集成，扩展可以被快速且有效地开发。任何人都可以根据需要扩展软件。无论是可视化、效果、多媒体、动画、网页内容、启动器等等，都没有限制。",
+    "supported_languages": "英语, 德语, 法语, 西班牙语 - 西班牙, 日语, 韩语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069090/header.jpg?t=1585236184",
+    "developers": [
+      "PurePortal"
+    ],
+    "publishers": [
+      "PurePortal"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

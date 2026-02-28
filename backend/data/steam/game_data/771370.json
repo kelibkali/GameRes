@@ -1,0 +1,105 @@
+{
+  "771370": {
+    "name": "Confederate Express",
+    "steam_appid": 771370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "以MOBA/RTS-like的操作机制为基础：在消灭敌人的同时, 通过走位来躲避子弹。<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/118b41e4aaeba882dde7034be0627249.poster.avif?t=1759957285\" width=410 height=298 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/118b41e4aaeba882dde7034be0627249.webm?t=1759957285\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/118b41e4aaeba882dde7034be0627249.mp4?t=1759957285\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >故事背景</h2><br>在反乌托邦的未来，你是一个运送着神秘包裹的残酷终结者。在50个看似困难的关卡中，将你的敌人撕裂成碎块，让他们的血肉炸裂成瀑布，同时敌人将变得越来越多，他们的战术将越来越致命，你的技术会得到考验和挑战——特别是如果你自认为是个MOBA游戏高手的话。<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/21e9bbdfb832f3acb5c4382401f06b27.poster.avif?t=1759957285\" width=426 height=298 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/21e9bbdfb832f3acb5c4382401f06b27.webm?t=1759957285\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/extras/21e9bbdfb832f3acb5c4382401f06b27.mp4?t=1759957285\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >技术</h2><br>联邦快递拥有明显的视觉风格—“aliasing”—由一个专有的极限表现渲染框架—false2d™API呈现。这项技术使在2D游戏中的无与伦比的视觉逼真度得到实现，将超过50000个的手绘动画帧转化为视觉叙事的壮观杰作。",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771370/header.jpg?t=1759957285",
+    "developers": [
+      "Maksym Pashanin"
+    ],
+    "publishers": [
+      "Maksym Pashanin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Baby steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/3e62549108bf4932f6508281aee16ac5067057c0.jpg"
+        },
+        {
+          "name": "Dozen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/deacea709c882395ff23ae3fc4b135af4ba6fa84.jpg"
+        },
+        {
+          "name": "Save the humans",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/a1d3143267d599f174cf76a0df0671e6a4cf2ba9.jpg"
+        },
+        {
+          "name": "Still",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/5352d21b60d6337fb769446d4fd332bbbe06691c.jpg"
+        },
+        {
+          "name": "Epidemic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/a0eb6764fbfa09544b79b813a2a63641f2f2199b.jpg"
+        },
+        {
+          "name": "Hot Purrsuit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/e8416208631fc894ef96c0aef472c6b0215577ae.jpg"
+        },
+        {
+          "name": "Crazy Cat Lady",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/918fee1336f8b1bbe4b5ee694757afedeb217f5d.jpg"
+        },
+        {
+          "name": "Purist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/2aa48862454f0e2ed50bbcc33ac66c39577f1c5c.jpg"
+        },
+        {
+          "name": "Save the animals",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/6af20ab385e459dab000dfb2d62537669f502df5.jpg"
+        },
+        {
+          "name": "Strategist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/771370/32266b6c1a6c8fe97ae9b49493d77a68dbf102ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

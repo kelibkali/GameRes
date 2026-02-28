@@ -1,0 +1,54 @@
+{
+  "1087020": {
+    "name": "Neko Jump",
+    "steam_appid": 1087020,
+    "required_age": 0,
+    "is_free": true,
+    "description": "3D platformer where you play as Neko the cat. Your objective is to collect different objects and move them to their rightful place so you may advance towards the next level. This is a shortened version of the game. And it was made during game development studies as a portfolio project.<br><br>This version of the game has 3 different levels and a tutorial level<h2 class=\"bb_tag\" ><u><strong>Controller:</strong></u></h2><ul class=\"bb_ul\"><li><strong>Dpad</strong> to move cursor (for menu buttons)<br></li><li><strong>X</strong> to select menu button<br></li><li><strong>Left Analog</strong> to move Neko<br></li><li><strong>A</strong> to jump<br></li><li><strong>B</strong> to pick up objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Keyboard and Mouse:</strong></u></h2><ul class=\"bb_ul\"><li><strong>W,A,S,D</strong> to Move Neko<br></li><li><strong>Spacebar</strong> to Jump<br></li><li><strong>F</strong> to Pick Up Objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Developers:</strong></u></h2><br><ul class=\"bb_ul\"><li><u>Sebastian Johansson</u> - Programming &amp; Implementing<br></li><li><u>Heidi Sällström</u> - Graphics &amp; Level Design<br></li><li><u>Katariina Paulaniemi</u> - Graphics &amp; Level Design<br></li><li><u>Mika Kivennenä</u> - Steam Publishing &amp; Fixing/Implementing<br></li><li><u>Risto Koskenkorva</u> - Project Mentor</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/header.jpg?t=1590143474",
+    "developers": [
+      "JoPaSä"
+    ],
+    "publishers": [
+      "Ahlman Game Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

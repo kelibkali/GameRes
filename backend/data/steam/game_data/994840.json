@@ -1,0 +1,65 @@
+{
+  "994840": {
+    "name": "東方苦粗芸物語 Touhou KSG Story template source code",
+    "steam_appid": 994840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "in Japanese language only yet.<br />\r\n<br />\r\n&quot;总结&quot;<br />\r\n这个DLC是一个东方KSG故事对话场景和游戏场景模板。<br />\r\n它作为ZIP文件提供，包含专门用于Clickteam Fusion 2.5的源代码。<br />\r\n启动和编辑需要Clickteam Fusion 2.5。<br />\r\n<br />\r\n&quot;使用&quot;<br />\r\nDLC在应用程序文件夹中保存为“KSGsource.zip”。<br />\r\n将ZIP文件解压缩到您选择的文件夹，然后使用Clickteam Fusion 2.5打开文件touhouksg.mfa。<br />\r\n请根据Clickteam Fusion 2.5的用法使用它。<br />\r\n如果是时候更改会话时间，请更改会话数，更改字符<br />\r\n我认为即使是初学者也可以轻松做到。<br />\r\n您可以在没有任何特别通知的情况下自由发布基于touhouksg.mfa文件的游戏<br />\r\n要使用材料，请遵循每位作者的政策（如版权所有者展示）。<br />\r\n<br />\r\n＜概要＞<br />\r\nこのDLCは東方苦粗芸物語の会話シーンおよびゲームシーンのテンプレートです。<br />\r\nClickteam Fusion 2.5専用のソースコードを含むZIPファイルで提供されます。<br />\r\n起動および編集にはClickteam Fusion 2.5が必要になります。<br />\r\n<br />\r\n＜使用法＞<br />\r\nDLCはアプリケーションフォルダに「KSGsource.zip」という名前で保存されます。<br />\r\nZIPファイルを任意のフォルダに解凍し、Clickteam Fusion 2.5でtouhouksg.mfaファイルを開いてください。<br />\r\n以降はClickteam Fusion 2.5の使用方法に沿って御利用ください。<br />\r\n会話のタイミング変更や会話回数の変更、キャラクター変更などであれば<br />\r\n初心者でも簡単に行うことができると思います。<br />\r\ntouhouksg.mfaファイルを元にしたゲームは特に断りなく自由に公開していただいて構いませんが<br />\r\n素材の利用はそれぞれの作者の方針（著作権者表示など）に従ってください。<br />\r\n<br />\r\n＜Clickteam Fusion 2.5の使用方法＞<br />\r\nClickteam Fusion 2.5ヘルプファイルやClickteam Fusion 2.5の公式サイト、日本語版フォーラムなどを参考にしてください。<br />\r\n特に日本語版フォーラムはサンプルファイル（mfa）をZIP圧縮してアップロードすることによって、かなりの確率でやりたいことや分からない部分を教えてくれる人が現れるようです。<br />\r\n<br />\r\n＜使用素材制作・著作＞<br />\r\nキャラクター：点睛集積<br />\r\nBGM：Clickteam、DOVA-SYNDROME<br />\r\n背景：ドット絵世界、UD COBO",
+    "supported_languages": "日语<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/994840/header.jpg?t=1546048531",
+    "developers": [
+      "Hellshake Yano"
+    ],
+    "publishers": [
+      "Hellshake Yano."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

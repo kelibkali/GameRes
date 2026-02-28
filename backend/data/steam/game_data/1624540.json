@@ -1,0 +1,89 @@
+{
+  "1624540": {
+    "name": "Storyteller",
+    "steam_appid": 1624540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Storyteller》是一款利用视觉语言元素编造故事的游戏。每一关都包含几种场景和若干角色，你将通过调整游戏元素的先后顺序，看它们之间如何前后呼应，编造出一个切合给定标题的叙述性故事。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/a8d5f3e28c7ac1c9484f6ae4a5908998.poster.avif?t=1729098997\" width=600 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/a8d5f3e28c7ac1c9484f6ae4a5908998.webm?t=1729098997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/a8d5f3e28c7ac1c9484f6ae4a5908998.mp4?t=1729098997\" type=\"video/mp4\"></video></span><br><br>《Storyteller》的漫画格子设计和可爱的动画效果让你能够在众多故事框架内进行尝试：只需拖放调整游戏元素的位置即可看到故事如何展开！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/0b4d531032524a0c16f6467feaa816b9.poster.avif?t=1729098997\" width=600 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/0b4d531032524a0c16f6467feaa816b9.webm?t=1729098997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/extras/0b4d531032524a0c16f6467feaa816b9.mp4?t=1729098997\" type=\"video/mp4\"></video></span><br><br>在一个充满角色与主题、英雄与恶棍、龙与吸血鬼、不忠与复仇、爱情、谎言、疯狂等元素的游戏里尽情编造你的故事！在空白画布上操纵秘密与欲望，屠戮怪物或用它们吓人，或者使爱人彼此背叛或让有情人终成眷属。你知道故事的结局，但发展过程将由你决定。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 繁体中文, 土耳其语, 阿拉伯语, 瑞典语, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/header.jpg?t=1729098997",
+    "developers": [
+      "Daniel Benmergui"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 3600,
+      "discount_percent": 40,
+      "initial_formatted": "¥ 60.00",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "皇冠",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1624540/a9af157e1f487c1f457234d46afa259728fed8bc.jpg"
+        },
+        {
+          "name": "恶作剧",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1624540/a46cb8163875239c2682d8ca4cd5ff77bac45c0f.jpg"
+        },
+        {
+          "name": "收藏家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1624540/8ec5d23dd8f66bc93ef7f2015c92ae73c86fa0a7.jpg"
+        },
+        {
+          "name": "值得一玩",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1624540/a253afdba7710dd4b595a4b74ba4a295dc250206.jpg"
+        },
+        {
+          "name": "安静",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1624540/0176e3233b7940c7657716ef8a79339a16f6d7d9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 852,
+      "total_negative": 114,
+      "total_reviews": 966
+    }
+  }
+}

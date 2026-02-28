@@ -1,0 +1,62 @@
+{
+  "325180": {
+    "name": "AppGameKit Classic: Easy Game Development",
+    "steam_appid": 325180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AppGameKit是一款强大的游戏开发引擎，非常适合初学者，业余爱好者和独立开发者。现在，任何人都可以使用AppGameKit的BASIC脚本系统为多个平台快速编写和构建应用程序。只需几条命令，您就可以在移动设备上启动并运行演示/游戏。英特尔公司开发者关系部门的Bob Duffy说：“AppGameKit是一款出色的跨平台开发工具。它允许开发人员快速优化和编译应用程序。“<br><br>游戏可以开发并部署到您选择的移动设备上进行快速原型设计。 AppGameKit为你做了所有繁重的工作 - 使编写代码，编译，然后将应用程序导出到每个平台变得容易。所有你需要关注的是你的游戏/应用程序的想法。就这么简单！<br><br>AppGameKit还迎合了更多经验丰富的开发人员，让您可以使用AppGameKit C ++库，并受益于AppGameKit核心游戏引擎的所有功能。两个很好的例子是1982年的游戏和由Binary Zoo开发的Echoes +，两者都可以在Steam上免费下载;<h2 class=\"bb_tag\" >特征</h2><strong>平台</strong><br>您可以在Windows，Mac或Linux设备上使用AppGameKit创建游戏。你用它制作的游戏可以导出并运行;<br>视窗, 苹果电脑, Linux的, iOS版, Android（包括Google，Amazon和Ouya）, HTML5, 树莓派（从TGC网站免费）<br><br><strong>AppGameKit IDE</strong><br><ul class=\"bb_ul\"><li>跨平台Geany编辑器<br></li><li>智能感知<br></li><li>代码折叠<br></li><li>配色方案<br></li><li>编辑多个项目<br></li><li>快速编译器<br></li><li>完全除虫<br></li><li>直接广播到设备<br></li><li>导出到exe，app，ipa，apk</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/a7345e4f6c994be6ce19f34194b29d3b.avif?t=1717089765\" width=600 height=120 /></span><br><br><strong>命令</strong><br>AppGameKit拥有所有游戏创作重要领域的命令。这些都可以被称为BASIC命令或在C ++和XCode中作为库调用。<br><br><i>3D图形</i><br><ul class=\"bb_ul\"><li>3D基元<br></li><li>3D骨骼动画<br></li><li>着色器<br></li><li>灯光<br></li><li>光芒铸造<br></li><li>相机控制<br></li><li>网格<br></li><li>支持的格式：.x .fbx .dae .3ds .obj .b3d .3d</li></ul><br><i>3D物理</i><br><ul class=\"bb_ul\"><li>角色控制器<br></li><li>布娃娃<br></li><li>接头<br></li><li>刚体<br></li><li>联系报告<br></li><li>光线投射<br></li><li>物理世界的命令<br></li><li>复合碰撞形状</li></ul><br><i>2D图形</i><br><ul class=\"bb_ul\"><li>精灵<br></li><li>粒子<br></li><li>形状<br></li><li>文本<br></li><li>字体<br></li><li>渐变<br></li><li>脊柱支持<br></li><li>混合模式<br></li><li>图像格式：jpeg，png</li></ul><br><i>物理</i><br><ul class=\"bb_ul\"><li>箱子2D碰撞</li></ul><br><i>渲染控制</i><br><ul class=\"bb_ul\"><li>着色器<br></li><li>渲染到图像</li></ul><br><i>声音和音乐</i><br>]list]<br><ul class=\"bb_ul\"><li>播放声音文件<br></li><li>播放音乐文件<br></li><li>声音格式：Wav<br></li><li>音乐格式：Mp3，Ogg，M4a<br></li><li>混合声音<br></li><li>改变音调和平衡</li></ul><br><i>用户输入</i><br><ul class=\"bb_ul\"><li>老鼠<br></li><li>多点触摸<br></li><li>控制器支持<br></li><li>游戏杆/虚拟游戏杆<br></li><li>键盘<br></li><li>编辑框<br></li><li>纽扣</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/header.jpg?t=1717089765",
+    "developers": [
+      "TheGameCreators"
+    ],
+    "publishers": [
+      "TheGameCreators"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 9,
+      "total_negative": 2,
+      "total_reviews": 11
+    }
+  }
+}

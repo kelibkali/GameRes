@@ -1,0 +1,137 @@
+{
+  "814990": {
+    "name": "Super X Chess",
+    "steam_appid": 814990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814990/extras/47fccee5a3d205adcc9f55dff5372438.poster.avif?t=1759858273\" width=360 height=202 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814990/extras/47fccee5a3d205adcc9f55dff5372438.webm?t=1759858273\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814990/extras/47fccee5a3d205adcc9f55dff5372438.mp4?t=1759858273\" type=\"video/mp4\"></video></span><br><strong>规则</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >把你的棋子移到你另一个棋子的正方形上，创建一个组合更强大的棋子。</p></li><li><p class=\"bb_paragraph\" >当棋子合并时，棋子不能再重新融合或合并了。</p></li><li><p class=\"bb_paragraph\" >皇家象棋棋子(女王和国王)不会合并。</p></li><li><p class=\"bb_paragraph\" >士兵们只有在没有合并或者士兵与另一名士兵合并时才能升级到最后一位。</p></li><li><p class=\"bb_paragraph\" >稍微修改士兵晋升规则：士兵+士兵棋子升级到更强大的棋子，但正规士兵现在只升级到了任何一个車，主教或馬 。</p></li><li><p class=\"bb_paragraph\" >棋子运动逻辑是经过深思熟虑的，包括馬+馬，車+車和兵+兵的片组合。</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>主要特点</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >在线多人&amp;本地多人游戏。</p></li><li><p class=\"bb_paragraph\" >单玩家模式对抗可定制的ai对手。</p></li><li><p class=\"bb_paragraph\" >游戏模式： 超级X国际象棋, 超级960国际象棋 and 国际象棋。</p></li><li><p class=\"bb_paragraph\" >为额外挑战或休闲游戏创造障碍的能力。</p></li><li><p class=\"bb_paragraph\" >包括普通国际象棋和超级X国际象棋的教程。</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>游戏设计</strong></h2><p class=\"bb_paragraph\" >如果你决定组合你的棋子，然后你会得到一个更强壮的西洋棋棋子，但同时你也没有时间来发展自己的位置。如果你的对手可以不断威胁你更强大的西洋棋棋子，</p><p class=\"bb_paragraph\" >那么这也可能是一个类似于首先发展女王的初学者错误的缺点。 拥有较少的西洋棋棋子可以证明在对抗一个关键的广场时也是一个缺点，因为那时你不能堆积多少攻击。</p><p class=\"bb_paragraph\" > 这一切都使超级X国际象棋成为一个平衡的游戏，更有活力和令人兴奋的国际象棋。凭借其优雅和平衡的设计， 它尊重原始的国际象棋游戏， 但同时让游戏感觉清新和焕然一新。</p>",
+    "supported_languages": "英语, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814990/header.jpg?t=1759858273",
+    "developers": [
+      "Mlyst"
+    ],
+    "publishers": [
+      "Mlyst"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "The Secret",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/9a572b5fbe9885ff1cd615d93b741b0c2cf10065.jpg"
+        },
+        {
+          "name": "Stick together team",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/9163b0e44eff7983a15203a8b5d93ebf4ed8f66e.jpg"
+        },
+        {
+          "name": "Good player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/e633b89168c3482ab8e010e5adc58a5e3cdacbe1.jpg"
+        },
+        {
+          "name": "Very good player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/294c901273a9e76af7ca6c32bcd3cf45882cd455.jpg"
+        },
+        {
+          "name": "Excellent player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/917e3766b6b467491879ac07343185b17f551a27.jpg"
+        },
+        {
+          "name": "Exceptional player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/895773a9ec1ce32174e89cec4a188331476909cd.jpg"
+        },
+        {
+          "name": "Master player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/2ffe4f2b02824e0778e4243c8f7bae582de99356.jpg"
+        },
+        {
+          "name": "Grandmaster player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/b92509ddc59aa4dc1f2e26dc9c3be9b65a4df077.jpg"
+        },
+        {
+          "name": "Super Grandmaster player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814990/88200f7c144c85a824fb2c7e60313dd365588596.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

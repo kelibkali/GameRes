@@ -1,0 +1,57 @@
+{
+  "1602770": {
+    "name": "Dream of Bells",
+    "steam_appid": 1602770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dream of bells is a puzzle game. All bells in the world fall asleep because of some evil magic. Your goal is to wake them up in a specific order. Essentially you have to make a program for the car, but the program also a part of the puzzle world, some sort of Rube Goldberg machine.<br />\r\n<br />\r\nYou need to put commands block in the level, so the car can follow instructions and drive through bells in the desired order. Making the car drive through the correct bell wakes up the bell. Command block can be simple like turn right or turn left or conditional: turn right or left if the block on the roof of the car matches with the block in the front right side of the car, the game also has a pickup command block, put down command block, and rainbow block which can update the block on the roof.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602770/header.jpg?t=1620658563",
+    "developers": [
+      "Mika Pi"
+    ],
+    "publishers": [
+      "Mika Pi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

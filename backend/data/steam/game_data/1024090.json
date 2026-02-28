@@ -1,0 +1,55 @@
+{
+  "1024090": {
+    "name": "Magic Borderless - Donation Platinum",
+    "steam_appid": 1024090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Additional Note</strong><br>This downloadable content is serves as a donation to support the developers of Magic Borderless. <br><br>As a token of appreciation, owners of DLC will be able to use <strong>Premium Skin Editor and share them on Workshop</strong>.",
+    "supported_languages": "英语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024090/header.jpg?t=1552563233",
+    "developers": [
+      "Studio Christmas"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

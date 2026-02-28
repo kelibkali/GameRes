@@ -1,0 +1,61 @@
+{
+  "1093900": {
+    "name": "神谋",
+    "steam_appid": 1093900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "神谋是一款欧式神话内容的经典RPG游戏！丰富的剧情故事，绚丽的魔法技能将带着你和主人公们一起加入到一场神与魔的博弈中。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093900/header.jpg?t=1562024309",
+    "developers": [
+      "个人制作"
+    ],
+    "publishers": [
+      "个人制作"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 12,
+      "total_negative": 3,
+      "total_reviews": 15
+    }
+  }
+}

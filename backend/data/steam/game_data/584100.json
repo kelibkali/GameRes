@@ -1,0 +1,77 @@
+{
+  "584100": {
+    "name": "Mad Digger",
+    "steam_appid": 584100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >宝藏埋在数百米深处，这可是疯狂挖掘者的活儿！</p><p class=\"bb_paragraph\" >某天，佩科斯爷爷决定向孙子透露一个秘密——在旧矿区埋着宝藏。问题在于它埋得实在太深——几百米地下！这时孙子想起了他的朋友——疯狂挖掘者。毕竟只有他能胜任这样的任务。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/5d207587ded6e945c5e951d230105fce.avif?t=1763594517\" width=500 height=200 /></span></p><p class=\"bb_paragraph\" >你的任务是不断深入地下，直到挖到宝藏为止。事情并非表面看起来那么简单，因为每次下潜都会消耗氧气，需要开采矿物来升级设备和技术，还要购买手榴弹和炸药来加快进度！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >设备说明：</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/860a6aa20b2decddeb28113aa7ef3748.webp?t=1763594517\" width=50 height=50 /></span>镐——主要工具。升级后挖掘速度更快、力度更大。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/e7641f7372a33b5ff55ab96614931127.webp?t=1763594517\" width=50 height=50 /></span>氧气罐——让你能在地下停留更长时间。升级后停留时间更长。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/a6ac870165a0e94786b76ffbcc4b3d3a.webp?t=1763594517\" width=50 height=50 /></span>钻机——大型钻探设备，能让你更快地穿透表层岩石，收集更多资源。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/c0dd04e75c8df9f9bea9fcb86822acf5.webp?t=1763594517\" width=50 height=50 /></span>手榴弹——爆炸范围较小，但被炸毁的方块不会白白消失，若其中含有有用物品（资源、氧气），你将获得这些物品。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/2d9775b93887320c5424185919026d67.webp?t=1763594517\" width=50 height=50 /></span>炸药——杀伤范围广，当需要快速向下挖掘较深距离时非常实用。与手榴弹不同，炸药存在一个缺点：它会摧毁沿途所有物体，若引爆含资源的方块，你将一无所获。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/extras/78ee4cac4f5e858622811885c7a03a49.webp?t=1763594517\" width=50 height=50 /></span>辐射水——含有适度辐射的水。能增强体力，使其在作用期间挖掘速度提升10倍。</p>",
+    "supported_languages": "英语, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584100/header.jpg?t=1763594517",
+    "developers": [
+      "Berezka"
+    ],
+    "publishers": [
+      "KuKo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "You Made It!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/584100/f77fe3656eee6462d87982a3a47fbf797d0d1e13.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 3,
+      "total_negative": 3,
+      "total_reviews": 6
+    }
+  }
+}

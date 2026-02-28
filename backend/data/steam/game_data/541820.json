@@ -1,0 +1,54 @@
+{
+  "541820": {
+    "name": "Patterna Demo",
+    "steam_appid": 541820,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Patterna is a logic puzzle game inspired by <i>HexCells</i>. It features a highly customizable random level generator, a level editor, more than 70 levels, and an enchanting minimalist soundtrack by Alex Cottrell.<br><br>In Patterna, each level is a network of nodes (also known as a <i>graph</i>). In a way similar to HexCells or Minesweeper, each node is ultimately in one of two states (known as <i>pattern</i> and <i>non-pattern</i>). Initially, most nodes' states are unknown. It is the player's task to correctly classify these unrevealed nodes using information based on distance, connectivity, and color. Correctly classifying a node may reveal more information that in turn helps you to solve the level.<br><br><ul class=\"bb_ul\"><li> More than 70 levels, plus a tutorial<br></li><li> Procedurally generated levels with plenty of options for the level generator<br></li><li> Enchanting minimalist original soundtrack by Alex Cottrell<br></li><li> Absolutely no guessing needed<br></li><li> Level editor and Steam Workshop support included<br></li><li> Extensive gameplay statistics</li></ul>",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541820/header.jpg?t=1476658146",
+    "developers": [
+      "Sebastian Schöner"
+    ],
+    "publishers": [
+      "Sebastian Schöner"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

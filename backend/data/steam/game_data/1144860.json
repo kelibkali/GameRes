@@ -1,0 +1,117 @@
+{
+  "1144860": {
+    "name": "御剑",
+    "steam_appid": 1144860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >开发者笔记</h2><br><br>《御剑》是一款仅用鼠标游玩的飞行游戏。<br><br>您好，我是一名个人开发者，通过不断学习编程知识来开发自己想要实现的游戏。《御剑》是我的第一款仙侠类游戏，在游戏中你将控制一名筑基期大乘的散仙在广阔的山脉中尽可能多地收集灵石。这也是一款程序生成类型的游戏，游戏中的山脉将在每次游戏中随机生成。<br><br>这是一款小型游戏，它适合随时游玩、反复游玩，在游戏中你唯一的目标就是不断打破自己之前创造的分数。<h2 class=\"bb_tag\" >游戏特色</h2><br><br><ul class=\"bb_ul\"><li>充满水墨仙侠风的画面。<br><br></li><li>每局游戏10分钟，程序自动生成地图。<br><br></li><li>全球灵石榜（排行榜）。<br><br></li><li>Steam云支持。<br><br></li><li>多国语言支持。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 土耳其语, 波兰语, 简体中文, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144860/header_schinese.jpg?t=1587149466",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "五千灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/0908801db904df1ff1e1fe5542673e7302415eb0.jpg"
+        },
+        {
+          "name": "一万灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/a403488459d05c09b6cae6b0b0e4387c83a86a9c.jpg"
+        },
+        {
+          "name": "一万五千灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/21a2ffef37b128b60efc05c0a51d77dc67ba32d2.jpg"
+        },
+        {
+          "name": "二万灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/6e95e4ccbc678795af4827c1e85206b0cc2ee365.jpg"
+        },
+        {
+          "name": "二万五千灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/78bd427717032941166e06e297ec09616e658f3f.jpg"
+        },
+        {
+          "name": "三万灵石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1144860/a7573583f6547ada0055f95695bbaa888678a08f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 45,
+      "total_negative": 5,
+      "total_reviews": 50
+    }
+  }
+}

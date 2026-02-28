@@ -1,0 +1,78 @@
+{
+  "1115870": {
+    "name": "Inner Tao",
+    "steam_appid": 1115870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Inner Tao is a meditative puzzle game where duality fills the whole. <br><br><ul class=\"bb_ul\"><li> Learn the symmetry.<br></li><li> Solve stylized hand-crafted puzzles.<br></li><li> Master the opposites.<br></li><li> Become one with the relaxing soundtrack.<br></li><li> Flow and grow.</li></ul><br><i><br>The Black Moon and The White Sun<br>walk by the sky's reflection,<br>shadow and light weave together<br>a complete world in levitation.</i>",
+    "supported_languages": "英语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1115870/header.jpg?t=1618247424",
+    "developers": [
+      "Lucas Le Slo",
+      "Sergi Sabater"
+    ],
+    "publishers": [
+      "Lucas Le Slo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Master The Yin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115870/7200aa9c6fbbf6ae99d6059eb368373e261f4c5a.jpg"
+        },
+        {
+          "name": "Master The Yang",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115870/1db0e6285a94f1b285b7c1112c389b3b6dd53535.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

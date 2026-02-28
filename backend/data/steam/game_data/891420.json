@@ -1,0 +1,73 @@
+{
+  "891420": {
+    "name": "VR Model Viewer",
+    "steam_appid": 891420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "VR Model Viewer allows you to import a variety of model formats for viewing in VR. Supported formats:<br />\r\n<br />\r\n- OBJ, 3DS, FBX, STL, DXF, DAE, X3D, Blend, GLTF, PLY, 3MF<br />\r\n<br />\r\nOnce imported you can rotate/scale the model, pick it up and examine it close up in VR, and create custom layouts for displaying your models for later use. Curate your 3D model collection and show off your work!<br />\r\n<br />\r\nThe following headsets are officially supported:<br />\r\n<br />\r\n- Valve Index<br />\r\n- HTC Vive<br />\r\n- Oculus Rift CV1<br />\r\n- WMR (Lenovo Explorer)<br />\r\n<br />\r\nQuest and Cosmos are not supported at this time.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/891420/header.jpg?t=1623097692",
+    "developers": [
+      "MindRend Technologies"
+    ],
+    "publishers": [
+      "MindRend Technologies"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

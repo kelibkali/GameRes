@@ -1,0 +1,189 @@
+{
+  "347400": {
+    "name": "001 Game Creator: 2025 Edition",
+    "steam_appid": 347400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Create games without limits</strong></p><p class=\"bb_paragraph\" >001 Game Creator prides itself on offering users a diverse set of tools and features to create any type of game you can think of:</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >PC, Steam, Steam Deck, Android/iOS (native), HTML5 with multi-finger gestures and network testing</p></li><li><p class=\"bb_paragraph\" >Online Multiplayer/LAN/Networking (supports both TCP and UDP)</p></li><li><p class=\"bb_paragraph\" >Multiple layer map editor with parallax canvases</p></li><li><p class=\"bb_paragraph\" >2D/3D camera system with 7.1 3D HD audio</p></li><li><p class=\"bb_paragraph\" >Split-screen games with multiple gamepad support</p></li><li><p class=\"bb_paragraph\" >Sprite layer, 3D model, normal mapping, custom shader materials and particle effect systems</p></li><li><p class=\"bb_paragraph\" >Dynamic resource loading/unloading to improve performance/reduce memory usage for larger games</p></li><li><p class=\"bb_paragraph\" >Interface/HUD designer</p></li><li><p class=\"bb_paragraph\" >Built-in graphics editor</p></li><li><p class=\"bb_paragraph\" >AI action battle mechanics and actor routes</p></li><li><p class=\"bb_paragraph\" >Choice of graphical script and text code editors with game debugger, variable watching and statistics</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Graphically Assisted Scripting</strong></p><p class=\"bb_paragraph\" >001 Game Creator offers creators the ability to craft intuitive and imaginative games without any prior coding knowledge. This is especially beneficial to artists and designers who prefer a more hands-on and visualised approach or developers who don’t wish to spend hours bashing their head against a wall. Unlike traditional Event-Driven Programming applications, 001 Game Creator offers a huge set of built-in events, with the ability to also create custom events for specific tailor-made functionality just for your games.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>PC, Steam HTML5 &amp; mobile development all-in-one</strong></p><p class=\"bb_paragraph\" >001 Game Creator allows developers to build their games for Windows PCs (exe) - with Steam API support (achievements, statistics, etc.), HTML5 (js/html) and mobile devices (apk) all-in-one! Unlike other similar engines, 001 Game Creator provides developers with the freedom to create their games for all available platforms without paying anything extra. Best of all, there are no additional license or revenue fees for selling your games - so if you’ve purchased a copy of 001 Game Creator you can sell your games without having to share the profits with us!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Play games with everyone</strong></p><p class=\"bb_paragraph\" >001 Game Creator gives developers the tools to create ambitious online multiplayer/co-op experiences with built-in networking features (TCP/IP). In addition, 001 Game Creator also allows developers to create local multiplayer experiences with up to four players - with multiple gamepad support included.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The possibilities are endless</strong></p><p class=\"bb_paragraph\" >001 Game Creator unlocks the doors to a wide range of possibilities. Make any game you can think of, including (but not limited to) RPGs, shoot-‘em-ups, racing games, fighting games, simulation games, platformers, tower defense, card games and even 3D games! If you can imagine it, you can create it with 001 Game Creator.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>Please note: Although 001 Game Creator has translations for 9 different languages (with full UNICODE support), our documentation is currently only available in English at this time.</i></strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >001 GAME CREATOR® / GG Maker / Engine001 © SoftWeir Inc. All rights reserved.<br>SOFTWEIR®, 001 GAME CREATOR® and associated logos are trademarks of SoftWeir Inc</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 挪威语, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/header.jpg?t=1758046685",
+    "developers": [
+      "SoftWeir Inc."
+    ],
+    "publishers": [
+      "SoftWeir Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 26800,
+      "final": 6700,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 268.00",
+      "final_formatted": "¥ 67.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 7 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 64,
+        "description": "可调整文字大小"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 73,
+        "description": "聊天文字转语音"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 71,
+        "description": "朗读游戏菜单"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 77,
+        "description": "可以仅用触控"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "A Helping Hand",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/c55adc98047b3893d6c0b263b46c840cdb37ed0b.jpg"
+        },
+        {
+          "name": "Contributor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/3fb9cb2362a4fdaabde3e3826c596d2e19e16fcf.jpg"
+        },
+        {
+          "name": "Running in Circles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/62e3de1dbc6ec0942cd8d69ce973f9bee74033ef.jpg"
+        },
+        {
+          "name": "The Name Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/2c71f3ef661d71054292cf9df3f271118c7018b4.jpg"
+        },
+        {
+          "name": "Rock 'n' Roll",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/c4fdca7d5c33a90c5f549281b01b6ae51785e9f8.jpg"
+        },
+        {
+          "name": "We need to go deeper...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/33e2320c32c10e9be4e7c0d5c59951ab0e489d7e.jpg"
+        },
+        {
+          "name": "Game Tester",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/220813e2c84af7032bf0ff3a08a360ce49d7ac1b.jpg"
+        },
+        {
+          "name": "Trial and Error",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/c4b1e59531162beda089aa61fd67a90d01caafb9.jpg"
+        },
+        {
+          "name": "Different Point of View",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/edfe7d303d591f159315974e91b61f80e357bc8f.jpg"
+        },
+        {
+          "name": "Minions",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/347400/33863b37a8783bc3dabe4ae63772e1edb302d8cb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 15,
+      "total_negative": 2,
+      "total_reviews": 17
+    }
+  }
+}

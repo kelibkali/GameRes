@@ -1,0 +1,81 @@
+{
+  "200610": {
+    "name": "Renegade Ops - Coldstrike Campaign",
+    "steam_appid": 200610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Coldstrike campaign sees the Renegades go up against a new villain codenamed Coldstrike. General Bryant and his team must traverse vast arctic environments to help save innocent civilians and stop this latest threat by any means necessary!<ul class=\"bb_ul\"><li>Take on all new enemies including Cryotech vehicles and monstrous Golems!<br>\t\t\t\t</li><li>Travel across three new fully destructible artic themed maps!<br>\t\t\t\t</li><li>Discover the identity of Coldstrike and stop it from wreaking havoc.</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 意大利语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200610/header.jpg?t=1571757116",
+    "developers": [
+      "Avalanche Studios"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 525,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 21.00",
+      "final_formatted": "¥ 5.25"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

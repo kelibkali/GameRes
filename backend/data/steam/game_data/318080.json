@@ -1,0 +1,70 @@
+{
+  "318080": {
+    "name": "Concursion Demo",
+    "steam_appid": 318080,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This Concursion demo is a custom made level designed to show you the challenges that await in the full game.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/318080/header.jpg?t=1572311258",
+    "developers": [
+      "Puuba"
+    ],
+    "publishers": [
+      "Puuba"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Totally Outrageous",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/318080/3303c55ef6db24230b048e8f9eed75dec2538d76.jpg"
+        },
+        {
+          "name": "Speedy McSpeederson",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/318080/8462bb8eb6349fd09ee7e8ec0cca2d1a12ef0c49.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

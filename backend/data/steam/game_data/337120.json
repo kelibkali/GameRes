@@ -1,0 +1,83 @@
+{
+  "337120": {
+    "name": "Axis Game Factory's AGFPRO - Drone Kombat FPS Multiplayer",
+    "steam_appid": 337120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Drone Kombat is the latest addition to the Axis Game Factory AGFPRO DLC line-up!  </h2><br>Drone Kombat is a fast action Kombat Sci-fi First Person-Shooter where you create your maps from an array of modular interior and exterior location assets.  Gameplay comes together when you pilot your vehicle and take out the enemy Drones!!!<br><br>Drone Kombat supports:<br><ul class=\"bb_ul\"><li>Single Player<br></li><li>Team Co-Op<br></li><li>Multi-Player - up to 8 players</li></ul><br>Key Features Include:<br><ul class=\"bb_ul\"><li>Single Wave-Based Enemy Kombat<br></li><li>New AI System - AI nodes are built into the model assets in addition, as you play the game, the users paths are recorded and added to the scene file so the more you play, the smarter the AI enemy becomes<br></li><li>Enemy Drones<br></li><li>Jump-Jets - allow for short bursts to jump location and avoid enemy fire<br></li><li>Over 50 Assets that include Space Station and Space Ship  - ALL UNLOCKED to use in Unity3d<br></li><li>Object List - Object Selection and Template Feature added to AGFPRO<br></li><li>Search Feature - enter an asset name into search for easy to locate assets in the World Editor<br></li><li>Dynamically Template Searched Assets to expedite your map making (added to AGFPRO)</li></ul><br>Multiple Weapons include Primary and Secondary:<br><ul class=\"bb_ul\"><li>Quad lazer cannon<br></li><li>Rockets<br></li><li>Magnetic mines<br></li><li>Shields<br></li><li>Bombs<br></li><li>Health</li></ul><br>An Elaborate HUD System Includes:<br><ul class=\"bb_ul\"><li>Rearview Camera<br></li><li>Enemy Targeting<br></li><li>Stats<br></li><li>Team/Co-op <br></li><li>Displays Allies &amp; Enemies Positioning as well as Health</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337120/header.jpg?t=1447365770",
+    "developers": [
+      "Axis Game Factory LLC"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

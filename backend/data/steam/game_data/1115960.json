@@ -1,0 +1,121 @@
+{
+  "1115960": {
+    "name": "Struggle",
+    "steam_appid": 1115960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Struggle是一款战术竞技VR射击类游戏。特种兵由直升机运送到战场，并降落在战场的某一地点。通过查看左下角小地图和屏幕上方指南针辨别方位和查看安全区位置，通过脚步声和枪声判断其他战士位置。安全区会定时随机刷新，左下角显示刷新倒计时。特种兵可以被其他战士杀死，也可能因为在安全区外时间过长，导致流血而死。每缩小一次安全区，战士在安全区外受伤越重。战士应该尽快进入安全区，进入安全区后会逐渐恢复血量。特种兵可以捡起战场内的武器和弹药，以及从空中落下的秘密武器。右下角实时显示战士的血量和子弹数量，每击杀一名战士增加50发子弹。当只剩一名战士时比赛结束。系统会实时显示击杀数，当战士死亡或比赛结束时都会显示排名。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1115960/header.jpg?t=1580534707",
+    "developers": [
+      "TLTS"
+    ],
+    "publishers": [
+      "To be determined"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "Level_1_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/a74f07de25a742d50dddc07552558660db2965bb.jpg"
+        },
+        {
+          "name": "Level_2_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/9f9d35270161cb6ceb98fd77c3375a4f7530f0ed.jpg"
+        },
+        {
+          "name": "Level_3_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/4bf69980e3a02e369c5294e437236e1d6c5185f0.jpg"
+        },
+        {
+          "name": "Level_4_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/d40977c02606bb2ceadd6578e28997b1f7639d64.jpg"
+        },
+        {
+          "name": "Level_5_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/b905914e547215e2b86afb5a119742cac752c704.jpg"
+        },
+        {
+          "name": "Level_6_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/44b2fcfce32aae02f2a4d318f3f21c352f6ea407.jpg"
+        },
+        {
+          "name": "Level_7_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/44baa284ccbde618164609cedb12c149b972d677.jpg"
+        },
+        {
+          "name": "Level_8_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/22732fe36e759061a4eaf65ef39b435d07a4bd8f.jpg"
+        },
+        {
+          "name": "Level_9_Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/7675a30ff9cf4b18637372cb5af6f22db0d922ae.jpg"
+        },
+        {
+          "name": "Level_A_Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1115960/233da5d84980170345c939fb0af584b7077911e9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

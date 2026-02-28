@@ -1,0 +1,54 @@
+{
+  "1660980": {
+    "name": "Giant Worm Rider",
+    "steam_appid": 1660980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Giant Worm Rider</strong></h2>is a VR worm riding game with a retro aesthetic. Swing on the back of a giant worm and experience the immersive sci-fi setting in virtual reality.<h2 class=\"bb_tag\" >Story</h2>The three Earth-like planets in the system GPA3, Arenosus (desert planet), Palus (swamp planet) and Gelid (ice planet), were conquered by space colonization of an alien species. The colonial ministry forcibly displaced the original indigenous inhabitants to mine the rare Bearealium. Bearealium is the last remaining neutron fuel of the colonist astronautics and has a crystalline form.<br><br><br>The inhabitants were able to escape into space using small capsules.<br><br>The player is a shadowy being who belongs to the group of original natives of the planets. By using the Bearealium, this being can teleport out of the capsule onto the back of a giant worm. There are three different types of worms - sand worms on Arenosus, swamp worms on Palus and ice worms on Gelid.<br><br>Riding on the worm, the player fights against the colonial troops and tries to liberate the planets.<h2 class=\"bb_tag\" >Prototype</h2>For the prototype, the game mechanics, level hub and a first level of the desert planet were implemented. The further developed final version should contain all three planets with ten levels each.<br><br><br>The space capsule acts as a hub for the individual levels. A holographic display shows the desert, ice or swamp planet and later allows the selection of the region on the current planet. Below the display are buttons - the left and right can be used to change the current planet, the middle one starts the teleportation to the planet.<br><br>After the teleportation you are on the worm. The left hand shows the life energy, the right hand shows the progress in the level. The rods are the reins for steering and can be picked up with the grip button of the controller. Riding over the crystals increases the amount of time you have left to finish the level. In the lower center you can see the remaining time. When the countdown is over, you will be teleported back to the hub.<br><br>A first type of enemy has already been built into the level. The bombs can be deflected with the rods. More enemies will follow in later levels, stylistically they will be based on the first one with simple geometric shapes.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660980/header.jpg?t=1671120590",
+    "developers": [
+      "Beareality UG (haftungsbeschränkt)"
+    ],
+    "publishers": [
+      "Beareality UG (haftungsbeschränkt)"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

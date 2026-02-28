@@ -1,0 +1,89 @@
+{
+  "848050": {
+    "name": "GP Bikes",
+    "steam_appid": 848050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "GP Bikes is a realistic motorcycle simulator, based on a scratch built physics engine that accurately simulates motorcycle dynamics and setup options.<br><br>GP Bikes also allows to host and join online races. During events data is collected, to provide statistics for riders' comparison.<br><br><u>Please note that there are neither AI nor a career mode.</u><br><br>More features:<br><ul class=\"bb_ul\"><li>automotive industry-standard tyre model<br></li><li>chassis flex simulation<br></li><li>dynamic track surface groove buildup<br></li><li>wet track simulation and dynamic drying<br></li><li>dynamic marbles generation<br></li><li>tyres pickup of marbles, grass and dirt, affecting grip<br></li><li>user-selectable rider gestures<br></li><li>output of CSV files with telemetry data to analyze riding sessions<br></li><li>a plugins interface allows external programs to receive realtime data from the simulated bike<br></li><li>LAN and online racing. Dedicated server available<br></li><li>possibility to paint bike, helmet and suit<br></li><li>tools and documentation are provided to allow advanced users to build and integrate new tracks, bikes, helmets and more<br></li><li>Native Oculus Rift and SteamVR ( HTC Vive, Valve Index ) support.<br></li><li>FreeTrack support<br></li><li>EDTracker support</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848050/header.jpg?t=1700585971",
+    "developers": [
+      "PiBoSo"
+    ],
+    "publishers": [
+      "PiBoSo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

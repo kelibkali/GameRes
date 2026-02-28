@@ -1,0 +1,105 @@
+{
+  "1477830": {
+    "name": "HudSight - 十字线覆盖",
+    "steam_appid": 1477830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在任何游戏中添加自己的十字准线！您可以从一组预置十字准线中使用十字准线，也可以创建自己的十字准线或使用我们社区创建的十字准线。<h2 class=\"bb_tag\" >特点</h2><ul class=\"bb_ul\"><li><strong>渲染</strong> # HudSight 可以使用老式的钩子技术，也可以通过 Microsoft Game Bar 扩展或我们的真实叠加技术使用安全的方法。<br></li><li><strong>生成器</strong> # 通过改变生成器中的各种参数，您可以快速设计十字线。<br></li><li><strong>图像编辑器</strong> # 光栅编辑器允许您绘制任何不寻常的十字线。<br></li><li><strong>图像</strong> # 从磁盘导入任何图像作为十字准线。<br></li><li><strong>创意工坊</strong> # 使用 Steam 社区创建的十字准线或共享您自己的十字准线。<br></li><li><strong>多十字准线</strong> # 使用热键绑定快速切换十字准线或切换十字准线的可见性。<br></li><li><strong>偏移、比例、倾斜</strong> # 为每个十字线设置一个与屏幕中心的偏移、十字线的比例或倾斜度。</li></ul><br>我们软件的核心功能是覆盖渲染技术，它既适用于全屏独占模式，也适用于窗口模式。众所周知，在全屏模式下运行游戏可以获得更好的性能和尽可能低的输入延迟。但常见的 “顶部 ”覆盖工具存在一个问题。它们无法在全屏模式下运行。HudSight 可以做到这一点。<br>此外，HudSight 还拥有特殊的叠加渲染能力，可使用自己的 «Game Bar» 扩展。对于害怕钩子的游戏（防作弊）来说，这是更安全的技术。您不喜欢游戏吧？使用我们的 «Real Overlay» 模式绘制覆盖图，«如同 Game Bar»，但没有 Game Bar。<br><br>HudSight 支持基于 DirectX 9、10、11、12、OpenGL 和 Vulkan 图形的游戏。欢迎 32 位和 64 位游戏。它适用于 Windows 10/11。",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 保加利亚语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 瑞典语<strong>*</strong>, 泰语<strong>*</strong>, 土耳其语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/header.jpg?t=1756228884",
+    "developers": [
+      "Eduard Kozadaev"
+    ],
+    "publishers": [
+      "Eduard Kozadaev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Try everything",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/c929eb7b82adbbac93b3c513c46a79b4a88b32ce.jpg"
+        },
+        {
+          "name": "Creator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/21b50bd80eee540e054788ff787afd1bd6d3b6dc.jpg"
+        },
+        {
+          "name": "Fast hands",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/77b0b13cb485051cc6e31446c73e410b860a0a0a.jpg"
+        },
+        {
+          "name": "Not sure?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/505c3019fdb81423522fd17abd142153ac1e0069.jpg"
+        },
+        {
+          "name": "Memory eater",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/f2f4a7e788ba2571b65e8116d1a82f73f2965ab0.jpg"
+        },
+        {
+          "name": "Halloween",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/e3e0b86c0bc3c31eac17daf2e05962a74c5098cc.jpg"
+        },
+        {
+          "name": "Multi-target",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/539972572dbeabe31e6572891bc2dc0b6882e7be.jpg"
+        },
+        {
+          "name": "Be ready",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1477830/7bba01657648853a47c936ba49430adbda6f3b53.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 106,
+      "total_negative": 53,
+      "total_reviews": 159
+    }
+  }
+}

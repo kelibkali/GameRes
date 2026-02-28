@@ -1,0 +1,105 @@
+{
+  "576030": {
+    "name": "MHRD",
+    "steam_appid": 576030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><u>Welcome to Microhard</u></strong><br>- Become a hardware engineer<br>- Join the hardware startup Microhard<br>- Immerse yourself in the technology of the 80's<br>- Disrupt the tech industry<br><br><strong><u>Build your own CPU</u></strong><br>- Design hardware circuits with the integrated hardware development environment<br>- Write your designs in the MHRD hardware design language<br>- Create hardware designs based on more than 20 specifications (e.g. multiplexer, adder, ALU, RAM, etc.)<br>- Simulate and verify your designs<br>- Read the included manual to get started on your career as a hardware engineer<br>- Reuse completed hardware designs to build more complex ones<br>- Design a fully functional CPU and get your mind blown!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/header.jpg?t=1707994633",
+    "developers": [
+      "Funghisoft"
+    ],
+    "publishers": [
+      "Funghisoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "What's well begun, is half done",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/a7129ce2102abf5511dac19ba12f6e5da2b81285.jpg"
+        },
+        {
+          "name": "How I met Ted",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/e7356042ad5fda3a6004de96e63d45573994eb3e.jpg"
+        },
+        {
+          "name": "To be or not to be = TRUE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/1645c9c299aae500d769d41eb053e03a63be88d5.jpg"
+        },
+        {
+          "name": "If you have a cat and the cat is a mother... is the cat your mother?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/4ae3b0963b0ff40c17f5ebd149c839a93acc8382.jpg"
+        },
+        {
+          "name": "1 + 1 = 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/e74c9f6219602ffa4d10b22d78c462c2dd14a187.jpg"
+        },
+        {
+          "name": "Where did I leave my keys?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/365e739a0efbfbbf7cbaf732d15accea8f3accf6.jpg"
+        },
+        {
+          "name": "Look at me, I built a CPU!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/576030/28605ed2cf5f22baab96f6fb82b65db4e169854a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 62,
+      "total_negative": 5,
+      "total_reviews": 67
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "440470": {
+    "name": "Absence",
+    "steam_appid": 440470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><i>Absence</i></strong> is a horror\\survival game that will make you question the people, <br>and things around you. <br><br>You've awakened in a bathroom, only knowing that someone has left to the main office to get you help.<br>Take a look around you, navigate through the area and meet your friend in the office.<br>There is a strange sense of something missing around you. <br><br>what were you doing there? where is <i>there</i>? <br>can you remember who you are? who's leaving you notes? <br>can you get to the main office? or out of the park?<br>will you find out what is missing? or will you go missing too?<br><br>&amp; on top of everything else, what is that noise...?",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440470/header.jpg?t=1455222934",
+    "developers": [
+      "Samuel Sprague"
+    ],
+    "publishers": [
+      "Samuel Sprague"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 2 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "PhotoCollector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440470/79113d8e9aa6627b25fa7d691f3e933310289bb0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

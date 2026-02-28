@@ -1,0 +1,109 @@
+{
+  "731920": {
+    "name": "Government Simulator",
+    "steam_appid": 731920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The game simulates a whole country: Population, debt, GDP, economic growth, unemployment, crime, life expectancy, birth rate, mortality rate, state of the infrastructure and so on. The player can adjust budgets, taxes, laws, and see what the outcome is.<h2 class=\"bb_tag\" >Real World Data</h2><br>The game is running on real-world data. Meaning everything is based on real values: If you play as the USA, the debt, income, expenditures, crime rate, unemployment rate, etc. you start with is based on the actual, real values of the USA. For example if you lower a tax rate, you'll see what the simulation calculates as new values afterwards, in dollars, people, crimes per 100.000, interest rate, life expectancy in years, and similar.<h2 class=\"bb_tag\" >Gameplay</h2><br>There are goals to fulfill, like decreasing the crime rate or achieving a certain public health or education rating, but it is already interesting to try to fiddle with the various options alone: What happens if you lower the minimum wage? What if you change the length of maternity leave? Or the retirement age? You can also do more serious changes like introducing censorship laws, compulsory military service, cash bans, or universal basic income.<br><br>There are military options, so you can start a war with any country in the world, and adjust its operation mode while the conflict is active. But be sure not to let it run out of control. Some countries for example also have a nuclear option, of course.<br><br>The game also includes a media and public relations system, where you can read the most interesting headlines, and try to influence the media with PR stunts, interviews, and similar.<h2 class=\"bb_tag\" >Countries</h2><br>You can play as the USA, Germany, United Kingdom, Russia, France, Switzerland, and Austria: These are the countries the simulation was implemented and tested to work nicely. But there are also additional countries and scenarios which can be downloaded. It is also possible to create new countries and scenarios on your own and share them with others.",
+    "supported_languages": "英语, 德语, 法语, 意大利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731920/header.jpg?t=1567514420",
+    "developers": [
+      "Ambiera"
+    ],
+    "publishers": [
+      "Ambiera"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Re-Elected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/575392f5dcfc92e8dc1f9945b373bf3911cd6452.jpg"
+        },
+        {
+          "name": "Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/8d794cd648db8fd976cfb462f6a408bc64ec5bc0.jpg"
+        },
+        {
+          "name": "Fixed USA ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/4be258998f9245abffdfe87a1213189155463599.jpg"
+        },
+        {
+          "name": "Fixed Germany",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/8cc8ee293f122c1d8e1a563e12a735d6b1f4b9e9.jpg"
+        },
+        {
+          "name": "Fixed Russia",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/03e6b8d704530a342a42b4374e8365c711c19fea.jpg"
+        },
+        {
+          "name": "Fixed Austria",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/d8c5635069b172c6cef2f3900b2c02bf2e20ea24.jpg"
+        },
+        {
+          "name": "Fixed France",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/0ba79eafaa024493f4c2bf14cbafa087392f104d.jpg"
+        },
+        {
+          "name": "Loved Government",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/565afa7533d142ee85b7fef93ef05f41fa143908.jpg"
+        },
+        {
+          "name": "Master of Spending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/e866c8d1eb34ffb2fcba9352823dde8378c11899.jpg"
+        },
+        {
+          "name": "Wealth and Comfort",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/731920/7154f6945ab9eaa0eca6bcf14c801ce1d93c340c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

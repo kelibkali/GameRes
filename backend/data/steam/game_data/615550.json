@@ -1,0 +1,113 @@
+{
+  "615550": {
+    "name": "StratoBash",
+    "steam_appid": 615550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Welcome to StratoBash!</h2><br>Want to win some cash? Up for a game of StratoBash? Good luck getting to the top, you'll need it!<br><br>Puzzles, combatants, earthquakes, wind storms, explosive traps &amp; more will stand in your way. Complete each island's requirement to ride a portal up to the next. The quicker you move &amp; the better your stats -- the better your prize will be.<br><br>The more damage you take, the easier it will be to be knocked off. Same goes for your enemies, whose eyes will grow redder from each hit.<br><br>... now what to do about that big mysterious ship?<h2 class=\"bb_tag\" >VR Support</h2><br><strong>If you have a VR headset &amp; tracked controllers,</strong> you can throw the bashers -- the harder the throw, the harder the knock! When landing a hit, extra bonus throws will be made for you.<br><br>StratoBash uses a hybrid &quot;dash teleport&quot; system to prevent nausea while still allowing the player to move. You can teleport to nearby locations &amp; enemy knocks will be applied as additional, forced teleports.<h2 class=\"bb_tag\" >No VR? That's OK!</h2><br><strong>If you do not have a VR headset,</strong> StratoBash is still completely playable with a mouse &amp; keyboard.<h2 class=\"bb_tag\" >Modding Support</h2><br>You can edit &amp; import your own models to help construct levels (by modifying the contents of the TerrainParts local directory). Also, you can rewrite the word puzzles (by modifying the Riddles/lines.txt file). Read more about this in the discussion forums!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615550/header.jpg?t=1532439727",
+    "developers": [
+      "Phr00t's Software"
+    ],
+    "publishers": [
+      "Phr00t's Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "StratoBash Control Decommissioning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "A winner is you!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "No Fall Completion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "No More than 10 Falls",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "No More then 5 Falls",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "One Hour Speedrun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "45 Minute Speedrun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        },
+        {
+          "name": "35 Minute Speedrun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615550/3901918f3b581b5eb870ef541107605663041b3b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

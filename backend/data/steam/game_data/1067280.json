@@ -1,0 +1,89 @@
+{
+  "1067280": {
+    "name": "ReflexShot",
+    "steam_appid": 1067280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款练枪的小软件，他有两个简单的练枪模式。一：打靶练习。二：打小球练习。 游戏内包含两把步枪一把手枪。可自由调整准星、伤害、子弹数量模式、难度模式。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067280/header.jpg?t=1585999418",
+    "developers": [
+      "Thousand Nights Studio"
+    ],
+    "publishers": [
+      "Thousand Nights Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "击中100次靶子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1067280/729140ba5e4c06c6c4c0ec350419f39b89571394.jpg"
+        },
+        {
+          "name": "击中100次球",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1067280/e0f5e721406501c271d5112066f7660c25795153.jpg"
+        },
+        {
+          "name": "击中10次靶子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1067280/6a08fa0a2fd2adeb650ca5462508c49bfba4b79a.jpg"
+        },
+        {
+          "name": "击中10次球",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1067280/0450a98d525575b759ac8e44bca6d0d729996127.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

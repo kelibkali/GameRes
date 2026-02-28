@@ -1,0 +1,117 @@
+{
+  "1499030": {
+    "name": "3D辉针城",
+    "steam_appid": 1499030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此游戏是东方project的二次创作<br />\r\n<br />\r\n3D辉针城是一款自由视角的飞行射击游戏,你将操作博丽灵梦,雾雨魔理沙,十六夜咲夜前去寻找并击败引发异变的元凶<br />\r\n本游戏将复刻原版辉针城的故事剧情,灵梦,魔理沙,咲夜的道具似乎变得有点不一样了,于是3人踏上了前往调查的旅途<br />\r\n<br />\r\n全方位的操作方式不再局限于竖屏横屏,全屏幕立体的弹幕会给您带来不一样的体验<br />\r\n人物的移动方式从原版的上下左右  变成前后左右上下的立体方式,能让你体验飞行乐趣的同时能更快乐容易的躲避弹幕<br />\r\n<br />\r\n颠覆传统的弹幕方式<br />\r\n从前三维的大量弹幕会消耗大量计算机性能,但是采用Unity的ECS+Jobs+Burst的配合下能以相当高性能的方式为大家展示尽量多的弹幕<br />\r\n经过测试GTX1060显卡能为100w弹幕保持流畅运行(20帧)<br />\r\n因此我们能放开手脚的设计尽量符合原作的弹幕<br />\r\n<br />\r\n精简的游戏系统<br />\r\n本游戏从设计之初就摈弃了复杂了装备,道具,养成系统,让玩家从枯燥的刷刷刷游戏中解脱出来,放松的体验游戏的快乐",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1499030/header_schinese.jpg?t=1633264921",
+    "developers": [
+      "ST.Games同人游戏社团"
+    ],
+    "publishers": [
+      "ST.Games同人游戏社团"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "咱是最强的",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/ffb240621cba722582ca2b037e32440ebfd3299f.jpg"
+        },
+        {
+          "name": "真正的东方玩家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/c4de7a302fbb9434293d2e7314b833637ea74d94.jpg"
+        },
+        {
+          "name": "欺负弱者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/eeee8dbda66180f2fd0391860e39808220eccdb3.jpg"
+        },
+        {
+          "name": "善良的弁弁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/b42b7e0c07ab963ff2cc3c544249526bfb9b91d6.jpg"
+        },
+        {
+          "name": "名副其实的一寸法师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/ac61e4678563388d123409481a7dc9d2abc3a83a.jpg"
+        },
+        {
+          "name": "弹幕要用心躲",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/f2b5668d0c5158442acef468354bf63fb4ad81ef.jpg"
+        },
+        {
+          "name": "下克上成功",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/223c98a63f849c49ca20322f2b8a70627336d748.jpg"
+        },
+        {
+          "name": "成为颠覆者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/161da7438a9cf11710d0875a8b6ead3a8d3c5853.jpg"
+        },
+        {
+          "name": "推翻幻想乡暴政",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/92f74d8b93e151c4271023aba4c91d9bef296570.jpg"
+        },
+        {
+          "name": "沉醉在鼓声中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1499030/2fcb56bc40c6710b4f5c72f4f746610c5d97d961.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    }
+  }
+}

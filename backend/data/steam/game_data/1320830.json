@@ -1,0 +1,85 @@
+{
+  "1320830": {
+    "name": "Электричка",
+    "steam_appid": 1320830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "紧急制动 [休闲，独立，视觉小说]<br><br>美妙的气氛？迷人的剧情？众多的分支剧情？——在这个游戏里一个都找不到。<br><br>关于一个少年早晨的时候在被冰雪覆盖的火车上旅行的简短视觉小说。<br>-----------------------------------------<br>翻译 ： 紫纱云璃<br>校对 ： FancyM",
+    "supported_languages": "俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1320830/header.jpg?t=1596719907",
+    "developers": [
+      "NiaR"
+    ],
+    "publishers": [
+      "NiaR"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Брр",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1320830/05150a1535bb02830dc97cdfb0915f4b1b027d57.jpg"
+        },
+        {
+          "name": "Школьный монстр",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1320830/806262fca0fbdcc93b4d91d581f596d3a71aea6e.jpg"
+        },
+        {
+          "name": "Попадос",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1320830/6be2df639efe657aee2274977039e1403b9749a7.jpg"
+        },
+        {
+          "name": "И это всё?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1320830/00fbf6a8c37fe3df1ba1931da4f7286691e43a3d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

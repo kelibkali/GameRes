@@ -1,0 +1,73 @@
+{
+  "1653420": {
+    "name": "Train Travel Simulator",
+    "steam_appid": 1653420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Simulator of travel in the carriage of a passenger train across Russia. Explore the vastness with the sound of train wheels! Walk around the cars, rest and sleep, look out the window, do whatever you want.",
+    "supported_languages": "英语, 俄语, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1653420/header.jpg?t=1745605225",
+    "developers": [
+      "Stop-TussiN"
+    ],
+    "publishers": [
+      "Stop-TussiN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 540,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 5.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Traveler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1653420/19f49fad07bbdea8a5035e70958945db02eed2ee.jpg"
+        },
+        {
+          "name": "Toilet lover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1653420/c441f4482ac94cc1d1e67b459df78ab2ae5e6518.jpg"
+        },
+        {
+          "name": "When frozen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1653420/50df3260c6af7a16e7ceaa655b427ff49fb70095.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

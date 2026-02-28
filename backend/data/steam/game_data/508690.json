@@ -1,0 +1,81 @@
+{
+  "508690": {
+    "name": "AnimVR",
+    "steam_appid": 508690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>TRADITIONAL ANIMATION - ALL AROUND YOU</strong><br>Hand-drawn animation in VR combines the best parts of traditional animation with the advantages of digital content creation tools. Jump right into story telling, without worrying about topology, rigging or skinning. <br>Create environment layouts, 3D story boards, animatics and whole experiences!<br>According to industry animators, drawing 3D story boards in VR is just as fast as the traditional 2D workflow, but it gives you the freedom to move the camera anywhere you want!<br><br><strong>TELL STORIES - FOR VR IN VR</strong><br>We've worked hard to make storytelling straightforward and fun. Lay out your shots in AnimVRs timeline, fade layers with customizable transitions and sync your animation to music or dialog!<br>Our cinematography tools allow you to record camera movements with a digital steady-cam system, cross fade between shots and easily preview and tweak Stereo 3D settings.<br>Record and edit audio directly in AnimVR using the headset, or any connected microphone!<br>You don't even have to leave VR to create the final executable! AnimVRs Story Export allows you to compile your experience into an executable that you can freely share.<br><br><strong>USE THE TOOLS YOU KNOW AND LOVE</strong><br>Wether you are used to working in Maya, Houdini, Blender or even Unity, we provide exporters and importers so you can easily integrate AnimVR into your production pipeline.<br>AnimVR natively supports importing many standard file formats, from FBX and OBJ over GTLF to Universal Scene Description (USD) files.<br>Export your animations as Alembic Cache or USD and continue working on them in traditional content creation tools. Thanks to our Unity Toolkit you can directly use your stage files in Unity, no export or import required.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508690/header.jpg?t=1585649745",
+    "developers": [
+      "NVRMIND"
+    ],
+    "publishers": [
+      "NVRMIND"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9000,
+      "final": 9000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 90.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "842340": {
+    "name": "BlindMaze Demo",
+    "steam_appid": 842340,
+    "required_age": 0,
+    "is_free": true,
+    "description": "You are inside a maze, but you cannot see the maze, you only can see your position inside the maze, use your memory to keep the track of the maze and reach the goal.<h2 class=\"bb_tag\" >Keys:</h2><br><ul class=\"bb_ul\"><li> You only can move horizontal or vertical (not diagonal)<br><br></li><li> The indicator of your position turns red when you touch a wall<br><br></li><li>Non-Linear gameplay, you can skip some levels if you want to.</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 捷克语, 简体中文, 繁体中文, 韩语, 丹麦语, 芬兰语, 希腊语, 荷兰语, 匈牙利语, 日语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 瑞典语, 泰语, 土耳其语, 乌克兰语, 阿拉伯语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842340/header.jpg?t=1659617187",
+    "developers": [
+      "Alfa-Omega"
+    ],
+    "publishers": [
+      "Alfa-Omega"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

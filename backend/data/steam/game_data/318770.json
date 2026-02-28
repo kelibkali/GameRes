@@ -1,0 +1,61 @@
+{
+  "318770": {
+    "name": "Deep Fritz 14 DLC",
+    "steam_appid": 318770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is the Deep Fritz 14 multi-processor engine. Fritz 14 is available with two versions of the chess engine: The “standard” single processor engine (included in Fritz 14), which utilizes one processor for all calculations and only one core of any multi-core processor.  For ultimate performance the team at ChessBase has developed the Deep Fritz 14 multi-processor engine, which utilizes multiple processor cores for hyper speed calculations.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Completely redesigned 64 bit engine<br></li><li>Supports up to 8 processors <br></li><li>Packs almost 100 ELO points more than the previous version <br></li><li>Play better faster with the world’s number 1 Chess Engine!</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 荷兰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/318770/header.jpg?t=1447363199",
+    "developers": [
+      "ChessBase"
+    ],
+    "publishers": [
+      "Viva Media"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 9 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

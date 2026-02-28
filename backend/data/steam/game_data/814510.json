@@ -1,0 +1,113 @@
+{
+  "814510": {
+    "name": "1248",
+    "steam_appid": 814510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "【全球首创数字消除玩法！】<br />\r\n<br />\r\n【特色】<br />\r\n◈数字的魅力，消除的快感！一切尽在《1248》中;<br />\r\n◈全新玩法，让你体验更刺激的游戏快感；<br />\r\n◈清新美术风格，极简艺术体验；<br />\r\n<br />\r\n【玩法规则】<br />\r\n◈左右滑动移动数字.<br />\r\n◈向下滑动生成数字.<br />\r\n◈向上滑动消耗1颗宝石刷新当前数字.<br />\r\n◈上下左右相同的数字会自动消除.<br />\r\n◈每合出一个1024即获得1颗宝石.<br />\r\n<br />\r\n【特别感谢】<br />\r\n所有的玩家，真心谢谢你们的支持！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814510/header.jpg?t=1670161327",
+    "developers": [
+      "taecg"
+    ],
+    "publishers": [
+      "taecg"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "最大合成256",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/0c95c6466ac24409a86df7b44a7456bed3224e7e.jpg"
+        },
+        {
+          "name": "最大合成512",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/8ca36fe95d18f9ea436ece69ec44cd4c0115d87c.jpg"
+        },
+        {
+          "name": "最大合成1024",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/83dc8465798d0db263fe7b9206fd6b20db6c10d5.jpg"
+        },
+        {
+          "name": "最大合成2048",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/6112f22fd44f902f240727baee14bf6aff0bd0e5.jpg"
+        },
+        {
+          "name": "最大合成4096",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/cb7add8a281d1a8d687b89169fc8eabafc64f3e3.jpg"
+        },
+        {
+          "name": "最大合成8192",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/a4ff876c40434df597bf2958d47221eeb18e2c74.jpg"
+        },
+        {
+          "name": "游玩500次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/257c7b85ce2272e7f5a6f5ba014a821de0bdd9d1.jpg"
+        },
+        {
+          "name": "最高分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814510/8748d10f1b47525f98c322328a5def4d2e938936.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

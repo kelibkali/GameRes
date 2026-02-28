@@ -1,0 +1,69 @@
+{
+  "1181900": {
+    "name": "洞穴甜品师",
+    "steam_appid": 1181900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "您是一个食欲旺盛的洞穴居民。 仅使用最简单的工具，您便可以建立甜点帝国。 收集，处理和合并成分。 用明火做饭。 探索一个开放的世界，找到美食家客户。<br><br>洞穴甜品师是一种返乡耕作和烹饪的游戏。 工艺的东西。 卖东西。 了解当地人。<h2 class=\"bb_tag\" ><strong>探索开放世界</strong></h2><br>温带的气候使农作物生长迅速，食物丰富。 蜿蜒穿过草地或冲刺向前，尽你所能。<h2 class=\"bb_tag\" ><strong>结合成分</strong></h2><br>直观的制作系统至少可以让您<i>尝试</i>将所有内容与所有内容组合在一起，无论这些物品是否在一起。 将天然成分与人造物品和世界固定装置相结合。 数十种最终产品是由独特的配方形成的，只有正确的组合才能生产出产品。<h2 class=\"bb_tag\" ><strong>选择自己的路</strong></h2><br>手工制作东西，把食物卖给穴居人，戳一戳，看看大自然如何反应。 没有“任务”对话框告诉您要去哪里。 进步是通过秘密和探索来实现的。<h2 class=\"bb_tag\" ><strong>建造时间长产物</strong></h2><br>使用了自定义的C++/OpenGL引擎，使用MinGW构建了Windows可执行文件，针对特定的glibc版本构建了Linux可执行文件，并在其中进行了测试 最新版本的Ubuntu。 除Steam之外，没有第三方专有软件。 任何中断的问题都是可以修复的。",
+    "supported_languages": "英语, 繁体中文, 希腊语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/header_schinese.jpg?t=1724280812",
+    "developers": [
+      "Motor Strip Entertainment"
+    ],
+    "publishers": [
+      "Motor Strip Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

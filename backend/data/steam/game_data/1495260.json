@@ -1,0 +1,113 @@
+{
+  "1495260": {
+    "name": "Fly The Cloud",
+    "steam_appid": 1495260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "乘在云上，在天空自由翱翔。<br />\r\n只要站在云上，你就可以通过改变你的位置来操控云，躲过各种障碍，在限制时间内到达终点。<br />\r\n<br />\r\n在游戏中，你需要依次通过多个检查单然后到达终点，屏幕上的指南针会指示出下一个目标。如果你在途中不幸坠落，你可以在最近的检查点复活。<br />\r\n<br />\r\n- 第三人称3d动作游戏<br />\r\n- 基于物理的系统<br />\r\n- 支持最大4位本地玩家在分屏模式下竞速",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495260/header.jpg?t=1612285355",
+    "developers": [
+      "J.S.Void"
+    ],
+    "publishers": [
+      "J.S.Void"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "All Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1495260/8f58e3ac13fa9d3df3e9e3abea90c91bc7caf075.jpg"
+        },
+        {
+          "name": "Survival 3Min",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1495260/c1a4bfc342d82220ebff16accd1374765f1cee9b.jpg"
+        },
+        {
+          "name": "Survival 5Min",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1495260/ce78949edbfcf9f1cd8d52a83419543b7b647eeb.jpg"
+        },
+        {
+          "name": "Survival 10Min",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1495260/45fdec75bf2c76b7d31234a565e8eef5e7f923de.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

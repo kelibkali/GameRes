@@ -1,0 +1,117 @@
+{
+  "635410": {
+    "name": "冒险者与背包",
+    "steam_appid": 635410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本游戏为个人开发的小型益智类游戏，请勿给予过多期待。对于我来说，只要这个游戏比上一个游戏要好，我就完成了自己的目标。<br />\r\n不喜欢休闲小游戏的请谨慎购买，2小时内可通过Steam退款。这游戏非常直白简单，体验一把绝对花不到2小时。<br />\r\n游戏已经完成，要开始计划下一个游戏了。今年的进度确实慢了一些。<br />\r\n另外感谢因支持我而购买游戏的朋友。rua！<br />\r\n<br />\r\n-------------------------------------------------------------------------------<br />\r\n这不是RPG游戏，没有剧情。这也不是放置点击类游戏，你光放着不动什么也不会变，不动脑乱玩也会死的很快。这个游戏主要玩法就是道具选择与组合，通过不断更新道具来挑战更多天数。前期怪物重复多，是因为厉害的怪物放在后面才出现，如果前面就出现一下就挂了。前期主要是一个补给时间。背包格子数有限制也是难度所在。<br />\r\n-------------------------------------------------------------------------------<br />\r\n这是一款风格较为搞怪的冒险游戏，不同模式有着不同的游戏目标，总体操作不变。<br />\r\n本游戏拥有随机种子模式，不同电脑（暂不知是否有系统影响）输入相同的随机种子即可开启同样怪物，同样奖励的关卡，在限定时间中，看谁能挑战更多的天数，可获得一些竞赛的乐趣。<br />\r\n<br />\r\n操作说明：<br />\r\n1.背包或装备中的道具用鼠标左键拖动放置。<br />\r\n2.鼠标右键为道具的食用。<br />\r\n3.按下背包按钮可以升起背包面板查看所有道具。<br />\r\n4.每次游戏玩家死亡就会立即结束，每个不同模式有不同的结算方式。<br />\r\n5.遇见怪物有三种操作选择：<br />\r\n   ·攻击 —— 攻击怪物，可能会被闪避或者暴击。根据速度大小决定谁先攻击。<br />\r\n   ·逃跑 —— 根据速度大小判断逃跑的成功率，逃跑成功后可以进入下一天，但是无法获得任何奖励。<br />\r\n   ·用金币解决 —— 直接消耗一定量的金币，不战而胜，可以获得奖励。其需要消耗的金币数即是奖励的购买价格总和。<br />\r\n6.每隔10天即可遇见一次商店，按住CTRL用鼠标左键点选道具即可快速卖出。道具仅能在商店出现时出售。<br />\r\n<br />\r\n数值相关：<br />\r\n1.普通伤害的计算 ——（进攻方的物理攻击-受击方的物理防御）+ （进攻方的魔法攻击-受击方的魔法防御）= 普通伤害。也就是说魔法攻击和物理攻击是同时生效的。<br />\r\n2.替换装备不会导致当前生命值的减少，可以放心更换。<br />\r\n3.可获得的每种道具包含的属性类型不会变化，属性值会随着冒险的进行越来越高。<br />\r\n4.每种怪物有自身的属性特点，属性值会随着冒险的进行越来越高。",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635410/header_schinese.jpg?t=1667039778",
+    "developers": [
+      "疯王子"
+    ],
+    "publishers": [
+      "CrazyPrince"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 330,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.30"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 98,
+      "highlighted": [
+        {
+          "name": "熊孩子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/4f9426e0ab2d44b065088865d4439fdc1c03f10f.jpg"
+        },
+        {
+          "name": "熊妈妈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/cfe29e8c0735759b567436e87d4bad9b0d85ce71.jpg"
+        },
+        {
+          "name": "熊爸爸",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/64a7194605d0ecc31daf3cdf907d875588a32eaf.jpg"
+        },
+        {
+          "name": "圣母",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/2dae3b058ca3465750d84b248ce4911d23e688c3.jpg"
+        },
+        {
+          "name": "咸鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/0381e97edc50f057ae71e1a38d865b270b9cfbec.jpg"
+        },
+        {
+          "name": "鸡蛋花",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/c721b30243489773c814d652ef5aed4164f4ce7e.jpg"
+        },
+        {
+          "name": "辣椒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/ba0f996a5e50a576679034954814fa0ec479437f.jpg"
+        },
+        {
+          "name": "烂背心",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/fd7f68302e6d09c4b6e395f53778766733fa615a.jpg"
+        },
+        {
+          "name": "蓝色短裤",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/7efa61f84bcb96f8f4d02736ae7178a103b464b4.jpg"
+        },
+        {
+          "name": "臭豆腐",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/635410/28b5272b0373256435009864f10c13f750e8c8cc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 38,
+      "total_negative": 5,
+      "total_reviews": 43
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "674590": {
+    "name": "WakeUp!",
+    "steam_appid": 674590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Description</strong><br>WakeUp! is a casual rouge-like game placed in a hostile, fantasy, dream world, where the goal is to escape and save yourself.<br><br><strong>Synopsis</strong><br>You find yourself in the middle of the worst nightmare dreams. Nothing seems right. The room is all messed up and there is a weird monster crawling on the floor around you. You need to wake up as soon as you can using every resource you can muster. You can find various items hidden under the objects of the world. But, wait! Foraging under objects such as bushes and trees creates noise, which attracts more nasty monsters. Will you be smart and nimble enough to escape before they overwhelm you?<br><br><strong>Features</strong><br>Every run is unique! The game generates an infinite, procedurally generated world. Each room has a unique setting of objects and a specific type of monsters. A player can improve the chance of survival by gathering resources and managing their inventory. When used, gathered items improve player’s stats such as health, damage, armour and energy.  The world is large, but there are hints of exit location scattered around. <br><br><strong>Parameters</strong><br><ul class=\"bb_ul\"><li>Three difficulty levels: easy, normal, hard<br></li><li>Three game lengths: short, normal, long</li></ul><br><strong>Game mechanics</strong><br><br>Currently, we have the following major, player controlled, parameters in the game:<br><br><i>Health</i><br>As you would expect, a player loses health when in contact with monsters in a melee battle. The amount of damage is dependent on monster type and damage reduction given by worn clothing (armour). Health can be gained back by finding and applying health items such are bandages and first aid kits.<br><br><i>Energy</i><br>Energy is a representation of payer’s nourishment and decreases slowly during playtime. To counteract energy decay a player has to find and drink essences, which are scattered and hidden around the world.<br><br><i>Weapons</i><br>Various types of melee weapons offer different levels of damage dealt to monsters when used in combat. With a good weapon a player, can almost one-shot most of monsters. Trouble is, weapons are not durable and will often break, therefore it is recommended to maintain a good supply of weapons at all times.<br><br><i>Armour</i><br>Just like weapons, various types of armour offer different levels of damage reduction when worn on a player’s body. Top quality armour makes the player almost immune to any damage. Again, trouble is, armour is not durable and will often break. We recommend carrying one or two pieces extra in inventory at all times.<br><br><i>Bullets</i><br>The most secure way of dealing with monster is shooting them from range with a gun. Guns require bullets, which can be found scattered around the world. Use bullets sparingly; there is not enough bullets for every monster of this world.<br><br><i>Inventory space</i><br>A player will discover much more useful objects than they can carry around. Practice and strategy is required to decide which ones to keep and which ones to leave behind.<br><br><br><strong>Current status of the game</strong><br>The game is in early alpha stage although the main scenario is already playable from start to end.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674590/header.jpg?t=1573580133",
+    "developers": [
+      "Upercon Studio"
+    ],
+    "publishers": [
+      "Upercon Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

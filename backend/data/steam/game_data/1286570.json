@@ -1,0 +1,65 @@
+{
+  "1286570": {
+    "name": "极限流体动态壁纸",
+    "steam_appid": 1286570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "极限流体是一款充满艺术气息的可交互动态壁纸。当鼠标在桌面按下并划过时，它会绽放出惊艳的流体动画特效。顺滑逼真的流体特效还能让您身心得到放松。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>支持创意工坊，一键下载各种精美流体特效主题。<br></li><li>支持Windows 10/8.1/8/7<br></li><li>支持自定义主题，丰富的设置选项，支持选择自己喜欢的图片作为背景。<br></li><li>支持兼容模式：可以与其它任何动态壁纸软件一起使用，例如：WallpaperEngine,RainWallpaper等<br></li><li>支持游戏模式：当您需要100％动力进行游戏时，您只需在托盘菜单点击暂停动态壁纸，也可在设置中勾选“游戏时自动暂停壁纸”<br></li><li>支持多屏幕，支持带鱼屏和4K屏，在4K屏上动画也能如丝般顺滑。<br></li><li>支持任务栏亚克力模糊和完全透明 (for Win10) 。<br></li><li>代码深度优化，动画如丝般流畅, 使在低端显卡上也能流畅的运行.</li></ul><h2 class=\"bb_tag\" >常见问题集</h2>问：为什么看不到桌面图标？<br>答：1、请确认将操作系统的 “控制面板 -&gt; 系统属性 -&gt; 性能 -&gt; 视觉效果”设置为 “调整为最佳外观”<br>2、如果您有集成显卡，请设置为用集成显卡运行本软件<br>3、请确认系统开启了Aero效果(毛玻璃效果)<br>4、这是因为360等杀毒软件误报拦截导致遮挡了桌面图标，请将UltimateLowPolyPet .exe和CoreHost.exe以及App所在的文件夹加入到360等杀毒软件的信任白名单中,并重启电脑即可<br><br>问：可以与WallpaperEngine/RainWallpaper等动态壁纸软件一起使用吗？<br>答：可以！ 只需要在本软件的托盘右键菜单里点击启用“兼容模式”即可(屏幕右下角的WIFI图标旁边)。<br><br>问: 如何取消置顶模式? <br>答: 在本软件的托盘右键菜单里点击取消勾选“最前端显示”即可(屏幕右下角的WIFI图标旁边)。<br><br>问：如何才能不在Steam里面显示正在玩极限流体？<br>答：右键单击本软件的托盘图标(屏幕右下角的WIFI图标旁边)，然后选择菜单项“偏好设置...”，取消选中“启用Steam支持”，然后重新启动本软件。<br><br><br>问：如何退出/关闭本软件？<br>答：1. 您可以从任务栏图标菜单点击“退出”（屏幕右下角WIFI图标旁）。<br>2. 如果找不到任务栏图标，请打开系统任务管理器杀死进程“ UltimateFluid.exe”",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286570/header.jpg?t=1587689370",
+    "developers": [
+      "UltimateDesktop"
+    ],
+    "publishers": [
+      "UltimateDesktop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 2,
+      "total_negative": 4,
+      "total_reviews": 6
+    }
+  }
+}

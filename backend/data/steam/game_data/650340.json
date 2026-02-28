@@ -1,0 +1,81 @@
+{
+  "650340": {
+    "name": "TublerVR",
+    "steam_appid": 650340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "TublerVR is a game designed for virtual reality. It's up to you to help the tublers to grow and collect the rare blue mushroom. Activate bridges with a simple touch and allow the tublers a save passage.<br><br>In this game you stand in the middle of a tubler mushroom village. There you will take control of every tublers path simply by using your wand (controller) to activate and deactivate the bridges you want. Just touch the switches at the poles around you to activate a bridge. <br><br>A switch can have different colors indicating its current state <br><ul class=\"bb_ul\"><li>white: not selected, not activated<br></li><li>red: selected, not activated<br></li><li>green: possible connection to the red switch<br></li><li>blue: connected</li></ul>If you want to activate a bridge, touch/select a &quot;white&quot; switch so it turns red, then touch/select a green one and a bridge is formed. Be aware, bridges cannot be established crossing each other and they can't be formed at large angles. Touch a white switch and all possible connections are marked &quot;green&quot;.<br>To deactivate a bridge touch one of the blue switches<br><br>By selecting and activating the proper bridge-connections, you help the tublers to grow and collect the rare blue mushroom. A level is won if you were able to place 6 blue mushrooms in the mushroom shrine. The level is lost, if three tublers have fallen to their death.<br><br>Save the tublers!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/header.jpg?t=1540812319",
+    "developers": [
+      "Reto Kolly"
+    ],
+    "publishers": [
+      "SiliconWetware"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

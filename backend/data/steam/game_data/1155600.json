@@ -1,0 +1,69 @@
+{
+  "1155600": {
+    "name": "Retro RPG Online 2",
+    "steam_appid": 1155600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Retro RPG Online 2 - Alpha</h2><h2 class=\"bb_tag\" >PLAY FREE NOW AT:</h2><h2 class=\"bb_tag\" >INSTRUCTIONS:</h2><ul class=\"bb_ul\"><li> To Move you can can click on the Map, or use the arrow keys.<br></li><li> To Attack mouse click on the Monster or get within attack range and press Space bar.<br></li><li> To cycle through targets use keys T to target the closest Character or Y to reverse target.<br></li><li> Keys 1-4 for Skill Shortcuts.<br></li><li> Keys 5-8 for Consumables.</li></ul><h2 class=\"bb_tag\" >JOYPAD SUPPORT:</h2><ul class=\"bb_ul\"><li> It should have limited support for Game Controllers.<br></li><li> DPAD - Move Character.<br></li><li> Down Button to Attack.<br></li><li> Left Button to Target.<br></li><li> Top Button to activate Mouse Cursor the use DPAD.<br></li><li> Right Button to mouse click.<br></li><li> Hold Shoulder-Left Button then other Button A,B,X,Y to activate Skill shortcut.<br></li><li> Hold Shoulder-Right Button then other Button A,B,X,Y to activate Consumables.</li></ul><h2 class=\"bb_tag\" >COMMENTS:</h2><ul class=\"bb_ul\"><li> Game is in Alpha Stage.<br></li><li> This does not reflect the final product and features will be added later on.<br></li><li> Game Server wipes will only occur if there is significant disruption to Character data or the in-game economy due to exploits.<br></li><li> Gems that are purchased will be logged and will always be added despite any data wipes.</li></ul><h2 class=\"bb_tag\" >LINKS:</h2><strong>* DISCORD: </strong><br>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155600/header.jpg?t=1681907318",
+    "developers": [
+      "Joshua Langley"
+    ],
+    "publishers": [
+      "Joshua Langley"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

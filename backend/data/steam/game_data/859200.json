@@ -1,0 +1,121 @@
+{
+  "859200": {
+    "name": "破东荒",
+    "steam_appid": 859200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏目的为玩家操作不同英雄，历经轮回，平复六道之乱。所以丰富的游戏角色在这里显得尤为重要，我们用中国古代神话角色或常见人物还原为游戏角色，每个角色有其能体现各自特点的一个主动技能以及一个被动技能，使每个英雄都能有不一样的游戏体验。<br />\r\n<br />\r\n游戏中会随机获得各种玄奇招式，我们提取了中国武学招式的概念，使每种武器因为所用的功法不同而拥有不一样的攻击方式，这并不是单纯的切换了一种特效，而是在操作上也同样做出了不一样的体验。<br />\r\n<br />\r\n武器系统预设有五个种类的武器，所有角色都可以携带任意种类的武器。武器有大量的外形，以及独特的被动技能。<br />\r\n<br />\r\n我们参照了中国古代法宝进行设计，并尽可能的还原了其功能，使法宝都能有较有趣的操作体验，而不是换个特效，胡乱跳些伤害数值的伪体验。法宝是我们开发的重点之一，希望这能带给玩家真正的施展法宝的体验。<br />\r\n<br />\r\n还有能影响玩家各方面能力的被动以及天赋，会在游戏中随机获取，多种多样的搭配往往会有出其不意的效果。<br />\r\n<br />\r\n正式关卡共有六大关，分别为轮回六道。为了更贴近六道的概念，我们放弃了随机地牢房间式的经典玩法，改为一条路的关卡形式，各种机关算尽，以及大量的随机内容，等你挑战。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859200/header.jpg?t=1726287281",
+    "developers": [
+      "凌剑工作室"
+    ],
+    "publishers": [
+      "方块游戏(CubeGame)"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 51,
+      "highlighted": [
+        {
+          "name": "无尽轮回",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/d130410db2b58985656e68a5ca45f8298d8bb995.jpg"
+        },
+        {
+          "name": "地狱常客",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/2fb00c9b4550059152475ece19464027dec4880d.jpg"
+        },
+        {
+          "name": "长路漫漫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/d019f4fc36def5148585e41c4f3891c0797bfb60.jpg"
+        },
+        {
+          "name": "完美开场",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/af3a02cbcb12552da0b2391263f944c15ee2e7fa.jpg"
+        },
+        {
+          "name": "前路可期",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/b863fe62e4d064ce7308627c71c75076b3f66306.jpg"
+        },
+        {
+          "name": "仙家恩赐",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/8cd537bb45c05a98a420fe4e58c54aa85aa9d8f9.jpg"
+        },
+        {
+          "name": "古神余威",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/e3631766b97f147c50ce2eade3c33bd7f4be226e.jpg"
+        },
+        {
+          "name": "遗失至宝",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/5038428a93525de6c0d628f488b41590d7aa66ca.jpg"
+        },
+        {
+          "name": "荡涤六道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/9272b2a6ca61542e43a84e55959ce8a56686506c.jpg"
+        },
+        {
+          "name": "夜闯六道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/859200/bbb13a98cabf4529cd8c0625ba95140befe9a33c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 30,
+      "total_negative": 15,
+      "total_reviews": 45
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "1212320": {
+    "name": "异星前线 Alien Frontline",
+    "steam_appid": 1212320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >这是一款什么游戏？</h2>这是一款休闲小游戏，玩家一共有五架战机可以选择，每架战机都有自己的专属技能。<h2 class=\"bb_tag\" >战机都有什么？</h2>战机一共有五架，Fire、Shield、Boom、Wingman、Bug。通过游戏里的金币解锁。<h2 class=\"bb_tag\" >这款游戏的玩法是什么？</h2>玩家要控制战机尽量坚持尽可能长的时间，游戏里还有攻击道具可供拾取。当游戏结束会有时间和分数统计。<h2 class=\"bb_tag\" >具体说明</h2>玩家控制战机，在关卡里攻击敌机，同时还要避免被子弹击中，敌机一共分四种，无攻击模式、自主攻击模式、朝玩家攻击模式和特殊攻击模式。每种敌机又分出若干种敌机，比如攻击模式的敌机一共有三种，只发射一颗子弹和发射两颗子弹，还有发射若干颗子弹。朝玩家发射的也是如此。特殊攻击的敌机子弹不会伤害战机，但是战机被击中之后会有翻转控制和速度减慢的属性。场景里还会有机关，电网、传送门和导弹，会分时段出现，传送门可以让战机以对角的形式瞬移，电网触碰到战机会爆炸，导弹在发射之前会有激光警告。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1212320/header_schinese.jpg?t=1597826497",
+    "developers": [
+      "226GameStudio"
+    ],
+    "publishers": [
+      "226GameStudio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "坚实后盾",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/16a970720dc0e8755b386e3fb61b251b098c41f3.jpg"
+        },
+        {
+          "name": "空中炸弹",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/4c6f11b48b4ea14303001f510ae711e2ef13ad5b.jpg"
+        },
+        {
+          "name": "左膀右臂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/b6e92c61f66c93cea00fd1fc8ce1acf389c45635.jpg"
+        },
+        {
+          "name": "我花钱买了个必由技？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/b2f1ca4e256dabcc0be5c2484b2474a7c81a175a.jpg"
+        },
+        {
+          "name": "欲善其事 先利其器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/8847aefba0b7ab208d0ad72b40fdfe77d7116797.jpg"
+        },
+        {
+          "name": "因吹斯亭！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/06350f1c1d6f10533ef29fdbabd9e9544437efda.jpg"
+        },
+        {
+          "name": "初露头角！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/f8eac0d8c3e5b45d25681237fc960981020cfcd1.jpg"
+        },
+        {
+          "name": "大展身手！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/4373cbfeb92865666ad6cfd37a3d9690a3a21b17.jpg"
+        },
+        {
+          "name": "二妹子嘤！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/d41fd303056e40cf75cb4e4bc84463e6e35cbbe9.jpg"
+        },
+        {
+          "name": "扬名立万！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1212320/9cb411e6255ce454965de417dfce416b90de59cd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "385220": {
+    "name": "Pulut Adventure",
+    "steam_appid": 385220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Pulut Adventure</h2>Pulut Adventure 是一个2D的横版冒险游戏。<br>超过30个精心设计过的的关卡，各种游戏技能和系统。<br>游戏也加入了召唤系统和飞行模式来提升游戏的乐趣。<br>你可以通过打败怪物来解锁各种功能和获得各种特殊的技能和武器来闯关。<h2 class=\"bb_tag\" >游戏特点</h2><ul class=\"bb_ul\"><li>各种不同的敌人，每个敌人有不同的特点<br></li><li>武器系统，你可以更换各种不同的武器来攻击敌人<br></li><li>技能系统，你可以使用各种技能来攻击敌人<br></li><li>召唤系统，你可以召唤各种不同的怪兽<br></li><li>飞行系统，你可以随时随地的飞行<br></li><li>多达30个精心设计的独特关卡</li></ul><h2 class=\"bb_tag\" >游戏操作</h2><ul class=\"bb_ul\"><li>WASD控制角色移动<br></li><li>J使用剑攻击<br></li><li>按着SDJ使用剑气<br></li><li>K发射飞镖<br></li><li>按着SDK 使用超级飞镖<br></li><li>F开启飞行模式<br></li><li>L开启召唤系统（开启后WASD选择召唤的怪兽）</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/385220/header.jpg?t=1600157373",
+    "developers": [
+      "yayapipi"
+    ],
+    "publishers": [
+      "Yayapipi Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 500,
+      "final": 500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 5.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 7 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 5,
+      "total_negative": 3,
+      "total_reviews": 8
+    }
+  }
+}

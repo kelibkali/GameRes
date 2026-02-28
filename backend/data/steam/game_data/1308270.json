@@ -1,0 +1,48 @@
+{
+  "1308270": {
+    "name": "In-Home Streaming",
+    "steam_appid": 1308270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In-Home Streaming allows the user to watch .mp4 videos anywhere within the network. This is allowed through the use of an internet browser to allow the user to access any files that have been added. <br><br>In-Home Streaming copies the files that it will play, with this it is recommended to only store a small amount of files or use it on a drive with enough space.<br><br>* Only need internet browser to watch streams<br>*Copies the files from the location to the file<br>*Stream-able on all devices<br><br>Plans for the future include allowing it to be accessed on both macOS and Linux.<br><br>Watch your videos on your favourite web browser including: Chrome, Edge, Firefox, Safari and Opera<br><br><br><strong>How To Use App</strong><br>*Click the settings button<br>*Click the add button<br>*Enter a name that it is under and provide file path<br>*Click Save to add the changes<br>*Once all changes have been saved click on the Start button to start the server<br>*Type in the address to access file from website into the internet browser<br>*Click on the sub directory that you want<br>*Enjoy your movies<br>*If you want to delete a category later right click on the button in the software and it will delete it (This includes the files that were added)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308270/header.jpg?t=1591743825",
+    "developers": [
+      "In-Home Streaming Team"
+    ],
+    "publishers": [
+      "In-Home Streaming Team"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 9 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

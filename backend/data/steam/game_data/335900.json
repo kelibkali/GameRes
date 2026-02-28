@@ -1,0 +1,85 @@
+{
+  "335900": {
+    "name": "Angels of Fasaria: Version 2.0",
+    "steam_appid": 335900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fasaria天使已于2005年发布。在基于浏览器的游戏中，Angels of Fasaria进行了数千次下载并拥有超过4.8万活跃用户，因此一直保持忠实的关注和基本的支持。 在发布《 Fasaria World》和后来的《 Fasaria的远古人》之后，Fasaria的RPG天使和基于浏览器的游戏社区被关闭并停产。<br />\r\n<br />\r\n在大众需求下，并根据玩家的要求，现在可以在Steam上重新发行，并进行完全修改。<br />\r\n<br />\r\n享受开始它的史诗般的冒险！",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335900/header.jpg?t=1747163708",
+    "developers": [
+      "Fasaria World"
+    ],
+    "publishers": [
+      "Fasaria World"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 550,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 12 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Angel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/335900/9b5fd462e731f1edc86f24fa082083993ef71524.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

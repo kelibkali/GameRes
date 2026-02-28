@@ -1,0 +1,109 @@
+{
+  "652070": {
+    "name": "Bump+Smack",
+    "steam_appid": 652070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Bump + Smack是突破和弹球之间的交叉。球间隔时间释放，滚下桌子，准备下车。你的工作是把它们放在桌子上，落入目标。目标是达到目标与失误的百分比门槛，并获得最高分。<br><br><br><br>[H 2]详细说明[/]<br><br>游戏开始时，您是演播桌底部的穿梭板的操作者。球从桌子顶部的管道开始出现。一开始你只需要一次最多玩三个球。一旦你进球，或者球从球桌的底部滚下来，另一个球将被释放。<h2 class=\"bb_tag\" >挑战模式[/]<br><br>在挑战模式下，屏幕一侧的统计数据将显示整个游戏剩余的剩余球数。统计数据还将显示所创造的目标总数，乘数，“下一个”乘数，得分的目标百分比以及进入下一阶段所需的目标百分比。只要得分的目标百分比至少与目标百分比一样多，游戏将继续下一个阶段。一旦所有可用的阶段通过，游戏就可以回到第一阶段到另一轮。新一轮增加了弹跳球的难度，需要继续的比例更高，而且还有球员总数。游戏结束时，目标百分比低于一旦所有的球已经打分或已经脱掉了播放桌面所需的比例。<h2 class=\"bb_tag\" >连拍模式[/]<br><br>在连续模式下，您可以选择舞台，并尝试获得最高分。连续模式增加了一个“小姐”米，当球滚下桌子时会上升，当连续进球时下降。当“小姐”计数器填满时，游戏结束。<br><br>[H 2] +的Smack [/]<br>在这两种模式下都是一个“Smack”表。这样可以让您的手提板将桌子“轻轻一击”，尽量改变游戏中的球场。在某些情况下，时间很短的“微笑”可能意味着巨大的积分或失球之间的差异。<br><br>[H 2]计分[/]<br><br>目标位于整个舞台上，具有不同的点值：500点，相当可及。 750分是一点点困难。 1K（1000）分是困难的，5K（5000）是非常具有挑战性的。<h2 class=\"bb_tag\" >得分较高[/]<br><br>乘数是真正开始激增你的分数。在开始的阶段，所有目标的点值都是初始值。当您创建多个连续目标时，“下一个多重”统计数字列出的数字是乘数增加1。在这一点上，目标点值现在乘以乘数值。例如，在回合的开始，你有一个1x乘数，“下一个多”是三个。当连续3个目标时，乘数变为2倍。 500点目标现在值1000，750值1500，1K变成2K，5K变成10K！当乘数上升时，“下一个多重”也会上升，使下一个乘数水平更难达到。如果球滚下播放台或舞台以挑战模式结束，则倍增器将重置为1x。<br><br>[H 2]成就[/]<br><br>在挑战模式下，通过完成具体挑战可以获得成就。从主菜单访问奖杯室，以获得有关挑战的更多细节。</h2></h2></h2>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 韩语, 俄语, 简体中文, 繁体中文, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 瑞典语, 泰语, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652070/header.jpg?t=1502247359",
+    "developers": [
+      "Jason Sadler"
+    ],
+    "publishers": [
+      "PopNine Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "双倍",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/290713873fcb4ded6c01c6fef20c302a96d61668.jpg"
+        },
+        {
+          "name": "三重多",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/462e13333038493318d9e4949a233194d57395a9.jpg"
+        },
+        {
+          "name": "五个多",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/c540b6185ee8a26c09e6dbb7a8d2758b014f9019.jpg"
+        },
+        {
+          "name": "十多",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/0c459c2255a7e99148a3b7122b906776f2917013.jpg"
+        },
+        {
+          "name": "一分多",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/8581c7a88bda2120e899a823e5112e0465f00081.jpg"
+        },
+        {
+          "name": "500王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/28e708f6e126d6e0f060ab8332db763a201f65f3.jpg"
+        },
+        {
+          "name": "500师傅",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/80b2782dabc8e24fef5c5f7c99653d7c7114369c.jpg"
+        },
+        {
+          "name": "500传奇",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/6e47e27082c49f8ed890afc010675f9f14c4e2ef.jpg"
+        },
+        {
+          "name": "750王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/a1cdc9b5e5c9aadb93f1b4cec7445713d97da251.jpg"
+        },
+        {
+          "name": "750师傅",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/652070/49075cf77a2c54ef41eb26366e4f6920f466f810.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

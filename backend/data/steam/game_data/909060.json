@@ -1,0 +1,74 @@
+{
+  "909060": {
+    "name": "Stephino RPG",
+    "steam_appid": 909060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Stephino RPG</strong> is an open-source multi-player strategy game with a server-side component written in PHP as a plugin for WordPress. There is a strong accent on extendibility and customization: the game mechanics can be altered and extended from the point-and-click back-end interface and the game assets can be modified as part of themes.<br><br>The default game theme introduces Mors, an alien planet inhabited by multiple aviary races, brought there by The Ancient Ones hundreds of thousands of years ago. Your goal is to uncover your history by performing research activities. As your technology advances you gain access to better military units and ships and new buildings in your cities. For each city you must ensure that your citizens are satisfied and there is enough migration so that you have enough workers for your buildings to reach their production capacity. Your garrison will protect your cities from attack but they are also a tax burden.<br><br>The in-game currency that allows you to buy premium modifiers and expand your empire faster can be earned through PvP combat between sentries. You can also earn Diamonds by playing and designing small platformer levels in the Game Arena.<br><br>Game masters and administrators get access to an in-game console. The syntax is similar to that of a system-level command-line interface with support for history and --help syntax. Most notably, the in-game console allows admins to control the passage of time.<br><br>The software you are downloading is an open-source desktop client developed with <strong>Electron.js</strong> <br>Its goal is to help you connect to Stephino RPG game servers in a frictionless and secure manner and to bridge the gap between Progressive Web Applications and native games.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909060/header.jpg?t=1640535312",
+    "developers": [
+      "Mark Jivko"
+    ],
+    "publishers": [
+      "Mark Jivko"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

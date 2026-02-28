@@ -1,0 +1,65 @@
+{
+  "1567990": {
+    "name": "The test of beauty | 小姐姐的考验",
+    "steam_appid": 1567990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是仅仅是一款 3D 找茬游戏！这游戏除了小姐姐漂亮、除了模型精度比较高、除了画面高清、除了有时候穿得比较少......其他的真没什么特色！<h2 class=\"bb_tag\" >游戏内容</h2><ul class=\"bb_ul\"><li> 1. 高精度的漂亮小姐姐模型。<br></li><li> 2. 两种发型。<br></li><li> 3. 6套衣服。<br></li><li> 4. 十个关卡。<br></li><li> 5. 十个供截图的场景。<br></li><li> 6. 至少十首优美的背景音乐。</li></ul><h2 class=\"bb_tag\" >注意</h2><ul class=\"bb_ul\"><li> 1. 人物模型是一种类似手办材质的感觉，不喜求轻喷。<br></li><li> 2. 贴图其实都很精美，都是 4K 的，因此导致游戏程序很大 ，大约 4 个多 G，没有很精美的表现力是我技术不足（给大家致歉）！<br></li><li> 3. 由于采用 Unity 高清渲染通道（我在想用 UE 会不会好一点，但是自己菜是不能怪引擎的！），添加了限制帧率的设置。实测 1050 Ti 显卡使用率 45% 左右，还是没有压力的。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567990/header.jpg?t=1681969468",
+    "developers": [
+      "GCN"
+    ],
+    "publishers": [
+      "GCN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

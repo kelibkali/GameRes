@@ -1,0 +1,61 @@
+{
+  "4304510": {
+    "name": "开源农场",
+    "steam_appid": 4304510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >一款基于 JavaScript 的编程农场游戏，灵感来源于 The Farmer Was Replaced。</p><p class=\"bb_paragraph\" >核心目标是通过编写代码来控制 2D 农场中的角色，帮助玩家学习编程。</p><h2 class=\"bb_tag\" >概述</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >控制一个或多个角色，在 2D 地图上种植作物。</p></li><li><p class=\"bb_paragraph\" >通过收获物品来解锁科技树（技能与功能）。</p></li><li><p class=\"bb_paragraph\" >解锁内容将提供新的脚本指令以及更多的玩法选项。</p></li></ul><h2 class=\"bb_tag\" >当前功能</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >角色：`Dinosaur`、`Drone`、`Snake`；支持角色切换。</p></li><li><p class=\"bb_paragraph\" >作物：`Potato`、`Pumpkin`。</p></li><li><p class=\"bb_paragraph\" >脚本系统：支持基础的 JavaScript 语法。</p></li><li><p class=\"bb_paragraph\" >多角色生成：已支持（仍存在已知问题）。</p></li><li><p class=\"bb_paragraph\" >科技树：已实现基础版本，仍需进行平衡性与 UI 调整。</p></li></ul><h2 class=\"bb_tag\" >游戏模式</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >模式 1：经典农场</p></li><li><p class=\"bb_paragraph\" >模式 2：相邻且朝同一正向排列的南瓜会合并</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras/0fc911e2e0f4e8c1e8728895f283d7f6.avif?t=1770891613\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras_big/0fc911e2e0f4e8c1e8728895f283d7f6.webp?t=1770891613 width=1560 height=598 /></span></p></li><li><p class=\"bb_paragraph\" >模式 3：蛇形模式</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras/07c45b26d1d0e9e345aafc16648bbb39.avif?t=1770891613\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras_big/07c45b26d1d0e9e345aafc16648bbb39.webp?t=1770891613 width=1560 height=596 /></span></p></li><li><p class=\"bb_paragraph\" >模式 4：迷宫模式</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras/b7a2f08d67de18394d60f7888e9ce686.avif?t=1770891613\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras_big/b7a2f08d67de18394d60f7888e9ce686.webp?t=1770891613 width=1560 height=596 /></span></p></li><li><p class=\"bb_paragraph\" >模式 5：多线程模式</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras/90c74fa2caac6abf2903326596f7f8dc.avif?t=1770891613\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/extras_big/90c74fa2caac6abf2903326596f7f8dc.webp?t=1770891613 width=1560 height=592 /></span></p></li></ul><h2 class=\"bb_tag\" ></h2>",
+    "supported_languages": "英语, 繁体中文, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/e081a5425c475002cf296778abbc518bf96d2a4d/header.jpg?t=1770891613",
+    "developers": [
+      "https://autofarm.giveme8.com/"
+    ],
+    "publishers": [
+      "https://autofarm.giveme8.com/"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

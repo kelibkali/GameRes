@@ -1,0 +1,89 @@
+{
+  "1558020": {
+    "name": "Lazy Chess",
+    "steam_appid": 1558020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Lazy Chess</strong> is a non-profit chess puzzle that aims to innovate the game and reduce the intimidation factor for new or self-conscious players. On average, there are more than 30 legal chess moves available to a player in a turn, creating vigintillions (that’s 10 followed by 63 zeros) of possibilities throughout a game. Lazy Chess compresses all those possibilities. Every turn, it offers you the best 2, 3 or 4 moves you could make. The only catch? You won’t know which move is the best!<br><br>The world's most sophisticated chess engine, Stockfish, analyzes the board and offers you the best two moves, but it won’t tell you which move is best until after you’ve confirmed your choice. The board plays as a real chess game would while limiting your selections. In any turn, your options may allow you to defend, progress, capture, or even use special rules such as castling. The moves provided in Lazy Chess can always win the match, but how strong are your decisions? <br><br>Lazy Chess is designed to take the stress out of chess. By simplifying the game, players of all levels will be able to play good chess with winning strategies. Those new to chess will learn creative moves and tactics, and those with experience can play with speed against a world-class neural network. Compete against an AI opponent, online with strangers or friends, or with the person next to you!<br><br>Looking for a greater challenge? Lazy Chess offers dozens of settings and variants, introducing random moves, varying Stockfish “depth” and a real-time advantage tracker. <i>Challenge Mode</i> allows you to use the openings of famous games and see if you can progress with the grandmasters. Those looking for further analysis of their games can copy the PGN of their game to their clipboard, or analyze it externally on external sites!<br><br><strong>Lazy Chess</strong> was created by <strong>Cinq-Mars Media</strong>, a 501(c)(3) non-profit organization developing educational games and technology, support of scientific research related to human safety and education, and to make such technology and research available on a charitable basis.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558020/header.jpg?t=1738568470",
+    "developers": [
+      "Christopher Cinq-Mars Jarvis"
+    ],
+    "publishers": [
+      "Cinq-Mars Media"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

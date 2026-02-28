@@ -1,0 +1,61 @@
+{
+  "1126220": {
+    "name": "EasyPianoGame",
+    "steam_appid": 1126220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A rhythm game that allows you to play any song on the piano in different ways. EasyPianoGame uses MIDI files. Songs in MIDI files are very common and you can easily find the one you need.<br>At the moment, the game has 2 game modes:<h2 class=\"bb_tag\" >Falling Notes mode</h2>\tThis mode uses MIDI files to auto-generate a large number of note patterns with various customizable difficulties and numbers of keys. Notes fall from top to bottom and the player will have to press the correct key for that specific note in time.<br><br><br><ul class=\"bb_ul\"><li><strong>Сustomize the difficulty to suit your skills.</strong><br></li><li><strong>Play in 4 - 5 - 6 - 7 - 8 - 9 - 10 key modes.</strong></li></ul><h2 class=\"bb_tag\" >EasyPiano mode</h2>This mode uses a simple musical notation that anyone can figure out. Start playing your favorite piano songs by sheet music using just 8 PC keyboard keys. <br><br><br><ul class=\"bb_ul\"><li><strong>Play in a unique way</strong> - Play the piano fully in a simple and convenient way, using only 8 keys of the PC keyboard instead of 88. In order to play your favorite melody, you don’t need to think and remember which key to press. Leave it to the computer – press any key.<br></li><li><strong>Learn to play notes</strong> - EasyPianoGame uses an original interface based on standard musical notation, only without the pitch of notes. This allows you to understand the reading of notes in just a couple of minutes.</li></ul><br><br><br><br><br><strong>Make sure to join our Discord to follow and take part in the game's development progress!</strong>",
+    "supported_languages": "俄语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126220/header.jpg?t=1604903991",
+    "developers": [
+      "EVT Games"
+    ],
+    "publishers": [
+      "EVT Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

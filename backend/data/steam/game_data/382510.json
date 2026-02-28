@@ -1,0 +1,77 @@
+{
+  "382510": {
+    "name": "Yatagarasu Attack on Cataclysm Custom Voice Packs",
+    "steam_appid": 382510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This DLC adds the following voice packs which were created as rewards for backers of the Yatagarasu Attack on Cataclysm IndieGogo campaign:<br><br><strong>Custom Voice Pack - Actors</strong><br>Customize the 'new challenger'; announcement by selecting an Attendant from the menu in the screenshot below.<br><br><strong>Custom Voice Pack - Announcers</strong><br>Select your Country, Affiliation, and Name, and they will be announced at the character select screen. (The announcement occurrence is randomized, and will not happen every time.)<br><br>{STEAM_APP_IMAGE}/extras/attendant.jpg",
+    "supported_languages": "英语, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382510/header.jpg?t=1581373363",
+    "developers": [
+      "Yatagarasu Dev Team"
+    ],
+    "publishers": [
+      "Nyu Media"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 8800,
+      "final": 8800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 88.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 7 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

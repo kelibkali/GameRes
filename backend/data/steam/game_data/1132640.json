@@ -1,0 +1,97 @@
+{
+  "1132640": {
+    "name": "Platforms",
+    "steam_appid": 1132640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132640/extras/363b430e759fcf2286f7ed2af31a8867.avif?t=1569516782\" width=616 height=114 /></span><br><strong>Platforms</strong> is a platforming game with numerous features and levels and is inspired by retro platforming games!<br><br>Platforms is currently in early access.<h2 class=\"bb_tag\" >Features include:</h2><ul class=\"bb_ul\"><li>Numerous levels to play<br></li><li>Early version of the level editor<br></li><li>Level menu which allows replaying previously completed levels<br></li><li>Ability to customize your player character with coins earned from completing levels<br></li><li>Save/load easily with quick save and quick load</li></ul><h2 class=\"bb_tag\" >Planned features:</h2><ul class=\"bb_ul\"><li>Steam workshop for custom-made levels.<br></li><li>New enemy types<br></li><li>Larger levels<br></li><li>Better collision detection<br></li><li>More settings<br></li><li>Overall improvements</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132640/header.jpg?t=1569516782",
+    "developers": [
+      "RealzGizmo"
+    ],
+    "publishers": [
+      "RealzGizmo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Kill your first enemy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1132640/f9120f22e2c2fae49bcd6a16479aaa26080ff0ef.jpg"
+        },
+        {
+          "name": "Kill 10 enemies!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1132640/ac63123970fb543e2e99cfbd5ba62066c0cd48b9.jpg"
+        },
+        {
+          "name": "Collect 4 coins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1132640/9470aca1e492b4c2d97bedf1128b3d2180cc94da.jpg"
+        },
+        {
+          "name": "Buy the golden skin.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1132640/cf98ef1c94c252a222fe95b26d7c9c3f9be4ba5a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "1547500": {
+    "name": "Snowboard",
+    "steam_appid": 1547500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "去滑雪并赚取积分。<br />\r\n<br />\r\n使用键盘和鼠标上的键，选择两个字符之一。<br />\r\n然后选择一张卡。<br />\r\n控制角色，跳过障碍物并通过做技巧获得积分。<br />\r\n<br />\r\n游戏有角色选择，你可以选择两个角色之一。<br />\r\n游戏还有2张地图可供滚动。<br />\r\n<br />\r\n您可以绕过障碍物，驶入特殊物体并从它们跳下，为此获得积分，获得尽可能多的积分。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547500/header.jpg?t=1709420445",
+    "developers": [
+      "Hede"
+    ],
+    "publishers": [
+      "Hede"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 67800,
+      "final": 67800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 678.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "q",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1547500/0cd8ee626c4c00d3da41d40be2cfa545ebb632e7.jpg"
+        },
+        {
+          "name": "w",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1547500/0309b4bb0c1a5af820be3666e97de56581ff0c85.jpg"
+        },
+        {
+          "name": "e",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1547500/6d955fc06e4a143d3867f4c1714986b2d0a8305c.jpg"
+        },
+        {
+          "name": "r",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1547500/544445aae3d505a93d2e539fe9c68cf0f7f5cd87.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

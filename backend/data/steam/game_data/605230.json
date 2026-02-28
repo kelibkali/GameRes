@@ -1,0 +1,101 @@
+{
+  "605230": {
+    "name": "Grey Hack",
+    "steam_appid": 605230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Grey Hack 是一款大型多人黑客模拟器游戏。<br><br>你是一名黑客，可以在一个由程序生成的广阔计算机网络中完全自由地行动。<br><br>文件管理器、终端和文本编辑器是游戏开始时可用的一些程序。随着技能的提高，你会发现可以安装和使用的新工具。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605230/extras/81eabb8e27f21b94eec921d35383ff09.poster.avif?t=1763433698\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605230/extras/81eabb8e27f21b94eec921d35383ff09.webm?t=1763433698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605230/extras/81eabb8e27f21b94eec921d35383ff09.mp4?t=1763433698\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >一个持久活跃的世界</h2>探索 Grey Hack 宇宙，并在所有玩家共享的世界中建立自己的声誉。当你退出游戏时，<strong>在线宇宙仍然全天候运行</strong>。<br><br>这一始终活跃的游戏会话意味着，无论你是否在线，你在世界上任何一台计算机上所做的更改，都可能被其他连接到它的玩家看到。你的进度会被保存，但你的行为可能会产生后果。<h2 class=\"bb_tag\" >计划你的攻击</h2>世界上的每个网络都有完全不同的配置、大小和安全性，并且使用了动态和深度的漏洞利用系统，使每个网络和计算机都构成不同的挑战。研究你的目标；利用社交工程，扫描系统以查找允许打开后门的管理员漏洞，测试不同的可能漏洞利用，但最重要的是，在完成后掩盖你的踪迹。<h2 class=\"bb_tag\" >创建、修改、分享</h2>终端具有基础性作用，基于真实的 UNIX 命令；它是成功攻击的必备工具。<br><br>终端命令和漏洞利用是使用游戏中可用的脚本语言构建的，这意味着你可以修改任何现有命令，或者根据需要创建自己的命令。同样，如果现有漏洞利用不能满足你的需求，你也可以创建自己的漏洞利用。<h2 class=\"bb_tag\" >沙盒模式</h2>Grey Hack 提供了一种非线性体验，你可以按自己的节奏进步。发布网页以分享你的作品，创建公会并组织对其他玩家的攻击，完成委托任务以赚取金钱和声誉，或者独自探索世界，其中隐藏了特殊任务和其他秘密。<h2 class=\"bb_tag\" >单人模式</h2>Grey Hack 旨在以多人模式游玩，利用始终在线宇宙的丰富环境，但该游戏也为那些倾向于独自游玩的玩家提供了单人模式。在单人模式下，你将在自己的计算机上创建的世界中进行游戏。与在线模式不同，当你退出单人模式时，游戏内宇宙会停止，进度仅在你返回时继续。<h2 class=\"bb_tag\" >路线图</h2>Grey Hack 目前处于 Alpha 阶段版本 0.8。你可以在游戏的 Steam 论坛上查看路线图。如果你希望在游戏中看到任何功能，请通过 Steam 论坛或 Discord 告诉我，我对此持开放态度。",
+    "supported_languages": "英语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605230/1346f58eb7166cc7a70ac267129593f9f1e0c728/header.jpg?t=1763433698",
+    "developers": [
+      "Loading Home"
+    ],
+    "publishers": [
+      "Loading Home"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 54,
+      "total_negative": 8,
+      "total_reviews": 62
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "1564660": {
+    "name": "Bongo Arena",
+    "steam_appid": 1564660,
+    "required_age": 0,
+    "is_free": true,
+    "description": "感谢大家光临，这是我试水独立游戏开发的第一游戏，后续会有继续的开发，同时也在规划下一个游戏。我希望能有个公共的宣传途径，目前我感觉最优解是B站。大家觉得游戏还不错的话，可以关注我的B站来即时得知后续的进展，谢谢！ B站号：大笨狗游戏团<br><br>欢迎来到Bongo Arena，这是一个<strong>设计AI战术</strong>的回合制战棋游戏。你<strong>无法</strong>在战斗中直接控制你的单位，只能在战前<strong>提前设计</strong>好需要执行的策略。每一关的电脑会有不同的角色搭配和策略制定，实际的游玩过程有点类似<strong>破解棋局</strong>。<br><br>我比较不喜欢做跟别人类似的东西，所以这游戏的玩法其实是相对比较异类的。我在做的过程中也没啥成功案例可以借鉴的，所以大家玩的时候可能会觉得有点粗糙。不过希望大家有想法的话可以多提提建议，我会持续参考并完善这个游戏的。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564660/header.jpg?t=1616119278",
+    "developers": [
+      "Da Bongo Studio"
+    ],
+    "publishers": [
+      "Da Bongo Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "BRONZE_LEAGUE_PASSED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564660/c9b4a36f3ac034af6fa57950df3ccd89ef00c955.jpg"
+        },
+        {
+          "name": "SILVER_LEAGUE_PASSED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1564660/0fd24ab5a5dde4db7490f8131a296c3f0ee6aab4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

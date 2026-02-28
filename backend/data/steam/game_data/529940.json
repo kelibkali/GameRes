@@ -1,0 +1,109 @@
+{
+  "529940": {
+    "name": "ShowdownVR",
+    "steam_appid": 529940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!<br><br>Choosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.<br><br>ShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Immersive virtual reality carnage<br></li><li>2 × 2 km wide open world battle arena<br></li><li>Five difficulty levels<br></li><li>Two game modes: The One and Dodger<br></li><li>Fully dynamic world<br></li><li>Easy to play, hard to master. Comes with manual and master sheet.<br></li><li>Leaderboards: Continent, Country, Individual<br></li><li>NVIDIA WaveWorks for real-time ocean simulation<br></li><li>NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.<br></li><li>NVIDIA VR SLI<br></li><li>Benchmark</li></ul><br><i>Heavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.</i><br><br><strong>Specific inspirations</strong><ul class=\"bb_ul\"><li>Matrix: bullet time, dodging, music style<br></li><li>Quake: arena, competitive, fast twitch / accurate combat<br></li><li>Doom: fast, intensive, bloody kills</li></ul><h2 class=\"bb_tag\" >Gameplay</h2>There is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.<h2 class=\"bb_tag\" >Showdown: Virtual reality carnage</h2>Every copy of the game comes bundled with an accompanying piece of work in a form of a book &quot;Showdown: Virtual reality carnage&quot;. A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under &quot;Bonus content&quot; folder.<h2 class=\"bb_tag\" >Gameworks</h2>Quick word on using NVIDIA's tech. The exact tech specifications are available in white paper  &quot;Showdown: Virtual reality carnage&quot;, released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.<br><br><br><br>Nejc L.,<br>Frontseat Studio",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/header.jpg?t=1477724572",
+    "developers": [
+      "Frontseat Studio"
+    ],
+    "publishers": [
+      "Frontseat Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 9 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Pop & lock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/21264fdb57c75f2b011545712ff2e2deee911f1d.jpg"
+        },
+        {
+          "name": "500 shades of gray",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/284aaec545131c21aa41e70d1f8b0cf57dee2331.jpg"
+        },
+        {
+          "name": "Moonducker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/fa093a6b0e6b281003ffdef4a78566d33387b130.jpg"
+        },
+        {
+          "name": "Plasma snacker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/64a37ca460de30b9838badf49c6aaabf9c8814ca.jpg"
+        },
+        {
+          "name": "Doctor Flash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/d4201a93a3e721c0224cf2a3a408780e47a7191f.jpg"
+        },
+        {
+          "name": "Holographic man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/cc470e38135e014a7a71c0c62f22afd5be064595.jpg"
+        },
+        {
+          "name": "Neo who?!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/50feda53cc5746c2151f4b2f6a17d2b9750c241e.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/e3800d8f7573e954e416fa78d14d216a275fda15.jpg"
+        },
+        {
+          "name": "Virgin no more",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/e8dd5ee0157e02cf2f7113696a2c28199062eda0.jpg"
+        },
+        {
+          "name": " Sailor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/529940/6fb1fcaaf1907be7f5288ea48ffcd6b2e126dba2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "1598370": {
+    "name": "Vojo",
+    "steam_appid": 1598370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Vojo 是一款休闲游戏，您可以在其中穿越隧道。您的任务是收集途中出现的白色立方体，每个立方体得到1分。困难在于，障碍物还会出现在您需要避免的道路上，因为如果撞到障碍物，您将立即迷失方向，必须重新开始。使用您的反应速度并计算路径。您可以收集多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-简单的游戏<br />\r\n<br />\r\n-简约的图形<br />\r\n<br />\r\n-悦耳的音乐",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1598370/header.jpg?t=1619213606",
+    "developers": [
+      "OpalA dev"
+    ],
+    "publishers": [
+      "OpalA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1598370/d0549af63dc5c2e35fd8636f62d452e81aacf8bc.jpg"
+        },
+        {
+          "name": "XXV",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1598370/8df9e1aa793a8754845009d49865f1ab249c152c.jpg"
+        },
+        {
+          "name": "L",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1598370/a85c47254ea8e58c5c32aa1acbdbdfe55bd9079c.jpg"
+        },
+        {
+          "name": "C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1598370/b4ef6ad0adc6cd19a3ac825cc1be263b8e21b3c2.jpg"
+        },
+        {
+          "name": "CC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1598370/ca5bc7d645a08a96e8525ed4c4fcbbccda3659a4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 16,
+      "total_negative": 0,
+      "total_reviews": 16
+    }
+  }
+}

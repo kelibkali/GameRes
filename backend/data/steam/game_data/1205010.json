@@ -1,0 +1,93 @@
+{
+  "1205010": {
+    "name": "三角战机XXXX",
+    "steam_appid": 1205010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款弹幕射击游戏，玩家需要在7种模式中来回切换才能在随机生成的敌人的攻击中生存。<br><strong>玩法：</strong><br>玩家拥有战机血量，普通能量槽和特殊能量槽。普通能量槽会自动回复，而特殊能量槽只能通过玩家在特定模式的攻击或闪避才可回复。普通能量槽消耗殆尽后有3秒时间不能移动和发射炮弹，特殊能量槽消耗殆尽后将有3秒时间无法切换状态。所以将能量消耗殆尽是致命的。<br><ul class=\"bb_ul\">******</ul>战机的7种模式包括攻击，回复和特殊功能三大类。特殊功能有着消耗特殊能量槽来抵御伤害，闪避后发射无视护甲、可穿透敌人的激光等等。<br><ul class=\"bb_ul\">******</ul>和其他游戏一样，在打boss之前需要打败普通敌人。有着数量优势的随机生成的普通敌人会令不喜欢切换模式或者喜欢将能量消耗殆尽的玩家十分头疼。但是，如果你能连续三次以上在挑战最终boss前未失败，就可以跳过所有普通敌人直接挑战boss。而每个关卡最终boss都风格迥异。<br><strong>剧情：</strong><br>       在简单甚至奇怪的剧情中寻找线索，和主角一起钻破敌人。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205010/header.jpg?t=1584532434",
+    "developers": [
+      "EManGame"
+    ],
+    "publishers": [
+      "EManGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 800,
+      "final": 800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 8.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "你输了，强",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/f9188b8b5762e222ecc602d88ef70fdcc377c7de.jpg"
+        },
+        {
+          "name": "你也会放弃吗，复？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/7425e43f233c07c8c0ad56f2d06d1f4a86c0c3ca.jpg"
+        },
+        {
+          "name": "你也很无趣，味",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/08447069934e2750aa5e9161dbb48a97513fbc12.jpg"
+        },
+        {
+          "name": "别再幻想了，新",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/f95c0dee1b663a6387eee407cc0f868a2876783a.jpg"
+        },
+        {
+          "name": "你很菜，硕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/c0f74e0dfd8cab5778149b21ab61bb2ebfb1bc6b.jpg"
+        },
+        {
+          "name": "我感觉很好",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/14b672468845505a311b4b5d85ec164c46e82d7f.jpg"
+        },
+        {
+          "name": "你错了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1205010/284a75fdc5d78107b6069e835454904bc49699b3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

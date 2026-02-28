@@ -1,0 +1,89 @@
+{
+  "861270": {
+    "name": "Sudoku Killer / 杀手数独",
+    "steam_appid": 861270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Sudoku</strong> (数独 sūdoku, digit-single) 是一款风靡世界的数字逻辑游戏，玩家的目标是用数字填满9x9的方格，而每行、每列以及每个3x3的九宫格内不得出现重复的数字，只能分别是1~9这九个数字。<br><br>杀手数独的独特之处在于，在标准数独的基础之上，还融合了数合游戏的玩法。数独网格中不再会预填数字作为提示，取而代之的是，网格被划分分多个虚线圈起来的区域，并给出区域内所有格子上数字的和作为提示。<br><br><ul class=\"bb_ul\"><li> 100个烧脑的杀手数独谜题<br></li><li> 能够保存关卡完成进度与用时<br></li><li> 优雅简约的界面设计，沁人心脾的彩色主题<br></li><li> 10首轻松悦耳的氛围音乐<br></li><li> steam成就系统<br></li><li> 交易卡牌，steam徽章，表情和背景图（即将推出）<br></li><li> 跨平台steam云存档支持<br></li><li> 一如既往，支持包括Windows, Mac和Linux多个平台<br></li><li> 良心的定价</li></ul><br>  ",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong>, 日语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 法语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 芬兰语<strong>*</strong>, 韩语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 瑞典语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861270/header_schinese.jpg?t=1646329081",
+    "developers": [
+      "Konstructors"
+    ],
+    "publishers": [
+      "Hook Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861270/9c4361798f03a2300bd628ebde416bf9fa1aa031.jpg"
+        },
+        {
+          "name": "Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861270/4163078a0e1471382c0c081d298b6b77c5fbc0b0.jpg"
+        },
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861270/cd80800c37384f08d4607f56b55672a5fef5d8fd.jpg"
+        },
+        {
+          "name": "Killer Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861270/60ca34196193cfb3dd1540a8f01ce2f98e1d36d0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 132,
+      "total_negative": 16,
+      "total_reviews": 148
+    }
+  }
+}

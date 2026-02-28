@@ -1,0 +1,65 @@
+{
+  "960070": {
+    "name": "Fish & Bubbles",
+    "steam_appid": 960070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Purchase fish, feed them to collect coins, upgrade your tank and Zen out in... &quot;Fish &amp; Bubbles&quot;!<br />\r\nUpgrade your tank and purchase new fish in the Shop.<br />\r\nExplore the Pond to fish for more fish, and explore secrets there.<br />\r\nUse the Market to list fish to sell, or buy fish from other players.<br />\r\nUpdates will be released regularly, stay up to date on our Steam posts, or join our Discord!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960070/header.jpg?t=1710123309",
+    "developers": [
+      "d4rkd0s"
+    ],
+    "publishers": [
+      "d4rkd0s"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "First Catch!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/960070/5ed0a6da9c01248eaff1ffb87e9602a9dcf93817.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

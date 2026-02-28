@@ -1,0 +1,47 @@
+{
+  "1157970": {
+    "name": "Special K",
+    "steam_appid": 1157970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Special K is Free and Open Source Software developed by Kaldaien primarily to fix graphics and performance issues in PC games. It actually began life by measuring and correcting texture streaming performance in 2015's winner for outstanding stutter in a console port, <strong><i>Batman™: Arkham Knight</i></strong>.<br><br>The software has since evolved to enhance and optimize several Steam platform features, modify game assets in real-time and replace the need for many hardware monitoring tools. Special K also serves as the foundation for a few high profile game-specific mods such as FAR (Fix Automata Resolution) for <strong><i>NieR:Automata™</i></strong>, developed collaboratively with veteran mod developers including Durante and DrDaxxy.<br><br>Single game collaborative mods earned Special K the userbase it currently enjoys, but since mid-2017 development has focused on reusable quality-of-life improvements for Direct3D 11 titles, with a substantial amount of work spent improving the abysmal state of HDR in PC ports.<br><br><br><strong>Features Applied only to Steam-owned Games</strong>:<h2 class=\"bb_tag\" >Achievements</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Customizable unlock sound<br></li><li> Optional popup with global and friend unlock %<br></li><li> Option to take screenshot on unlock</li></ul></ul><h2 class=\"bb_tag\" >Overlay and Screenshots</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Option to move notification display corner<br></li><li> Optional multi-threaded screenshot pipeline adds HDR (.jxr) support and handles .png and .jpg encoding </li></ul></ul><h2 class=\"bb_tag\" >Version Control</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Special menu assists advanced users with patch rollbacks if required by a mod</li></ul></ul><br><br><strong>Store Agnostic Features</strong>:<h2 class=\"bb_tag\" >HDR Display Output (D3D11-Only)</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Retrofit HDR into most D3D11 software with customizable colorspace processing and display luminance profiles<br></li><li>Tonemap processed screenshots for HDR games (whether official or retrofitted HDR)</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Screenshots taken in HDR appear correct when imported into Steam as SDR images</li></ul></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Luminance control and gamut correction for Steam and uPlay overlays<br></li><li>Support for JPEG-XR (100% HDR Image) Screenshots</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li>Custom designed multi-threaded compressor eliminates stutter while squeezing massive HDR screenshots down to disk-friendly sizes.</li><li>Transcode to JPG and Tonemapping to SDR also done without inducing stutter.</li></ul></ul></ul><h2 class=\"bb_tag\" >Framerate Limiting</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Advanced framerate limiter reduces stutter without creating excessive CPU load<br></li><li> Real-time stutter analysis helps you tune in-game settings with confidence<br></li><li> Real-time frametime percentile analysis indicates short- and long-term framepacing  effectiveness</li></ul></ul><h2 class=\"bb_tag\" >Window Management</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Borderless Fullscreen Windows can be forced in any game<br></li><li> Mouse cursor can be restricted to or allowed to leave the game window<br></li><li> Non-fullscreen Windows can be automatically moved to custom location at startup<br></li><li> Window &quot;Always on Top&quot; can be applied to or removed from games<br></li><li> Muting behavior on <strong>Alt</strong> + <strong>Tab</strong> is customizable<br></li><li> Separate framerate limits can be applied while in foreground or background</li></ul></ul><h2 class=\"bb_tag\" >Input Management</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Reconfigure undesirable Keyboard, Mouse, and Gamepad behavior</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Override system-menus: <strong>Alt</strong> + <strong>Space</strong>, <strong>F11</strong>, <strong>Alt</strong> + <strong>F4</strong><br></li><li> Auto-hide the Windows mouse cursor when idle<br></li><li> Add Xbox controller hot-plug support to many games<br></li><li> Force-feedback for XInput and DirectInput devices<br></li><li> Disable display powerdown / screensaver activation<br></li><li> Prevent input from all Keyboards, Mice, or Gamepads</li></ul></ul></ul><h2 class=\"bb_tag\" >Sound</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Multi-channel audio level meters help diagnose surround sound problems<br></li><li> Independent volume control for every speaker channel<br></li><li> Volume control widget enables volume control of other running apps</li></ul></ul><h2 class=\"bb_tag\" >Screenshots</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> D3D11 games support HUDless screenshots</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Tools to identify HUD shaders are provided to enable HUDless screenshots</li></ul></ul></ul><h2 class=\"bb_tag\" >Texture and Shader Mods</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Texture dumping and injection, scene spotting (selectively dumping a texture visible in the current scene) and live updates (modify a texture and reload it without restarting the game) are supported for D3D9 and D3D11 games<br></li><li> Texture mods (in D3D9) can be streamed asynchronously from .7z archives; D3D11 support for this feature is planned.<br></li><li> In D3D11 games, render passes using specific shaders can be skipped or replaced (or even trigger ReShade) in order to disable many effects such as vignette, depth of field, motion blur, etc. or make sure ReShade post-processing occurs before a specific game post-process effect is applied.</li></ul></ul><h2 class=\"bb_tag\" >Tobii Eyetracker Enhancements (requires special hardware)</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Customizable &quot;gaze&quot; cursor displays where Tobii-enabled games believe you are looking<br></li><li> Widgets can be configured to dim and increase transparency until you glance at them</li></ul></ul><h2 class=\"bb_tag\" >Hardware Performance Monitoring</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> GPU Performance Monitoring for AMD and NVIDIA GPUs includes temperature, clock rates, fan speed, active VRAM, PCIe link speed, load %, video encoder load<br></li><li> CPU Performance Monitoring for AMD and Intel CPUs includes clock frequency, load %, core parking status<br></li><li> Optional Enhanced CPU Performance Monitoring (requires WinRing0):</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Per-core temperature, power and turbo clocks on AMD Ryzen and Intel Core CPUs.</li></ul></ul></ul><h2 class=\"bb_tag\" >Integrated Community Knowledgebases</h2><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> Quickly access PCGamingWiki from Special K's help menu for any Steam game.</li></ul></ul><ul class=\"bb_ul\"><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li> If the Steam overlay is enabled, browsing the site will be done in-game</li></ul></ul></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1157970/header.jpg?t=1663637389",
+    "developers": [
+      "Kaldaien",
+      "The Special☆K Group"
+    ],
+    "publishers": [
+      "Kaldaien"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

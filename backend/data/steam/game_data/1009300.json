@@ -1,0 +1,77 @@
+{
+  "1009300": {
+    "name": "Achievement Collector: Zombie",
+    "steam_appid": 1009300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Achievement Collector: Zombie<br><br>in this 2d action shooter, you play as a Car that kills ZOMBIES with CHEESE.<br>shoot the ZOMBIES with CHEESE! to protect your self<br><br>Game features:<br><ul class=\"bb_ul\"><li>Cool in-game background</li></ul><ul class=\"bb_ul\"><li>CHEESE!</li></ul><ul class=\"bb_ul\"><li>CHEAPEST PRICE POSSIBLE!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009300/header.jpg?t=1548422676",
+    "developers": [
+      "QUIKIN Games"
+    ],
+    "publishers": [
+      "QUIKIN Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "ZOMBIE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009300/a3fd1786dbf70d74cf0a0244c4bf2fd7b527699c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

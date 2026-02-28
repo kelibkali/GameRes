@@ -1,0 +1,111 @@
+{
+  "1000560": {
+    "name": "Supraland Demo",
+    "steam_appid": 1000560,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Supraland is a mix of Metroid, Portal, Mario and Zelda. It is a first-person metroidvania.<br><br>Supraland is mostly about good exploration and solving unique puzzles. You will frequently get new items or abilities that allow you to progress in places that were previously locked for you.<br><br><strong>My design philosophies used in the making of Supraland:</strong><br><br>- I assume that you, the player, are smart. I don't want the game to hold your hand. You are autonomous.<br><br>- All abilities and tools you get have lots of different uses. You have to rethink your abilities all the time to progress. You will constantly be puzzled and surprised by what you can do with them. Unlike in regular metroidvanias, where every ability is over and over used in the same way. I also avoid using abilities that are technically like keys, that only enable you to get through a certain color door type or so.<br><br>- Easily readable: I don't want the game to get lost in useless clutter. There is nearly no decoration in the game. Pretty much everything you see on screen has a use, even if it's not obvious at first glance. There are many hidden systems.<br><br>- I try to avoid mechanisms and puzzles that feel generic. Ideas that feel generic are immediately rejected during the design process. The further you progress, the more you will encounter puzzles that you have never seen before.<br><br>- There is no minimap showing you usable or significant things. Maps like this cause you to play the radar instead of the game and not really look at everything closely. The world building is so varied that you will never get lost in a maze of equally looking corridors.<br><br>- There are lots of optional things and abilities to discover. If everything is mandatory, there is no mystery and no motivation to play the game again.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 芬兰语, 日语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 繁体中文, 土耳其语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000560/header.jpg?t=1725021442",
+    "developers": [
+      "Supra Games"
+    ],
+    "publishers": [
+      "Supra Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Through the fire pipe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/8e67416dfb53accf7edf477d7b81356267214082.jpg"
+        },
+        {
+          "name": "The Blues",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/872a41ee60284399bf854f032e73d759a02e4dda.jpg"
+        },
+        {
+          "name": "Fast",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/ae465a158de95ce5424954b52ee7e8687f60ef29.jpg"
+        },
+        {
+          "name": "Regeneration",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/4af984f5f8fa972d159a7d60c6dab1cd394820a2.jpg"
+        },
+        {
+          "name": "Healthbar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/c1d92b3ddb39fbde9eabcefd9f2b686a5acfdf69.jpg"
+        },
+        {
+          "name": "Force Cube",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/7f078d8d0b6f8f8ec7f8c94f723705b9467f438d.jpg"
+        },
+        {
+          "name": "Double Jump",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/3fc4a46dfc76d1060d2ed9ec7b00892cd6f688e8.jpg"
+        },
+        {
+          "name": "Triple Jump",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/6c52e90089b6ada7b67589ae9030ca16e517dacf.jpg"
+        },
+        {
+          "name": "Climb the hill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/39cd416b5ea5c38b775a8fa5847c11bbc6b7fe24.jpg"
+        },
+        {
+          "name": "Telefrag",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1000560/856169d99b9e78de2eb0e9d5a7f8a12532acf44c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "887170": {
+    "name": "Vortex Of Pain",
+    "steam_appid": 887170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Story:</strong><br>Liberate your city from a cult of simulation theory maniacs.<br><br><strong>Gameplay:</strong><br>Vortex of Pain is a beat 'em up game with breakable 3D environments and smooth gameplay influenced by 2D classics. Evasions, grappling, and using the environment objects as weapons have a big role in the gameplay compared to most other beat 'em ups.<br><br>A controller is strongly recommended, but keyboard and mouse controls are supported also.<br><br><strong>Features</strong>:<br><ul class=\"bb_ul\"><li>Single player and up to 4 player co-op story mode<br></li><li>Versus mode for 2-4 players<br></li><li>A customizable gameplay experience: 4 difficulty levels, adjustable enemy counts, and a randomizer mode that randomizes enemies and items<br></li><li>Various combat mechanics: weapons, grapples, strikes, air grapples, evasions, ear bites, flips, ball rolls, slides, splashes and free rotation throws<br></li><li>The environments play a large role in the gameplay: lots of breakable objects you can throw your enemies onto, and many props can be used as weapons<br></li><li>Weird enemies with unique abilities: mimes who copy moves from players, garbage collectors who eat and launch fragments of trash like a grenade, lagging modem-headed cyborg Minotaurs, recursive cardboard box -throwing thugs, etc...<br></li><li>Levels emphasize verticality to allow platforming and dangerous fighting areas<br></li><li>Boxing bags that aren't fooling around<br></li><li>Each playable character has the Atomic drop move!</li></ul><br><strong>Notes:</strong><br>If you have problems with your controller's inputs, please disable Steam's controller configurations because they may cause issues with this game's button input detection. To do this, uncheck all gamepad configuration support checkboxes from Steam/Settings/Controller/General controller settings menu.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887170/header.jpg?t=1607457434",
+    "developers": [
+      "Atomic Drop Games"
+    ],
+    "publishers": [
+      "Atomic Drop Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3500,
+      "final": 3500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 35.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

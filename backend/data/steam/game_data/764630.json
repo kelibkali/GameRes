@@ -1,0 +1,93 @@
+{
+  "764630": {
+    "name": "Alien Invaders from the Planet Plorth",
+    "steam_appid": 764630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Alien Invaders from the Planet Plorth is a shooter game in which the player moves sideways trying to dodge enemy bullets. The player is positioned in the center of the screen with top and bottom enemies moving closer towards the player. The game automatically ends if an enemy reaches the center of the screen. <br><br>Shoot all enemies and move on to the next level. On every 10th level, you will have to defeat a more difficult &quot;boss&quot; enemy that shoots orbs and brings down a beam toward the center line. You lose a life if one of those orbs or beam hits you.<br><br>This game gives the player the option to play from 3 levels of difficulty:<br><br>\t<ul class=\"bb_ul\"><li>Easy mode:<br>\t\t<ul class=\"bb_ul\">Player can shoot unlimited bullets. </ul></li></ul><br>\t<ul class=\"bb_ul\"><li>Normal mode:<br>\t\t<ul class=\"bb_ul\">Player can shoot 2 bullets at a time. Bullets must hit enemies or disappear at top/bottom \t\tof the screen before player can shoot another 2 bullets. </ul></li></ul><br>\t<ul class=\"bb_ul\"><li>Hard mode:<br>\t\t<ul class=\"bb_ul\">Player can only shoot 1 bullet at a time. Bullet must hit enemy or disappear at top/bottom \t\tof the screen before player can shoot another bullet. </ul></li></ul><br>You also have the option to toggle between windowed/fullscreen mode and toggle music and sound on/off.<br><br>High score feature automatically saves your high score at each level throughout the game and loads the saved high score next time you play.<h2 class=\"bb_tag\" >Key Features</h2><br><ul class=\"bb_ul\"><li>Mouse, keyboard and joystick support</li></ul><ul class=\"bb_ul\"><li>Choose between easy, normal and hard difficulty levels</li></ul><ul class=\"bb_ul\"><li>Toggle fullscreen and windowed mode option</li></ul><ul class=\"bb_ul\"><li>Toggle sound and music on/off</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764630/header.jpg?t=1516286268",
+    "developers": [
+      "Robert Lanthier"
+    ],
+    "publishers": [
+      "Robert Lanthier"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "20K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/764630/b48f37fc230e11ab3fdd5d6126216e3e49cf43dd.jpg"
+        },
+        {
+          "name": "30K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/764630/8d90df46858ffcff225208998cbbee15d472c6ca.jpg"
+        },
+        {
+          "name": "50K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/764630/f77798f2a47fc6119192f0e7f6bc48c237cc90c5.jpg"
+        },
+        {
+          "name": "75K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/764630/dea2c4ab5e34ffff1d73884f9950ac668d6ab9c4.jpg"
+        },
+        {
+          "name": "100K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/764630/3db091c7db8375693579e62bd8565c7531f01ae1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

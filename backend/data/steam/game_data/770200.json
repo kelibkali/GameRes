@@ -1,0 +1,65 @@
+{
+  "770200": {
+    "name": "Squally",
+    "steam_appid": 770200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Squally is a 2D puzzle RPG game that teaches video game hacking!<br><br>In other words: this game teaches you the &quot;hardest&quot; parts of computer science in the coolest way possible.<br><br>After crash landing on a strange planet, Squally must help the inhabitants to fight the evil forces plaguing their lands. Squally can make use of their supernatural powers to manipulate the world around them -- using x86/x64 assembly.<br><br>Join our Discord at<h2 class=\"bb_tag\" >Who is this game for?</h2>Anybody with sufficient motivation should be able to complete the main storyline in this game! For the experienced hackers out there, this can be a great refresher and a test of your assembly language knowledge.<br><br>This game does not assume you have any background in programming. Anybody can play!<h2 class=\"bb_tag\" >What does it teach?</h2>The main skill that Squally aims to teach is assembly language (x86/x64). Assembly language is one of the most crucial but difficult to master skills for an aspiring hacker.<br><br>However do not fear! Assembly language is not as hard as people think! Unfortunately, it is often taught in a very poor manner. Squally is a game to solve this problem by assembly language approachable and fun.<br><br>Supplementary topics like binary and hex are taught through puzzles and gameplay.<br><br>Note: Linux and Mac builds teach x64 assembly, whereas Windows teaches x86 assembly. This is due to technical constraints on the compilers used for each platform.<br><br>Looking for more learning material on hacking? Search Youtube for CS420, our free game hacking courses.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770200/header.jpg?t=1729406425",
+    "developers": [
+      "Zachary Canann"
+    ],
+    "publishers": [
+      "Squalr, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

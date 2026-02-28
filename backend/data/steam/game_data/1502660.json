@@ -1,0 +1,125 @@
+{
+  "1502660": {
+    "name": "Untrusted",
+    "steam_appid": 1502660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Welcome to the dangerous world of Untrusted, where the stakes are high and the outcome is always uncertain: join the community of this online multiplayer (10 to 16 players) hacking/social deduction game!<br><br>As a member of the fictional NETSEC group, you'll engage in a <strong>pulse-pounding game of hacking and social deduction</strong>, using your skills and wits to outsmart the undercover AGENTs trying to stop you;  as an AGENT, you'll have to blend amidst the hacking crew to stop their plans in a race against the clock.<br><br>With up to 16 players in the game, the competition is fierce as you navigate the web of cybercrime and use deception and deduction to gain the upper hand. With <strong>27 playable classes</strong> and <strong>over 100 unique skills</strong>, the possibilities are endless as you strive to gain root access of the target node and claim victory for your faction. But be careful, one false move could mean instant game over.<br><br>The game ends when the NETSEC group successfully gains root access of the target node, when all AGENTs or NETSEC members have been eliminated, or if the NETSEC operation leader gives root access to an AGENT member. So, be prepared for the unexpected and join our community of players for an unforgettable experience.<br><br><strong>Welcome to Untrusted, where every move counts!</strong><br><br>Inspired by the Werewolf/Mafia genre and similar games, Untrusted is a complicated game, that requires an inch deep, but a mile wide knowledge of the game to start enjoying it fully - expect to be confused, lied to and surprised from the very first moment you open the tutorial - join our friendly community and never be afraid to ask for help!<br><br>With two factions and many neutral classes with their own objectives, no two games are guaranteed to be the same!<br><br><ul class=\"bb_ul\"><li> Hacking themed game focused on social interactions.<br></li><li> Hack into computers and analyze their log to find out who is telling the truth<br></li><li> Keep your personal log and cross-reference data to find out who are the undercover agents<br></li><li> An amazing, friendly community ready to welcome you<br></li><li> Multiple winning conditions for both factions: hack or murder your way to victory.<br></li><li> 2 factions and many neutral classes<br></li><li> 27 unique classes<br></li><li> More than 100 unique skills<br></li><li> Unlock avatars and badges as you win<br></li><li> RFC 5737 compliant<br></li><li> Discord integration</li></ul>",
+    "supported_languages": "英语, 意大利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502660/header.jpg?t=1769731729",
+    "developers": [
+      "playuntrusted.com"
+    ],
+    "publishers": [
+      "evolvedlabs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 34,
+      "highlighted": [
+        {
+          "name": "Agent Leader",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/e15d60faebd588ffe0a64fca311ab98db5c5fd15.jpg"
+        },
+        {
+          "name": "Field Agent",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/76ac2001fa0b71d79c864e23f8553f6f01bb4b70.jpg"
+        },
+        {
+          "name": "Mole (Field Operations)",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/c78db03d715f0ccc02feb11a4fa458a736b1c724.jpg"
+        },
+        {
+          "name": "Mole (Investigative)",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/a96fd998400441d046ad19f390378a22bb5c09f5.jpg"
+        },
+        {
+          "name": "Mole (Offensive)",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/c0358212e9b6d18812bf5185ec93b655220e9dc9.jpg"
+        },
+        {
+          "name": "Runaway Snitch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/a5b62e2ff1ce4c97249f2782a88f3aee9f9c4539.jpg"
+        },
+        {
+          "name": "CCTV Specialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/4fa10b06946a46f1b9e3ce9923bef8064997c23d.jpg"
+        },
+        {
+          "name": "Network Specialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/83c8beff3a605d7b64ca2cbdf022191e03ba1d9e.jpg"
+        },
+        {
+          "name": "Blackhat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/f1ff2b0487957446656fc3095aafc5f66f1de3ee.jpg"
+        },
+        {
+          "name": "Social Engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1502660/6be966c0067a1d45c72510c3e06a32c39c8f9919.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "938980": {
+    "name": "Lantern Bearer",
+    "steam_appid": 938980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Lantern Bearer is a difficult and atmospheric platformer <i>starring</i> a curious woodland creature..<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938980/extras/7f3a5f029bef2fd66b80159fc3ef58b8.poster.avif?t=1671773017\" ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938980/extras/7f3a5f029bef2fd66b80159fc3ef58b8.webm?t=1671773017\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >Highlights</h2><br><br><strong>Choose your path</strong> - Five unique biomes which you can travel between at any time.<br><br><strong>Fifty hand-crafted levels</strong> - Each one is meticulously tuned to be challenging yet fair.<br><br><strong>Soundtrack</strong> - All audio is recorded using <i>actual</i> cave reverb.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938980/header.jpg?t=1671773017",
+    "developers": [
+      "kumakare"
+    ],
+    "publishers": [
+      "kumakare"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Swept The Desert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938980/e0295d6aff1a30ed129abead3d4d9b31659c74bf.jpg"
+        },
+        {
+          "name": "Crushed The Ice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938980/e0078c4981496ed09faf36a3d55d1307b3c5a23b.jpg"
+        },
+        {
+          "name": "Slashed The Jungle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938980/e3e6f539eab91475b659fb9b4c528e704fe42f4c.jpg"
+        },
+        {
+          "name": "Stomped The Fire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938980/645eef193eb28eb29bb72b3374c3c528f737b4c9.jpg"
+        },
+        {
+          "name": "Clogged The Gears",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/938980/41ac6f10280906024595e0a5f696b2fbb55f3ef9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

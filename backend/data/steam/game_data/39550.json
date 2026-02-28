@@ -1,0 +1,86 @@
+{
+  "39550": {
+    "name": "SpellForce 2 - Anniversary Edition",
+    "steam_appid": 39550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SpellForce 2 - Anniversary Edition presents the award-winning SpellForce saga hits: &quot;SpellForce 2 – Shadow Wars&quot; and the add-on &quot;SpellForce 2 – Dragon Storm&quot; for a spectacular game experience!<br><br>Experience the age of heroes: roleplaying action &amp; realtime strategy in a perfect mix of genres.<br><br>Mysterious powers arise from darkness and shadow. They are threatening Eo, the world of SpellForce, already devastated by wars and sundered by intrigues. A hero, born of the legendary  Shaikan and linked by a life bond with an ancient dragon now holds the fate of the world in his hands! Unite powerful heroes and armies under your banners, as only with joined forces you can combat this threatening doom! The burden of ancient blood is heavy, and it is yours to carry…<br><br><ul class=\"bb_ul\"><li>Fight epic campaigns with your heroes, with over 90 hours of playing time.<br></li><li>Individual development of the avatar and heroes with an extensive skill tree!<br></li><li>Control various game factions with three races each in a life-like fantasy world.<br></li><li>Command infantry, mounted and flying units, and unleash the enormous titans!<br></li><li>Experience spectacular mass battles in breath-taking 3D graphics!</li></ul><h2 class=\"bb_tag\" >Anniversary Edition Features:</h2><ul class=\"bb_ul\"><li>Re-implemented multiplayer and NAT traversal for a smooth online experience<br></li><li>Many Bugfixes<br></li><li>Additions and Fixes for the Free Game Mode<br></li><li>Widescreen Support<br></li><li>Full compatibility with modern operating systems</li></ul><h2 class=\"bb_tag\" >Major Engine &amp; Technical Re-Design/Re-Work:</h2><ul class=\"bb_ul\"><li>Grass rendering improved<br></li><li>View distance improvements<br></li><li>Improved trees (trunk/branch)<br></li><li>Improved leaf rendering (add leaf subsurface scattering)<br></li><li>Improved lighting (per pixel, basic Bidirectional reflectance distribution function specular, rim light, view dependent ambient, etc)<br></li><li>Improved shadows (soft shadows, percentage-closer filtering)<br></li><li>Shader Model 3.0 usage only</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 意大利语, 西班牙语 - 西班牙<strong>*</strong>, 波兰语, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39550/header.jpg?t=1561968743",
+    "developers": [
+      "Phenomic",
+      "THQ Nordic"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 2,
+      "total_reviews": 15
+    }
+  }
+}

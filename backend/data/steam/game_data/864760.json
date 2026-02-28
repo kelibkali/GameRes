@@ -1,0 +1,77 @@
+{
+  "864760": {
+    "name": "Limouzik",
+    "steam_appid": 864760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Limouzik is a software that transform your computer into a music instrument and makes you a musician.<br><br>Limouzik is based on classical harmony and the relationship between chords of the same key (used in the famous 4 chords songs). Depending on the selected chord, the algorithm continuously recalculates the pitch of the notes of the other keys in order to always play correctly. <br><br>The philosophy behind Limouzik is to make music creation accessible to as many people as possible. Without solfeggio or training, Limouzik allows to reproduce, as with a piano or a guitar, classical, folk, popular and variety. <br><br>By grouping on the same key a complete chord of three notes, constantly recalculated by the algorithm, the user becomes almost instantly an instrumentalist able to play music as varied as Beethoven or the Beatles...<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>Polyphonic live instrument<br></li><li>128 Midi instruments Midi<br></li><li>Play harmonious pieces without knowledge of music theory nor musical practice!<br></li><li>2 mini games included: &quot;Simons Says&quot; and &quot;Cursus&quot;, to familiarize yourself with the software and its concept.<br></li><li>Record your songs, export them and share them with your family or via the Steam Workshop [will be included in a future update]<br></li><li>Transposition of scores possible in all tones<br></li><li>Converter: no need for solfeggio knowledge, Limouzik automatically generates everything according to the chord grid or the tablature of the piece you submit<br></li><li>Virtual synthesizer compatible: use Garage Band or other virtual synthesizer sounds instead of those included by default with the software<br></li><li>Beat Box included</li></ul>",
+    "supported_languages": "英语, 法语, 简体中文, 俄语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864760/header.jpg?t=1750430764",
+    "developers": [
+      "Limouzik SAS"
+    ],
+    "publishers": [
+      "Plug In Digital"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

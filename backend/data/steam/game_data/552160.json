@@ -1,0 +1,121 @@
+{
+  "552160": {
+    "name": "Hade",
+    "steam_appid": 552160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "简单的规则。<br>复杂变化。<br>优雅的解决方案。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552160/extras/8447c2f67f1e7be273d35a743dd9f78c.poster.avif?t=1548172360\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552160/extras/8447c2f67f1e7be273d35a743dd9f78c.webm?t=1548172360\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552160/extras/8447c2f67f1e7be273d35a743dd9f78c.mp4?t=1548172360\" type=\"video/mp4\"></video></span><br><br>Hade是一个简约的逻辑益智游戏。<br>游戏力学基于通过将对象放置在场上来操纵移动方向。 有了试错误，玩家必须找到正确的定位顺序来解决这个难题。<br><br><strong></strong><h2 class=\"bb_tag\" >特点：</h2><ul class=\"bb_ul\"> <li> 150+级有各种困难。<br></li><li>不同的力学，剧烈改变游戏规则，如门户，可破坏的障碍，暂时无形等。<br></li><li>轻松的环境音乐。<br></li><li>交易卡和成就。</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552160/extras/89b35659a57b1b087eb8b089a62089a0.avif?t=1548172360\" width=616 height=294 /></span>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 繁体中文, 韩语, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552160/header.jpg?t=1548172360",
+    "developers": [
+      "KirUn"
+    ],
+    "publishers": [
+      "KirUn"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Scraps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/d49112a5222545f9e9aa3083a26fc7e127628450.jpg"
+        },
+        {
+          "name": "Shards",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/92876cdf35042411243afda0976a2be071232cc6.jpg"
+        },
+        {
+          "name": "Fractions",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/23289de59ae99c10aa68ed3b0273c96b68e5e664.jpg"
+        },
+        {
+          "name": "Fragments of whole",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/5007b6651d10e74b2a18088592d2184726b8dbfe.jpg"
+        },
+        {
+          "name": "Idea",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/6d811a7206b1d41bb93161abede8ad8f62225f5f.jpg"
+        },
+        {
+          "name": "Concept",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/fe3f3fb9eac57f6217d020b67e5364b98480b814.jpg"
+        },
+        {
+          "name": "Knowledge",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/d5df1638852caeb269dd3b181a45ac2a20fa6e13.jpg"
+        },
+        {
+          "name": "Learn",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/b98c725354a172b7fd7c4d67a2995b4cb63baf0a.jpg"
+        },
+        {
+          "name": "Sacrifice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/4490339f88937b65f3dc020b86067c8f9ca6dd11.jpg"
+        },
+        {
+          "name": "Lockpick",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/552160/eed117b127f068c5e5a8de47f9c62072d302cb65.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 64,
+      "total_negative": 5,
+      "total_reviews": 69
+    }
+  }
+}

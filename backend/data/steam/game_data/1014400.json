@@ -1,0 +1,50 @@
+{
+  "1014400": {
+    "name": "Notemon",
+    "steam_appid": 1014400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In Notemon you and your best friend (a Notemon) wash up on the shore of a small town called Nyoo Owtearowa. This town was a normal and peaceful place as the small group of settlers cleared some space to build their houses and started mining some stone for construction. But recently Notemon have been aggressive and the citizens of Nyoo Owtearowa are in danger! In your exploration of Nyoo Owtearowa you can befriend Notemon, build them a home, investigate the recent Notemon aggression, help the townsfolk and discover everything that awaits you in this delightful and mysterious land.<br><br>Gidday, I'm Nick from Croaking Kero, and I'm making Notemon.<br><br>I love turn-based monster-taming RPGs and with Notemon I wanted to fix the major problems I have with this genre.<br><br><ul class=\"bb_ul\"><li>Instead of beating the monsters into submission, you build them a home and entice them to join your team.<br></li><li>Battle moves don't cost a resource (like MP/PP), but instead give the Notemon a cooldown until their next move.<br></li><li>Health, stats and status conditions are all restored after each battle.<br></li><li>No move overwriting. Notemon learn new moves as they level up and all the unlocked moves stay available forever. You can select up to 4 moves to be used in battle and you can change this selection any time outside of battle. Try as many strategies and combinations as you like!<br></li><li>Non-linear gameplay. The game has a story but you're not forced to follow it through a central plot. Instead you may explore the world at your leisure and choose how to engage with the story, if you do at all.</li></ul><br>Notemon is made with PICO-8, a fantasy console with virtual cartridges. Normally PICO-8 games consist of a single 32KB virtual cartridge, but Notemon is the biggest PICO-8 game ever made, using 16 cartridges bundled together into a single file! Code and data for different parts of the game has been distributed between these cartridges and is automatically loaded during gameplay. Much of the data has been encoded within the cartridges to be decoded at load-time to create the NPCs and objects on the maps.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014400/header.jpg?t=1561812882",
+    "developers": [
+      "Croaking Kero"
+    ],
+    "publishers": [
+      "Croaking Kero"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

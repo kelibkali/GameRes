@@ -1,0 +1,70 @@
+{
+  "1001450": {
+    "name": "The Town",
+    "steam_appid": 1001450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >故事梗概</h2>青年里奥在夜晚被神秘人袭击，当他再次睁开眼睛时却发现自己身处一座陌生的小镇。里奥独自探索这个小镇，最后他发现了藏在小镇里巨大的秘密……<h2 class=\"bb_tag\" >游戏玩法</h2>此游戏为线性文字冒险，但有选择点和多结局设置。玩家通过在游戏中探索地图、与地图互动来使情节被推动。<h2 class=\"bb_tag\" >联系作者</h2>我们想提升游戏质量，如果您有任何想反馈的BUG请联系作者QQ1150001578。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001450/header.jpg?t=1548151240",
+    "developers": [
+      "WINXP Studio"
+    ],
+    "publishers": [
+      "WINXP Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Welcome!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1001450/cd36e68b1c63d03b28398edf33425e413d813b1c.jpg"
+        },
+        {
+          "name": "Time!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1001450/730056a91a7bd3c7ec7704988a6bd3f591a78aad.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

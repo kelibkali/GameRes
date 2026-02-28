@@ -1,0 +1,54 @@
+{
+  "1074330": {
+    "name": "Minesweeper Peak VR",
+    "steam_appid": 1074330,
+    "required_age": 0,
+    "is_free": true,
+    "description": "A port in VR of the classical Minesweeper game from Windows.  Remember the digits that tell you the number of adjacent mines?  It's the same here, except that adjacency works in three dimensions.  See and feel the structure of this 3D grid of potential mines—straight in VR.<br><br><ul class=\"bb_ul\"><li> Three levels of difficulty<br></li><li> 3D spheres instead of 2D squares<br></li><li> Simple but realistic-looking graphics<br></li><li> It is almost always possible to find the solution without luck</li></ul><br>To open a sphere, &quot;click&quot; on it with the trigger of the controller.  If it contains a mine, you loose.  Otherwise, a number appears.  This is the number of adjacent spheres that contain mines.  The precise rule is that two positions are adjacent if their 3D distance is smaller than 1.5.  That gives each sphere up to 18 neighbors; but don't fear, it is easy find neighbors: hovering over a number with the controller highlights all the adjacent spheres.<br><br>You can also click on a sphere with the &quot;other&quot; button (on Vive, press the touchpad; on Oculus, it is the A or X button).  Use it to flag spheres where you think there is a mine.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/header.jpg?t=1573255624",
+    "developers": [
+      "Armin Rigo"
+    ],
+    "publishers": [
+      "Baroque Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

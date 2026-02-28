@@ -1,0 +1,44 @@
+{
+  "993090": {
+    "name": "Lossless Scaling",
+    "steam_appid": 993090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Lossless Scaling 是一款强大的工具，它通过 LSFG 帧生成技术使游戏更加流畅，并且可以通过各种缩放算法和机器学习模型（如 LS1）提升画质或性能。它兼容大多数游戏，即使那些没有内置帧生成或缩放功能的游戏也不例外，同时也兼容其他应用程序和多种硬件。</p><h2 class=\"bb_tag\" ><strong>LSFG 3 帧生成</strong></h2><p class=\"bb_paragraph\" >此功能创建额外的帧以使游戏看起来更流畅。它非常适合缺乏帧生成或需要新硬件的游戏，以及锁定帧率的老游戏和模拟器。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >LSFG 是 Lossless Scaling 从头开始开发的专有机器学习模型，并已经过多次重大更新。</p></li><li><p class=\"bb_paragraph\" >它兼容多种硬件，并为低功耗 GPU 提供独立的性能模型。</p></li><li><p class=\"bb_paragraph\" >固定模式允许您倍增原始帧率，而自适应模式则可以指定任意的目标帧率。</p></li></ul><h2 class=\"bb_tag\" ><strong>缩放</strong></h2><p class=\"bb_paragraph\" >缩放功能可以通过降低原始分辨率并应用上采样来恢复部分质量，从而提高性能。这对于不支持现代分辨率或全屏模式的老游戏和像素艺术游戏也非常有用。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >LS1、FSR、NIS 非常适合现代游戏。</p></li><li><p class=\"bb_paragraph\" >Integer、XBR 则是像素艺术游戏的理想选择。</p></li><li><p class=\"bb_paragraph\" >Anime4K 适用于卡通片或动漫。</p></li></ul><h2 class=\"bb_tag\" ><strong>双 GPU 支持</strong></h2><p class=\"bb_paragraph\" >Lossless Scaling 的一大特点是能够将软件本身计算量转移到副 GPU 上。这意味着应用帧生成或缩放时不会影响游戏的原始帧率，并可能降低延迟。</p><h2 class=\"bb_tag\" ><strong>网络游戏兼容性</strong></h2><p class=\"bb_paragraph\" >用户发现在内置反作弊系统的网络游戏中使用 Lossless Scaling 是安全的。然而我们无法保证这一点，用户应自行判断是否使用。</p><h2 class=\"bb_tag\" ><strong>自定义</strong></h2><p class=\"bb_paragraph\" >Lossless Scaling 通过游戏配置提供了广泛的配置选项，使您能够保存针对单个游戏或多个游戏的设置。可在检测到指定游戏时自动应用您选择的设置和缩放，从而无需重复手动调整，确保一致性和自动化。</p><h2 class=\"bb_tag\" ><strong>需求</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >仅支持窗口化和无边框全屏模式。仅当 Lossless Scaling 输出配置为副显示器时，独占全屏模式才可能生效。</p></li><li><p class=\"bb_paragraph\" >启用 Lossless Scaling 前最好保留一些空闲 GPU 资源供它使用，否则会影响游戏的原始帧率。</p></li><li><p class=\"bb_paragraph\" >支持 Windows 10 版本 2004 或更新的系统。</p></li></ul><h2 class=\"bb_tag\" ><strong>Linux</strong></h2><p class=\"bb_paragraph\" >Lossless Scaling 的 LSFG 功能可在 Linux 上以社区驱动的移植版本中使用。如需更多详细信息，请查看 lsfg-vk 项目。</p>",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 韩语, 土耳其语, 乌克兰语, 日语, 意大利语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 繁体中文, 越南语, 阿拉伯语, 保加利亚语, 捷克语, 印度尼西亚语, 克罗地亚语, 希伯来语, 立陶宛语, 波斯语, 塞尔维亚语, 匈牙利语, 丹麦语, 荷兰语, 瑞典语, 泰语, 芬兰语, 希腊语, 挪威语, 格鲁吉亚语, 斯洛伐克语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/84ba6dc3a83e3dd4c0739985edbaf2e4051f57c4/header.jpg?t=1762179586",
+    "developers": [
+      "THS"
+    ],
+    "publishers": [
+      "THS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 3652,
+      "total_negative": 415,
+      "total_reviews": 4067
+    }
+  }
+}

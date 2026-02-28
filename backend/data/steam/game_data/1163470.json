@@ -1,0 +1,73 @@
+{
+  "1163470": {
+    "name": "Give Up The Dupe",
+    "steam_appid": 1163470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Give Up The Dupe</strong> is a short 10-15 minute sokoban-style puzzle game where you cannot see or being seen by yourself.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Clone yourself as many times as you want.<br></li><li> Undo button. No puzzle wastes your time because you accidentally pressed the wrong key.</li></ul><br>Powered By Ebiten, A dead simple 2D game library in Go.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163470/header.jpg?t=1614991224",
+    "developers": [
+      "SilbinaryWolf"
+    ],
+    "publishers": [
+      "SilbinaryWolf"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Complete the game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1163470/a88aeae15f05784bc1514b7a000b66b56b9d802e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

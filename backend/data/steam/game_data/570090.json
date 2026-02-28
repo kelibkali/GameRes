@@ -1,0 +1,61 @@
+{
+  "570090": {
+    "name": "articy:draft 3",
+    "steam_appid": 570090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Please note: </strong>articy:draft 3 is no longer the latest version of articy:draft, therefore active development has ceased. It will only be supported with critical bug fixes but it will not receive new feature updates. This also extends to the articy:draft 3 Importers for Unity and Unreal. Latest supported versions for the articy:draft 3 Importers are for Unity from 2021 up to 6000 and for Unreal UE 5.3 - 5.5. Updates for newer engine versions will not be released.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >For access to the latest features and ongoing support, check out articy:draft X on , the Articy official website. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Articy:draft is a visual tool for creating interactive stories and managing narrative content: witty dialogue, compelling choices, charming characters, useful items, challenging quests, strategic locations, global variables and more. All content can be exported into various formats - including JSON, XML and Microsoft Office. You can also integrate your content easily into Unity or Unreal with the comprehensive articy:draft Importers.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Features</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Plan and keep an overview of non-linear stories</p></li><li><p class=\"bb_paragraph\" >Write branching conversations</p></li><li><p class=\"bb_paragraph\" >Control game logic with variables and conditions</p></li><li><p class=\"bb_paragraph\" >Simulate your story content to find problems early on</p></li><li><p class=\"bb_paragraph\" >Manage large amounts of game objects (characters, items, ...) </p></li><li><p class=\"bb_paragraph\" >Sketch locations and communicate level ideas</p></li><li><p class=\"bb_paragraph\" >Document your game in detail</p></li><li><p class=\"bb_paragraph\" >Export to Word</p></li><li><p class=\"bb_paragraph\" >Export &amp; Import to Excel for localization</p></li><li><p class=\"bb_paragraph\" >Export to JSON or XML to integrate your content </p></li><li><p class=\"bb_paragraph\" >Integrate your content in Unity and Unreal easily</p></li><li><p class=\"bb_paragraph\" >Commercial Usage</p></li><li><p class=\"bb_paragraph\" ><i>and more…</i></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Story, Mission &amp; Quest Design</u></strong></p><p class=\"bb_paragraph\" >articy:draft makes the creation of interactive, branching content easy. It’s perfect for your narrative structure design. Each node in your story or mission flowchart can contain an inner flowchart. You can start with a top-level chapter-like structure and break it down into further and further until reaching single lines of dialogue. This nested approach ensures clean and organized flowcharts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Create variables, conditions and instructions to control the flow your game and make your player's choices count.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use the simulation mode to go through your story from a player's perspective and test your flow logic before you export it. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Unity and Unreal Integrations</u></strong></p><p class=\"bb_paragraph\" >Boost your iteration process. The comprehensive engine plugins get your content ready to use with Unity or Unreal with just a few clicks.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Game Object Database</u></strong></p><p class=\"bb_paragraph\" >articy:draft includes a powerful game object database with a flexible template system. Build everything, from characters, items, spells to weapons and skills. Templates are editable and very iteration-friendly due to their modular setup. Objects inherit the characteristics of their template making it easy to modify or expand them later.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Use And Create Plugins</u></strong></p><p class=\"bb_paragraph\" >Automate tasks and customize workflows by using custom plugins. The Macro Devkit enables you to develop your own plugins fast and easy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Location Planning</u></strong></p><p class=\"bb_paragraph\" >With the build-in location editor, a vector-based 2D drawing tool, you can easily plan your game world and single levels. This editor is an iteration-friendly sketching tool for maps and scenarios. You can place story events, spawn points and trigger zones on the map for planning purposes. For some game genres, the location editor can even produce the actual game output. For example 2D layer-based backgrounds for point’n’click adventures or hidden object games.</p>",
+    "supported_languages": "英语, 意大利语, 德语, 西班牙语 - 西班牙, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 法语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/header.jpg?t=1739194189",
+    "developers": [
+      "articy Software"
+    ],
+    "publishers": [
+      "articy Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 38500,
+      "final": 38500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 385.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 0,
+      "total_reviews": 21
+    }
+  }
+}

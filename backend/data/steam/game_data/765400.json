@@ -1,0 +1,93 @@
+{
+  "765400": {
+    "name": "Christmas Tale - Visual Novel",
+    "steam_appid": 765400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.<br />\r\n<br />\r\nYou will decide which choice to make, hoping it somehow will change your life.<br />\r\n<br />\r\n- Christmas atmosphere<br />\r\n- Three endings<br />\r\n- Steam Achievements<br />\r\n<br />\r\nDLC Deluxe Edition includes Winter Relax mode and Wallpapers.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/header.jpg?t=1514917549",
+    "developers": [
+      "morojenoe's empire"
+    ],
+    "publishers": [
+      "morojenoe's empire"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Another boring day",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/7fd1bf76f766dacaec3f6b7a883832cd440d55d9.jpg"
+        },
+        {
+          "name": "From whom this message?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/34c5909a6d4b04921d26f750a192bde248b95ff2.jpg"
+        },
+        {
+          "name": "Really?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/7fd1bf76f766dacaec3f6b7a883832cd440d55d9.jpg"
+        },
+        {
+          "name": "Make a snowman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/362f6dea343862e28051aacf068e04374c931217.jpg"
+        },
+        {
+          "name": "Christmas gift",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/a60cf8c7fa5a04cc8f580231ac14b67db2c99461.jpg"
+        },
+        {
+          "name": "Merry Christmas",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/fb755a81d596be41cda2d473e3cf83858df81e4a.jpg"
+        },
+        {
+          "name": "Usual ending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/765400/7fd1bf76f766dacaec3f6b7a883832cd440d55d9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

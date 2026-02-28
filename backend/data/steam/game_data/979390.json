@@ -1,0 +1,149 @@
+{
+  "979390": {
+    "name": "Laser Party",
+    "steam_appid": 979390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "镭射派对是一款围绕激光组合进行的友尽派对在线多人/本地游戏。<br><br><br><br><br><br><ul class=\"bb_ul\"><li> 独特的激光组合系统，并且与物理无缝衔接<br></li><li> 独特的胜利条件，最后两名玩家就能获胜，要随时痛击我的队友<br></li><li> 克苏鲁-赛博混搭的Boss，通过程序化动画的方式制作<br></li><li> 支持1-4个玩家一起本地/联机，默认打开语音<br></li><li> AI接管逻辑，你的朋友可以随时加入退出<br></li><li> 80个PvEvP设计的关卡<br></li><li> 回放系统</li></ul><br><br><br><br><br><br>故事：<br>随着人类对这个世界了解越深，我们就知道自己越渺小。直至文明发展到了某一天，惊动了沉睡中的古神，人类命运中最大的转折开始了，人们称这一天为“文明的终点”。我们的故事由此展开。<br><br><br><br><br><br><br>得分基础规则：<br>最后两名玩家会得到1分，就算死亡都会得分。因此剩下3名玩家的时候可以做出自杀式攻击。<br>一起组合激光去攻击飞船/导弹/Boss都会得到1个基础分。<br>高分可以解锁成就，并且用户名会提交到全球排行榜上。<br><br><br><br><br>每次得分如何计算：<br>最终分数=基础分*（章节分+章节计数）<br><br>章节计数就是当前是第几章节，就是几。<br>章节分就是章节固有分数，比如Boss关是10。<br>因此如果Boss关是第5关，在Boss关对Boss制造了一次伤害，一起组合的人都会得到<br>最终分数=1*(10+5)=15<br><br><br><br><br><br>开发者<br>我是一名在深圳的独立游戏开发者<br>欢迎关注微博 @不是流汗羊",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979390/header.jpg?t=1674270307",
+    "developers": [
+      "Cydream"
+    ],
+    "publishers": [
+      "Cydream"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 880,
+      "final": 880,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 8.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 50,
+      "highlighted": [
+        {
+          "name": "LIVE 3 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/69a66a71646d11ae9fa72f0b3fba42e5fff2bc75.jpg"
+        },
+        {
+          "name": "LIVE 4 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/3412644d8371ff4df10e76e345deeff9754a71e7.jpg"
+        },
+        {
+          "name": "LIVE 5 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/c6440021728c5951d6b8f63ee6063cea257c4694.jpg"
+        },
+        {
+          "name": "LIVE 6 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/c85e8117a7b2d8eed9299db68f0af701c2938fa1.jpg"
+        },
+        {
+          "name": "LIVE 7 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/5f5cf9eae1e6e8d4bc02c2a260596ea635764b43.jpg"
+        },
+        {
+          "name": "DIE 3 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/f546ebed6c31c1cb9eed134eb87cd70e783725ff.jpg"
+        },
+        {
+          "name": "Get 1000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/f803eb26eae5ac1145955510c92f87716b5a2a66.jpg"
+        },
+        {
+          "name": "Play With 1 Friend",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/c7115a77ed296de3205ecad76d0a8e2c783db22e.jpg"
+        },
+        {
+          "name": "Beat Boss No.0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/b8f035407f98f556797ac8efd76219f2b6707784.jpg"
+        },
+        {
+          "name": "LIVE 8 Times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/979390/df58a09ce37b9c70d9240d2d3cff2d20e2825db5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

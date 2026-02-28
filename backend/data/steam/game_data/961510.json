@@ -1,0 +1,133 @@
+{
+  "961510": {
+    "name": "MarisaLand Legacy",
+    "steam_appid": 961510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "黄昏边境最新作！东方Project二次创作游戏「魔理沙大陆・遗产」<br>吃掉蘑菇头身就会增长，简单的2D横板过关游戏。<h2 class=\"bb_tag\" >故事概要</h2>一直对奇怪的蘑菇魔法抱有兴趣的魔理沙，不小心吃了变成2头身且不能使用魔法的蘑菇，为了寻找能变回原样的蘑菇魔理沙踏上旅途。<br><br>把顺路捡到的蘑菇吃掉变大吧！<br>不仅是头身，人数也增加了魔理沙的冒险，再度起航…!<h2 class=\"bb_tag\" >游戏特征</h2>・从2头身到8头身不等的可爱魔理沙闪亮登场。<br><br>・虽然只限本地环境，但增加了多人游戏模式。（XInput最多可对应4人游戏）<br>・ 在全32关之上，免费更新32关「困难关卡」。<br>・在全32关通关后，追加32关「困难关卡」，共计64关可供游玩。",
+    "supported_languages": "日语, 英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/961510/header.jpg?t=1573023714",
+    "developers": [
+      "黄昏フロンティア"
+    ],
+    "publishers": [
+      "DLsite"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6200,
+      "final": 6200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 62.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "最初的8头身",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/dc6c265d5425bcb9418de99ca441d98863a493e2.jpg"
+        },
+        {
+          "name": "射爆",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/b1abb8f577f8b0e4ee3789cc82a281e3d5b87416.jpg"
+        },
+        {
+          "name": "发现跳关1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/5dce0d4d83eda1232e8d3369abe0e5656791ad55.jpg"
+        },
+        {
+          "name": "发现跳关2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/3d03319d45e4ad4ef404871b28ddeaf2b723c5c1.jpg"
+        },
+        {
+          "name": "发现跳关3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/faa0e14393947c7cfd9ccac30c5ccab827376f06.jpg"
+        },
+        {
+          "name": "集齐星星1up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/2909f47c17ef869c496394a517815996e9b2a345.jpg"
+        },
+        {
+          "name": "旋转翻滚1up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/5a8950087f8ddb53682103283d3b84790039a5fb.jpg"
+        },
+        {
+          "name": "顺坡滑下1up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/f803d889f91defaca4e4858586274d7cd0b9204f.jpg"
+        },
+        {
+          "name": "连续跳踩1up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/16cedc2daff6060bd382ed9d13930ea2943f3979.jpg"
+        },
+        {
+          "name": "8头身材1up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/961510/07e66d04b9ea088b5c9dfd11abf3239c4b8b7ea3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 54,
+      "total_negative": 16,
+      "total_reviews": 70
+    }
+  }
+}

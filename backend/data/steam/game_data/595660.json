@@ -1,0 +1,161 @@
+{
+  "595660": {
+    "name": "Lux Alliance",
+    "steam_appid": 595660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Lux Alliance 是一款同步回合的征服世界游戏，灵感来自于经典的策略类桌游 RISK、Axis &amp; Allies 以及 Diplomacy。调遣军队、与盟友联合、抢先于对手、夺得所有敌方总部（或旗帜）以获胜！<br />\r\n<br />\r\n* 在 10 分钟内掌管整个世界！ <br />\r\n* 同步回合：所有人同时行动！<br />\r\n* 具备排名联赛的跨平台在线多人游戏！<br />\r\n* 在 100 多幅不同的地图上征战：历史、几何、梦幻、亚历山大大帝、罗马帝国、世界大战、 * 美国内战、中国古代等等！<br />\r\n* 用内置地图编辑器创建你自己的地图。<br />\r\n* 极具挑战性的 AI 会将你逼入绝境（没开玩笑）。<br />\r\n* 编程人员可利用开源 LuxAgent SDK 创建新的 AI。<br />\r\n* 大量热键！<br />\r\n<br />\r\n回合同时进行<br />\r\n无需等待其他玩家作出行动。所有人可以同时计划自己的指令。计划完成之后，所有战斗同时执行。半小时内打一场漂亮仗。<br />\r\n<br />\r\n历史地图和幻想地图<br />\r\n在历史、几何、地理和幻想地图场景上游戏。内置地图管理器中提供有 100 多幅地图，包含罗马帝国、亚历山大大帝、世界大战、美国内战等等！<br />\r\n<br />\r\n强劲 AI 大脑<br />\r\n单人电脑 AI 绝非等闲之辈。编程人员可使用开源 AI SDK。<br />\r\n<br />\r\n在线多人<br />\r\n快速实时多人游戏。或者减慢节奏，玩一天一次回合游戏。网络游戏追踪器将它们全部列出。使用自己的服务器。<br />\r\n<br />\r\n协作团队与玩家对战<br />\r\n大量支持团队协作的地图。与队员团结一致战胜敌人。共同占领大陆，赢取奖励。多人模式支持团队秘密聊天功能。<br />\r\n<br />\r\nAxis &amp; Allies + Diplomacy<br />\r\nLux Alliance 是对这些经典策略桌游的致敬。<br />\r\n<br />\r\n可修改<br />\r\n使用内置地图编辑器创建你自己的地图。点击发送，我们会把它添加到地图管理器中。编程人员可利用 Sillysoft SDK 创建 AI。<br />\r\n<br />\r\n经典起源<br />\r\n来自 Lux Delux 的创造者！<br />\r\n<br />\r\n因为掌管世界很有趣！",
+    "supported_languages": "英语, 法语, 德语, 瑞典语, 西班牙语 - 西班牙, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595660/header.jpg?t=1496948259",
+    "developers": [
+      "Sillysoft Games"
+    ],
+    "publishers": [
+      "Sillysoft Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 32,
+        "description": "Steam 回合通知"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Welcome Luxer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/2a08a82b09b3799ea7fa6defc09f34e892bbfbf0.jpg"
+        },
+        {
+          "name": "Welcome Warrior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/608bacbc39186793347ef5a58309bdd98ad44c10.jpg"
+        },
+        {
+          "name": "Welcome Centurion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/bfab7a890912050beae641371ebee7c21c4bc293.jpg"
+        },
+        {
+          "name": "Fast winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/9890cef1f9589e0598ff3aacab4a86cf0811b8a8.jpg"
+        },
+        {
+          "name": "Slow winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/b91ac8ba6b6e70643ae3c3c31c93b326b0222732.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/6d65105cdd0383b2b87ba731adc2935d0b78c399.jpg"
+        },
+        {
+          "name": "Conquistador",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/b52782a05cbf9b60a38d4bd7bf21e5608cc4c949.jpg"
+        },
+        {
+          "name": "Downloader",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/11112d0a3e2e61f64461abc2311ec2c084a0b31c.jpg"
+        },
+        {
+          "name": "Cartographer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/1f5193f38a17cb20e3f3a988d7c46f92f94ece79.jpg"
+        },
+        {
+          "name": "All Sides",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/595660/11823f5829634b58e4cace29626e2093fba95096.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 4,
+      "total_negative": 2,
+      "total_reviews": 6
+    }
+  }
+}

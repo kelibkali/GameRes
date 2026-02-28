@@ -1,0 +1,81 @@
+{
+  "1343550": {
+    "name": "Conflict Area",
+    "steam_appid": 1343550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "冲突区是一款FPS游戏，您可以与朋友一起玩，并且可以享受精美的图形和5种不同的游戏模式。这是一款多人和单人游戏，您可以通过在狭窄区域内的冲突引发动作并以大地图突出显示团队游戏，从而进行激烈竞争。<br><br>另外：<br><br><ul class=\"bb_ul\"><li>有7种不同的武器。<br><br></li><li>每个武器免费提供2种不同的模式。<br><br></li><li>有5种不同的游戏模式（征服，夺旗，突击，死亡比赛，团队死亡比赛）。<br><br></li><li>有4种不同的地图。<br><br></li><li>该游戏目前处于抢先体验状态。您可以通过购买游戏来支持我们。<br><br></li><li>下载大小：3.5Gb /所需空间：9Gb</li></ul>",
+    "supported_languages": "英语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343550/header.jpg?t=1603879591",
+    "developers": [
+      "SncI Games"
+    ],
+    "publishers": [
+      "SncI Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

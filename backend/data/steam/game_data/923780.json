@@ -1,0 +1,77 @@
+{
+  "923780": {
+    "name": "Project Cybertronic",
+    "steam_appid": 923780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Hello, welcome to Project Cybertronic.</h2><br>Project Cybertronic is a zero gravity video game as a massive online battle arena. Fly in space with your jetpack and use all sorts of surfaces to walk on with magnetic boots, using flashy maneuvers to capture the surprise moment to use your opponents or trickle out their attacks. Infiltrate gigantic battleships and stations from within and find their weaknesses. Use tactical Items in the right moment to give you an advantage. Join the Earth Alliance and learn fighting in weightlessness to become the best in a Last Man Standing Arena. Play with your friends privately or public via Internet or Local Network.<br><br>From its roots as a passion project, we have begun gathering a team to turn it into something far more. But we need your help to make Cybertronic next years game of choice for enthusiastic gamers. It is highly motivating that people like you are interested in us and that gives us the power to realize Cybertronic.<h2 class=\"bb_tag\" >Note: </h2>This current game version is from a no-budget project development. We currently do not have a running online server, but you can create your own and wait until a player enters your match. For the Match Making we use a free Unity Unet account in which 1-3 Players can play without abort. If there are more players in a match, a connection lost could be happen till playing. You will be suddenly return to the main menu. For more players we recommend to make a manuel connection. If you have problems entering a game, restart the application completely and navigate directly to the desired game mode (without detours).<br><br>Nevertheless, we wish you a lot of fun and hope for your support to make Cybertronic to a complete game.<br><br>If you have any questions, please contact us at info@cybertronic.red",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/923780/db027adcac0b293e645d3a729cd4a3d29aa42468/header.jpg?t=1749202714",
+    "developers": [
+      "Redhead Game Society"
+    ],
+    "publishers": [
+      "Redhead Game Society"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

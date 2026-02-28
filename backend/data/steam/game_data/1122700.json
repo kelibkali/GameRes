@@ -1,0 +1,121 @@
+{
+  "1122700": {
+    "name": "Hindsight",
+    "steam_appid": 1122700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "如果我们生活的一件寻常物件、一件随身之物是通往过去的时光之窗，结果会怎样？在 Hindsight 中凝视遥远的记忆和迷蒙的未来。 <br />\r\n<br />\r\n由 Prune 创作者倾力打造，Hindsight 是一款叙事性探索游戏，你将随着女主角回忆其出生到现在的点点滴滴，感悟人生的酸甜苦辣。重回她童年时的家园，整理她的私人物品，通过时光之窗唤醒她尘封的记忆。 <br />\r\n<br />\r\nHindsight 邀请你放慢脚步，注意遗落在时光里的各种小物件。将这些小物件拼凑起来，不断改变观察角度，直至找到正确的视角，以便进入更久远的过去。 <br />\r\n<br />\r\n尘封的记忆和梦境交织在一起。逝去的时光虽然让人流连，但是你早晚还得回到现在。 <br />\r\n<br />\r\n你会带走什么？又会留下什么？",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 繁体中文, 土耳其语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122700/header.jpg?t=1729099970",
+    "developers": [
+      "Team Hindsight"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 2400,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 60.00",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "物是人非",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/3d2a16efc45a3f160eb2422610fe91563d151cae.jpg"
+        },
+        {
+          "name": "循规蹈矩",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/d444a0d0ae1794054bb867fdae76a7427376fa58.jpg"
+        },
+        {
+          "name": "收拾散落的回忆",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/e31819ecaf64e9e3891e658f8def64e132108d93.jpg"
+        },
+        {
+          "name": "暗涌与挣扎",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/c26cc4d85b8ef1bd7f1581e5f86b574a2c2aedc5.jpg"
+        },
+        {
+          "name": "厨房里的时光",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/be5226bae013d58c3e5d0da7d33bf5783ed2516e.jpg"
+        },
+        {
+          "name": "借你的光",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/f945ac3822f81926ee381900158bcbb190b28fb9.jpg"
+        },
+        {
+          "name": "后见之明",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/2699bf26bfaefd1861c756de0121f9b4137cf876.jpg"
+        },
+        {
+          "name": "拼写冠军",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/8f32530b7e109951e29bc4a95c2eff2429bb2105.jpg"
+        },
+        {
+          "name": "确实是流星",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/e09c7e6dfec006251cc1422a95adcc3108de93ba.jpg"
+        },
+        {
+          "name": "实现你的梦想！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122700/cac3adbc836ae97527124f425c1abe81e19e61d1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 8,
+      "total_negative": 6,
+      "total_reviews": 14
+    }
+  }
+}

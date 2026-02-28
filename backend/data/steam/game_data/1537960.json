@@ -1,0 +1,101 @@
+{
+  "1537960": {
+    "name": "Click and Relax",
+    "steam_appid": 1537960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该游戏由迷你游戏组成，您可以在其中移动物体、转动旋钮并放松身心。<br />\r\n<br />\r\n将鼠标移到由其他对象组成的对象上<br />\r\n用鼠标重塑对象<br />\r\n颜色对象",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1537960/header.jpg?t=1709420112",
+    "developers": [
+      "Hede"
+    ],
+    "publishers": [
+      "Hede"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 67800,
+      "final": 67800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 678.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "q",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537960/16e0c6d23d343fd9391f550f1308c32ed209f942.jpg"
+        },
+        {
+          "name": "w",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537960/7d16500865e30fe4f9f6c6a32f241bb014feb02f.jpg"
+        },
+        {
+          "name": "e",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537960/31c143760ce78b76c98d2d711c3d85d4c5b09d0f.jpg"
+        },
+        {
+          "name": "r",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537960/84dc927faed85235b28b1c80249b44457f45db4e.jpg"
+        },
+        {
+          "name": "t",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1537960/b6954a5363bfab9f9495db454a7fd12b698e0238.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

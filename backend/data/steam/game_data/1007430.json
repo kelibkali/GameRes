@@ -1,0 +1,129 @@
+{
+  "1007430": {
+    "name": "SixCubes",
+    "steam_appid": 1007430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "（SixCubes）六种骰子 - “冒险”类型的冒险游戏。帮助骰子解决难题并与对手战斗。通过大量测试，使用Backspace按钮在字符之间切换，使用不同立方体的独特功能。<br><br>在每个级别的最后，您将找到有用的信息，让人想起重要的成就以及我们在现实生活中遇到的数学，物理和其他有用信息的必要知识。例如，在第一级结束时，您将看到乘法表，第二级是Pi数，第三级是Isaac Newton定律。<br><br>所以，继续冒险吧！<br><ul class=\"bb_ul\"><li>六个骰子，六个字符按Q按钮切换和学习能力！<br></li><li>带有星星的蓝色立方体是所有立方体的头部，它可以走得最远，它应该去新的位置。<br></li><li>当使用Q按钮时，在地面上方悬停的砖头上有十字架的立方体能够摧毁对手，在使用后需要补充能量。<br></li><li>黄色立方体是最快和最弹跳的。<br></li><li>头上有天线的绿色立方体可以搜索隐藏的物体。<br></li><li>在每个级别结束时，有乐趣解决难题并学习或记住有用的信息:)</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 繁体中文, 简体中文, 土耳其语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007430/header.jpg?t=1667040008",
+    "developers": [
+      "Dnovel"
+    ],
+    "publishers": [
+      "Dnovel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 660,
+      "discount_percent": 40,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 6.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Mathematics",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/eba20927d6bdd24dd28e7a4d18028b5c9945ad46.jpg"
+        },
+        {
+          "name": "Pi",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/d1ca6ba51e6295af50b91ed9b571847fb1fcec8e.jpg"
+        },
+        {
+          "name": "Sir Isaac Newton",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/535c0310363e46322136d3475b50258004f9e5a3.jpg"
+        },
+        {
+          "name": "Max Planck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/198e99acc8c2ca7539b8efa97491699d4d123ea9.jpg"
+        },
+        {
+          "name": "World War Two",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/e9cc132ec10c8ae97151414682b2446ff111b5f2.jpg"
+        },
+        {
+          "name": "Powder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1007430/d1d8727d4f31928fbee5cce74de7d22f24dd6015.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

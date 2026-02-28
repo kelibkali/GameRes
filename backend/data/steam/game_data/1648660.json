@@ -1,0 +1,69 @@
+{
+  "1648660": {
+    "name": "Caïssa Chess Island",
+    "steam_appid": 1648660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Caîssa Board is a 2D and 3D chess interface that aims toward simplicity. With it, you can play at home with your friends, against a chess engine (UCI or CECP) or on lichess.org. There is also a multiplayer mode where you can pick a character and go play chess with your friends in a virtual chess club located in a Greece themed island.<br />\r\n<br />\r\nTen chess variants are supported: Standard chess, chess 960, antichess, atomic, crazyhouse, horde, infiltration, king of the hill, racing kings and three checks.<br />\r\n<br />\r\nCaïssa Board can help you with your chess studies, its database module can import thousands of games (PGN format) and can tell you which games match a given position.<br />\r\n<br />\r\nYou can analyze your games with several chess engines and be given hints about tactics.<br />\r\n<br />\r\nYou can also comment your games, add NAGs (numerical annotation glyphs) very easily and even publish them with the LaTex export functionality.<br />\r\n<br />\r\nThe first graphical user interfaces for chess have appeared in the 1990s. Since then, they have considerably evolved but are still very complicated. Caïssa Board has been to designed to be a modern Chess GUI that is capable of interfacing with many chess engines while being tuned toward simplicity of use, and has become much more than that now.<br />\r\n<br />\r\nWhile still in Early Access, the core functionalities are nearly completed now.",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648660/header.jpg?t=1749237338",
+    "developers": [
+      "Dominique Lorre"
+    ],
+    "publishers": [
+      "Dominique Lorre"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

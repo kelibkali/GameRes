@@ -1,0 +1,61 @@
+{
+  "1265130": {
+    "name": "iMemo",
+    "steam_appid": 1265130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a puzzle game for the whole family. You assign the number of blocks and create a game field where you need to find paired images. Use the mouse to open the first image and then the second. If both pictures coincide, they remain open, otherwise they close back and you continue to search or remember where you came across the same ones. The number of attempts is unlimited, good training of visual memory.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/header.jpg?t=1585241169",
+    "developers": [
+      "cBlck"
+    ],
+    "publishers": [
+      "cBlck"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

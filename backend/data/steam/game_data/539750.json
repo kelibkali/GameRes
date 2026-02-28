@@ -1,0 +1,117 @@
+{
+  "539750": {
+    "name": "Kombine",
+    "steam_appid": 539750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Kombine is a minimalist puzzle game played on a grid. The goal is to remove all of the blocks that have borders by matching three or more of the same blocks together. When blocks are matched, a new block is created with the same color and a higher value. Three 1s create a 2, three 2s create a 3, etc. However, you can only place blocks with a 1 value, so it can become challenging to create a match with higher value blocks. There are 50 levels to play through in both normal and time trial modes. In time trial mode, you play quickly through 10 levels at a time trying to get the best time.<br><br><u>Optional Keys</u><br><ul class=\"bb_ul\"><li>M = mute/unmute sound<br></li><li>B = toggle background scrolling<br></li><li>Esc = exit game when on menu</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539750/extras/fac8166dfdcf0c88c2840d1fec474843.poster.avif?t=1631467632\" width=338 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539750/extras/fac8166dfdcf0c88c2840d1fec474843.webm?t=1631467632\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539750/extras/fac8166dfdcf0c88c2840d1fec474843.mp4?t=1631467632\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/539750/header.jpg?t=1631467632",
+    "developers": [
+      "Robert Alvarez"
+    ],
+    "publishers": [
+      "Robert Alvarez"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "10 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/f7c48790575d28d50709745c2bb19bd6de69e309.jpg"
+        },
+        {
+          "name": "20 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/acb8ec0196b39e9128d16ae163e611fc91be3455.jpg"
+        },
+        {
+          "name": "30 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/beae849b69b0556dfa3b376107dcfcf0b442debc.jpg"
+        },
+        {
+          "name": "40 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/7a2dda1c65a88630a97fd58e53df735490096e0a.jpg"
+        },
+        {
+          "name": "50 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/8463361c8437a0e2268939f20659b50a55aeae81.jpg"
+        },
+        {
+          "name": "Time Trial 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/88626675a0ab9dd5a3a86b905edc586a57b943e2.jpg"
+        },
+        {
+          "name": "Time Trial 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/111c43ef65500db9b4a5b4e844d11c1569e11c14.jpg"
+        },
+        {
+          "name": "Time Trial 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/eb569b28462dde373184400ec4f7f9fe31087810.jpg"
+        },
+        {
+          "name": "Time Trial 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/d8af6d365b948fa435f4fce628989f22906f5137.jpg"
+        },
+        {
+          "name": "Time Trial 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/539750/1650acc61c51e2763282420d4577380345e48ef4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 7,
+      "total_negative": 1,
+      "total_reviews": 8
+    }
+  }
+}

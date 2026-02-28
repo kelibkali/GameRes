@@ -1,0 +1,121 @@
+{
+  "1512300": {
+    "name": "Quick Race",
+    "steam_appid": 1512300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Everything you need to do is very simple – just race and over take every other car on the track to win the race! Quick Race is a simple racing game where you can compete with AI or on a split screen with your friend. <br>Main features included in the game:<br><br><ul class=\"bb_ul\"><li> 10 tracks with different shapes and surfaces<br></li><li> ability to change time of the day<br></li><li> ability to change AI difficulty<br></li><li> different types of cars <br></li><li> split screen<br></li><li> changeable amount of laps<br></li><li> simple steering</li></ul><br>Quick Race is definitely not the simulation game but the steering is made to imitate as much as possible the real steering. Remember to be a nice driver to the other cars. Otherwise they won’t be nice to you causing you to end a race on a wall or out of the track. So, what are you waiting for? Grab the key and put it into your racer’signition!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512300/header.jpg?t=1613782827",
+    "developers": [
+      "Source Byte Sp. z o.o."
+    ],
+    "publishers": [
+      "Source Byte Sp. z o.o."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Win against Not ez",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1512300/85180d2e463c0a2d569d8ee6e70e4fc8b15d21a2.jpg"
+        },
+        {
+          "name": "Win without crashing into the wall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1512300/e087752dcb4d7815e449145f232468110e041185.jpg"
+        },
+        {
+          "name": "Play every map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1512300/15ad88ff3b22b480f6230addfbcdc921e0cab94d.jpg"
+        },
+        {
+          "name": "Race 50 races",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1512300/7989798c77220f18b29c44ba47166df62f17e2f8.jpg"
+        },
+        {
+          "name": "Play splitscreen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1512300/2451ef097fc414836afc89a6ab27eaf465d71ded.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

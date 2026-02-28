@@ -1,0 +1,110 @@
+{
+  "794900": {
+    "name": "Light.vn: Visual Novel Engine",
+    "steam_appid": 794900,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" ><strong>Light.vn Visual Novel Engine</strong></h2><p class=\"bb_paragraph\" >Light.vn is a visual novel engine designed for ultra fast iteration to bring out the highest quality in all projects.   </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Main features</strong></h2><p class=\"bb_paragraph\" ><strong>[Realtime Preview]</strong></p><p class=\"bb_paragraph\" >The biggest feature in Light.vn. </p><p class=\"bb_paragraph\" >Open up your project in the editor and click on a line - the preview screen immediately displays the state of the project at that point in time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Games in an instant]</strong></p><p class=\"bb_paragraph\" > Unlike drag and drop UIs, Light.vn's scripting language allows you to simply copy-paste your scenario, your first game is done in an instant.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Pixel perfect]</strong></p><p class=\"bb_paragraph\" >Feel free to finally get that textbox, that image just right up to the very pixel. </p><p class=\"bb_paragraph\" >No need to restart the game or click refresh - Light.vn's editor auto reflects on preview your every single change</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Complete UI set]</strong></p><p class=\"bb_paragraph\" > Backlog, Config, Save, Load, Replay, etc. - Light.vn's official sample comes with all built in, ready for use. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Simple]</strong></p><p class=\"bb_paragraph\" >Your whole project is just a single folder. </p><p class=\"bb_paragraph\" >Copy paste to backup. Double click the editor to go again. </p><p class=\"bb_paragraph\" >No need to install some central bulky program on your PC.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Extensible]</strong></p><p class=\"bb_paragraph\" > From traditional visual novels to 2D RPGs and 3D dungeon mechanics, unleash your possibilities. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Well Tested]</strong></p><p class=\"bb_paragraph\" > Tired of software that breaks now and again? </p><p class=\"bb_paragraph\" >Light.vn comes with it's own testing suite, LightTests.exe, guaranteeing quality, stability, and deterministic performance.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Completely free]</strong></p><p class=\"bb_paragraph\" > We take no dime.</p><p class=\"bb_paragraph\" > (And have taken none since development start in 2012)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>[Great support]</strong></p><p class=\"bb_paragraph\" >We've worked with teams both small and large for over 10 years. </p><p class=\"bb_paragraph\" >Have a question? Just drop into Discord! We have your back.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Outputs</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Windows (10~), Browser. iOS, Android.</p></li><li><p class=\"bb_paragraph\" >Light.vn's c++ core library guarantees ultra-fast, no stress execution on all platforms.</p></li></ul>",
+    "supported_languages": "英语, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794900/c7732a9bff8360927c223a87bb7f6c3eacecc56d/header.jpg?t=1764925943",
+    "developers": [
+      "SoulEngineProject"
+    ],
+    "publishers": [
+      "SoulEngineProject"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 12 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 64,
+        "description": "可调整文字大小"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 65,
+        "description": "字幕选项"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

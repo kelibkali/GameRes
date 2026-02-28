@@ -1,0 +1,73 @@
+{
+  "1296580": {
+    "name": "Finger Guessing King",
+    "steam_appid": 1296580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款类似于猜拳的休闲竞技类游戏，既有运气的成分，更加考验玩家的智慧与策略。<br />\r\n<br />\r\n游戏包括单人模式和联机对战模式，游戏双方会随时间不断增加MP，需要消耗MP才能发射炮弹，炮弹有石头、剪刀、布三种类型，不同类型之间互相克制，如同猜拳。<br />\r\n<br />\r\n但不同于猜拳的是，不仅仅靠运气，更加考验玩家的反应力、判断力以及对战策略。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296580/header.jpg?t=1618143722",
+    "developers": [
+      "Yang Sun"
+    ],
+    "publishers": [
+      "Yang Sun"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

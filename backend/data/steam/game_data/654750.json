@@ -1,0 +1,128 @@
+{
+  "654750": {
+    "name": "Square x Square",
+    "steam_appid": 654750,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >About: </h2><br><strong>Square x Square</strong> is a local multiplayer game for 2 to 4 players.<br><ul class=\"bb_ul\"><li>There are 12 hats, 12 weapons and 12 abilities to be chosen, totalizing 1,728 possible combinations.<br></li><li>Every hat and weapon have a different status (attack, defense and speed) that directly interfere in their in-game status.<br></li><li>Your chosen ability has a passive effect that helps you in the game.<br></li><li>There are 3 different types of weapons: melee, short range and long range. Every type has a different playability. There are also weapons with special effects such as slowness, critical damage, and a weapon with a unique mechanic.<br></li><li>Every arena has loops on the sides (goes in through one side and comes out through the other).<br></li><li>Every arena spawns a box that generates random events for the match. These events can be good, bad or neutral.<br></li><li>There's a team mode to play 2x2.</li></ul><h2 class=\"bb_tag\" >Mechanics:</h2><br><strong>Some of the events:</strong><ul class=\"bb_ul\"><li>The player that collects the box receives explosive troop that'll help them.<br></li><li>Every player gets 999 attack damge. Only one hit can defeat any other player.<br></li><li>Double the speed to all players.<br></li><li>Double the attack to all players.<br></li><li>Increased attack to whoever collects the box.<br></li><li>Every player receives damage by the second.<br></li><li>Jumping on another player's head will defeat them.<br></li><li>Randomizes all weapons and helmets of every player.<br></li><li>Every player has their position switched periodically.<br></li><li>Infinite jump.<br></li><li>Screen gets completely black periodically.</li></ul>Here are just some of the events. So far the games has more than 30 random events.<br><br><strong>Controls:</strong><ul class=\"bb_ul\"><li>Keyboard 1 - W, A, S, D, Space, N, M<br></li><li>Keyboard 2 - Up, Down, Left, Right, 0*, 2*, 3* (numpad)<br></li><li>Joystick- Analogic/Arrows, A, X, Y</li></ul><strong>Players' abilities:</strong><ul class=\"bb_ul\"><li>Run<br></li><li>Jump - Double jump<br></li><li>Attack in 4 directions (up, down, left and right)<br></li><li>Stun other players when falling on their while they're mid jump<br></li><li>Shove players when attacking them<br></li><li>Get pushed upwards when attacking downwards while falling</li></ul>",
+    "supported_languages": "英语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654750/header.jpg?t=1771973384",
+    "developers": [
+      "HackoonDev"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Red Square Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/eb4804a008f5ffe4105b65952148d8351ebfc418.jpg"
+        },
+        {
+          "name": "Blue Square Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/d24537eef62a79b36b2dd59dfd81f81c2fb58c45.jpg"
+        },
+        {
+          "name": "Yellow Square Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/17af88cfcffecdc9d408906f12e0f5b270f74825.jpg"
+        },
+        {
+          "name": "Pink Square Win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/fa4896eaedade6bc8c32556960016e9ff9da9146.jpg"
+        },
+        {
+          "name": "50 In A Row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/76b0fcd9849381741b0d307eaa08f5113c346a27.jpg"
+        },
+        {
+          "name": "GG WP",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/16827121bbdd7b16abf065e5c8dadad989b6fe99.jpg"
+        },
+        {
+          "name": "4 Friends",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/a1bdd7f6b68cbd2c22423009390cfdb57d188c1e.jpg"
+        },
+        {
+          "name": "Time Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/294816acb866234ee02e69d1810b0458c3aa68f5.jpg"
+        },
+        {
+          "name": "Peaceful",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/dc720bf7192500eb7b01ffef30787bd36c8ca10a.jpg"
+        },
+        {
+          "name": "Lucky Boy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/654750/4e586a5af5b85759c984a27e82a3b9040a2900fb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "1199120": {
+    "name": "DCS: JF-17 Thunder",
+    "steam_appid": 1199120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "JF-17是成都飞机工业集团公司与巴基斯坦航空综合企业（Pakistan Aeronautical Complex）合作研制的多用途单座单发轻型战机。JF-17 &quot;枭龙&quot;战斗机2002年5月31日完成设计，2003年8月25日首次试飞。2007年开始交付巴基斯坦空军。目前有巴基斯坦，缅甸装备了不同批次的JF-17，另外还有数个国家有意购买此机。在2019年的2月27日，&quot;枭龙&quot;经受住了实战的考验，帮助巴基斯坦赢得了一次不小的胜利。<br />\r\n <br />\r\n可以说&quot;枭龙&quot;是一款为巴基斯坦量身定做的飞机，她的前身甚至可以追溯到1985年，一开始，巴基斯坦只是在寻找一款可以替代沈阳J-6战斗机的飞机，但成都的J-7M却不能让他们完全满意。而在曲折的二十多年发展后，我们最终看到的是一架与J-7M完全不相同的飞机。<br />\r\n <br />\r\n她拥有通透的气泡式座舱、漂亮的大边条翼以及先进的航空电子设备。KLJ-7雷达提供了优秀的对空对地探测能力。WMD-7吊舱可以帮助&quot;枭龙&quot;更好的在战场中寻找目标。虽然她的尺寸略小，但记住，她是DCS World中最为先进的飞机。<br />\r\n <br />\r\nDCS: JF-17 &quot;枭龙&quot;的主要特点如下：<br />\r\n●\t工业级别非线性高拟真6自由度刚体力学气动模型<br />\r\n●\t完全复刻真实俯仰全权限电传控制系统、横航向控制增稳系统：包含了不同模态和故障降级的操控特点。<br />\r\n●\t优异的飞机外部建模：蒙皮的褶皱、掉漆及油渍和其他使用痕迹都有明显体现；甚至每一颗铆钉的位置都被忠实还原。<br />\r\n●\t身临其境的6DOF飞机座舱：三块巨大的多功能显示器配合先进的HOTAS和航电交互界面，帮助你更好的了解战场和作战。<br />\r\n●\t准确模拟了飞机的每一个子系统：通讯导航系统、火控系统、挂载管理系统、DTC数据卡、机电管理系统、大气数据系统、防御系统、告警系统、敌我识别系统、液压系统、气动系统、电力系统、环控系统、机身/驾驶舱照明系统、动力系统、供氧、弹射座椅、销秘、抗荷服等子系统。<br />\r\n●\t详细的故障模拟：全机共有239个系统故障，机身有超过100块损毁分块，近100个机载设备分布其中；有交互的系统出现故障会互相影响。<br />\r\n●\tKLJ-7雷达可同时跟踪10个并攻击2个空中目标，并且拥有地面/海面运动目标的探测跟踪能力。<br />\r\n●\t先进的防区外攻击能力：包括LS-6和GB-6滑翔炸弹和C-802AK反舰导弹及CM-802AKG人在回路导弹。<br />\r\n●\tWMD-7吊舱可用于对地面目标进行搜索跟踪，对空中目标进行识别；引导激光制导炸弹和激光制导火箭弹。<br />\r\n●\t先进的电子战设备：包括可对辐射进行定位的KG-600型自保护吊舱和机尾的MAWS告警系统。<br />\r\n●\t数据链系统支持同机型和与预警机的目标和位置共享。<br />\r\n●\t与地勤丰富的互动。<br />\r\n●\t后续扩展的空中加油能力。<br />\r\n●\t为JF-17量身定做的位于高加索地区的战役（暂定）。",
+    "supported_languages": "英语<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199120/header.jpg?t=1727211959",
+    "developers": [
+      "Deka Ironworks"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 56000,
+      "final": 56000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 560.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 107,
+      "total_negative": 10,
+      "total_reviews": 117
+    }
+  }
+}

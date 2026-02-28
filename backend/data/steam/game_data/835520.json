@@ -1,0 +1,113 @@
+{
+  "835520": {
+    "name": "Dodge Show",
+    "steam_appid": 835520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dodge Show是一款简单的休闲躲避类游戏，由Game maker Studio2提供支持。<br />\r\n游戏风格灵感来源于我超喜欢的英雄联盟，借鉴了其中的很多元素。<br />\r\n在多个不同类型的技能的狂轰乱炸之下，你能坚持多长时间？<br />\r\n在躲避的同时，你可以训练你的反应，并挑战自己努力提高你的分数。<br />\r\n尽情享受这个游戏！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835520/35cef68177edb6b648074f9b1877e95f96105842/header_schinese.jpg?t=1765864073",
+    "developers": [
+      "Qunee"
+    ],
+    "publishers": [
+      "Qunee"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "黑铁选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/aaeee5f5ff1ad3906d17ae889775d7d71d87b294.jpg"
+        },
+        {
+          "name": "黄铜选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/aa03322c717c8cb65f76655428c8bcfec5d9f284.jpg"
+        },
+        {
+          "name": "白银选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/28e2bf5818b1967b037c19a8820b3b00caa83f3b.jpg"
+        },
+        {
+          "name": "黄金选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/8cb87dc7a776cfd146c858a983bbf0ebeb8d1e51.jpg"
+        },
+        {
+          "name": "白金选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/c19117df695b8ae25f4e614e67d473efe8d3ff76.jpg"
+        },
+        {
+          "name": "翡翠选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/ec80365fe9de724c632b1ed81ed24d1deda147fe.jpg"
+        },
+        {
+          "name": "钻石选手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/450b1e7f70a0d99404ff169a5f14c1e7a5627cf7.jpg"
+        },
+        {
+          "name": "大师！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/f7e004a4f0ac0c757e8560098c7fdbce42fbb173.jpg"
+        },
+        {
+          "name": "宗师！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/7c5a66cb8253b8602dfe19f8b338de7043ca735b.jpg"
+        },
+        {
+          "name": "王者！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/835520/7e54bcfcbed47e4df246822805def0986d41a1fb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 322,
+      "total_negative": 70,
+      "total_reviews": 392
+    }
+  }
+}

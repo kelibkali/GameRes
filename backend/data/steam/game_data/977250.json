@@ -1,0 +1,91 @@
+{
+  "977250": {
+    "name": "001 Game Creator - Enhanced RPG (Turn-Based Battles)",
+    "steam_appid": 977250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Create incredible role-playing games with our Enhanced RPG (Turn-Based Battles) Kit that not only adds a ton of new features not seen in the built-in RPG template but also adds a bunch of quality of life improvements and even a fully functional Turn-Based Battle system! With this DLC Kit, creating your dream RPG is no longer a fantasy but a reality!<h2 class=\"bb_tag\" >Full Feature List:</h2><h2 class=\"bb_tag\" >Fully customizable turn-based battle system</h2><ul class=\"bb_ul\"><li>Add enemies or allies mid-battle at any time<br></li><li>Fully customizable enemy or ally AI system<br></li><li>Conditional based skills/attacks<br></li><li>Ability to run text code for complicated attack skills/cutscenes<br></li><li>Run/Block chances<br></li><li>Randomized weighted AI options with ability for force skills if condition is met<br></li><li>Mid-Battle cutscenes<br></li><li>Random map battles with weighted encounter chances<br></li><li>Completely compatible with action-combat based games<br></li><li>Scene/Pattern based map configurations<br></li><li>Ability to place battles on the same map as action-combat or transition to a new map</li></ul><h2 class=\"bb_tag\" >Various item constants added to compliment turn-based battle system</h2><ul class=\"bb_ul\"><li>Default enemy/ally selection (TBB)<br></li><li>Item Overriding (TBB)<br></li><li>Hiding item from menus (TBB)<br></li><li>Force item to be used on caster (TBB)<br></li><li>Hide displaying of weapon targeting message and targeting arrows (TBB)<br></li><li>Disabling damage script entirely when this item is used<br></li><li>Damage absorption as HP when the target is hit<br></li><li>Animation lock which prevents movement or animation changes</li></ul><h2 class=\"bb_tag\" >Improved HUD</h2><ul class=\"bb_ul\"><li>Displays HP/MP/Name/Level<br></li><li>Displays held item/ammunition<br></li><li>Displays hotkeyed magic spells<br></li><li>Multi-Purpose log text which pops out of corner with background<br></li><li>Party Name/HP/MP Display<br></li><li>Added numerical display to speedometer</li></ul><h2 class=\"bb_tag\" >Improved floating character HUD</h2><ul class=\"bb_ul\"><li>Displays name<br></li><li>Word bubbles above head</li></ul><h2 class=\"bb_tag\" >More graphically visual main menu</h2><ul class=\"bb_ul\"><li>Sorting items into &quot;Usable&quot;, &quot;Equipment&quot; or &quot;Misc&quot;<br></li><li>Tossable items with &quot;Key&quot; items being untossable<br></li><li>Equipping items show stat differences in real-time<br></li><li>Party status window showing active effects and character information<br></li><li>Detailed log showing most previous logs that were popped up on the main menu</li></ul><h2 class=\"bb_tag\" >Fully customizable objective based questing system with rewards</h2><ul class=\"bb_ul\"><li>Objectives for Item collection, or scripted counting<br></li><li>Item/EXP/Money/Point rewards<br></li><li>Quest management in the games main menu with optional quests able to be abandoned</li></ul><h2 class=\"bb_tag\" >Fully customizable status effect system</h2><ul class=\"bb_ul\"><li>Stat modifications, moving speed modifications, stun, sleep and poison setup by default<br></li><li>Custom durations with automatic conversion between action combat and turn-based combat<br></li><li>Various new potions and items to cure various status effects<br></li><li>Custom triggers for starting, ticking or ending status effects</li></ul><h2 class=\"bb_tag\" >Preloaded with extra assets not found in other templates</h2><ul class=\"bb_ul\"><li>Fully animated magic spells<br></li><li>Sound effects used in the demo</li></ul><h2 class=\"bb_tag\" >Advanced damage script using Wisdom and Agility stats</h2><ul class=\"bb_ul\"><li>Added &quot;Block&quot; and &quot;Miss&quot; possibilities with visible messages</li></ul><h2 class=\"bb_tag\" >Miscellaneous</h2><ul class=\"bb_ul\"><li>Better project asset organization<br></li><li>Magic Hotkeys for action combat<br></li><li>Simplified pop-up notifications for quick messages<br></li><li>Customizable damage numbers<br></li><li>Actor templates showing basic quests/shop/inn<br></li><li>Improved system scripts to take advantage of pop-up notifications<br></li><li>Simple to use actor following system with min/max distances and wandering chance<br></li><li>Interface scaling system to better scale on high resolution displays<br></li><li>Auto-Zoom camera system to better lock the visual range based on resolution<br></li><li>Improved game over message</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 挪威语, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977250/header.jpg?t=1684503907",
+    "developers": [
+      "SoftWeir Inc."
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "1014040": {
+    "name": "PictoQuest",
+    "steam_appid": 1014040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014040/extras/eb3e284caa5671179d0823169a03acf0.avif?t=1750430758\" width=600 height=150 /></span><br><br>逻辑解谜，加上一点点角色扮演的要素，这就是PictoQuest！<br><br>运用你的推断能力，帮助我们的两位小英雄一路冒险，夺回图多利亚的传奇画作！<br>小心留意画格边缘标出的数字，阻止阴险的魔法师大饼脸……<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014040/extras/a03bd08e85297d5f584ddfcbdda3e463.avif?t=1750430758\" width=600 height=150 /></span><br><br><ul class=\"bb_ul\"><li>面对诸多谜题画，会会那些栩栩如生的敌人和漂亮的艺术品！<br></li><li>一路与坏蛋们交战（甚至会碰到头目！）。要当心，否则可能会遭到致命一击！<br></li><li>被一些特定的谜题难住了？去小卖部花上几个金币，买些厉害的魔法物品吧。<br></li><li>一个接一个地解开谜题，直到走遍整个世界。你还会遇到一些村民，他们会委托你特别的任务！</li></ul><br>PictoQuest引人入胜，适合所有人游玩。快来拯救图多利亚吧！",
+    "supported_languages": "英语, 法语, 德语, 意大利语, 西班牙语 - 西班牙, 韩语, 俄语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014040/header.jpg?t=1750430758",
+    "developers": [
+      "NanoPiko"
+    ],
+    "publishers": [
+      "PID Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Broke",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/f3ca0082b2eeaec1b1852076269729312ed461d1.jpg"
+        },
+        {
+          "name": "Well prepared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/1b85b0015ad33f8c0706b0722f91ed21d019612d.jpg"
+        },
+        {
+          "name": "Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/23b4dd40eef43ce94ed3f4bcbacc85f9d58edba5.jpg"
+        },
+        {
+          "name": "I'm going on an adventure!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/7dd5b29540b4a2b0ee10005f7f220096f4de4921.jpg"
+        },
+        {
+          "name": "One-sword style",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/a5ba06f0fa6e3800f23eb12aea5ac63183a7e539.jpg"
+        },
+        {
+          "name": "Two-sword style",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/3d316c8d421feb4f44293988c8f86fc0cce4c664.jpg"
+        },
+        {
+          "name": "Three-swords style",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/dad427050fdbbefa7c055f5b43450d602505f13a.jpg"
+        },
+        {
+          "name": "Lumberjack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/6b8b81dc391c873fa1b4c41a869617db714dc82d.jpg"
+        },
+        {
+          "name": "Rockstar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/69b0090a7dc08be21ecb680963ff7a276296f820.jpg"
+        },
+        {
+          "name": "Naturalist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014040/5f739fffa1cdab4b6466c24c33ff7d14ebd99f04.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 9,
+      "total_negative": 4,
+      "total_reviews": 13
+    }
+  }
+}

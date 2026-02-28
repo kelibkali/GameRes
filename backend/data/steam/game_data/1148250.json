@@ -1,0 +1,53 @@
+{
+  "1148250": {
+    "name": "SoundTriggersVR",
+    "steam_appid": 1148250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SoundTriggersVR offers many different ways to trigger notes, chords and effects with almost zero latency.<br><br>Setting up the instrument consists of:<h2 class=\"bb_tag\" >On section </h2><br>Set what triggers notes, chords and  effects. <br>Use: <br>- controller buttons<br>- values of objects (positions, rotations, trigger and pads values) <br>- distance between objects (controllers, head, point, line, plane)<br>- 1D zone between two values ( positions, rotations, trigger and pads values)<br>- 2D zone between two values ( positions, rotations, trigger and pads values)<br>- 3D zone cube, cylinder, tube, sphere<br>- direction change of a value<br>- velocity of a object<br>- acceleration of the object<br>- always on<h2 class=\"bb_tag\" >Off section </h2><br>Set what turns notes, chords and  effects off.<br>Use the same options as in On section with addition of time limit option.<h2 class=\"bb_tag\" >Intensity section </h2><br>Set the velocity of notes, chords and  effects.<h2 class=\"bb_tag\" >Pitch section </h2><br>Set the pitch of notes, chords and  effects.<h2 class=\"bb_tag\" >Pitch shift section </h2><br>Set the shift of pitch.<h2 class=\"bb_tag\" >Chord section </h2><br>Set all the available chords and how to switch between them.<h2 class=\"bb_tag\" >Pitch bend section </h2><br>Choose between:<br>- no pitch bend<br>- pitch bend before the start of the note<br>- pitch bend after the start of the note<br>- always pitch bend<h2 class=\"bb_tag\" >Requirements</h2><br>In order to send MIDI signals a MIDI output is needed and selected in settings.<br><br>Virtual MIDI cable can be used for output.<br>Recommended third party software:<br>Virtual loopback MIDI cable (Copyright 2010-2019 by Tobias Erichsen)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148250/header.jpg?t=1598864889",
+    "developers": [
+      "Codekus"
+    ],
+    "publishers": [
+      "Codekus"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "787950": {
+    "name": "PixelCraft VR",
+    "steam_appid": 787950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PixelCraft VR is a sandbox game that allows you to construct 3D models out of colorful 3D pixels. Our user interface has been carefully tuned to be simple, intuitive, and enjoyable. You can move around the environment with your left controller and build with your right one. The game also includes handy features to streamline the building process:<h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li>Add, remove, and move 3D pixels<br></li><li>Fill and clear areas<br></li><li>Cut, copy, and paste groups of 3D pixels<br></li><li>Rotate and mirror selected groups of 3D pixels<br></li><li>Select any color on the RGB spectrum<br></li><li>Sample any color from an existing 3D pixel<br></li><li>Color fill a group of 3D pixels<br></li><li>Measure objects from one pixel to another<br></li><li>Change pixel scale from 0.2 to 20.0 inches (5 to 500 millimeters) <br></li><li>Fly and teleport around the environment<br></li><li>Undo/redo operations<br></li><li>Select black or white background<br></li><li>Save and load projects<br></li><li>Sample models include a house, living room, spaceship, car, and pistol</li></ul><h2 class=\"bb_tag\" >PERFORMANCE</h2>Your models can grow to contain a very large number of 3D pixels. To ensure best performance, the game comes with optional project bounds and brush limits. It is recommended to stay within those limits, but they can be disabled from the options menu.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787950/header.jpg?t=1575010914",
+    "developers": [
+      "Bitlexia"
+    ],
+    "publishers": [
+      "Bitlexia"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

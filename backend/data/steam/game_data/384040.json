@@ -1,0 +1,77 @@
+{
+  "384040": {
+    "name": "Impulse Revolution",
+    "steam_appid": 384040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Impulse Revolution is a frantic, physics based racing game with an emphasis on local multiplayer. <br><br>Race air hockey pucks through a neon-cyber world using a simple, challenging control mechanic. <br><br>Compete in multiple racing modes and minigames with the ability to add bots to any mode.<br><br>Supports up to 4 players on a single keyboard or a mix of keyboard and controllers.<h2 class=\"bb_tag\" ><strong>Race Modes</strong></h2><strong>Race</strong><br>Classic arcade racing. Race through the many and varied tracks, avoiding traps and take out your opponents with an arsenal of weapons. <br><br><strong>Elimination</strong><br>Up to 4 pucks fight it out on a single screen. Race to get far enough ahead to eliminate your opponents in a round based points system. <br><br><strong>Hunter</strong><br>One puck hunts and converts other pucks to its side while the rest run and hide in a round based mode.<br><br><strong>Chain Gang</strong><br>Race as a team with another puck chained to you the whole way.<h2 class=\"bb_tag\" ><strong>Minigames</strong></h2><ul class=\"bb_ul\"><li>Pass the Bomb<br></li><li>Sumo<br></li><li>Line Runner<br></li><li>Bombardment<br></li><li>Ping</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384040/header.jpg?t=1447376900",
+    "developers": [
+      "Mandlebar"
+    ],
+    "publishers": [
+      "Mandlebar"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 9 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

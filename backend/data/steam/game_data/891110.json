@@ -1,0 +1,77 @@
+{
+  "891110": {
+    "name": "Hell Knights",
+    "steam_appid": 891110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hey,<br />\r\nI am David and to be honest with you, I am just some dude who finally wanted to make his own game. Hell Knights is a small but fun Bullet Hell Shoot'em Up with a four player Co op mode. Just grab up to three of your friends and fight your way through eight action packed level and defeat eight infernal Bosses. You can even upgrade your rifle up to nine times to destroy the hordes of vile demons that will stand between you and victory. <br />\r\n<br />\r\nEvery level will have a new type of demon to challenge you and your friends. Furthermore each Level will contain two quests for your group to complete before you can progress to the levels Boss. Your character will generate Overheat while you shoot or sprint, if the Overheatbar reaches its maximum you can reflect and then block enemy bullets for a short period of time. This can be used to protect your friends from enemy fire and to kill enemies with their own projectiles.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/891110/header.jpg?t=1667827809",
+    "developers": [
+      "David Seifers"
+    ],
+    "publishers": [
+      "David Seifers"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

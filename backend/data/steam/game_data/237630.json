@@ -1,0 +1,137 @@
+{
+  "237630": {
+    "name": "DuckTales: Remastered",
+    "steam_appid": 237630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DuckTales: Remastered是精美的手工作品，是有史以来最珍贵的8-bit游戏之一。回到游戏的黄金时代，现在以更精緻的水平呈现，满足最资深的迪士尼和復古Capcom粉丝。<br />\r\n<br />\r\n游戏拥有手绘动画、正宗迪士尼人物声线及经典电视卡通背景。Scrooge McDuck和他的同伴都前所未有地栩栩如生。游戏保留了原来的8-bit简单有趣玩法，并稍为修改游戏的平衡以改善游戏流畅度和设定。<br />\r\n<br />\r\n踏上真正的 DuckTales 冒险之旅。Scrooge McDuck和他的三个侄子Huey、 Dewey、Louie将前往世界各地，寻找五件传奇宝物。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237630/header.jpg?t=1760927242",
+    "developers": [
+      "WayForward"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7800,
+      "final": 1560,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 78.00",
+      "final_formatted": "¥ 15.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 8 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Sink Or Swim",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/75611a2e47f26ad89126023cdfba1fa761eafa66.jpg"
+        },
+        {
+          "name": "Work Smarter, Not Harder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/6f94631ba1830cf726df85ce4119689e17d259f4.jpg"
+        },
+        {
+          "name": "Superstitious Hocus-Pocus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/fde1b4192f535ffa3c5264018d81db0287c4a4ef.jpg"
+        },
+        {
+          "name": "Extravagant Housewares",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/c838af176a9c7647b6a46a6e846490cab76ccb28.jpg"
+        },
+        {
+          "name": "Where No Duck Has Gone Before",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/cacdc20988f0228d2e87538d1d00d534c3b22dd9.jpg"
+        },
+        {
+          "name": "Any Crash You Can Walk Away From",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/837c9eda6efd387d42459b983e0aecb10b51e777.jpg"
+        },
+        {
+          "name": "Garbage Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/ce1ef47947c9bfdf88d37cc42f17c8a57f4fc8d5.jpg"
+        },
+        {
+          "name": "Luck O' The Ducks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/1d8021aed9f5f47b750f3d1bd68c3fce881c48cd.jpg"
+        },
+        {
+          "name": "The Duck Who Would Be King",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/8186f2d76c0cd2d72b52c1a5c9256dd1a11bb6d9.jpg"
+        },
+        {
+          "name": "Score To Settle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237630/be67cc6faec454f09bec91990a5c4dbca613420b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 90,
+      "total_negative": 26,
+      "total_reviews": 116
+    }
+  }
+}

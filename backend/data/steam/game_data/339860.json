@@ -1,0 +1,102 @@
+{
+  "339860": {
+    "name": "none",
+    "steam_appid": 339860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339860/header.jpg?t=1531274266",
+    "developers": [],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Master of the Universe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/339860/0ec7385b8ea1d2678e3c2885b73eb5f8aebecfcf.jpg"
+        },
+        {
+          "name": "Power Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/339860/b3c92365af90c07dc9d325b2fd6c8af8ff4375ac.jpg"
+        },
+        {
+          "name": "Swag",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/339860/8fb80bab9f73761026824d60a6ddc67055ca2b8d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

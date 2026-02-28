@@ -1,0 +1,42 @@
+{
+  "1498800": {
+    "name": "3DMark Mesh Shader feature test",
+    "steam_appid": 1498800,
+    "required_age": 0,
+    "is_free": true,
+    "description": "DirectX 12 Ultimate 为 DirectX 12 新增了强大功能与特性，包括 DirectX 光线追踪 Tier 1.1、网格着色器 、采样器反馈以及可变速率着色。 <br><br>网格着色器带来了一种全新的几何处理方法，可简化图形管线，并为游戏开发者提供更大的灵活性与控制性。  <br><br>3DMark 网格着色器功能测试将向您展示游戏引擎如何使用网格着色器管线有效地剔除摄影机不可见的几何图形，从而提升游戏性能。此外还有一种互动模式，让您尝试不同的设置与可视化工具。 <br><br><ul class=\"bb_ul\"> <li>了解网格着色器如何提升帧速率性能。 <br></li><li>部署 DirectX 12 Ultimate API 以取得公正的测试结果。 <br></li><li>在互动模式下尝试不同的设置与可视化效果。 </li></ul>",
+    "supported_languages": "英语, 德语, 简体中文, 俄语, 西班牙语 - 西班牙, 日语, 韩语, 繁体中文, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498800/f12ffd58809fcc262df2332270fd19953125a364/header.jpg?t=1756112058",
+    "developers": [
+      "UL"
+    ],
+    "publishers": [
+      "UL"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

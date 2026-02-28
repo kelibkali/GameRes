@@ -1,0 +1,57 @@
+{
+  "1279590": {
+    "name": "Fritz Chess 17 Steam Edition",
+    "steam_appid": 1279590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "At the turn of the century, Fritz fascinated the chess world with victories over Garry Kasparov and then-reigning World Champion Vladimir Kramnik. The &quot;most popular chess program&quot; (according to German magazine Der Spiegel) offers you everything you will need as a dedicated chess enthusiast, with innovative training methods for amateurs and professionals alike.<br><br>The neural chess engine &quot;Fat Fritz&quot;<br><br>In December 2017, a press release from Google shook the chess world to the core: its subsidiary Deep Mind built a neural network, dubbed Alpha Zero, which &quot;learned&quot; chess solely by playing millions of games against itself, yet was strong enough to beat Stockfish 8, a leading chess engine. This news was sobering and fascinating at the same time. Sobering in the sense that the decades old tradition of chess programming had been relegated to the shadows by a self-learning system. Fascinating because it was possible to hope that one could learn really new stuff about chess from this radical approach.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/extras/2c626121ee49009615a1ae4195ab94a5.avif?t=1596006734\" width=550 height=310 /></span>.<br><br>Nobody had expected that a cooperative effort by chess developers would soon make this technology generally available. The Open-Source- Project LCZero began to retrace the trail blazed by Google and in the meantime has acquired considerable strength. Suddenly a chess engine was available whose different analysis results provided new ideas on all fronts. LCZero too follows the Google philosophy, that the neural network only learns from games played against itself. <br><br>The idea soon came to use our existing base of hundreds of thousands of good grandmaster games to shorten this learning process. This approach was followed logically by our longserving technical editor Albert Silver and based on the LCZero technology he trained a neural network for a whole year with GM games.<br><br>The result is so convincing that we are now publishing it as “Fat Fritz” along with Fritz17. As things stand, Fat Fritz defeats in a direct comparison all traditional chess programs and even LCZero. The moves suggested in analysis are often extremely human and planned. With a painfully practical limitation: Fat Fritz needs (like LCZero) a very high performance Nvidia graphics card (“GPU”) in order to achieve its full playing strength. Nevertheless, here for the rst time in many years we can record a real breakthrough in chess programming. Fat Fritz and LCZero are already beginning to change opening theory.<br><br>Methodical opening training<br><br>Every average human brain is light years ahead of neural networks when it comes to mastering everyday situations. However, it is in some ways tiresome imprinting on one’s own neural network knowledge about opening variations.<br><br>Therefore Fritz 17 has new functions to offer to considerably simplify the constructing, administration and above all the transfer to memory of an opening repertoire. What use is the finest variation tree if one can’t remember it? Fritz 17 introduces a repertoire administration which is not based on whole variations but on moves. You decide on a move: “at’s the one I want to play myself ” and thereupon the whole variation is taken over into your repertoire. The advantage: with some decisions and a few clicks you can set up a useable repertoire. This repertoire is online, i.e. it can be accessed immediately by any computer and on the web.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/extras/976dd1bc90cb8b85b6bc6fec64a816e9.avif?t=1596006734\" width=550 height=310 /></span>.<br><br>Drill and play<br><br>Once you have clicked together a repertoire in that way, the fun begins: you now learn it by drilling. To do so you play your variations and Fritz replies in such a way that, as far as possible, you remain within your repertoire. At first the moves come according to their frequency in theory. After some time it becomes clear what you have mastered properly and what not. The problematic systems are then repeated more often so that you can achieve certainty quickly with the minimum of effort. This system is known from the learning of foreign languages.<br><br>For it to be fun, Fritz measures the size of the theoretical area you have mastered and enters it into a ranking list as a number of points. Helpful for practice is also the fact that in your drilling when you reach the end of a variation you can decide if you want to carry on as a training game. Drilling can also be done with any variation tree you wish to load (traditional ChessBase repertoire), even with a sole game if you would like to learn it by heart.<br><br>Ready-made repertoires included<br><br>Included with Fritz 17 is access to pre-prepared up-to-date repertoires. You can either drill with these as they come or incorporate them into your own repertoire with the usual clicks to mark moves. ese ready-made repertoires can be found in each case at four levels: simple, club, tournament and professional. at saves work; you do not need to extract a simpler club-level version from full-fledged professional repertoire on your own.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/extras/a7bf80631b0fbe87e60a0ad3509c20d1.avif?t=1596006734\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/extras_big/a7bf80631b0fbe87e60a0ad3509c20d1.avif?t=1596006734 width=800 height=328 /></span>.<br><br>Here are the highlights:<br><br>Now with “Fat Fritz“ * : An extremely strong neural net engine inspired by Alpha Zero, which produces human-like strategic analyses of world class quality.<br>Improved Fritz 17 engine with traditional brute force search and evaluations technology<br>Convenient one-click management of your opening repertoires<br>Opening training with success control, measure your progress with e-learning technology<br>Hundreds of ready-made repertoires included • “Blitz &amp; Train“: Fritz generates tactical puzzles from your own blitz games<br>Perfect analysis of endgames with up to seven pieces, access to “Let‘s Check“ • Improved 3D chess boards thanks to real-time ray tracing**<br>*Fat Fritz is based on LCZero. LCZero is an open source project licensed through the GPL v3 with all due rights. Source code of LCZero and the modifications for Fat Fritz can be found at Github.<br>** Requires a powerful graphics card with NVIDIA chip",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 荷兰语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/header.jpg?t=1596006734",
+    "developers": [
+      "ChessBase GmbH"
+    ],
+    "publishers": [
+      "ChessBase GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 16300,
+      "final": 16300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 163.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "521980": {
+    "name": "Autumn Dream",
+    "steam_appid": 521980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You've inherited a small house. <br />\r\nThe documents say that you will only have a right to own it once you manage to live there for at least few days. <br />\r\nBut you must not go outside at night and shouldn't open the cellar door. <br />\r\nIs there a chance to meet the conditions? Only time will show!",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521980/header.jpg?t=1753442882",
+    "developers": [
+      "GDNomaD"
+    ],
+    "publishers": [
+      "GDNomaD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 7,
+      "total_negative": 5,
+      "total_reviews": 12
+    }
+  }
+}

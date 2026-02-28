@@ -1,0 +1,113 @@
+{
+  "726030": {
+    "name": "MinSweeper",
+    "steam_appid": 726030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames:<br><br><ul class=\"bb_ul\"><li>Sudoku: The classic, intense puzzle<br></li><li>Catcher: Catch falling blocks while avoiding mines.<br></li><li>Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. </li></ul><br>Integrated with Steam API to include achievements and Leaderboards.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726030/header.jpg?t=1509398949",
+    "developers": [
+      "LinQ"
+    ],
+    "publishers": [
+      "LinQ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 750,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 7.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Through Customs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Good Catch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Catch Me...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Asteroid Bully",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/5319d2089f967c0a2690810f094e6afae59fc8c4.jpg"
+        },
+        {
+          "name": "Space Queen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/e915ecf7951395cc5d4f5e821c105c2dff7d989e.jpg"
+        },
+        {
+          "name": "Sudoku!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/726030/e915ecf7951395cc5d4f5e821c105c2dff7d989e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

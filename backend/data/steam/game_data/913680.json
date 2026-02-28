@@ -1,0 +1,57 @@
+{
+  "913680": {
+    "name": "Skybox Painter 3D",
+    "steam_appid": 913680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Skybox Painter 3D is a painting editor to draw your own customizable Skyboxes with, which can be used for the creation of videogames and other 360 degree environments.<br />\r\n<br />\r\nThe output of the program are panoramic or 6 sided cubemap textures for skyboxes to use with any engine or skybox shader.<br />\r\n<br />\r\nThe program features the following tools:<br />\r\n- Brushes<br />\r\n- Lines<br />\r\n- Gradient tool for the background of your sky<br />\r\n- Customizable Random Generator for clouds and stars<br />\r\n- Athmosphere<br />\r\n- Sun with simple Light calculations<br />\r\n- Layers and Layermask<br />\r\n- Export of panoramic or cubemap textures<br />\r\n- Import of own brushes and textures for the tools<br />\r\n- Import of panoramic images<br />\r\n<br />\r\nThe project does not only contain a desktop version but also a VR version of the described tools implemented for the HTC Vive.<br />\r\n<br />\r\nLimitations:<br />\r\nThe program can only be used to paint static skies (cubemap and panoramic images). No animated or procedural contents can be created.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913680/header.jpg?t=1555240815",
+    "developers": [
+      "Toastar Virtual Entertainment"
+    ],
+    "publishers": [
+      "Toastar Virtual Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "921710": {
+    "name": "Galaxy Squad",
+    "steam_appid": 921710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "银河战队是一个基于回合制战术的roguelike游戏，你通过随机生成的星系带领一队雇佣兵经历不同的事件。<br />\r\n<br />\r\n该游戏将基于节点的探索与随机事件相结合，类似于《FTL》或《著名探险家》等游戏，以及受XCOM系列启发的铁杆战术战斗。你的所有人物均为随机生成，你可以随心所欲地进化这些人物，并创造出最终的人物。<br />\r\n<br />\r\n特色：<br />\r\n•\t探索不同的行星和系统，对抗众多敌人<br />\r\n•\t升级你的飞船并在事件或战斗中使用其系统<br />\r\n•\t探索空间站，寻找任务<br />\r\n•\t强大的故事活动系统，涉及你的人物和故事分支情节<br />\r\n•\t通过不同的修改升级你的设备，并找到罕见的战利品",
+    "supported_languages": "英语, 俄语, 简体中文, 法语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921710/header.jpg?t=1723629297",
+    "developers": [
+      "Kazakov Oleg"
+    ],
+    "publishers": [
+      "Kazakov Oleg"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Complete a quest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/55d3a0c851f3ceedb228e81b728d3981e59f8ddc.jpg"
+        },
+        {
+          "name": "Complete a campaign",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/8f510037f0ecd3174a773ecb026953f91e72ceec.jpg"
+        },
+        {
+          "name": "Complete a free mode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/cb80df08a7cb8e70fbb333d43976edd2b03b395b.jpg"
+        },
+        {
+          "name": "Complete hardcore difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/cb03469b2ff6ea0d312b592d63368d2503951c6e.jpg"
+        },
+        {
+          "name": "Survive 10 turns",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/c0a38070f8eb4a0b72580a4bdba71a81a464c705.jpg"
+        },
+        {
+          "name": "Survive 20 turns",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/22e36effd6d11189f13b3723c4e3afbca0a319e5.jpg"
+        },
+        {
+          "name": "Maximum level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/8b8e9634da019ab1235f0d0ea979c035ea18cae0.jpg"
+        },
+        {
+          "name": "Defeat warlord",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/1879151e17737bdf6378cb1c148da6b5ad513609.jpg"
+        },
+        {
+          "name": "Defeat a swarmmother",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/29bf907d266b274605ddf917b9728aa747b54a5a.jpg"
+        },
+        {
+          "name": "Defeat a cyborg brain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/921710/99101f3de600664ba6b20b69c0dfdf8fff60edcb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 14,
+      "total_negative": 10,
+      "total_reviews": 24
+    }
+  }
+}

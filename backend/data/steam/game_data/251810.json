@@ -1,0 +1,113 @@
+{
+  "251810": {
+    "name": "Leadwerks Game Engine 5",
+    "steam_appid": 251810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Leadwerks Game Engine 5 是一个全新的更新，使游戏开发比以往更容易。深入研究我们的视频教程，了解将您的想法变为现实所需的一切。使用我们直观的可视化编辑器和 Lua 脚本轻松创建。当您准备好发布时，您可以通过我们的免版税许可保留所有利润。</p><h2 class=\"bb_tag\" >默认优化</h2><p class=\"bb_paragraph\" >我们的新多线程架构可防止 CPU 瓶颈，从而在繁重的渲染负载下提供数量级的更快性能。充满信心地构建一个优化的游戏引擎，以跟上您的游戏的发展。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/aacc559b7d6e7e9b7ca12d6096bd1e64.avif?t=1771120699\" width=980 height=300 /></span></p><h2 class=\"bb_tag\" >高级图形</h2><p class=\"bb_paragraph\" >利用基于物理的材质、可定制的后处理效果、硬件镶嵌以及支持高达 32 倍多重采样抗锯齿的集群前向+渲染器，实现高质量的视觉效果。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/c905b04bdb37f91dab3c487c1c30bb83.avif?t=1771120699\" width=980 height=300 /></span></p><h2 class=\"bb_tag\" >内置关卡设计工具</h2><p class=\"bb_paragraph\" >内置关卡设计工具可让您在编辑器中轻松绘制游戏关卡草图，并对细分、斜角和位移进行精细控制。这使得您可以轻松快速地构建和测试游戏关卡，而无需在应用程序之间来回切换。它拥有构建场景所需的一切，全部集中在一处。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/cb83ee6df55be1ea838d7ac57c2b3746.avif?t=1771120699\" width=980 height=300 /></span></p><h2 class=\"bb_tag\" >顶点材质绘制</h2><p class=\"bb_paragraph\" >通过将材质直接绘制到关卡几何体上，添加复杂的细节和视觉趣味。应用于不同表面的无缝细节将场景连接在一起，并将一系列部件转变为一个有凝聚力的环境，让任何人都可以创建美丽的游戏环境。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/84954cd4d6463398154aa8e2fa52a28f.avif?t=1771120699\" width=1340 height=400 /></span></p><h2 class=\"bb_tag\" >内置网格缩小工具</h2><p class=\"bb_paragraph\" >我们添加了一个强大的新网格缩减工具，可以减少复杂的几何形状，从而轻松优化模型。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/42e90db7ac022b0726f3b03a64927a95.webp?t=1771120699\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/42e90db7ac022b0726f3b03a64927a95.poster.avif?t=1771120699\" class=\"bb_img\" width=980 height=300 /></picture></span></p><h2 class=\"bb_tag\" >随机植被系统</h2><p class=\"bb_paragraph\" >使用我们创新的植被系统，用茂密、逼真的树叶填充您的户外场景。它动态计算每帧的实例，从而允许大规模、详细的森林具有快速的性能和最小的内存使用量。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/e6faa15c19376adb721c22749381fe4e.avif?t=1771120699\" width=980 height=300 /></span></p><h2 class=\"bb_tag\" >全动态寻路</h2><p class=\"bb_paragraph\" >我们的导航系统支持一个或多个导航网格，当场景中的对象移动时，它们会自动重建。这使得导航代理能够根据环境的变化动态调整其路线，从而获得更聪明的敌人和更身临其境的游戏可能性。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/14e5143f868ef3f556c8bb5191c40c3f.avif?t=1771120699\" width=980 height=300 /></span></p><h2 class=\"bb_tag\" >集成脚本编辑器</h2><p class=\"bb_paragraph\" >Lua 脚本集成通过易于学习的语言和数百个代码示例提供快速原型设计。内置调试器可让您暂停游戏、单步执行代码并实时检查每个变量。对于高级用户，Leadwerks Pro DLC 还提供 C++ 编程。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/4234b8a55e73781959f191285a8d5b90.avif?t=1771120699\" width=1560 height=478 /></span></p><h2 class=\"bb_tag\" >高级游戏机制的视觉流程图</h2><p class=\"bb_paragraph\" >流程图编辑器提供了对事件序列的高级控制，并让关卡设计师可以轻松设置游戏中的事件序列，而无需编写代码。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/9d02a73d19ec4b67ff73df9b574a31cc.avif?t=1771120699\" width=1280 height=400 /></span></p><h2 class=\"bb_tag\" >集成下载管理器</h2><p class=\"bb_paragraph\" >直接在编辑器中下载数千种即用型 PBR 材质、3D 模型、天空盒和其他资源。您可以在游戏中使用我们的内容，或者只是享受组装新场景的乐趣。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/b3c14cdfdc5efa16bd3b1dde0cdfba91.avif?t=1771120699\" width=1462 height=546 /></span></p><h2 class=\"bb_tag\" >向专业人士学习</h2><p class=\"bb_paragraph\" >您是否陷入了“教程地狱”？我们的课程旨在为您提供将任何类型的游戏变为现实所需的深厚基础知识，并提供数小时的视频教程，一步步引导您从完全的初学者成长为有能力的游戏开发人员。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/e2209309e0542aa2854187df9cb12dd3.poster.avif?t=1771120699\" width=980 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/e2209309e0542aa2854187df9cb12dd3.webm?t=1771120699\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/extras/e2209309e0542aa2854187df9cb12dd3.mp4?t=1771120699\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >免版税许可</h2><p class=\"bb_paragraph\" >当您获得 Leadwerks 后，您可以使用我们的开发者友好许可证制作任意数量的商业游戏。没有版税、没有安装费，也没有需要担心的第三方许可字符串，因此您可以保留所有利润。</p><h2 class=\"bb_tag\" >图形</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    多线程渲染架构</p></li><li><p class=\"bb_paragraph\" >    具有统一光照模型和可选深度预通道的集群前向+渲染器</p></li><li><p class=\"bb_paragraph\" >    多显示器支持</p></li><li><p class=\"bb_paragraph\" >    PBR材料</p></li><li><p class=\"bb_paragraph\" >    从 glTF、OBJ、MDL 和 FBX 加载 3D 模型（使用 glTF 转换器）</p></li><li><p class=\"bb_paragraph\" >    图像加载、保存、处理</p></li><li><p class=\"bb_paragraph\" >    顶点、像素、几何和曲面细分着色器</p></li><li><p class=\"bb_paragraph\" >    带镜面反射的法线贴图</p></li><li><p class=\"bb_paragraph\" >    可定制的后处理效果堆栈</p></li><li><p class=\"bb_paragraph\" >    无裂纹硬件镶嵌</p></li><li><p class=\"bb_paragraph\" >    环境探头</p></li><li><p class=\"bb_paragraph\" >    实例化渲染</p></li><li><p class=\"bb_paragraph\" >    实时网格修改</p></li><li><p class=\"bb_paragraph\" >    冒名顶替者</p></li></ul><h2 class=\"bb_tag\" >编辑</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    使用构造实体几何的内置关卡设计工具</p></li><li><p class=\"bb_paragraph\" >    在 2D 和 3D 视口中编辑关卡几何体</p></li><li><p class=\"bb_paragraph\" >    雕刻和空心布尔运算</p></li><li><p class=\"bb_paragraph\" >    内置网格缩减工具可优化模型或生成 LOD</p></li></ul><h2 class=\"bb_tag\" >编程</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    集成脚本编辑器</p></li><li><p class=\"bb_paragraph\" >    易于编码的 Lua API，包含 800 多个命令</p></li><li><p class=\"bb_paragraph\" >    自动完成</p></li><li><p class=\"bb_paragraph\" >    鼠标悬停可显示命令语法</p></li><li><p class=\"bb_paragraph\" >    可视化流程图连接脚本函数来设置事件序列</p></li><li><p class=\"bb_paragraph\" >    高级程序员可以使用 C++（需要 Leadwerks Pro DLC）</p></li></ul><h2 class=\"bb_tag\" >地形</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    动态雕刻和绘制地形</p></li><li><p class=\"bb_paragraph\" >    在地形上挖洞</p></li><li><p class=\"bb_paragraph\" >    多达 256 个材质层</p></li><li><p class=\"bb_paragraph\" >    地形植被系统</p></li></ul><h2 class=\"bb_tag\" >3D模型</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    加载和保存 Khronos glTF 文件</p></li><li><p class=\"bb_paragraph\" >    加载和保存 Wavefront OBJ 文件</p></li><li><p class=\"bb_paragraph\" >    将 FBX 文件转换为 glTF 并加载</p></li><li><p class=\"bb_paragraph\" >    将 Collada 文件转换为 glTF 并加载</p></li><li><p class=\"bb_paragraph\" >    用于优化模型或生成 LOD 的内置网格缩减工具</p></li></ul><h2 class=\"bb_tag\" >动画片</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    动画皮肤角色</p></li><li><p class=\"bb_paragraph\" >    跨多个角色共享骨骼</p></li><li><p class=\"bb_paragraph\" >    将对象附加到骨骼</p></li><li><p class=\"bb_paragraph\" >    内置动画过渡和更新系统</p></li><li><p class=\"bb_paragraph\" >    硬件剥皮</p></li><li><p class=\"bb_paragraph\" >    混合和过渡动画</p></li></ul><h2 class=\"bb_tag\" >物理</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    快速准确的异步刚体物理</p></li><li><p class=\"bb_paragraph\" >    约束包括铰链、球、运动、平面和滑动关节</p></li><li><p class=\"bb_paragraph\" >    有限制的电动关节</p></li><li><p class=\"bb_paragraph\" >    生成物理形状</p></li><li><p class=\"bb_paragraph\" >    扫掠碰撞</p></li><li><p class=\"bb_paragraph\" >    使用直线或球体进行光线投射</p></li></ul><h2 class=\"bb_tag\" >寻路</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    导航网格寻路</p></li><li><p class=\"bb_paragraph\" >    人群回避和转向</p></li><li><p class=\"bb_paragraph\" >    编辑器中可见的导航区域</p></li><li><p class=\"bb_paragraph\" >    基于物理的角色控制器</p></li><li><p class=\"bb_paragraph\" >    自动AI跟随</p></li></ul><h2 class=\"bb_tag\" >声音</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    3D 声音空间化</p></li><li><p class=\"bb_paragraph\" >    头部相关传递函数 (HRTF)</p></li><li><p class=\"bb_paragraph\" >    音频滤波器，包括失真、镶边、回声和 EAX 混响效果</p></li><li><p class=\"bb_paragraph\" >    从任何实体发出声音</p></li><li><p class=\"bb_paragraph\" >    自动渠道管理</p></li><li><p class=\"bb_paragraph\" >    跳至声音中的任何时间</p></li></ul><h2 class=\"bb_tag\" >图形用户界面</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    与任何显示比例的分辨率无关</p></li><li><p class=\"bb_paragraph\" >    可扩展的小部件系统</p></li><li><p class=\"bb_paragraph\" >    加载 SVG 矢量图像</p></li><li><p class=\"bb_paragraph\" >    设置小部件和项目图像</p></li><li><p class=\"bb_paragraph\" >    更改鼠标光标</p></li><li><p class=\"bb_paragraph\" >    存储在 JSON 文件中的自定义配色方案</p></li></ul><h2 class=\"bb_tag\" >支持的文件格式</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    模型文件可以从 glTF 和 OBJ 格式加载和保存，或者从 FBX 格式转换。</p></li><li><p class=\"bb_paragraph\" >    纹理可以从 DDS、PNG、JPG、BMP、TGA、PSD 和其他图像格式加载。</p></li><li><p class=\"bb_paragraph\" >    可以从 WAV、MP3 和 OGG 格式加载音频。</p></li><li><p class=\"bb_paragraph\" >    ISPC 快速纹理压缩，包括 BC7 和 BC6h 像素格式 </p></li><li><p class=\"bb_paragraph\" >    Zip 包加载和保存</p></li></ul><h2 class=\"bb_tag\" >系统</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    线程管理，带有互斥体和信号量</p></li><li><p class=\"bb_paragraph\" >    文件读写</p></li><li><p class=\"bb_paragraph\" >    文件系统观察者</p></li><li><p class=\"bb_paragraph\" >    内存分配和管理</p></li><li><p class=\"bb_paragraph\" >    字符串操作（分割、搜索、转换等）</p></li><li><p class=\"bb_paragraph\" >    消息框和文件/文件夹请求者</p></li></ul><h2 class=\"bb_tag\" >虚拟现实</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    SteamVR 集成，支持多种耳机</p></li><li><p class=\"bb_paragraph\" >    快速立体渲染</p></li><li><p class=\"bb_paragraph\" >    控制器输入及显示</p></li><li><p class=\"bb_paragraph\" >    将物体附加到手持控制器和耳机上</p></li><li><p class=\"bb_paragraph\" >    平移和旋转视图偏移</p></li></ul><h2 class=\"bb_tag\" >Steamworks 集成</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >    验证应用程序所有权</p></li><li><p class=\"bb_paragraph\" >    获取用户信息</p></li><li><p class=\"bb_paragraph\" >    排行榜</p></li><li><p class=\"bb_paragraph\" >    统计数据和成就</p></li><li><p class=\"bb_paragraph\" >    多人游戏大厅</p></li><li><p class=\"bb_paragraph\" >    点对点网络</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251810/53e878fa357066e315c46480aa23cf6203a5397e/header.jpg?t=1771120699",
+    "developers": [
+      "Leadwerks Software"
+    ],
+    "publishers": [
+      "Leadwerks Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 16800,
+      "final": 6720,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 168.00",
+      "final_formatted": "¥ 67.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "How do I make a box?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251810/edff0382335401cdaad3e9005e3062d3026c3464.jpg"
+        },
+        {
+          "name": "Master of Boxes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251810/5971fb0dddcaf45e74ee70c42873f203b5a06022.jpg"
+        },
+        {
+          "name": "Workshop Subscriber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251810/07bfba9f94e094a3a9173d8561a7d2b1696b5889.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    }
+  }
+}

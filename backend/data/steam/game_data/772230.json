@@ -1,0 +1,113 @@
+{
+  "772230": {
+    "name": "跳跃2/LeapII",
+    "steam_appid": 772230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "玩法概述<br />\r\n《跳跃2》是一款能给你带来独特体验的动作+Roguelite游戏。在游戏中，玩家需要辨认敌人的技能，并对其进行克制，以对敌人造成巨大伤害。利用陷阱和障碍打击敌人，而不是自己。抢在敌人之前获得掉落的资源和道具。玩家只需要左、右、跳跃三个按键，却可以通过不同的按键时机组合出多种技能。同时这些技能可以搭配各种升级以及角色属性养成，使玩家可以获得不同的游戏体验。<br />\r\n<br />\r\n特色<br />\r\n·游戏的控制按键只有左、右和跳跃3个，却可以通过不同按键时机，组合出多种技能。<br />\r\n·技能主要分为上（黄）、中（蓝）、下（绿）三段，上克中，中克下，下克上。被克制一方会受到高额伤害。<br />\r\n·可对敌人连续追击，配合技能克制，能造成成吨伤害。<br />\r\n·升级、挑战、道具，都可以强化玩家的各项能力。<br />\r\n·炸弹、陷阱、障碍会对玩家造成伤害，同样也会对敌人造成伤害。<br />\r\n·玩家可以拾取道具，同样的，敌人也会拾取道具。<br />\r\n·十数种普通敌人，4个BOSS。<br />\r\n·四种拥有不同特性与特殊敌人的场景。<br />\r\n·BOSS可以组团与玩家战斗，难度指数增长，不过也对应了特殊的成就奖励。<br />\r\n·昼夜系统，白天游戏难度较低，而夜晚则会带来更高的奖励。<br />\r\n·连斩系统，连续击败敌人而不被击中会极大的提升属性。<br />\r\n<br />\r\n故事<br />\r\n寺庙藏经阁的看门人——临时工小明，因为一时疏忽导致了武功秘籍被盗。迫于方丈的淫威，小明不得不踏上追击贼人的道路。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772230/header_schinese.jpg?t=1572909474",
+    "developers": [
+      "ChiHeBang Studio"
+    ],
+    "publishers": [
+      "ChiHeBang Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 2000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 20.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "初窥门径",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/8d24544cf9cb046b97c8796351e53deed7211188.jpg"
+        },
+        {
+          "name": "小有所成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/0da9e1909367c519c0832ff874b1c0ca21d1cdc8.jpg"
+        },
+        {
+          "name": "融会贯通",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/11bdcdd471d59cf0089f9bce80c21ffa01033770.jpg"
+        },
+        {
+          "name": "心领神会",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/df421b51511f7a2d01b0af415503059a763a2504.jpg"
+        },
+        {
+          "name": "变化无常",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/cab53cc1d131511cd25880b69f84e800dc31d6e2.jpg"
+        },
+        {
+          "name": "蝇头小利",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/e74c6b61b132330c9caada6593e7e8d6e7947464.jpg"
+        },
+        {
+          "name": "应有尽有",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/c1840b4b19140009cd835ff3b105c68f93401f8c.jpg"
+        },
+        {
+          "name": "膘肥体壮",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/feae37a261f29b60956cfa4ed29e64060242be7d.jpg"
+        },
+        {
+          "name": "力大如牛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/a787d0352dd6cdcd591d2e9cfa831741a16053b4.jpg"
+        },
+        {
+          "name": "健步如飞",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/772230/2507c66f3044538b462147651b949d63a0a289aa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 0,
+      "total_reviews": 11
+    }
+  }
+}

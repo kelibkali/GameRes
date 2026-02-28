@@ -1,0 +1,59 @@
+{
+  "468270": {
+    "name": "Brigador Modkit & Map Editor",
+    "steam_appid": 468270,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Contents of the Brigador Modkit &amp; Map Editor<br><ul class=\"bb_ul\"><li>'BrigadorModkit.zip' - raw files needed to convert your copy of the game into a dev environment (assets folder + dumppack.bat + genpack.bat)<br></li><li>'Modkit_CommunityCompilation_v2.zip' - collection of mods and maps produced by the Brigador community<br></li><li>'global alts' folder - alternate global.json files for the community compilation for linux &amp; mac<br></li><li>'TiledMapEditor_Installer' - for making maps<br></li><li>'SpritePacker' folder - tools for creating sprites in the game<br></li><li>'namingguide.txt' - naming scheme instructions for sprites<br></li><li>'readme.txt' - quick installation instructions<br></li><li>'attributions.txt' - credits</li></ul><br>If the DLC does not download and instead launches the game, please go to Library &gt; Right click &quot;Brigador&quot; &gt; Properties... &gt; DLC and make sure the Modkit &amp; Map Editor DLC is checked. The download should begin when you do.<br><br>Please note that although this is categorized as &quot;DLC&quot;, you will need to manually extract and overwrite the files which have been downloaded to a new subfolder where Brigador is on your computer (e.g. C:\\Program Files (x86)\\Steam\\steamapps\\common\\Brigador\\modkit). Details on how to do this can be found in the readme.txt in that new folder, or in the quick reference at the side.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468270/header.jpg?t=1724871690",
+    "developers": [
+      "Stellar Jockeys",
+      "Gausswerks"
+    ],
+    "publishers": [
+      "Stellar Jockeys"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

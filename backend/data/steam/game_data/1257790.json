@@ -1,0 +1,53 @@
+{
+  "1257790": {
+    "name": "iVRy PSMoveServiceEx Tracker for SteamVR",
+    "steam_appid": 1257790,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >What is the iVRy PSMoveServiceEx Tracker for SteamVR DLC?</h2><p class=\"bb_paragraph\" > <br>• It is a version of the PSMoveServiceEx software that has been customised to simplify installation and configuration for use with the iVRy Driver for SteamVR.</p><h2 class=\"bb_tag\" >What is PSMoveServiceEx?</h2><p class=\"bb_paragraph\" > <br>• PSMoveServiceEx is a background service that manages multiple PSMove Controllers and PS3 Eye Cameras. Clients connect to the service and stream PSMove Controller state (position, orientation and button presses). A visual client front-end is used for controller/tracker configuration.</p><h2 class=\"bb_tag\" >Where can I find the source code of the Open Source PSMoveServiceEx component?</h2><p class=\"bb_paragraph\" > <br>• The source repository is hosted on GitHub under the name &quot;PSMoveServiceEx&quot;. </p><p class=\"bb_paragraph\" >• The PSMoveServiceEx binaries are unmodified from the latest GitHub repository release.</p><h2 class=\"bb_tag\" >What does that mean?</h2><p class=\"bb_paragraph\" >• Want to use your Sony Playstation Move controllers to play PC VR* (Virtual Reality) titles? </p><p class=\"bb_paragraph\" >• Want to add 6DOF (orientation &amp; positional) tracking** to your iVRy VR headset?</p><p class=\"bb_paragraph\" >• With iVRy, the PSMoveServiceEx Tracker for SteamVR  and 2 or more Sony Playstation Eye cameras you can! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* Valve OpenVR/SteamVR. Requires Valve Steam &amp; SteamVR on Windows 7 or later.<br>** Requires LED ball or additional PS Move controller (see &quot;Virtual HMD&quot; section of PSMoveService Wiki, ignore &quot;Additional Software&quot; section)</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257790/header.jpg?t=1729710706",
+    "developers": [
+      "Chadwick Boulay",
+      "Guido Sanchez",
+      "Timocop",
+      "Mediator Software"
+    ],
+    "publishers": [
+      "Mediator Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

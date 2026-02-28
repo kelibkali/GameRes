@@ -1,0 +1,61 @@
+{
+  "955600": {
+    "name": "Noble In Exile / 落魄之家",
+    "steam_appid": 955600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这款游戏中，你将扮演一个落魄家族的成员，用你手头的一切建造一个小的城镇。你可以设计这个城镇里的一切，从每一条道路到地上的每一块地砖。每一个商铺都需要你亲手建造，而且你要负责这个商铺的一切，包括决定要进多少原料，到每一个产品的定价。到这一步之后你就可以放轻松了，因为剩下的是由市场自己决定的。大家都知道东西卖的贵了就会卖的少了，但是你真的知道怎么样才可以让你的商铺获得最多的盈利么？<h2 class=\"bb_tag\" >游戏正式发售的时候会包括的内容</h2><br><ul class=\"bb_ul\"><li>更多的产业链以及更多的建筑</li></ul><ul class=\"bb_ul\"><li>有不同气候和环境的更多地图</li></ul><ul class=\"bb_ul\"><li>一个<strong>赌坊</strong>更新包，包括了游戏中的赌坊建筑，和一个真的可以进去玩的赌坊小游戏。用游戏过程中赚到的钱，玩家可以到这个赌坊里去体验一下中国古代的一些赌博玩法。如果你够厉害的话说不定靠这个就够你在游戏里赚钱了。</li></ul><ul class=\"bb_ul\"><li>一个<strong>家族系统</strong>。毕竟游戏的标题叫落魄之家，肯定要有一个家族系统，让玩家可以给子女们安排他们的人生，然后生老病死孩子继承家业。当他们长大之后他们的所学将会给整个家族带来各种各样的buff。或者通过和其他家族的联姻获得一些平时不会有的好处。养的孩子越多花销也就会越多，但是如果不多养几个孩子的话，在天灾人祸面前整个家族会有香火不继的风险，到时候游戏就会被迫结束了。</li></ul><h2 class=\"bb_tag\" >在宣传绿光的时候包括了但是不会包含在正式发售版本的内容</h2><i>/*写这个部分主要是因为我从绿光通过了之后把整个游戏里的模型动画包括很多建筑的机制都重新做了，所以有一些在绿光页面里的设计因为很多因素不会勉强去做。这里要写清楚以免万一有一些玩家隐约记得绿光页面里的内容产生一些误解。*/</i><br><ul class=\"bb_ul\"><li>主要就是多城市之间的竞争机制 --  在绿光页面上我有写会有多个AI管理的城市会和玩家竞争，玩家可以通过各种形式慢慢做大做强，包括各种商业策略或者是政治手段。但是实际制作过程中我发现这部分的AI对于我们这个只有一个程序猿（也就是我）的小作坊可能是削微难做了一点。如果设计成多人游戏的话因为这种多人模式是异步的，需要服务器来储存玩家目前的城市情况，不能用简单的P2P网络实现，对目前的我们来说是不太好实现的。</li></ul><h2 class=\"bb_tag\" >最后</h2>有什么想法和建议不论是评论里或者是社交平台上都可以跟我们说，如果条件允许的话我们很乐意把一些我们可以做的内容加入到游戏中来。<br>可以私信给微博@柠檬猫LemoNeko，或者是在微博里评论，我每个都会看，可以的话都会回复。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955600/header.jpg?t=1550028969",
+    "developers": [
+      "LemoNeko Software"
+    ],
+    "publishers": [
+      "LemoNeko Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 2000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 20.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 5,
+      "total_negative": 2,
+      "total_reviews": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "1027280": {
+    "name": "MocuMocuVRM",
+    "steam_appid": 1027280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;MocuMocuVRM&quot; is an application to view VRM character models and motions by SteamVR.<br />\r\nIt is possible to create character motions by built-in MotionEditor.<br />\r\nAlso, You can use &quot;AR View&quot; by HTC Vive/Pro front camera.<br />\r\n<br />\r\nFeatures :<br />\r\n- Supported &quot;The Looking Glass&quot;",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1027280/header.jpg?t=1551091641",
+    "developers": [
+      "Vrai"
+    ],
+    "publishers": [
+      "Vrai"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

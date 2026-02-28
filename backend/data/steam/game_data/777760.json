@@ -1,0 +1,125 @@
+{
+  "777760": {
+    "name": "Charlie II",
+    "steam_appid": 777760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Charlie II is an old school 2D side-scrolling platform game. Run through levels, collect coins, diamonds and other power ups. Jump on top of enemies to defeat them. Dive into the water to find hidden areas!<br><br>This is an updated version of the original game from 2001 to make it work on modern computers.<br><br>In this game, you must collect enough coins and diamonds before you may exit a level. Depending on the chosen difficulty, the required percentage is 45%, 60% or 75% (easy, normal, hard). Once you have collected the required amount, you will see the message &quot;Find the exit!&quot;. <br><br>There are also 7 letters (C, H, A, R, L, I, E) that you can collect in each level. Collecting them is not required for 100%, but they may help you find areas you haven't explored yet, since the letters are generally layed out from left to right.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777760/extras/a6a88cbce560345e008406f6dac5f5b0.avif?t=1519062048\" width=481 height=156 /></span><br><br>At first, you can only play through the entire game without going back to a previous level. Some levels (indicated with a '?') are hidden, to play them, you must find the secret exit in the previous level. After you have completed the game, you will be able to select any level to play so you can find all the hidden items and secret areas to increase your score for each level until you get 100% everywhere.<br><br>The game can run using either OpenGL or DirectX (Options, Video, Graphics). If the game doesn't run smoothly, try adjusting this. Note that the Steam overlay may not work for DirectX, if you need that, choose OpenGL.<br><br>The default keys are:<br><br>[Left] and [Right]: walk<br>[Ctrl]: walk faster<br>[Space]: jump<br>[Down]: in some places Charlie can dive into the water<br><br>[Ctrl+P]: pause game<br>[Alt+Enter]: swich between full screen and windowed mode",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777760/header.jpg?t=1519062048",
+    "developers": [
+      "Mike Wiering"
+    ],
+    "publishers": [
+      "Wiering Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 4100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 41.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 62,
+      "highlighted": [
+        {
+          "name": "Level 0-1 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/1fe540c58cb35ab23e653196d23f152fe95894d8.jpg"
+        },
+        {
+          "name": "Level 0-2 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/02faa419bd2553838dbbbe38c82ff59d766c5eb1.jpg"
+        },
+        {
+          "name": "Level 1-1 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/84eee6af61bce125955f4a80446ab504e238b93c.jpg"
+        },
+        {
+          "name": "Level 1-2 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/85c496b577dc6f7a26845a46d7f19591b5140177.jpg"
+        },
+        {
+          "name": "Level 1-3 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/4030046bbccb6456d00d0585ce9a4ab4c2b15ad2.jpg"
+        },
+        {
+          "name": "Level 1-4 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/9593608633be1ab8f4a9c26b38586fc64d327c4f.jpg"
+        },
+        {
+          "name": "Level 1-5 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/9163944692f5e2e9c5a2d3e31f0909694ae80ab1.jpg"
+        },
+        {
+          "name": "Level 1-6 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/2f7b8739f7286053ebcafa9c9866656af53b05de.jpg"
+        },
+        {
+          "name": "Level 2-1 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/66b7a97cb0176808bb0e2f6b7879674e90869b29.jpg"
+        },
+        {
+          "name": "Level 2-2 100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777760/d58ce89c639967176a11119071cd5bf780cd3bde.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

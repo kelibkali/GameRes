@@ -1,0 +1,53 @@
+{
+  "1663450": {
+    "name": "Code Correction",
+    "steam_appid": 1663450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "a puzzle game based on parity and hamming codes.<br />\r\n<br />\r\neach puzzle is randomly generated. first a binary code is generated. then a binary key is created based on the original binary code. finally a single digit within the original binary code is inverted. using the key you must find the binary digit that was inverted.<br />\r\n<br />\r\nmodes<br />\r\n2x2 = 2^(2*2)*2*2 = 64 possible combinations<br />\r\n4x4 = 2^(4*4)*4*4 = 1,048,576 possible combinations<br />\r\n8x8 = 2^(8*8)*8*8 = over 1,180,000,000,000,000,000,000 possible combinations<br />\r\n16x16 = 2^(16*16)*16*16 = a very large number.<br />\r\n32x32 = 2^(32*32)*32*32 = more puzzles than any human can solve in a lifetime.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663450/header.jpg?t=1624781053",
+    "developers": [
+      "Feral Code Monkey"
+    ],
+    "publishers": [
+      "Feral Code Monkey"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

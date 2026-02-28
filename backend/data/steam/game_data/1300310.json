@@ -1,0 +1,105 @@
+{
+  "1300310": {
+    "name": "Move Code Lines",
+    "steam_appid": 1300310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Move Code Lines is a puzzle game where you fix programs and make them print needed output. But the only way you can achieve that is to change the order of lines in those programs, and set custom input.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/9ef03da8ff82c10fb0d401eb070147fe.poster.avif?t=1757222457\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/9ef03da8ff82c10fb0d401eb070147fe.webm?t=1757222457\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/9ef03da8ff82c10fb0d401eb070147fe.mp4?t=1757222457\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Find your way through a maze of code in more than 130 puzzles</p></li><li><p class=\"bb_paragraph\" > Work with arrays, conditions, loops and functions</p></li><li><p class=\"bb_paragraph\" > Change speed, or even pause execution, and watch programs working line by line</p></li><li><p class=\"bb_paragraph\" > The most difficult levels require writing your own utility programs outside the game that will help you solve puzzles</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/33c4fe5479b345a36a5dc307cb73d59b.poster.avif?t=1757222457\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/33c4fe5479b345a36a5dc307cb73d59b.webm?t=1757222457\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/extras/33c4fe5479b345a36a5dc307cb73d59b.mp4?t=1757222457\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Programming language that you will interact with is <strong>ChaiScript</strong>. It is very similar to Python and JavaScript, but it's another language.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300310/header.jpg?t=1757222457",
+    "developers": [
+      "Fewjix"
+    ],
+    "publishers": [
+      "Fewjix"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "print (\"Hello, world!\")",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/a9f6dcabc2966a151189e311fcdd84501f5588a6.jpg"
+        },
+        {
+          "name": "def f () { }",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/175451f5022e58993fe729dfde7701555b45d1a8.jpg"
+        },
+        {
+          "name": "return",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/1aa8a0d66bcf1c26c2f2e8f43561e5a4d1dad1cf.jpg"
+        },
+        {
+          "name": "get_int ()",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/6b48ec6b72b7802dcb6fd56289edfffb98040f53.jpg"
+        },
+        {
+          "name": "if (true) { }",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/a4f24060bd90d84a9b3fd51908fead7cd866a0e8.jpg"
+        },
+        {
+          "name": "while (true) { }",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/436d04cfb0f9ffba512af6ba84f489bc1c2ea6d6.jpg"
+        },
+        {
+          "name": "for (var i = 0; i < n; ++i) { }",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/4b742d4387353d5fb2d3383a1b666e780b9d4399.jpg"
+        },
+        {
+          "name": "break",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/91b7655876c981012bceea3feec5456dc1ec1718.jpg"
+        },
+        {
+          "name": "def f () { f () }",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/3866975a7100fdef288621a2296a7cfae987f435.jpg"
+        },
+        {
+          "name": "var v = [1, 2, 3]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1300310/eae1dc4855afd688cbe94dafea53d791617b6bcf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 6,
+      "total_negative": 2,
+      "total_reviews": 8
+    }
+  }
+}

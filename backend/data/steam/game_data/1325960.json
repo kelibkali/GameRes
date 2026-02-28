@@ -1,0 +1,89 @@
+{
+  "1325960": {
+    "name": "Pandemic: The Virus Outbreak",
+    "steam_appid": 1325960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >加入社区！</h2><br><br>一个政府模拟游戏，您当总统，并且必须策略性地计划在大流行期间采取何种行动来平衡您所在国家/地区的统计数据。<h2 class=\"bb_tag\" >您是否足以使您的国家战胜流行病？ 试试看！</h2><h2 class=\"bb_tag\" >想知道如果对大流行没有反应怎么办？ 试试看！</h2><br>您是一个新国家的总统，该国家现已成为地球的一部分，在2020年1月1日开始大流行。<br><br>您必须权衡8个统计数据：感染，死亡，恢复，经济增长，失业，声誉，卫生系统工作量和疫苗开发。<br><br>您可以采取2种主要的操作类型来平衡统计数据<br><br>隔离措施<br>-防毒面具<br>-关闭国家边界<br>-封闭式学校<br>-停止旅游<br>-关闭商店<br>-停止行业<br>-停止事件<br><br>预算投资<br>-疫苗研究<br>-卫生系统能力<br>-经济宣传<br>-病毒宣传<br>-企业援助计划",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325960/header.jpg?t=1628185136",
+    "developers": [
+      "John's Project"
+    ],
+    "publishers": [
+      "John's Project"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 550,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Infections reached 0%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1325960/8b7ddf3be73591f2b12983c5f64da02d5e2b5628.jpg"
+        },
+        {
+          "name": "Vaccine developer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1325960/e61d4a83e01925e6c92d44fb0d6cd0742c732463.jpg"
+        },
+        {
+          "name": "Mass murder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1325960/fb3fb99e468bd645981a295174e769565e273ba8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

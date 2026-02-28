@@ -1,0 +1,69 @@
+{
+  "806360": {
+    "name": "Uncanny",
+    "steam_appid": 806360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Uncanny is an simple, atmospheric horror game. Walk through an endless maze full of darkness and wrong turns. Shamble through the dim to find a doorway. Go through the doorway to advance the game. Spend time in the maze and learn it's tricks to better avoid what follows you. Metaphorical ambiance gives way to deep and intriguing play the more experienced you get.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806360/header.jpg?t=1601089875",
+    "developers": [
+      "Ultraviolet Design"
+    ],
+    "publishers": [
+      "Ultraviolet Design"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "FINAL LEVEL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806360/71f7e501e3d5dbdec8d93f184f87898f9f490fc0.jpg"
+        },
+        {
+          "name": "First Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806360/71f7e501e3d5dbdec8d93f184f87898f9f490fc0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

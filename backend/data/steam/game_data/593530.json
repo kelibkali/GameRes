@@ -1,0 +1,73 @@
+{
+  "593530": {
+    "name": "Jelly in the sky",
+    "steam_appid": 593530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is an innovative, physically realistic 2d artillery game. The whole game world - is a physics simulation! But on a deeper level than you ever seen in games. There's no sprites, no constantly shaped physical blocks. Everything is made of dynamically and realistically permutating matter.<br />\r\n<br />\r\nTens of thousands of tiny interacting particles form this dynamic matter, which is being simulated in real time. Everything in the game is made of this matter, no excuses: ground, player characters, enemies, projectiles, bonuses. And everything can be blown up in a realistic way.<br />\r\n<br />\r\nThe calculations required to run this simulation in real time are enormous, but luckily we have supercomputers inside our computers. Modern videocards provide enough computational power to run this kind of simulation in a real time. Computational performance of GPU is usually 50-100 times higher than a CPU can provide. And this whole power is used to calculate the physics of the game world. So, the game literally runs on GPU instead of CPU.<br />\r\n<br />\r\nOn the big picture it is an alternative branch of games' evolution. The games used to evolve towards better graphics. My game has rather simple graphics, but is pretty advanced on physics level. From the different point of view, modern technologies like VR or AR bring virtuality to reality. While physics simulations bring reality to virtuality.<br />\r\n<br />\r\nThis approach is innovative technically, but also opens new physics related gameplay mechanics. Some are already implemented. But collective imagination is wider than individual one. So, I invite the players to play and share their ideas and thoughts. Together we can make the gameplay unique and exclusive.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/header.jpg?t=1527024952",
+    "developers": [
+      "Zolden Games"
+    ],
+    "publishers": [
+      "Zolden Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

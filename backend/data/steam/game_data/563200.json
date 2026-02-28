@@ -1,0 +1,69 @@
+{
+  "563200": {
+    "name": "Slay",
+    "steam_appid": 563200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men. The twist to the game is that the more powerful a man that you create is, the more expensive he is to maintain. Men cannot be un-bought so you must tread a fine line between building up your forces, and not being rashly ambitious. Sneakily cutting an enemy territory in half to bankrupt one side of it is an essential skill to learn!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/563200/header.jpg?t=1690550820",
+    "developers": [
+      "Sean O'Connor"
+    ],
+    "publishers": [
+      "Sean O'Connor"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

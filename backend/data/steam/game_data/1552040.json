@@ -1,0 +1,101 @@
+{
+  "1552040": {
+    "name": "Dominant Mind",
+    "steam_appid": 1552040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dominant Mind是最备受青睐的棋盘游戏之一的Steam版。如果你喜欢玩逻辑游戏，这款游戏绝对适合你。我们的大脑就像其他部位的肌肉一样，需要锻炼才能成长并保持健康。因此，大家都感兴趣利用脑力游戏来挑战脑力及锻炼大脑。<br />\r\n两种游戏模式破译：<br />\r\n- 4槽简易模式<br />\r\n- 5槽困难模式<br />\r\nDominant Mind游戏规则非常简单，类似于利用铅笔和纸进行的猜数字（Bulls and Cows）这款脑力游戏。准备好锻炼大脑了吗？<br />\r\n <br />\r\n*** 游戏规则 ***<br />\r\nDominant Mind是一款使用棋盘及四枚彩珠来进行的脑力游戏。目标是猜测隐藏的密码。棋盘由四或五列和八行组成，密码破解者需要猜测隐藏彩珠的颜色及槽位。每行右侧有数个孔，每次猜测密码后，软件会将黑色或白色珠子放入这些孔，或者不放珠子，以即时给玩家提供反馈：<br />\r\n <br />\r\n⚫  黑色珠子表示猜对颜色和槽位<br />\r\n⚪  白色珠子表示猜对颜色，猜错槽位<br />\r\n🔴  不放珠子表示猜错颜色和槽位<br />\r\n❓ 两种游戏模式：4槽简易模式和5槽困难模式<br />\r\n<br />\r\n<br />\r\n密码破解者猜对一种隐藏颜色，就会出现一个提示珠。如果有两枚隐藏彩珠是同色的，但玩家猜测同色的彩珠有三枚，就会出现两个表示颜色正确的提示珠。<br />\r\n收到反馈后，密码破解者可以根据反馈及利用逻辑来重新猜测密码，直到密码破解。<br />\r\n棋盘只有八行，因此玩家有八次猜测密码的机会。在这款逻辑游戏中，只要玩家猜对颜色、破解密码或很快就破解密码，都能获得奖励积分。<br />\r\n尽情畅玩这款逻辑游戏吧！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 日语, 韩语, 挪威语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 瑞典语, 泰语, 繁体中文, 土耳其语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552040/header.jpg?t=1726050503",
+    "developers": [
+      "Peaksel"
+    ],
+    "publishers": [
+      "Peaksel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Game opened",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/a91f51b76b0d09d069eb120eaf35e0ecedad3f18.jpg"
+        },
+        {
+          "name": "Rookie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/54e3703d86834801cdf93aca74f8fa7c8f5b0138.jpg"
+        },
+        {
+          "name": "Rookie in the training",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/3b3d83ff34b51f906d5bd724a95a3e7e0dbf9eb6.jpg"
+        },
+        {
+          "name": "Bright mind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/c18950a5cdafdf21ae84ede2b6f5791cae0c6b46.jpg"
+        },
+        {
+          "name": "Clever mind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/4942d1ad1ea74b1e892d92b63314c1ef646f092c.jpg"
+        },
+        {
+          "name": "25 wins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/9a42e94e875087bcdb67544b94b6726a4addbb60.jpg"
+        },
+        {
+          "name": "25 hard wins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/ba1776dfcc6e1a8b94e8cb67fe7df765c80df0f6.jpg"
+        },
+        {
+          "name": "Brainiac",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/f89c257cff20126b226f99cf9adcb5b8d31b62ef.jpg"
+        },
+        {
+          "name": "Dominate the game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1552040/75ad1f3d5edeb00edebc2b6d558f4ece17af7688.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

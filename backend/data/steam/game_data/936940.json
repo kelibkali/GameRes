@@ -1,0 +1,98 @@
+{
+  "936940": {
+    "name": "DingDingDing",
+    "steam_appid": 936940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "简单来说只需要点击鼠标左键或者空格键触发射击，命中红色目标就可以一直玩下去。<br />\r\n<br />\r\n命中红色目标一次，游戏难度的数字会减一，直到为零，达到一定的名字次数之后会触发奖励，命中奖励目标会增加游戏难度最大数字的值。<br />\r\n命中红色目标一定次数之后，红色目标将会随机小范围的移动或者缩放，箭也会以某些曲线射向红色目标，弓也会根据名字次数来加快移动速度，命中次数不多这些难度会单独出现，命中次数多了之后会一起出现，根据命中次数越多游戏难度越大。<br />\r\n当没有命中目标的次数达到游戏难度最大的数值时游戏将结束，结束时如果你的命中次数足够多，那么你的命中次数将会出现在游戏开始时的排行榜上。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936940/header.jpg?t=1554744358",
+    "developers": [
+      "CaiHuaqing"
+    ],
+    "publishers": [
+      "CaiHuaqing"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "100命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/027659c4b8e804d1071083820ed5c4a12a3d6a9c.jpg"
+        },
+        {
+          "name": "200命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/332ddff7fe47b9bff2e5ca0b42860dd5dcf3d9bd.jpg"
+        },
+        {
+          "name": "300命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/3c2f4038e0064b98e66effb638a597d17d602f58.jpg"
+        },
+        {
+          "name": "400命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/b448b62c77477891d5b467259de702d5a866d2a0.jpg"
+        },
+        {
+          "name": "500命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/4cf84ae079a3bfa794b2356b07b2c7902a4e83af.jpg"
+        },
+        {
+          "name": "600命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/65a2036cbe428e96bda8116574bbf5de869eb2b6.jpg"
+        },
+        {
+          "name": "700命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/7691a7b7e14c763db0808b85c25e00c41262052a.jpg"
+        },
+        {
+          "name": "800命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/34f16f8a9b0b3a4d77bd822c601fa30ffe77f181.jpg"
+        },
+        {
+          "name": "900命中",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936940/5a8f22fd9df315ea0d68fcd80d769481978dd440.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

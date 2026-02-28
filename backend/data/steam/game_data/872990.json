@@ -1,0 +1,107 @@
+{
+  "872990": {
+    "name": "Stream Games",
+    "steam_appid": 872990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Stream Games Only works for TWITCH Streamers<br />\r\n<br />\r\nStream Games is a set of mini games that Twitch Streamers can play with their viewers interaction<br />\r\n<br />\r\nAvailable Content:<br />\r\n- 7 minigames<br />\r\n- 3 tools<br />\r\n<br />\r\nStream Games does not display nicknames for viewers that have non-Latin characters, such as Japanese, Chinese, Korean, etc.<br />\r\n<br />\r\nAs a Streamer, you can connect Stream Games to the chat<br />\r\nof your channel and allow your viewers to participate in mini-games to<br />\r\nearn rank and points. <br />\r\n<br />\r\nYou can set your bot and currency name, or customize the commands that your channel bot uses to add points to the viewers.<br />\r\nThat way, your viewers will get points when winning the games. <br />\r\n<br />\r\nMultiplayer and interaction only works through a channel chat from Twitch (twitch.tv)",
+    "supported_languages": "英语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/872990/header.jpg?t=1597940503",
+    "developers": [
+      "Lipe Pereira(bro)",
+      "IceMakerZero"
+    ],
+    "publishers": [
+      "Lipe Pereira(bro)",
+      "IceMakerZero"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "First",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/1d30cd5db65df48b120522cc8bd1de67e0a426bb.jpg"
+        },
+        {
+          "name": "Lucky Viewers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/549d22a931017741aa67d4346fccd48e2dbe3915.jpg"
+        },
+        {
+          "name": "Best Viewers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/e79b7b7792bcdd77733814fd08486a9e376eee15.jpg"
+        },
+        {
+          "name": "Warriors Viewers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/f346f12faf980c8436990355ebe9c338165c5892.jpg"
+        },
+        {
+          "name": "Survivors",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/9ff498a91a88a7a072a45adfa0d4d4e5a8a33082.jpg"
+        },
+        {
+          "name": "Good Shooting Chat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/872990/2c561af3173173e5a6876a27a3793f7d9a387e32.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

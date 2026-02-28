@@ -1,0 +1,69 @@
+{
+  "1389000": {
+    "name": "Boom Dojo",
+    "steam_appid": 1389000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Boom Dojo is a rhythm boxing trainer. Targets are generated from your music in realtime.<br><br>You color match targets to your hands and avoid bar contact which hurts your score.<br><br>The score is dynamically calculated as your hits / the current total of emitted targets.<br><br>Target rate is tied to your score so higher scores will yield more targets from a track.<br><br>The better you play the more detail you &quot;squeeze&quot; out of the music hardening the game.<br><br>LIV is also fully supported allowing you to capture your amazing workouts in mixed reality.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/header.jpg?t=1619367726",
+    "developers": [
+      "Yolopia Ltd"
+    ],
+    "publishers": [
+      "Yolopia Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

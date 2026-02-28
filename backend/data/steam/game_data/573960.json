@@ -1,0 +1,73 @@
+{
+  "573960": {
+    "name": "S2ENGINE HD - Easy Game Pack",
+    "steam_appid": 573960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "使用适用于S2ENGINE HD的Easy Game Pack DLC创建您梦想中的游戏！<br>S2ENGINE HD的技术支持加上该产品提供的自带资源和逻辑将让您轻松创建前所未有的精美游戏！<h2 class=\"bb_tag\" >产品特点</h2>这个DLC包括不同类型的各种附加组件：<br><ul class=\"bb_ul\"><li>C ++ gamePack.dll包含简化游戏逻辑实现的全新类。<br></li><li>自带资源包括：用于玩家逻辑和游戏逻辑的游戏机器（GameMachines），菜单，HUD，背包系统，玩家角色，武器，物品<br></li><li>完整游戏关卡演示（从游戏重新开始到玩家死亡）</li></ul><h2 class=\"bb_tag\" >GAMEPACK.DLL</h2><ul class=\"bb_ul\"><li>玩家角色游戏类，背包系统（物品和武器）和HUD。<br></li><li>武器类<br></li><li>物品类<br></li><li>弹药类<br></li><li>任务类</li></ul><h2 class=\"bb_tag\" >新资源</h2><ul class=\"bb_ul\"><li>预制的第一人称游戏逻辑<br></li><li>预制物品有：医疗包，电池组，手榴弹，钥匙，文件（在演示游戏中要检查的地图）<br></li><li>预制武器有：手枪，M4，棒球棒<br></li><li>预制玩家可以游泳，开车，跳跃，蹲伏，使用物品和武器。<br></li><li>预制玩家HUD可以管理武器弹药，电池和能量指示器<br></li><li>预制玩家可以携带和丢弃背包中的项目和武器<br></li><li>预制玩家背包界面还可以显示当前的任务和子任务<br></li><li>预制玩家拥有可自动切换的灯光</li></ul><h2 class=\"bb_tag\" >你可以做什么</h2><ul class=\"bb_ul\"><li>可以使用游戏机器轻松自定义玩家逻辑（无需编程）<br></li><li>可以制作第一和第三人称游戏<br></li><li>可以添加新武器<br></li><li>可以通过游戏机器实现/定制新项目<br></li><li>背包界面可通过S2ENGINE GUI 编辑器和游戏机器编辑器进行自定义</li></ul>使用这个DLC可以制作许多其他东西，唯一的限制就是你的想象力。<h2 class=\"bb_tag\" >在线手册</h2>EasyGamePack DLC提供了在线手册，您可以在以下网址找到：http：<br>我们建议阅读它以更好地了解如何使用该DLC。<h2 class=\"bb_tag\" >我们正在做什么</h2>Easy Game Pack计划在未来进行扩展和改进。其他功能包括：<br><ul class=\"bb_ul\"><li>雷达系统（完成）<br></li><li>在玩家HUD上被击中显示（完成）<br></li><li>近战武器可以伤害敌人<br></li><li>加载并保存游戏数据（完成）</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573960/header.jpg?t=1696602352",
+    "developers": [
+      "Profenix Studio SRLS"
+    ],
+    "publishers": [
+      "Profenix Studio SRLS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 1800,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 36.00",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

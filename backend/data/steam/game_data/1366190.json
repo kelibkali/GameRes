@@ -1,0 +1,73 @@
+{
+  "1366190": {
+    "name": "Alien Trap",
+    "steam_appid": 1366190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Alert! Our base was invaded by alien species.</p><p class=\"bb_paragraph\" >The first encounter was disastrous. </p><p class=\"bb_paragraph\" >Research shows they're highly aggressive and are ready to destroy you at first sight.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366190/extras/278f375a2d9ee776c841af3554c34509.poster.avif?t=1755198591\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366190/extras/278f375a2d9ee776c841af3554c34509.webm?t=1755198591\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366190/extras/278f375a2d9ee776c841af3554c34509.mp4?t=1755198591\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >They have captured you and placed in a computer simulation within other dimension.</p><p class=\"bb_paragraph\" >Try to fight them off and show them who's <strong>BOSS</strong>!</p>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366190/header.jpg?t=1755198591",
+    "developers": [
+      "ic3bug"
+    ],
+    "publishers": [
+      "ic3bug"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

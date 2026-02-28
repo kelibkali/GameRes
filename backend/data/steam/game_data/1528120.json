@@ -1,0 +1,105 @@
+{
+  "1528120": {
+    "name": "ComPressure",
+    "steam_appid": 1528120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "For too long have we relied on cogs and gears to control our lives. Welcome to a new age, the age of steam!<br><br>The simple valve, which controls the flow of steam based on the pressure on it's control ports, is the only component that is needed to revolutionise our control over machines. From simple switches, to adders, tabulators, and eventually entire computers. Your companions will guide you through the discovery of steam based computation. A word of warning though. This game is hard. One can not discover an entire new field of science alone. Which is why an Academy of steam engineers (Discord) is available to you. A friendly community who are happy to assist you and share their latest steam innovations. Each solved challenge yields another useful element that can be used in future designs. Poor solutions in previous stages make poor components to use further on, so you will be coming back to old designs, tuning and optimising them with things you have learned.<h2 class=\"bb_tag\" >The Game</h2>The following is a quick walkthrough the game dynamics.<br>It all starts with pipes. Left click to start a pipe and click each time to extend it in the direction of the mouse pointer. Right click to end.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/a06211195db233ae0d39ba8150f2041d.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/a06211195db233ae0d39ba8150f2041d.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/a06211195db233ae0d39ba8150f2041d.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>When placing more pipes, they can either cross, or join existing pipes. To join, extend the pipe in the direction of an existing pipe.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/5f319a8e3ab5bd4cfe620f2943ad7e51.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/5f319a8e3ab5bd4cfe620f2943ad7e51.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/5f319a8e3ab5bd4cfe620f2943ad7e51.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>To delete, press or hold right mouse button.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/82f356955dd214163a8442615b63fb71.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/82f356955dd214163a8442615b63fb71.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/82f356955dd214163a8442615b63fb71.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>In the edit menu (one with the spanner) you can select to place a steam inlet. It is also available by pressing Tab twice. There are buttons to rotate the direction before placing, but you can also use Q and E on the keyboard. Then place with the left mouse button. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/110a898e942eaaa81af4792a19ae512b.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/110a898e942eaaa81af4792a19ae512b.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/110a898e942eaaa81af4792a19ae512b.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>The numbers appearing on the pipe connections show the current pressure, from 100 when connected to a steam inlet, to 0 at any uncapped pipe end.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/43cefc068dbc03d08f995590ae14955a.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/43cefc068dbc03d08f995590ae14955a.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/43cefc068dbc03d08f995590ae14955a.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>The last component is the valve. If the pressure on the + side of the valve is higher than on the - side, the valve becomes open and lets steam pass through the valve. If the + and - sides are at the same pressure, of the - side is higher, then the valve is closed and does not allow steam through.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/020b9063dac43e3b2036bbc8f0dd005c.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/020b9063dac43e3b2036bbc8f0dd005c.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/020b9063dac43e3b2036bbc8f0dd005c.mp4?t=1726234756\" type=\"video/mp4\"></video></span><br>The design is continually examined with a series of tests. If the output is within 5% of the test target, a score is given depending on how accurate the output is. This ranges from 100 for spot on to 0 when 5% off. Passing all tests with any score above 0 unlocks the next level. To focus on a specific test, click the test to enter &quot;play one&quot; mode which repeats one test.<br><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/a77f3eba1a547ff40a4ebc0ebd656616.gif?t=1726234756\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/a77f3eba1a547ff40a4ebc0ebd656616.poster.avif?t=1726234756\" class=\"bb_img\" /></picture></span><br>Each completed design can be used as a component in future designs.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/186f25f924962324fcd1469b42ff1620.poster.avif?t=1726234756\" width=288 height=288 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/186f25f924962324fcd1469b42ff1620.webm?t=1726234756\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/extras/186f25f924962324fcd1469b42ff1620.mp4?t=1726234756\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 捷克语, 日语, 俄语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/header.jpg?t=1726234756",
+    "developers": [
+      "Charlie Brej"
+    ],
+    "publishers": [
+      "Charlie Brej"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Make contact with Lady Easley",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/fcf622c189340778733d05334e22c328d980247c.jpg"
+        },
+        {
+          "name": "Make contact with Lord Moorhouse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/1b570198715b31c0d0ad266787f6f1eeec799182.jpg"
+        },
+        {
+          "name": "Save the Town Hall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/2475139f759d15c47f64c9db39dec1b7334ba6cf.jpg"
+        },
+        {
+          "name": "Implement Steamputer storage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/05a1a71c36b1b422e6110ada17d5bd8dd1036267.jpg"
+        },
+        {
+          "name": "Steam poetry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/79e9b87a6df824ddcba15f4599ef2f6348422c7c.jpg"
+        },
+        {
+          "name": "Pick the lock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/b4d84cef78ee3da70c594819503646f26db37c35.jpg"
+        },
+        {
+          "name": "Complete the Steamputer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/91ebe1b65fbb365b74ac7d83129d168a5e2cc80a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "922480": {
+    "name": "自走大逃杀",
+    "steam_appid": 922480,
+    "required_age": 0,
+    "is_free": true,
+    "description": "杀人或者逃跑，最后的幸存者就是赢家！根据自己选择的天赋，在游戏中寻找装备，组合出最合适自己的装备效果。战力强时追杀其他玩家，杀人提升战力！战力弱时集聚实力，等待强敌脆弱时刻，给予致命一击！<br />\r\n<br />\r\n<br />\r\n天赋介绍<br />\r\n<br />\r\n士兵一级<br />\r\n嗜血\t    击杀玩家后，恢复5点耐力。<br />\r\n坚持\t    每死亡一名玩家，自己恢复2点耐力。<br />\r\n搜索\t    在地图中每次搜索装备的时间减少1秒。<br />\r\n经验\t    每次造成伤害时，有10%概率增加1点战力，最多5点。<br />\r\n强化\t    每次装备升级，有20%概率增加1点战力，最多5点。<br />\r\n<br />\r\n士兵二级<br />\r\n洗劫\t    击杀玩家后，可以选择一件对方装备。<br />\r\n决斗\t    游戏内只剩下一名敌人时，增加3点战力。<br />\r\n<br />\r\n士兵三级<br />\r\n残暴\t    击杀玩家后，增加1点战力。最多增加5点战力。<br />\r\n感知\t    在地图中显示血量最少的玩家位置。<br />\r\n<br />\r\n塔楼等级<br />\r\n追踪\t    在地图中显示自己最近一次伤害的玩家。<br />\r\n出击\t    每死亡一名玩家，自己发现敌人的能力增加20点。最多100点。<br />\r\n<br />\r\n骑士等级<br />\r\n误导\t    当前地图有第三名玩家，则自己不会成为攻击目标。<br />\r\n疯狂\t    每死亡一名玩家，攻击时加1点战力，防御时减1点战力。最多5点。<br />\r\n<br />\r\n主教等级<br />\r\n强力\t    基本战力增加3点。但会暴露自己的位置。<br />\r\n恐吓\t    每死亡一名玩家，增加1点战力，最多5点。但会暴露自己的位置。<br />\r\n<br />\r\n皇后等级<br />\r\n突变\t    当剩余玩家为偶数时，自己的战力增加3点，为奇数时，自己的战力减少3点<br />\r\n病毒\t    当自己死亡时，对击杀自己的人造成5点伤害。但会暴露自己的位置。<br />\r\n<br />\r\n国王等级<br />\r\n毁坏\t    每次造成伤害时，有20%概率摧毁敌人物品栏中的一件装备。<br />\r\n逃生\t    在地图中显示没有玩家的区域。<br />\r\n<br />\r\n死神等级<br />\r\n暴露\t    公开所有玩家位置，死亡后失效。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922480/header_schinese.jpg?t=1567394006",
+    "developers": [
+      "ByKing"
+    ],
+    "publishers": [
+      "ByKing"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "士兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/b171385f5afde849ec6825c6ae9fdbf77f393825.jpg"
+        },
+        {
+          "name": "塔楼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/6a301f8bcfe602442eba2aa77a6b9029d4a4c1b6.jpg"
+        },
+        {
+          "name": "骑士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/91a65439b18f9061fe9713720b85003c45143dff.jpg"
+        },
+        {
+          "name": "主教",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/a2f54924881c8fac921c5a7a8539418ea5341d2d.jpg"
+        },
+        {
+          "name": "皇后",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/3db62ac068061b806f2ca48f80c23c366ef1b635.jpg"
+        },
+        {
+          "name": "国王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/f341fae6f1b413f9df441147f8f3e6571ead4d25.jpg"
+        },
+        {
+          "name": "死神",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/922480/dedbdcc7bb6b90c6e23b7869bfd52ed7b7b20baf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

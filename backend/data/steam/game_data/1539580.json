@@ -1,0 +1,109 @@
+{
+  "1539580": {
+    "name": "鸟",
+    "steam_appid": 1539580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款放松游戏，你可以体验作为一只鸟在小型的自然环境中飞翔。<h2 class=\"bb_tag\" >游戏玩法</h2><ul class=\"bb_ul\"><li>控制小鸟飞来飞去。<br></li><li>享受自然。<br></li><li>选择手动飞行模式或自动飞行模式。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 简体中文, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/header_schinese.jpg?t=1613604398",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "1 Days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1539580/6c68d8841e19dc6eb7e70ae74ce5be77a241d821.jpg"
+        },
+        {
+          "name": "3 Days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1539580/dac897ccce050a1f30134f8f622b89005fb07390.jpg"
+        },
+        {
+          "name": "5 Days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1539580/4d8effed119fbf9fb52eb1b6eafbb341b343ffad.jpg"
+        },
+        {
+          "name": "10 Days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1539580/39e1ca122ad32b6250b3495e2c8df36a554aa785.jpg"
+        },
+        {
+          "name": "30 Days",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1539580/0133d3a2d2056dafb9af7a8c513a4be39db4bfe3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 74,
+      "total_negative": 23,
+      "total_reviews": 97
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "1127680": {
+    "name": "Hypnocult",
+    "steam_appid": 1127680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Come play my little action game!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127680/extras/4dfc31d23dfb00d0fd15146985dcb049.avif?t=1566557926\" width=384 height=64 /></span><br><br>It has:<br><ul class=\"bb_ul\"><li>fast-paced action!<br></li><li>lots of music!<br></li><li>6 different levels to discover and master<br></li><li>real-glowy vector graphics!<br></li><li>3 different modes per level + variable speed settings</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127680/header.jpg?t=1566557926",
+    "developers": [
+      "increpare games"
+    ],
+    "publishers": [
+      "increpare games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Dubai",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/cfdcef01ea27177f82ae698a29d5bb08645fc134.jpg"
+        },
+        {
+          "name": "Cairo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/334463f5ce5cd62ae82dbb52a844705dbdc2cd19.jpg"
+        },
+        {
+          "name": "Dundee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/794c5469567636b31c9a8a21159ef030493e2215.jpg"
+        },
+        {
+          "name": "London",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/2277985a42b33eaf7a1c2cdca7c017aecd3c2308.jpg"
+        },
+        {
+          "name": "Birmingham",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/fa845517de4ac98bb75d92786ec59bb0d9e741a3.jpg"
+        },
+        {
+          "name": "Berlin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/a7144e2377d45d69948490a419ac71b22cb51053.jpg"
+        },
+        {
+          "name": "Dubai FAST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/e47dc6ee95d6ee451965ce7f8913962499b4f23d.jpg"
+        },
+        {
+          "name": "Cairo FAST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/cf9dee81ee1bf1d3c1c6eea88e4d7f6ef3dd0a34.jpg"
+        },
+        {
+          "name": "Dundee FAST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/621fee1739eb671c9d2c2c36f7a4edef81f64f91.jpg"
+        },
+        {
+          "name": "London FAST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127680/022037756b73b838cd8bed7c999211027a89699c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

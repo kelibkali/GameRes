@@ -1,0 +1,89 @@
+{
+  "746350": {
+    "name": "Air Combat Arena",
+    "steam_appid": 746350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "“空战竞技场&quot;是一款街机风格的飞行射击游戏。在游戏中，玩家可以驾驶不同的战机在不同的地图中进行战斗。<br />\r\n<br />\r\n* 支持单人游戏和多人游戏<br />\r\n* 死亡模式和团队死亡模式<br />\r\n* 没有自动瞄准和自动射击<br />\r\n* 卡通风格图像非常适合家庭游戏<br />\r\n<br />\r\n提示：<br />\r\n1. 得到降落伞后可以获得导弹<br />\r\n2. 飞艇可以被摧毁<br />\r\n3. 大致瞄准目标后即可发射导弹<br />\r\n4. 除了方向键外，也支持WSAD键盘布局，机枪: O 导弹: P<br />\r\n5. 游戏中F12键可用来切换垂直反向控制<br />\r\n<br />\r\n注意截图中的高清3D模型只用于展示，不能在游戏中使用。感谢您对本游戏的支持，我们会认真对待您在社区里的留言。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746350/header.jpg?t=1543198117",
+    "developers": [
+      "Sky Coder"
+    ],
+    "publishers": [
+      "Sky Coder"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "初战告捷",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746350/c89e628603f69576618688b149b3f3bedf3eba46.jpg"
+        },
+        {
+          "name": "老兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746350/0ab5e39351f4428e23063151f924912683df8b18.jpg"
+        },
+        {
+          "name": "王牌",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/746350/2a8ea79d28dc42edb9d7460c2baa0fc659a27d7d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

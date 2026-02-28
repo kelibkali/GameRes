@@ -1,0 +1,61 @@
+{
+  "1337970": {
+    "name": "CatTuber",
+    "steam_appid": 1337970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本软件是由Live2D公司正式授权的可扩展性应用。<br />\r\n目前CatTuber只能在Win10或以上的操作系统中运行。<br />\r\n------<br />\r\n游戏直播缺少生气？想展示操作但是并不想使用摄像头拍手？不喜欢其他显示操作的软件那种冷冰冰的界面？那么你可以尝试一下CatTuber！<br />\r\n<br />\r\n*不止角色鼠标桌子，多种元素自由组合！<br />\r\n软件除了提供桌子、角色、鼠标等基本的元素之外，还会提供其他功能性装饰物（如可以显示每秒按键次数的“KPS”与可以显示笔尖运动轨迹的数位笔）。每个元素都有一定数量的模型可以自由选择，按需搭配，并最终组合成软件的显示画面。内置模型可以满足大部分需要，除了常见的游戏键位之外，打字、音游、绘画所需的桌子模型你都可以在软件里找到！<br />\r\n<br />\r\n*多窗口系统<br />\r\n可以将不同的元素按需放置在不同的窗口.（目前版本使用多窗口也只有1个窗口能在OBS中直播，后续开发中会通过虚拟摄像头的方式）<br />\r\n<br />\r\n*预设系统<br />\r\n预设系统可以将软件的部分设置、软件的窗口位置大小以及窗口中的显示内容进行备份存档。也就是说，你可以将用于A情景的组合和用于B情景的组合保存进不同的预设，在需要的时候可以直接载入预设而不需要重新添加、设置元素。<br />\r\n<br />\r\n*自制Live2d模型与新的模型理念<br />\r\n软件会将文件夹视为资源包，按照约定的方式在文件夹内放置即可被软件识别。角色与桌子独立建模，用户只要按照标准制作角色模型，那么这个自制角色模型可以和所有已有的同标准的桌子配合使用；同理只要按照标准制作桌子模型，那么这个桌子模型也能和所有同标准的角色配合使用。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337970/header.jpg?t=1676883357",
+    "developers": [
+      "MMmmmoko"
+    ],
+    "publishers": [
+      "MMmmmoko"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 542,
+      "total_negative": 52,
+      "total_reviews": 594
+    }
+  }
+}

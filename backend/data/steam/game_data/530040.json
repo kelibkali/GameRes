@@ -1,0 +1,101 @@
+{
+  "530040": {
+    "name": "reconquest",
+    "steam_appid": 530040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《再度征服 (Reconquest)》是一款实时战略基地建设游戏。第三次世界大战后，人类几近灭绝。你必须做出比对手更棒的战略决策来重新征服地球。仍然存在的最宝贵的资源是放射性页岩气，对它的占有程度将决定战斗的结果。<br><br>可以在 3 种游戏模式下玩游戏：<br>- 在战役模式中，你可以从双方中进行选择：城市部队和亡命部落。双方各有 10 个单独的故事任务，漫画会将任务之间的故事情节衔接起来。<br>- 在小规模战斗模式中，你可以在 8 个不同的地图上与最多 3 个 AI 竞争。<br>- 在陷阱模式中，您可以在 8 个预置挑战中进行选择。<h2 class=\"bb_tag\" >Inspired by</h2><ul class=\"bb_ul\"><li> Command And Conquer<br></li><li> Factorio<br></li><li> Hearts of Iron IV<br></li><li> Civilization<br></li><li> Banished<br></li><li> 8-Bit Armies</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语, 俄语, 日语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530040/header.jpg?t=1572873957",
+    "developers": [
+      "StormCube Games"
+    ],
+    "publishers": [
+      "StormCube Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 4100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 41.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "城市部队",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/32a6df4378cc6bbadddb3bb7865fea0f3f6302e5.jpg"
+        },
+        {
+          "name": "亡命部落",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/0e84efe45807bcc7e624ce80d0aab83bbd7861de.jpg"
+        },
+        {
+          "name": "简单 AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/81b9893b8aa42cbfa1175c1598ed5dd18f4275c3.jpg"
+        },
+        {
+          "name": "中等 AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/fb9b536d8c8c477c5db9854165a4bf99e91e1c85.jpg"
+        },
+        {
+          "name": "困难 AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/313ccde9a9f759298d4c52c4112c1577d6cb389c.jpg"
+        },
+        {
+          "name": "锤子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/1fcbbe7b0edc2c6f088efc35304b4e97b059244d.jpg"
+        },
+        {
+          "name": "赛跑",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/25bf579bce0329b9434651cbd8c20417c30ff603.jpg"
+        },
+        {
+          "name": "隐形",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/7ca1012284b0eb5c8e45adbef3ab3211721f0c00.jpg"
+        },
+        {
+          "name": "撤退",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/eab199d9276edad3172af62d4de68c3648662e6c.jpg"
+        },
+        {
+          "name": "人不可貌相",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/530040/13433bd2fdb87549155303dcb1a29ad24964312c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 7,
+      "total_negative": 17,
+      "total_reviews": 24
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "601930": {
+    "name": "Trianguluv",
+    "steam_appid": 601930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Trianguluv 是一个宇宙中古老的街机游戏, 甚至三角形也可以有感觉！<br><br>使用简单的控件，您可以专注于掌握您的技能, 并通过解决难题和避免各种障碍，例如可动部件，陷阱和更多来过关。您将需要不断地观察这关才能进入出口。<br>优化了控制器包括键盘和控制器。<br><br>特征<br><ul class=\"bb_ul\"><li>易于学习，但难以掌握的游戏</li></ul><ul class=\"bb_ul\"><li>各种模式：经典，新游戏+，无死亡</li></ul><ul class=\"bb_ul\"><li>所有模式超过90关</li></ul><ul class=\"bb_ul\"><li>真棒的音轨</li></ul><ul class=\"bb_ul\"><li>蒸汽交易卡和具有挑战性的成就</li></ul>",
+    "supported_languages": "英语, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601930/header.jpg?t=1762423409",
+    "developers": [
+      "Bohdan Taraba"
+    ],
+    "publishers": [
+      "Bohdan Taraba"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Forever",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601930/5eebc4e71ba0c3a115d111c75a5dbc4e97786054.jpg"
+        },
+        {
+          "name": "Forever and Ever",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601930/441b70fc8b066b566888d1cf1d9f99b42381e791.jpg"
+        },
+        {
+          "name": "One in the charge pt1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601930/7d4dc7878f7ad1706f1fc8386a8c060214c1e8b2.jpg"
+        },
+        {
+          "name": "One in the charge pt2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/601930/ff1bd56eaff417caf24d334fe02075f85f19951e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

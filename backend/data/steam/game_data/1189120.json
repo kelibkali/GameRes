@@ -1,0 +1,69 @@
+{
+  "1189120": {
+    "name": "Posibility",
+    "steam_appid": 1189120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款简单的小游戏？你需要扮演一只怪物，通过战斗获取对方能力，提升自己的属性，解除各种障碍，最终打倒头目。<br />\r\n不看攻略食用更佳！！<br />\r\n基本操作:<br />\r\n&quot;0000&quot;：开始新游戏<br />\r\n“0001”：继续游戏<br />\r\n“9999”：退出游戏<br />\r\n“W&quot;： 向上移动（部分角色可使用）<br />\r\n“A” ： 向左移动<br />\r\n“S” ： 向下移动（部分角色可使用）<br />\r\n“D&quot; ： 向右移动<br />\r\n“J”  ： 攻击（部分角色自动使用）<br />\r\n“K&quot; ： 跳跃（部分角色无法使用）<br />\r\n“I”  ： 查看变身列表<br />\r\n“1&quot;-&quot;5&quot; ：变身快捷键",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 丹麦语<strong>*</strong>, 乌克兰语<strong>*</strong>, 俄语<strong>*</strong>, 保加利亚语<strong>*</strong>, 匈牙利语<strong>*</strong>, 土耳其语<strong>*</strong>, 希腊语<strong>*</strong>, 挪威语<strong>*</strong>, 捷克语<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 泰语<strong>*</strong>, 瑞典语<strong>*</strong>, 简体中文<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 芬兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 越南语<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1189120/header.jpg?t=1576546888",
+    "developers": [
+      "UGtobest"
+    ],
+    "publishers": [
+      "UGtobest"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

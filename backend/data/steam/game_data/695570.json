@@ -1,0 +1,145 @@
+{
+  "695570": {
+    "name": "PyroMind",
+    "steam_appid": 695570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The most unforgiving little puzzler you will ever play, PyroMind is a simultaneously turn-based and real-time game full of bombs, explosions and narrow escapes! <br><br>Play alone, blow up your friend or challenge a bot in a unique dimension, where everything explodes and one small mistake can blast you to smithereens.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695570/extras/174109654924fd9a1bf1fd65b8f039ba.avif?t=1770918274\" width=610 height=70 /></span><br><ul class=\"bb_ul\"><li> <strong>Mercilessly explosive gameplay</strong> that simultaneously combines turned-based puzzle solving with frantic real time elements.<br></li><li> <strong>A variety of single player modes</strong>. Each comes with its own single player campaign and ranking system.<br></li><li><strong> 2 Player Combat Arena</strong>. Duel a friend, make them explode or fry them with laser!<br></li><li> <strong>Bots!</strong> Are your friends away? We have 4 difficulties of bots to choose from.<br></li><li> <strong>5 different types of bombs</strong>, from staple Pobombs to mysterious Fruntello the Eldritch Bomb.<br></li><li> <strong>Over 15 different characters</strong> to choose from, all with different perks and bonuses.<br></li><li> <strong>Stuff to unlock</strong>! Multiplayer arenas, characters, game modes, bombs, bots and many more!<br></li><li> <strong>Bonus: PyroBlink</strong>! There is a secret unlockable mini-game hidden on the main menu. Can you find it?</li></ul><h2 class=\"bb_tag\" >This game has been greenlit by the community.</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695570/extras/fea37395021f23a3efa3da6fa552a419.avif?t=1770918274\" width=756 height=110 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695570/header.jpg?t=1770918274",
+    "developers": [
+      "SneakyBox"
+    ],
+    "publishers": [
+      "Untold Tales"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 450,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 4.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Time Bandit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/558d9a808ca5017b79a54dc47d668d9b22b91f8f.jpg"
+        },
+        {
+          "name": "Pyromind Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/af8b67ca25d85b727f76ea3074cf597bcef34084.jpg"
+        },
+        {
+          "name": "I've Got Only One Rule!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/39b786e5f57a32d862ac5129c81a987376f23a20.jpg"
+        },
+        {
+          "name": "Not a Fan of Green",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/95fef7e29a2d507618b6f7da743f6e0bbd27ddbd.jpg"
+        },
+        {
+          "name": "Faster, Pyrobot! Defuse, Defuse!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/9681d2b164a63261f7c04eee5e278a8aa74fb5f9.jpg"
+        },
+        {
+          "name": "Raiders of the Emerald City",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/1ceb3cb2ccf893cd9546ee430c80ac7ba4a2d33f.jpg"
+        },
+        {
+          "name": "Survival Mode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/c765a2ca1c7cde2d92eb58721a8cf417985ce4fa.jpg"
+        },
+        {
+          "name": "Witnessed!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/0858c5b13e7bc57219a5d9e7a02e280f2f21882c.jpg"
+        },
+        {
+          "name": "The Green Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/2a8b0213d9116930e5ffd130e686bd039e32f314.jpg"
+        },
+        {
+          "name": "The Red Menace",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/695570/aa55dc5bbfd5c9de5802303b355ee5faac1c73f6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

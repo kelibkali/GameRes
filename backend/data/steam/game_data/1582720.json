@@ -1,0 +1,97 @@
+{
+  "1582720": {
+    "name": "Recapture the Castle",
+    "steam_appid": 1582720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Recapture the Castle是一款第三人称射击游戏。入侵者占领了这座城堡，现在你需要拿起武器消灭入侵者。<h2 class=\"bb_tag\" >主要特点</h2><br>有五种角色可供选择<br>高级AI<br>宏伟的城堡<br>可以召唤宠物（按F）<h2 class=\"bb_tag\" >在线多人游戏</h2><br>按F2可以加入AI，如果有其他玩家加入游戏，AI会被销毁。按Tab可以查看玩家信息，按Z键退出多人游戏。<br>多人游戏电脑配置要求: Intel HD Graphics 4000 or better<h2 class=\"bb_tag\" >关于跳跃</h2><br>要向前跳跃，您需要先按 W 键，然后按空格键。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 乌克兰语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 简体中文, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 越南语, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1582720/header.jpg?t=1639734707",
+    "developers": [
+      "Sky City"
+    ],
+    "publishers": [
+      "Sky City "
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Kill 1 enemy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582720/03bc4ea391df74fbdb72735323d106ad43f43ae7.jpg"
+        },
+        {
+          "name": "Kill 5 enemy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582720/5ad42fbf2d48ce53b0ac2aee53ab1b62b2a23dd0.jpg"
+        },
+        {
+          "name": "Kill 10 enemy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582720/3ae8aa3ba6cd4ca64bbac5a8ea84e3c2724df50c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    }
+  }
+}

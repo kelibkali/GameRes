@@ -1,0 +1,58 @@
+{
+  "1025100": {
+    "name": "Make A Jigsaw Puzzle : Non-VR Mode",
+    "steam_appid": 1025100,
+    "required_age": 0,
+    "is_free": true,
+    "description": "你现在可以在没有VR设备的情况下玩《做个拼图玩》了！<br>在《做个拼图玩：非VR模式》中你可以自定义拼图的长宽，图片和拼图边。你可以在制作完成后游玩拼图。<h2 class=\"bb_tag\" >制作的功能：</h2><ul class=\"bb_ul\"><li>边长最大18，最小2，但拼图块最多不能超过150。<br></li><li>游戏自带6张图片，也可通过游戏内置的简易文件游览器添加你电脑内的图片(JPG或PNG)。<br></li><li>图片可以自由旋转，移动并在0.5倍到2倍间缩放。<br></li><li>总共有3种拼图边可以选择，可以设置全部随机排列或单独设置每一个拼图边。</li></ul><h2 class=\"bb_tag\" >游玩的功能：</h2><ul class=\"bb_ul\"><li>可以自由拼接或断开单块拼图，只要拼图边匹配就会拼接。<br></li><li>可以移动拼接在一起的多块拼图。<br></li><li>在游玩时打开菜单会保存游戏进度，以便在下次游玩时继续。</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025100/header_schinese.jpg?t=1590991000",
+    "developers": [
+      "waci11"
+    ],
+    "publishers": [
+      "waci11"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

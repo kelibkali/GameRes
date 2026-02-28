@@ -1,0 +1,89 @@
+{
+  "232570": {
+    "name": "Resident Evil 6: Siege Mode",
+    "steam_appid": 232570,
+    "required_age": "17",
+    "is_free": false,
+    "description": "Adds the Siege game mode to the Extra Content menu of Resident Evil 6! Protect the innocent civilians from the creatures until the rescue effort arrives. Players can choose to be an agent helping the civilians, or a creature hunting them down in this multiplayer mode that supports up to 6 players!",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 意大利语<strong>*</strong>, 波兰语, 葡萄牙语 - 巴西, 西班牙语 - 西班牙<strong>*</strong>, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232570/header.jpg?t=1702601082",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 2000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 20.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 9,
+      "total_negative": 7,
+      "total_reviews": 16
+    }
+  }
+}

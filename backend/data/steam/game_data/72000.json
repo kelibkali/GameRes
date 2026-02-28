@@ -1,0 +1,109 @@
+{
+  "72000": {
+    "name": "Closure",
+    "steam_appid": 72000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在终结（Closure）黑暗和神秘的世界中，只有见到的才是存在的。在这个屡获殊荣的益智游戏中，操纵灯光来将物体移入现实或移出现实。游戏中玩家将作为一个古怪的蜘蛛般的魔鬼，在探索 3 个人类角色故事的同时，穿越诸如破旧工厂、阴暗森林和废弃狂欢节等美丽而又可怕的环境，还有将这些全部联系到一起的怪异离奇的领域。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/72000/header.jpg?t=1713145053",
+    "developers": [
+      "Eyebrow Interactive"
+    ],
+    "publishers": [
+      "Eyebrow Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2012 年 9 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "The River",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/3356ad25def534d9de4e0db7db1f96833d9550db.jpg"
+        },
+        {
+          "name": "Flight of the Moth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/9680f95f8df643f04263559e52c852d466797a3f.jpg"
+        },
+        {
+          "name": "Moth Trove",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/dc8cce94c22732a1e386beca1f08b2045713f0b9.jpg"
+        },
+        {
+          "name": "Working Overtime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/ebc44753a5c0f3fcd77faa554d7e9a4636e8ce54.jpg"
+        },
+        {
+          "name": "Over in a Flash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/77de021752454b4a7d37ebf2248ae6d1959214e3.jpg"
+        },
+        {
+          "name": "Playtime is Over",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/57f12aa07bf26e363e1b23aab3e8ba292c26131b.jpg"
+        },
+        {
+          "name": "Welcome to Purgatory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/17b6b2c2b78396dd4385490789d3cca24806bf30.jpg"
+        },
+        {
+          "name": "Closure",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/72000/930e77780a9e6d2048cc66ffe44dc6937b117750.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 42,
+      "total_negative": 4,
+      "total_reviews": 46
+    }
+  }
+}

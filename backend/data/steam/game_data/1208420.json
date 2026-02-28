@@ -1,0 +1,54 @@
+{
+  "1208420": {
+    "name": "The War Enders Evolution",
+    "steam_appid": 1208420,
+    "required_age": 0,
+    "is_free": true,
+    "description": "非常感谢各位愿意游玩《War Ender: Evolution》。<br />\r\n这是一部在架空的近未来世界中，玩家扮演地球联军抵抗外星侵略的弹幕射击游戏。<br />\r\n希望大家能够反复游玩，记住敌人的攻击模式来进行攻略，从中享受乐趣。<br />\r\n<br />\r\n最初只想着做出来就好了，随后经历了无数个版本的更新，最终变成了现在这个样子，其实已经跟最开始相比是个新游戏了。<br />\r\n本游戏的制作方向是街机的弹幕射击游戏，只不过速度偏快，但相对的弹幕比较单纯。<br />\r\n<br />\r\n祝各位武运昌隆。<br />\r\n<br />\r\n————————————————————————————————————<br />\r\n基本操作方法：<br />\r\n<br />\r\n键盘玩家：<br />\r\n\t上下左右箭头移动，按住Z主副武器同时持续开火，能量大于5.0时按下X使用主动护盾。<br />\r\n<br />\r\n手柄玩家：<br />\r\n\t左箭头键或左摇杆移动，按住A或者叉射击，能量大于5.0时按下B或圆圈使用主动护盾。<br />\r\n<br />\r\n在主菜单界面，键盘玩家可以按7、8、9、0来更改分辨率，对应手柄按键的L1、R1、左摇杆、右摇杆<br />\r\n需要注意的是即便调整了分辨率，游戏的渲染分辨率依然是800 x 1000，更大的分辨率会失真，而更小的分辨率会丢失画面细节。<br />\r\n<br />\r\n在选择界面按2来选择难度，对应手柄按键的A或者叉。<br />\r\n每次重开游戏难度会默认回归Casual<br />\r\n<br />\r\n————————————————————————————————————<br />\r\n游戏机制：<br />\r\n<br />\r\n\t得分倍率：当玩家获得分数时，实时的得分倍率会乘以这个分数便是玩家获得这个分数的最终得分。得分倍率在击毁敌机或使用护盾或Hyper机制时会增加（机制在能量条目中介绍），在0.8s后，得分倍率将会以每一帧0.02的速度下降，每次击毁敌机都会刷新这0.8s。擦弹也会获得0.08的得分倍率，但是擦弹并不会刷新这0.8s。每8.00得分倍率会使rank+1。命中除了boss以外的任意敌人，倍率都会保持0.1s。<br />\r\n得分倍率显示在游戏画面左上角偏下的位置。<br />\r\n<br />\r\n\t能量：击毁敌机来获得能量，越是危险的敌人给予的能量就越多。能量也可以由擦弹获得。每次使用能量都要消耗5.0。如果玩家使用Shield Style会获得一个6s的护盾，在拥有护盾时触碰子弹可以增加得分倍率，每一发子弹增加0.3的倍率，并且能够维持倍率，即便是中弹后的应急护盾也有这个效果；如果玩家使用Hyper Style会在8s内获得1.5倍的火力，每击破一个敌人会额外给2.5倍的击破获得的得分倍率，boss会给少些。<br />\r\n能量显示在游戏画面右下角。<br />\r\n<br />\r\n\trank：rank越高敌人的子弹越快，游戏也就越难。最低rank为0，最高rank为50。每次使用Shield或Hyper时，rank额外加5，中弹时会使额外增加的rank减半。<br />\r\nrank显示在游戏画面上方中心。<br />\r\n<br />\r\n\trank = （得分倍率 / 8）+ 额外rank<br />\r\n<br />\r\n\t分数 = 基础分数 * 得分倍率 * 难度系数<br />\r\n当前的分数显示在游戏画面上方左边。<br />\r\n本地的最高分显示在游戏画面上方右边。<br />\r\n<br />\r\n————————————————————————————————————<br />\r\n自机介绍：<br />\r\n<br />\r\nType 1：<br />\r\n\t速度较慢，适合清兵而不适合对抗boss的自机。<br />\r\n\t经典设计<br />\r\n<br />\r\nType 2：<br />\r\n\t高速却难以清兵但又适合对抗boss的自机。<br />\r\n\t可以在不开火的时候按住上或下修改开火角度<br />\r\n<br />\r\nType 3：<br />\r\n\t中等速度但却具有高灵活性的射击角度的自机<br />\r\n\t按住左或右修改开火角度",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/header.jpg?t=1664627660",
+    "developers": [
+      "Crystal Heart's Studio"
+    ],
+    "publishers": [
+      "Crystal Heart's Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

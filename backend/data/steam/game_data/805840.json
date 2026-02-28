@@ -1,0 +1,69 @@
+{
+  "805840": {
+    "name": "Just One Color",
+    "steam_appid": 805840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "大多数的益智类游戏都比较简单，当提起高难度游戏的时候，往往是操作上的高难度。我常常想做一个不考验任何操作的高难度游戏，一个纯粹的高难度的解谜游戏, 最终我做出了《Just One Color》。<br />\r\n<br />\r\n       身处一个迷宫之中，每走一步，迷宫就会发生变化。这是这款游戏的创意来源，在游戏中每次移动“魔球”，附近的格子色彩就会改变，通过移动让所有的格子色彩变成一色，破碎的格子就会合成一个完整的图片!<br />\r\n<br />\r\n       最后，希望《Just One Color》可以难倒你们。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805840/header.jpg?t=1520187575",
+    "developers": [
+      "Mask"
+    ],
+    "publishers": [
+      "Mask"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Chapter 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805840/f7a7714c7871411554b6a2ad79080b948ed04872.jpg"
+        },
+        {
+          "name": "Chapter 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805840/1e34b6d0df69a82d31682085689eefe18ac19d82.jpg"
+        },
+        {
+          "name": "Chapter 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805840/da7ccd01988c606b5416fc61f0f8ddef3d50e256.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

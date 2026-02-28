@@ -1,0 +1,65 @@
+{
+  "486020": {
+    "name": "Hero",
+    "steam_appid": 486020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Welcome to Hero! A simple 3rd person fantasy action adventure game created by Bakershah Games, a 2 man game studio based in San Francisco, CA. Hero is a game where you the player go on quests in a world with 3 kingdoms. You must unite all 3 kingdoms to defeat a dark enemy that has been unleashed upon your world. The game is meant to be an homage to all the classical Action Adventure games from the 90's. Cheesy dialogue, weird animations, but worlds as a kid you could escape too and loved. That is what Hero wishes to recreate. It is a simplistic adventure game which focuses on 3 basic pillars that people like to do in these games.<br />\r\n<br />\r\n 1). Exploration: Explore open environments. Think of Witcher 2. Semi open world with linear gameplay. <br />\r\n<br />\r\n2). Combat: Fight orcs and dragons throughout the game. We use a simple hack and slash combat system that focuses on precision of attacks rather than button mashing.<br />\r\n<br />\r\n3). Dialogue: Throughout the story you will be conversing with many NPC's and the choices you make in those conversations will affect things. Those things might happen immediately at the end of a quest you're on or will be way later in the game where the consequence of your actions will be shown.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486020/header.jpg?t=1640195259",
+    "developers": [
+      "Bakershah"
+    ],
+    "publishers": [
+      "Volens Nolens Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

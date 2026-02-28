@@ -1,0 +1,73 @@
+{
+  "1184900": {
+    "name": "Unitied",
+    "steam_appid": 1184900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Unitied is a minimalistic &amp; relaxing puzzle game. The simple goal is to finish all blocks.<br />\r\nYou do so by moving all blocks in one direction: up, left, down or right.<br />\r\nThe blocks have to use each other to be able to finish.<br />\r\n<br />\r\nThere are 50 levels, increasing in difficulty.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/header.jpg?t=1738078722",
+    "developers": [
+      "Peter Hijma"
+    ],
+    "publishers": [
+      "Peter Hijma"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Younitied",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184900/db192584357ad24d039c4c5983f2444839e88a1f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "637100": {
+    "name": "索尼克 力量",
+    "steam_appid": 637100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/a1067fc7c42c69d900560b946441e8c4.poster.avif?t=1762752729\" width=628 height=204 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/a1067fc7c42c69d900560b946441e8c4.webm?t=1762752729\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/a1067fc7c42c69d900560b946441e8c4.mp4?t=1762752729\" type=\"video/mp4\"></video></span><br><br>《索尼克 力量》中，在强大又神秘的新坏蛋因弗尼特的帮助下，邪恶的蛋头博士征服了世界。现在，你必须帮助索尼克建立一支部队，在反抗混乱与毁灭的道路上重新夺回世界。以现代索尼克的身份用闪电速度征服敌人，用经典索尼克的身份在危险的平台上弹射前进，以及创建装备了各种强劲武器的自定义英雄角色。在三种不同的游戏模式下体验这款快节奏的动作游戏，探索经典关卡，并于附加内容中以夏特参战！<br><br>数位超值版包括：<br>- 《SONIC FORCES》游戏<br>- 《夏特篇》（可下载内容）<br>- 世嘉／ATLUS礼包（可下载内容）<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/f7f0a4c14fbd18cab0481ec536827801.poster.avif?t=1762752729\" width=628 height=204 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/f7f0a4c14fbd18cab0481ec536827801.webm?t=1762752729\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/extras/f7f0a4c14fbd18cab0481ec536827801.mp4?t=1762752729\" type=\"video/mp4\"></video></span><br><br><br>刺猬索尼克世界的命运就掌握在你手中 – 加入起义吧。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 韩语, 波兰语, 俄语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/header.jpg?t=1762752729",
+    "developers": [
+      "Sonic Team",
+      "Hardlight"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 19800,
+      "final": 4950,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 198.00",
+      "final_formatted": "¥ 49.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 48,
+      "highlighted": [
+        {
+          "name": "新故事开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/c75bc4720fb7e003e52c3d855a5581658b1c4ae8.jpg"
+        },
+        {
+          "name": "你自己的故事",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/09c5c130e3b33f102843cc8a2a6379efc69d92be.jpg"
+        },
+        {
+          "name": "千难万险",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/1b7897078fc8bc80a3ba970657a4dbc1cdc10f48.jpg"
+        },
+        {
+          "name": "无限可能",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/6d1ac7be5c11ce4ed9e2ca50874242f0e10b601f.jpg"
+        },
+        {
+          "name": "坏蛋机器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/80e1236799a69e926654d28c0c3a593c8ca69419.jpg"
+        },
+        {
+          "name": "面向未来",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/7430445980447eefc73a27c50e503a0d366944f2.jpg"
+        },
+        {
+          "name": "鼓起勇气",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/c2b4cf4b950675a8e952078e2bd01e3de3fe09ca.jpg"
+        },
+        {
+          "name": "希望",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/b6fd08533ecc489f0f3ae4631897808241596acb.jpg"
+        },
+        {
+          "name": "友谊的纽带",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/3f2c971ca615f481b7c230be3285f117b3898ef1.jpg"
+        },
+        {
+          "name": "拯救世界",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/637100/69a595cee06eccc922ddc99e980e0bc140d7c58f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 75,
+      "total_negative": 35,
+      "total_reviews": 110
+    }
+  }
+}

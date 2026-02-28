@@ -1,0 +1,85 @@
+{
+  "1418300": {
+    "name": "Scribble It! - Premium Edition",
+    "steam_appid": 1418300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此 DLC 解锁 Scribble It! 的全部功能！<br><br><ul class=\"bb_ul\"><li>所有来自我们惊人社区的单词包都可以在私人游戏大厅中使用，不仅限于您自己创建的大厅。<br></li><li>可以在私人游戏大厅中与朋友玩活动游戏模式。<br></li><li>解锁 30 个新头像。<br></li><li>解锁 5 个新主题颜色。</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 波兰语, 俄语, 土耳其语, 意大利语, 荷兰语, 葡萄牙语 - 巴西, 罗马尼亚语, 瑞典语, 越南语, 乌克兰语, 印地语, 斯洛伐克语, 韩语, 捷克语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418300/header.jpg?t=1709043426",
+    "developers": [
+      "Detach Entertainment"
+    ],
+    "publishers": [
+      "Detach Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

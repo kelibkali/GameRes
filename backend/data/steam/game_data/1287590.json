@@ -1,0 +1,149 @@
+{
+  "1287590": {
+    "name": "Tour de France 2020",
+    "steam_appid": 1287590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>体验环法自行车赛的激烈程度！</strong><br>在 2020 年环法自行车赛全部 21 个正式赛段中与主车群角逐。 <br>要穿着黄色球衣亮相香榭丽舍大街，你需要冒险、进攻、冲刺并完善你的比赛策略。<br>新功能：<br><ul class=\"bb_ul\"><li>2020 年环法自行车赛的所有 21 个正式赛段<br></li><li>环法自行车赛首次举办列日–巴斯托涅–列日古典赛 <br></li><li>重新设计的计时赛，更加真实。你必须管理好你的体力和骑行姿势，改善你的空气动力学，达到最佳状态 <br></li><li>全新的第一人称摄像头，带来更好的沉浸感<br></li><li>更具攻击性和机会主义的主车群 <br></li><li>优化的比赛界面，包含更多关于周围环境的细节（竞争对手、路线、下坡等）</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 荷兰语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287590/header.jpg?t=1726155179",
+    "developers": [
+      "Cyanide Studio"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 41,
+      "highlighted": [
+        {
+          "name": "The Isle of Beauty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "Where are the mountain passes?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "Mini tour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "All terrain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "Petite Boucle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "The Race to the Sun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "The Hell of the North",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "De Ronde",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "The best of the best",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        },
+        {
+          "name": "Grande Boucle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1287590/43944288580303007c77b024ceec08c2dfcd7e98.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 8,
+      "total_negative": 4,
+      "total_reviews": 12
+    }
+  }
+}

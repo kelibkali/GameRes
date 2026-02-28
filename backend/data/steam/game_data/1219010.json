@@ -1,0 +1,62 @@
+{
+  "1219010": {
+    "name": "No Game No LIFE",
+    "steam_appid": 1219010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>&quot;No Game No LIFE&quot;</strong> is a puzzle game that erases cubes that increase and decrease according to the rules of<strong> &quot;Conway's Game of Life&quot;</strong>.<br>Player add cube by clicking screen and erase all the cubes that change in real time.<br>You can play more than 10 stages, and each stage starts with a characteristic object such as &quot;block, pond, beehive&quot; in &quot;Conway's Game of Life&quot;.<br><br>&quot;Conway's Game of Life&quot;, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.<br><br>Even if you are not familiar with life games, this is a work where you can enjoy a beautifully changing collection of cubes and fantastic graphics.",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/header.jpg?t=1646208967",
+    "developers": [
+      "Jonny",
+      "Tsunehiko Shimazu"
+    ],
+    "publishers": [
+      "スタジオしまづ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

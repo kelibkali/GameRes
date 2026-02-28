@@ -1,0 +1,59 @@
+{
+  "896000": {
+    "name": "LobotomyCorporation_ArtBook",
+    "steam_appid": 896000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该DLC是一本脑叶公司的电子艺术设定集。<br><br>电子艺术设定集以PDF格式提供，<strong><u>并以韩文/英文/简体中文三种语言书写。</u></strong><br><br>设定集中包含主管手册及各类异想体的艺术设定。<br><br>电子艺术设定集路径：(Installation Path)\\ArtBook\\Artbook_LobotomyCorp.pdf<br><br>示例：E:\\Program Files (x86)\\SteamLibrary\\steamapps\\common\\LobotomyCorp\\ArtBook\\Artbook_LobotomyCorp_Chinese.pdf<br><br><br><u>*共计158页。</u><br><br><u>*不包含Sephirah及考验的内容。</u><br><br><u><i>*如果您愿意购买支持，我们将不胜感激。</i></u><br><br><br>※简中版制作者：<br>ROSA",
+    "supported_languages": "韩语, 英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/896000/header.jpg?t=1623301570",
+    "developers": [
+      "Project Moon"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 86,
+      "total_negative": 4,
+      "total_reviews": 90
+    }
+  }
+}

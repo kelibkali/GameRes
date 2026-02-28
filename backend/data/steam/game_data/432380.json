@@ -1,0 +1,117 @@
+{
+  "432380": {
+    "name": "Hydra Slayer",
+    "steam_appid": 432380,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >You are facing a nine-headed hydra. Your flaming longsword cuts five heads in each swipe (no more, no less), which will kill a five-headed hydra, but a larger one will regrow two heads after each swipe. Your storm scythe cuts exactly seven heads, but it makes ten heads grow back if the hydra is not dead. Is it possible to kill the hydra? What if you also had a silver dagger, which cuts just one head, but makes five heads grow back? </p><p class=\"bb_paragraph\" >Solution: [spoiler]It is impossible without the silver dagger (the number of heads always stays divisible by 3), but possible with the silver dagger, for example: 9 -&gt; longsword -&gt; 6 -&gt; longsword -&gt; 3 -&gt; dagger -&gt; 7 -&gt; scythe -&gt; 0.[/spoiler] </p><p class=\"bb_paragraph\" >If you liked this puzzle, and you also like dungeon crawling, Hydra Slayer is for you! </p><p class=\"bb_paragraph\" >The unique combat mechanics of <strong>Hydra Slayer</strong> are based on the puzzle above. It is challenging both at a short term tactical level (each hydra is a unique challenge, bumping into it with your weapon almost never works), and at a long term strategy level (you have to build a set of weapons which slays hydras effectively). While the early levels could be used to teach arithmetic and tactical planning in a fun way, building an effective set of weapons for late levels is a challenge even for expert number theorists! </p><p class=\"bb_paragraph\" >Hydra Slayer predates the &quot;roguelike deckbuilder&quot; phenomenon by focusing less on traditional roguelike grid-tactics and more on constructing complex synergies inside a limited inventory of weapons. Not really a deckbuilder, but still fully a roguelike, so this tag is more accurate than usual!</p><p class=\"bb_paragraph\" >Hydra Slayer currently features a tutorial, 5 player character races with distinct characteristics, 28 enemy types (10 common hydras, each in two varieties, and 8 special enemies), 28 types of equipment including rare artifact weapons with special properties (not counting material and size variations), 15 weapon materials, 18 types of magical items which help you in your quests, three game geometries to choose from, 8 level topologies on very deep levels (including the Möbius strip and Klein bottle), 11 level generators, two endings (a small victory for quick challenges and more casual players, and a big victory for those who want more challenge), and millions of heads to cut!</p><p class=\"bb_paragraph\" >The Steam version of Hydra Slayer includes online achievements and leaderboards, a &quot;challenge&quot; mode for short but very interesting games (much more unpredictable than the normal play), traps to lead hydras on, and Orbs which provide a powder/potion effect many times at the cost of a weapon slot!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432380/header.jpg?t=1729156544",
+    "developers": [
+      "Zeno Rogue"
+    ],
+    "publishers": [
+      "Zeno Rogue"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 3 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 57,
+      "highlighted": [
+        {
+          "name": "Basics of Hydra Slaying",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/c07ced6f4b92389af5bfc1ea35e40dc9d49e855e.jpg"
+        },
+        {
+          "name": "Adept Hydra Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/51ae23d834193b1ba9e2978abb1780a77708037d.jpg"
+        },
+        {
+          "name": "Perfect Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/3f217247086a6ac9c3a8df007693690126382039.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/c60179548b9127fead1d6a1524974f70414885cb.jpg"
+        },
+        {
+          "name": "Explorer II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/39ff56594a4a1d69569e728f77b9653a4eb192b4.jpg"
+        },
+        {
+          "name": "Echidna Bronze Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/73efd8e78afb4edcf8fa539fc3dd0c6b1b1861f1.jpg"
+        },
+        {
+          "name": "Human Bronze Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/ad29eea33e3ad139eebaf4c5619e39e2de02651f.jpg"
+        },
+        {
+          "name": "Centaur Bronze Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/d184997f3431e0c03e89c0013bc47297ab38ffa3.jpg"
+        },
+        {
+          "name": "Titan Bronze Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/b79a5c56f872c98295171ea535e4ee51e34493d4.jpg"
+        },
+        {
+          "name": "Twin Bronze Medal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/432380/dff214c72880d2611ddec4b53e05f3d676cb6818.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

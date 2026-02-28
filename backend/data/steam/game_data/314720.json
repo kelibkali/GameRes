@@ -1,0 +1,45 @@
+{
+  "314720": {
+    "name": "ShaderTool",
+    "steam_appid": 314720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "YES - ShaderTool has reached FINAL STATUS!<br><br>It capsulates a powerful node based system and an easy to use code editor to create shaders of any kind (except compute shader) with full Oculus Rift DK 2 support in addition!<br><br>ShaderTool provides a flexible and editable node-powered pipeline that allows you to write shaders without also having to have written an engine. Use the integrated code editor to directly write shader code in either HLSL (DirectX) or GLSL (OpenGL).<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>Write shaders and view results instantly<br></li><li>Support of HLSL and GLSL (DirectX and OpenGL)<br></li><li>Latest shader models fully supported <br></li><li>Code editor with syntax highlighting, warning and error output<br></li><li>Easy-to-use node-based render pipeline <br></li><li>Import models, textures, audio files and other resources per drag'n drop<br></li><li>Export your shaders and share them with others<br></li><li>Create template projects for more efficient shader development <br></li><li>Direct use of shaders in DirectX or OpenGL applications <br></li><li>Oculus Rift DK 2 fully supported (Direct Acces Mode)<br></li><li>Use audio streams for shader input to create stunning effects<br></li><li>Post-Effects fully supported<br></li><li>Create multiple render-pipelines and combine them to create AAA shaders used in games</li></ul><h2 class=\"bb_tag\" ><strong>Finally a modern shader IDE for programmers and FX artists</strong></h2><br>Maybe you are one of those who was looking without avail for a really good shader development environment. You might ended up with the FX Composer or RenderMonkey – both very powerful shader IDEs but with one big disadvantage – both are sadly not maintained anymore and therefore they do not support the newest shader models!<br><br>So what else was out there? Sadly … almost nothing! Some IDEs are more after GLSL and very few after HLSL. Some IDEs only support the creation of post effects – but that is not enough for a professional shader developer!<br><br>That is exactly what we were just thinking a year ago and we thought that it was time to change that. So we started to develop ShaderTool. And now its finished - get it and start coding!<h2 class=\"bb_tag\" ><strong>What is ShaderTool capable of?</strong></h2><br>The current version of ShaderTool allows you to write HLSL and GLSL shaders of any kind. <br><br>But you not only can write shaders by hand but also build up your own render pipeline through the easy-to-use node-based-system and combine multiple shaders to create state of the art effects.<br><br>You can load or just drag and drop models, textures and audio files of any kind! The integrated code editor supports syntax highlighting, shows warnings and errors with quick jump functionality and other typical code editor stuff.<br><br>Also, we are improving ShaderTool every day and if you have suggestions or ideas: PLEASE LET US NOW! During the alpha and beta phase a lot of ideas from users have been implemented - so your voice matters!<br><br>There is so much more … try out for yourself!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/header.jpg?t=1463171673",
+    "developers": [
+      "Stefan Kraus",
+      "Timo Armbruster"
+    ],
+    "publishers": [
+      "BiteTheBytes GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 10 月 10 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

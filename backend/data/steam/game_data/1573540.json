@@ -1,0 +1,61 @@
+{
+  "1573540": {
+    "name": "飞船模拟器",
+    "steam_appid": 1573540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这款游戏最初来自今年1月参加GGJ比赛时做的一款原型。设想是在一个未知的银河系中，在玩家驾驶飞船不断击败危险奇特的太空生物的同时，利用缴获的组件设计出更强大的飞船，来挑战更强大的太空生物，最终逃离这个银河系。<br><strong>游戏特色</strong><h2 class=\"bb_tag\" >组件化的飞船</h2><ul class=\"bb_ul\"><li>飞船是利用各式各样的组件连接起来的，这意味着<strong>每个人都可以随心所欲地设计自己飞船的形状</strong>。而不是像某些假惺惺的太空飞船游戏中要求你只能把激光炮放在指定位置。<br></li><li>目前版本设计了5种组件类型，分别是关节，武器，防御，飞行，仓库。关节决定了你飞船的框架和运动机制；武器和防御组件正如它名字所说的；飞行组件为飞船提供移动的动力,飞船越大意味着所需动力越高；仓库组件中存放所需的各类物资，比如你的激光炮需要能量，护盾也需要能量，动能炮需要炮弹。</li></ul><h2 class=\"bb_tag\" >弹幕射击的爽快战斗</h2><ul class=\"bb_ul\"><li>注意!!!飞船不是整体，它是由组件连接起来的，一个关键组件的摧毁可能改变战局。试想你击毁敌人飞船结构中露出来一个关节组件，导致与其连接的其他组件发生连锁爆炸反应的场景。<br></li><li>或者把敌人的飞行组件击毁，让其失去动力成为活靶子。<br></li><li>又或者击毁敌人的电池组件，让其飞船失去能量供应，激光炮成为废物。<br></li><li>等等</li></ul>如果对我开发的一系列游戏有感兴趣的，可以关注我的知乎账号&quot;chenjd&quot;以了解最新开发动态",
+    "supported_languages": "英语, 法语, 德语, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573540/header.jpg?t=1751855984",
+    "developers": [
+      "chenjd"
+    ],
+    "publishers": [
+      "chenjd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 12,
+      "total_negative": 1,
+      "total_reviews": 13
+    }
+  }
+}

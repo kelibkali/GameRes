@@ -1,0 +1,86 @@
+{
+  "1661140": {
+    "name": "STAR CAPTOR- 45度角俯视射击游戏样品",
+    "steam_appid": 1661140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这里的示例游戏是一款简单的45度角俯视射击游戏。请参照其中的项目。<br>样品中的素材可以自由使用。<br>*请注意，游戏的BGM只能在Pixel Game Maker MV制作的游戏中使用。<br><br>你可以操作飞船捕捉敌机和敌机发射的子弹，捕捉之后还可以扔出。<br>根据你抓到东西的不同，扔出去的子弹也会发生变化。<br>体力变为0的时候就会重新开始这个关卡。<br>画面中也会显示得分和体力。<h2 class=\"bb_tag\" >●操作方法(XInput对应手柄)</h2><ul class=\"bb_ul\"><li>上下左右：移动<br></li><li>A：捕捉敌机和敌弹，捕捉之后扔出</li></ul><h2 class=\"bb_tag\" >●购买特典</h2>购买特点中包含以下素材。<br>请在游戏制作中活用它们吧。<br><ul class=\"bb_ul\"><li>游戏中未使用的音乐（共10首）<br></li><li>容易辨认的8bit字体</li></ul><h2 class=\"bb_tag\" >●DLC所在未知</h2>选择Sample之后就能看到了。<br>如果看不到的话请尝试重装游戏。",
+    "supported_languages": "日语, 英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661140/header.jpg?t=1655340035",
+    "developers": [
+      "VeLTiNA",
+      "PLAYISM"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

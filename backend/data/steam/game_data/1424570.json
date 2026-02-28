@@ -1,0 +1,46 @@
+{
+  "1424570": {
+    "name": "Delta0",
+    "steam_appid": 1424570,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>德尔塔0 (Delta0)：益智游戏，刺激你的大脑！</strong><br><br><strong>特征</strong><br><br>[1500个级别]<br>- 简单500个<br>- 中等500个<br>- 困难500个<br><br>[200项成就]<br>- 全球平台排行榜<br><br>[8种游戏模式]<br>- 静态级别：简单，中等，困难<br>- 无限级别：每日，快速，定时，新闻，消息/电子邮件<br><br>[密码消息]<br>- 向朋友发送加密消息。<br><br><br><strong>怎么玩？</strong><br><br>[TL;DR] 你需要将一个三角形3个顶点的圆圈中的数字相加，使总和与对应角落的数字相同。<br><br>每个大圆圈内含有一个数字。<br>每个三角形连接着3个大圆圈，将其数字相加得到一个总和。<br><br>绿色三角形表示你的总和与对应角落的目标数字相同。<br>当你得到正确的总和时，将出现3个小圆圈。<br>示例：    (1+1+1) -&gt; 3 {✔️}    (2+0+1) -&gt; 3 {✔️}<br><br>红色三角形表示你的总和与对应角落的目标数字不同。<br>{}中的数字表示你的总和与目标值之间的差额。<br>示例：    (1+0+1) -&gt; 3 {-1 ❌}    (1+2+1) -&gt; 3 {+1 ❌}<br><br>你可以将每个圆圈在其他圆圈之间拖放。<br>当你每个角落（共4个）的差额都为0（你的总和=目标总和）时，级别即告完成。<br>别忘了查看教程。它可能看起来很简单，但确实需要一些技巧 ;)",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424570/header.jpg?t=1642974415",
+    "developers": [
+      "JSR-Productions"
+    ],
+    "publishers": [
+      "JSR-Productions"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

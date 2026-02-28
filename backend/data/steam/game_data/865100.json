@@ -1,0 +1,57 @@
+{
+  "865100": {
+    "name": "李教授的知识问答",
+    "steam_appid": 865100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "李教授的知识问答是一款知识问答游戏，通过答题，测试你的智商，好好表现吧。<br><br>游戏包括<br><br><ul class=\"bb_ul\"><li>初级IQ测试题<br></li><li>终极IQ测试题<br></li><li>高级IQ测试题<br></li><li>IQ评分与评价</li></ul><br>因为是初始版本，还有很多需要改进的地方，游戏完整版将在UI和题库完善后才全部放出。<br>希望大家可以支持我们的游戏。欢迎大家提出你们的意见和建议",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865100/header_schinese.jpg?t=1532687679",
+    "developers": [
+      "雨天工作室"
+    ],
+    "publishers": [
+      "雨天工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

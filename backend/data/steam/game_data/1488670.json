@@ -1,0 +1,113 @@
+{
+  "1488670": {
+    "name": "Physics Cake",
+    "steam_appid": 1488670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Physics Cake is a 2-D physics simulation game where you can draw containers, objects, or anything you want really and put whatever chosen physical object you want inside of it. All the objects have different interactions that are designed to be fun and entertaining. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Physics Cake is similar to old “sand-like” games you would find online many years ago. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Physics Cake is designed to be fun and entertaining, like paint, but with basic physics. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can also save your creations and simulations. You can easily share your simulations with anyone else by sharing your saved text files with them. Physics Cake supports steam cloud, so anything you have saved will be backed up to steam automatically when you exit the game. This way you can keep your creations across devices.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game is easy to start and has built-in help descriptions for all the objects and basic functions by clicking the ? Or ?2 buttons in the game. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Physics Cake is always open to add user suggestions so if you pick up a copy please feel free to create a discussion thread with your input. Our general goal was to make a fun open 2-D simulation game that can be entertaining for minutes or for hours. Physics cake has had multiple content updates since its release and we plan to come back to it occasionally and add even more content. Physics cake is also steam deck compatible with steam inputs. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Below is a list of all the objects currently in the game (objects are able to be re-arranged after spawning by right-clicking and dragging the object as wanted):  </p><p class=\"bb_paragraph\" >None: nothing spawned on click (default)</p><p class=\"bb_paragraph\" >Delete: A red crossed through circle that deletes anything you touch with it.</p><p class=\"bb_paragraph\" >Line: A solid line to draw things with, or make containers.</p><p class=\"bb_paragraph\" >Water: A liquid ball of water.</p><p class=\"bb_paragraph\" >Oil: A liquid glob of oil.</p><p class=\"bb_paragraph\" >Steam: Quick rising steam that evaporates.</p><p class=\"bb_paragraph\" >Fire: It burns things, duh!</p><p class=\"bb_paragraph\" >Wood: Woodblocks that act similarly to the line (wood can be affected by other objects life fire).</p><p class=\"bb_paragraph\" >Jello: Wiggly, jiggly jelly, bouncy, and expandable.</p><p class=\"bb_paragraph\" >Spinner-R: Spins to the right like a singular fan blade.</p><p class=\"bb_paragraph\" >Spinner-L: Spins to the left like a singular fan blade</p><p class=\"bb_paragraph\" >Void: A tiny black hole, anything sucked into it is deleted automatically.</p><p class=\"bb_paragraph\" >Clack: Clacker balls that are pinned to the spawn area</p><p class=\"bb_paragraph\" >Grass: Grass, can be watered to be grown.</p><p class=\"bb_paragraph\" >Ice: Cubes of ice that freeze things and jiggle like real ice cubes.</p><p class=\"bb_paragraph\" >Water-SP: Endlessly spawns water objects from the chosen location.</p><p class=\"bb_paragraph\" >Ice-SP: Endlessly spawns ice objects from the chosen location.</p><p class=\"bb_paragraph\" >Oil-SP: Endlessly spawns oil objects from the chosen location.</p><p class=\"bb_paragraph\" >Jello-SP: Endlessly spawns jello objects from the chosen location.</p><p class=\"bb_paragraph\" >Steam-SP: Endlessly spawns steam objects from the chosen location.</p><p class=\"bb_paragraph\" >E-SP: Endlessly spawns electron objects.</p><p class=\"bb_paragraph\" >Sand-SP: Endlessly spawns sand objects.</p><p class=\"bb_paragraph\" >Kill Line: The standard object, but any physical objects that touch it are removed on contact.</p><p class=\"bb_paragraph\" >Pulley: Two connected weights that make up a pulley system.</p><p class=\"bb_paragraph\" >Sticky: Sticks to other physical objects. (limited to 400 instances on screen at once)</p><p class=\"bb_paragraph\" >COLORED L BUTTONS: Produces the LINE object in the chosen color.</p><p class=\"bb_paragraph\" >Etron: Short for electron. Bounces randomly at high velocity. Not affected by void, wood, or ice, and can electrify objects on contact.</p><p class=\"bb_paragraph\" >Drag u: Drags any physical objects upwards that are below it.</p><p class=\"bb_paragraph\" >Fire-SP: Endlessly spawns fire objects above it.</p><p class=\"bb_paragraph\" >Kill Line: The standard object, but any physical objects that touch it are removed on contact.</p><p class=\"bb_paragraph\" >Ball: The clacker ball object, but unpinned so it can move around freely.</p><p class=\"bb_paragraph\" >Stick: A little stick figure man (limit one). Try not to set him on fire… You monster…</p><p class=\"bb_paragraph\" >Sand: It’s EVERYWHERE</p><p class=\"bb_paragraph\" >Portal In: Anything that goes in the in portal will come out of the out portal. (limit 1)</p><p class=\"bb_paragraph\" >Portal Out: Things that go in the in portal will come out of this one. (limit 1)</p><p class=\"bb_paragraph\" >Marshmallow: A squishy marshmallow line object.</p><p class=\"bb_paragraph\" >Ethanol: Liquid ethanol, burns easily. </p><p class=\"bb_paragraph\" >Oxygen: Oxygen in gas form. Bounces around the room and rises to the top. </p><p class=\"bb_paragraph\" >Hydrogen: Hydrogen in gas form. Bounces around the room and rises to the top. Highly combustible.</p><p class=\"bb_paragraph\" >Rock: That's not a boulder, it's a rock, a big heavy rock. </p><p class=\"bb_paragraph\" >Chlorine: Chlorine gas. Rises to the top of the room.</p><p class=\"bb_paragraph\" >Sodium: Sodium plus water goes boom. Sodium interacts with a bunch of things. </p><p class=\"bb_paragraph\" >Uranium: Uranium is radioactive and will give off radioactive particles.</p><p class=\"bb_paragraph\" >Chlorine-SP: Endlessly spawns chlorine objects from the chosen location. </p><p class=\"bb_paragraph\" >Hydrogen-SP: Endlessly spawns hydrogen objects from the chosen location.</p><p class=\"bb_paragraph\" >Oxygen-SP: Endlessly spawns hydrogen objects from the chosen location. </p><p class=\"bb_paragraph\" >Ethanol-SP: Endlessly spans ethanol objects from the chosen location. </p><p class=\"bb_paragraph\" >Ash: Crumbly dark ash.</p><p class=\"bb_paragraph\" >Gold: Gold bars, use them to crush things. </p><p class=\"bb_paragraph\" >Lava: Molten hot lava that burns stuff.</p><p class=\"bb_paragraph\" >Blob: Anything that touches the blob becomes the blob.</p><p class=\"bb_paragraph\" >Cake: A slice of cake. It's not a lie!</p><p class=\"bb_paragraph\" >Nanite: Warping self replicating nanomachines. Limit of 400 per sandboxes. Nanomachines son!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There are also a bunch of hidden objects you can only get through combining things!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can also alter the gravity of the simulation at any time you wish.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488670/0388fb0a0793a44fdaa0676ff2b979411a22bb4d/header.jpg?t=1762920408",
+    "developers": [
+      "Merriman Games"
+    ],
+    "publishers": [
+      "Merriman Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 99,
+      "highlighted": [
+        {
+          "name": "5FPS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/d164d05c85bea0b081d6acfc674d6749faad1298.jpg"
+        },
+        {
+          "name": "Alert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/401071c305ec6fe8d455735de5c3c434e730a751.jpg"
+        },
+        {
+          "name": "Burn 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/967bf800de79754621474f5292e349531eb56bd9.jpg"
+        },
+        {
+          "name": "Burn 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/44c442a11e8bd21cc83943d9d895cfa8d35b4940.jpg"
+        },
+        {
+          "name": "Burn 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/7c87b326c079cd799717e97e804bf36b7b623c12.jpg"
+        },
+        {
+          "name": "Burn 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/86a5c16980be6bcc3f02b03d892188823d6573ab.jpg"
+        },
+        {
+          "name": "Clack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/962b1f7d3e12365e97388d8543de9d9ccace4399.jpg"
+        },
+        {
+          "name": "Dark Blue Line",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/0123dddab1a9756caabf546439ff6330ef0d3d81.jpg"
+        },
+        {
+          "name": "Dead Grass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/c90536e237ea3fdd378af44dc90630898e666bf5.jpg"
+        },
+        {
+          "name": "Delete Stuff",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1488670/264aa98a45b68ee666cbbc47b3d8cd9bed5d959d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

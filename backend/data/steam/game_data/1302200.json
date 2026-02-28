@@ -1,0 +1,63 @@
+{
+  "1302200": {
+    "name": "End of Panduora",
+    "steam_appid": 1302200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本游戏将于2022年12月30日暂时从Steam下架停售，后续将于2023年1月中旬重新发售。非绝版。<br>暂停发售的原因是要进行公司主体变更。<br><br><strong>游戏封面得到了原画师觉醒的授权。</strong><br><br>《潘多拉的末路》是一款快节奏魔幻风格的策略经营游戏。在随机生成的深渊一隅中，通过消耗理智来换取并不属于自己的力量。在无尽之海中，创造一个新的天堂来迎回旧日神的遗民。<h2 class=\"bb_tag\" >游戏目标</h2>构建能够满足民众需求的宜居社群，接驳回全部待拯救的难民。<h2 class=\"bb_tag\" >基本玩法</h2><ul class=\"bb_ul\"><li>消耗理智值来换取名为“幽能”的无尽能量。<br></li><li>“幽能”可以通过发电厂转化为运转建筑所需的电能。<br></li><li>通过消耗幽能来构筑建筑物。<br></li><li>通过消耗电能进行生产，满足民众需求。<br></li><li>当电力耗尽后，生产建筑会消耗“幽能”来保持生产。“幽能”不足时将自动消耗理智来转化成幽能。<br></li><li>理智是要被持续消耗的，满足民众的高级需求（蓝色标记）后角色可以获得成就感，恢复角色理智。<br></li><li>如果民众的基本需求无法被满足，理智值会在每个时周期得到负面反馈。<br></li><li>角色处于焦虑状态，只有靠接驳回难民才可以降低焦虑值。理智越低，焦虑发作的越快，焦虑值满后会加快理智的消耗。</li></ul><br>由于设定和基本玩法猎奇，目前作者也对自己到底做了个什么游戏一脸懵逼。<i><strong>关于游戏性及BUG反馈欢迎联系 <a href=\"mailto:jxzkspt@hotmail.com\">jxzkspt@hotmail.com</a> </strong></i><br><strong>TODO</strong><br><ul class=\"bb_ul\"><li>增加游戏音效和背景音乐。<br></li><li>增加更多建筑，改善游戏交互。</li></ul>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302200/header.jpg?t=1674147779",
+    "developers": [
+      "Panduora Studio."
+    ],
+    "publishers": [
+      "sonnkoubinn",
+      "Nonprover",
+      "𝓓𝓻𝔂❆𝓘𝓬𝓮"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3500,
+      "final": 3500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 35.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

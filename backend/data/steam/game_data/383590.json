@@ -1,0 +1,61 @@
+{
+  "383590": {
+    "name": "Expert Rifleman - Reloaded",
+    "steam_appid": 383590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Expert Rifleman is the first 3D ballistics simulator available to the general consumer.</strong> It includes a full featured ballistics calculator allowing the simulation of any type of ammunition and simulates several categories of scopes including front focal plane, second focal plane, dual focal plane scopes and digital scopes. <strong>It even allows the user to design and load your own scope reticle.</strong><br><br><strong>The goal of Expert Rifleman is to let you gain proficiency at shooting stationary and moving targets without expending valuable ammo or barrel life. Use preloaded ammo types or create your own ammo by entering ballistic data.</strong> The simulation will let you practice shooting in different environmental conditions, try out zeros at different ranges and set the conditions under which your rifle is zeroed. Expert Rifleman features a realistic 3D environment where the user can train in scenarios not commonly available such as engaging long range moving targets and high angle shooting.<br><br><strong>The scope reticles in Expert Rifleman are calibrated in Mil-rads or MOA and function identically to the real thing. Learn how to use a reticle to range targets and calculate hold over. </strong><br><br><strong>The simulation allows the user to compensate for the forces which affect the path of the bullet.</strong> Vegetation sways and bends and particles follow the wind currents. You can visualize wind direction and intensity. Compare ammunition based on ballistic performance. <strong>The only thing which Expert Rifleman cannot do is teach you how to pull the trigger!</strong><br><strong><br>Pick between the following ammo types or create your own by entering ballistics data:</strong><br><br><ul class=\"bb_ul\"><li> 7.62 NATO<br></li><li> .338 Lapua Magnum<br></li><li> .50 BMG<br></li><li> Up to 500 user created ammunition types.</li></ul><br><strong>Expert Rifleman is built around an advanced ballistic calculator which calculates:</strong><br><br><ul class=\"bb_ul\"><li> Gravity and air resistance<br></li><li> Bore angle<br></li><li> Aerodynamic jump<br></li><li> Scope height over bore<br></li><li> Horizontal and vertical coriolis drift<br></li><li> Wind drift from arbitrary wind direction including head wind<br></li><li> Spin drift<br></li><li> Density altitude and several minor corrections</li></ul><br><strong>Three types of targets:</strong><br><br><ul class=\"bb_ul\"><li> Mobile target<br></li><li> Flip target<br></li><li> Flip and hostage target</li></ul><br><strong>Four different maps each with multiple target ranges.</strong> You can place a target on any of the maps by pressing enter.<br><br><ul class=\"bb_ul\"><li> The dynamic target map lets you practice shooting at moving targets.<br></li><li> The high angle map lets you practice shooting at an angle.<br></li><li> The sandbox map lets you place the target and set its distance, orientation and speed on a flat map.<br></li><li>The 360-degree map has ranges out to 1500 yards. Users can engage targets in a 360 arc, allowing the simulation of Coriolis drift.</li></ul><br><strong>Internal Ballistics features:</strong><br><br><ul class=\"bb_ul\"><li> Adjust for powder temperature<br></li><li> User defined random projectile mass and ammunition pressure variation. </li></ul><br><strong>Expert rifleman comes preloaded with a number of preset scopes and reticles. In addition you can easily create your own scope by loading a custom image file and entering a few variables.</strong> Scopes can use either the mil rad or moa systems.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383590/header.jpg?t=1458760779",
+    "developers": [
+      "BattleByte"
+    ],
+    "publishers": [
+      "BattleByte"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 8 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

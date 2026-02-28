@@ -1,0 +1,139 @@
+{
+  "1112050": {
+    "name": "Time For Quest",
+    "steam_appid": 1112050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong><i>你在那儿，冠军。 腾出我一些时间。</i></strong></h2><p class=\"bb_paragraph\" >希望您能加入我们的无限时光探索世界，在这里不受限制，您将以新英雄的身份创建自己的故事！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>《 Time for Quest》</strong>是一款2D开放世界的角色扮演游戏，灵感来自战斗，冒险，塞尔达传说，最终幻想和月光下的角色扮演游戏！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >您可以决定现在要走的路以及要做什么！ 你想和生物战斗吗？ 走！ 你想为国王工作吗？ 走！ 你想下台吗？ 走！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >游戏没有主要故事-每个城市，山谷，王国甚至物品都有各自不同的历史，您可以加入其中！</p><p class=\"bb_paragraph\" ><i><strong></strong></i></p><p class=\"bb_paragraph\" ><i><strong>特征</strong></i></p><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 动作战斗系统 </p></li><li><p class=\"bb_paragraph\" >     开放世界 </p></li><li><p class=\"bb_paragraph\" >     手工制作 </p></li><li><p class=\"bb_paragraph\" >     很棒的配乐 </p></li><li><p class=\"bb_paragraph\" >     学习无数的咒语和技能 </p></li><li><p class=\"bb_paragraph\" >     超过100张地图 </p></li><li><p class=\"bb_paragraph\" >     查找秘密和突袭地牢！ </p></li><li><p class=\"bb_paragraph\" >     很多有趣的任务</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112050/header.jpg?t=1770875566",
+    "developers": [
+      "Blacer Studio",
+      "Nikodem Swider"
+    ],
+    "publishers": [
+      "Source Byte Sp. z o.o.",
+      "Blacer Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "This is beginning!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/35a3e27716988910884237bbd0008e37c6475e36.jpg"
+        },
+        {
+          "name": "Your first sword!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/8613d78252ac9fb0d02c9d7f03fa84c89628dc13.jpg"
+        },
+        {
+          "name": "FIRE! Don't burn too much!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/06a5d7831bb59394d84a6ffb94d2531013776570.jpg"
+        },
+        {
+          "name": "AXE!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/8abe9a10e60da9804400d4cf1ed4ccf067869539.jpg"
+        },
+        {
+          "name": "Moving is healthy! Stay fit!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/abb1ed6b0404c5893439a49b8019d76d903d75c7.jpg"
+        },
+        {
+          "name": "You got bow! Be careful with that!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/fe14c217fe3f8300b241f256f53c45562e428199.jpg"
+        },
+        {
+          "name": "You proved your worth!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/f49c6070108e25275592eb0e41ae68a76e258281.jpg"
+        },
+        {
+          "name": "Defense!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/46e0f892c7c234f77f5bb59e72e10f3562601472.jpg"
+        },
+        {
+          "name": "YOU SAVED MAYOR!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/d604bf0b940189d8c7ed8a3f74bec1241ff0821c.jpg"
+        },
+        {
+          "name": "PHOENIX!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1112050/56d2bc988c764fdd850a6682f4df510eae76d7db.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

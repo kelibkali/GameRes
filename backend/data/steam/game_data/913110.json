@@ -1,0 +1,117 @@
+{
+  "913110": {
+    "name": "Desktop Tree",
+    "steam_appid": 913110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "放置一棵盆景树在你的电脑桌面上，看它生长壮大，就像你现实中办公桌面上的植物盆栽，但你又不需要像对待真正的植物一样照顾它。你可以在工作，看视频或者浏览网页的时候开着它，也可以修剪掉不需要的树枝来改善它的外观（或者只是为了让它变小一点）。<br><br><strong>提示</strong>：点击桌面上随机出现的虫子可以加速生长！<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913110/extras/bc70a139df6bb06bb03ad9a799a3d022.avif?t=1667396796\" width=800 height=454 /></span><h2 class=\"bb_tag\" >操作指南</h2><br>菜单：Esc<br>移动花盆：鼠标点击拖拽<br>修剪树枝：按住Ctrl点击需要修剪得树枝<br>放大：按住Ctrl可以用滚轮<br>放大的时候移动花盆：如果需要微调位置，按住Ctrl的时候用方向键可以移动<h2 class=\"bb_tag\" >启动参数</h2><br>可以在steam客户端，游戏属性里面的启动参数中设置，用空格分开。<br>--screen1 在第二个显示器中启动游戏（如果有的话）<br>--notaskbar 启动后隐藏任务栏图标（注：只能从菜单中退出）<br>--cleanup 删除存档，如果有意外导致存档文件损坏可以用这个方式删除，但是下次启动需要自行去掉改参数",
+    "supported_languages": "英语, 简体中文, 日语, 俄语, 德语, 法语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913110/header.jpg?t=1667396796",
+    "developers": [
+      "utStudio"
+    ],
+    "publishers": [
+      "utStudio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "开花",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/daca95cad5971fe31128ed6642f458a0c8bfe04a.jpg"
+        },
+        {
+          "name": "从头再来",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/fd0dc9dcf56b1fb0af1ed9609326095ee2c8b48f.jpg"
+        },
+        {
+          "name": "结果",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/acf1135152b6bf7b99628cefe6966a0bb2894bc4.jpg"
+        },
+        {
+          "name": "学徒种植者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/65e931b60ca15a4d21f6e55de98fc3d78fdcd128.jpg"
+        },
+        {
+          "name": "新手种植者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/5b38768a845bb799de42a87a4041fa94e5b24cac.jpg"
+        },
+        {
+          "name": "熟练种植着",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/154f49017a0ee4ab491845c19ba5be88f89f18ad.jpg"
+        },
+        {
+          "name": "种植大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/3836762c41b51e755a7345017904f828ebe7c311.jpg"
+        },
+        {
+          "name": "盆景杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/f9ae37039e3b8ec97812e3230274e91ab4e68481.jpg"
+        },
+        {
+          "name": "盆景美发师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/8222673a1941581c5f61640b614adf7e922ae439.jpg"
+        },
+        {
+          "name": "好多叶子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/913110/cc0278713ba33753a92ea6f9dbb5e26574a02dfc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    }
+  }
+}

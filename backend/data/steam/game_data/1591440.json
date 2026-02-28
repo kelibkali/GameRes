@@ -1,0 +1,69 @@
+{
+  "1591440": {
+    "name": "中外名将对决",
+    "steam_appid": 1591440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>9.23 出战卡牌编辑功能已修复，影响了部分玩家的游戏体验，再次表示歉意！</strong><br><br>屏幕分辨率高度建议设置成1344以上，我们会继续优化显示问题，给大家带来更好的游戏体验。<br><br><strong>《中外名将对决》是如何产生的</strong><br><br>《中外名将对决》的初衷是想做一款多英雄对战的游戏，每个英雄都应有自己特殊的技能，操作力求简单，游戏本身不要很复杂，但希望玩法充满变化。<br>因此确定了以下几点规则：<br>第一，游戏场景控制在一屏以内，玩起来不累，最好是个位数的格子场景。<br>第二，既然要做多英雄对战，如果做成RTS，指挥起来会很忙乱。不指挥，那就只能让它们根据AI规则自动战斗，这就比较适合做成卡牌游戏。<br>常见的卡牌游戏大多是回合制，每次攻击都要操作，自动战斗刚好和这些游戏有所区别，希望这样能给玩家带来更轻松、更新奇的体验。<br>第三，因为资源有限，初期尽量减少美术需求，就决定做成纯数值无图像的卡牌，这可不会让游戏更好玩，纯粹出于成本考虑，希望以后有机会为每张卡牌都补上精美的立绘。<br>第四，打每张牌应该都有一个资源消耗，不同价值的牌消耗也不同，这就要控制资源的产出；既然是自动战斗，那就只能按时发放资源了，<br>所以在游戏里设了两个倒计时，一个是发牌倒计时，另一个是发放资源倒计时。<br><br>这几点规则确定后，先在一张纸上画了9*9的格子，模拟游戏场景；然后剪了一些小纸片，在上面写上序号和数值，模拟卡牌；再设计几十种技能，分配给不同卡牌，<br>然后用一张表格为每张卡牌确定攻击血量等基础数值；再用一个记事本记录战斗过程。<br>通过这种方式，先用简单的桌面游戏模拟战斗过程，体验这种玩法是否有乐趣，玩下来感觉还不错，又调整了一些数值和参数，多玩几盘，感觉还是很好玩，<br>这时候才开始细化，确定更多的细节，然后把它做成一个自动战斗的游戏。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1591440/header_schinese.jpg?t=1632389340",
+    "developers": [
+      "萌小圈游戏工作室"
+    ],
+    "publishers": [
+      "萌小圈游戏工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

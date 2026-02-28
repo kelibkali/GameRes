@@ -1,0 +1,61 @@
+{
+  "930360": {
+    "name": "Engram",
+    "steam_appid": 930360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "　　这是一个传统落下式音符玩法的音乐节奏游戏，玩家必须使用两只手(十只手指)来按键，类似于弹钢琴那样，但是更容易些。<br><br>　　因为这个游戏起初在制作时就带有一些实验性质，主要是让玩家增加双手控制与手眼协调能力，所以这个游戏或许不是那样的有趣，但希望大家能够享受游戏内的音乐。<br><br><br><strong>请注意！</strong><br><ul class=\"bb_ul\"><li>目前所有歌曲只有前三个难度的谱面，未来虽然可能会加上更多曲子与其它难度，但并无法保证这件事情。<br></li><li>这个游戏程序内有错误回报机制，在关闭游戏后会回报游戏进行过程中的日志。<br></li><li>由于这个游戏是独立开发的，受限于身边能够测试用的设备极其有限(主要是显示卡)，请在购买前去官方网站下载试玩版本，若无法正常游玩请先不要购买，基于上一点，开发组可能从日志中发现您的问题，又或者您可以留言或email来说明您遇到的问题。</li></ul><br><br><strong>如何玩好这个游戏：</strong><br><ul class=\"bb_ul\"><li>请勿带有功利与竞争的心态进行这个游戏，这个游戏不值得影响到任何人的心情。<br></li><li>将双手各手指放在对应的控制按键之后就不要移开，保持手形。<br></li><li>一开始进行游戏时要使用左脑认真思考手指与对应的控制点的映射关系，直到操作游戏中的控制点可以渐渐的转换至右脑，这个过程通常不会太久。<br></li><li>像是练习钢琴一样，平时可以多多试着只单独活动无名指与小指，这两指的训练可以帮助您玩好这个游戏(或是钢琴)。<br></li><li>多进行几次游戏，不论是手眼协调再好的人，都会因为对谱面不熟悉而无法良好的进行游戏，即便是钢琴大师，能做到视谱即奏的人也是少数，大多都需要事先理解过谱面。<br></li><li>眼睛要一次能看到十个音符的范围，不要一次只看一个音符，看完一个音符就立刻去看下一个时间点的音符。<br></li><li>享受音乐，藉由这游戏能够让有强迫症的你获得内心的平静。</li></ul>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930360/header.jpg?t=1546674546",
+    "developers": [
+      "Fugalengram"
+    ],
+    "publishers": [
+      "Fugalengram"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "823900": {
+    "name": "Float",
+    "steam_appid": 823900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Float是什么？</strong><br>    Float是一个可以让您的桌面上显示3D模型的软件，支持创意工坊。您可以通过它使3D模型在桌面跳舞，展示您喜欢的游戏模型、立绘等等。<br>Float提供了一个Unity3D插件，让您通过Unity3D制作并上传模型到创意工坊。<br><br>    Float刚上架，处在“抢险体验”阶段，功能还不够完善，还存在许多bug，以及一些待扩展的功能，<br>所以如果您遇到任何问题，或者您有任何建议和想法，欢迎您联系我。<br><br><strong>计划将实现的功能</strong><br>    1.添加更多交互效果，例如点击角色的身体会有不同的反馈<br>    2.添加lua脚本扩展，让您可以发挥编程能力控制角色行为<br>    3.添加桌面小游戏模组<br>    4.支持导入MMD模型动作和音乐<br><br>欢迎加入交流群：936917983",
+    "supported_languages": "英语, 简体中文, 法语, 日语, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823900/header.jpg?t=1560583472",
+    "developers": [
+      "Gravity Game Studio"
+    ],
+    "publishers": [
+      "Gravity Game Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1600,
+      "final": 1600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 16.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "620980": {
+    "name": "Beat Saber",
+    "steam_appid": 620980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Beat Saber is an immersive rhythm experience you have never seen before! Enjoy tons of handcrafted levels and swing your way through the pulsing music beats, surrounded by a futuristic world. Use your sabers to slash the beats as they come flying at you – every beat indicates which saber you need to use and the direction you need to match. With Beat Saber you become a dancing superhero!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Feel the Rhythm: Immerse yourself in the smoothest combination of music beats and visual effects in Beat Saber’s truly unique gameplay.</p></li><li><p class=\"bb_paragraph\" >Handcrafted Levels &amp; Music: Unlike other rhythm games with generated content, music and levels in Beat Saber are drawn precisely by hand to enhance the music experience.</p></li><li><p class=\"bb_paragraph\" >Compete in Multiplayer: Challenge your friends or random opponents around the world. </p></li><li><p class=\"bb_paragraph\" >Challenging Campaign: Get better every day while completing objectives and challenges in the Campaign.</p></li><li><p class=\"bb_paragraph\" >Rise Up the Global Leaderboards: Compete against other Beat Saberists around the world in various difficulties. </p></li><li><p class=\"bb_paragraph\" >Easy to Learn, Fun to Master: Everyone can understand the basic game mechanics. It's easy for anyone to pick up and play.</p></li><li><p class=\"bb_paragraph\" >Great Exercise: Exercise while dancing and slashing the beats, Beat Saber gets you moving.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Music Downloads Not Rated by the ESRB </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >MUSIC DOWNLOADS NOT RATED BY PEGI </p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1770379765",
+    "developers": [
+      "Beat Games"
+    ],
+    "publishers": [
+      "Beat Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "You Are Ready",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/4b4e085f651c758909de1ac66713fd0b955a5630.jpg"
+        },
+        {
+          "name": "100 Million",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/cc071c3d9d6ef6584d3814b8f40c916efa86268f.jpg"
+        },
+        {
+          "name": "Day & Night",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/83cc09fe8c596a49684738859ec04bb172594d5a.jpg"
+        },
+        {
+          "name": "Traveller",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/9995c1844524f51f36aff95c308f89e2d6bad7b5.jpg"
+        },
+        {
+          "name": "Hope",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/0693e44f919c00a3d798fd4a7861a1c7f83aa44f.jpg"
+        },
+        {
+          "name": "No Mistakes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/071a27bff15d1f2a87461b29b7052ca4ace32586.jpg"
+        },
+        {
+          "name": "Precision",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/eb4594348846e9fb52bc8ee0f94d252c8a1d1677.jpg"
+        },
+        {
+          "name": "Drum Kit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/92f2c0d8d6a634a572ea8a277abcc670651f60cb.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/f3b330bcb084ea5714dcef88ef9f810c1add3ef9.jpg"
+        },
+        {
+          "name": "Supreme",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620980/38393ecfa619c380fa0f90c2b8c03f9ba94474f0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 2430,
+      "total_negative": 319,
+      "total_reviews": 2749
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "1095980": {
+    "name": "Charge",
+    "steam_appid": 1095980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You play as a silent protagonist armed with a charge gun, and your ultimate goal is to progress through all levels presented by the game. Each level is a room that has only one exit, and your goal is to overcome any obstacles (such as humanly unreachable platforms or remotely-controlled closed doors) to reach that exit and progress to the next level.<br><br>To your help you have charge gun, cube and charge-proof walls (emitting light-blue segments). Charge gun is capable of positively or negatively charging cube and charge-proof walls. Depending on the charges applied, the interaction between them will be different:<br><ul class=\"bb_ul\"><li>if cube and wall have opposite charges - cube will attract and eventually static cling to the wall;<br></li><li>otherwise (alike charges) cube will repel away from the wall.</li></ul>The closer those are, the stronger the effect.<br>There are major restrictions when it comes to charging objects:<br><ul class=\"bb_ul\"><li>cube can either be positively OR negatively charged at the same time, or neutral;<br></li><li>only one wall charge of the same sign can exist at the same time, and applying new alike wall charge to another location removes old.</li></ul><br>You will need to figure out how to take advantage of these tools and manipulate objects to progress through. Almost every level forces you to learn a new way of using these tools, and some of the mechanics that you already learned in previous levels are mixed in.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095980/header.jpg?t=1565986990",
+    "developers": [
+      "Ilyushquette Games"
+    ],
+    "publishers": [
+      "Ilyushquette Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

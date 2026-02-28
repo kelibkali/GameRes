@@ -1,0 +1,101 @@
+{
+  "972940": {
+    "name": "stepbystep",
+    "steam_appid": 972940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "stepbystep is a minimalistic programming puzzle platformer with experimental turn-based mechanics.<br>The main feature is the ability to program the command sequence that will be run automatically.<br><br>What's inside:<br><ul class=\"bb_ul\">&gt; 5 colors </ul><ul class=\"bb_ul\">&gt; more than 40 levels </ul><ul class=\"bb_ul\">&gt; computer-composed music </ul><ul class=\"bb_ul\">&gt; about 2 hours of gameplay (about 30 minutes for ultra-pro puzzle crackers and speedrunners) </ul><ul class=\"bb_ul\">&gt; linux and windows support </ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/header.jpg?t=1572328620",
+    "developers": [
+      "Evgeny Petrov"
+    ],
+    "publishers": [
+      "Not a Prototype games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "junior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/812b58c7c7c2046da5bf26d8d51185d2c2d73cf5.jpg"
+        },
+        {
+          "name": "senior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/f66503ee32417f3fd0901ce9873a1b19a8183e9c.jpg"
+        },
+        {
+          "name": "thank you",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/17a217599c4634df2dcd79c01aae850f2160d7da.jpg"
+        },
+        {
+          "name": "platformer programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/d58f10f0fc3de489fbc332b2b99d216acc3286c5.jpg"
+        },
+        {
+          "name": "welcome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/4d6d3d9e3ea41e8b52206fac9ad79944806e69c7.jpg"
+        },
+        {
+          "name": "step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/6c518c44b236e8c394a2bbc47cd65d8cadf24df1.jpg"
+        },
+        {
+          "name": "by",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/6f0ec580fb207d43c64b212010688d9fd327d088.jpg"
+        },
+        {
+          "name": "step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/972940/a061376840d5194260a897f8224e915731d0f29c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

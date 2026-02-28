@@ -1,0 +1,90 @@
+{
+  "689270": {
+    "name": "Chessia",
+    "steam_appid": 689270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Are you a chess master? Or a chess enthusiast? Maybe you just play chess from time to time. Whoever you are, <i>Chessia</i> is here for you. Play with friends, play against computer, or play against yourself to try things out. Analyze games and many more...<br><br><strong>FEATURES</strong><br>* Play locally and online with your friends<br>* Play against the computer with 20 levels to chose from (<i>Stockfish 9</i> is Default)<br>* Smooth 3D controls with possible camera angles (WASD)<br>* Install any chess engine you want (Full <i>UCI</i> support)<br>* Change any chess engine's settings with easy interface, save those settings or reset them to their defaults<br>* Save games in <i>PGN</i> file format. Load and watch games or analyze them with 6 different depths",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689270/header.jpg?t=1537481326",
+    "developers": [
+      "Hakki Ozturk",
+      "Halil Ibrahim Ozturk"
+    ],
+    "publishers": [
+      "Hakki Ozturk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

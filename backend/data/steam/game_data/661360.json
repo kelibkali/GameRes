@@ -1,0 +1,109 @@
+{
+  "661360": {
+    "name": "Glitchbuster",
+    "steam_appid": 661360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661360/extras/11998c1c5cf755a095ef75853a4aff84.avif?t=1511225688\" width=600 height=183 /></span><h2 class=\"bb_tag\" >Can you fix the game in time?</h2><br>Release is coming very soon, and several glitches have been reported. Your job is to fix them in time.<br><br>Each level features a different set of glitches that will affect the gameplay: low gravity, water physics, larger enemies, bigger explosions... and many more (there are currently over 40 glitches implemented in the game).<br><br>In order to help you fix all these glitches, you can unlock special powers, such as a rocket launcher, a teleporter, a gravity inverter, a shotgun, as path finder... as well as a perk, which will make your job easier, for instance by reducing damage, dropping more items, giving you more health...<br>Picking the right powers for the right glitches can make all the difference!<br><br>Each level is procedurally generated and can be restarted if you fail, but will consume time. Its general layout will remain the same so you can learn from your mistakes.<br><br>A very early version of the game made first in the mobile category of js13k 2016, and second overall.<br>However, the game has changed a lot since then and the js13k entry is not representative of the final product.<br><br>The game features both keyboard and controller support.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661360/header.jpg?t=1511225688",
+    "developers": [
+      "Rémi Vansteelandt"
+    ],
+    "publishers": [
+      "Rémi Vansteelandt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "One down",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Double Fix",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Halfway There",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Four Down, Two To Go",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "One Left",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Game Fixed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "First upgrade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Collecting Upgrades",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Fully Upgraded!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        },
+        {
+          "name": "Learning From Past Mistakes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661360/53c2a25f8c3bf77eba3ab75f9cd033c257062a9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

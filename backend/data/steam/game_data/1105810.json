@@ -1,0 +1,89 @@
+{
+  "1105810": {
+    "name": "Onset",
+    "steam_appid": 1105810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Onset is a scripting sandbox game made from the ground up for multiplayer. Create and host your very own experience in Onset using Lua scripting functions. Or just enjoy the different game modes created by other players. <br><br><strong>Key features:</strong><br><ul class=\"bb_ul\"><li> Over 400 Lua functions to customize the world.<br></li><li> Spawn cars, helicopters, NPCs, objects and more with Lua functions.<br></li><li> Load custom maps.<br></li><li> Singleplayer (localhost) and multiplayer.<br></li><li> 300 player dedicated multiplayer servers. You can host your own server with your scripts.<br></li><li> Import characters, animations, props, sounds, particles and more.<br></li><li> Various types of vehicles with damage model.<br></li><li> Weapon modding including configuration like damage.<br></li><li> UI customization with HTML/CSS/JS.<br></li><li> High quality in-game VoIP solution.</li></ul><br><strong>What can I do in Onset?</strong><br>By default the map in Onset is completely empty. The Onset Developer Wiki holds a list of all Lua functions including descriptions on how to use them. With those functions you can write your own game mode scripts that either run on the server or game client. This way you have endless possibilities to realize your idea in Onset.",
+    "supported_languages": "英语, 法语, 德语, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105810/header.jpg?t=1693334544",
+    "developers": [
+      "Blue Mountains"
+    ],
+    "publishers": [
+      "Blue Mountains"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6700,
+      "final": 6700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 67.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    }
+  }
+}

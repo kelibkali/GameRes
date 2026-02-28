@@ -1,0 +1,81 @@
+{
+  "1409600": {
+    "name": "回纹平台跳跃",
+    "steam_appid": 1409600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一个人做的小游戏包含4个模式主要玩法是解密。<br />\r\n解密模式：四个角色来回切换用每个角色有2个技能用不同的搭配达到终点<br />\r\n其他模式-/对抗模式/：两个玩家本地单挑乱斗玩法，每个玩家2个普通技能，2个必杀，近战和远程，把对方击杀或打出地形则得分，差不多是大乱斗那种。<br />\r\n               /独狼模式/：使用滑铲，空翻，翻滚等平台跳跃然后受苦，抖M必备。<br />\r\n               /建造模式/：可选择方块和一些特殊道具建造或修改关卡，然后以上面三种模式进行游戏。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409600/header.jpg?t=1604193179",
+    "developers": [
+      "都要恰饭的"
+    ],
+    "publishers": [
+      "都要恰饭的"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

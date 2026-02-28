@@ -1,0 +1,93 @@
+{
+  "1514200": {
+    "name": "Tap Those Targets",
+    "steam_appid": 1514200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Can you tap them all? Casual target gallery!</strong><br><br>Click as many targets as you can, but don't miss or you'll lose a life!<br><br><strong>THREE WAYS TO PLAY:</strong><br>Normal - <i>Three lives, it gets tougher and tougher!</i><br>One Life - <i>One life, shrinking targets, how many can you click?</i><br>Fast Fingers - <i>Click as many times as you can in ten seconds!</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514200/header.jpg?t=1611586850",
+    "developers": [
+      "TritoLL"
+    ],
+    "publishers": [
+      "TritoLL"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "[Normal] Score 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/3a23931ac8581e57fa1bbacdb0dd56fe92467a82.jpg"
+        },
+        {
+          "name": " [Normal] Score 200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/4b0ef0a521316aaef82987bdad9e879bc289071d.jpg"
+        },
+        {
+          "name": "[One Life] Score 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/a1ab2e12ef586fca456992961f2fbd0f693ced61.jpg"
+        },
+        {
+          "name": "[One Life] Score 200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/fb70d9967f88a47299959bd3b0800d3faa7c9c8f.jpg"
+        },
+        {
+          "name": "[One Life] Beat the Dev",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/86524ee572d8826c2814d4745231e2b16325935b.jpg"
+        },
+        {
+          "name": "[Fast Fingers] Score 80",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/f30fd71006f9c1929c11b9e0edd554dfc75bab4b.jpg"
+        },
+        {
+          "name": "[Fast Fingers] Score 120",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/5bce0fb9d505ad2a86a49317e8dde2674d3df55e.jpg"
+        },
+        {
+          "name": "[Fast Fingers] Beat the Dev",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1514200/e012f6780b805089af4ed1685d9b7bef549f04b3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

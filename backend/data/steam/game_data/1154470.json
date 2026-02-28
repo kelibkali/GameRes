@@ -1,0 +1,57 @@
+{
+  "1154470": {
+    "name": "三国时代2",
+    "steam_appid": 1154470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>云存档</strong>存档文件位置：steam\\steamapps\\common\\sanguos2\\save_data。游戏采用本地存档+云存档的模式，优先读取云存档，如果云存档的文件被删除则会读取本地内存的数据。<br><br>《三国时代2》是一款简洁的单机策略游戏，注重游戏功能性体验，没有花哨的特效，如游戏截图一样简洁。如果你想购买一款充满细节和特效的游戏请慎重购买。<br><br> 这是一款由一个人独自花了10个月完成的原创游戏。游戏设计、数值、美术和程序都是一个人完成的，音效是低成本购买的。所以你可能会觉得美术很简陋，音效不震撼。但游戏并不简单，具备战斗、装备、挖角、市场、成亲、计谋等等功能，一共45座城池和525个系统武将，成亲还可以产生新的武将。<br><br>如果你希望玩快节奏的游戏，只需要重点关注求贤和装备即可，自动任务可以帮助你补充兵力和开发内政，还可以3倍速自动战斗。",
+    "supported_languages": "简体中文, 繁体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154470/header_schinese.jpg?t=1751373534",
+    "developers": [
+      "陈文龙"
+    ],
+    "publishers": [
+      "陈文龙"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 37,
+      "total_negative": 5,
+      "total_reviews": 42
+    }
+  }
+}

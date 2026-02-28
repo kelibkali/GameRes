@@ -1,0 +1,125 @@
+{
+  "333250": {
+    "name": "Forward to the Sky",
+    "steam_appid": 333250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >故事</h2>　　曾经，天空中耸立着一座巨大的塔，人们开采水晶过着繁荣的日子，直到灾难发生……<br><br>　　时间流逝，历史也被遗忘，最近，它又再度出现在云顶——天空塔。<h2 class=\"bb_tag\" >游戏</h2>　　<br>　　拼凑天空塔的故事吧！<br><br>　　《前进，天空塔！》是一款在天空遗迹探险的第三人称动作游戏，收集水晶的碎片，拼凑天空塔的故事，在公主达到顶楼的同时揭晓谜底。<h2 class=\"bb_tag\" >特色</h2>　　游戏包含了解谜、动作与冒险，并稍微偏重解谜成分。轻松有趣、明快的美术、冒险气氛中带着些许平静的音乐，以及简单的操控和战斗。一款所有人都能通关的游戏，同时也有额外的乐趣给喜欢挑战困难的玩家。<br><br>　　总共六层的的天空塔，挑战不同关卡元素、破墙前进、冲过陷阱，操作各式的互动机关解决谜题，找出前往塔顶的通道，跟着公主一层层的揭露故事。",
+    "supported_languages": "英语<strong>*</strong>, 日语, 繁体中文, 简体中文, 西班牙语 - 西班牙, 德语, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333250/header.jpg?t=1577159949",
+    "developers": [
+      "Animu Game"
+    ],
+    "publishers": [
+      "Animu Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "第一层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/48dc6c38e6943862dd3b5543a7fd7a94ae008e2a.jpg"
+        },
+        {
+          "name": "第二层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/c78017d6c1d9585be9ce15afb46b3dda5627ce3a.jpg"
+        },
+        {
+          "name": "第三层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/e74a7d95aae739c92b774d9cef7b2a5f3c23f2ea.jpg"
+        },
+        {
+          "name": "第四层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/612506f308b829e8ec94ae4f2bf564fdc0456fcc.jpg"
+        },
+        {
+          "name": "第五层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/5d259a7cd0fb595ae933fd8ad619188caf338fb3.jpg"
+        },
+        {
+          "name": "最顶层",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/cdc731606ec0b345f84c5c321c4c111f3c92e57d.jpg"
+        },
+        {
+          "name": "第一章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/7f3193bd46398068de5ec6ad667ddc57fc7cdf5c.jpg"
+        },
+        {
+          "name": "第二章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/693cfa3869f3814b30fdd64488b9aa93f9f31c09.jpg"
+        },
+        {
+          "name": "第三章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/dcfa9fdda7ca4db0f1576640dfbb22c8f3297a45.jpg"
+        },
+        {
+          "name": "第四章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333250/52b234d93617bb5842bcc828017ecba3b46dc262.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 571,
+      "total_negative": 58,
+      "total_reviews": 629
+    }
+  }
+}

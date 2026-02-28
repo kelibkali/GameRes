@@ -1,0 +1,53 @@
+{
+  "864790": {
+    "name": "FragmentVR",
+    "steam_appid": 864790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "FragmentVR is a VR application for HTC Vive owners that makes use of the front camera to create windows onto your surroundings from within virtual reality. <br>FragmentVR puts each view into a SteamVR Overlay so that you can create and use them while inside any other VR game or app. <br><strong>HTC Vive Pro is currently not supported</strong><br><br>Usage is simple: Place corners using the controller. Once 4 corners have been placed the view is created and remains fixed in 3D space.<br><br><strong>Upcoming Features &amp; improvements: </strong><br><br><ul class=\"bb_ul\"><li>HTC Vive Pro support<br></li><li>other HMDs + external camera support</li></ul><br><br> Check out our  to complain about bugs and request features!<br><br><br><strong>FragmentVR is only compatible with the standard HTC Vive for now</strong> since it is the only HMD with an accessible camera (HTC Vive Pro support is high on the to-do list but not currently supported ).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864790/header.jpg?t=1563199744",
+    "developers": [
+      "FragmentVR"
+    ],
+    "publishers": [
+      "FragmentVR"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3500,
+      "final": 3500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 35.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

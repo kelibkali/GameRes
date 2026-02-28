@@ -1,0 +1,61 @@
+{
+  "1277610": {
+    "name": "Move with AI",
+    "steam_appid": 1277610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "用人工智能(AI)技术制作的体感游戏，不需要任何体感设备，打开电脑的摄像头就够了。<br />\r\n<br />\r\n玩法<br />\r\n\t红/蓝色关节能够触碰红/蓝色柱子；其他情况游戏失败。柱子的速度会越来越快。<br />\r\n<br />\r\n说明<br />\r\n\t疫情原因，过年时在家憋得慌，做这个只是为了在家能活动下，所以请不要幻想这个辣鸡游戏会有可能好玩。但和跑步半个小时相比，放着自己爱听的音乐（强烈建议），跟着节奏在游戏里尬舞半个小时倒是非常轻松的，可能还有点愉快(取决于你是否乐于尬舞)。<br />\r\n<br />\r\n得分<br />\r\n\t通常，触碰柱子得10分。但如果连续用同一个关节在一个较为固定的范围内接触柱子，奖励会暂时减少。没错，这是在鼓励你多多运动。<br />\r\n<br />\r\n注意<br />\r\n\t1. 保证电脑摄像头未被禁用（可以打开系统相机来查看是否被禁用）。<br />\r\n\t2. 若是笔记本电脑，请确保连接电源，否则fps会非常低。<br />\r\n\t3. 请了解，人体识别可以很准确，如果识别不准，那说明是如下原因（或之一），请确保：<br />\r\n             （1）衣服的颜色不要与背景颜色过于相似。<br />\r\n             （2）人体尽量不要超出中间的图片区域；人体高度与图片高度差不多时是最佳距离。<br />\r\n             （3）光线不能太过昏暗。<br />\r\n        4. 如果电脑性能不高（显卡），目前游戏会运行不流畅（fps低于40），请及时申请退款（或者等我优化完毕，性能会提升2倍以上）",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277610/header.jpg?t=1591523719",
+    "developers": [
+      "King of salted fish"
+    ],
+    "publishers": [
+      "King of salted fish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

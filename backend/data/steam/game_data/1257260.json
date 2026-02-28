@@ -1,0 +1,78 @@
+{
+  "1257260": {
+    "name": "Heartworm Demo",
+    "steam_appid": 1257260,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257260/header.jpg?t=1757561296",
+    "developers": [
+      "Vincent Adinolfi"
+    ],
+    "publishers": [
+      "Vincent Adinolfi"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "To be continued",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257260/98b00969c46f9ba79e42adf05ed9786d3240336f.jpg"
+        },
+        {
+          "name": "Clear the air",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257260/547569b7b9938b9d22b0ea2c0ddf840881e99db2.jpg"
+        },
+        {
+          "name": "Enter the tape",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257260/1e5632d3d815d294eb90227e5d77d071f34c2c2d.jpg"
+        },
+        {
+          "name": "You died",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257260/0df41ba7ef8f8e03a9f7704a6b264b1e2982e483.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

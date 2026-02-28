@@ -1,0 +1,69 @@
+{
+  "1283240": {
+    "name": "Center2048",
+    "steam_appid": 1283240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该游戏要重新打造，暂时下架，大概在一年之后会重新上架，谢谢大家的关注。<br />\r\n<br />\r\n这是一个创新玩法的数字合成游戏，相邻位置相同的方块可以合并到更大的数字，AC方向发射的方块可以直接推到底，BD方向发射的方块可以将其他方块往上层推。有消除的快感，同时考验空间逻辑能力。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283240/header.jpg?t=1640916416",
+    "developers": [
+      "bing chi"
+    ],
+    "publishers": [
+      "bing chi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

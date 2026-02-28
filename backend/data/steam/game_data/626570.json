@@ -1,0 +1,66 @@
+{
+  "626570": {
+    "name": "Microcosm",
+    "steam_appid": 626570,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >An update on the future of Microcosm</h2><br>The Steam version of Microcosm hasn't been updated in a few years. During that time, I've been at work on a rewritten voxel engine with &quot;infinite&quot; worlds, lots of new features, and more thought put into cross-platform support.<br><br>The Steam version was made free on July 11th, 2022 (without a feature update). The new version of Microcosm will be coming to iOS first, and will be free with in-app purchases for some of the new functionality (such as Lua scripting and PLY/OBJ export). I don't have a set release date, but once the iOS version is out, I'll start work on the VR update. When the VR update is released, anyone who purchased Microcosm before July 11th, 2022 will be entitled to a free code granting them access to <i>all</i> new features.<br><br>Thanks for your patience!<br>-paul<br><br>~~~~~~~~~~<h2 class=\"bb_tag\" >Build tiny voxel worlds in virtual reality!</h2><br>Microcosm is the game I've wanted to play in VR ever since I saw the Oculus Rift Kickstarter way back in 2012. I picked up a Vive last year (2016), but no one seemed to be making the voxel game I wanted. Finally, I said enough was enough, and just decided to build it myself.<br><br>I hope you enjoy playing Microcosm as much as I enjoy making it. If you had any issues, or if there's something you think I could improve, I'd love it if you let me know. Please feel free to get in touch with me at any time. If you've found a bug, screenshots and system information are very much appreciated, to help me reproduce and fix it.<h2 class=\"bb_tag\" >Details!</h2><br><ul class=\"bb_ul\">  <li> Microcosm worlds are made of 512×256×512 voxels. Each one is 2.5 cubic centimers (~1 inch). That's over 12 meters across and 6 meters tall of real-world space (~40 feet by ~20 feet). You can build some pretty huge stuff. 🚀<br>  </li><li> Create your own world of solid, transparent, and glowing voxels. 🖼<br>  </li><li> Switch the desktop camera mode! Use the default eye-cam, or place a fixed camera in the world. Great for time-lapses, video recording, and hiding your work. 📹<br>  </li><li> Save your creations as .cosm files, and share them with other people! 🌏<br>  </li><li> Intuitive voxel selection and editing. Easily place, delete, and paint existing voxels. 🎨</li></ul><br>Microcosm currently supports the HTC Vive and Oculus Rift + Touch.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/626570/header.jpg?t=1670480502",
+    "developers": [
+      "paulstraw"
+    ],
+    "publishers": [
+      "paulstraw"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

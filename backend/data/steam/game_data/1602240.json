@@ -1,0 +1,44 @@
+{
+  "1602240": {
+    "name": "Paste DB",
+    "steam_appid": 1602240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Notice - Price of Paste DB will be changed in the future. Before purchasing Paste DB, please consider that there will be a different price in the future.<h2 class=\"bb_tag\" >Manage your text data with Paste DB! Just one button click and you will be copying your text data.</h2><br>Everyday we are spending too much time for looking for certain thing in a text file. Especially when there are so many things in your text file, dragging stuffs can be exhausting. And that's why we built Paste DB. Paste DB is for minimizing our time to search for certain text that we just want to copy and paste. And you will find Paste DB is the one of tools that you really wanted.<br><br>Paste DB can store any text. It can be your personal game cheat sheet. Or you can store and paste your repetitive reply to your customers and co-workers. Are you looking for somewhere to store your Japanese, Korean, foreign words for multi-play games? You can use Paste DB to quickly copy and paste what you want to say in foreign language. And some text, you probably don't want them to be exposed to others especially when it is stored in your HDD. Paste DB provide an option that you can encrypt your text data with passphrase. So as long as you remember your passphrase, your text data will be safer than storing them as a plain text.<br><br>Get Paste DB and make your life easier!<h2 class=\"bb_tag\" >Extra information</h2><br><ul class=\"bb_ul\"><li> Paste DB stores everything in memory. So data won't be saved until a user decides to save changes into their persistent storage.<br></li><li> Paste DB is using a data structure which is B-Tree mixed with Linked List.<br></li><li> Recommended database(.gdb) file size is 64MiB for HDD and 256MiB for SSD. This is up to the persistent storage's read and write speed. The file size can be bigger but it will take longer time to save or load.</li></ul>",
+    "supported_languages": "英语, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602240/header.jpg?t=1695543903",
+    "developers": [
+      "Geargom"
+    ],
+    "publishers": [
+      "Geargom"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 36500,
+      "final": 36500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 365.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 17 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

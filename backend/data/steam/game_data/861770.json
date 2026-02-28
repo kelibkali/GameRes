@@ -1,0 +1,93 @@
+{
+  "861770": {
+    "name": "FrogStatue",
+    "steam_appid": 861770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《FrogStatue》青蛙神像是一款物理类独立小游戏，趣味与策略性较强，操作较为简单，控制弹弓的力度将雪球抛出，使其落入指定位置即可通关。在关卡创意方面，每2-3关均会出现新的障碍物，比如风车，单摆，移动障碍，电扇，可击碎，多骨诺障碍等等。在玩法方面，游戏更注重策略性，如果只是依赖于抛物线式发射，那么可能第二关就会被卡住，可通过顶部反弹，底部摩擦上滑等等方式尝试性过关。在趣味性方面，关卡内随机道具可加入，比如SuperBall，BoomTrick , BoomBox等有趣道具层出不穷。<br />\r\n由于这是一个凭借偶然灵感做出来的独立小游戏.因个人能力有限，希望玩家能以包容的态度对待它，这将给予本人继续创作的勇气。本人不定期将会增加新的关卡，新物品等等，期待您的宝贵意见。。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861770/header.jpg?t=1528889372",
+    "developers": [
+      "yeyinggame"
+    ],
+    "publishers": [
+      "yeyinggame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Cave Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/6d71edff66403908e4064369bc55fadf339ba4eb.jpg"
+        },
+        {
+          "name": "Cave Warrior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/a4c90bcb05fe9fd3ec2305341d87a33521895195.jpg"
+        },
+        {
+          "name": "Cave Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/ae403d9107218da448b7d4dc3bb4a7ab84b72d18.jpg"
+        },
+        {
+          "name": "Cave Lord",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/84a06489654d5d48ef86472688c3a3d21c1642c8.jpg"
+        },
+        {
+          "name": "Cave King",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/daaf32e7587baf01910999b26eb126a23ac66d65.jpg"
+        },
+        {
+          "name": "Cave God",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/861770/1980a2e307cfcb0f0bd1cc501b1286568858e8ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

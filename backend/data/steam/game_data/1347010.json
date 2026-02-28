@@ -1,0 +1,81 @@
+{
+  "1347010": {
+    "name": "Dim Glow",
+    "steam_appid": 1347010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Dim Glow 是一款休闲游戏，您可以在其中控制黑暗领域。您的任务是向意外出现在运动场上的其他物体射击，并且每次击中它们都会得到1分。困难之处在于，最初有子弹供应，销毁物品时会补充子弹，但是当您浪费所有子弹时，您会丢失并且必须重新开始。同样在开始时，您有4条生命，如果一些敌人触摸您或被子弹落入您，那么您将失去一个生命点，如果失去所有生命点，您也将遭受损失。但是，如果您捡起一颗偶然出现在运动场上的红宝石心，您可以将生命补充一分。每个敌人都是独特的，并以自己的方式行事，有些只是移动，有些则立即试图造成伤害。您能击中敌人多少次？<br />\r\n<br />\r\n特征<br />\r\n<br />\r\n-聪明的敌人<br />\r\n<br />\r\n-物理运用<br />\r\n<br />\r\n-快速有趣的游戏<br />\r\n<br />\r\n-充满活力的音乐",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347010/header.jpg?t=1593183584",
+    "developers": [
+      "Fergus W"
+    ],
+    "publishers": [
+      "Fergus art"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Take one",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347010/7dc36ee17360d9c6b412bed0fbcfd26c57cb9f9b.jpg"
+        },
+        {
+          "name": "Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347010/e735e938564050ba15689a6163b77950e259b57d.jpg"
+        },
+        {
+          "name": "100 hits",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347010/4129847c434a538c4b40d11ed1dbf4c9024d405a.jpg"
+        },
+        {
+          "name": "499 hits",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347010/4f097abd999f6e9eb143ad9764cf69f0cf6fb664.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "570860": {
+    "name": "AudioBeats",
+    "steam_appid": 570860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Audio Beats 是一款比较传统的节奏游戏，玩家根据节奏打击掉落的音符。<br />\r\n<br />\r\n<br />\r\n核心玩法介绍：<br />\r\n<br />\r\n歌曲中的节奏点会形成不同类型的Note掉落至面前的判定点，玩家用控制器敲击打击板发送激光去击打Note。<br />\r\n<br />\r\nNote分为单键、长键以及方向键三个类型。<br />\r\n<br />\r\n准确的打击会获得更高的判定，从而影响整首歌曲的最终评价。<br />\r\n<br />\r\n每首歌曲都有Easy、Normal、Hard三种难度可以选择。<br />\r\n<br />\r\n<br />\r\n亮点介绍：<br />\r\n<br />\r\n区别所有的VR音游，我们将判定点放在前方，将打击点放在了身边。这样分离的做法可以使玩家更好的进行节奏的判定，以及更好的操作方式。<br />\r\n<br />\r\n我们用非常精密的碰撞算法和嵌套逻辑来解析玩家的动作，以此来实现不同类型Note的击打。<br />\r\n<br />\r\n我们使用了传统的音乐游戏制作工艺，从歌曲的制作到Note的排列都由专业的音乐人及资深玩家来完成。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570860/header.jpg?t=1509753249",
+    "developers": [
+      "Famiku"
+    ],
+    "publishers": [
+      "Famiku"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 8,
+      "total_negative": 3,
+      "total_reviews": 11
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "453500": {
+    "name": "Frio - Lost in old town",
+    "steam_appid": 453500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "▼序言<br>这是从位于峡谷中的一座偏僻村落里流传下来的故事。在目前已经废弃的那座村落里，被恐怖气氛吓得瑟瑟发抖的她到底遭遇了什么事情？黑暗中不断靠近的阴森影子…现在就由您的力量来揭开其中的缘由吧！<br><br>▼警告<br>※ 请认为自己的精神和身体比较脆弱的人士绝对不要体验本游戏。因为令人毛骨悚然地犹如现实中正在靠近的幽灵的样子可能会导致您的心脏出现骤停。<br>这不只是危言耸听，老弱者、孕妇、儿童禁止体验本游戏。<br><br>*Thank you for passing Steam Greenlit as a one-man developer.<br>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 繁体中文, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453500/header.jpg?t=1652457056",
+    "developers": [
+      "erocona"
+    ],
+    "publishers": [
+      "erocona"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "easy clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/db8492aef2459e19fff67e228b1da9dadcf5569b.jpg"
+        },
+        {
+          "name": "normal clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/e4f25ddc659521dbe88fa94e6d13ec33169c3087.jpg"
+        },
+        {
+          "name": "hard clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/df56d89d7f3329a8d4d07097bdf3155600b0d3d9.jpg"
+        },
+        {
+          "name": "riddle1clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/cb652bc2789505b5e3fa6368b6f37a4cfd2d65d0.jpg"
+        },
+        {
+          "name": "riddle2clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/1eb352803a342f7cf45719941f586cf7532e6426.jpg"
+        },
+        {
+          "name": "riddle3clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/d8dd36b5768c281c0f5da410d1d9921eff1be393.jpg"
+        },
+        {
+          "name": "riddle4clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/60ba76048e5fc642d046d21d3076f1d2bc0434c0.jpg"
+        },
+        {
+          "name": "riddle5clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/6e22973b8b19aea7582ad8034b46eaab215ca0c5.jpg"
+        },
+        {
+          "name": "riddle6clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/453500/9560470d472c9ed0e4dbfde06f97a506455f9fcb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 4,
+      "total_negative": 2,
+      "total_reviews": 6
+    }
+  }
+}

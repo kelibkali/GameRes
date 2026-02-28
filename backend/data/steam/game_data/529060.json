@@ -1,0 +1,57 @@
+{
+  "529060": {
+    "name": "Space Simulator",
+    "steam_appid": 529060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Space Simulator is a realistic space flight simulator game featuring high-quality models, hi-res textures, IBL shaders, and a full-scale Solar System running on a proprietary purpose-built (double-float precision) physics library to create a better, faster and more realistic space flight simulator. <br><br>Gravitational forces, including moons and distant celestial bodies, orbit instabilities, resonances, etc. are calculated with utmost accuracy. The physics solver computes and predicts real n-body trajectories that vary in real time, allowing -for the first time- the player to design and fine-tune very complicated orbital maneuvers, eg, orbital slingshots, etc.<br><br>With the dynamic loading textures and multi-threaded physics running on GPU cores, the game reaches at 50-60 fps on most PCs with modest RAM requirements.<br><br>We are also implementing VR support for a fully immersive flight experience as well as support for all major joysticks and flight controllers.<br><br>We intend to release the game for an introductory price for a limited time only.<br><br><br>CONTENT<br><br>Space Simulator features a mix of high quality Steam specific missions while also having a legacy mode with all the missions, models, etc of the mobile version included for the convenience of our mobile players.<br><br><strong>Steam Specific Missions</strong>:  (Early Access) Chapter 1: The Apollo Days. Featuring a growing number incredibly detailed and realistic Apollo Program missions starting -at launch date- with Apollo 8 lunar orbit missions.  In the following months, we will complete all relevant missions in the Apollo Program.<br><br><br>Included also is the mobile version content with:<br><br>• Project Apollo<br><br>Space Simulator features the complete Apollo 11 program missions. Players can choose to play particular missions or the entire Apollo 11 program from beginning to end: launch the Saturn V from Cape Kennedy; perform Trans-Lunar Injection, transposition rotation and docking; land on the Moon; power through the lunar ascent and rendezvous; and finally return back to Earth with reentry and splashdown.<br><br>• Space Transportation System<br><br>Space Shuttle fans can also enjoy a wide selection of Space Shuttle missions: launch from Cape Kennedy; rendezvous and dock with the International Space Station; return to Earth with reentry and play the final landing in day and night scenarios.<br><br>• Space Launch System<br><br>Space Simulator also includes a number of contemporary spacecrafts, such as the SLS (Orion) .We also plan to include SpaceX vehicles in the near future.<br><br>• Custom Free Roam Missions<br><br>Space Simulator is a realistic simulator of the entire Solar System with all its planets and major moons. Players can also choose to play custom free roam scenarios with general purpose spaceships.<br><br><br><br>GAMEPLAY<br><br>All spacecraft cockpits will come with interactive multi-functional displays that provide information on every aspect of your flight data. We have orbit, surface, transfer, docking, flight, HSI and other display panels.<br><br>For Apollo enthusiasts, we have fully emulated the Apollo Guidance Computer and DSKY running actual code from the 60’s. You can run and control the Apollo spacecrafts exactly as how the astronauts did during their flight.<br><br>Ultimately, our aim is to create a realistic space simulator that is comprehensive yet easy to use and accessible to players at all levels with the most advanced graphics and rendering techniques.<br><br><br>All planets in the game are modeled with hi-res NASA imagery. Selected planets such as the Earth, Moon and Mars have 3D surfaces modeled from NASA altitude data. We try to use original audio as much as possible for Apollo and Space Shuttle missions.<br><br><br>SUMMARY<br><br>Lift-off from the Kennedy Space Center; land on the Moon; enjoy the magnificent views of Earth from orbit; plan a trip to a faraway planet; practise your favorite orbital maneuvers ­doing gravitational slingshots, Hohmann transfer orbits; rendezvous and dock with the ISS; perfect your Space Shuttle landings or go to the edge of space and back with the hypersonic X-­15 space plane. The possibilities are endless and as unbounded as your wildest astronautic dreams!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529060/header.jpg?t=1519645856",
+    "developers": [
+      "Stuka Games Inc"
+    ],
+    "publishers": [
+      "Brixton Dynamics Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 6,
+      "total_negative": 6,
+      "total_reviews": 12
+    }
+  }
+}

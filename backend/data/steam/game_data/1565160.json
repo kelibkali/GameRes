@@ -1,0 +1,81 @@
+{
+  "1565160": {
+    "name": "X-Plane 11 - Add-on: Aerosoft - shadeX",
+    "steam_appid": 1565160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Give X-Plane a completely new, realistic look and create stunning screenshots. shadeX is an effect tuning plugin that changes the visual appearance and adds great effects by using a shader-based real-time technology.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565160/extras/5d75590246c1db446e324a2c5681b379.webp?t=1726470981\" width=616 height=61 /></span><br><ul class=\"bb_ul\"><li>Color settings <br>Change contrast, lift, gamma, gain, temperature and saturation<br></li><li>Effects <br>Apply sepia, film grain, vignette and sharpening effects<br></li><li>Depth of Field <br>Highlight/blur specific areas automatically or by full manual control<br></li><li>Field of View <br>Set close up or wide-angle views<br></li><li>Presets <br>Select from various presets or save your own color/effect setting<br></li><li>User Interface <br>modern and user-friendly menu with quick access to all functions + advanced settings with full control for experts<br></li><li>Multi-Language <br>The plugin is available in english, german, spanish, french (based on the X-Plane language selection)<br></li><li>Manual <br>Written manual available for all languages + video tutorial covering all features in english</li></ul><h2 class=\"bb_tag\" >COMPATIBILITY</h2><br>XP11:<br><ul class=\"bb_ul\"><li>Windows 10/11: compatible<br></li><li>Linux Ubuntu (latest LTS): compatible<br></li><li>macOS: compatible from 10.14 to 12.1</li></ul><br>XP12:<br><ul class=\"bb_ul\"><li>All OS: no depth of field effect available<br></li><li>Windows 10/11: compatible<br></li><li>Linux Ubuntu (latest LTS): compatible<br></li><li>macOS: compatible from 10.14 to 12.1</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565160/header.jpg?t=1726470981",
+    "developers": [
+      "Stairport Sceneries"
+    ],
+    "publishers": [
+      "Aerosoft GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 4,
+      "total_negative": 4,
+      "total_reviews": 8
+    }
+  }
+}

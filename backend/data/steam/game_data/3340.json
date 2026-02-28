@@ -1,0 +1,53 @@
+{
+  "3340": {
+    "name": "AstroPop Deluxe",
+    "steam_appid": 3340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In a world where most puzzle games are the same, head into outer space to find something new and exciting! Before the descending bricks crush your dreams (and your space ship), use your powerful magnet to move and match same-colored bricks.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3340/header.jpg?t=1584807245",
+    "developers": [
+      "PopCap Games, Inc."
+    ],
+    "publishers": [
+      "PopCap Games, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2006 年 8 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 1,
+      "total_reviews": 12
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "727900": {
+    "name": "Maze of Gaea（Real Maze VR Simulation）",
+    "steam_appid": 727900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏介绍：<br />\r\n      游戏的设计灵感来源于一次现实中迷宫的体验经历，我无法找到迷宫的走口。唯一的办法就是返回迷宫内的高桥上，从高桥向下看找到路线，然后凭着记忆找到出口。现在，我们复原了这种玩法，并精心设计了7关难度不同，风格不同，玩法不同的迷宫。这7关迷宫难度不断增加，不断挑战你的记忆极限。天气的加入，也增加了迷宫体验的真实感。世界上有许多著名的迷宫，分布在世界各地。而现在，在我们的游戏中，你就可以真正的体验一下，身处迷宫中该如何逃出。<br />\r\n小技巧：<br />\r\n      每个迷宫都有不同的高台，桥等。这些位置是逃出迷宫的关键。当你迷路了，一定记得返回高台，在高台上仔细寻找出口的路线，然后记住它。当然，你不可能从高台跳下，而必须从高台的楼梯走下，因为我们做了一定的限制以保证真实感。<br />\r\n功能说明：<br />\r\n      1，双手的圆盘可以进行传送，这是位移的主要方法；<br />\r\n      2，一只手柄上显示当前使用的时间；<br />\r\n      3，一只手柄的扳机键，可以用来选择更多功能，包括回到主菜单和重新开始；<br />\r\n      4，主菜单可以配置语言，我们支持简体中文和English；",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727900/header.jpg?t=1516691785",
+    "developers": [
+      "TiStar Game"
+    ],
+    "publishers": [
+      "TiStar Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

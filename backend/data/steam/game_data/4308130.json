@@ -1,0 +1,67 @@
+{
+  "4308130": {
+    "name": "简易纯游 Demo",
+    "steam_appid": 4308130,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >一个是MIDI编曲工具，可以编辑曲子。</p><p class=\"bb_paragraph\" >一个是绘图工具，可以绘制形状图形。</p><p class=\"bb_paragraph\" >节奏旋律有18首钢琴曲可以弹奏。</p><p class=\"bb_paragraph\" >连连看有一个难度不断上升的闯关模式。</p><p class=\"bb_paragraph\" >三消可以游玩10个关卡，也可以修改这10个关卡的配置。</p><p class=\"bb_paragraph\" >坦克迷宫可以选择坦克然后从迷宫中找到出口。</p><p class=\"bb_paragraph\" >还有经典的俄罗斯方块和扫雷。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >试用版和基础版之间的区别在于，</p><p class=\"bb_paragraph\" >试用版限制了绝大部分的自定义功能和部分关卡数量。</p><p class=\"bb_paragraph\" >例如：</p><p class=\"bb_paragraph\" >限制了节奏旋律的读取本地文件生成关卡的内容。</p><p class=\"bb_paragraph\" >限制了连连看的自定义关卡内容。</p><p class=\"bb_paragraph\" >限制了三消玩法的关卡数量和可编辑关卡数量。</p><p class=\"bb_paragraph\" >限制了坦克迷宫可选择的坦克类型数量和可通关关卡数量。</p><p class=\"bb_paragraph\" >限制了绘图功能的模板和导出功能。</p><p class=\"bb_paragraph\" >限制了编曲功能的导入导出功能。</p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308130/39349c40fa70030258ad8eccaec47a13d5090b84/header_schinese.jpg?t=1768609353",
+    "developers": [
+      "小桨哥",
+      "小桨哥"
+    ],
+    "publishers": [
+      "小桨哥"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1190750": {
+    "name": "GameAssistant: The Tool For Every Gamer",
+    "steam_appid": 1190750,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>GameAssistant: The Tool For Every Gamer</strong> is a <strong>unique program</strong> that <strong>automates games tweaking</strong>.<br><br>Simple to use, yet powerful.<br><br>It allows, depending on game, to:<br> - disable startup videos<br> - set modern resolutions<br> - set windowed mode<br> - enable anti-aliasing<br> - enable or disable VSync<br> - set 120 Hz / 144 Hz refresh rate of FPS limit<br> - override FOV<br> - increase visual quality (more detailed shadows, max anisotropic filtering)<br> - disable some effects (depth of field, bloom, motion blur, chromatic aberration)<br> - enable or disable mouse smoothing and acceleration<br> - fix crashes, poor performance and other issues<br> - enable cheats (when possible, this is not a hacking tool or trainer)<br>All changes can be reverted.<br><br>Additionally some hints will be given along with cheats and link to walkthrough.<br><br>It's a real time saver.<br>No need to search internet.<br>No need to locate config files and perform manual editing.<br><br>For things listed above to be possible program is able to:<br>- modify config files (11 formats supported: from simple <i>key = value</i> to engine specific)<br>- modify registry entries<br>- modify binary files<br>- set compatibility modes for executables (admin, win xp)<br>- set CPU affinity<br>- set process priority<br>- copy files<br>- remove files<br>- create directories<br>- extract files from archives<br>- mark files as read-only<br>- show formatted hints<br><br>You can also:<br> - install game<br> - launch game<br> - kill game process<br> - open config file for manual editing<br> - open directory with configs<br> - open directory with save games (games use so many locations!)<br> - open game directory<br><br>Multiple accounts are supported (Special Edition only).<br><br>Currently over <strong>200</strong> games are supported.<br>Check forums for full list of supported tweaks for games.<br><br>It is possible to add support for more games. All you need is to write simple JSON config.<br>Program can download Community Pack - ZIP archive with configs.<br>Detailed HTML modding documentation is provided.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190750/header.jpg?t=1600101657",
+    "developers": [
+      "GameAssistant Team"
+    ],
+    "publishers": [
+      "GameAssistant Team"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 2 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

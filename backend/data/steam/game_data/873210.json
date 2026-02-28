@@ -1,0 +1,113 @@
+{
+  "873210": {
+    "name": "iterform",
+    "steam_appid": 873210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "iterform is a minimalistic hardcore platformer with experimental respawn mechanic.<br>The main feature is the ability to create replicas and respawn on the previous one.<br><br>What's inside:<br><ul class=\"bb_ul\">&gt; 6 colors</ul><ul class=\"bb_ul\">&gt; more than 45 levels</ul><ul class=\"bb_ul\">&gt; computer-composed music</ul><ul class=\"bb_ul\">&gt; about 3 hours of gameplay (about 30 minutes for ultra-pro speedrunners)</ul><ul class=\"bb_ul\">&gt; linux and windows support</ul><ul class=\"bb_ul\">&gt; external level editor (python3 script)</ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873210/header.jpg?t=1572328659",
+    "developers": [
+      "Evgeny Petrov"
+    ],
+    "publishers": [
+      "Not a Prototype games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "first to go",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/605a75661dfcb0290bc0e2210fca209b00bd8735.jpg"
+        },
+        {
+          "name": "oh come on",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/b36e0ada2b235de16e39685f0d51915efbd5b146.jpg"
+        },
+        {
+          "name": "the economist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/a95cd578e9f031d2bcd4e4437d67b5f3023e1afa.jpg"
+        },
+        {
+          "name": "basic learner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/b0b68ef24a8bace743b362e10085dbb32c822afe.jpg"
+        },
+        {
+          "name": "replicant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/e3141ca6ce33afd8a0447e6745a3620a37858c5c.jpg"
+        },
+        {
+          "name": "iteration master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/f75532ef025e5bc3dd92fe44030c3ded6be49708.jpg"
+        },
+        {
+          "name": "thank you",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/1eb5c352efdbb9dfe8e6f6109e2df0583d21afe3.jpg"
+        },
+        {
+          "name": "iterformed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/44bd37f2f9ac5c2efd1491ffe10a24ed131c271a.jpg"
+        },
+        {
+          "name": "dont",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/01fa2fde5d21f85cba8856632fbc966e2c4cbd58.jpg"
+        },
+        {
+          "name": "touch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/873210/2034a925b038ee63f69ae4a86066fe54d0606b66.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

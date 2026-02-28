@@ -1,0 +1,123 @@
+{
+  "593700": {
+    "name": "Tower Fortress",
+    "steam_appid": 593700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一座神秘的高塔耸立云间！从塔顶散发出会让人生病的绿色毒雾。奇异的生物寄生在塔内。如果没有人能够顺利登顶，我们都将灭亡！<br><br>你是那个英雄吗?.....<br><br><strong>特征:</strong><br><ul class=\"bb_ul\"><li>每次重玩怪物随机重置，为您带来不同的乐趣！<br></li><li>升级能力和技能，一步步登上塔顶！<br></li><li>4 个主题区域等待挑战！<br></li><li>每个区域拥有独特的关卡设计和怪物！<br></li><li>4 次最终 BOSS 战！<br></li><li>眼花缭乱的枪械，包括激光枪、冲锋枪、气泡枪和散弹枪！<br></li><li>25 款套装等待解锁，每一种都有独特能力！<br></li><li>每个阶段结束后升级角色，随机挑选升级能力！</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593700/header.jpg?t=1736269670",
+    "developers": [
+      "Keybol",
+      "Nitrome",
+      "Mike Studios"
+    ],
+    "publishers": [
+      "Nitrome"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Not Coming Home",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/163ea1dc3af6058375a8da35f73a8b85e0457b09.jpg"
+        },
+        {
+          "name": "Wizard of the Roast",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/18d45f4ef69c5ced7395a7cb3ace29dafd761093.jpg"
+        },
+        {
+          "name": "Dying Pod",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/3a06e26b616c501dd2c6f6b587474477a53bbadf.jpg"
+        },
+        {
+          "name": "God is Goo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/f0ce7bfd80a2cb29cdab41ad9fa90407df10008f.jpg"
+        },
+        {
+          "name": "Die Smoke Belcher!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/623806d43c05ef8de7025bb17ee4395799a2d32d.jpg"
+        },
+        {
+          "name": "Hyper Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/e7e94cc777919f586f6ef5daa195f16b68d14a14.jpg"
+        },
+        {
+          "name": "Super Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/62033182ba8ba3de64ff91aa8f61e6a88f8b23db.jpg"
+        },
+        {
+          "name": "Ultra Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/6f35624a24542bb407d54a49d3dcc3f6f64eb117.jpg"
+        },
+        {
+          "name": "Ultimate Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/2648204c7a89ed664bc34cf3f37b36fdbbcca054.jpg"
+        },
+        {
+          "name": "More Marks!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/593700/06a0045912a2aa79786773acbb0980207a36a128.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 14,
+      "total_negative": 1,
+      "total_reviews": 15
+    }
+  }
+}

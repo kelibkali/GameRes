@@ -1,0 +1,84 @@
+{
+  "456320": {
+    "name": "March Madness 2016",
+    "steam_appid": 456320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 捷克语, 波兰语, 俄语<strong>*</strong>, 意大利语<strong>*</strong>, 韩语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 荷兰语, 丹麦语, 芬兰语, 日语, 挪威语, 葡萄牙语 - 葡萄牙, 瑞典语, 泰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": null,
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "1178310": {
+    "name": "Picross.io",
+    "steam_appid": 1178310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Picross is a picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture. In this puzzle type, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of &quot;4 8 3&quot; would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive groups.<br />\r\n<br />\r\nPicross includes:<br />\r\n- 15 puzzles 5x5 size<br />\r\n- 74 puzzles 10x10 size<br />\r\n- 224 puzzles 15x15 size",
+    "supported_languages": "英语, 德语, 葡萄牙语 - 葡萄牙, 俄语, 乌克兰语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/header.jpg?t=1689684189",
+    "developers": [
+      "Alexander Mirgorod"
+    ],
+    "publishers": [
+      "Alexander Kudryavy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

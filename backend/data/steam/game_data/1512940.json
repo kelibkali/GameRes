@@ -1,0 +1,77 @@
+{
+  "1512940": {
+    "name": "Malody V",
+    "steam_appid": 1512940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Malody V是由一群热爱音乐的人开发的多平台音乐游戏。开发团队的核心追求是以一种通用的方式支持各类音游玩法。Malody始发于2014年，最开始只有下落式一种玩法，目前已支持Key，Catch，Pad，Taiko，Ring，Slide，Live，Cube等7种玩法，每种玩法都有独立的全功能谱面编辑器，皮肤编辑器，并且支持在线排名和多人在线玩法。<br />\r\n<br />\r\n从旧版本Malody到全新的Malody V，我们完全重写了整个游戏，修复大量老版本的bug。此外还重点提升了编辑器，个人资料管理，收藏夹，音乐播放等功能的体验。还有更多的惊喜期待你去体验。<br />\r\n<br />\r\n特性:<br />\r\n* 支持多种格式的谱面: osu, sm, bms, pms, mc, tja。<br />\r\n* 内置Editor，自由的创作并分享谱面。<br />\r\n* 内置皮肤Editor，易用且高可定制。<br />\r\n* 多人竞技场，支持所有模式和玩法。<br />\r\n* 支持全key音的谱面。<br />\r\n* 支持play录制。<br />\r\n* 支持play效果: 随机, 翻转, 常速, 倍速, 死亡。<br />\r\n* 完善的在线排名系统。<br />\r\n* 支持私服，参考API文档",
+    "supported_languages": "英语, 日语, 简体中文, 法语, 德语, 繁体中文, 越南语, 意大利语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/header.jpg?t=1752740265",
+    "developers": [
+      "Mugzone"
+    ],
+    "publishers": [
+      "Mugzone"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 320,
+      "total_negative": 117,
+      "total_reviews": 437
+    }
+  }
+}

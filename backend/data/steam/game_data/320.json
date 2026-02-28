@@ -1,0 +1,70 @@
+{
+  "320": {
+    "name": "Half-Life 2: Deathmatch",
+    "steam_appid": 320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《半条命 2》游戏系列中的快节奏多人动作游戏！ HL2 的物理效果将死亡竞赛模式提升到了一个新的高度。直接进入死亡竞赛模式，或加入联合军 VS 反抗军的团队模式。今天就来试试用马桶砸好友的滋味！",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/header.jpg?t=1749481506",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2004 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 194,
+      "total_negative": 35,
+      "total_reviews": 229
+    }
+  }
+}

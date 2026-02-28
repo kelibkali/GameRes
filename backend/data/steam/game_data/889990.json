@@ -1,0 +1,105 @@
+{
+  "889990": {
+    "name": "RGBCELLS",
+    "steam_appid": 889990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889990/extras/d67be31747f0ed0b5ea6aae835f36374.avif?t=1532666307\" width=600 height=194 /></span><br><br><strong>RGBCELLS是一个益智游戏。<br>你的目标很简单，就是找出所有格子的颜色。</strong><br><br>使用大的RGB槽来扫描周围的颜色，<br>红 + 绿 = 黄<br>红 + 蓝 = 紫<br>绿 + 蓝 = 青<br>那么，这个格子的颜色是？<br>然后使用小的颜色槽来确认你的猜想。<br><br><br>▪ 自定关卡 (∞)<br>▪ Steam 成就<br><br>(即使选错了颜色游戏也不会结束，但我不希望你们用穷举法来完成游戏)<br><br>- 集换式卡牌 (当符合Steam条件时解锁)<br><br>基于 Unity2D 制作",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 乌克兰语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 简体中文, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889990/header.jpg?t=1532666307",
+    "developers": [
+      "SC.Wu"
+    ],
+    "publishers": [
+      "SC.Wu"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "Welcome ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/c32e813f50c618f114bdb9c4781182720cc50a88.jpg"
+        },
+        {
+          "name": "6 and 120°",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/7d7084aa398f66add30066df85a2c15cb95e0bc9.jpg"
+        },
+        {
+          "name": "4 and 90°",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/7516871bbaee7429e87d4ce6003e27fad3a156ea.jpg"
+        },
+        {
+          "name": "RED 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/ca1742423dc8f962087f66dba9271128367051e0.jpg"
+        },
+        {
+          "name": "GREEN 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/682cc63213ca8b5c9bf2947e153bf5ac49169dfa.jpg"
+        },
+        {
+          "name": "BLUE 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/2a343261a9f926410f8a25d0c88ef2ff2838a05b.jpg"
+        },
+        {
+          "name": "YELLOW 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/0f4f00f099a23e164803dd386ddfba87a9a30936.jpg"
+        },
+        {
+          "name": "VIOLET 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/d1969e0db5c7b4bffba65284ecc10d2119f38c57.jpg"
+        },
+        {
+          "name": "CYAN 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/8a19be25598c1b088dfd491c572c81e9dd280a08.jpg"
+        },
+        {
+          "name": "RED 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/889990/8c03dd9cacb1e9746f2012b0f6e3eb59a3f0b11e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

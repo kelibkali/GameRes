@@ -1,0 +1,101 @@
+{
+  "237370": {
+    "name": "PlayClaw 5 - Game Recording and Streaming",
+    "steam_appid": 237370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PlayClaw 视频录制软件能为您提供全方位的支持。<br><br>PlayClaw 可以充分利用多核处理器和硬件加速 H.264 编码器，保证优秀输出品质的同时将对系统性能的影响降到最低。PlawClaw 能在最小性能影响下记录您的高帧率全高清游戏画面和您的语音解说。<br><br>PlayClaw 的特色功能是可以渲染一些覆盖层到游戏画面中。它可以显示谁正在使用Teamspeak 3说话，这样可以帮助您更好的进行团队合作。您也可以在游戏中通过覆盖层检查GPU或者CPU的负载。覆盖层插件兼容最新版本的Windows和图像引擎。<br><br><i>特性一览：</i><br><ul class=\"bb_ul\"><li>多种游戏内音频及语音记录方式<br></li><li>硬件加速H.264编码器（支持Intel QucikSync编码器，NVIDIA编码器，AMD VCE编码器）<br></li><li>串流到YouTube、Twitch和其他RTMP直播服务<br></li><li>在Windows 7，8/8.1及10上有特殊的桌面录制模式<br></li><li>可以调整记录视频的帧率和大小<br></li><li>支持多达16个音频源输入<br></li><li>独特的预录制模式<br></li><li>可以输出多种视频格式（AVI，MP4）<br></li><li>自动屏幕截图<br></li><li>多种覆盖层插件：Teamspeak 3语音插件，FPS帧率显示插件，CPU/GPU负载显示插件以及计时插件等等<br></li><li>支持摄像头画面输出到录制画面<br></li><li>支援第三方插件<br></li><li>支持多线程编码<br></li><li>可以保存基本设定档<br></li><li>兼容VAC反作弊系统和PunkBuster反作弊系统</li></ul>",
+    "supported_languages": "英语, 俄语, 法语, 匈牙利语, 波兰语, 葡萄牙语 - 巴西, 韩语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237370/header.jpg?t=1526399686",
+    "developers": [],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 11200,
+      "final": 11200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 112.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 9 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Verbal master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/4f1104098ffe909c7eaf1b087cd9d907813becbf.jpg"
+        },
+        {
+          "name": "Cameraman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/4916223d602ec0234b386de535d06f3ee8ceb0db.jpg"
+        },
+        {
+          "name": "Three's a crowd",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/06669541a9e907578207d973a90dc1012f808dee.jpg"
+        },
+        {
+          "name": "Be Prepared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/5ebc23a0c0db5e2b3603a269f76948f3853a9a52.jpg"
+        },
+        {
+          "name": "Doomsday",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/ff82998e7bb71a67fd05295406649189823ecbad.jpg"
+        },
+        {
+          "name": "Paparazzi",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/daa6ec181fba55f9fa3e0b3b3670aa3b113dd402.jpg"
+        },
+        {
+          "name": "Video Junky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/4f5916877a2c706a2570538feaa2726696597e33.jpg"
+        },
+        {
+          "name": "Forgetful",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/42d6abbeefea8fee47107901580b7b7d9513f3c2.jpg"
+        },
+        {
+          "name": "Let's play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/ad7d43a6afc6b551fb84ce1233b155c7e01baf16.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/237370/a73acf053c7df25fbf67dc47135969fbc4e03d64.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 6,
+      "total_negative": 4,
+      "total_reviews": 10
+    }
+  }
+}

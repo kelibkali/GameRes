@@ -1,0 +1,87 @@
+{
+  "704430": {
+    "name": "Space Survivors I: The Reckoning",
+    "steam_appid": 704430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>If you are not sure if the game is right for you. you can download the free demo which includes the complete game and get's updated like the normal game until a certain point of course</strong><br><br>Space Survivors Shooter is a unique fps game that currently features an endless round-based zombie fighting mode.<br>Hello Space Survivors, if you are wondering why this game is called &quot;Space Survivors Shooter&quot;, let me give you a short explanation.<br>The Game you are looking at right now is not near any finished stage. So the game we want to create will inherit two modes the first one is with zombies which are currently under development. And the second mode is the &quot;real&quot; Space Survivors Shooter which will be a futuristic shooter that will have maps in space and on the ground.<br><br>So after that's clear, you might ask yourself so no space yet? The answer is yes, and maybe you are asking yourself now so what can I do in the mode which is already released. <br>For this let me give you a shortlist:<br><ul class=\"bb_ul\"><li> Buy weapons from walls, with your earned points, which you get by shooting the not very zombie-like looking puppets<br></li><li> Shoot zombies to get points to buy areas open to get to other weapons and perks<br></li><li> Play alone or with friends via steam<br></li><li> Survive as many rounds as you can while the zombies are getting more and have more health each wave.<br></li><li> Get lucky when a powerup get's dropped when you kill a zombie<br></li><li> Configure your own difficulty via editing the XML files in the config directory, there you can set for example the zombies walk speed or the seconds you have between the waves end and the new wave starts. You can also define how many zombies are allowed on screen at the same time and some other cool stuff. (only gamemodes.xml and zombieTypes.xml are used.)<br></li><li> Buy perks so you can have more health carry a third weapon or being able to faster reload you weapons<br></li><li> Get an upgrade for your weapon with the G.A.U machine.<br></li><li> <strong>Now to the most important one</strong> Give us the developers feedback so we can make the game better</li></ul><br>But maybe you are one of those people who think that's not enough for you, well if that's the case just add the game to your wishlist, even if could just download the demo right now and could experience the full game with no disadvantages what so ever because maybe you want to look into this game in the future. <br><br><strong>Please understand that this game is being developed by a few developers (3) with no experience in games and we are not able to work on it fulltime</strong>.<br><br>Found some spelling mistakes? You can keep them we won't tell if you won't :).<br>But if you found some bugs please report them here: ",
+    "supported_languages": "英语<strong>*</strong>, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704430/header.jpg?t=1664836739",
+    "developers": [
+      "Maurice Fernitz",
+      "Enrico Prizibilla",
+      "Felix Gillmann"
+    ],
+    "publishers": [
+      "Big Games Productions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

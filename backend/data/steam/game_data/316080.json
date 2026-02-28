@@ -1,0 +1,142 @@
+{
+  "316080": {
+    "name": "Parcel",
+    "steam_appid": 316080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Parcel</strong> is a multi-character cyberpunk puzzle game where your goal is to solve interlocking laser puzzles by using the unique abilities of different characters. The game features over 120 unique puzzles and a level editor. A puzzling future awaits!  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Providing an intellectual challenge like no other, Parcel will make players think and leave them thinking afterwards. The game's story, centered around a 22nd-century postage company, touches on subjects such as post-humanism (pun very much intended) and virtual reality, with the full intent of boggling your minds with questions about the future that we are heading into. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over 120 levels of a puzzling adventure divided into numerous distinct sectors  </p></li><li><p class=\"bb_paragraph\" >Single-player and local co-op - play the entire adventure alone or with up to 4 friends!  </p></li><li><p class=\"bb_paragraph\" >Several unique characters with their own interesting personalities and special powers to help you solve even the hardest challenges - or to complicate things further  </p></li><li><p class=\"bb_paragraph\" >A thought-provoking story about a not-so-unlikely future and its peculiar inhabitants - and a box  </p></li><li><p class=\"bb_paragraph\" >Gorgeous environments with moody, colorful visuals  </p></li><li><p class=\"bb_paragraph\" >An extensive level editor with endless creation possibilities – make your own mind-benders and challenge the world!</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316080/27c15b2f03cc3c2bd08ba9f23236375bdf3de203/header.jpg?t=1770988970",
+    "developers": [
+      "Polar Bunny Ltd"
+    ],
+    "publishers": [
+      "Polar Bunny Ltd",
+      "Adjective Animal"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 300,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 30.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "Employee of the Month",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/0cdb7f999db017abe32c4c1ff0042316e02b9ef0.jpg"
+        },
+        {
+          "name": "You Had One Job",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/81dd7d0d0bda07ff85e3a16947106320a9b83701.jpg"
+        },
+        {
+          "name": "Let There Be Light",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/986b564487671e4d681ddddd63970c9cdb4345a8.jpg"
+        },
+        {
+          "name": "Go Out and Play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/ebfffd62a89534bc4d14c49ec7bc17600793fe6a.jpg"
+        },
+        {
+          "name": "Chick Magnet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/a32acfe087fa18fd548581339969f28c40d5fe4c.jpg"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/4e35d06f980acbc43ad322b175c50b9797d90a08.jpg"
+        },
+        {
+          "name": "Trading Places",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/72f47f3b6479f29cfd015bfc8f984ac723242db8.jpg"
+        },
+        {
+          "name": "Orange Crush",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/07a676badae4a161bec2a6cc796e8cfb77a345dc.jpg"
+        },
+        {
+          "name": "Can't Touch This",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/d63af4cdb982b6131772f59d42fa77c254d41fda.jpg"
+        },
+        {
+          "name": "Leave You All Behind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/316080/cdee1a1e1dc44d19e6efea36a3dc7e631a925a65.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 9,
+      "total_negative": 0,
+      "total_reviews": 9
+    }
+  }
+}

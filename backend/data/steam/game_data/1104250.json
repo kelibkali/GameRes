@@ -1,0 +1,113 @@
+{
+  "1104250": {
+    "name": "Poly Mole",
+    "steam_appid": 1104250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Poly Mole是一个益智游戏，用户必须引导鼹鼠通过各种不同的关卡。在社区中进行游戏，创建自己的游戏或进入比赛挑战自我。</strong><h2 class=\"bb_tag\" >比赛</h2>关卡最高50级，越往上难度越高。即使冰雪聪明，您也需要花点时间。在Poly Mole游戏中掩藏了各种配件，您可以收集起来，装扮自己的鼹鼠。<h2 class=\"bb_tag\" >社区</h2>挑战社区中的等级，表现一下自己的能力吧！也许不会像我们想象中那么容易。社区没有任何阻拦，游戏将会更难。<h2 class=\"bb_tag\" >编辑</h2>创造您的过关记录，分享到社区里面。没有限制！",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1104250/header.jpg?t=1566024812",
+    "developers": [
+      "Haubna"
+    ],
+    "publishers": [
+      "Haubna"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "World 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/66d6961ee759f868150042d37596245e8b7aa91e.jpg"
+        },
+        {
+          "name": "World 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/0c25309be7db163d6a820ea3b169738e7f9de7c8.jpg"
+        },
+        {
+          "name": "World 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/5f39d964d1e7d866028e31004855c2a44dad8862.jpg"
+        },
+        {
+          "name": "World 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/d0ce3f16aec70a6939d93369a9635582fb8f7ab3.jpg"
+        },
+        {
+          "name": "World 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/77119c629c1c5744c89b458aa86b454d1beebaee.jpg"
+        },
+        {
+          "name": "All Hats",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/3390e6dedaed0bac4a2c53ec538a1b3a441cbeb4.jpg"
+        },
+        {
+          "name": "All Moles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/22108bd6a8092204689d934fd80e13ce154b8a17.jpg"
+        },
+        {
+          "name": "Custom Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/0d74616d8bb75934b7af42086011ec9790eed63a.jpg"
+        },
+        {
+          "name": "Upload Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1104250/a40ca2026647cfd802479c6968a6abeb856a3c64.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

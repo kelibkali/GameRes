@@ -1,0 +1,81 @@
+{
+  "1492990": {
+    "name": "Fission",
+    "steam_appid": 1492990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fission是 一 款休闲游戏，您可以控制向前移动的黑暗方块，而您的任务是打破旋转的金色方块。对于每个破碎的金块，您将获得一分。困难在于，在途中会遇到灰色立方体和平行六面体，如果至少遇到其中之一，您将立即迷失方向，必须重新开始。此外，随着时间的流逝，您的速度也会增加，这也会逐渐使游戏复杂化。您可以收集多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-简单的游戏<br />\r\n<br />\r\n-增加游戏难度<br />\r\n<br />\r\n-悦耳的音乐<br />\r\n<br />\r\n-简约的图形",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492990/header.jpg?t=1608306886",
+    "developers": [
+      "kashW"
+    ],
+    "publishers": [
+      "kash gry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "First",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1492990/4d846d176dfba6d4165d6598dd06a920329b9ece.jpg"
+        },
+        {
+          "name": "Handful",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1492990/6df820131b7cf52b57f88dfa8b154c25658d946a.jpg"
+        },
+        {
+          "name": "Pouch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1492990/7abba228aec2a89c453f9bc83600f9df18768898.jpg"
+        },
+        {
+          "name": "Heap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1492990/0403c54f72be26ec27dfd46e2ba28f745d743083.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

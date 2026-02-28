@@ -1,0 +1,93 @@
+{
+  "831090": {
+    "name": "OS:Path",
+    "steam_appid": 831090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Loading core... <br>Success<br><br>Hello <strong>User</strong>, choose a command: <br><strong>objective</strong> - Display game's description<br><strong>features</strong> - Display game's key features list<br><strong>start</strong> - Start the game<h2 class=\"bb_tag\" >[User]&gt; objective</h2> You have to determine the cause of a program's critical error and restore its modules by playing mini games and solving puzzles while using the console.<h2 class=\"bb_tag\" >[User]&gt; features</h2> Small but tricky indie game to spend your evening on playing. <br>Game contains:<br><ul class=\"bb_ul\"><li> Console simulation<br></li><li> Interesting story<br></li><li> Logical mini-games for restoring modules and subsystems<br></li><li> One more cool feature, but that's a spoiler</li></ul> If you found a bug or you want to help me translate the game into other languages, please contact me on Twitter or Steam forum. <br>GooDCrafter<h2 class=\"bb_tag\" >[User]&gt; start</h2>",
+    "supported_languages": "英语, 俄语, 德语, 荷兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/831090/header.jpg?t=1573001223",
+    "developers": [
+      "GooDCrafter"
+    ],
+    "publishers": [
+      "GooDCrafter"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "User-4297",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/831090/ccac3fd8263f6fa406f69a2926a222252ef4cd99.jpg"
+        },
+        {
+          "name": "Unexpected twist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/831090/70d89cf4d435e8eacacee8f63608079a3a10c887.jpg"
+        },
+        {
+          "name": "Console master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/831090/7af509f248aa23b1aa19b20423b96127b5c542a8.jpg"
+        },
+        {
+          "name": "Illuminati",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/831090/51e76dfe278e2c54f419e22f020bb91509680896.jpg"
+        },
+        {
+          "name": "True engineer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/831090/11595365888141787310d83e1110fca17cfc76bc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

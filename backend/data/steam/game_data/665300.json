@@ -1,0 +1,73 @@
+{
+  "665300": {
+    "name": "Stream Avatars",
+    "steam_appid": 665300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Google和社区成员提供的翻译</h2><br><strong>Stream Avatars</strong> is an interactive overlay for live broadcasters on <strong>Twitch, Mixer, and Youtube</strong>. Your viewers can knock each other off the screen with <strong>punches, bombs</strong>, or a<strong> duel show match</strong> where the winner takes all! <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/extras/726848eae565f54438b9492fa88cd130.poster.avif?t=1758468867\" width=628 height=274 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/extras/726848eae565f54438b9492fa88cd130.webm?t=1758468867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/extras/726848eae565f54438b9492fa88cd130.mp4?t=1758468867\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/extras/ba1a5a9f03544586bfe41742e572e518.poster.avif?t=1758468867\" width=627 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/extras/ba1a5a9f03544586bfe41742e572e518.webm?t=1758468867\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >Unleash Your Creativity! </h2>You can create your own avatars, equipment, and name tags to fit the theme of your stream. <br>If creativity is not your strong suit, download some community-made Avatars from the Steam workshop!<h2 class=\"bb_tag\" >Currency Integrations</h2><strong>Mixitup, Streamlabs, &amp; Stream Elements</strong><h2 class=\"bb_tag\" >Disclaimers</h2><ul class=\"bb_ul\"><li>If you are using a Dual PC setup requires Stream Avatars on a secondary steam account for the streaming machine. Family Sharing is not possible for Software on steam.<br></li><li>Youtube Gaming integration does not have support for Followers and Subscriptions settings.<br></li><li>Mac OSX Mojave cannot do Game Captures, you must use window capture, which is not optimal.</li></ul><h2 class=\"bb_tag\" >Support / Contact / Help</h2>Website: <br>Support is Discord: <br><br>Commands: After you connect, Type: !commands<br><br>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/665300/header.jpg?t=1758468867",
+    "developers": [
+      "Travis Miller"
+    ],
+    "publishers": [
+      "Travis Miller"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

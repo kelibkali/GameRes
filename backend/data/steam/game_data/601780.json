@@ -1,0 +1,44 @@
+{
+  "601780": {
+    "name": "VoiceWarrior",
+    "steam_appid": 601780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Take command of your game using your voice to execute complex or repetitive actions. VoiceWarrior lets you build simple or complex macros that will execute at the sound of your voice. Don't worry about remembering whether your fire spell is assigned to Ctrl-F3 or Ctrl-Alt-F3. Just say &quot;Cast Fire&quot; - or better yet, say &quot;I summon the flame of Anor!&quot;<h2 class=\"bb_tag\" >Modes</h2><ul class=\"bb_ul\"><li>Command Prefix: Similar in function to &quot;OK Google&quot; or &quot;Hey Siri&quot;, you can customize VoiceWarrior to listen for a key word or phrase before any command. Good examples might be &quot;VoiceWarrior&quot; (the default), &quot;Computer&quot;, &quot;Command&quot;, &quot;Sally&quot;, &quot;Bob&quot;, &quot;Okay then&quot;, &quot;Execute&quot;... So &quot;Execute Quick Escape&quot; would run your quick escape macro.<br></li><li>Always On: In the heat of battle, keywords can get annoyingly repetitive. If you go full tilt voice control, you aren't going to want to beg &quot;Sally&quot; or &quot;Bob&quot; to do your bidding ten times a miniute. &quot;Always On&quot; is the way to go if you intend to rain down verbal supremacy on your foes.<br></li><li>Push to Talk: If you also use a chat program that supports push to talk, you can keep your complaining and your commands on seperate channels by using a different Push to Talk key for each purpose.</li></ul><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Text to speech feedback: You say &quot;Prepare for battle&quot;, all of your party buff spells are cast, and then you hear &quot;Your companions seems stronger now.&quot;<br></li><li>Custom music playback: As soons as you hear &quot;Your companions seem stronger now&quot;, your music changes to your chosen battle anthem. We are partial to Pantera's Vulger Display of Power albulm.<br></li><li>Custom Sound Effects: You say &quot;Fire Phasers&quot;, and you hear a clip of Scotty saying &quot;Aye Captain&quot;. Or maybe you say &quot;Teleport Home&quot; and you hear dorothy say &quot;There's no place like home&quot;. Your imagination is the only limit here. The internet has every sound clip you can imagine.<br></li><li>Tags: Tag your commands with mutiple categories. For example, put your &quot;Fireball&quot; command in the Battle, Offense, and Spells categories.<br></li><li>Command Management: Enable or disable single commands or entire cagegories from a macro. For example you can have one set of commands for Battle, another for exploring, and yet another for PVP. &quot;Cast Buffs&quot; might mean something different in each scenario. You could also setup a category for your game's menu system, and activate it using a command that disables all other command categories.<br></li><li>Sub Commands: No need to define macros over and over again to include the same functions in another macro. Have your &quot;Fire Everything&quot; command call &quot;Fire Phasers&quot;, &quot;Fire Photo Torpedos&quot;, and &quot;Reinforce Forward Shields&quot;.<br></li><li>System Profile: You can configure a system profile of commands that are always loaded in addition to the current loaded profile.<br></li><li>Named Profiles: Using the system profile, you can setup profile load commands to open specific profiles. &quot;Voicewarrior load profile for VR&quot;, &quot;VoiceWarrior load profile for Minecraft&quot;<br></li><li>Virtual Reality: While there is nothing specifically VR about VoiceWarrior from a technical perspective, headsets with microphones go with VR like peanut butter goes with jelly. One thing that seems to be more difficult than it should is moving from the Oculus Store to Steam (where all your paid apps are, right?). So then, you can see how it would be great if you could have VoiceWarrior launch Steam in VR Mode. Just sayin'...</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601780/header.jpg?t=1514694831",
+    "developers": [
+      "DevPossible"
+    ],
+    "publishers": [
+      "DevPossible"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 20 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1083090": {
+    "name": "SpaceEngine - Moon HD",
+    "steam_appid": 1083090,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This Moon HD DLC (addon) contains high-resolution textures for the Moon. It improves the level of detail of the lunar surface compared to the default SpaceEngine installation.<br><br><strong>Credits:</strong><br>Made by <strong>Klud's</strong>.<br>LOLA Science Team at NASA Goddard Space Flight Center, Greenbelt, MD. <br>NASA/GSFC/Arizona State University provided data accessed via Lunaserv WMS<br><br><strong>Source data:</strong><br>Elevation map: LRO DEM 2015 release (sldem2015_128 and ldem_128).<br>Image resolution: 92160x46080.<br>Effective resolution: 0.118 km/pix.<br><br>Surface albedo map: Boyd/Robinson WAC Normalized Reflectance (643nm), colorized by maps in 643nm, 566nm, 415nm.<br>Image resolution: 109164x54582.<br>Effective resolution: 0.1 km/pix.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083090/header.jpg?t=1649210956",
+    "developers": [
+      "Cosmographic Software"
+    ],
+    "publishers": [
+      "Cosmographic Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "416770": {
+    "name": "SquareCells",
+    "steam_appid": 416770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SquareCells is an ambient logic puzzle game.<br />\r\n<br />\r\nReveal the pattern in the grid using the surrounding clues.<br />\r\n<br />\r\nIncludes 36 brain teasing puzzles.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/416770/header.jpg?t=1667313768",
+    "developers": [
+      "Matthew Brown"
+    ],
+    "publishers": [
+      "Matthew Brown"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "World 1 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/7c49c6099826eefd4cfcab5bbd96309cff20edbf.jpg"
+        },
+        {
+          "name": "World 2 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/9892193578218a431db403e734fe91ef6ff13c57.jpg"
+        },
+        {
+          "name": "World 3 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/4a291346d264134fbaa924414da8399f9e284d43.jpg"
+        },
+        {
+          "name": "World 4 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/ac930a33e805913208f82aac60bbcd595aa54852.jpg"
+        },
+        {
+          "name": "World 5 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/329bab0199e3af46c2371b6f78c19a597beb6893.jpg"
+        },
+        {
+          "name": "World 6 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/aacc00d5809f27f842de42bc10f1ab5bb09d31e6.jpg"
+        },
+        {
+          "name": "Perfectionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/416770/b91d9e857e0b14123f133e058b61b89ba55d21ab.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 155,
+      "total_negative": 14,
+      "total_reviews": 169
+    }
+  }
+}

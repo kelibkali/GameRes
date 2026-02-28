@@ -1,0 +1,73 @@
+{
+  "1287370": {
+    "name": "Colorful Snake",
+    "steam_appid": 1287370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款另类的游戏，主角从开始的虚无中开始对五种颜色产生无限兴趣，从而开始了一场不可思议的神奇之旅。从开始的吞食各个颜色球，不断获取得分，积极升级、并打败各种各样的怪物；再到发现各种颜色的神奇功能，红色代表力量，能产生无比强大的破坏力量；最后发现新大陆，每块新大陆又与各种颜色相互联系，产生各种奇妙的化学反应，当然还有每段冒险都少不了的关主，你可能还能发现些什么，你还在等什么，赶紧开始神秘的冒险吧！<br />\r\n\t从开始构思这个游戏是本着从最简单的步骤开始，好让我能更快地进入项目状态，所以用了几个颜色直接开始了基本元素设计。然后将基本功能跟消除功能实现了。加入分数机制及算法。完成之后又有几个新的想法跳了出来，开始了道具的设计，从简单的实际道具，又扩展到了各种物品，合成材料、配方，物品的升级机制。然后在玩法上也出来了好几个想法，从简单障碍到迷宫，再到关卡设计。渐渐完成了这个比较另类的作品！<br />\r\n<br />\r\n游戏简介：<br />\r\n\t游戏主要有三大模式，蛇模式、rpg模式、平台模式。其中分数是游戏的基础，分数归零则游戏结束，同时等级升级、购买道具物品、挑战BOSS也是需要分数。当达到特定等级时，主角更可以蜕皮。游戏自动存档，且一些特殊场景无法存档。有装备系统，武器系统。饰品可以合成并升级。这些特殊装备可以更好地帮助你进行游戏。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287370/header.jpg?t=1667010266",
+    "developers": [
+      "langzat"
+    ],
+    "publishers": [
+      "langzat"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

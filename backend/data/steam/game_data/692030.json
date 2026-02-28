@@ -1,0 +1,129 @@
+{
+  "692030": {
+    "name": "Tennis World Tour",
+    "steam_appid": 692030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>网球巨星</strong><br>• 以世界前 30 名最佳球员之一的角色游玩：罗杰·费德勒、安洁莉克·克伯、斯坦·瓦林卡以及许多体育传奇。<br><br><strong>完美再现的移动方式</strong><br>• 逼真的动画、以动作捕捉技术精心重制的动作、能帮助你学习现代网球的各种击球方式：切球、高吊球、上旋球……以及其他。<br><br><strong>各种比赛地面</strong><br>• 18 种球场：硬地、泥地、草地、地毯甚至是硬木。每种地面都会影响比赛条件。<br><br><strong>完整的生涯模式</strong><br>• 创建你的球员，体验专业选手杰出的职业生涯：进行训练、锦标赛、人员管理、装备购买……等等。<br><br><strong>无与伦比的战术维度</strong><br>• 决定每场比赛该使用何种策略，用你的技能卡击败对手。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语, 西班牙语 - 西班牙, 简体中文, 繁体中文, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692030/header.jpg?t=1725352509",
+    "developers": [
+      "Breakpoint"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9000,
+      "final": 9000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 90.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "这是给我的？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/8edc5ff337c36fb704304e5b22624b1fb113364b.jpg"
+        },
+        {
+          "name": "闪闪发光",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/672880fe8f577a212193b2c1fb6911e5653c3993.jpg"
+        },
+        {
+          "name": "这只不过是个开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/6af358834c3d5a0d599371083f6376687bdef0a3.jpg"
+        },
+        {
+          "name": "一位教练都不要错过！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/dc98330a98d165f90bbc8ae5a1df024293701e5c.jpg"
+        },
+        {
+          "name": "勤勉不懈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/cb74b5b788e51a0037a052814dac5c9e204cb96a.jpg"
+        },
+        {
+          "name": "良好陪伴",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/8c355044809c391e9d219264d61866f19ec4ad00.jpg"
+        },
+        {
+          "name": "出入相随",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/c008c6da99586763760ffee43719055e2ac4d6aa.jpg"
+        },
+        {
+          "name": "袖上王牌",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/91f00ad803578db6919c3b92c5b07f7fcfbae884.jpg"
+        },
+        {
+          "name": "策略家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/b34535c28bf02c19be9f237dd3dc45d96320a0ca.jpg"
+        },
+        {
+          "name": "技术大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/692030/cd0a734aafc9c5e9ac8ff10c13fa39bd82eadd1b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 24,
+      "total_negative": 47,
+      "total_reviews": 71
+    }
+  }
+}

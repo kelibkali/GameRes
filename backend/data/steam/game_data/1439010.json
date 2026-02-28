@@ -1,0 +1,113 @@
+{
+  "1439010": {
+    "name": "键盘魅影",
+    "steam_appid": 1439010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "全国第一款中文打字游戏上线啦 ━━(ﾟ∀ﾟ)━━!!<h2 class=\"bb_tag\" >简介</h2><br>键盘魅影是一个中打游戏。正确的输入掉落的汉字以取得高分，同时避免汉字堆叠过高。可以挑战不同的难度及模式！<h2 class=\"bb_tag\" >玩法</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439010/extras/1765ca8effcfb9593b20d1c7a9a62332.poster.avif?t=1626250852\" width=600 height=314 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439010/extras/1765ca8effcfb9593b20d1c7a9a62332.webm?t=1626250852\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439010/extras/1765ca8effcfb9593b20d1c7a9a62332.mp4?t=1626250852\" type=\"video/mp4\"></video></span><br><br>1. 文字方块会从上方落下<br>2. 输入正确的中文消除文字方块<br>3. 如果文字方块叠到顶端，就失败了<br>4. 正确且快速的输入以取得高分<br>5. 游玩各种模式以体验不同规则<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>自订难度、模式<br>设定符合需求的字词难度及速度，或是体验多样的模式<br></li><li>汉字意义、发音查询<br>收录35748个字，包含发音、意义及其unicode编码<br></li><li>历史记录<br>完整记录游戏数据，分析打字正确率和速度<br></li><li>线上排名<br></li><li>成就</li></ul><br>故事模式及其他功能将会在early access期间更新！",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439010/header.jpg?t=1626250852",
+    "developers": [
+      "Wysiwyg Interactive"
+    ],
+    "publishers": [
+      "Wysiwyg Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1450,
+      "final": 1450,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 14.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "你好",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/cbc121ca56053c5838c21190df56e5a3f45165a3.jpg"
+        },
+        {
+          "name": "牛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/3ef95b0a83338b15b239836c2d2974d5069509c1.jpg"
+        },
+        {
+          "name": "虎",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/90207029406cf05973cf7486656a26571d035944.jpg"
+        },
+        {
+          "name": "兔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/dadc0a12235c6dc0ef9afb48fa3e7dc524d368b4.jpg"
+        },
+        {
+          "name": "龙",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/476052b00c7a86aa6fbc7484d47ffd618d559961.jpg"
+        },
+        {
+          "name": "蛇",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/a75c80a26981459429ac71ff42eb45f22815dcd1.jpg"
+        },
+        {
+          "name": "羊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/c9ebe6c6bdbd43188197abdd049236915400dbc1.jpg"
+        },
+        {
+          "name": "鸡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/69db12fa1a0d906581d0c43fdbd3dd958acf3807.jpg"
+        },
+        {
+          "name": "猪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/a6b0865b442a3dd89969751c65b969197ad7dc37.jpg"
+        },
+        {
+          "name": "华丽谢幕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1439010/f35b92e5ec040f68fd7c171cbf8b53c1bea128f4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "1448000": {
+    "name": "迷离诡夜 blurred weird night",
+    "steam_appid": 1448000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >仅一个人开发,将不定期更新!   有问题请加QQ群140130929解决</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >加强版游戏介绍:</p><p class=\"bb_paragraph\" >给老板送个盒子,没想到被困凶宅,</p><p class=\"bb_paragraph\" >被大胸女鬼和电锯男追杀,  </p><p class=\"bb_paragraph\" >有几个漂亮的女孩子被困住了,非常危险,</p><p class=\"bb_paragraph\" >你要救她们,还是选择自己一个人逃离?</p><p class=\"bb_paragraph\" > 不同的选择走向不同的结果,</p><p class=\"bb_paragraph\" >我以为是喜剧,实际是悲剧, 有机会回到过去,改变遗憾终身的事.</p><p class=\"bb_paragraph\" > 你会去拼命吗? (含故事模式和僵尸模式)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >游戏特点： </p><p class=\"bb_paragraph\" >　　- 香港搞笑恐怖片风格,让胆小的玩家也能玩下去. </p><p class=\"bb_paragraph\" >　　- 带有恋爱要素的神奇冒险,最多有5位美女可以发展感情噢!! </p><p class=\"bb_paragraph\" >　　- 穿越回90年代常见的的亲切3D场景, </p><p class=\"bb_paragraph\" >       - 超过12个性格迥异的人物登场,还能获得小姐姐的好感噢 </p><p class=\"bb_paragraph\" >       - 玩家的行为能改变剧情的发展,合计7个结局+一个坏结局. </p><p class=\"bb_paragraph\" >　　- 两种玩法: 无武器的剧情模式, 和使用枪械的僵尸模式.</p><p class=\"bb_paragraph\" >       - 由B站网友或主播无偿进行配音,上千对白为你揭开谜底 </p><p class=\"bb_paragraph\" >       - 长达7年的制作时间,故事模式7小时,僵尸模式3小时的游戏时长,量大管饱. </p><p class=\"bb_paragraph\" >　　- 仅由一人自学开发(贫穷的开发组)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >获奖情况: bilibili独游之星海选第一名</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >已知问题和解决办法: </p><p class=\"bb_paragraph\" >1, 用鼠标操作请拔掉手柄或蓝牙发射器. </p><p class=\"bb_paragraph\" >2,闪退请加系统大虚拟内存, </p><p class=\"bb_paragraph\" >3, 找不到SAVE的解决办法: </p><p class=\"bb_paragraph\" >少数人发生刷不出存档的问题,请在STEAM选浏览本地文件</p><p class=\"bb_paragraph\" >打开BlurredWeirdNight_DatadataSavedGame文件夹,</p><p class=\"bb_paragraph\" >把存档全部移动到其他文件夹备份</p><p class=\"bb_paragraph\" >只保留最后一个编号的存档(一般存档大小为460K ,如果有0K的存档直接删除)</p><p class=\"bb_paragraph\" >比如最后的存档是Save68.sav 改名为Save0.sav</p><p class=\"bb_paragraph\" >(.sav是后缀名,部分系统不显示,那就只改为Save0)</p><p class=\"bb_paragraph\" >重新进游戏就可以读取成功.     </p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 葡萄牙语 - 葡萄牙<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448000/header.jpg?t=1771585234",
+    "developers": [
+      "QSN"
+    ],
+    "publishers": [
+      "QSN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 204,
+      "total_negative": 39,
+      "total_reviews": 243
+    }
+  }
+}

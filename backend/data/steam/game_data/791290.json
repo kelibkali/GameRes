@@ -1,0 +1,97 @@
+{
+  "791290": {
+    "name": "Space Ball",
+    "steam_appid": 791290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Space Ball》 太空球/空间球 是一款休闲冒险小游戏.<br>在这个游戏中，你需要控制小球穿过重重困难，收集一路上的金币，并到达终点。<h2 class=\"bb_tag\" >游戏控制</h2>只需要简单的鼠标+键盘移动按键.<br>也支持Xbox控制器控制.<h2 class=\"bb_tag\" >游戏特色</h2>+多达10关关卡 并会持续增加.<br>+自定义小球的能力和装饰.<br>+收集箱子 挑战最快的时间.",
+    "supported_languages": "简体中文, 英语, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791290/header.jpg?t=1522450820",
+    "developers": [
+      "Heaven Bot"
+    ],
+    "publishers": [
+      "Heaven Bot"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "进入Space Ball！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/791290/9f37d7225a411e2242984875385206694ceb8858.jpg"
+        },
+        {
+          "name": "第五关！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/791290/5754f75969ea725f921f170ca3ee0ba3bb793d18.jpg"
+        },
+        {
+          "name": "第十关！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/791290/916547544af89b9a77a2dabcfd7ea2e1f49a7e56.jpg"
+        },
+        {
+          "name": "坏人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/791290/f2813a69596d0da78a6953c8464d2c87722f4872.jpg"
+        },
+        {
+          "name": "这一次你把它烧了。",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/791290/8222d5f6fe8e838bb1e2058beb940a5f28b48658.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

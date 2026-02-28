@@ -1,0 +1,98 @@
+{
+  "1432430": {
+    "name": "Rixer",
+    "steam_appid": 1432430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Rixer is an in-development 6 degrees of freedom space combat sim. Battle it out in different PvP game modes with bot support and compete in high speed races. Rixer is still a work in progress and being created by a tiny dev team of two people, you can follow our development on discord and watch the game come together. Input from the community is extremely important during this development phase now that we have a polished prototype. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Join our discord in the sidebar links to chat with the community and devs about this and other 6dof space games.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" >Ships have a flight model with speed capped newtonian physics, a pilot gforce simulation, energy and heat management, and options for 4 different subsystems.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Purpose built netcode specialized for 6dof space games provides a solid multiplayer experience even at high speeds and with fast projectiles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Choose from 4+ different ships and 30+ weapons and deployables each with unique interactions and gameplay.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Subsystems on each ship can be swapped out for different gameplay styles. Shunts let you pre-empt the flow of combat lean into different ship systems, injectors let you time key moments to boost key systems, balancing fast uses or more efficient uses that build up over time. Stealth lets you disable specific ship systems for more.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Design Focus</h2><p class=\"bb_paragraph\" >We have a design focus on rewarding skill expression, easy to learn but with detailed deep mechanics if you want to look closer. Good maneuvering is rewarded with landing hits consistently, as well as evading your opponent's projectiles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use your choice of input devices, with the usual space sim kit supported including full binding for joystick, HOTAS and freetrack support.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Game Types</h2><p class=\"bb_paragraph\" >Primary multiplayer game types include Plant the Bomb, Elimination and Free for all. Included are also multiplayer racing, wave survival and other miscellaneous game types to try, with a current target player count of 8v8. Get cosmetic ranks and and rewards for every kill and XP for your accomplishments and matches</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Modding</h2><p class=\"bb_paragraph\" >If you like modding games and want to mess with the game's internals, you can customize the game's flight model and weaponry on a live multiplayer server with easily accessed stat editors. Game types, NPCs AI skill tiers, drones, deployables, and structures are editable as well, with separate AI editors and a map editor present, all of which can be used collaboratively in multiplayer if you're hosting your own server.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Future plans</h2><p class=\"bb_paragraph\" >All of what's mentioned so far is already completed, and there's much more to come. While the game is in active development we plan to introduce additional ship customization and loadouts, dedicated singleplayer content, leaderboards and more, and our goals are likely to evolve with community input.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432430/header.jpg?t=1735884108",
+    "developers": [
+      "Headglitch Games"
+    ],
+    "publishers": [
+      "Headglitch Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

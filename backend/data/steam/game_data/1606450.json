@@ -1,0 +1,105 @@
+{
+  "1606450": {
+    "name": "BunnyShot",
+    "steam_appid": 1606450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You are the Easter Bunny! Shoot eggs of the same color to clear the playing field and go to the next level. Your task is to get the maximum number of points and save the chickens. But be careful: different baskets give different points and your throws are limited, so use them wisely.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606450/header.jpg?t=1698509277",
+    "developers": [
+      "NikiGames"
+    ],
+    "publishers": [
+      "NikiGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Win!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/0ab283ea5c42002fdc868ccf59e4e9e075e2f922.jpg"
+        },
+        {
+          "name": "Fire combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/bcf29691fe59cedabf3a47b659655b85dbc48655.jpg"
+        },
+        {
+          "name": "Still left",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/0ba372768457339120b1a1c37292c9a3527af554.jpg"
+        },
+        {
+          "name": "He's free!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/59d4fdb8bec25f712e024d210336eef93c20d6da.jpg"
+        },
+        {
+          "name": "One star is good",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/512d7cf09fbb373790b265eaeada51c345083308.jpg"
+        },
+        {
+          "name": "Two stars are better",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/cef02c747df100f2ca032d01fcd3777cd514f8dc.jpg"
+        },
+        {
+          "name": "Three stars are even better",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/ea8f6cdb5541e65547e4425c52c4c9d8cc85d9bb.jpg"
+        },
+        {
+          "name": "10,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/7b95f4e5264991c4ddca8e0ce2c569bf8617a004.jpg"
+        },
+        {
+          "name": "13,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/493111bd68bec9f1fb9f6d71ca67a0f6683ea76f.jpg"
+        },
+        {
+          "name": "15,000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606450/2ab9350ac7727c895aa1da5c93a8486d281d4776.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "650840": {
+    "name": "AppGameKit Classic - Visual Editor",
+    "steam_appid": 650840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Updated in April with new features!</h2><i>TheGameCreators policy is to keep improving our applications and DLCs.</i><br><br>The <strong>AppGameKit Classic Visual Editor</strong> helps you design your apps faster and easier! Its new drag &amp; drop tool takes away the guess work when it comes to 2D object placement, scaling and rotation.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Easily design your app scenes<br></li><li>Position, scale and rotate objects<br></li><li>Supports Sprites, Text, Edit Boxes, Particles and Virtual Buttons<br></li><li>Set properties of objects (transparency, colour, physics, etc)<br></li><li>Multiple resolution support<br></li><li>Define as many scenes as you want per project<br></li><li>Exports AppGameKit Tier 1 Source Code<br></li><li>Integrates with the AppGameKit IDE</li></ul><h2 class=\"bb_tag\" >How the AppGameKit Classic Visual Editor Works</h2><br><strong>The Media</strong><br>Visual Editor imports your projects media files and allows you to drag &amp; drop them into the main editor window. From there you can visually modify the media with controls to re-position, scale, rotate, set properties, duplicate and more.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650840/extras/2b61193c92233b4e09201d88f3b6aca2.avif?t=1717091576\" width=640 height=360 /></span><br><br><strong>Setting Object Properties</strong><br>Visual Editor provides an easy way for object properties to be set up. You simply click on an object and its current properties will be displayed; you're then able to easily change any of the starting values for that object.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650840/extras/fe1a87b208bd3ed2a3ba9b6426feb2d6.avif?t=1717091576\" width=266 height=380 /></span><br><br>The sprite properties you can configure are:<br><ul class=\"bb_ul\"><li>Depth<br></li><li>Visible<br></li><li>Flip Vertical<br></li><li>Flip Horizontal<br></li><li>Colour<br></li><li>Alpha<br></li><li>Physics - 9 settings<br></li><li>Collision Shape<br></li><li>Animation<br></li><li>Custom values</li></ul><br>You can also add in Text and Edit Box objects.<br><br><strong>Multiple Scenes</strong><br>Most apps will have more than one game scene (main menu, game play, game over, high score, etc). This is where the Visual Editor scene manager helps you. Simply choose a scene and design the items that need to appear within it.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650840/extras/6352d45aa462ac4986a3624f213fe4f2.avif?t=1717091576\" width=640 height=360 /></span><br><br><strong>Cross Device Testing</strong><br>With the multiple resolution support you can preview how your app will look on different devices that have varying resolutions and aspect ratios. You choose a base resolution and from that the Visual Editor will re-scale and re-position your sprites across the various, different resolutions. You can also make adjustments in any resolution to ensure your app looks the best on any device.<br><br><strong>Exporting and testing</strong><br>The AppGameKit Classic Visual Editor integrates with the Tier 1 IDE allowing you to instantly test your visual projects. A project file is exported which you can then modify with your own code to bring your game logic to life. For Tier2 C++ developers a template project is provided.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650840/extras/7093b5d422cdd251e40b17241150167a.avif?t=1717091576\" width=640 height=364 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650840/header.jpg?t=1717091576",
+    "developers": [
+      "TheGameCreators"
+    ],
+    "publishers": [
+      "TheGameCreators"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

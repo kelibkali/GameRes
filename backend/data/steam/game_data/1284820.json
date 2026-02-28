@@ -1,0 +1,73 @@
+{
+  "1284820": {
+    "name": "Desktop Kanojo",
+    "steam_appid": 1284820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >介绍</h2>这是一个桌面吉祥物，可以放置在你电脑桌面的任何位置，给你的桌面带来更多的乐趣。 <br><br>角色有多套服装变换并且可以使用鼠标点击来跟角色进行更多的互动。<br>角色一些部位具有物理效果，可以在移动的时候模拟抖动。<br>角色可以自由的移动，旋转和缩放。<br>玩家还可以导入本地的自定义模型，来生成新的属于玩家自己的桌面小伙伴。<br>游戏支持创意工坊，你可以上传分享你喜爱的模型，或者是订阅下载别人的模型来生成你喜欢的桌面角色。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>可爱的桌面吉祥物<br></li><li>点击互动+自主互动<br></li><li>自由移动、旋转和缩放<br></li><li>包含四十多种动作和三十句中日双语语言包<br></li><li>多套衣服换装<br></li><li>拥有物理抖动效果<br></li><li>闹钟功能，鼠标镜头跟随<br></li><li>可导入本地模型（需要VRM格式的模型文件）<br></li><li>创意工坊支持模型，动作，语音上传，让您拥有更多的选择，动作和语音可进行关联绑定！<br></li><li>多显示器支持</li></ul><br>游戏黑屏解决如下：<br>1.请打开DVIDIA面板，选择左方的【管理3D设置】<br>2.右方里的【多帧采样AA（MFAA）】和【平滑处理-FXAA】这2个选项改为【关】<br>3.应用关闭，重启游戏即可解决游戏黑屏的情况。<br><br><br>使用小技巧：<br>1.双击模型可以快速停止当前动作",
+    "supported_languages": "英语, 简体中文<strong>*</strong>, 日语<strong>*</strong>, 繁体中文, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284820/header.jpg?t=1736386799",
+    "developers": [
+      "Neko Game"
+    ],
+    "publishers": [
+      "Neko Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 471,
+      "total_negative": 98,
+      "total_reviews": 569
+    }
+  }
+}

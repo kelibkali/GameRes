@@ -1,0 +1,46 @@
+{
+  "625290": {
+    "name": "AVOlight.Space (Multi-Screen Media Player) Demo",
+    "steam_appid": 625290,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Surround yourself with multiple video players.<br>Try it out to see how it runs and what’s currently supported; if a feature you want isn't there, I hope you check back later.<br><br>Controls<br><ul class=\"bb_ul\"><li>Trigger: <br><ul class=\"bb_ul\"><li>Select and Show/Hide UI<br></li><li>Point at a video and drag to scrub the timeline</li></ul></li><li>Grip: Drag screen<br></li><li>Trigger + Grip: Drag UI from screen<br></li><li>SteamVR Trackpad Button || Oculus Button A or X<br><ul class=\"bb_ul\"><li>Create, Clone, and Close a screen<br><ul class=\"bb_ul\"><li>Create: point at nothing and press<br></li><li>Clone: drag screen and press<br></li><li>Close: point at screen and hold down until closed</li></ul></li></ul></li><li>SteamVR Menu Button || Oculus Thumbstick Button<br><ul class=\"bb_ul\"><li>Recenter</li></ul></li></ul><br>Right now there are way too many ideas and not enough development resources, so if you do review please add any thoughts on where you think resources should go first. <br><br>Questions? Issues? Feedback? <br>private: <a href=\"mailto:support@AVOlight.com\">support@AVOlight.com</a><br>public: <br><br><br>Visit pixabay to find the source videos and images featured in the screenshots and trailer",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625290/header.jpg?t=1534194590",
+    "developers": [
+      "AVOlight"
+    ],
+    "publishers": [
+      "AVOlight"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 4 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

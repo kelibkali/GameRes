@@ -1,0 +1,105 @@
+{
+  "747540": {
+    "name": "AcChen - Tile matching the Arcade way",
+    "steam_appid": 747540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AcChen is a simple to learn, arcade style 'find the matching tile' game. Master the 60 different level and various bonus maps in the single player campaign. <br>Unlock new levels by beating the clock or play in 'chill mode' without any pressure: no timer, no score just happy tile hunting ( but also no level unlocking ).<h2 class=\"bb_tag\" >Feature list</h2><br><ul class=\"bb_ul\"><li> fast arcade style 'find the matching tile' game<br></li><li> two game modes: arcade and 'chill' mode<br></li><li> 60 levels + various bonus maps<br></li><li> 3 different bonus level types: fill the board, spot the match, find the match<br></li><li> three relaxing sound tracks<br></li><li> Steam Leaderboard<br></li><li> 8 unlock-able achievements</li></ul><h2 class=\"bb_tag\" >Rules</h2><br>Clear the board by finding two items with identical symbols. The tiles will disappear when you can 'connect' them with a line, which has two or less corners ( right angles ) in it and no other part is blocking the way. Advance to the next level by clearing the board. If you run out of time before you finish a map, you lose.<br><br>A map can contain tiles in up to 3 layers. You might combine tiles of different layers. If you pick one tile from the top layer and one from the bottom layer, only tiles on the top layer block the way.<br><br>In general: if you pick items from different layers, the upper most selected items layer is used for the search algorithm. Sounds difficult but if you give it a try, you will figure in no time... ;)<br><br>Tiles with the same symbol might be located on top of each other. So the fastest pick is not always the best.<h2 class=\"bb_tag\" >Bonus Level</h2><br>Every 3rd level you play is a bonus level. There are three different types of bonus level:<br><br>1.) You start with 4 tiles and have to fill up the map. Every time you remove a pair, 4 new tiles will appear. <br>2.) Two visible tiles swap its places quickly for several times. Spot the last position.<br>3.) Classic 'find a matching pair' on the turned deck.<br><br>If you manage to complete a bonus level, you receive a 100 point bonus. If the time runs out, you advance to the next level. After finishing a bonus level you receive an extra Hint-Item ( see below ). If you are not up for bonuses, you can skip the bonus level.<h2 class=\"bb_tag\" >Special Items</h2><br><strong>Solid Tiles</strong><br>Solid tiles cannot be removed.<br><br><strong>Yin Yang</strong><br>If you pick a pair of Yin Yang the next picked symbol will disappear from the current map. If the Yin Yang is the last pair you pick, you can use this special on the next map.<br><br><strong>Time Bonus Item</strong><br>From time to time animated hourglasses appear on a symbol for a few seconds. If you manage to remove this item you receive 15 extra seconds.<br><br><strong>Hint Item</strong><br>If you need a hint during the game, tap the Hint Item. If available, a matching pair will be selected. It will disappear if you tap on it. After finishing a Bonus Level you receive an extra Hint Item. You can collect up to 3 Hint Items.<br><br><strong>Scoring</strong><br>The first successful pick scores 0 points. The next pick within 3 seconds, scores 4 points, within 5 seconds 2 point. After finishing a level, the remaining time is added to you score.<br><br><strong>Highscore and Achievements</strong><br>AcChen uses Steams Leaderboard - you can share your score with players around the world. Discover the 8 unlock-able achievements.<br><br><strong>Game History</strong><br>In the early 90s I played a game called 'Match It' at the local Arcade - I spent quite some coins on it :o. A few years later three friends and me picked up the game mechanics. We coded a version for the Atari ST and Amiga. The game-play was extended in may ways. It was released under the name 'Sarakon'. The game was programmed in 68k assembler. After I got a NEXTSTATION I did rewrite the game and released it under the name AcChen. Over the time I did also port it to the NintendoDS, iOS and OSX.<br><br>Have fun :)",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747540/header.jpg?t=1667049384",
+    "developers": [
+      "Stefan Preuss"
+    ],
+    "publishers": [
+      "Stefan Preuss"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Score '2' Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/7ae400edc2be73539beb4eb12b6a5a019d189f8b.jpg"
+        },
+        {
+          "name": "Score '4' Combo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/fc15cbc33e66c0dda321937c2e8883fd548d70c9.jpg"
+        },
+        {
+          "name": "Time Machine",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/569ca97d88eb0ea181dc5bad1289695003519ccb.jpg"
+        },
+        {
+          "name": "Layer By Layer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/a2b44f5793f392e95268d22634ab922414beb0fb.jpg"
+        },
+        {
+          "name": "Yin Yang Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/7839803e91704a93f793333ad59d7191e69c301a.jpg"
+        },
+        {
+          "name": "Bonus Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/c792265fee5a4e08d7e7792f37d88ba3ab4c2e33.jpg"
+        },
+        {
+          "name": "Finish Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/0b05943c65a9003e990bbfee3d8dfded27c637fb.jpg"
+        },
+        {
+          "name": "Time Machine 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/747540/a75850597f1150af0f68f37a79a2487eb962a55a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

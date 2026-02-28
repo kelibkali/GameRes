@@ -1,0 +1,117 @@
+{
+  "555710": {
+    "name": "Zolg",
+    "steam_appid": 555710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Zolg 是一个极简主义的俯视射击游戏，你可以在其中进行探索、与敌人战斗、收集道具，并击败头目。使用 WASD + 鼠标进行移动和瞄准，也可以使用手柄。手柄可以在主菜单里进行配置。有 5 种类型的道具可供收集，6 个头目供你战斗，还有各种各样的其他敌人和障碍物阻挡你的去路。 这款游戏还支持 Steam 集换式卡牌，并有 40 个不同难度的成就等你解锁。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555710/extras/00e5765286f0423c1279b4d21cd1c8c4.poster.avif?t=1627749107\" width=480 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555710/extras/00e5765286f0423c1279b4d21cd1c8c4.webm?t=1627749107\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555710/extras/00e5765286f0423c1279b4d21cd1c8c4.mp4?t=1627749107\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555710/header.jpg?t=1627749107",
+    "developers": [
+      "Robert Alvarez"
+    ],
+    "publishers": [
+      "Robert Alvarez"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 40,
+      "highlighted": [
+        {
+          "name": "3 Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/e49b94f5983a59a0ca266b4b29b23727702fb49a.jpg"
+        },
+        {
+          "name": "4 Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/776b1b6534c7b76b2ef40860a52c7fec47cc3c7b.jpg"
+        },
+        {
+          "name": "5 Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/92076e8cec0e57485bf5a9f8c089c4dcaddb3b77.jpg"
+        },
+        {
+          "name": "6 Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/aa274403cda8247b577404196c8d5157b7e179c2.jpg"
+        },
+        {
+          "name": "7 Health",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/51eec536534095917c98cdd0ec5d9cfd774fc2a1.jpg"
+        },
+        {
+          "name": "800 Shots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/3195ea5741a0f640d5d555dc811b084b25f90438.jpg"
+        },
+        {
+          "name": "1200 Shots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/e0ab08623b2eab3b7f4fa028da6ca4676406d156.jpg"
+        },
+        {
+          "name": "1500 Shots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/7f7a5042fb53b3582c64696d57dd1d30f838562d.jpg"
+        },
+        {
+          "name": "Bouncer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/2963085553d9707f55c7d703f2de009bf2f5c389.jpg"
+        },
+        {
+          "name": "Orbital",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/555710/5a2756c8be640586bafb625c39795d24aeee6883.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 3,
+      "total_reviews": 16
+    }
+  }
+}

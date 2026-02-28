@@ -1,0 +1,53 @@
+{
+  "838860": {
+    "name": "Changed-OST",
+    "steam_appid": 838860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "包含了由本游戏作曲者<strong>噬子</strong>创作的Changed的高清晰原创曲目和未收录BGM。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838860/header.jpg?t=1714053448",
+    "developers": [
+      "DragonSnow",
+      "ShiZi"
+    ],
+    "publishers": [
+      "DragonSnow"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 18 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 41,
+      "total_negative": 1,
+      "total_reviews": 42
+    }
+  }
+}

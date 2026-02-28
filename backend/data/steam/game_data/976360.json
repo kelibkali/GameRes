@@ -1,0 +1,97 @@
+{
+  "976360": {
+    "name": "Cotrio",
+    "steam_appid": 976360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "将相连圆圈的数字相加。如果两个相连圆圈的数字总和等于第三个，则点亮一个彩色圆圈。点亮所有6个圆圈即可晋级下一关，但请注意-相连圆圈上的数字不可以相等！即刻开始您丰富的旅行时光，难耐的等待时间或休闲的个人生活将迎来一个全新的休闲好伙伴。<br />\r\n<br />\r\n• 80余道独创谜题<br />\r\n• 30重诗意3D世界<br />\r\n• 舒缓游戏配乐<br />\r\n• 2种游戏模式<br />\r\n• 照片模式<br />\r\n• 夜间模式<br />\r\n• 教程提示<br />\r\n• 无时间限制",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976360/header.jpg?t=1548152392",
+    "developers": [
+      "Bartosz Bialek"
+    ],
+    "publishers": [
+      "BKBL Bartosz Bialek"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Ice breaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/8d657a89a2d2fd1acb09d5a02c25901718a15259.jpg"
+        },
+        {
+          "name": "Puzzled",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/80be364a73efc448a73b1baaa499b35a91e5a5f8.jpg"
+        },
+        {
+          "name": "Watcher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/d81d1cc50c28ee490ee34706d22dc6a8f348abfa.jpg"
+        },
+        {
+          "name": "Courage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/22465232535e8e7d1bf3f43c324bab8043aa8ce6.jpg"
+        },
+        {
+          "name": "Skilled",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/720d7c672fc217b76031cebb1b93d18e1a1c4d42.jpg"
+        },
+        {
+          "name": "Completionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976360/df16faddd20d03f2204b884be2193d2cb5779e60.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

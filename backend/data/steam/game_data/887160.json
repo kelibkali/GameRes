@@ -1,0 +1,101 @@
+{
+  "887160": {
+    "name": "The Sunny Day 晴天",
+    "steam_appid": 887160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "【游戏介绍】<br />\r\n游戏名称：晴天（The Sunny Day）<br />\r\n游戏作者：殇葵（K.）<br />\r\n游戏类型：剧情向恐怖解密<br />\r\n结局数目：五个（加上隐藏结局）<br />\r\n通关预计时间：3~5小时<br />\r\n<br />\r\n【游戏简介】：今天也似乎是个晴天，KUI一如既往的起床，看书，但迎接她的不再是母亲和蔼可亲的微笑。染红的卧室门，被丢弃的晴天娃娃，逐渐消逝的向日葵花瓣……她发现，在某个角落的那扇门打开了……<br />\r\n<br />\r\n【注意】：本作品为恐怖解谜向，以解谜和剧情为主。有追逐战，但是没有恐怖大CG图，大家可以放心食用。游戏剧情元素较为零散，每个关卡和物品都有其特殊的含义，完整的剧情需要全结局达成经过整理才可明晓，较为烧脑。<br />\r\n<br />\r\n【基本按键】<br />\r\n移动：方向键或小数字键盘<br />\r\n调查/确认：Z、空格、回车<br />\r\n菜单、取消：X、Esc<br />\r\n跑步：Shift<br />\r\n回到标题：F12<br />\r\n<br />\r\n<br />\r\n【联系方式】<br />\r\n交流反馈qq群：772780524",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887160/header.jpg?t=1698129055",
+    "developers": [
+      "殇葵(K.)"
+    ],
+    "publishers": [
+      "Eternal Dream"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "希望永存",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/bcf036e0a33925f7cdf3fd9eaf7cfe344a453276.jpg"
+        },
+        {
+          "name": "自杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/ab6c586dfef4d57dc2be9e46f9398054e5eae6c8.jpg"
+        },
+        {
+          "name": "月亮的光辉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/4449e4c7429515e15f8ff2f1fa8b2492fb97278a.jpg"
+        },
+        {
+          "name": "无视",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/777abac4078b3148159fc33ab5a41a235f967694.jpg"
+        },
+        {
+          "name": "厕所的水",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/42d24b4ce4a029cfd8bd8fdfc4f1805976574924.jpg"
+        },
+        {
+          "name": "聪明的人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/d30fff365ba3c4ce6460932a1fa9ff59900e0200.jpg"
+        },
+        {
+          "name": "卡到死",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/ce193c0386759e8fcae5587fd8ef5a1d0038835e.jpg"
+        },
+        {
+          "name": "感谢",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887160/257fc3fab150d937a8ea43c406ed8b7e87e535f9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 66,
+      "total_negative": 5,
+      "total_reviews": 71
+    }
+  }
+}

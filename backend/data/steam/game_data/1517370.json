@@ -1,0 +1,49 @@
+{
+  "1517370": {
+    "name": "PACT - Process Affinity Control Tool",
+    "steam_appid": 1517370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<u><h2 class=\"bb_tag\" >PACT is an open-source tool that allows you to run different programs in different cores of your CPU automagically.</h2></u><br><strong>Here is a quick list of it's current features:</strong><br><ul class=\"bb_ul\"><li> Automatically assign processes to threads/cores set by you.<br></li><li> Automatically detect games launched by Steam and others.<br></li><li> Minimize to System Tray (Windows).<br></li><li> Show you a basic overview of your system load.<br></li><li> Backup, Export, Import your configurations.</li></ul><br><strong>PACT is ready to go in three easy steps:</strong><br><ul class=\"bb_ul\"><li> You pick your default cores where most of your programs will run.<br></li><li> You pick your high-performance cores where you want your high-performance programs to run.<br></li><li> You designate programs or let PACT do it automatically for Steam games and other launchers.</li></ul><br>For special occasions you can choose to tag some program as &quot;Custom Performance&quot; with a configuration just for that program, exempt from the High Performance and Default configurations.<br><br>There is also a blacklist option, to ignore processes that don't play nice with PACT.<br><br><u><h2 class=\"bb_tag\" >Software by the people, for the people.</h2></u><br>PACT is open-source and the community is welcome to make suggestions, file for bugs or contribute to the project.<br>You can visit the website on the side, that will take you to the repository of the project.<br><br><u><h2 class=\"bb_tag\" >Disclaimers:</h2></u><br>PACT is a powerful tool that does not limit you.<br>It allows you to set priorities and affinities as you will.<br>If configured wrong, it can lead to worse performance, use it's advanced features with caution.<br><br>PACT offers performance gains by automating things already present on your system, primarily the process priority and affinity controls found in the task manager.<br><br>Processes that run at the SYSTEM level or KERNEL level may or may not be accessible to PACT, this can include Easy Anti Cheat.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/header.jpg?t=1667003515",
+    "developers": [
+      "Berk Alyamach"
+    ],
+    "publishers": [
+      "Berk Alyamach"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 16,
+        "description": "包括 Source SDK"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "488040": {
+    "name": "VR Toolbox: 360 Desktop",
+    "steam_appid": 488040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Laptop users, please setup using this guide.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Create massive screens and customize to your taste.<br></li><li> Desktop screens (one screen mirror per attached monitor), incl. laptop support.<br></li><li> Additional web screens (e.g. Youtube, Facebook, Skype, etc).<br></li><li> Additional screens for images (including stereo .jps and .mpo), videos, pdf, txt and many others formats. (Click on &quot;Open&quot; or just drag and drop onto VR Toolbox).<br></li><li> Additional screens for individual Windows apps.<br></li><li> One click YouTube360 in 4K.<br></li><li> 2D, 3D (SBS / TB), 180 and 360 video support.<br></li><li> Boost multi-tasking and readability with Focus Mode (CTRL+SHIFT+F).<br></li><li> See your hands, keyboard and drink while in VR with Blended Reality. (Vive only)<br></li><li> Built-in VR keyboard.<br></li><li> Decorate your VR space with numerous built-in props, rooms, and personal images. Additional props available in Steam Workshop.<br></li><li> Vive tracker support.<br></li><li> Direct3D 11 injector - run your desktop games at 90 fps from within VR Toolbox with minimal overhead. Guide.<br></li><li> First person shooter mode for extra immersiveness.</li></ul><br>* Once detached, an app doesn't need to be kept visible on the desktop anymore. If an app detaches as black (ie Chrome / MS Word), turn off hardware acceleration in the app.<h2 class=\"bb_tag\" >Configuration</h2>Please follow the guide:  to setup Steam / SteamVR.<br><br>Watching Youtube 360 in 4k and Twitch requires opening them on a web screen and 64-bit 2.2.8 VLC to be installed on the system (not compatible with 3.x VLC). Get it here.<h2 class=\"bb_tag\" >Controller Buttons</h2><br>Menu button (joystick click on Oculus) -<br><ul class=\"bb_ul\"><li> single click: per prop menu<br></li><li> double click: global menu (to add screens / props, etc)<br></li><li> click and hold: detach the app under the pointer onto its own VR screen (available on Desktop PCs with Win 8.1 / Win 10 only)</li></ul>Trigger - grab a prop<br>Grip button - reorient a prop<br><br>Left click on touchpad (B on Oculus) - left mouse click<br>Right click on touchpad (A on Oculus) - right mouse click<h2 class=\"bb_tag\" >Hotkeys</h2><br>Hold CTRL+SHIFT and:<br><br>C - Wrap a screen on a cylinder around the camera (can reach very high curvature)<br>F - Focus a screen<br>L - Lock the camera translation (could be useful for backgrounds with nearby objects)<br>P - Detach an app into its own screen<br>R - Crop a desktop screen to the currently focused app<br>S - Resize a screen<br>W - Use a webcam as a beer cam<br>3 - Toggle the stereo / 3D mode of a screen<br><br>F1 - Turn on/off mouse cursor<br>F2 - Recenter view<br>F3 - Change stereo mode<br>F4 - Toggle camera pass-through<br>F5 - Turn controllers on/off<br>F8 - Take screenshot<br>F9 - Debug textures / lighting<br>F10 - Wireframe<br>F11 - Camera stabilization for video recordings<br>F12 - Toggle the mirror view window<br><br>Arrow keys - move around the scene<br>Space - Toggle first person mode<h2 class=\"bb_tag\" >Guides</h2><br>VR Toolbox is user-extensible. Check out the guides section:<h2 class=\"bb_tag\" >Issues</h2><br>We try to thoroughly test, but an issue might go undetected. If you have a problem with VR Toolbox, please post in the discussion forums and I'll help / address it. You can subscribe to the beta branch to get the latest and greatest features and give your feedback in the forum as well.<br><br>Chrome on some systems detaches from the desktop as a black screen. If it happens for you, please try Firefox.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488040/header.jpg?t=1577992574",
+    "developers": [
+      "MyDream Interactive Inc."
+    ],
+    "publishers": [
+      "MyDream Interactive Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 12 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Endurance 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/d650566771d686086d95e4ac7d8e0b50b4fe94b5.jpg"
+        },
+        {
+          "name": "Endurance 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/72c134ced4cceb926a14e483bbc45b91d5cd568f.jpg"
+        },
+        {
+          "name": "Architect",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/55d1ba4572d782aa7d58e8c2a57da77377acc248.jpg"
+        },
+        {
+          "name": "Tutorialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/1459fd63d0021493f89691fe5a5e3036a4b7da07.jpg"
+        },
+        {
+          "name": "Webcrawler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/b3123a7a19f8a70b63bbfec5ecd90403d217cbd9.jpg"
+        },
+        {
+          "name": "Rear Admiral",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/488040/041d173d402bb2a22a9cf526c31a7d40134c8cd7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

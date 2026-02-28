@@ -1,0 +1,77 @@
+{
+  "1500650": {
+    "name": "赛博女友",
+    "steam_appid": 1500650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >【更多演示视频】</h2><h2 class=\"bb_tag\" >【常见问题解决方法汇总FAQ】</h2><br>软件使用中如果遇到任何问题请先别着急，欢迎加入QQ群直接向开发者提问解决： 715846269<h2 class=\"bb_tag\" >【软件介绍】</h2>与赛博女友视频聊天互动，支持自定义角色模型和设定，支持创意工坊。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>模拟真实的视频聊天特效。<br></li><li>支持直接导入MMD模型人物，无需转换。<br></li><li>支持直接导入VITS语音朗读模型。<br></li><li>深度优化的三渲二引擎，出色的二次元动漫风格化渲染效果<br></li><li>支持创意工坊<br></li><li>支持多国语言界面<br></li><li>深度优化资源占用低<br></li><li>可以和其他游戏，软件或动态壁纸一起使用</li></ul><h2 class=\"bb_tag\" >提醒</h2>1. 为什么我需要输入ChatGPT的API Key？ <br>答：因为CyberWaifu软件本身不包含在线聊天服务或内容，而仅作为连接到第三方在线聊天服务的桥梁。因此，您需要在OpenAI上申请账户并获取自己的ChatGPT API Key，然后将其输入到CyberWaifu中以使用聊天功能。或者您可以从创意工坊下载使用其他第三方在线聊天服务。<br><br>2. 为什么我需要同意OpenAI的使用协议才能使用此功能？<br>答： 由于ChatGPT是OpenAI公司提供的服务，您需要同意OpenAI的使用协议才能使用其提供的ChatGPT服务。<br><br>3. 如何获得ChatGPT的API Key？<br>答：要获取您的ChatGPT API Key，请在OpenAI网站上注册账户并访问  来创建您的个人API Key。<br><br>4. CyberWaifu会如何使用我的ChatGPT API Key？<br>答：在您的允许下，CyberWaifu仅使用您提供的ChatGPT API Key来连接OpenAI的ChatGPT聊天服务。CyberWaifu不会上传或泄露您的ChatGPT API Key或与其相关的任何私人信息。",
+    "supported_languages": "英语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500650/header.jpg?t=1693700710",
+    "developers": [
+      "CyberDesktop"
+    ],
+    "publishers": [
+      "CyberDesktop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 55,
+      "total_negative": 59,
+      "total_reviews": 114
+    }
+  }
+}

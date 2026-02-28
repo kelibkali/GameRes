@@ -1,0 +1,53 @@
+{
+  "616720": {
+    "name": "Live2DViewerEX",
+    "steam_appid": 616720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >购买前请注意！</h2><br><ul class=\"bb_ul\"><li> 软件目前仍在开发中，功能待完善<br></li><li> 使用上遇到问题：<br><ul class=\"bb_ul\"><li> 请阅读使用文档<br></li><li> 在社区发帖或者发邮件至 <u><a href=\"mailto:pavostudio@hotmail.com\">pavostudio@hotmail.com</a></u></li></ul></li><li> 可以在文档中下载iOS和Android版本<br></li><li> 如果希望同时使用Wallpaper Engine或自己的壁纸，请右键托盘图标-&gt;启动模式，选择桌面模式<br></li><li> 创意工坊物品均由网友上传提供，如果您遇到体验上的问题，请直接联系上传者，本软件不保证与模型有关的任何内容<br></li><li> <strong>Live2DViewerEX 不属于 Live2D Inc. ，它是一个非官方产品</strong></li></ul><br>---------------------------------------------------------------------<h2 class=\"bb_tag\" ><strong>关于Live2DViewerEX </strong></h2>Live2DViewerEX 是一个非官方跨平台Live2D展示软件，支持Windows、Mac、Android和iOS<h2 class=\"bb_tag\" ><strong>特性</strong></h2><ul class=\"bb_ul\"><li><strong>跨平台：Windows、MacOS、Android和iOS</strong><br></li><li><strong>三种模式：壁纸模式，桌面模式（全屏，工作区和无边框窗口）和窗口模式</strong><br></li><li><strong>面部捕捉：附赠高精度面部捕捉应用（Windows / MacOS / Android / iOS）</strong><br></li><li>支持窗口跟随（仅Windows）<br></li><li>模型：多模型展示、交互、编辑、导入（创意工坊、LPK、Json文件）<br></li><li>背景：支持图片、视频、全景图片和视频、网页<br></li><li>特效：雨和雪、可视化效果器、漂浮粒子<br></li><li>滤镜：多达48种可配置屏幕滤镜<br></li><li>小部件：数字时钟、模拟时钟、日历、提醒、音乐播放器、资源监视器、桌面图标…<br></li><li>场景：保存&amp;读取场景<br></li><li>ExAPI：编写您自己的软件并与Live2DViewerEX交互<br></li><li>创意工坊支持<br></li><li>多显示器支持<br></li><li>支持Cubism SDK 4</li></ul><h2 class=\"bb_tag\" ><strong>说明</strong></h2><ul class=\"bb_ul\"><li>关于售价<br>受到汇率、开发维护成本及Live2D SDK许可费的影响，售价可能随时会做相应调整，不再另行通知<br><br></li><li>关于性能和资源占用<br>应用针对性能和资源占用已做了优化，但是占用资源的多少随加载内容而有所差别。一般说来桌面模式相比壁纸模式占用资源更少，请按需要选择合适的启动模式</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/616720/header.jpg?t=1759388622",
+    "developers": [
+      "Pavo Studio"
+    ],
+    "publishers": [
+      "Pavo Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 2734,
+      "total_negative": 215,
+      "total_reviews": 2949
+    }
+  }
+}

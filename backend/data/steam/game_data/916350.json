@@ -1,0 +1,141 @@
+{
+  "916350": {
+    "name": "Saturnalia",
+    "steam_appid": 916350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >一款可使用多名角色游玩的第三人称 roguelite 恐怖冒险游戏。</h2>这款游戏的灵感来自于意大利撒丁岛（一个富有独特传统和文化的地区）的民间传说，并深受其影响。你可以扮演四名不同角色，体验相互关联的深刻叙事，并了解这个古老村庄令人难忘的传统。<br>这个村庄本身就是一个精心设计的迷宫，没有两次迭代是完全相同的，你需要在基本没有导引的前提下进行探索，并解开游戏的谜题。<h2 class=\"bb_tag\" >你的武器是？一盒火柴……</h2>在死亡后亲眼目睹村庄重置为全新形态。使用你在旅程中找到的工具和物品，进行解密并打开捷径。利用每位角色的独特能力从不同角度开展探索与调查，解锁故事的每一个细节。<br>你的火柴数量有限，而黑暗扑面而来，你能从这迷雾中逃出，并揭晓真相吗？或是被这个村庄尽力保守的秘密吞噬？<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>每次你所有的角色死亡时，村庄的结构都会改变<br></li><li>探索角色的特殊能力，使用工具和物品打开捷径<br></li><li>每次重新游玩时，能够继承之前的剧情与解谜进度（即 roguelite）<br></li><li>管理你的火柴余量，用于提供照明并解开谜题<br></li><li>非线性、动态与适应性的叙事剧情<br></li><li>你在游戏中的首要任务是调查仪式，并利用你发现的任何物品阻止仪式<br></li><li>深度集成于游戏过程及剧情中的谜题（非抽象）<br></li><li>借鉴了停格动画及电影转描技术的美术与动画</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916350/header.jpg?t=1745920917",
+    "developers": [
+      "Santa Ragione"
+    ],
+    "publishers": [
+      "Santa Ragione"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 12500,
+      "final": 12500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 125.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 11 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 65,
+        "description": "字幕选项"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Denial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/f729b0994da964015d2461c2216060125572a1a3.jpg"
+        },
+        {
+          "name": "Bonfire Lit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/a3331bcab2591d7090581b2e0925c24cdbf1b6ab.jpg"
+        },
+        {
+          "name": "Bless me Father...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/c3a9053b350910e1d2a2467ca444a07554d0535b.jpg"
+        },
+        {
+          "name": "Anger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/e8e47390e05d0770f1f99654f463291a8b715b17.jpg"
+        },
+        {
+          "name": "Soda addiction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/54b3c0605ddad752145fcee1492af8c240ec8386.jpg"
+        },
+        {
+          "name": "Ear Ringing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/b297d8cf434b8a18b1226621e6682f66b13c5cca.jpg"
+        },
+        {
+          "name": "Paparazzi",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/46568dc8fb1f80ef4fcf9808374ffedef093cf5d.jpg"
+        },
+        {
+          "name": "Power of Friendship",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/46ccb3f2cfc9f20db43bf34ef48feb443f8aa033.jpg"
+        },
+        {
+          "name": "Let there be light",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/f71674a3e4198ed930f11b7cc75b7a8546708359.jpg"
+        },
+        {
+          "name": "Fear Of The Dark",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916350/0ae4a13b8bfacf8ef60c0aab543e57df448b3a36.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

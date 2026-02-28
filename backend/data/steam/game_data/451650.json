@@ -1,0 +1,65 @@
+{
+  "451650": {
+    "name": "Whirligig Media Player",
+    "steam_appid": 451650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Whirligig</strong> is the ultimate media player for both VR and traditional desktop users who want to experience fully immersive media in the best possible way. It offers a wide range of options for watching 2D, 3D, and 360° content. Whether you're using a VR headset or a standard monitor/projector, Whirligig delivers a customizable viewing experience to help you get the most out of your immersive media.</p><h2 class=\"bb_tag\" >Key Features</h2><p class=\"bb_paragraph\" >🌐 <strong>VR + Non-VR Playback</strong><br>Fully functional as both a VR player (compatible with OpenXR/SteamVR headsets) and a desktop media player — perfect for watching 360° immersive and stereoscopic media.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🎥 <strong>Comprehensive 3D Support</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Side-by-Side (SBS) and Over/Under (OU) support, with desktop viewing options for anaglyph (red/green glasses) and 3D projectors/TVs.</p></li><li><p class=\"bb_paragraph\" >Adjustable 3D depth and convergence for perfect stereoscopic viewing.</p></li><li><p class=\"bb_paragraph\" >Support for 180° and 360° 3D videos in both desktop and VR modes.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >🖥️ <strong>Advanced Playback Options</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Multiple projection modes: Cinema, Fisheye, Equirectangular/Barrel, and a selection of custom formats, including support for less common types like cubemaps.</p></li><li><p class=\"bb_paragraph\" >Experience your media is a variety of 3D environments.</p></li><li><p class=\"bb_paragraph\" >Passthrough for compatible headsets.</p></li></ul><p class=\"bb_paragraph\" >🔧 <strong>Customization &amp; Control</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Three decoding methods (DirectShow, Media Foundation, libVLC) for maximum compatibility.</p></li><li><p class=\"bb_paragraph\" >Save/load presets for different media types and viewing environments.</p></li><li><p class=\"bb_paragraph\" >Full 5.1 surround sound support with positional audio in VR (when using Media Foundation).</p></li><li><p class=\"bb_paragraph\" >Subtitle support.</p></li></ul><h2 class=\"bb_tag\" >Why Choose Whirligig?</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The most versatile 3D media player on Steam, with support for both VR and flat-screen viewing.</p></li><li><p class=\"bb_paragraph\" >Regular updates with new features and improvements.</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/956c5f508a7293deb006f8a69436f26188146556/header.jpg?t=1745679078",
+    "developers": [
+      "phileday"
+    ],
+    "publishers": [
+      "Whirligig"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 17,
+      "total_negative": 6,
+      "total_reviews": 23
+    }
+  }
+}

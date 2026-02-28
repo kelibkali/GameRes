@@ -1,0 +1,65 @@
+{
+  "1256030": {
+    "name": "Neon Beats - A beat further",
+    "steam_appid": 1256030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你最爱的极简平台游戏带着它的新内容回来啦！在新内容中探索新机制，新关卡以及全新音乐吧！<br><br>Neon Beats是一个2D侧视平台游戏，玩家可以在不同的关卡中跟随动听音乐前进。<br><br>在这个DLC中，你可以找到你所期待的新内容：<br><br><ul class=\"bb_ul\"><li>5个有着独特音乐的新关卡<br></li><li>诸如重力，传送及更多的新机制<br></li><li>极简主义的视觉体验<br></li><li>更多待你去寻找的收集品<br></li><li>基于关卡时间，收集品以及死亡次数的得分系统</li></ul>",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 简体中文, 葡萄牙语 - 葡萄牙, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256030/header.jpg?t=1584107896",
+    "developers": [
+      "OKYO GAMES"
+    ],
+    "publishers": [
+      "OKYO GAMES"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 770,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 7.70"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 70,
+      "total_negative": 2,
+      "total_reviews": 72
+    }
+  }
+}

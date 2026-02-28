@@ -1,0 +1,113 @@
+{
+  "911170": {
+    "name": "Veccol",
+    "steam_appid": 911170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Veccol is an arcade puzzle game where blocks of different color and size falls from the top. Match three or more of the blocks in any direction to clear them. When cleared, any block above the line will fall down, allowing for new matches. Set up these cascading line-clears to earn extra points.<br />\r\n<br />\r\nAfter certain amounts of line-clears, you will advance in level, causing the falling speed to increase. At certain levels, the difficulty will also change, adding more potential colors to the mix.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911170/header.jpg?t=1615296330",
+    "developers": [
+      "Granmust Games"
+    ],
+    "publishers": [
+      "Granmust Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "25 Lines completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/efa57fa01673e06a3870c1ea837b3238e23e379f.jpg"
+        },
+        {
+          "name": "50 Lines completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/616e025e377d9ca4e9cef984f27b113dd712ab18.jpg"
+        },
+        {
+          "name": "100 Lines completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/91f23520da4e18d35caf745b9f6c811f5859d5a2.jpg"
+        },
+        {
+          "name": "200 Lines completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/f12035027e78b3d8ef29002908dd374ded3328fd.jpg"
+        },
+        {
+          "name": "500 Lines completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/b64a64674a71dc9f77803457f8e3a9afe0f45972.jpg"
+        },
+        {
+          "name": "Medium difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/503d49d74c3d20cd3862f766d8ba86da12c6640d.jpg"
+        },
+        {
+          "name": "Hard difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/ab70de91139d8563a6875ebb9bd605d5624f9067.jpg"
+        },
+        {
+          "name": "Insane difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/a2a71db065cd5cae609f48bc8b18febce6289d27.jpg"
+        },
+        {
+          "name": "5K Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/66a350edc8817cee22759d7eb7bdedab6c26ded1.jpg"
+        },
+        {
+          "name": "10K Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/911170/092f62cac1f15d677d2c180e1146701b95f45f25.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

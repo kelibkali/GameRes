@@ -1,0 +1,61 @@
+{
+  "306540": {
+    "name": "Medieval II: Base Game",
+    "steam_appid": 306540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "",
+    "supported_languages": "英语",
+    "header_image": null,
+    "developers": [
+      "The Creative Assembly",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "968760": {
+    "name": "血牌2:浓雾",
+    "steam_appid": 968760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《浓雾》是一款结合了Roguelike元素的卡牌游戏。浓雾具有特殊的游戏机制，你需要组建套牌来消灭怪物，探索雾中的秘密。<br><br><ul class=\"bb_ul\"><li>您需要通过击败怪物获取经验值升级，消耗升级点数来获取新的卡牌。</li></ul><ul class=\"bb_ul\"><li>您的生命值等于所持有的卡牌数量。每受到1点伤害，敌人便夺走1张牌，卡牌耗尽则游戏失败。</li></ul><ul class=\"bb_ul\"><li>游戏中您可以看见即将面对的敌人，您需要深思熟虑确定杀死怪物的先后顺序，这会对您之后的行动产生重要的影响，合理的击杀顺序会让您之后的战斗事半功倍，反之则可能会让您暴毙而亡。</li></ul><ul class=\"bb_ul\"><li>游戏中有卡牌和道具。卡牌除了诅咒以外，还有攻击，技能两种类型的卡，想要活下去就拼命地攻击吧！</li></ul><ul class=\"bb_ul\"><li>6个可使用的角色，每个角色都有不同的战斗方式，这需要您自己进行探索体验。</li></ul><ul class=\"bb_ul\"><li>500多张卡牌和道具，40多个事件，15个Boss和80多种怪物构成的随机战斗。</li></ul><ul class=\"bb_ul\"><li>当然除了正常的游戏模式外，我们还准备了自定义模式和每日挑战模式。</li></ul><br>感谢您的关注与支持！",
+    "supported_languages": "英语, 简体中文, 日语, 繁体中文, 韩语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968760/header_schinese.jpg?t=1669108015",
+    "developers": [
+      "Pixel Cattle Games"
+    ],
+    "publishers": [
+      "Pixel Cattle Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 28,
+      "highlighted": [
+        {
+          "name": "兽王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/04f1169d041c077764267a3c193cea8cb7c31227.jpg"
+        },
+        {
+          "name": "老鼠将军",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/5bbcdcb0120cf9575c51593876fdfe5ad7cf227e.jpg"
+        },
+        {
+          "name": "三魔像",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/4f0d2d7114a8d2000116f2e33303f753efe5891f.jpg"
+        },
+        {
+          "name": "蚁后",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/365db7d9a1ab528efaba0f568699f0717e720894.jpg"
+        },
+        {
+          "name": "豹兽人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/40de95b107ee613acc06cf8ce8deb2e0bb9a4eb4.jpg"
+        },
+        {
+          "name": "死亡阴影",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/90a312a48040ff3d2941c3ecdefedbb6f05af0f0.jpg"
+        },
+        {
+          "name": "苍夜主教",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/d1ed1e33e7b88f22cd1d695925fdaf713b316ae8.jpg"
+        },
+        {
+          "name": "守护者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/e4d872c0bfcf57bc0337aab303a7a165e68177a9.jpg"
+        },
+        {
+          "name": "吞金兽",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/f773f00cdb5e4e4487a2f28635c7c8637f12f28d.jpg"
+        },
+        {
+          "name": "双生暗影",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/968760/a0930589b4b12bf65b867b1a2ca7db7bdc556369.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 61,
+      "total_negative": 19,
+      "total_reviews": 80
+    }
+  }
+}

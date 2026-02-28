@@ -1,0 +1,54 @@
+{
+  "641050": {
+    "name": "StroodleDoodle",
+    "steam_appid": 641050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "StroodleDoodle is a fun 3D World-Building and  Modeling Tool for Virtual Reality where Everything is 3D Printable!<h2 class=\"bb_tag\" >What Is This Thing?</h2><br>This app was designed and built for Vive from the ground up with the goal of being incredibly simple to learn and use. Most users can learn how it works and produce their first fun, printable model in 10 minutes, but power users can discover tricks and techniques for hours to come. <br><br>Ever wanted to share your 3D creations simply and quickly? With StroodleDoodle all you have to do is press the 'Export' button and your work is instantly published to our public SketchFab account. Want more control? Just sign up for a SketchFab account and paste your API key into the StroodleDoodle API Key file, now your exports will go directly to your personal account. <br><br>This app is designed to be a simple and intuitive way to create things in 3D. Straightforward tools make all the difference.<h2 class=\"bb_tag\" >3D Models Made In Just A Few Minutes</h2><h2 class=\"bb_tag\" >Features</h2><br><strong>Canvas Extruder</strong>: A mutant hybrid between a selfie stick and a play-dough machine, the canvas extruder is where you can draw 2D shapes and pop them into the third dimension. Just set the Extrusion Depth and stamp a copy of your blob into the world. <br><br><strong>Teleporter</strong>: Point and go, anywhere in the world. If you want to go big, build scaffolds to stand on and remove them when you're done, or make a castle in the sky, it's up to you. Instantaneous transit means no movement to make you sick. Just pull the trigger and click your thumb.<br><br><strong>Grab</strong>: Positioning objects in a traditional 3D editor is tedious and complex, but here, it could not be simpler. Just reach out and grab any blobs to position them wherever you want.<br><br><strong>Paint</strong>: Monochromatic spaces are no fun, so you can easily choose the color of any blob before you stamp it into the world. Wanna change a blob's color after stamping? Just reach out with your brush and swipe it to the color you want.<br><br><strong>Cut</strong>: Don't like that blob? ZIP. Gone. Reach out with your scissor tool to remove blobs you don't like anymore. <br><br><strong>Export</strong>: Save directly to sketchfab for easy sharing, either to our account, or your own. Find it after you export at our Sketchfab Account. More advanced users can export directly to their own sketchfab accounts.  Just drop a sketchfab_api_key.txt file in your game directory with your api key in it.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641050/header.jpg?t=1505953121",
+    "developers": [
+      "Eric Neuman"
+    ],
+    "publishers": [
+      "Eric Neuman"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "517230": {
+    "name": "Spinning Maze",
+    "steam_appid": 517230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>1.游戏简介 </strong><br>Box先生意外的掉入了立方迷宫，现在他必须运用良好的方向感和强大的空间思维才能逃出这个神秘的空间，请你帮助他收集宝石、寻找钥匙，逃出这个奇怪的世界吧~本游戏包括了巧妙的关卡设计，多样的机关陷阱，独特的解谜气氛让游戏显得别具一格。并且融合了空间思维、推理、动作等元素的创意，给你带来独特的游戏乐趣！ <br><strong>2. 玩家任务 </strong><br>每个关卡均为一个旋转的立方体迷宫，玩家需要操纵BOX先生的运动路径，收集宝石和钥匙，找到每关的出口，逃离迷宫。 <br><strong>3. 游戏特色 </strong><br>变幻莫测的立方体迷宫 <br>脑洞大开的关卡设计 <br>低多边形优美艺术体验 <br>精妙丰富的空间享受 <br><strong>4. 游戏玩法</strong>：<br>键盘↑↓←→或者WASD键控制方向，空格跳跃<br><br>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517230/header.jpg?t=1477274637",
+    "developers": [
+      "Beijing Xinrun Technology Co.,Ltd"
+    ],
+    "publishers": [
+      "Beijing Xinrun Technology Co.,Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "立方体1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/59b14719662cf6d6fa2b5fd37b4dcd1b78c2a58e.jpg"
+        },
+        {
+          "name": "立方体2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/8069b9dcffcb043089e54501cf52ca29e28f2904.jpg"
+        },
+        {
+          "name": "立方体3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/04fff1d09cd88713b17df6d37c548c31064813e1.jpg"
+        },
+        {
+          "name": "立方体4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/6aba2223c21642d8e3becfee3fd9b73038895ec4.jpg"
+        },
+        {
+          "name": "立方体5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/37a17a788234933b5b069643c4c6a0621a04b430.jpg"
+        },
+        {
+          "name": "立方体6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/f80fb9c1b0e4bd0cbfcfca71e991072681c76d06.jpg"
+        },
+        {
+          "name": "第一颗钻石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/865e31441dcb8afa74b5e48238d006cd5a4eb30c.jpg"
+        },
+        {
+          "name": "第一把钥匙",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/310743ee84428081244afedcb7bc1355c7d6d3be.jpg"
+        },
+        {
+          "name": "第一个开关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/010a268681ccd6598eac63183990926fe8080db4.jpg"
+        },
+        {
+          "name": "第一个90°机关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/517230/c4a2ef36190512f4e2a9f9e84c0e29378ad1b8de.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

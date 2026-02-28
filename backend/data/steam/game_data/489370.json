@@ -1,0 +1,113 @@
+{
+  "489370": {
+    "name": "Quarantine",
+    "steam_appid": 489370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489370/extras/fd5904cce17af19524d3cadd26e118fb.avif?t=1591259879\" width=608 height=1364 /></span>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489370/header_schinese.jpg?t=1591259879",
+    "developers": [
+      "Sproing"
+    ],
+    "publishers": [
+      "505 Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 720,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 36.00",
+      "final_formatted": "¥ 7.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 22,
+      "highlighted": [
+        {
+          "name": "第一桶金",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/488ea16551e15692c55db73d27daf7b65de1ef04.jpg"
+        },
+        {
+          "name": "恢复秩序",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/05ce001616e0555fce7e4481ebb21f706c56ce51.jpg"
+        },
+        {
+          "name": "让这一带恢复团结",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/3d3e9b8f13fd442812ca3e79c088439c4830dffe.jpg"
+        },
+        {
+          "name": "病毒仇杀队",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/6aa38734163279ff1bb29cf239ff8d96ccd59bf3.jpg"
+        },
+        {
+          "name": "车轮滚滚",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/024847a07275f92a8f559f318af62a1571e7529f.jpg"
+        },
+        {
+          "name": "救世主",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/2efd411ce7e05650f2a07c89c88defe2bcbed5e1.jpg"
+        },
+        {
+          "name": "医生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/cb609b84a7f7ce0e0d32a734e06151ec830ed672.jpg"
+        },
+        {
+          "name": "实习医生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/2c553095622567ec7cfa7cb9f31d24f243f8d389.jpg"
+        },
+        {
+          "name": "环球旅行家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/d60735beeaf195fc9a1fb23e03f1e7498e37fb98.jpg"
+        },
+        {
+          "name": "万事通",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/489370/d39ee970e2a8c84ac390e4cc50fc8528ec26eaef.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 53,
+      "total_negative": 36,
+      "total_reviews": 89
+    }
+  }
+}

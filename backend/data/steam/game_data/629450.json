@@ -1,0 +1,66 @@
+{
+  "629450": {
+    "name": "Towards Gold and Glory",
+    "steam_appid": 629450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "ToGG is a digital adaptation of the tabletop &quot;dungeon adventure&quot;-genre (e.g. Descent and HeroQuest). Designed to be played online, together with your friends (not included). <br>The game is divided into short independent sessions, which starts with assembling a new hero, and then fighting your way through a dungeon filled with evil minions.<br><br><ul class=\"bb_ul\"><li>2-5 players online co-op.<br></li><li>Strategic simultanious-turn-based combat.<br></li><li>All progression is of 'side-grade' nature, new players can join at any point.</li></ul><h2 class=\"bb_tag\" ><strong>Planned content at release</strong></h2><ul class=\"bb_ul\"><li>Story campaign, about 12hours long.<br></li><li>Side missions, 20hours.<br></li><li>All levels (except tutorial) has random modifiers and can be replayed at a higher challenge for more rewards. +30hours.<br></li><li>8 hero classes.<br></li><li>20+ visual options for each hero class.</li></ul><br>Planned prize: 15$<h2 class=\"bb_tag\" ><strong>Technical Facts</strong></h2><ul class=\"bb_ul\"><li>Input: Mouse only or Mouse &amp; Keyboard<br></li><li>Big picture mode: No<br></li><li>Rebindable keys: No<br></li><li>Supported resolutions: Any<br></li><li>Multiple monitors: Yes<br></li><li>Framerate: 60<br></li><li>Network: Steam API, Peer-to-peer<br></li><li>Offline gameplay: No<br></li><li>Engine: MonoGame/C#/OpenGL<br></li><li>Mature content: Harsh language. Religious topics. Light gambling mechanics (roll dice, draw cards). Cartoon violence.  Beer and wine as part of the scenery. Undead monsters. No blood, no gore, no sex/nudity, no drugs, no excrements.<br></li><li>Accessibility: Color blind safe. No flashing images. No fast tapping, or holding a button.<br></li><li>Development team size: 1</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629450/header.jpg?t=1659067003",
+    "developers": [
+      "vikingfabian.com"
+    ],
+    "publishers": [
+      "vikingfabian.com"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

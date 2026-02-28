@@ -1,0 +1,65 @@
+{
+  "1029790": {
+    "name": "Qubes",
+    "steam_appid": 1029790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Introduction</strong></h2><br>Qubes is an online 1v1 game where fast thinking, speed and focus are at the core of the gameplay experience. Challenge a friend or a random player in a match with a set of randomly generated rules, and remember to use the powerups around the map. Color the majority of the map to win the round. The first player to 3 rounds wins the match!<br><br><strong><h2 class=\"bb_tag\" >Gameplay</h2></strong><br><br>Two players face each other in an arena where they control a cube, by rolling it around they can color the map tiles with their color. But every certain amount of rolls both cubes turn green and will color the map tiles of green, to then turn back to the original colors (check below for a description of the green function). At the end of a round the player that has colored the majority of the map with his color wins. A round ends when the time runs out or the entire map has been colored.<br><br>Two different game modes can be played, the standard one with a dynamic ruleset, or a custom one where players can decide the rules and maintain them for the entire match;<br><br>Currently the dynamic rules that can be encountered are the following:<br><br><ul class=\"bb_ul\"><li>Map type: static or dynamic, this defines if the map after being colored can be recolored by the other player;<br></li><li>Green effect: this rule defines if the green colored tiles will get destroyed or will stay after being colored;<br></li><li>Round length: length of the round expressed in seconds;<br></li><li>Normal rolls: number of rolls each player has to do with their color;<br></li><li>Green rolls: number of rolls each player has to do with the green color;</li></ul><br>During a match different powerups can spawn around, each one as a different effect that might affect you or the enemy player, such as: <br><br><ul class=\"bb_ul\"><li>Row or line colorers: powerups that can color an entire row or column;<br></li><li>Speed modifiers: powerups to speed you up or to speed down the enemy;<br></li><li>Snowflake: powerup to freeze your opponent;</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029790/header.jpg?t=1552680091",
+    "developers": [
+      "DavideJ"
+    ],
+    "publishers": [
+      "DavideJ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

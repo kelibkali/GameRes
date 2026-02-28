@@ -1,0 +1,73 @@
+{
+  "370810": {
+    "name": "Universal Combat - The Lyrius Conflict",
+    "steam_appid": 370810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/370810/extras/96be8f1d9f06f7e81f5322996351c7c0.avif?t=1670621191\" width=616 height=616 /></span><br><br>Being the only game of its kind, the all encompassing Universal Combat CE v2.0 game is in need of a makeover, and the sales of this DLC will hopefully make that happen.<br><br>Due to the massive scope of the game, we decided to improve on the game via DLC releases. This means more frequent updates in the months to come. For example, this first DLC, contains no new gameplay features. It focuses purely on bug fixes, tweaks, as well as UI, engine, art and visual improvements.<br><br>As these games are developed using a suite of custom game engines, they cannot be ported easily to third-party game engines (e.g. UE4, Unity, Lumberyard etc) without a LOT of work. So for this first 3.0 iteration, we’re going to be porting it to use the more improved space and planetary terrain engine and art/model assets used in the All Aspects games. <br><br>If successful, we plan future DLC which may include multiplayer (like the original 2004 game), new features, content etc. More info on the game's official web page.<h2 class=\"bb_tag\" >PLANNED FEATURES</h2><br>In addition to on-going tweaks and revisions to the base game, this DLC also has lots of additional content. <br><br><ul class=\"bb_ul\"><li>On-going bug fixes and improvements via the 3.x game kernel <br></li><li>Over 70 scenarios exported from previous Universal Combat games <br></li><li>The Lyrius Conflict, a 16 mission campaign scenario based on the conflict that led to the events in the Line Of Defense game <br></li><li>Updated graphics engine (SM 3.0 graphics card required) <br></li><li>Updated planetary terrain engine, including new texture and mesh assets <br></li><li>Updated character animation engine <br></li><li>Updated shader and special FX assets based on the improved graphics engines <br></li><li>Improvements to the AI engine <br></li><li>Improvements to the audio engine <br></li><li>Improvements to the UI and first person interface <br></li><li>Improvements to planetary terrain mission zones and bases <br></li><li>Improved art assets for all NPC crew and key characters (officers, pilots, crew etc)<br></li><li>Improved model assets for all game objects. This includes characters, weapons &amp; inventory items, vehicles, space/air craft, stations, starbases, all terrain objects etc <br></li><li>New craft UI interface, including 3D rendered cockpits and bridge for capital ships (x28), fighters (x29), shuttles (x3), gunships (x5) player assets. Ground vehicles and naval assets don't need these since they use the first person UI <br></li><li>Full version of the Game Builder System (GBS) for user created mission script content</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/370810/header.jpg?t=1670621191",
+    "developers": [
+      "3000AD"
+    ],
+    "publishers": [
+      "3000AD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 8800,
+      "final": 8800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 88.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

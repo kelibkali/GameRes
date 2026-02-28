@@ -1,0 +1,57 @@
+{
+  "1153580": {
+    "name": "Happy STG",
+    "steam_appid": 1153580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is a vertical scroll shooting game.<br><br>Please avoid the bullets and defeat the enemies and clear the stage.<br><br>You can move the player character by clicking and moving in the screen with the mouse.<br>You can also use the keyboard arrow keys.<br><br>If an enemy bullet or enemy hits the player's heart, the player will be damaged, and if HP is 0, the stage will fail (game over).<br><br>The types of bullets fired by the player include bullets that fire straight forward only, bullets that fire widely forward, and bullets that move to chase nearby enemies.<br><br>You can set different types of bullets for &quot;Main&quot; and &quot;Sub&quot;, and switch between bullets during battle.<br><br>For example, when there are a lot of small enemies, fire bullets that fire widely forward and defeat the enemies together, and when the boss does not move very much, switch to a bullet that fires straight forward only and attack intensively. It is a good idea to switch according to the situation.<br><br>You can also use skills. Skills include skills that make powerful attacks, skills that can eliminate bullets fired by enemies, and skills that can heal HP.<br><br>Default key settings<br><ul class=\"bb_ul\"><li>Keyboard Z key: Use of skill<br></li><li>Keyboard X key: Switch between &quot;Main&quot; and &quot;Sub&quot;<br></li><li>Keyboard C key: Pause or Resume game<br></li><li>Keyboard A key: Slow movement mode when moving characters using keyboard</li></ul><br>You can change these settings in the game.<br><br>The controller can also be used, but the controller can only be used for player operations within the stage. Also, not all controllers are supported. We recommend using the keyboard and mouse.<br><br>Bullets, skills, items, etc. can be obtained as a clear reward by clearing each stage. You can get it for each difficulty level.<br><br>There are three types of difficulty: Easy, Hard, and Chaos. Chaos mode can be played by clearing all stages in Hard mode.<br><br>The stage will continue to the boss battle after defeating small enemies. There is a little story, and the story goes on stage by stage.<br><br>Each boss on each stage can practice independently. If it is difficult to clear the stage, practice each boss and understand how to avoid bullets before trying the stage.<br><br>Each character (boss) has its own theme such as fire, flowers, bubbles, etc., and it will attack with the appearance based on the theme and character image.<br>For example, a bullet in the shape of a flower moves as a flower blooms, or a bullet in the shape of a leaf moves so that its leaves sway.<br>In Easy mode, the number of bullets is suppressed as much as possible, so it is not flashy in appearance, but in Chaos mode it is flashy in appearance, so it would be nice if you could enjoy the beauty of the appearance that the character's bullets form is.<br><br>There is no in-app purchases.<br><br>Finally, this game is an individual production game.<br>Game programming, character illustrations, BGM, sound effects, English translation, promotion, etc. are created by one person.<br>I believe you will enjoy this game.<br>Thank you for reading to the end.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153580/header.jpg?t=1667002945",
+    "developers": [
+      "Tomoyuki Mizuma"
+    ],
+    "publishers": [
+      "Tomoyuki Mizuma"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

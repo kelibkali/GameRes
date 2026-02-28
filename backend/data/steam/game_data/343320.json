@@ -1,0 +1,85 @@
+{
+  "343320": {
+    "name": "StaudSoft's Synthetic World Beta",
+    "steam_appid": 343320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "An open world sandbox game and a testbed for AI research.<br>Explore the world, build your own tools and fight monsters! <br><br><strong><u>This is a work in progress title! We are still actively developing it (This means it has bugs, but the features will grow and you can take part in the developing process by posting your ideas)</u><strong><h2 class=\"bb_tag\" >World</h2><strong>Complete Dynamic World</strong><br>Everything you see in the world can be changed! The blocks are much smaller and complexer than in other games!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/840597789c0949a5dc480e945abc1594.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Fight Monsters</strong><br>With a state of art animation system every NPC moves smoothly through the landscape!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/c5a979cb819f2190eba2799c8accde26.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Build Tools</strong><br>Use advanced build tools to create your own world. Objects can be composed by using of shapes, ramps, voxel blocks, transparent blocks, grate like textures, ...<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/6907a5275421646b0d56c382b6d64757.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Plant Simulation</strong><br>This game proves a complete plant simulation. You can collect seeds, grow your own plants and the harvest them<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/ceea93563634af930ec3b65347d8c9c2.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Water Simulation</strong><br>The water is totally dynamic. It can be collected by the player and placed again.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/043d18a670edc5569f63e506328c4af4.avif?t=1770767853\" width=480 height=270 /></span><h2 class=\"bb_tag\" >Gameplay</h2><strong>Multiplayer</strong><br>This game has full multiplayer support. Use the custom made level editor to create custom maps for multiplayer.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/1dce272d1b3cce5ddcf5e7961e3f8f62.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Weapons</strong><br>Use a lots of different weapons to fight the monsters in single player mode or your opponents in the multiplayer mode!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/f67f247d0defe1db71159487f4b6b78a.avif?t=1770767853\" width=480 height=270 /></span><br>Hint for parents: There is no blood in this game. You do not fight humans. And scary monsters like the zombie can be disabled in the settings. A peaceful mode is available. If you think that you need more features to protect your children, feel free to contact us, we will implement them!<h2 class=\"bb_tag\" >Engine</h2><strong>High End Rendering Engine</strong><br>The engine supports HDR, Parallax Occlusion, Deferred Rendering, Animation Blending, Dynamic Lights, Voxel Rendering, Day and Night cycle, Particle Simulation, Water Effects, Motion Blur, ...<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/9e79b1958212de413f92cfc348942354.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Physic Engine</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/335c040ed374f935f483dc3aaf1cf539.avif?t=1770767853\" width=480 height=270 /></span><br><strong>Modding Support</strong><br>We use the Bullet Physic Engine to create realistic physical behavior!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/extras/ea6251bf952021816b449ce2794ec8d8.avif?t=1770767853\" width=480 height=270 /></span><h2 class=\"bb_tag\" >Development Policy</h2>And last but not least our goal is it to be nice to the gamers. This means:<br><ul class=\"bb_ul\"><li> We will not break your maps when we release a new version of the game!<br></li><li> The mod support will also be backwards compatible. So if you write a mod for this game this will also work in future version!<br></li><li> We have a demo version. If you are unsure just try it out!</li></ul><h2 class=\"bb_tag\" >Comprehensiv Feature List</h2><ul class=\"bb_ul\"><li> A C++ based game engine (we created our own engine)<br></li><li> Lua-based modding support (in progress)<br></li><li> Beta Multiplayer<br></li><li> Motion captured animations<br></li><li> Infinite Landscape<br></li><li> Create your own landscape via a heightmap and vegetation density map<br></li><li> Special multiplayer editor with which you can create maps!<br></li><li> A lot of different block types (see wiki)<br></li><li> Pregenerated landscape: You can start playing the game in seconds!<br></li><li> Special shapes: Cylinder, Ramp, Arch, ...<br></li><li> Torches, lamps, camp fires (with dynamic shadows)<br></li><li> Chests<br></li><li> Doors<br></li><li> Boat<br></li><li> Water simulation<br></li><li> Electric wires (LEDs, buttons, ...)<br></li><li> Growing of plants and trees<br></li><li> A bed<br></li><li> Weapons (stick, sword, pistole, machine gun, grenade launcher, shotgun, sniper rifle)<br></li><li> A lot of different monsters: bears, zombies, wolves, sheeps, red deer, spiders, monkeys<br></li><li> Dungeons: natural and man made.<br></li><li> Dungeons with monsters, chests and furniture<br></li><li> Ruins<br></li><li> 3D scanned stones<br></li><li> Grids<br></li><li> Paintings<br></li><li> Signs<br></li><li> Different types of landscapes<br></li><li> Caves<br></li><li> Ruins<br></li><li> Fire simulation<br></li><li> Heat simulation<br></li><li> Crafting via recipes<br></li><li> Voxel renderer<br></li><li> Deferred Rendering System<br></li><li> HDR Renderer<br></li><li> High End Animation System<br></li><li> Bullet Physic Engine<br></li><li> In-Game Entity Editor<br></li><li> Day and night cycle<br></li><li> Sky rendering system (physically correct)<br></li><li> Master of materials (some blocks have submaterials)<br></li><li> And of course such things as loading and saving do work. You can also die in the game, there is an inventory. When you die you will drop your backpack.</li></ul><br>What we are planning:<br><br><ul class=\"bb_ul\"><li> Top-Research Level AI System, which will create cities, npc and a complete dynamic world!<br></li><li> Full-World Simulation: No more culling! A complete world with thousands of active NPC's is simulated. <br></li><li> Faster update (we want to be abled to drive with a car in the game)<br></li><li> Electronics: CPU, Keyboard, LCD<br></li><li> Even better mod support, documentation<br></li><li> Cars and other vehicles<br></li><li> Automatic generated buildings and better ruins<br></li><li> Train / Minecart<br></li><li> Automatic generated quests<br></li><li> Multiplayer modes: Capture the Flag, Conquest, Team Deathmatch<br></li><li> When the graphics cards support it, we will use real-time raytracing!</li></ul><br>If you unsure just check out the demo!</strong></strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343320/header.jpg?t=1770767853",
+    "developers": [
+      "StaudSoft"
+    ],
+    "publishers": [
+      "StaudSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 2 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

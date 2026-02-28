@@ -1,0 +1,57 @@
+{
+  "1143750": {
+    "name": "VRocker",
+    "steam_appid": 1143750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >VRocker is a movement app that enables you to enjoy your VR games with more lifelike player movement. With VRocker you ‘walk’ or ‘run’ in games by moving your body without the need for any external gadgets. To move you can: </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Run In Place</p></li><li><p class=\"bb_paragraph\" > Arm-Swing</p></li><li><p class=\"bb_paragraph\" >Sway</p></li><li><p class=\"bb_paragraph\" >Step</p></li><li><p class=\"bb_paragraph\" >Squat</p></li><li><p class=\"bb_paragraph\" >Rock</p></li><li><p class=\"bb_paragraph\" >Lunge</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >How you move is up to you!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How to use</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >To use VRocker, simply start VRocker first and then the game of your choosing. VRocker runs parallel to other SteamVR games and overrides in-game joystick/pad ‘smooth locomotion’. The player can still use the game’s own movement as well, seamlessly changing between VRocker and in-game movement without a need to interrupt playing.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please note - VRocker requires SteamVR. To avoid compatibility issues with OpenXR games please set this via: </p><p class=\"bb_paragraph\" ><strong>SteamVR-&gt;Settings-&gt;OpenXR-&gt;Set SteamVR as OpenXR Runtime</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Stay Active</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >VRocker includes broad customization options to allow for a wide variety of play styles - from stepping or gentle swaying to jogging in place, doing squats or even lunges. You can fine-tune the movement ‘feel’ for your liking or you can choose one from the pre-defined options. You can also save user-defined presets for each game. VRocker’s intuitive tutorial will help to get you started!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Motion Sickness</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There is some evidence that 'stepping' while moving in VR can reduced perceived motion sickness, and some users have reported back that using VRocker has helped them. Motion sickness varies from person to person but if you do suffer you can try the demo to see if VRocking helps</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Try the demo first</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can test VRocker with any game using the demo</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >*<strong>it runs for 120 seconds before a 20 second cool down period is set</strong>*</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The demo also includes a tutorial without limits so you can try the the various movement techniques yourself, as well as to see how it performs with the games you play. Some VR games might not combine well with VRocker, although it works well with most SteamVR games.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you own it, <strong>Half Life Alyx</strong> will give you a good idea of what VRocking is all about!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Driver</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Note that upon installing VRocker, a SteamVR driver is also installed requiring SteamVR to restart.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Discord</h2><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >If you are interested in helping with the development of VRocker please join the Discord Server - link can be found to the right of this page</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143750/header.jpg?t=1766708007",
+    "developers": [
+      "digitalsoulVR"
+    ],
+    "publishers": [
+      "digitalsoulVR"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

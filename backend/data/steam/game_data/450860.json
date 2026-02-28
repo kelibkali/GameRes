@@ -1,0 +1,97 @@
+{
+  "450860": {
+    "name": "Andarilho",
+    "steam_appid": 450860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450860/extras/3761219f501e620041357266fcbada3c.webp?t=1738797806\" width=600 height=50 /></span><br><br>Andarilho is a game about a guy trying to survive where you can drive cars, scavenge for food, water and also build, craft, hunt and much more.<h2 class=\"bb_tag\" ><strong>Features:</strong></h2><ul class=\"bb_ul\"><li>Drive<br></li><li>Hunt<br></li><li>Craft<br></li><li>Build</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450860/header.jpg?t=1738797806",
+    "developers": [
+      "SC Jogos"
+    ],
+    "publishers": [
+      "SC Jogos"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Crash a car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/450860/93d8daedb3097bcdbe8a19c06d002494e3d059aa.jpg"
+        },
+        {
+          "name": "Kill a boar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/450860/60b51b53998564b83aaedccba665a2b5f4fef580.jpg"
+        },
+        {
+          "name": "Kill a chicken",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/450860/f3573f3454d9088e403c6d88b66b913ad8ac17f4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 34,
+      "total_negative": 24,
+      "total_reviews": 58
+    }
+  }
+}

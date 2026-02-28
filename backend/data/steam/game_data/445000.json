@@ -1,0 +1,141 @@
+{
+  "445000": {
+    "name": "Nova Nukers!",
+    "steam_appid": 445000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Nova Nukers!》是一款多人对战游戏，最多支持 4 名玩家进行在线或者本地游戏！它能够让您在多彩的行星上，用五花八门的爆破道具将好友炸上天！<br />\r\n<br />\r\n赶快与来自世界各地的玩家一起投入在线多人模式。从您的好友列表中邀请好友来进行私人游戏，或者和他们一起坐在您家中的沙发上享受火爆的场面。此外，您也可以先在 5 个逐渐提升的难度等级中，与 AI 机器人一较高下，测试一下自己的实力。<br />\r\n<br />\r\n从 5 个角色中挑选一位来投入战斗，解锁全部 7 颗行星、14 件道具以及 20 套不同的角色皮肤。探索冰天雪地、尘灰荒漠以及灼热岩浆等不同的行星环境。<br />\r\n<br />\r\n《Nova Nukers!》拥有快节奏的战斗系统以及可以被破坏的环境，可以把您的沉闷心情一扫而空。大量的爆炸和弹坑会让您欲罢不能，同时更要留意不要掉进行星表面下危险的地核。另外，捕获机制则营造出了刺激的决斗场面，让大家看看谁才是最厉害的行星爆破手！<br />\r\n<br />\r\n请尝试不同的游戏模式，探索其它的设置来自定义您的游戏。游戏规则想要夸张还是平衡，全都取决于您！",
+    "supported_languages": "英语, 德语, 法语, 意大利语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 简体中文, 芬兰语, 日语, 韩语, 波兰语, 罗马尼亚语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445000/header.jpg?t=1728902426",
+    "developers": [
+      "Alchemist Interactive"
+    ],
+    "publishers": [
+      "Assemble Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 410,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 41.00",
+      "final_formatted": "¥ 4.10"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 62,
+      "highlighted": [
+        {
+          "name": "Singleplayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/99cf803589f39a93c2b4f1d47f16d67d910f03c8.jpg"
+        },
+        {
+          "name": "Bomberboy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/f26fbb16b122552a1b912b499f7fccdca7bd92d0.jpg"
+        },
+        {
+          "name": "Bomberman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/b4298bf1e50b504a933f43e698e52ada71708b39.jpg"
+        },
+        {
+          "name": "Master Nuker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/b16b175e362c5d2ada595e16e8818544cf9caf50.jpg"
+        },
+        {
+          "name": "Bot Bomber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/66f012d5929dd0c19f898b9585cac7b4b0c9097c.jpg"
+        },
+        {
+          "name": "Bot Blaster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/66f012d5929dd0c19f898b9585cac7b4b0c9097c.jpg"
+        },
+        {
+          "name": "Bot Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/e5acc073266c8d36bd6bbf64d696a9182fc9e5b6.jpg"
+        },
+        {
+          "name": "The Floor Is Lava",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/2760d30f66bcbc7d5d9d4b9ede355fd242625f37.jpg"
+        },
+        {
+          "name": "Close Combat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/9aa4d19e3e040db4495c0b090d25423747c2f35b.jpg"
+        },
+        {
+          "name": "That's How It's Done",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445000/6c9b3b3bbdb0447deca08aa6ecae27ba892c0b7c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

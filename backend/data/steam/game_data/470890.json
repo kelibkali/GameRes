@@ -1,0 +1,77 @@
+{
+  "470890": {
+    "name": "WarFire",
+    "steam_appid": 470890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "WarFire是我们工作室的第一个作品，本作没有剧情，你的任务就是干掉所有敌人，救出队友，并在最后一关驾驶战机干掉BOSS。<br />\r\n<br />\r\n可用功能如下:<br />\r\n单人游戏<br />\r\n多人游戏(测试版)<br />\r\nVR(测试)<br />\r\n手柄(支持震动)<br />\r\n5种AI难度<br />\r\n本游戏可使用Steam直播功能!<br />\r\n<br />\r\n<br />\r\n更新 (2017/5/12)<br />\r\n修复了AI的bug<br />\r\n提高了运行的稳定性<br />\r\n<br />\r\n欢迎大家来提一些技术上的意见，但不接受谩骂或直接用脏话的评论，谢谢。<br />\r\n<br />\r\n我们会做到最好，谢谢大家。",
+    "supported_languages": "英语<strong>*</strong>, 德语, 日语, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470890/header.jpg?t=1495183092",
+    "developers": [
+      "D&K Games Studio"
+    ],
+    "publishers": [
+      "D&K Games Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

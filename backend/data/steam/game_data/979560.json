@@ -1,0 +1,69 @@
+{
+  "979560": {
+    "name": "RainWallpaper",
+    "steam_appid": 979560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于雨滴壁纸</h2>雨滴壁纸(RainWallpaper)是一个有着强大可定制性的动态壁纸DIY引擎，使用它内置的可视化设计器您可以所见即所得的添加各种动态元素到桌面壁纸之中，包括动态视频、网页、时钟、天气、快捷方式、系统信息、动画序列、GIF、音乐频谱等，真正做到您壁纸您做主！<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>支持任务栏背景透明(win10)<br></li><li>支持Steam创意工坊，非常易于下载和分享壁纸<br></li><li>简洁易用的界面，极少占用CPU和内存等系统资源<br></li><li>当有全屏游戏或者应用运行时能自动暂停后台的壁纸动画运行<br></li><li>内置所见即所得的可视化壁纸设计器，让您的壁纸独一无二<br></li><li>壁纸支持鼠标交互，如：单击、双击等<br></li><li>支持多显示器<br></li><li>自适应所有分辨率<br></li><li>支持主题壁纸、视频壁纸和网页壁纸三种类型的动态壁纸<br></li><li>支持各种视频格式，如: mp4, avi, mov, wmv.</li></ul><h2 class=\"bb_tag\" >常见问题集</h2>问：为什么软件启动后在桌面只显示一个LOGO而无法显示视频壁纸？<br>答：1. 请在您的显卡设置面板里面将雨滴壁纸的进程 RainWallpaper.exe 设置为使用集成显卡运行。或者您也可以重新安装驱动程序并选择重置所有设置（“清理重新安装”）来执行此操作，例如，可以使用Nvidia的驱动程序。<br>如果您的驱动程序不提供执行干净的重新安装，请首先卸载旧驱动程序，然后安装新的图形卡驱动程序。<br>       2. 请确认您电脑上的Windows Media Player未被卸载，例如请尝试使用Windows Media Player播放无法显示运行的那个视频壁纸。或者请尝试重装Windows Media Player。<br><br>问：为什么启动壁纸后，不显示桌面图标？ <br>答：1、这是因为360等杀毒软件误报拦截导致遮挡了桌面图标，请将雨滴壁纸RainWallpaper所在的文件夹加入到360等杀毒软件的信任白名单中,并重启电脑即可 <br>      2、请确认系统开启了Aero",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 俄语, 日语, 葡萄牙语 - 葡萄牙, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979560/header.jpg?t=1578218734",
+    "developers": [
+      "RainySoft"
+    ],
+    "publishers": [
+      "RainySoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 48,
+      "total_negative": 57,
+      "total_reviews": 105
+    }
+  }
+}

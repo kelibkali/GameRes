@@ -1,0 +1,85 @@
+{
+  "786330": {
+    "name": "Internal Storm",
+    "steam_appid": 786330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game let you dive into the nostalgia atmosphere of the old-school text-based PC games. You’ll have only few commands to use. So the key to success is your attention and imagination. Will you cope with all the hidden traps, mysteries and missing memories?<h2 class=\"bb_tag\" >The features</h2>This is all text-based game with an original plot and a story. You’re going to get into character of a young man who found himself trapped in an abandoned house full of scary secrets. You will face strange voices disappearing in the tubes, rotting floor, mice whispers behind the old walls and other horrors on the way out.<h2 class=\"bb_tag\" >Commands</h2><ul class=\"bb_ul\"><li>Go -  to make movements around the house.<br></li><li>Inspect – to observe the rooms or objects.<br></li><li>Take - to take objects.  <br></li><li>Use - to use previously taken objects. <br></li><li>Open - to open the doors and objects which are supposed to be opened. <br></li><li>History - to show the history of your previous moves.</li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/786330/header.jpg?t=1522861570",
+    "developers": [
+      "CaveBrave"
+    ],
+    "publishers": [
+      "CaveBrave"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Alive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786330/f6a4a40165a23abfdb3868aae40fd9a3b4153ad5.jpg"
+        },
+        {
+          "name": "Dark spirit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786330/8e3cdc6d2100e318cdc7acc59b37fd797c85fb55.jpg"
+        },
+        {
+          "name": "Bright spirit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786330/3bd9220bf94306fde33366e363d4cb9d542d3000.jpg"
+        },
+        {
+          "name": "Dead man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/786330/04e1e43b129e7f4232bca55e10bd9284ccbbd43b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

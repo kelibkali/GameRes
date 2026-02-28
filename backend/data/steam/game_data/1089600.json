@@ -1,0 +1,105 @@
+{
+  "1089600": {
+    "name": "LYSER",
+    "steam_appid": 1089600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089600/extras/d22ca1e9d7bdff7c1956adde1ece8f8e.avif?t=1668249319\" width=640 height=75 /></span><br>常见的谜题与激光反射。 玩家的目标是向所有圈子收费。<br><br> -  36个级别<br> - 愉快的音乐<br> - 直观的界面<br> - Steam成就<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089600/extras/cab48f1ed7d933f0e27fe90d2fee59b0.webp?t=1668249319\" width=640 height=25 /></span>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 保加利亚语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 匈牙利语<strong>*</strong>, 越南语<strong>*</strong>, 希腊语<strong>*</strong>, 丹麦语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 繁体中文<strong>*</strong>, 简体中文<strong>*</strong>, 韩语<strong>*</strong>, 荷兰语<strong>*</strong>, 挪威语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 俄语<strong>*</strong>, 泰语<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 芬兰语<strong>*</strong>, 捷克语<strong>*</strong>, 瑞典语<strong>*</strong>, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089600/header.jpg?t=1668249319",
+    "developers": [
+      "Growfall Games"
+    ],
+    "publishers": [
+      "Growfall Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 39,
+      "highlighted": [
+        {
+          "name": "A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/c52832c9e96c947dbddea711b326441547bfd7a4.jpg"
+        },
+        {
+          "name": "B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/b04bc7ecfd606d015be4b90855da6887e3aa2c94.jpg"
+        },
+        {
+          "name": "C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/8248ef80f2ab19a764fc644d98506d8f2c459ab7.jpg"
+        },
+        {
+          "name": "D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/4d6f534bf4ffa0ee8454a8a89890dd8782dce2dc.jpg"
+        },
+        {
+          "name": "E",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/1c0c6f3fab8adbc89b25bb429365301b4103b666.jpg"
+        },
+        {
+          "name": "F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/712703d4a18fb0d434c87d02442effa842375c21.jpg"
+        },
+        {
+          "name": "G",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/3bfdf1af6e930cc65ee3669ff3a6f50d5f4a44f2.jpg"
+        },
+        {
+          "name": "H",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/3dde48cb0a75e443220ad6a3a61fb65e79a8fdb4.jpg"
+        },
+        {
+          "name": "I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/1ae90c56ce318fcebc8c41229fdcbe5b398ac854.jpg"
+        },
+        {
+          "name": "J",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1089600/9ed6146cebd23889ca3bb54048431f4edb9a14d8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 7,
+      "total_negative": 0,
+      "total_reviews": 7
+    }
+  }
+}

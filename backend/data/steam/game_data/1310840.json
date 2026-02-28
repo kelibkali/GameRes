@@ -1,0 +1,73 @@
+{
+  "1310840": {
+    "name": "动绘（Drawing）",
+    "steam_appid": 1310840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "动绘(drawing)是一款全新的视频拼图类游戏，在这里你可以亲身体验艺术作品带来的刺激和快乐。",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310840/header.jpg?t=1602413371",
+    "developers": [
+      "Herbert Lin"
+    ],
+    "publishers": [
+      "Herbert Lin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Test name",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1310840/f22aa750e3888eee73ee67867e5e9de5227182b8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

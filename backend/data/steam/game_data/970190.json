@@ -1,0 +1,117 @@
+{
+  "970190": {
+    "name": "Sierra Madre: The Wild West",
+    "steam_appid": 970190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Take the role of a U.S. Marshall hunting outlaws across vast landscapes in the Wild West. Fight off outlaws while trying to survive. Save locals, deputize them and save the day.<br><br>[h1]Current Features[/h1]<br><br><ul class=\"bb_ul\"><li><strong>Explore and survive on a 25 square kilometer map</strong> (additional maps coming in future updates).<br><br></li><li><strong>Fight with authentic weapons.</strong> Fight off animals and outlaws using authentic Old West weapons. Get into gun fights, or charge your enemy on horse back.<br><br></li><li><strong>Explore the land on Horseback.</strong> Use your horse to traverse the world. In the event that your horse dies you can buy another.<br><br></li><li><strong>Hunting</strong> Use weapons at your disposal to track and hunt a diverse array of prey. Hunt anything from Deer to Wolves across the Wild West.<br><br></li><li><strong>Random Loot</strong> Enemies will drop random loot. This loot can be anything from ammo for your weapons to water or whiskey and everything in between.<br><br></li><li><strong>Detailed Survival Elements</strong> Collect water, hunt food, and set up camp to survive. Limitations brought on by thirst and hunger requires careful planning to cross barren areas on the map. Sterilize water and cook food by using a camp fire and setup your camp in order to save your progress.<br><br></li><li><strong>Missions</strong> Earn money by playing three distinct mission types: Town Liberator, Delivery, and Outlaw Hunter. Missions are available in each town in the game.<br><br></li><li><strong>Third Person Mode</strong> We are currently working on improving our third person view.<br><br>[h1]Roadmap[/h1]<br><br>Thank you for your feedback. This roadmap is an <strong>overview</strong> of planned features for the game based on user feedback. Please note that this is not finalized and is subject to change.<br><br><ul class=\"bb_ul\"><li><strong>Improved Core Architecture and Input System Migration</strong> We are working to migrate to a superior input module as well as improving the game's core architecture. The new input module should improve game-pad support.<br><br></li><li><strong>More Complex NPC Interactions</strong> We are working on adding meaningful interactions between the player and NPCs. These interactions will include simple dialogues and will vary by scenario.<br><br></li><li><strong>Factions and Public Opinion</strong> We are working on shaping the game to be based off of factions and a form of public opinion. We want your actions in the game to shape how NPCs react to you. We are also planning on allowing the player to choose / shape which faction they are a part of.<br><br></li><li><strong>Native Americans</strong> Native American artwork and NPC behavior is under development.<br><br></li><li><strong>Road Networks and Travelers</strong> We are planning on adding clearly defined trails to the game with wandering travelers, bandits that rob people, etc.<br><br></li><li><strong>NPC Recruiting / Hiring</strong> We are planning on allowing the player to hire NPCs to assist them in their adventures.<br><br></li><li><strong>Better Survival Equipment and Interactions</strong> We are working on adding more survival items. This will include individual foods, more tools, and more inventory items. We are also designing new interactions for existing and future tools. For example, we want to make tasks such as lighting a fire or cooking more interactive.<br><br></li><li><strong>Weapon Variety</strong> We will be adding more weapons / weapon variants to the game.<br><br></li><li><strong>Pick Your Own Adventure</strong> We want to give the player greater choice in what role they do in the game. We will be adding various activities or jobs that will shape the player's role. We would like to add tasks like farming, shipment escorting, ranching, buying properties, etc.<br><br></li><li><strong>More Activities and Scenarios / Missions</strong> We are planning on expanding the number of activities in the game. We would like to add activities such as rodeos, ranch management, farming, gambling, etc. We are also designing various scenarios / additional missions.<br><br></li><li><strong>Character Customization</strong> We are planning on adding some form of character customization to the game.<br><br></li><li> <strong>Improved Graphics and Lighting</strong> With the release of Unity 2019.1, we will be migrating to a new and improved graphics rendering module.<br><br></li><li><strong>Injury Mobility Limitations</strong> Currently the player decreased vision when hurt. We would like to extend this to include limitations based on injuries to certain body parts. For example, if the player is shot in the leg they should move slower.<br><br></li><li><strong>Saddle Bags, Stashes, and Inventory Improvements</strong> We are planning to add features such as saddle bags, saddle holsters, and loot stashes where gear can be stored.<br><br></li><li><strong>More, better sound effects</strong> We are planning on improving our sound effects and adding more sound effects.<br><br></li><li><strong>Mac &amp; Linux (Debian) Support</strong> We would like to have full Mac, Linux, and Windows 10 cross-platform support. Note: we only intend on supporting x64 versions of these operating systems.<br><br></li><li><strong>Better Wildlife</strong> Better wildlife are under development to ensure a more realistic experience.<br><br></li><li><strong>Better Artwork</strong> We are currently overhauling our animals, character art, and other game assets to be more realistic.<br><br></li><li><strong>Better In-game UI</strong> We will be making the user interface easier to use, more aesthetically pleasing, and more compatible with game-pads.<br><br></li><li><strong>More Maps</strong> We have a series of maps planned that are currently under development.</li></ul><br>[h1]Being Researched, To Be Determined[/h1]<br><br>These features are being researched as possible additions to the game.<br><br><ul class=\"bb_ul\"><li> <strong>A Separate Multiplayer / Co-op Game Mode</strong> The addition of a multiplayer mode depends on a lot of factors and will only be done after we have created a solid single-player experience. Any addition of multiplayer / co-op would be treated as a separate game mode and <strong>will not effect the single-player game mode</strong>.<br><br>That being said, the changes we are making to the game's core architecture have been designed with networking in mind. We are designing the game to allow for the addition of a separate multiplayer mode.<br><br></li><li> <strong>Basic Modding Support</strong> Mods support is under research and the extent of what kinds of mods could / should be added to the game is still being determined.</li></ul></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/970190/header.jpg?t=1572303364",
+    "developers": [
+      "Broken Dream Studio"
+    ],
+    "publishers": [
+      "Broken Dream Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Into the West",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/f1ae71a4e7a5f1da001ed53aba7714b227e963d9.jpg"
+        },
+        {
+          "name": "On the Trail Again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/ec16e504a0903baddfd8396e504472119f3a0916.jpg"
+        },
+        {
+          "name": "Outlaw Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/668dcfab5f409496fa5fadd980ff7718c75e93e1.jpg"
+        },
+        {
+          "name": "The Liberator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/a2fe949b1a8c58a69de9d2d3aa9548c1b759e70a.jpg"
+        },
+        {
+          "name": "Pay Dirt!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/3ee0d9e1a65af6cc54ca74e0890dc84d9fa0b3c5.jpg"
+        },
+        {
+          "name": "Slum Lord",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/096c23199fa64782c8592a7dc7f8611d974abb2e.jpg"
+        },
+        {
+          "name": "Send 'em Down the River",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/07600b3687922cf6b6b5f21108c62f57d616c243.jpg"
+        },
+        {
+          "name": "Timber!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/cfad5be262c2593d2e8f8a13ffc8bcbc32a52d06.jpg"
+        },
+        {
+          "name": "No Bandits in Bandito",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/f99fde351fc8878857f855f625252b1345af7879.jpg"
+        },
+        {
+          "name": "Branded",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/970190/f541e1176e1435ac3e968f37f079c75903cb377b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

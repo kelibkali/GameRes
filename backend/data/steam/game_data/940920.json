@@ -1,0 +1,56 @@
+{
+  "940920": {
+    "name": "BlastFX",
+    "steam_appid": 940920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "BlastFX is a tool that allows you to easily create complex particle systems and save the resulting animation as a sprite sheet or individual images for use in your games or other projects. Pre-rendering complex particle systems like this can allow weaker systems such as mobile devices or even HTML5 games to have impressive effects without the slow down that would be incurred from real-time simulations.<br />\r\n<br />\r\nBlastFX also offers customizable image effect post-processing allowing you to tweak the look of the final render. Use effects like palette-remapping and pixellation to easily turn the high-resolution particles into 8/16 bit assets, perfect for any retro game. Of course you don't have to give your animations a retro look, you can completely by-pass the effects chain and render the particle effect as-is, great for high-definition games.<br />\r\n<br />\r\nTrailer music: https://www.bensound.com",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/940920/header.jpg?t=1538753235",
+    "developers": [
+      "Ben Hickling"
+    ],
+    "publishers": [
+      "Ben Hickling"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 5 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1020820": {
+    "name": "KumaKuma Manga Editor",
+    "steam_appid": 1020820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《KumaKuma本子编辑器》是一款以3D模型为基础制作的丈育漫画编辑器，我们的目的是让所有人都能体会到制作本子的乐趣(°∀°)ﾉ，你不需要手绘板、不需要绘画基础、甚至不需要做任何准备!<br><br>✿ 自定义漫画角色 ✿<br>预设了数百种3D角色部件，可以对角色的性别、发型、发色、瞳色、衣着进行修改替换，可以组合出数百个风格各异的自定义角色。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/extras/393232487f3ac0204c9bf915b1a52ae7.avif?t=1568862208\" width=508 height=298 /></span><br><br>✿ 漫画角色的表情 ✿<br>预设上百种表情可供选择，同时也支持用户自定义，选择相应的参数后拖动即可完成修改并实时显示，可以展现出更为丧病生动的表情。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/extras/d55f88a2f2a656c8655e16a9197311f9.avif?t=1568862208\" width=548 height=362 /></span><br><br>✿ 漫画角色的动作 ✿<br>预设上百种（反正就是很多啦）动作，同样也支持自定义，强迫症同学也可以自己慢慢手K，除了单个角色的动作以外，你还可以在画布上插入其他角色，来完成有景深的双人动作哦~<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/extras/c0825bd9f258ea26c464346b0da1f72b.avif?t=1568862208\" width=506 height=706 /></span><br><br>✿ 各式各样的背景 ✿<br>我们内置了许多常用的图片背景，也能自己导入自己的图片做背景，还有一些3D场景，这些场景可以自由移动和旋转，配合去色功能也更加灵活。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/extras/4dfb845c956fc5f02ca0b1e89f4bfd65.avif?t=1568862208\" width=548 height=196 /></span><br><br>✿ 景深功能 ✿<br>我们还支持调整景深和镜头的调整，可以在打斗漫画中增加冲击力，也不会让角色形体崩坏。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/extras/7e8c79e4fdad43b16b27bcb2e1d9d519.avif?t=1568862208\" width=552 height=255 /></span><br><br>还有很多七七八八的功能大家自己摸索试试吧，帮助内有使用说明哦~ PS：虽然我知道你们懒得看，那就加群问大佬们吧(;¬_¬)往上翻↑",
+    "supported_languages": "英语, 繁体中文, 简体中文, 意大利语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020820/header_schinese.jpg?t=1568862208",
+    "developers": [
+      "KumaKumaManga"
+    ],
+    "publishers": [
+      "SakuraGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 520,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 26.00",
+      "final_formatted": "¥ 5.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "创建角色",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/46534496a41192fa0151d843cc5b7330a6a23456.jpg"
+        },
+        {
+          "name": "造型达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/1fe0d51908fc626bf9c5d6d816dacac1ec7e946f.jpg"
+        },
+        {
+          "name": "勤学苦练",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/670ea9068e73c7aee471e7b8befabf8c6dccf58e.jpg"
+        },
+        {
+          "name": "功力深厚",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/e6f317ea61d31b255b3cef498d39e3521690764c.jpg"
+        },
+        {
+          "name": "漫画高手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/b26a987333246adb7650396f8de9657e00329add.jpg"
+        },
+        {
+          "name": "漫画大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/98afbdee445d0531882624c0695078f182692ca9.jpg"
+        },
+        {
+          "name": "创建表情",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/03f9488eec6741f5c74b754907ddf52291ff8015.jpg"
+        },
+        {
+          "name": "表情达人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/f346895b197b83736123d95696ebd19eea467c79.jpg"
+        },
+        {
+          "name": "编辑动作",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/29660630ef899d85b06e6faab5ac5d92c248a3d9.jpg"
+        },
+        {
+          "name": "动作大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1020820/f71a5cf5b5a142f2d5839d8f579a8b6086035549.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 302,
+      "total_negative": 57,
+      "total_reviews": 359
+    }
+  }
+}

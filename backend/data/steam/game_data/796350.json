@@ -1,0 +1,93 @@
+{
+  "796350": {
+    "name": "NatureFly",
+    "steam_appid": 796350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >加入社区！</h2><br><br>NatureFly是一种虚拟现实体验，可让您穿越各种奇妙的场景。<br><br>它包含您可以探索的12种不同的奇妙森林，湖泊，沙漠和峡谷场景。<br>凭借令人放松的背景声音和氛围，NatureFly是一次非常不错的体验，它将帮助您忘记日常压力。<br>如果您是图形技师，它还为您提供了一些非常美丽的风景。<br><br>还有一张巨大的未开发的开放世界地图，上面有峡谷，森林，灌木丛和冬季森林，正等着您进行探索。<br>随心所欲地飞来飞去，发现虚拟现实中自然界中自由飞行的美好新体验。<br><br>享受美妙的声音和景观，沉浸在轻松愉悦的体验中。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/796350/header.jpg?t=1628185100",
+    "developers": [
+      "John's Project"
+    ],
+    "publishers": [
+      "John's Project"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Nature Flyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/796350/e066b6ca080aad71afb1da483ba9ac5443d7a5dc.jpg"
+        },
+        {
+          "name": "Treasure Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/796350/d41cee7cb4331f57f46e3218a9635d653a00e2ee.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

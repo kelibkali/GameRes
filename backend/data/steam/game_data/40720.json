@@ -1,0 +1,109 @@
+{
+  "40720": {
+    "name": "Samorost 2",
+    "steam_appid": 40720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这款强化版游戏中倒流时光并重新体验地精的第二次冒险！<br />\r\n<br />\r\n《银河历险记2（Samorost 2）》讲述着一段关于太空地精的梦幻故事，他的狗狗刚刚被胡作非为的外星人绑架了。展开一段短暂的冒险来拯救狗狗，与各种奇怪的陌生人打交道并放松地聆听Tomáš &quot;Floex&quot; Dvořák所谱写的舒缓音乐。<br />\r\n<br />\r\n全新优化版本，内含：<br />\r\n - 强化后的画面和全屏支持<br />\r\n - 各种游戏设计调整<br />\r\n - 重制了存档系统（不再需要关卡代码！）<br />\r\n - 新缩放功能<br />\r\n - 成就",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 保加利亚语<strong>*</strong>, 丹麦语<strong>*</strong>, 芬兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 匈牙利语<strong>*</strong>, 挪威语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 俄语<strong>*</strong>, 泰语<strong>*</strong>, 繁体中文<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 越南语<strong>*</strong>, 简体中文<strong>*</strong>, 捷克语<strong>*</strong>, 希腊语<strong>*</strong>, 瑞典语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40720/header_schinese.jpg?t=1771101490",
+    "developers": [
+      "Amanita Design"
+    ],
+    "publishers": [
+      "Amanita Design"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2300,
+      "final": 460,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 23.00",
+      "final_formatted": "¥ 4.60"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2009 年 12 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "序章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/99d1532a7076c2b4160e1ae5ea8272397383bbc9.jpg"
+        },
+        {
+          "name": "舱门",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/1f49af9b3db31b03f9a702c4f4cc3c6f41389604.jpg"
+        },
+        {
+          "name": "蜗牛人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/64875d37d9c2881f54ec92fd7425473620efe700.jpg"
+        },
+        {
+          "name": "深坑",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/138e6d48d35f9537e74e7df23191d02378ab74c7.jpg"
+        },
+        {
+          "name": "贮藏室",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/fc63d24be779933f748417761e4a2004f243739a.jpg"
+        },
+        {
+          "name": "下水道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/e19d13e87d6df05d1403a033e156c3abb07304c7.jpg"
+        },
+        {
+          "name": "卧室",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/8aa13b2305ce2d83f835c234523c89f25659d4e1.jpg"
+        },
+        {
+          "name": "平原",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/91fc14f18618bebc1d8d76aa5315971ed559955f.jpg"
+        },
+        {
+          "name": "树林",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/66f309ba11d0eb75d33627741bf2252800f576eb.jpg"
+        },
+        {
+          "name": "灯塔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40720/88b9fb7804c658bcd49c49e2a931b6bc778a796a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 183,
+      "total_negative": 67,
+      "total_reviews": 250
+    }
+  }
+}

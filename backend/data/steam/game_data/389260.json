@@ -1,0 +1,99 @@
+{
+  "389260": {
+    "name": "Lucid Trips",
+    "steam_appid": 389260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "[ Windows MR headsets &amp; Index controllers are NOT supported atm !! Rift &amp; Vive only]<br><br>Lucid Trips is a VR experience which takes places in planetary dream worlds. You explore an artistically designed surrounding with a completely new concept, defining and navigating your avatar in a distinctive way, using hand motion controllers. You float and fly as a bodyless consciousness with two ghost-like arms.<br><br>[ Windows MR headsets &amp; Index controllers are NOT supported atm !! Rift &amp; Vive only]<br><br><strong>Current content</strong><br>● Unique  locomotion - No teleport nor room scale<br>● Immersive feeling of weightlessness and flying (Jetpack like)<br>● Tutorial &amp; 20 challenges &amp; exploration<br>● Physically based climbing locomotion<br>● One planetary game world to explore (more will come)<br>● Asynchronous multiplayer (Hide, leave trace, seek...) <br>● An artwork from DAIM to discover<br>● Power-Ups for super fast flights<br>● Speed flight user challenge (Arcade)<br><br><strong>Near future content</strong><br>● More stuff to play around with<br>● Swimming locomotion<br>● Singleplayer quests<br>● Artworks from artist like Low Bros, Neo Rauch, Gero Doll...<br><br><strong>Far future content</strong> (probably not within Early Access)<br>● More planets <br>● Different game modes<br><br><strong>Press:</strong><br>Ben Lang from Road to VR:<br><i>“The Fearless Creativity of ‘Lucid Trips’ is Exactly What VR Needs to Thrive”</i><br><br>Joe Durbin from Upload VR<br><i>“Lucid Trips’ Provides The Most Freedom I’ve Ever Felt In VR”</i><br><br>----------------------------------------------------------------------------------------------<br>Warning:<br>1.) Lucid Trips is based on an experimental locomotion concept which can cause discomfort for some people. There is a comfort level which you can turn up and down by clicking right and left on the touchpad. 7 is maximum comfort with max particles in your view and vignette reaction. If you use Rift please steer to either site and press the thumb button to change the comfort level. Max recommended playtime for beginners 15 min.<br><br>2.) Since this is a 'sitting experience' Steam VR will fade out the Chaperone automatically after some seconds.Please be aware of this when playing standing.<br>----------------------------------------------------------------------------------------------<br><br>v.06<br><br>Known bugs:<br><br>When creating challenges for other players this mode still has some bugs. Hiding gems sometimes won’t work properly. (f.e. No gems in Inventory, no “place here” area projected) <br><br>If you haven’t recentered yourself with pressing and holding the menu button the game menu sometimes shows up with a wrong orientation to you. Please always recenter first. <br><br>Slightly decreased performance when using Oculus Rift &amp; Touch via Steam compared to HTC Vive.<br><br>Some physic bugs/anomalies.<br><br>Occasionally crashes in SteamVR menu if Vive camera is activated.<br><br>The Chaperone disappears when using Vive with a sitting or standing experience. We show a warning every time you recenter so you remember and make sure you avoid hurting yourself or your hardware. (This is not a bug)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389260/header.jpg?t=1611314825",
+    "developers": [
+      "Nico Uthe, Sara Lisa Vogl, Julian Heinken",
+      "VR Nerds"
+    ],
+    "publishers": [
+      "Sara Lisa Vogl",
+      "VR Nerds"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Won Distance Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389260/c230befde4ad7c86c2f95f084993b0c5475c797a.jpg"
+        },
+        {
+          "name": "Won Energy Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389260/70ded4e5ffeca831b45abc11c7468293ea671670.jpg"
+        },
+        {
+          "name": "Won Contacts Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389260/353ddce8fb4802569bbe77e804a2a97561ffe967.jpg"
+        },
+        {
+          "name": "Won Speed Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389260/61daad67561ccfe0658ee0b5396eff6cb11e3126.jpg"
+        },
+        {
+          "name": "Won Arcade Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389260/a964366531b3000bad64c218cffc444639dd59be.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

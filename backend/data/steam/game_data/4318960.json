@@ -1,0 +1,81 @@
+{
+  "4318960": {
+    "name": "ChickaBoom",
+    "steam_appid": 4318960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318960/extras/c43990643b2908b023249c0112c6e2e5.avif?t=1771938538\" width=616 height=108 /></span></p><p class=\"bb_paragraph\" ><strong>Introduction</strong></p><p class=\"bb_paragraph\" >ChickaBoom was initially created during a Game Jam and has been refined and extended to a present a more complete experience. It’s a relatively short game consisting of 50 levels. The game is inspired by a barrel-themed minigame from a well-known title featuring a tie-wearing gorilla.</p><p class=\"bb_paragraph\" ><strong>Gameplay</strong></p><p class=\"bb_paragraph\" >Guide a fearless chicken from barrel to barrel until it reaches the final destination. Each level begins with the chicken loaded into a barrel. With a single click, you fire it into the air, launching it toward the next barrel in the sequence.</p><p class=\"bb_paragraph\" >Timing and precision are everything. Barrels don’t always stay still. Some move, rotate, or fire automatically, forcing you to adapt on the fly. Along the way, special barrels introduce new layers of control: some let you slow the chicken mid-flight, others allow you to adjust firing power, and certain barrels give you full control over the firing angle before launch.</p><p class=\"bb_paragraph\" >Levels are packed with hazards that must be avoided, from environmental obstacles to tricky layouts that punish careless shots. Portals add another twist, instantly teleporting the chicken across the level and challenging you to think spatially and plan your trajectory ahead of time.</p><p class=\"bb_paragraph\" >One wrong click sends the chicken flying off course but the perfect shot feels <i>egg-cellent</i>.</p><p class=\"bb_paragraph\" ><strong>Background</strong></p><p class=\"bb_paragraph\" >Made by a Solo-Dev with love and care, I hope you enjoy the journey!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318960/560490cb14e0bf517e6ccef40c44490693f6d0ef/header.jpg?t=1771938538",
+    "developers": [
+      "KingsWill"
+    ],
+    "publishers": [
+      "KingsWill"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Chicken Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4318960/a67f3463ea5bb0d6fdb157e22327234ee4bb836c.jpg"
+        },
+        {
+          "name": "Chicken completionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4318960/fd8925e1bfef3a0039a9f7225689fd38ceabe02d.jpg"
+        },
+        {
+          "name": "Chicken King",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4318960/ea9cbad67d73e8558e4accf7653c8f483c2b729d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

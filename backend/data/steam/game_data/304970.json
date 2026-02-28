@@ -1,0 +1,51 @@
+{
+  "304970": {
+    "name": "SolidFace Parametric CAD Modeler 2D/3D",
+    "steam_appid": 304970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Part module</h2>SolidFace Sketch automatically creates parametric reference for modeling features that can be edited in a very simple and interactive way. This is an in-house developed module and fully integrated with the 3D module.<br><br>SolidFace allows multiple bodies creation. A powerful tool helps in the development of dependent parts from a single part file.<br><br>The parameterization allows not only an easy model editing, but also parts family creation that is an important issue in automating creation of variant models with the same constructive basis, such as fasteners, automotive, hydraulic and civil components. From a parametric part you can automatically generate dozens of others parts through parameters association, such as thickness, length, number and diameter of holes, color, material, information, text, etc.<h2 class=\"bb_tag\" >Assembly module</h2>Easy, accurate and effective, this module enables you to build assemblies using modeled parts and sub-assemblies. The automatic link between the modules facilitates the manipulation of assembly parts, thus any editing on a part or assembly, results in an automatic change in the assembly that references this component.<br><br>You can build assemblies by inserting components created outside the assembly document; this is known as bottom-up assembling or if you need to construct a component that needs dimension references of some assembly components, you can create it, within the Assembly module. This operation is called in-context or top-down part creation.<br><br>To facilitate the assembly process, the part elements can be enabled or disabled at any time without interfering the process of inserting (bottom-up) or creating (top-down) new components.<h2 class=\"bb_tag\" >Drawing module</h2>Besides the 2D draft capabilities explained in the SolidFace drawing product, you can also insert parts and assemblies into the drawing module in order to generate automatic orthographic, sections and details views. These views and dimensional annotations are created according to DIN and ANSI norms. Personalized by the designer. The 3D models views can be displayed in several model styles. The sections or details views are automatically created and aligned with the base view.<br><br>Another advantage of the automatic link between the modules is the ability to copy and paste 2D geometric entities to the 3D Sketch module in order to use it as reference geometry to 3D features operations like extrude, revolve, etc.<h2 class=\"bb_tag\" >Exploded view</h2>An exploded view is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. This allows the components (parts and sub-assemblies) to be visualized with defined displacements. The exploded view can be enabled or disabled at any time of the project creation.<h2 class=\"bb_tag\" >3D Direct modeling</h2>Interact directly with the geometry of the model. Manipulate it by pushing, pulling, or twisting.<br><br>Keeping the steps that create the final model, direct modelling allows the features geometry to be parametric modified by editing the feature used to create the new faces.<h2 class=\"bb_tag\" >2D/3D Movement simulation</h2>One of the many capabilities of logical conditions is to enable the system to detect the collision of components assembly. The collision or the simulation process can be aborted and analyzed at any time. This makes possible not just a simple mechanism video demonstration but also a real-time movement simulation.<br><br>The parameterization capability is one of the greatest advantages of SolidFace and it is present in all design steps. 3D Motion simulation is no different; the simulation is updated simultaneously with the movement. Another important capability is the simulation of 2D mechanisms, which can be performed either in 2D drawing or in 3D sketch module.<h2 class=\"bb_tag\" >Product specification</h2><ul class=\"bb_ul\"><li>Part module;<br></li><li>Sketch module;<br></li><li>Assembly module;<br></li><li>Drawing module;<br></li><li>Exploded view;<br></li><li>Communication with other applications through the Windows ® clipboard (Clipboard);<br></li><li>Communication with other CAD software via standard X_T®, X_B®, DWG®, DXF®, BMP, etc;<br></li><li>3D history construction tree and direct command editing;<br></li><li>Associative dimensioning and fully adapted to a number of standards;<br></li><li>Geometric operations and editing through direct entity or feature tree selection;<br></li><li>Parametric and associative geometric construction references such as midpoint, center of arcs and circles, endpoint, etc;<br></li><li>Creation of complex geometries such as cams, gears etc;<br></li><li>3D features construction such as Extrude, Revolve, Loft, Sweep, etc;<br></li><li>3D family of parts creation using CSV (Excel files association) or TXT table files;<br></li><li>Configurable toolbars;<br></li><li>Possibility of managing multiple projects simultaneously (multiple instances);<br></li><li>The graphics screen can be divided up to 16 view windows, allowing the visualization of several project details;<br></li><li>Print Preview;<br></li><li>3D and PDF® printing compatibility;<br></li><li>Local and global variables;<br></li><li>Definition of parametric variables via commands, questions, or variable tables;<br></li><li>Logical conditions If-then-else;<br></li><li>Parametric generation of bill of materials with associative link with Excel ® and Access ®;</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/header.jpg?t=1447362085",
+    "developers": [
+      "SolidFace Technology Inc.",
+      "Oscar L."
+    ],
+    "publishers": [
+      "SolidFace Technology Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 12 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

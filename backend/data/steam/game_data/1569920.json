@@ -1,0 +1,89 @@
+{
+  "1569920": {
+    "name": "Saphyro",
+    "steam_appid": 1569920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Saphyro 一款休闲物理游戏。您的任务是收集随机出现在游戏区域中的白色立方体，每个立方体可获得1分。困难在于，五彩斑platforms的平台会出现在朝随机方向移动的随机位置中，如果您击中了其中至少一个，您将会迷失方向，必须重新开始。而且，您控制的多维数据集一直在运动，并且您只能更改此运动的方向。利用您的反应速度和独创性。您可以收集多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-简单的游戏<br />\r\n<br />\r\n-简约的图形<br />\r\n<br />\r\n-悦耳的音乐",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 土耳其语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569920/header.jpg?t=1749428266",
+    "developers": [
+      "A Korh"
+    ],
+    "publishers": [
+      "AlKorh"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "10 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1569920/2f1f91980fdf2cd6896ea7f06dad8e799a5b27a8.jpg"
+        },
+        {
+          "name": "25 Points ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1569920/c83bccc2879725df64ffc34daf9f84f4ed9190e0.jpg"
+        },
+        {
+          "name": "50 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1569920/42d9e6d482a0ade478350d1c61adfa6a5931f619.jpg"
+        },
+        {
+          "name": "75 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1569920/c51e006b0f49a235ac0cd3dde5c1c15fbd5b84d2.jpg"
+        },
+        {
+          "name": "100 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1569920/da6ac4cd9f8b76ed3785780035d6bce71b1f9a2a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

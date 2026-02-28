@@ -1,0 +1,57 @@
+{
+  "1280420": {
+    "name": "Mannequin Character Generator",
+    "steam_appid": 1280420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mannequin is a 2D character portrait generator which is designed for video game developers (especially visual novels and JRPGs) and VTubers! Using this app, you can create full-body character portraits with various poses, clothing styles, hairstyles and expressions. VTuber models with face tracking are also available as an export option via Inochi2D, an open source standard developed as an alternative to Live2D.<br><br>Mannequin is fine-tuned with ease of use as its focus. If you're an artist or have an artist in your team, you will find Mannequin's simple interface useful for quick prototyping. If you're not an artist, then you'll find that its high-quality output can match a lot of other games' art, so you can confidently use it for production.<br><br><strong>You are free to use any of your exported character files in your personal and commercial projects.</strong>",
+    "supported_languages": "英语, 法语, 印度尼西亚语, 匈牙利语, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/header.jpg?t=1745874661",
+    "developers": [
+      "AR14.works"
+    ],
+    "publishers": [
+      "AR14.works"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "535170": {
+    "name": "Climbtime",
+    "steam_appid": 535170,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Game supports gamepad and VR Vive controllers.<br><br><strong>Game goals/modes</strong><br>The game currently has 4 modes<br><ul class=\"bb_ul\"><li>Climb<br>time-attack - reach the highest block(the one with a blue spinning cube over it same as the one at the base) as quickly as possible.<br><br></li><li>Glide<br>score-attack - score more points by flying faster/closer to rocks on glide down without crashing. When close to level bottom 'round over' will display. First 3 levels keep steam leaderboard scores.<br><br></li><li>Crystal Hunt<br>Find and collect(using the crystal shot) all 10 hidden crystals in the tower. The crystals are small blue cubes and create a sound which grows louder as you get nearer.<br><br></li><li>Explore<br>Glide or long-distance teleport over the terrain and enjoy the views which are modeled on the below real-world mountain and canyon terrains. More content to find in this mode coming.<br><br><ul class=\"bb_ul\"><li>Great Smoky Mountains, USA<br></li><li>Castle Valley, Utah, USA<br></li><li>Yosemite, USA<br></li><li>Grand Canyon, USA</li></ul></li></ul><br>See in-game pause menu(start button, F1 or Vive controller menu) for settings, Controls, Game modes and additional notes.<br><br>Note that game engine graphics and input config options can be accessed by holding down shift or alt or ctrl key while starting the game.<br><br>If using the Oculus Rift and the game fails to load, let me know and I will try to publish a separate branch download oculus rift specific version.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535170/header.jpg?t=1611239983",
+    "developers": [
+      "Saluda Systems"
+    ],
+    "publishers": [
+      "Saluda Systems"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "baby steps...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/0202e94dd84288c36f0066f49fe941a1bf548e1a.jpg"
+        },
+        {
+          "name": "bluebird",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/c4f050b381ace1371e51891eed9c43a123bac09b.jpg"
+        },
+        {
+          "name": "the far land",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/604fd027f8fa759b36f5ca24a8005e5c8ab67c61.jpg"
+        },
+        {
+          "name": "gone in 60",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/548d79d24b0a0246fa20cbe6645962f649a47642.jpg"
+        },
+        {
+          "name": "a simple plan",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/821d4c1e415780dad846f83e36690c0477b9a63e.jpg"
+        },
+        {
+          "name": "the full measure",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/c6c639251751a5cc9084c33a94116da587fe3ddc.jpg"
+        },
+        {
+          "name": "fight fire with fire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/db53e13eec586c97d0b4bfa180740acb5b9a8590.jpg"
+        },
+        {
+          "name": "crystal method",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/57882ae544ce369e1f061816956831441725fa36.jpg"
+        },
+        {
+          "name": "these three remain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/535170/09293e93352e3ba6a08e91b4d6df8faa55748be0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

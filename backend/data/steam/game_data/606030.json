@@ -1,0 +1,114 @@
+{
+  "606030": {
+    "name": "Meganoid",
+    "steam_appid": 606030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>关于游戏</strong><br>Meganoid是一个具有挑战性的平台，在每场比赛中创造新的水平。找到许多物品，以便在您下降到Meganoid太空船时增强您的角色和他的能力。你是否急于出口，或者你花时间收集所有的东西，几乎没有逃避安全无人机，如果你徘徊将会追捕你。<br><br><strong>主要功能</strong><br><ul class=\"bb_ul\"><li>每个游戏会话随机生成的级别，基于一组模板，使得级别独一无二，但同时熟悉。</li><li>具有“roguelike”元素的平台。消耗品，替代路线，程序生成以及许多设备和小工具增加了原始Meganoid [/]的挑战性游戏的深度。<br></li><li>许多收藏品可以改变主角的导航世界的能力。找到一个jetpack开始飞行，找到反重力靴来执行双跳，还有更多。</li><li>隐藏的红利区域找到并解锁。通常为您提供一个简短的或非常稀有和强大的项目。</li><li>一个黑客游戏世界。寻找绿色钥匙卡可以让您修改游戏的某些元素如何行事并对您做出回应。停止火箭发射器的工作，使火箭飞行不太远，使毁坏的机器人放下额外的生命。</li><li>使用您遇到的所有项目和敌人的信息解锁数据库，以便在下次尝试时做好准备。</li><li>在真正的Meganoid传统中，你会以许多不同的方式死亡，但是你会学会克服困难，学习Meganoid世界如何运作，并最终到达底层！</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606030/header.jpg?t=1741704405",
+    "developers": [
+      "Orangepixel"
+    ],
+    "publishers": [
+      "Orangepixel",
+      "HandyGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4500,
+      "final": 4500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 45.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 71,
+      "highlighted": [
+        {
+          "name": "Reach the Bio-dome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/03b53dbd76f2f03bb5a3a34e411bcdc3eec78fdb.jpg"
+        },
+        {
+          "name": "Reach the lab",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/6eb8edf0b7319d37be06742501d54370906c4cc6.jpg"
+        },
+        {
+          "name": "Reach the hull breach",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/1aa3cbd20a7b20c077238356efd47510577dfc0c.jpg"
+        },
+        {
+          "name": "Find gravity disc",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/b8712ea126982dcb2ddfbddbfc2ffab7c888ecbd.jpg"
+        },
+        {
+          "name": "Hack it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/482079095b729d9fc846ae077a63a02461d46421.jpg"
+        },
+        {
+          "name": "Improve yourself",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/7225de25ee05f5a17956e12ea595bb37200c733e.jpg"
+        },
+        {
+          "name": "Heal yourself",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/65bdb851f33d2cccfc72b5c051b17243863fcf7f.jpg"
+        },
+        {
+          "name": "Modify yourself",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/a765da3dbf9eb7a220efdd1d0e466da1377e2e83.jpg"
+        },
+        {
+          "name": "Fly away",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/19a0726607f1f7231ecc09c52d335fd6558ef251.jpg"
+        },
+        {
+          "name": "Zappa!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/606030/c48f23264056518213ac780ca6622dff0e473dc4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1352130": {
+    "name": "Nonsense Soccer",
+    "steam_appid": 1352130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/3932e0a295f1b5415e5a1ecc1168321e.poster.avif?t=1739207884\" width=550 height=354 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/3932e0a295f1b5415e5a1ecc1168321e.webm?t=1739207884\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/3932e0a295f1b5415e5a1ecc1168321e.mp4?t=1739207884\" type=\"video/mp4\"></video></span><br><br>⚽ Nonsense Soccer ⚽ is a platformer-soccer-hybrid for people who like chaotic local multiplayer games. At its core it's a fun little soccer game with simple controls for up to 4 players.  With 8 cool multiplayer arenas and a short but sweet target practice mode for solo players, there's already hours of fun to be had with, with more content to be added in the future.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/41be490935f708476491c7310707b8f9.poster.avif?t=1739207884\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/41be490935f708476491c7310707b8f9.webm?t=1739207884\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/extras/41be490935f708476491c7310707b8f9.mp4?t=1739207884\" type=\"video/mp4\"></video></span><br><br>⚽Update #3 out now! ⚽<br><br><ul class=\"bb_ul\"><li>Added new extra large &quot;Stadium XL&quot; level<br></li><li>Added new player indicators when players go out of camera bounds (in XL levels)<br></li><li>Added high scores to Target Practice mode<br></li><li>Added basic stat collecting<br></li><li>Added support for 21:9 resolution<br></li><li>Changed the app icon<br></li><li>Fixed: After playing local multiplayer, target practice was sometimes unplayable until game restart<br></li><li>Fixed: Sound and Music settings behaved weird<br></li><li>Fixed: Possible crash when there was no save file present</li></ul><br><strong>This game is in an early access state and does not represent the final quality of the product. Expect weird bugs, things looking &amp; behaving crazy and all the other fun things and some work-in-progress things that make the game not fun. It's highly recommended to give feedback and bug reports in the community, send me video links to YouTube, ping me on Twitter and all the stuff like that.</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352130/header.jpg?t=1739207884",
+    "developers": [
+      "Antti Kolehmainen"
+    ],
+    "publishers": [
+      "Parta Games Oy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

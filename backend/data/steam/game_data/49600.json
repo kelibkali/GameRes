@@ -1,0 +1,165 @@
+{
+  "49600": {
+    "name": "Beat Hazard",
+    "steam_appid": 49600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "欢迎来到全新的游戏体验：危险节奏（Beat Hazard）<br>游戏由你的音乐驾驭！<br>用这艘由激烈音乐驱动的宇宙战机来前所未有地体验你的音乐收藏。你的每一首歌都将有基于音乐且独一无二的潮起潮落。 <br>升级你的宇宙船并注意看音乐提升你的火力。当你的武器升级到最大火力时，把敌人的宇宙船通通送去地狱！<br>危险节奏把对游戏和音乐的热爱结合的天衣无缝，而非简单的加和。<ul class=\"bb_ul\"><li>由音乐驱动的独一无二的玩法<br></li><li>你的音乐收藏有多广，游戏玩法的可能性就有多广<br></li><li>你能在生存模式里坚持一整个专辑吗？<br></li><li>在本地 2 人模式里来对抗吧<br></li><li>或者进行本地 2 人合作游戏<br></li><li>25 个 Steam 成就<br></li><li>和你的朋友在 Steam 排行榜上一决高下<br></li><li>通过游戏中新闻系统获取实时更新<br></li><li>挑战巨大的旗舰宇宙船<br></li><li>升级并释放致命的危险节奏武器<br></li><li>提升等级至精英级驾驶员并超越（你能在自杀难度里存活吗？）<br></li><li>包含一张刺激的摇滚专辑，用它上手<br></li><li>支持的文件类型：mp3/wav/aiff/ogg/mwa/flac<br></li><li>通过一个小额付费下载支持 iTunes, aac, mp4 以及 m4a（用以支付专利解码器授权费）<br></li><li>支持 LastFM Scrobble 功能<br></li><li>现在也支持包括在线形式的全部种类互联网电台</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 意大利语, 西班牙语 - 西班牙, 荷兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/header.jpg?t=1745498136",
+    "developers": [
+      "Cold Beam Games"
+    ],
+    "publishers": [
+      "Cold Beam Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2010 年 4 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 63,
+      "highlighted": [
+        {
+          "name": "Perfect",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/ced539e3b38117d40169cb10cbbb411e4d1d34b5.jpg"
+        },
+        {
+          "name": "Don't Panic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/c9bb3b01d28a3ca1ac13c9bbf1bbd0837a51fe25.jpg"
+        },
+        {
+          "name": "x100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/bc988fc5a85a4380021a368bf9aeca02ef248549.jpg"
+        },
+        {
+          "name": "Boss Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/72ba821a14ec646c24d49266d8009fd2814ab543.jpg"
+        },
+        {
+          "name": "Brutal Boss Kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/25ae7af3eb530bcd5527b3c04d384f2eae93a550.jpg"
+        },
+        {
+          "name": "Pwnage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/9c5a77bafea6c0f50bf6b5cc62f3ebf2b589df66.jpg"
+        },
+        {
+          "name": "A Real Dare Devil",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/ab3b6a26e43979e9f795fe494c4eaee7cb082d8f.jpg"
+        },
+        {
+          "name": "Go Platinum",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/3f23bb6a396d580942d82cb8a0e834df5a61cda2.jpg"
+        },
+        {
+          "name": "1st Track Cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/cf81c3e387da3d754d66d920ed990ec7ba9aefb4.jpg"
+        },
+        {
+          "name": "25!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/49600/99fde593893011bb46624d2fba35e71022bc5803.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 233,
+      "total_negative": 13,
+      "total_reviews": 246
+    }
+  }
+}

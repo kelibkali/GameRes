@@ -1,0 +1,61 @@
+{
+  "1453250": {
+    "name": "电影院模拟器",
+    "steam_appid": 1453250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《电影院模拟器》使用流程<br />\r\n1.准备你的宝贝影片在一个文件夹中<br />\r\n2.复制你的文件夹路径<br />\r\n3.进入游戏点开设置输入文件夹路径<br />\r\n4.开始游玩<br />\r\n<br />\r\n作者的话：<br />\r\n第一款游戏注定是最失败的游戏，但我确是个会成长的游戏开发者，如果你游玩的时候发现bug，那么恭喜你找到了游戏的正确玩法。<br />\r\n这是一次注定失败的小试牛刀，所以我会接受所有批评的话。<br />\r\n如果这游戏能给你带来一点快乐，那都是我荣幸！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453250/header.jpg?t=1667008308",
+    "developers": [
+      "Woodpecker"
+    ],
+    "publishers": [
+      "Woodpecker"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 20,
+      "total_negative": 3,
+      "total_reviews": 23
+    }
+  }
+}

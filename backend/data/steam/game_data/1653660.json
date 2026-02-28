@@ -1,0 +1,69 @@
+{
+  "1653660": {
+    "name": "Box Pusher",
+    "steam_appid": 1653660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This simple sokoban style game player need push different color boxes to destined locations. Every color goes to same colored goals. So red box to red goal box.<br>Match the box colors to goal colors complete the level. Try to move as little as possible, as fast as possible and collect as many coins as you can<br> There is save system which save and register player fastest time, steps taken and collected coins. Also when finished level next level will be unlocked. 16 different levels<h2 class=\"bb_tag\" >Features:</h2>- 5 different colors boxes<br>- 16 levels with unlocked level system<br>- Steam achievements<br>- Collect coins<br>-  score and time system",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1653660/header.jpg?t=1764608855",
+    "developers": [
+      "Ruskija Game Experience"
+    ],
+    "publishers": [
+      "Tero Lunkka"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Play game in row 1 minute",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1653660/8456673ad04955837acdf78b37803d4846f1b0b1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

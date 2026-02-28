@@ -1,0 +1,59 @@
+{
+  "1047340": {
+    "name": "TimeFall",
+    "steam_appid": 1047340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你一定玩过俄罗斯方块，但这是你没有玩过的船新版本！<h2 class=\"bb_tag\" >无极走位</h2>在本游戏中，图形的移动不会受单位格的限制。<br><strong>图形能够移动到任意的坐标而非整数单位。</strong><br><strong>图形的旋转也可以是任意的角度。</strong><h2 class=\"bb_tag\" >死亡切割</h2>当图形满足下列条件时，图形将被切割成多块。<br><strong>图形上的倒计时归零时。</strong><br><strong>一层中图形的填充达到要求时。</strong><br><i>这意味着随着游戏的进行，您一旦有放斜了的图形，那么游戏中将会出现很多不规则的物体（这到底是福还是祸呢（笑））</i><h2 class=\"bb_tag\" >难度分级</h2>针对单人模式，我提供了三种不同的难度。<br><strong>简单</strong>当层填充达到75% 即可得分消除。<br><strong>普通</strong>当层填充达到85% 即可得分消除。<br><strong>困难</strong>当层填充达到90% 即可得分消除。<br><i>目前我自己测试认为简单模式似乎过于简单，后续的难度会根据反馈进行相关的调整。</i><h2 class=\"bb_tag\" >得分规则</h2>与传统的得分不同，我设计了一套新的得分规则。<br><strong>由一行的填充度*1000 得到改行消除的得分。</strong><br><strong>连续消除两行则将两行所得总分*2。</strong><br><strong>连续消除三行则将三行总分*3 以此类推。</strong><h2 class=\"bb_tag\" >开发计划</h2>如果当前版本反馈较好，那么我会继续完成游戏的两外两个模式。<br><i>合作模式</i>【2019.4.14更新】该模式目前已完成开发：一人操控下落的图形，另一位玩家操控一个可以自由移动的小方块协助另一位玩家游戏。如果该方块碰到红色区域或是被销毁都会受到惩罚。[/i]<br><i>对战模式</i>两个人拥有不同的区域，可以通过消耗分数来使用道具骚扰你的对手<br>这两个模式都会有联机以及本地分屏可供选择<br><br>玩家交流群：582300627 （口令：TimeFall）",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047340/header.jpg?t=1570252643",
+    "developers": [
+      "Unlimited_Deer_",
+      "ASSM"
+    ],
+    "publishers": [
+      "Unlimited_Deer_",
+      "ASSM"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

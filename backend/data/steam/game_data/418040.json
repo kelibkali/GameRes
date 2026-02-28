@@ -1,0 +1,94 @@
+{
+  "418040": {
+    "name": "hocus",
+    "steam_appid": 418040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "hocus. is a minimal perspective illusion puzzle based on M.C. Escher drawings and impossible shapes.<br><br><ul class=\"bb_ul\"><li> Highscore mode: Play with AI </li></ul><br><ul class=\"bb_ul\"><li> 120 Beautifully crafted mind bending levels /list]<br><br><ul class=\"bb_ul\"><li> Create and share your levels as a card or code </li></ul></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418040/header.jpg?t=1627169404",
+    "developers": [
+      "Yunus Ayyildiz",
+      "Sho Ohhira"
+    ],
+    "publishers": [
+      "Yunus Ayyildiz"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "complete level 25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418040/452a364433afca0cf637ef6d207041fa8014d076.jpg"
+        },
+        {
+          "name": "complete level 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418040/a3ef7e65b1a1f8e9ee7811bac5a264d894cc4fab.jpg"
+        },
+        {
+          "name": "complete level 75",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418040/160ecb322e29a502bd9b724f783739b35b349545.jpg"
+        },
+        {
+          "name": "complete level 99",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418040/d4d64e103c4d53cd5bd9472c95c8695eb60e0b2e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 57,
+      "total_negative": 5,
+      "total_reviews": 62
+    }
+  }
+}

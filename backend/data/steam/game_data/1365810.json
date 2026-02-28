@@ -1,0 +1,77 @@
+{
+  "1365810": {
+    "name": "Fate in the Darkness",
+    "steam_appid": 1365810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "As planned this is an RPG-sandbox in board game style, with a gothic fantasy atmosphere.<br>А living own life world, which you can interact through the game character, attended events, tasks and game deck.<br>The goal of this project is to port board game.<br><br><strong>In this time the gameplay is a journey through the main game location.</strong><br>This demonstrates the work I have done, from scratch.<br><br><u>The game is raw.</u><br> Core aspects such as: generation of game characters, map-pocessing algorythm, most part of AI logic and e.t.c. are mostly done. But still in need of optimization and content. Also there is a dungeon map-generator, but it's unfinished and not integrated.<br><strong> Graphics will be changed and balance will be updated. Plenty of dialogs, events, tasks, items and objects are gonna be added.<br>Have in plans to add co-op up to 4 players and map-creation tools.</strong><br>Since it's my pesonal project - I can change/add/delete any part of it if I see fit.<br><br>Patreon:<br>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1365810/header.jpg?t=1613338658",
+    "developers": [
+      "svyatys"
+    ],
+    "publishers": [
+      "svyatys"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Support stamp",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1365810/b4c524d1858bc56eeebbfadd7c3acf3873b3173d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

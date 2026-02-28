@@ -1,0 +1,65 @@
+{
+  "736420": {
+    "name": "Yag",
+    "steam_appid": 736420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "YAG (Yet Another Gameboard) is a 3D Virtual Tabletop (VTT), perfect to use as a digital gaming table to play online with your friends.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/af1e322286a600e90e43af7fd15dde2b.avif?t=1648306818\" width=480 height=270 /></span><br><br>It can procedurally generate dungeons and voxel terrains in a few clicks and let you modify them manually with standard editing tools.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/dfa6392c1d8e3378a6e598bb93391ee2.avif?t=1648306818\" width=480 height=270 /></span><br><br>It offers thousands of animated pawns in many universes: prehistoric, antiquity, medieval, medieval fantasy, medieval asian, pirates, western, modern, post apocalyptic, cyberpunk, steampunk, science fiction, toon.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/7d46cf717e8409560adf5adb8642249f.avif?t=1648306818\" width=480 height=270 /></span><br><br>Yag content is managed through DLCs. All DLCs are and will remain free. So when buying Yag you are assured to get present and future content for free.<br><br>Initially designed with Role Playing Games (RPG) in mind, it can be used for any game requiring maps, pawns, and dice.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/50db77572545fffcbb0968cb498e491d.avif?t=1648306818\" width=480 height=270 /></span><br><br>Being able to import pictures and to add square/hexa grids makes it also very well suited for wargames.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/21bd20bc696193e052be179855c7c812.avif?t=1648306818\" width=480 height=270 /></span><br><br>Yag offers a lot of visual options: 3D dynamic lights, realistic atmosphere, clouds, fog, each having many parameters to play with. This lets you create many different ambiences.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/23c60a2190a1edb3ec0912c1c0fcda77.avif?t=1648306818\" width=480 height=270 /></span><br><br>It also has many features to hide content from the players and surprise them.<br><ul class=\"bb_ul\"><li> Pawns can be invisible (selective, for invisibility spells/potions, or global, to simply hide content from all the players)<br></li><li> Pitch black maps + real time lights (torches, fire, etc) are a great way to let the players discover the content while maintaining a immersive gameplay<br></li><li> A fog of war with variable resolution and opacity.</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/7ad70ad462ababcd636f8a697ab0ef74.avif?t=1648306818\" width=480 height=270 /></span><br><br>Yag has a lot of useful features, the most noticeable ones being:<br><ul class=\"bb_ul\"><li> A powerful camera system to teleport yourself or send players to various parts of the map<br></li><li> Entirely customizable dice and simple character sheets (dice language and character sheets are fully written using LUA scripting and are exposed to the more advanced users, allowing complete automation/rewriting).<br></li><li> Colors filters and post process effects to add many variations to the atmosphere of any scene (toon shading, inking, outlining, painting, blur, etc.)<br></li><li> An embedded web server responding to an http rest api allowing to control Yag to some extent from a web browser/phone/tablet, etc.</li></ul>Please see the full list of features on the yagame.fr website.<br><br>Yag proposes a lot of help for newcomers (tooltips, ingame documentation and realtime help, many pdf files, tutorial videos…) as well as for advanced users (LUA api and http rest api are fully documented).<br><br>Finally, a Discord server and a Steam forum allow anyone to reach a friendly community and get fast answers to any question/request/suggestion.<br><br>We hope to see you soon in Yag :-)<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/extras/0e3b102f7a07b3df58f4a5b7b6e8d19b.avif?t=1648306818\" width=480 height=270 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736420/header.jpg?t=1648306818",
+    "developers": [
+      "Bonjourcoco"
+    ],
+    "publishers": [
+      "Bonjourcoco"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5700,
+      "final": 5700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 57.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

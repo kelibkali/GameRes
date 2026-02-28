@@ -1,0 +1,117 @@
+{
+  "503860": {
+    "name": "Patterna",
+    "steam_appid": 503860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Patterna是一款为那些认为Hexcells太简单的玩家设计的逻辑益智游戏。游戏具有高度自定义化的关卡生成器和关卡编辑器，超过70个关卡，同时由Alex Cottrell创作的迷人极简风格音乐。<br><br>在Patterna中，每个关卡都是由节点组成的网络（也称为图形）。在某一方面类似于HexCells或Minesweeper，每个节点都基本上处于一种或者两种状态（成为模式和非模式）。最初，大多数节点的状态都是未知的。玩家的任务是基于距离，连通性和颜色等信息来正确地分类这些未显示的节点。正确的节点分类可能会显示更多的信息，这反过来又帮助你解决关卡。<br><br><ul class=\"bb_ul\"><li> 超过70个关卡，附加教程<br></li><li> 带有大量选项的关卡生成器的程序生成关卡<br></li><li> 由Alex Cottrell创作的迷人极简风格原声音乐<br></li><li> 完全不需要猜测<br></li><li> 支持关卡编辑和Steam创意工坊<br></li><li> 大量的游戏数据统计</li></ul>",
+    "supported_languages": "英语, 德语, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503860/header.jpg?t=1617119021",
+    "developers": [
+      "Sebastian Schöner"
+    ],
+    "publishers": [
+      "Sebastian Schöner"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 52,
+      "highlighted": [
+        {
+          "name": "Getting your head around it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Progress!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Not bad.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "You really enjoy this, don't you?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Is it 2023 yet?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Please contact us, we can get you some help.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "You know, there is a whole WORLD outside of your computer.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Custom Levels? Custom Levels!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "Exploring the possibilities",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        },
+        {
+          "name": "There are many more where these come from.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/503860/364fb17269e1b174fb7454a8d1ad66eac649c6eb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

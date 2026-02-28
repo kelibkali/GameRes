@@ -1,0 +1,97 @@
+{
+  "1582700": {
+    "name": "Capsule",
+    "steam_appid": 1582700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/Stage2.gif [/]<h2 class=\"bb_tag\" >遊戲故事[/]ㅤ<br>有一天，邪惡的力量出現了，把森林變成了一片沙漠，污染了土地。<br>生活在森林中的動物和人也變成了邪惡力量。<br>因此，上帝使戰士們睡在膠囊中以淨化邪惡的力量。<br>戰士們真的可以淨化邪惡的力量嗎？<br><br>ㅤ<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/CharacterMove.gif [/]<h2 class=\"bb_tag\" >功能[/]<br>[列表] <ul class=\"bb_ul\"><li>易於操作。 [/列表]<br>[列表] </li><li>有一些元素可以解鎖項目和角色。[/列表]<br><ul class=\"bb_ul\"> <li>有隱藏的階段。[/]<br>[列表] </li><li>使用可愛的點字符。 [/列表]<br><ul class=\"bb_ul\"> <li>使用帶有節拍的音樂。 [/列表]<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/CharacterMove.gif [/]</li></ul></li></ul></li></ul></h2></h2>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1582700/header.jpg?t=1617852975",
+    "developers": [
+      "Cola Lover Games"
+    ],
+    "publishers": [
+      "Cola Lover Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First Play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/ba31fd529610eb701c0872f3ab897ac78c77495e.jpg"
+        },
+        {
+          "name": "Stage1 Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/cd0cd0e6b0b0947d6796218d194b6d36cd98832c.jpg"
+        },
+        {
+          "name": "Stage2 Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/ed442f1f07da17d730aad527f00a16563e148262.jpg"
+        },
+        {
+          "name": "Stage3 Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/e35cb71edd53e56885c0017c26f4e6d9e97c8ce5.jpg"
+        },
+        {
+          "name": " Stage4 Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/2a87479a3709311159a66f18243903670a1d8174.jpg"
+        },
+        {
+          "name": "Ending?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/0c8cf9c70630c10f90602e2eab5f23315b78d3cd.jpg"
+        },
+        {
+          "name": "Ending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1582700/c669a2929adca7fbf3c64b17026c67936919a875.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "1321870": {
+    "name": "Banana Slug Beach",
+    "steam_appid": 1321870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In Banana Slug Beach everything is dynamically generated using voxels, unique and fully sculptable.<br><br>You're a transparent banana slug who finds themselves in a massive new world replete with tall mountains, deserts, trees and countless places to explore. You'll need to discover what abilities you have to survive and thrive in what can be a dangerous existence! Get your friends involved via multiplayer, but watch out - they can devour your creations or YOU!<br><br>Everything, from the smallest piece of debris to the tallest tower you create, is permanently saved and echoes on through eternity (but you can always start anew!). Natural disasters can occur, making for some exciting adaptations.<br><br><br><strong>Gameplay specifics</strong><br><ul class=\"bb_ul\"><li>Everything is destructible; Wooden wall in your way? Toss a cannon ball to break it down. The shattered remnants of the wall will remain in the world as a reminder of your destructive past.<br></li><li>Materials like wood and rock can be devoured using your slug radula, then repurposed for building things<br></li><li>Learn new shapes, modifiers, and operators for building - when you devour a form you learn its secrets<br></li><li>Create projectiles from any shape to go offensive against another player, or to distract an aggressive tree slug.<br></li><li>Befriend slugs dwelling in the trees, they're able to reproduce nearby objects for you to devour - the more time you spend with a slug the friendlier it may be<br></li><li>Like a hermit crab, you must find a shell to latch onto. If you become detached from your shell you have a short time to find another- failing to do so will cause you to drift on the winds toward the nearest Nest.<br></li><li>You can leap out of your current shell at any time to escape danger, or to jump into a new shell.<br></li><li>If you find yourself drifting on the wind after failing to acquire a shell, your friends can rescue you by touching you or tossing a new shell your way.</li></ul><br><strong>Sculpting</strong><br><ul class=\"bb_ul\"><li>Use the shapes you have learned to sculpt your world--build a fort, or sculpt your own body.<br></li><li>After sculpting something, you can copy it, making it into a single composite which can be manipulated and pasted<br></li><li>There are hundreds of shapes to find including..<br><ul class=\"bb_ul\"><li>Procedural shapes such as spheres, boxes, capsules and many more<br></li><li>Volumes generated from high poly meshes<br></li><li>Fonts so you can create signs &amp; messages<br></li><li>Fractals such as mandelbulb, menger sponge, and some custom new ones</li></ul></li><li>Operators allow you to control how the shape is merged with its surroundings, providing control over  the blend radius, height, curve shape etc.<br> </li><li>Modifiers warp the shape in some way, allowing for things such as mirroring, spinning, displacement, and applying many different kinds of noises &amp; patterns to the surface.</li></ul><br><strong>Multiplayer</strong><br><ul class=\"bb_ul\"><li>Play cooperatively, building and exploring together<br></li><li>Play competitively; compete for resources, destroy each others bases, or just devour one another</li></ul><ul class=\"bb_ul\"><li>Multiplayer is optional, but you may find it more enjoyable with friends<br></li><li>Player hosted servers are supported</li></ul><br><strong>Getting Started</strong><br><ul class=\"bb_ul\"><li>It's best to start with the creative building mode where there aren't consequences<br></li><li>Once you are familiar with the basics, switch to hunter-gatherer mode where you start with very little!<br></li><li>Using keyboard + mouse it controls like a first person game, with the addition of key commands to manipulate Voxels. Also supports Xbox style controllers.<br></li><li>Game rules are user adjustable Extensive editing tools; procedural shapes, fractals, domain manipulators, to baked volumes</li></ul><br><strong>Advanced</strong><br><ul class=\"bb_ul\"><li>In game editor that allows for the host to control the world generation rules, it is the same editor used by the developer, and allows for controlling the placement, distribution, size etc of all pre-generated world content.<br></li><li>Banana Slug Beach is fully supported by the developer, and will continue to receive updates and new features</li></ul><br><strong>Technical</strong><br><ul class=\"bb_ul\"><li>Built on a custom game engine designed entirely around signed distance fields, this allows for smooth features, which is why the game is not made of tiny little bricks like Minecraft<br></li><li>All audio is Spatialized, allow you to pinpoint where it originated<br></li><li>Runs on a wide range of hardware--as the geometry is generated at runtime, it can be tailored to the capabilities of your GPU</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321870/header.jpg?t=1607646702",
+    "developers": [
+      "Niad"
+    ],
+    "publishers": [
+      "Niad"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

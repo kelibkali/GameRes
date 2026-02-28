@@ -1,0 +1,69 @@
+{
+  "1177940": {
+    "name": "Mass Plus",
+    "steam_appid": 1177940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mass Plus tasks players with using physics driven, self replicating, projectiles to complete levels by destroying target spheres.  Each level can be completed quickly but achieving high scores will require a more steady approach. <br />\r\n<br />\r\nProjectile spheres will spawn - and consume - smaller versions of themselves, increasing their size until they reach a critical mass. As a sphere grows, its pull on neighbors does as well. Players will have to carefully consider the merits of growing a sphere and risking its annihilation versus completing levels more quickly for a lesser score.  <br />\r\n<br />\r\nIn Mass Plus, a player's score is determined by precision, planning, and a little luck. Will you race to complete each level or strive to be the top of a global leader board?",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177940/header.jpg?t=1573848060",
+    "developers": [
+      "Gray Sage"
+    ],
+    "publishers": [
+      "Gray Sage"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

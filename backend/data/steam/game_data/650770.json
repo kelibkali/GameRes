@@ -1,0 +1,61 @@
+{
+  "650770": {
+    "name": "Time Gun / 时间枪",
+    "steam_appid": 650770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《时间枪》是一款第一人称解谜游戏。玩家可以利用时间枪控制物体的时间状态。游戏目的是利用时间枪逃出封闭的实验室。<br />\r\n游戏特色：<br />\r\n独特的游戏机制：时间暂停子弹和时间倒流子弹。<br />\r\n独特的游戏地图：莫比乌斯环地图，三叶结地图等。<br />\r\n时间倒流子弹：倒流时长可以通过连击累积，一发子弹倒流一秒，子弹化时间。<br />\r\n时间暂停子弹：暂停时长可以通过连击累积，一发子弹暂停一秒，子弹化时间。",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650770/header.jpg?t=1511366602",
+    "developers": [
+      "chaosikaros"
+    ],
+    "publishers": [
+      "chaosikaros"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 3000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 30.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "1056780": {
+    "name": "Clickteam Fusion 2.5+ Addon",
+    "steam_appid": 1056780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Clickteam Fusion 2.5+ enhances your existing copy of Clickteam Fusion 2.5 Standard or Developer by providing some very powerful additional features and improving functions in several places.<br><br>Access the power of event editor with even more ease using child events in your projects, qualifiers in global events, customizable qualifiers and a global event list editor. <br><br>Improve the performances of your applications with new engine optimizations and a new Windows runtime using DirectX 11.<br><br>Debugging your application has never been easier with the addition of new features like the built in profiler that allows you to examine the time taken by each event line of your application. The resulting output allows you to detect any bottleneck in your events and optimize your application's frame rate. Or the new Find All function that searches your entire application for your search criteria and provides a new output window with the results. Find what you are looking for in the list, click it to jump directly there!<br><br>A ton of other features include<br><br><ul class=\"bb_ul\"><li>Faster loading and saving times<br></li><li>Define up to 260 alterable values and 260 alterable strings per object in the editor<br></li><li>New selection commands in the frame editor<br></li><li>Objects alphabetically sorted in the Workspace window<br></li><li>Run app from specific frame<br></li><li>A new Output window in the debugger to display debug messages<br></li><li>The ability to see and replace all fonts in your application in the Data Element editor<br></li><li>Actions to preload graphic and sound files to accelerate later Load Frame, Set Effect Texture or Play Sample File actions<br></li><li>And more!</li></ul>",
+    "supported_languages": "英语, 法语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056780/header.jpg?t=1669177474",
+    "developers": [
+      "Clickteam"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 16300,
+      "final": 16300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 163.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "1006170": {
+    "name": "消灭魔王军 Destroy the Demon Army",
+    "steam_appid": 1006170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本作是一款复古放置类游戏，玩家不需或只需很少的操作即可让游戏自动运行下去，目标是消灭全部的魔王军及魔王。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1006170/header.jpg?t=1745637173",
+    "developers": [
+      "Blueprint Core"
+    ],
+    "publishers": [
+      "Blueprint Core"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "集结号角",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/7bcd49a7e26dc2bfe8468382fb3989bbc0f97319.jpg"
+        },
+        {
+          "name": "英雄时代",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/11996879dc0dc5b25af10727d719c7fe094b9a51.jpg"
+        },
+        {
+          "name": "农民起义",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/7e31afbed3ed263d9ffec45e1118feed2c6ffcb6.jpg"
+        },
+        {
+          "name": "剑与盾",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/899702ee8bd7a64b3ad130eaebc43864999b9c3b.jpg"
+        },
+        {
+          "name": "风之力",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/84af2ae0af46459d271061ca774b968059d8e250.jpg"
+        },
+        {
+          "name": "突击！突击！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/db33a7c3f0c58df23d0f2015294c54a8583cb413.jpg"
+        },
+        {
+          "name": "吾主在此",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/cbf19e24a03705991a20abb6eab8d7dcd9f4f3f0.jpg"
+        },
+        {
+          "name": "粉身碎骨",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1006170/903b62aad347403a186bf1e98753deac7fafa47b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 4,
+      "total_negative": 8,
+      "total_reviews": 12
+    }
+  }
+}

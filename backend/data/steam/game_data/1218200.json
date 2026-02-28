@@ -1,0 +1,105 @@
+{
+  "1218200": {
+    "name": "Game Of Puzzles: Space",
+    "steam_appid": 1218200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Game Of Puzzles: Space</strong> - 是一款游戏，您必须旋转拼图才能解决难题。<br><strong>特征:</strong><br><ul class=\"bb_ul\"><li> 50级<br></li><li> 适合所有年龄段<br></li><li> 简单的鼠标控制<br></li><li> 尺寸范围从16到36件<br></li><li> 简单易懂的游戏玩法<br></li><li> Steam成就</li></ul><strong>Credits:</strong> 该游戏是使用Clickteam Fusion 2.5创建的！ Erwarda Savitnaag的音乐。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 葡萄牙语 - 巴西, 匈牙利语, 越南语, 希腊语, 丹麦语, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 荷兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 泰语, 土耳其语, 乌克兰语, 芬兰语, 捷克语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218200/header.jpg?t=1684997092",
+    "developers": [
+      "Snkl Studio"
+    ],
+    "publishers": [
+      "Snkl Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 51,
+      "highlighted": [
+        {
+          "name": "GoP",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/f6a53982cca62c100aef99d4cb74fad79653d97b.jpg"
+        },
+        {
+          "name": "W",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/f3e467335661af874dfcfb694c4234d28b0686fe.jpg"
+        },
+        {
+          "name": "E",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/0481583cfe184697ecbad29b218c68d9567cf318.jpg"
+        },
+        {
+          "name": "R",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/65692f03d7e6dd8fa32421a9a8fcd2d6a4e77bd9.jpg"
+        },
+        {
+          "name": "T",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/d09539f0ca9c7b683eeb6ba05d6f06d84d39a817.jpg"
+        },
+        {
+          "name": "Y",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/abed27be80ae10c85d7f1aa56bf5ea68f26e464e.jpg"
+        },
+        {
+          "name": "U",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/a5a93bff02c14bb939b7ff1045c003ed7a97c207.jpg"
+        },
+        {
+          "name": "I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/40476025cdea49cb3a6587363ced6a68c5720ed4.jpg"
+        },
+        {
+          "name": "O",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/e6e81923d47f55b80b19658c9e0034e944856771.jpg"
+        },
+        {
+          "name": "P",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218200/b691b4697a6aaa39e44869cfb6f73ebcfff231b3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

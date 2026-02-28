@@ -1,0 +1,77 @@
+{
+  "240300": {
+    "name": "DCS: Combined Arms",
+    "steam_appid": 240300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DCS: 联合武装 让玩家可以控制地面部队进行作战。通过指挥地图移动地面部队、设置火炮打击任务以及控制地面战斗。在多人游戏时担任联合末端攻击引导员(JTAC)，为玩家驾驶的近距离空中支援飞机提供目标指示或者直接控制地面部队或防空武器来攻击敌军。<br />\r\n<br />\r\n可以把DCS: 联合武装作为一个实时战略游戏，或者是一个第一人称的装甲作战游戏来玩，又或者从DCS的飞行器，例如A-10C &quot;疣猪&quot;、Ka-50 &quot;黑鲨&quot; 或者P-51D &quot;野马&quot; 的驾驶舱内直接指挥地面作战。<br />\r\n<br />\r\nDCS: 联合武装 既可以单机也可以多人联网。在联网模式下，不同的玩家可以选择不同的角色，例如火炮指挥官、坦克指挥官、飞行员、JTAC等等。DCS: 联合武装 可以让玩家控制整个战场，所有的角色都可以在战斗时动态切换。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 俄语<strong>*</strong>, 捷克语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240300/header.jpg?t=1727215474",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 28000,
+      "final": 14000,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 280.00",
+      "final_formatted": "¥ 140.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 14,
+      "total_negative": 1,
+      "total_reviews": 15
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "724170": {
+    "name": "Solar Lander",
+    "steam_appid": 724170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Developers Note (May 6, 2025):  This game has not been abandoned.  I'm still developing it, but development has been slow, especially while trying to take it off of the Unity Engine.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Solar Lander a 2D space lander that simulates orbital mechanics and the conservation of angular momentum.  Players fly around in an Apollo-style lander, land on the surface of a planet, and then redock with the command module to advance to the next level.  You start out in orbit around a planet and docked with the command module.  It is your job to make a safe landing on the surface of the planet, then get back into orbit to redock with the command module.  Each planet has it's unique characteristics based on real life planetary bodies with procedural terrain generation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >All of the game's mechanics are simulated with a full physics simulation that runs 1,000 times per second!  This makes the 2D simulation very accurate and very realistic.  There is no arbitrary rotation rate or acceleration.  As you use-up fuel, your maximum acceleration will increase and you will be able to change your rotation rate more quickly.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724170/header.jpg?t=1746549965",
+    "developers": [
+      "TChapman500"
+    ],
+    "publishers": [
+      "TChapman500"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "First Crash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/60a9bb613c1fc6872edb260c8eb0bdde1bc2a622.jpg"
+        },
+        {
+          "name": "First Landing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/e5dcf428f03558af8e694c2b53168e1342d96743.jpg"
+        },
+        {
+          "name": "First Redock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/1a0bb5fe860984ea797e6e26bfc2dbe9718b2a81.jpg"
+        },
+        {
+          "name": "Level 1 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/2d34c5bb6df856e246084e48c08afd2891fe282e.jpg"
+        },
+        {
+          "name": "I Won!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/2abaf1a949665cb3b9ba4cc9096a59c1669a12ea.jpg"
+        },
+        {
+          "name": "Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/3f60dc6e14a4ec696a7b5f49d670ba1fe77b5ccc.jpg"
+        },
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/4c9ac731e790836fc837e6e9fdc420e58bdb0a14.jpg"
+        },
+        {
+          "name": "Level 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/406239bff3978efb6322cc085ae7e773b3ea271c.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/ec56187dbc10c6f826a572ac811f9ee2fbd4e612.jpg"
+        },
+        {
+          "name": "Head Landing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/724170/02179306b64a49697205ebdab5650fbe974e9f9e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

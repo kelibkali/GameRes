@@ -1,0 +1,93 @@
+{
+  "814200": {
+    "name": "Simple Story - Alex",
+    "steam_appid": 814200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>你好,我的朋友们！这是我制作的第一款游戏。为什么我在RPG Maker上制作它?因为我不是程序员，也不是艺术家，在我看来，这个游戏是第一款游戏的理想选择。没有必要去做一个史诗级的RPG，你可以做一个关于普通人的简单故事。</strong><br><br><strong>“简单的故事——亚历克斯”——正如你所能猜到的，这是一个关于亚历克斯，一个普通酒鬼的简单故事。他过着无聊的生活，但梦想着成为一个不同世界和维度的英雄。有一天，当他离开家的时候，亚历克斯被传送到一座神秘的神庙里。他睡着了?他的梦想实现了?也许发生了意想不到的事?你应该找到答案。[/]<h2 class=\"bb_tag\" >游戏特点:</h2><br><strong>•短小的游戏通关时间。</strong>你可以在半小时内完成游戏，因为在我没有理由再让这个故事更长。你有空闲时间吗?那么你可以玩这个游戏。<br><br><strong>•复杂的故事。</strong>你不会明白发生了什么，直到游戏结束。<br><br><strong>• 这个故事部分是基于真实事件的。</strong>亚历克斯的外表和大半的故事，都是基于我的生活。<br><br><strong>•复活节彩蛋。</strong>如果你仔细观察，你会在这个游戏中发现一些复活节彩蛋。<br><br><strong>•在这个游戏中没有战斗，没有升级，也没有JRPG的其他属性。</strong>这是一个由作者精心编写的线性故事。<br><br><strong>•朴素的画面。</strong>我决定只使用朴素的画面，把重点放在故事上，而不是在图形上。<br><br><strong>• 使用周围所有身边物品。</strong>这是充分理解游戏故事的必要步骤。</strong>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814200/header.jpg?t=1703354213",
+    "developers": [
+      "KuKo"
+    ],
+    "publishers": [
+      "KuKo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Game Over",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/f42c370cd11e2d4845f0b10d9a26c51eee3d0f42.jpg"
+        },
+        {
+          "name": "Start Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/dfc34ca599cae7756645478477431ff74505b485.jpg"
+        },
+        {
+          "name": "Don't Take My Coconuts",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/2e864ee72acf2d6cb252ccd5e40daa0f9ce1ed6d.jpg"
+        },
+        {
+          "name": "Retrogamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/891f5f87fac2a590c1daf923c2e634c51be33d71.jpg"
+        },
+        {
+          "name": "Numbers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/97f98b38650da875092d106b34b2daac8f2d304e.jpg"
+        },
+        {
+          "name": "Flowers bussines",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/fb09f69823b61549d10913539449c55aa7fe2545.jpg"
+        },
+        {
+          "name": "Vampire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/a56a542e61102d98b1dc2ad6caa0aab992e89c46.jpg"
+        },
+        {
+          "name": "Wishing well",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/814200/3c5d984a99787014ebc94d438528935d248f62fb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 2,
+      "total_negative": 2,
+      "total_reviews": 4
+    }
+  }
+}

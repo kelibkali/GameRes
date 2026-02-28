@@ -1,0 +1,129 @@
+{
+  "805900": {
+    "name": "Metal Division",
+    "steam_appid": 805900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "欢迎来到<strong>Metal Division</strong>——一个决胜窍门取决于快速行动和技巧的游戏。<br>与最多4名玩家组成一个团队，并与对手竞技。设置陷阱并采用增强器的偷袭战术。从对手顽强的手中夺取胜利。<br><br>在死亡竞赛的经典模式中竞争，或者如果你感觉自己可以更敏捷，那么就潜入敌人基地并夺取他们的旗帜吧！<br>各种拥有不同特性的坦克，会让你找到属于自己的游戏风格并磨练技巧。<br>巧妙地躲避敌人的炮弹或者从拐角处准确射击他们——你要选择如何进行这场战争！<br>不要错过炸掉一两个坦克的机会，因为这很有趣:)<h2 class=\"bb_tag\" >主要特点</h2><br><ul class=\"bb_ul\"><li> 联网多人竞技<br></li><li> 数种游戏模式<br></li><li> 使用各种武器的丰富战术（轻型坦克可以击败重坦克）<br></li><li> 发达的平衡设备<br></li><li> 快节奏游戏<br></li><li> 各种奖励<br></li><li> 超简单的控制</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语, 简体中文, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805900/header.jpg?t=1547539379",
+    "developers": [
+      "STEEL-TEAM"
+    ],
+    "publishers": [
+      "STEEL-TEAM"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/0e84dc105f50298a0b0437e5c61a2b72ec3512d2.jpg"
+        },
+        {
+          "name": "角斗士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/ed096c25474ab369aa8b780379c2b58dc88b59e5.jpg"
+        },
+        {
+          "name": "再来一次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/274cd9bc5ab45b4dff5ca66fde732f4ad3c3a1e5.jpg"
+        },
+        {
+          "name": "收藏家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/773849b2cc07fa2ffdc069fe8ae23086bddeae8c.jpg"
+        },
+        {
+          "name": "老兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/c5d6f44dd9e7ce9a6c5f5a40b1a673a31f3c090d.jpg"
+        },
+        {
+          "name": "逃离死亡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/4d8fbc21c2e6049c91fc7c3cd7c78cc8a244ebab.jpg"
+        },
+        {
+          "name": "出乎意料的事",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/84c2f94d410488d5c9d07587909756691a7ec941.jpg"
+        },
+        {
+          "name": "完美的防护",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/fae2776a22f2ef27c1c7d38b8c1e19dac76652b8.jpg"
+        },
+        {
+          "name": "最后一击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/fbe8db098005eb1309dce9d6e9810aa70f23153a.jpg"
+        },
+        {
+          "name": "战无不胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/805900/52335a12dfc24df6f875b6c35723b636fc81eee3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

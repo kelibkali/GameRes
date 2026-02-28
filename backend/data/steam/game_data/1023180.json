@@ -1,0 +1,101 @@
+{
+  "1023180": {
+    "name": "Combat Overrun",
+    "steam_appid": 1023180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Combat Overrun is a new action survival game - featuring an intense singleplayer mode - battling to survive an alien demonic invasion - also available to play cooperatively - and an online multiplayer first person shooter - featuring Deathmatch and Battle Royale - combining a strong first person shooter with vehicular combat and racing. Use tanks, cars, trucks and helicopters to your advantage to win the battle!<br><br>The game features LAN and Internet multiplayer. If you are interested in getting involved in the community and are looking to run dedicated servers for yourself, your clan or friends, or even better - the public, please contact us.<br><br>The game is built around a brand new D3D12-only high-end graphics engine - generating massive detail on-the-fly using high-range displacement maps, realtime deformation and advanced material blending - reaching final output geometry density close to pixel precision, achieving a geometry generation and throughput rate in the 0.5 - 2 <strong>billions of triangles</strong> per second range on mid to high-end GPUs - while still targeting 60 fps minimum framerate on nVidia 1070 and upwards class GPUs. The technology represents a major shift in game content production, visual quality and world generation, being able to take full advantage of real-world scanned materials and displacement maps to generate the game world, including defining features and gameplay areas. The technology generates roads, tracks, caves and other game areas on-the-fly in real-time, using procedural systems to mold a raw input terrain map into a fully featured game map. This is a huge advantage for game content iteration times, game updates install sizes and enables variations of maps where a seed can be used to select a combination of roads, features and gameplay areas, keeping the gameplay and the challenges fresh.<br><br>Perhaps most importantly,<strong> for real advances in what really matters - gameplay - the graphics technology is coupled directly to the physics system</strong>, offering realistic physics environments with real materials with deformation, friction, traction and resistance for vehicles and all physics objects, resulting in more realistic, fun and challenging physics behavior. Vehicles and players cannot easily traverse all terrain and ground, cannot climb steep inclines without sufficient traction and can get stuck in mud and deep sand or water. This changes gameplay dramatically as just like in real life, one has to think about where to choose to go, and what the risks are to get stuck or hitting a dead end versus the potential reward of getting there faster by taking a shortcut.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1023180/header.jpg?t=1583623182",
+    "developers": [
+      "Assassins Corp"
+    ],
+    "publishers": [
+      "Assassins Corp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

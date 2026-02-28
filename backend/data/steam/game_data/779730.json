@@ -1,0 +1,121 @@
+{
+  "779730": {
+    "name": "Foosball VR",
+    "steam_appid": 779730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Foosball VR</strong> is a table football simulator focused on the same sensation you get from playing it in the real world. The player starts in a pub interior with a foosball table that stands in the middle. Access to the in-game menu is provided by pressing a physical button placed on the side of the table. Two flat screen TVs located near the ceiling show the current score of a match.<h2 class=\"bb_tag\" >10 Game Modes</h2>One of the great features of the full release is game modes. We have ten of them:<br><ul class=\"bb_ul\"><li> <strong>Standard</strong> - the most realistic foosball simulation you can get for VR,<br></li><li> <strong>Bomberman</strong> - you play with a ball that is, in fact, a bomb that explodes in short time intervals. Be sure to send it towards your opponent shortly before it goes off - he might lose some of the players for a couple of seconds,<br></li><li> <strong>Wiggle-Wiggle</strong> - have you ever wondered how it would be to play the game with rubber-like elastic footballers? Well, now you have a chance to try it out,<br></li><li> <strong>Ice Leve</strong>l - the whole foosball field gets frosted and instead of playing with a ball we play with an ice cube!<br></li><li> <strong>Pong</strong> - are you a fan of the 8-bit microcomputers or early arcade machines? After playing this game mode we are sure you will be,<br></li><li> <strong>Fast and Furious</strong> - good for reflex training. The ball can go faster or slower depending on the game pace but it will never do a full stop.<br></li><li> <strong>Size Doesn't Matter</strong> - depending on the game score - the ball will grow or shrink when being controlled by a particular player.<br></li><li> <strong>Goalkeeper Wars</strong> - this game mode exists in the real world too. Two goalkeepers defend each other shots.<br></li><li> <strong>Magnetic</strong> - you play a metal ball which is attracted by magnets placed behind the goalkeepers.<br></li><li> <strong>Portals</strong> - the ball can teleport from the one side of the table to the other.</li></ul><h2 class=\"bb_tag\" >Advanced Physics</h2>We have put a lot of effort into development and testing to ensure that the ball behaves precisely as we observe it at a real-world table. The properties of all physical materials were set to values that close the gap between virtual and real world.<h2 class=\"bb_tag\" >Smart AI</h2>There are four levels of skills of the AI opponent. The player can choose from easy, medium, hard and terminator. By design, the terminator should be an almost unbeatable level of skills. It is only recommended for really experienced and skilled people. The main difference between these standards is based on AI's reaction time, reaction speed, execution speed and range of tricks that it can perform.<h2 class=\"bb_tag\" >Match Helpers</h2>Controlling four rows of footballers by one person is tough. To mitigate this, we have developed some helpers that help the player to achieve better results.<br><ul class=\"bb_ul\"><li>Snap handle helper - helps you with the moment when your hand is close to the handle, and it works in two distinct modes - <i>ghost</i> and <i>interpolate</i>. In the <i>ghost mode</i>, you will see a ghost image of the footballers showing you the resulting angle after you will finally grab the handle. In the <i>interpolate mode</i> you will see footballers actually rotating to the resulting angle before the grab. <br></li><li>Axis raise helper - helps you with shots from the defence by raising the midfield and offence rows whenever you control the goalkeeper and the defence rows. <br></li><li>Axis centre helper - helps you with defence by centring your goalkeeper and the defence rows whenever you move your hands to midfield and offence rows.</li></ul><h2 class=\"bb_tag\" >Spectator View</h2>What looks good in the headset, doesn't look attractive on the 2D screen. We wanted to make spectating more pleasant. That is why by default on the monitor we don't show exactly what the player is seeing. The most area of the screen is covered by the top-down view on the table and a small frame of the player's VR view in the top-right corner. The player can swap these views at any time during the game by pressing a button on the controller. On top of that, to bring spectating on a whole new cinematic level, the player can trigger a &quot;fly-around&quot; camera and show the gameplay while showing the environment as well.<h2 class=\"bb_tag\" >Player Position Configuration</h2>We don't want the player to be constrained by his/her physical characteristic and by size of the room. With a press of a button on the controller, the player can adjust his/her position and height in the VR world to make the gaming more comfortable.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779730/header.jpg?t=1541791931",
+    "developers": [
+      "Coduar"
+    ],
+    "publishers": [
+      "Coduar"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5700,
+      "final": 5700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 57.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "Victory 10-0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/79959371ba532f85324c0794076f3cdd764bc957.jpg"
+        },
+        {
+          "name": "Loose 10-0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/f4eee3f65f2b7d4e9e64db2009c46342b08993c9.jpg"
+        },
+        {
+          "name": "Quick Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/b1973ee53762006cc4952e7199897b6826d43345.jpg"
+        },
+        {
+          "name": "Long Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/3ae179c7931b62e706898eb342079f1aab3141dc.jpg"
+        },
+        {
+          "name": "Quick Ball",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/e2983832c58b59d74682b19474f97166631f1f24.jpg"
+        },
+        {
+          "name": "Long Ball",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/fff8bd7426f60883544fba4d1388c9b38697bd85.jpg"
+        },
+        {
+          "name": "Played 25 Games",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/e2b319931787b7ac2e5221f1fb007afdc47b1244.jpg"
+        },
+        {
+          "name": "Played 50 Games",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/6edfc6ff967e9c056f065dba8380d8d18f01a035.jpg"
+        },
+        {
+          "name": "Played 100 Games",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/ac1b5dfd99d722fecb7fd761380c78edbfed98d7.jpg"
+        },
+        {
+          "name": "I know what I'm doing!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/779730/058b72777f896f2bbfbfbbc46d04c009bf976250.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

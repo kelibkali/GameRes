@@ -1,0 +1,85 @@
+{
+  "20": {
+    "name": "Team Fortress Classic",
+    "steam_appid": 20,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款风靡全球的联机对战游戏 - Team Fortress Classic，九种游戏角色任你选择 - 从实习医生、间谍到战争狂人 - 以其鲜明的个性游走于网络激战的世界。 游戏中提供多种团队对战模式，每种角色都拥有不同的武器、物品和能力。",
+    "supported_languages": "英语, 法语, 德语, 意大利语, 西班牙语 - 西班牙, 韩语, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/header.jpg?t=1745368565",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "1999 年 4 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 113,
+      "total_negative": 11,
+      "total_reviews": 124
+    }
+  }
+}

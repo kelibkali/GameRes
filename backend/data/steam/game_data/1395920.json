@@ -1,0 +1,106 @@
+{
+  "1395920": {
+    "name": "GrappleWell",
+    "steam_appid": 1395920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"\" crossorigin=\"anonymous\" /></span> {STEAM_APP_IMAGE} /extras/SmallLogo_Thin.png [/]<br><br><br>GrappleWell是一款基于物理的愤怒游戏，可让您从井底爬升。<br><br>您（作为投掷井的硬币）自然只能通过抓钩来移动，但要注意，抓钩并不是无限的资源！它们在您接触地面时会快速充电，并在空中缓慢地充电。<br><br>许多年轻的硬币曾尝试并未能逃脱可怕的危险，您的故事会成为传奇吗？",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1395920/header.jpg?t=1751085473",
+    "developers": [
+      "robotrage",
+      "Maldonacho"
+    ],
+    "publishers": [
+      "RR Productions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Penny",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/1b66b6f9cb901b77ac6f24b8008840143cc32b9b.jpg"
+        },
+        {
+          "name": "First Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/eee8f422897f2aa951f298c7df030c1026c6ca07.jpg"
+        },
+        {
+          "name": "Winner!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/f4a5abe9cf02a33c1998b559122e677a12cf0672.jpg"
+        },
+        {
+          "name": "Ice Ice Baby",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/61bb4e075be326de6001a83b2cec12cb10e43938.jpg"
+        },
+        {
+          "name": "Fire & Brimstone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/2c6f46f4afa341a3709951c2195074b7c23d7c59.jpg"
+        },
+        {
+          "name": "Yeah, Science!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/2b278af9029c6969996919e7ba26f54f31198a86.jpg"
+        },
+        {
+          "name": "Green Hell",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/400b68bce5ed4641761a6d57d333dbefdeae9f8f.jpg"
+        },
+        {
+          "name": "The End in sight...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/c612a0834bb7ca719baf68ed7c24f67d2424a3a6.jpg"
+        },
+        {
+          "name": "From the dirt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/42774a2cba3c291129b30ece623d94b7f684ae24.jpg"
+        },
+        {
+          "name": "Speed Run I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1395920/7e5f3f07bf67cf250834b9e2e555584787f81f16.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

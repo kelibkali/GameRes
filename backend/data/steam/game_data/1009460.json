@@ -1,0 +1,109 @@
+{
+  "1009460": {
+    "name": "Hello, Goodbye",
+    "steam_appid": 1009460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009460/extras/4325a4dfa9519c3fc55276d362c2a741.avif?t=1747875479\" width=600 height=1300 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009460/header.jpg?t=1747875479",
+    "developers": [
+      "Lump of Sugar"
+    ],
+    "publishers": [
+      "NekoNyan Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 11900,
+      "final": 5712,
+      "discount_percent": 52,
+      "initial_formatted": "¥ 119.00",
+      "final_formatted": "¥ 57.12"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 4 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "Hello World!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/d2b9080cdff7b2a93afe4ed85c5d50b70694a1dd.jpg"
+        },
+        {
+          "name": "Hello, good-bye",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/94a54eea5c736c9b22266677f82e2b1363e1f107.jpg"
+        },
+        {
+          "name": "Always Learning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/b03ce4865723356deb633f4bd9964eeebf00ea6d.jpg"
+        },
+        {
+          "name": "Expert At Work Here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/a5d6e4e8a991c4dd9af4ca4dc8abd7a57b0202bc.jpg"
+        },
+        {
+          "name": "I Don't Need Your Help, Game!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/9a2b9ffaaaad211053b07724257f5845297d9561.jpg"
+        },
+        {
+          "name": "That Day, That Time At That Place...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/fd3b5f53f083adaddebb73a953d4ddc0bfc8ef18.jpg"
+        },
+        {
+          "name": "Uncover The Unseen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/12c092ec86dcdf12d33b9946f743e47cb034845c.jpg"
+        },
+        {
+          "name": "Hm, What Should I Pick?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/0985f55abe0e2a9f1d3af20e0eb55b6684946224.jpg"
+        },
+        {
+          "name": "Citizen of Morino",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/70008ca4d2e39af394f94ec867156d58a9ac0d0c.jpg"
+        },
+        {
+          "name": "Citizen of Japan",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1009460/6c16e87983cdd5c6fe720107b7b0b35822b4782f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 5,
+      "total_negative": 1,
+      "total_reviews": 6
+    }
+  }
+}

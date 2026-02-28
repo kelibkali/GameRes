@@ -1,0 +1,42 @@
+{
+  "407080": {
+    "name": "3DMark API Overhead feature test",
+    "steam_appid": 407080,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/407080/extras/cb4aa2549d47f5e9811e5ce16caa91f5.webp?t=1756112771\" width=590 height=5 /></span><br>3DMark API 开销功能测试已不再支持。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/407080/extras/cb4aa2549d47f5e9811e5ce16caa91f5.webp?t=1756112771\" width=590 height=5 /></span><br><br>3DMark API 开销功能测试于 2015 年发布，以配合 Windows 10 和 DirectX 12 的推出。该测试比较了图形 API 的绘制调用性能。在推出时，这是旧版 API 与 DirectX 12 和 Vulkan 等新的底层 API 之间最显着的区别。如今，开发者更倾向于根据功能支持和兼容性来选择图形 API。绘制调用性能不再是决定性因素。<h2 class=\"bb_tag\" > API 开销功能测试[/]<br><ul class=\"bb_ul\"> <li>比较您电脑上 API 的性能<br></li><li>测试 Vulkan，DirectX 12 和 DirectX 11</li></ul></h2>",
+    "supported_languages": "英语, 德语, 简体中文, 俄语, 西班牙语 - 西班牙, 日语, 韩语, 繁体中文, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/407080/46cb7f6d5fe34b6eef8d3668351fe03e8713fc6e/header.jpg?t=1756112771",
+    "developers": [
+      "UL"
+    ],
+    "publishers": [
+      "UL"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 12 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 9,
+      "total_negative": 0,
+      "total_reviews": 9
+    }
+  }
+}

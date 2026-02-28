@@ -1,0 +1,66 @@
+{
+  "1348020": {
+    "name": "Streamline",
+    "steam_appid": 1348020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Streamline is a very early build of the FPS being developed by Watson Digital. Currently the game features local play (lan) and Steam multiplayer. You can also enable bots to create a hybrid environment of both real players and AI.<br><br><strong>Game Modes:</strong><br><ul class=\"bb_ul\"><li>Capture The Flag<br></li><li>Deathmatch<br></li><li>Team Deathmatch<br></li><li>Rush (plant / defuse)</li></ul><br>Streamline is being built inside of Epic's Unreal Engine 4. With plans to migrate to UE5 when it becomes available.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1348020/header.jpg?t=1597050145",
+    "developers": [
+      "Watson Digital"
+    ],
+    "publishers": [
+      "Watson Ventures"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

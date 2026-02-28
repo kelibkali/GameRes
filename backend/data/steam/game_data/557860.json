@@ -1,0 +1,81 @@
+{
+  "557860": {
+    "name": "Azurea Juncture",
+    "steam_appid": 557860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557860/extras/4ce360812fa73c9949a4fac9596dd200.avif?t=1479257787\" width=550 height=1775 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557860/header.jpg?t=1479257787",
+    "developers": [
+      "Rimebelle Express"
+    ],
+    "publishers": [
+      "Rimebelle Express"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 11 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "You didn't listen.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/557860/f0a6ed504be827f67548a667074cbc60097d8920.jpg"
+        },
+        {
+          "name": "You couldn't stop it.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/557860/7a1311d5c50a59544b77289468f52bf9e7903f42.jpg"
+        },
+        {
+          "name": "You listened.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/557860/8020ba7251bed15fa9f17aff012a23185eb1fbd0.jpg"
+        },
+        {
+          "name": "You already knew.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/557860/94b654b421d6355feddb2b053cacf38908833aaf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

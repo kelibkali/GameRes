@@ -1,0 +1,77 @@
+{
+  "368470": {
+    "name": "GeoVox",
+    "steam_appid": 368470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >GeoVox</h2><br>GeoVox is the latest real time world generation software application created by Axis Game Factory, Inc.  GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. <br><br>GeoVox instantly creates lush AAA quality environments at the start of the application.  Designed with intuitive game like controls it allows users to test for level playability as they are creating.  <br><br><strong>Key Features:  </strong><br>  <strong>User Experience</strong><br>•\tInstant environment is generated at application start <br>•\tSimple tools that allow users to edit the environment as needed without a steep learning curve<br>•\tClean, low overhead GUI that allows for fast terrain editing, without limiting users creativity<br>•\tStandard game controls to allow users to explore their environment to simulate gameplay<br>•\tFlying Camera or FPS style with gravity and jump ability camera modes<br>•\tFull real-time Voxel based terrain editing<br>  o\t  Easily edit the terrain with simple point and click volume brushes<br>  o\t  Define Voxel brush sizes and shape<br>  o\t  Single click and click and drag on Voxel application<br>  o\t  Offset Voxel brush from center or base<br>  o\t  Brush snapping<br>  o\t  Add Voxel volumes<br>  o\t  Cut Voxel volumes<br>  o\t  Paint Voxel volumes<br>  o\t  User definable smoothing <br>  o\t  Cut volumes and Paint textures and apply environmental assets simultaneously  <br>  o\t  Create a pallet of Voxel types to be used in your environment<br>  o\t  Voxel types can include textures, assets and vegetation<br>  o\t  Mix and match variables to create many Voxel types<br>  o\t  Voxel types can be applied upright or aligned to terrain normal<br>  o\t  Assets can have user defined depth off-sets <br>•\tFully featured fractal algorithmic terrain generator <br>•\tLimited or Infinite terrain editing abilities (user decides and determines how large they want their maps)<br>•\tCreate from hundreds of pre-packed, license free assets to use for professional development<br>•\tAssets include:<br>  o\t  Trees<br>  o\t  Plants<br>  o\t  Rocks<br>  o\t  Shrubs<br>  o\t  Flowers<br>  o\t  Grasses<br>•\tLibrary of terrain textures included with color, normal and specular maps<br>•\tReal-Time, user defined Ambient Occlusion <br><br><strong>Input/Output</strong><br>•\tCreate Asset Packs for use with Geovox using the Geovox Asset packager and Unity FREE<br>•\tImporting of AGF and Geovox Asset Packs for use in Geovox<br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 <br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format<br>•\tGeoVox to .Obj exporting <br>  o\t  User defined model export parameters<br>  o\t  User defined export location<br>  o\t  User defined export size<br>  o\t  All mesh assets export with transforms applied <br>  o\t  All images export in .PNG format<br><br><strong>Product Road Map of Future Updates / DLC - will be added at a later date</strong><br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 (COMPLETED AND PUBLISHED 06.11.2015) <br>•\tImporting of the Geovox Terrain Format to the AGFPRO Editor (future update)<br>•\tImporting of the Geovox Terrain Format to the AGFPRO Player DLC (future update)<br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format (COMPLETED AND PUBLISHED 06.11.2015)",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/header.jpg?t=1447373906",
+    "developers": [
+      "Axis Game Factory, Inc."
+    ],
+    "publishers": [
+      "Axis Game Factory, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 8000,
+      "final": 8000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 80.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    }
+  }
+}

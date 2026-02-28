@@ -1,0 +1,77 @@
+{
+  "907510": {
+    "name": "GameGuru - Enhanced Weapons Pack",
+    "steam_appid": 907510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >GameGuru Enhanced Weapons Pack</h2><br>Are you ready to experience some of the best weapons you'll ever find in a game maker?  Look no further than this collection of 10 weapons from the irrepressible ErrantAI, longtime community member and game weapon specialist, who has spent over a year working in collaboration with the GameGuru developers to make sure each weapon performs as intended.  Coupled with the new PBR rendering system, these weapons not only work great but look awesome too.<br><br>As these assets make extensive use of recent engine revisions and enhancements, it is important to note that theses weapons will only work in the latest DX11 version of GameGuru.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907510/extras/73e90d6e5691c7a646783f064891dc3e.avif?t=1532536327\" width=614 height=344 /></span><br><br>Developed to suit a variety of modern-day game narratives; adventurers, survivors, mercenaries, and vigilantes alike will fit well with this pack's curated selection of weapons.<br><br>The GameGuru Enhanced Weapon Pack Includes:<br><br><strong>AR15</strong> - Well rounded, this semi-automatic rifle is outfitted with a red-dot and magnifier optics.  Good accuracy, short-medium range optics, low light capability, and 30+1 rounds of 5.56x45mm onboard, the AR15 makes for an ideal patrol carbine or light-duty marksman rifle.<br><br><strong>AKM</strong> - A select-fire assault rifle ubiquitous to low-intensity conflict across the globe.   While this old warhorse has seen better days and lacks the appurtenances of more modern weapons, it makes up for it in firepower with 30+1 rounds of 7.62x39mm and a relatively easily tamed rate of fire.<br><br><strong>B810</strong> - This quick-deploying lock-blade may be small but is capable of a furious barrage of attacks.  It can be held with the blade forward or reversed for a minor exchange of range for power.<br><br><strong>Chainsaw</strong> - They don't make 'em anymore like this vintage &quot;muscle saw&quot;.  This beast is cumbersome,  noisy, and guzzles fuel but once it gets going it gets the job done!   Ears bleeding?  Use the motor kill switch.<br><br><strong>M29S</strong> - Don't let the diminutive size fool you, this snub-nosed .44 magnum revolver packs a serious punch.  While slow to reload and limited in capacity, this six-shooter is flawlessly reliable and can be operated in either double-action or manual single-action modes for a modest exchange of speed for accuracy.<br><br><strong>M67</strong> - Primarily intended as a defensive weapon to deter pursuit, there's no rule that says you can't use this fragmenting hand grenade to get the party started!<br><br><strong>Mk18</strong> - This 5.56x45mm, commando-length &quot;sub-carbine&quot; boasts assault rifle firepower in a submachinegun sized package.  Fast handling, fully-automatic, and topped with an illuminated red-dot optic, this weapon is ideally suited to close-quarters combat.  A blistering rate of fire sends a lot of lead downrange but it can be difficult to control.  To those ends, it is capable of semi-automatic fire for precision work and engaging targets at longer distances.<br><br><strong>Mk19T</strong> - This iconic, two-tone beauty is as much of a status symbol as it is a sidearm.   This pistol holds 8+1 rounds of commonly available .44 magnum ammunition and is equipped with a luminous front sight for improved aiming in all lighting conditions.<br><br><strong>R870</strong> - This short-barreled, pump-action, tube-fed shotgun features numerous tactical modifications including an illuminated optic for fast target acquisition.  While limited in capacity to 5+1 rounds, it fires full power loads of 9-pellet, 12 gauge ammunition.  The weapon's heavy recoil is best mitigated when shouldered.  As such, this weapon is capable of a much brisker cadence of fire while aimed.<br><br><strong>SledgeHammer</strong> - As simple as can be, this weapon consists of a 16lb. forged steel block mated to a shock-resistant fiberglass handle.  This slow-swinging tool excels at breaking down physical barriers and for users with judicious timing, it makes a formidable melee weapon as well. <br><br><strong>Gloves_Unarmed</strong> - For situations when your player character is unarmed.  Uses the same hands as all of the other weapons in this pack.  Additionally, designers can choose between four included texture sets which can also be easily applied to the other weapons to help customize their games.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907510/extras/10e93651581066d1549dbdba4c656a7d.avif?t=1532536327\" width=612 height=344 /></span><br><br>All weapons come complete with supporting icons, world models and ammo pickups.  Sound effects for each weapon include audio for item selection, putting away, reloading, firing, fire mode changes, melee attacks, dry fire, etc.  Reload sound effects have been further broken up into separate sections for magazine extraction, insertion, chambering etc. for highest sync functionality with variable reloadspeed settings.  This pack supports the full array of player weapon animations with state-based animation sequences for primary and alternate modes, empty weapon states, alt-mode transitions, move to run bridging, multiple attacks, gun-melee attacks, emergency and tactical reloads, ready/equip selection (fast select optional with gunspec editing), malfunction clearing (failure to feed) and more.  All weapons have been tuned for nuanced handling feel using the full extent of the GameGuru weapon system.  All weapons fully support Physically Based Rendering so you get high-quality representations of the weapon materials such as paint, plastic, metal, wood, glass, and grime.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907510/extras/f1b4b123623376a5e76a12bb312481d9.webp?t=1532536327\" width=614 height=24 /></span><br><br>To use this pack, when you run GameGuru and click on Add New Entity in the Library you will see a category called &quot;Weapons Pack&quot; and inside this a folder called &quot;Enhanced&quot;. Click on this to start browsing through your new game assets.  Alternate hand texture sets can be found in the Docs folder along with instructions on how to use them and weapon Gunspecs have been well commented for those who wish to tweak individual weapon settings.  The weapons in this pack do not include crosshairs and are meant to be used as-is for maximum immersion using properly aligned iron sights and simulated holographic illuminated dot optics.  For best alignment of iron sights it is recommended to use a Weapon FOV of 80-90 and Player Wobble Height of 100-150.  If you want to use a crosshair overlay, simply copy one into the weapon's gamecore folder.  Keybinds and preferences may be defined in setup.ini.  By default, use [RMB] to aim, [L.Alt.] for melee/supplimental attack, and [V] to change firemodes (if supported).  All the assets in this pack are royalty-free, meaning any game you make with them can be legally sold by you.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907510/header.jpg?t=1532536327",
+    "developers": [
+      "The Game Creators"
+    ],
+    "publishers": [
+      "The Game Creators"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

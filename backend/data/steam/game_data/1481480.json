@@ -1,0 +1,81 @@
+{
+  "1481480": {
+    "name": "Tank Firing",
+    "steam_appid": 1481480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "射击时要校准射击距离，注意瞄准弱点。<br />\r\n遇到穿甲弹无法击穿的装甲可以尝试高爆弹。<br />\r\n挨打时要摆好坦克角度，提高等效装甲。<br />\r\n遇到装甲无法防御的炮弹可以寻找掩体遮挡。<br />\r\n尽量挑战落单的敌人，被围殴时赶快撤离。<br />\r\n开上你的坦克，加入战斗吧！",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481480/header.jpg?t=1607128757",
+    "developers": [
+      "CUIWENPING"
+    ],
+    "publishers": [
+      "CUIWENPING"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "First blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1481480/85d31ab19c15f6c26488ef3f08d4b835691ab15e.jpg"
+        },
+        {
+          "name": "Elite",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1481480/63163284698cdd7102949904a530f534ff9858e1.jpg"
+        },
+        {
+          "name": "Trump",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1481480/93e95cb001480d31586d1a5b10bae0f8b1ac0223.jpg"
+        },
+        {
+          "name": "Invincible",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1481480/27c0d22a61e6f80cf95f0e022249b55f645c44da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

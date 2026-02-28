@@ -1,0 +1,61 @@
+{
+  "1567720": {
+    "name": "Streamer Dancefloor",
+    "steam_appid": 1567720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><h2 class=\"bb_tag\" >Special Note:</h2></strong> Several people have been able to run the app with an integrated graphics card, however to run smoothly you MUST lower your resolution to 1280x720 with the lowest graphics quality.   In addition you can also turn off the &quot;Enable character VFX&quot; checkbox, which will turn off all particle effects other than the donation coin fountain (which is significantly reduced to save your CPU)<br><br><strong><h2 class=\"bb_tag\" >RESOURCES:</h2></strong>If you're looking for instructions for how to use the app, you can press F1 at any time to get a full list of instructions, or visit the youtube channel for tutorials on all the Streamer Dancefloor features <br><br>If you'd like to try some of the ready to use venue backgrounds taken from popular Toronto venues pre-covid click here: <br><br><strong>OBS SETTINGS NOTE:</strong>  The preferred settings I use is Window Capture with Capture Method set to Windows Graphics Capture, probably want to turn off capture cursor as well. <br><br><strong><h2 class=\"bb_tag\" >DESCRIPTION</h2></strong><strong>Streamer Dancefloor</strong> lets you create a custom virtual dancefloor for your chatroom on <strong>Twitch, Facebook or YouTube</strong>.  Featuring dozens of dances and avatars, the chat can find many ways to engage with the music and environment.  The host can use the camera controls setup multiple cameras at different angles which can then trigger based on scene changes within OBS (requires the OBS websocket plugin).   Once setup, you can either load in video loops or backgrounds inside the Streamer Dancefloor app, or you can use the Chroma Key filter within OBS, and use the various features in OBS to layer and control where your dancefloor appears within your stream.<br><br>Includes a top 10 widget to show which of your dancers and drinkers has been having the most fun!  <br><br>Other ways to customize your dancefloor include:<br>- Use Twitch Point Rewards to trigger dances, skins and emotes<br>- Monetize your dance by making certain dances or skins triggered only with bit or dollar donations (USD only for now)<br>- Enable and disable different dances and skins to make your dancefloor more your style<br>- Change the arrangement of the dance positions and number of dance positions (up to 100) to fit your exact virtual room<br>- Change the Exit/Entrance points to set where the chat enters or exits the room",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567720/header.jpg?t=1624841276",
+    "developers": [
+      "StreamerTech"
+    ],
+    "publishers": [
+      "StreamerTech"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "My First Rave",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1567720/1458390732a800d003d2953897a2dff23cbaeeb8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

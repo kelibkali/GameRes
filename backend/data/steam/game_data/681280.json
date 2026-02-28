@@ -1,0 +1,145 @@
+{
+  "681280": {
+    "name": "Descenders",
+    "steam_appid": 681280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/extras/a9d90c8dff1974480a904b69175e9924.poster.avif?t=1764690930\" width=600 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/extras/a9d90c8dff1974480a904b69175e9924.webm?t=1764690930\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/extras/a9d90c8dff1974480a904b69175e9924.mp4?t=1764690930\" type=\"video/mp4\"></video></span><br><strong>《Descenders》</strong>由知名游戏 Action Henk 的开发团队操刀，是一款快节奏的山地自行车速降极限运动游戏，上手容易，但需要反复挑战方可成为高手。<h2 class=\"bb_tag\" ><strong>极限运动新尝试</strong></h2><ul class=\"bb_ul\"><li><u>随机生成的地图</u>: 每次挑战都有全新的跳台、斜坡和下降地形等着你<br></li><li><u>自由式操控体验</u>: 玩家可以控制骑手做出任何微操，游戏的深度物理系统可将这些操作化为一次次漂亮的特技动作<br></li><li><u>风险与奖励</u>: 你需要控制骑手向更高更强的分数和特技连招冲刺，但要保证一定的成功率，否则你会输掉比赛<br></li><li><u>建立你的名望</u>: 完善的在线名望系统让你可以展现自己的实力，并解锁新的车型和线路<br></li><li><u>完整授权的音轨</u>: 我们与知名的鼓打贝斯音乐公司 Liquicity 合作，为你带来完美的音频体验，伴你一同征服山地赛道<br></li><li><u>成为下一个速降王者</u>: 你能一鼓作气通关整条赛道，达到传奇速降王者的评级吗？骑上你的爱车开始挑战吧！</li></ul><h2 class=\"bb_tag\" ><strong>加入车队，成为传奇</strong></h2>在《Descenders》，车队就是车手的一切。玩家选择加入一支车队<strong>（Enemy、Arboreal 或 Kinetic）</strong>后，就需要与队友一起面对未知的挑战。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/extras/f91cca90131d85393dc00f6c2a900f92.avif?t=1764690930\" width=600 height=200 /></span><br><br>带上心爱的山地车，选择一个车队，努力成为传奇的速降王者吧。你可以选择顽强而热衷特技的 Enemy 车队，技术娴熟并擅长花式越野的 Arboreal 车队，或者是充满热血，追求极致速度的 Kinetic 车队。<br><br><ul class=\"bb_ul\"><li>玩家将获得车队专用的配色和服装，以及独家的装备<br></li><li>获得最高名望值的车队将夺得专属奖励<br></li><li>Descenders Discord 服务器将为车队成员开通专用的车队频道</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语, 简体中文, 繁体中文, 俄语, 日语, 韩语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 土耳其语, 希腊语, 波兰语, 爱沙尼亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/header_schinese.jpg?t=1764690930",
+    "developers": [
+      "RageSquid"
+    ],
+    "publishers": [
+      "No More Robots"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6900,
+      "final": 6900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 69.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 42,
+      "highlighted": [
+        {
+          "name": "Into The Woods",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/e38ab73fcb0a796beeb81ce104981367ce219ade.jpg"
+        },
+        {
+          "name": "The Rampage Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/c85c82410ec12992fb9f7df11d0bdf0dabe47f7a.jpg"
+        },
+        {
+          "name": "The Final Challenge",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/32934ec967a736bea615d92075fd6ab70888926e.jpg"
+        },
+        {
+          "name": "Made It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/6e89bf45f190ec1f52c359e1e766de47e22d2410.jpg"
+        },
+        {
+          "name": "It Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/430f4b056f8d69d4e807008dfc595d2533373aa7.jpg"
+        },
+        {
+          "name": "Carving a Path",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/9b47f81de1f7cbd3fcda91316436035cf4a42e93.jpg"
+        },
+        {
+          "name": "Found Your Flow",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/0c62fef52e6bb905b5bd4c0cf2cdc57a8f07c162.jpg"
+        },
+        {
+          "name": "Ain't No Scrub",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/62e42f215b3ac5233bf9b7e0a91eeb537e0512d5.jpg"
+        },
+        {
+          "name": "Get Some Gear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/ffa304f89c0594b24b6bc8759544dcede525b69b.jpg"
+        },
+        {
+          "name": "It's Getting Cluttered in Here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681280/c161d5c6b362d9321e196a5195134303245dae60.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 878,
+      "total_negative": 73,
+      "total_reviews": 951
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "1114910": {
+    "name": "Alone in the War",
+    "steam_appid": 1114910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In this isometric shooter, you are the only agent left to destroy an entire army of soldiers.<br />\r\n<br />\r\nGet your weapons and get ready to shoot anyone in your way.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Kill all enemies in each level to proceed to the next one<br />\r\n- Collect coins through levels to upgrade your weapons<br />\r\n- Use collected coins to increase the power of your weapons<br />\r\n- Three different weapons to use, unlock them after complete some levels",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114910/header.jpg?t=1767033353",
+    "developers": [
+      "Sabrina Aridi"
+    ],
+    "publishers": [
+      "Sabrina Aridi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6000,
+      "final": 6000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 60.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "No damage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1114910/e5a6053af7b078b86599ef2056f43d58f81a5b4d.jpg"
+        },
+        {
+          "name": "All levels completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1114910/834815e6d7fa2e5ba0da4adafc9bdbc65159579b.jpg"
+        },
+        {
+          "name": "Pistol Maximum Upgrade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1114910/9f5a9d027237f196b0b8ea8009aa26485e318bf7.jpg"
+        },
+        {
+          "name": "Shotgun Maximum Upgrade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1114910/7d87d262aa02cb34b80b499eb893aaeb9daff72f.jpg"
+        },
+        {
+          "name": "Rifle Maximum Upgrade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1114910/d33d57722bfa21abc76d2656a1a6a936ff69e8cd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

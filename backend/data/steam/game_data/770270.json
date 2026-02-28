@@ -1,0 +1,137 @@
+{
+  "770270": {
+    "name": "Warbot",
+    "steam_appid": 770270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《激•战纪》是一款未来风格机器人格斗虚拟现实游戏。故事背景发生在2200年，全宇宙机器人对战比赛在X星球展开。作为一名职业机器人对战玩家，你亲手打造出独一无二的专属机器人，通过映射模式控制你的机器人战斗，赢得比赛以获得更多升级部件。让你的机器人越来越强大，一起去征战宇宙吧！<br />\r\n\t自由搭配创造出专属于你的机器人<br />\r\n\t动作映射全程实时操作机器人战斗<br />\r\n\t收集部件升级改装让机器人更强大<br />\r\n\t联机对战，全球排名，成为宇宙第一！<br />\r\n定制你自己的机器人，让你的机器人独一无二且突显个人特色，展现给全宇宙的所有玩家，其中，排行榜也极大的提升了这个展示空间。不断的尝试及练习，获得越来越多的部件，去定制专属于你的独一无二的机器人吧！",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770270/header.jpg?t=1545094498",
+    "developers": [
+      "Shanghai Lusion Computer Software Co. Ltd."
+    ],
+    "publishers": [
+      "Shanghai Lusion Computer Software Co. Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6700,
+      "final": 6700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 67.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "冠军",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/de72678b9fbc6fbd8c2cde772798eff585161bcc.jpg"
+        },
+        {
+          "name": "巅峰",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/aee43ab7b518a692e0feb6c7e55b87954a6335a7.jpg"
+        },
+        {
+          "name": "新纪录",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/b0c13a57a8ffe6e4a0125ac7f75fc4d3a0ca31b6.jpg"
+        },
+        {
+          "name": "爆裂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/a8202e4f01644bcb17e15d9fa10be2d834c9bad8.jpg"
+        },
+        {
+          "name": "闪亮",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/dbfef57136af9bef9871dc0fe6a8d607400ad8dd.jpg"
+        },
+        {
+          "name": "天行者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/10070e4ddb49b6056eeb3a5933dbaa0405b97071.jpg"
+        },
+        {
+          "name": "聚会",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/f3688bf8d85858ec718a0b0eaabde57b134faf19.jpg"
+        },
+        {
+          "name": "半路",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/e6b59bb6833ef39772897c34ff3eb0ca90cd44bb.jpg"
+        },
+        {
+          "name": "新星",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/97a7f8c0ba9d7277ea409c30e35949a24a435139.jpg"
+        },
+        {
+          "name": "棒棒哒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770270/738e51695cf16f2add1c4403539945f46493c1ee.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 2,
+      "total_negative": 2,
+      "total_reviews": 4
+    }
+  }
+}

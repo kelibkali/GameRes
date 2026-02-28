@@ -1,0 +1,65 @@
+{
+  "500140": {
+    "name": "Wildlife VR",
+    "steam_appid": 500140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A virtual reality hunting game. Choose between shooting flying ducks in random patterns, hunting a deer or a boar in the open. Every score point you'll get the animals become harder to hit. It's a bit of a relaxing &quot;outdoors&quot; game with low poly graphics. Wildlife VR is perfect for first-time-vr-experience since it's not hard to jump straight into. Choose between three different weapons; Revolver, Shotgun or Sniper-rifle.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500140/header.jpg?t=1469813395",
+    "developers": [
+      "Rocket Science Club"
+    ],
+    "publishers": [
+      "Rocket Science Club"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

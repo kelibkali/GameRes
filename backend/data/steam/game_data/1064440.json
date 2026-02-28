@@ -1,0 +1,62 @@
+{
+  "1064440": {
+    "name": "Xiu's SuperMarket",
+    "steam_appid": 1064440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "這是一個利用角色，靠著技能攻打怪物，可以得到金幣用來購買更高等的武器，每當升等可以增加技能點來提升角色的技能，而隨著關卡上升，怪物的等級也會依循上升，並且有三種職業可以進行選擇遊玩，每種職業擁有不同的技能，以後會陸續新增更多職業。",
+    "supported_languages": "繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064440/header.jpg?t=1566349863",
+    "developers": [
+      "Lin Tang Yi",
+      "Xiu"
+    ],
+    "publishers": [
+      "Tang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "681630": {
+    "name": "Voxel Interceptor",
+    "steam_appid": 681630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >游戏目标：</h2><ul class=\"bb_ul\"><li>驾驶太空拦截机，击落追击的敌机，巩固己方母舰的防御使其不被击沉。</li></ul><h2 class=\"bb_tag\" >拦截机操作：</h2><ul class=\"bb_ul\"><li>可选择三种不同的控制风格（包括使用键盘+鼠标，或完全使用XBox手柄）<br></li><li>停靠至己方母舰机库补给和维修。                             <br></li><li>如何停靠母舰：按住 交互 键（键盘上默认为 [F]，XBox手柄上默认为[Y]）。<br></li><li>加力飞行<br></li><li>翻滚机动（按下键盘上的[E]键或XBox手柄上的[RB]键）<br></li><li>最多同时发射2种武器</li></ul><h2 class=\"bb_tag\" >拦截机武器挂载种类：</h2><ul class=\"bb_ul\"><li>按发射物种类可分为：火炮 和 发射器。                                         <br></li><li>火炮：磁轨炮、激光炮等。                                           <br></li><li>发射器：格斗导弹、中程导弹、火箭弹、高能炸弹。<br></li><li>每种武器按体积可分为：轻型、中型、重型，对应拦截机上的相应槽位。</li></ul><h2 class=\"bb_tag\" >武器伤害种类：</h2><ul class=\"bb_ul\"><li>能量武器：对<strong>护盾</strong>伤害较高，一般发射物呈现<strong>蓝色</strong>。<br></li><li>动能武器：对<strong>装甲</strong>和<strong>核心</strong>伤害较高，一般发射物呈现<strong>红色</strong>。</li></ul><h2 class=\"bb_tag\" >母舰可执行的操作：</h2><ul class=\"bb_ul\"><li>升级舰载武器（火炮、导弹发射器）以巩固防御</li></ul>",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 俄语, 日语, 繁体中文, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681630/header.jpg?t=1755594320",
+    "developers": [
+      "NewAtlantisGameStudio"
+    ],
+    "publishers": [
+      "NewAtlantisGameStudio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 35,
+      "highlighted": [
+        {
+          "name": "飞行员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/dfdab0d32f070ca44c29c8a1bc03e7c8b35dae05.jpg"
+        },
+        {
+          "name": "高级飞行员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/a622b2aa86db201917ea9071a555733db7f95625.jpg"
+        },
+        {
+          "name": "上士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/0308a3de9b530d50f77723acac570eabca922042.jpg"
+        },
+        {
+          "name": "技师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/86e4be5a6f3fbc085d52638cfb6d20cb34a3ad9f.jpg"
+        },
+        {
+          "name": "一等军士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/8b82760fd655006c9ea87f28ca40625cada906b0.jpg"
+        },
+        {
+          "name": "二等军士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/1d9c8900daea87c0566d762bcc51f6722a05fe15.jpg"
+        },
+        {
+          "name": "高级军士",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/5eedf2c2b22585524a7ba4846adbf3682c60031f.jpg"
+        },
+        {
+          "name": "军士长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/01b96d1edd56655a8ea6a16b07059e0cb4a056bf.jpg"
+        },
+        {
+          "name": "总军士长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/1f64c2e69ef75c46ea92127016854e925d62e6bb.jpg"
+        },
+        {
+          "name": "好的开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681630/5ce5e0d2f081050550e07cfd175dc1df65129e92.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

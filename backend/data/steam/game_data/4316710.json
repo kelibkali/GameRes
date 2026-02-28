@@ -1,0 +1,58 @@
+{
+  "4316710": {
+    "name": "HYPERVOX",
+    "steam_appid": 4316710,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >HYPERVOX is a music video game where players perform the vocal melody of songs.</p><p class=\"bb_paragraph\" >The game uses 12 keys corresponding to each musical note (C through B), with each key having its own dedicated lane.</p><p class=\"bb_paragraph\" >When notes reach the judgement line, press the corresponding key to hit the note and recreate the vocal melody in real-time.</p><p class=\"bb_paragraph\" >Aim for the highest score possible by hitting each note with precise timing and accuracy.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Controls</h2><p class=\"bb_paragraph\" >The game uses 12 normal keys and 2 octave keys for gameplay.</p><p class=\"bb_paragraph\" >Each lane corresponds to one normal key, which are assigned by default to: Z, S, X, D, C, V, G, B, H, N, J, M.</p><p class=\"bb_paragraph\" >There are two octave keys in the game: <strong>octave up</strong> and <strong>octave down</strong>. By default, the <strong>octave up</strong> key is mapped to the Left Shift, and the <strong>octave down</strong> key is mapped to Spacebar.</p><p class=\"bb_paragraph\" >All keys can be freely customized or reset to defaults in the settings menu.</p><p class=\"bb_paragraph\" >MIDI keyboards are also supported. The 12 keys from C to B on your MIDI keyboard correspond to the 12 normal keys, regardless of which octave you play in. Tilting the pitch wheel up activates <strong>octave up</strong>, and tilting it down activates <strong>octave down</strong>.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How to Play</h2><p class=\"bb_paragraph\" >HYPERVOX features two types of notes: standard notes and octave notes.</p><p class=\"bb_paragraph\" ><strong>Standard notes</strong> work like long notes in typical rhythm games — simply press and hold the corresponding lane key with proper timing to play the note. These notes appear in white or blue depending on the lane.</p><p class=\"bb_paragraph\" >To play them: Press the corresponding lane key when the note reaches the start point. Hold the key through the note's duration, then release it when the note ends.</p><p class=\"bb_paragraph\" ><strong>Octave notes</strong> require a different technique. Unlike standard notes, you must first hold the octave key, then use the lane key to actually play the note.</p><p class=\"bb_paragraph\" >To play them: First, press and hold the octave key. Then, press the lane key when the note reaches the judgement line. Release the lane key when the note ends, matching the timing precisely.</p><p class=\"bb_paragraph\" ><strong>Octave up</strong> notes are displayed in red, while <strong>octave down</strong> notes are displayed in green.</p><p class=\"bb_paragraph\" >When Colorblind Mode is enabled, <strong>octave up</strong> notes will be displayed in magenta, and <strong>octave down</strong> notes will be displayed in <strong>cyan</strong>.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316710/extras/e4772087f1780bbf8826e91890c04012.avif?t=1771347653\" width=702 height=729 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316710/extras/6161b727e9a9fc6b135b31142ffc73c8.avif?t=1771347653\" width=702 height=729 /></span></p><h2 class=\"bb_tag\" >Judgement System</h2><p class=\"bb_paragraph\" >In HYPERVOX, your timing accuracy is evaluated with five different judgement levels. Each judgement reflects how close your button press or release was to the perfect timing.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Precise</strong></p><p class=\"bb_paragraph\" >The highest level of accuracy. You've hit the note with perfect timing, within ±50 milliseconds of the target. This judgement awards maximum points and maintains your combo.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Great</strong></p><p class=\"bb_paragraph\" >Excellent timing that's slightly off from perfect, within ±50-100 milliseconds. You'll receive high points and your combo continues.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Fair</strong></p><p class=\"bb_paragraph\" >Acceptable timing that's noticeably off but still within the rhythm, within ±100-150 milliseconds. You'll earn moderate points and maintain your combo, though with reduced scoring.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Close</strong></p><p class=\"bb_paragraph\" >Your timing is significantly off, within ±150-300 milliseconds of the target. This results in minimal points but still maintains your combo streak.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Break</strong></p><p class=\"bb_paragraph\" >You've either missed the note entirely or your timing was too far off (beyond ±300 milliseconds). This judgement breaks your combo, resetting it to zero, and awards no points.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Speed Control</h2><p class=\"bb_paragraph\" >If you feel the notes pass too fast or too slow, you can adjust their scroll speed using F1 to decrease speed and F2 to increase speed by default.</p><p class=\"bb_paragraph\" >This only changes the visual speed of the notes — the actual timing for hitting notes remains unchanged.</p><p class=\"bb_paragraph\" >The speed control keys can also be customized in the settings menu.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Creating Song Data</h2><p class=\"bb_paragraph\" >To create a track data for HYPERVOX, follow these steps in the CREATE menu:</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>1</strong>. First, select the vocal and instrumental audio files. The recommended audio format is 44.1kHz/16bit WAV. Both audio files must have matching sampling frequencies for proper playback.</p><p class=\"bb_paragraph\" ><strong>2</strong>. Select a MIDI file containing a single vocal track that matches the vocal audio. Harmonies are not supported. If you don't have a MIDI file, you can use AI to convert the vocal audio to MIDI. However, this is an experimental feature and conversion quality may decrease with longer songs (1m30s or longer). When using AI-generated MIDI files, some long notes may be split into multiple segments. In this case, apply the option to merge consecutive notes of the same pitch.</p><p class=\"bb_paragraph\" ><strong>3</strong>. Finally, enter the chart information. For proper playback, you must input all information including accurate BPM. Album cover and background video are optional. If including a video, MP4 is recommended for Windows, while WebM with VP8 codec is recommended for other platforms.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Once the chart is successfully created, you can check it in the game's TRACKS menu.</p>",
+    "supported_languages": "英语, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316710/73c4dd3c1b664a8b26865806b34ad163fa0d29cc/header.jpg?t=1771347653",
+    "developers": [
+      "Stagnant Water Games"
+    ],
+    "publishers": [
+      "Stagnant Water Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

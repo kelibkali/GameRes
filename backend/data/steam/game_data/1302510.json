@@ -1,0 +1,113 @@
+{
+  "1302510": {
+    "name": "蒸汽波之路 VR",
+    "steam_appid": 1302510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "*支持导入WMV,OGG,MP3格式的音乐文件。MP3格式的文件将被转换为WMV格式播放，转换的文件存储在MP3文件所在目录，退出游戏时将被自动删除。支持大部分采样率的MP3文件，少部分不受支持。<br><br>您好，在做完《赛博司机 VR》后我想是时候做一款蒸汽波VR游戏了，我花了很多时间来考虑蒸汽波的灵魂是什么？它吸引我们的又是什么？这很难有一个准确的答案，但是我们可能都有想象过这样的画面：在公路上驾驶汽车，收听音乐，观赏车窗外的蒸汽波艺术风景。所以我决定将这个画面做成VR游戏。<br><br>游戏中部份艺术模型和音乐来自我的其他两个蒸汽波游戏《蒸汽波世界》、《蒸汽波漂移》。<h2 class=\"bb_tag\" >游戏特色</h2><br><ul class=\"bb_ul\"><li>驾驶一辆具有科幻感的汽车。<br></li><li>可以打开车窗吹风。<br></li><li>可以导入本地音乐。<br></li><li>蒸汽波世界氛围。<br></li><li>四张地图。<br></li><li>7首音乐。<br></li><li>简单轻松的游戏体验。<br></li><li>支持Steam成就和Steam排行榜。</li></ul><h2 class=\"bb_tag\" >游戏玩法</h2><ul class=\"bb_ul\"><li>在永无止境的公路上驾驶汽车。<br></li><li>吹着窗外的风观看蒸汽波风景。<br></li><li>可将本地音乐导入汽车音乐库，</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302510/header.jpg?t=1713671107",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 4 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Roads 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1302510/412fc1641b36fc5b364f38fdf34a3e28c86c21a5.jpg"
+        },
+        {
+          "name": "Roads 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1302510/89b9bbb6e620c05147cf4c6a35a39daee770e349.jpg"
+        },
+        {
+          "name": "Roads 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1302510/c9837a1b0467707c080f9e8c9d8e09d168b30364.jpg"
+        },
+        {
+          "name": "Roads 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1302510/d5bcdae2dd7652949f44761c988f8ae49709edbb.jpg"
+        },
+        {
+          "name": "Roads 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1302510/95cb7a1c3d0d701b868d14322fc14343c029d32f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

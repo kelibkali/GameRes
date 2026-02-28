@@ -1,0 +1,57 @@
+{
+  "1046110": {
+    "name": "Shadow Runner",
+    "steam_appid": 1046110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Shadow Runner is a speedrun-oriented platformer, where you must master three gameplay elements simultaneously to finish the level in the shortest possible time.<br />\r\nUse the classical dash and double jump to move between the platforms, and make the most of your grapple when possible.<br />\r\nBeware, as your character cannot stay in the light or in shadows without you manually switching which side you want. <br />\r\nControl the position of the sun to create the most efficient path to complete the level.<br />\r\nUnderstand these three gameplay mechanics and transform them into reflexes to finish in the shortest amount of time.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046110/header.jpg?t=1553694987",
+    "developers": [
+      "Romain Rebecchi"
+    ],
+    "publishers": [
+      "Romain Rebecchi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

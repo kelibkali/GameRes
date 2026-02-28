@@ -1,0 +1,129 @@
+{
+  "1141580": {
+    "name": "Taiji",
+    "steam_appid": 1141580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《TAIJI》是一款冒险解谜游戏，游戏的背景是一个充满谜题的神秘世界。与其他冒险游戏不同的是，《TAIJI》中的谜题都使用统一的界面：一个网格，网格上的砖块可以翻转。<br />\r\n 界面的一致性看似简单，但实际上能让玩家不必像其他冒险游戏那样胡乱猜测或者寻找像素点。玩家解开谜题要交互的物体总是一目了然，但他们却永远无法准确知道自己该怎么做。游戏地图分为许多不同的区域，每个区域都设有独特的视觉主题和机关。在探索这个丰富多彩的世界时，一定要认真思考、眼观八方，因为重要的线索有时就隐藏在众目睽睽之下。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 土耳其语, 爱沙尼亚语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1141580/header.jpg?t=1752260208",
+    "developers": [
+      "Matthew VanDevander"
+    ],
+    "publishers": [
+      "Matthew VanDevander"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "神殿",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/7f24f28b5c0625e23fd398bcccf2655f5bb97751.jpg"
+        },
+        {
+          "name": "矿井",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/22ef03fa38219563fcd522cfdb20c2e5de5dd335.jpg"
+        },
+        {
+          "name": "磨坊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/0b698311d50c72f8c59aaa7ad100218bcf500e8a.jpg"
+        },
+        {
+          "name": "废墟",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/c8358460c1eae81e4199c25ca7b369c719c07d61.jpg"
+        },
+        {
+          "name": "高原",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/cc349fa4b9c0a7bb66760e495bb89343da2f8118.jpg"
+        },
+        {
+          "name": "画廊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/39e1f383e02ad1b9925da0a21132c10ab6ec149d.jpg"
+        },
+        {
+          "name": "墓地",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/485406547a8e49f93da19c44b427ba312f8c6dfa.jpg"
+        },
+        {
+          "name": "花园",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/700435173aade163b6e4e80677f71d3136d7c33f.jpg"
+        },
+        {
+          "name": "果园",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/b1a7a4e3b4c3e2ee79dc6094c86cd1ba2123ccc6.jpg"
+        },
+        {
+          "name": "所有区域已完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1141580/899d33a6f46e5e0165c7e4bf2826edce00b716ce.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 103,
+      "total_negative": 5,
+      "total_reviews": 108
+    }
+  }
+}

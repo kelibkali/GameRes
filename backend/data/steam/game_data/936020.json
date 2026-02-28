@@ -1,0 +1,69 @@
+{
+  "936020": {
+    "name": "Find Differences",
+    "steam_appid": 936020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款休闲游戏，提高你的观察能力。玩家必须在两张相似图片中找出4处不同之处。<br />\r\n<br />\r\n操作：<br />\r\n用鼠标左键在图片区域点击左右两张图的不同之处。<br />\r\n关卡选择：输入已经玩过的关卡数字，然后点击开始游戏。",
+    "supported_languages": "英语, 简体中文, 繁体中文, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 乌克兰语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936020/header_schinese.jpg?t=1542333221",
+    "developers": [
+      "Right Games"
+    ],
+    "publishers": [
+      "Right Games\t"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Good eyesight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/936020/0f9600566effd6fcd5a46d5ecd1e76a19611b4bf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 5,
+      "total_negative": 1,
+      "total_reviews": 6
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "931120": {
+    "name": "像素迷宫",
+    "steam_appid": 931120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这款游戏是完全利用业余时间制作的，是我独立制作的第一款游戏，游戏从开始到完成经历了大约半年的时间，因为有全职的工作在做所以进度相当缓慢，在我们国内想要把自己喜欢的事情坚持下去是一件不容易的事情，要面对很多方面的压力，希望喜欢这类游戏的朋友能够多多支持，让我能够继续做下去。<br><br>Pixel Maze 并不是一款简单的涂色游戏，游戏具有相当的难度，游戏通过数字提示来填充颜色，所有数字环环相扣，每一步都要耐心推算才能最终破解迷宫。如果你喜欢益智游戏，想要挑战高难度，同时有很多时间，快来试试Pixel Maze吧！<h2 class=\"bb_tag\" >游戏介绍</h2>·每个数字代表周围9个格子（包括本身）所要填充的格子数量，数字的颜色就是格子要填充的颜色。当填充的数量满足数字要求后数字右上方出现黑点，所有数字满足要求后关卡成功。<br>·游戏中右侧的工具可以帮助你快速找到没满足要求的数字、放大、缩小和直接解密9个格子。点击右侧色板可以切换颜色，也可以再次点击选中的颜色更换当前颜色。<br>·游戏中所有数字环环相扣，每一步都要耐心推算。所有的迷宫靠推算都能够解出千万不要乱猜喔！,<br>·游戏的每个迷宫都有一个主题，有经典游戏、电影、电视剧等各种丰富的主题，看看你能认出多少。<br>·有超过200个关卡，尺寸由小到大难度递增，希望能带给你一段安静的时光。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931120/header.jpg?t=1736482327",
+    "developers": [
+      "Catnip studio"
+    ],
+    "publishers": [
+      "Catnip studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "No.1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/fccffe22f70b0c0e50b8ca3d1d7f740fe9e02351.jpg"
+        },
+        {
+          "name": "No.2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/f23353303b5255c4cd45e73ef2621ba2c99d5e65.jpg"
+        },
+        {
+          "name": "NO.3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/12953ca741cddc97d9feedf72abee593593fda0b.jpg"
+        },
+        {
+          "name": "NO.4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/f4ffbffd16817926607cdd5473002bf5b6e8d04f.jpg"
+        },
+        {
+          "name": "NO.5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/ed39c0b51cb490cb4c705156a801a72d7452fb0d.jpg"
+        },
+        {
+          "name": "NO.6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/f2a4a19f56a56de10b2801ec2d476736d3201316.jpg"
+        },
+        {
+          "name": "NO.7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/05b86b8c39d6b11bdd715aced69585aa69f99266.jpg"
+        },
+        {
+          "name": "NO.8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/91c0fd61334c88d3b83e79784fce6a67c0c72f30.jpg"
+        },
+        {
+          "name": "NO.9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/58a2f3c00477df461b92d28d26adc1cd3264bfee.jpg"
+        },
+        {
+          "name": "NO.10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931120/00b0015983286308bf4c06b06e456bc1819f475e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 8,
+      "total_negative": 2,
+      "total_reviews": 10
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "415600": {
+    "name": "Kart Racing Pro",
+    "steam_appid": 415600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Kart Racing Pro is a realistic karting simulator.<br>The aim is to create a software useful as a training tool for real drivers, based on a scratch built physics engine that accurately simulates kart dynamics and setup options.<br>As such a steering wheel is strongly recommended, although keyboard, joysticks and gamepads are fully supported.<br><br>Kart Racing Pro also allows to host and join online races, with an integrated matchmaking server. During events data is collected, to provide statistics for drivers' comparison.<br><br><u>Please note that there are neither AI nor a career mode.</u><br><br>More features:<br><ul class=\"bb_ul\"><li>automotive industry-standard tyre model<br></li><li>chassis flex simulation<br></li><li>dynamic track surface groove buildup<br></li><li>wet track simulation and dynamic drying<br></li><li>dynamic marbles generation<br></li><li>tyres pickup of marbles, grass and dirt, affecting grip<br></li><li>user-selectable driver gestures<br></li><li>output of CSV files with telemetry data to analyze driving sessions<br></li><li>a plugins interface allows external programs to receive realtime data from the simulated kart<br></li><li>LAN and online racing. Dedicated server available<br></li><li>support of custom paint schemes for kart, helmet and suit<br></li><li>full modding is possible: advanced users can build new tracks, karts, engines, helmets, ... and integrate them with the provided tools<br></li><li>Native Oculus Rift and SteamVR ( HTC Vive, Valve Index ) support<br></li><li>FreeTrack support<br></li><li>TrackIR support<br></li><li>EDTracker support</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415600/header.jpg?t=1594311317",
+    "developers": [
+      "PiBoSo"
+    ],
+    "publishers": [
+      "PiBoSo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 13600,
+      "final": 13600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 136.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

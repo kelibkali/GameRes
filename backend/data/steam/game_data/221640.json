@@ -1,0 +1,89 @@
+{
+  "221640": {
+    "name": "Super Hexagon",
+    "steam_appid": 221640,
+    "required_age": 0,
+    "is_free": false,
+    "description": "“Super Hexagon”（超级六角形）是特里·卡瓦纳（Terry Cavanagh）所创的最迷你动作游戏，由Chipzel配乐。（游戏语言为英文）",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/header.jpg?t=1653925774",
+    "developers": [
+      "Terry Cavanagh"
+    ],
+    "publishers": [
+      "Terry Cavanagh"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2012 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Point",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/7b6f8d9d17c6d05d99a037191be6b60678493a0e.jpg"
+        },
+        {
+          "name": "Line",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/31441aba2aa29375cd2e1c9e2390f95dc9e268c0.jpg"
+        },
+        {
+          "name": "Triangle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/d320ccbf78d931c8a5f250b31d2c5f6b7d0338a7.jpg"
+        },
+        {
+          "name": "Square",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/f7f5e10ae41f516b9b823fff6973822d3c608c19.jpg"
+        },
+        {
+          "name": "Pentagon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/4a7aa0bfb5b4025b18f0ef5e098c36a7a2e1d4d0.jpg"
+        },
+        {
+          "name": "Hexagon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221640/3381965e9b2b07819d53ad5c634ba37158c5f9c1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 471,
+      "total_negative": 18,
+      "total_reviews": 489
+    }
+  }
+}

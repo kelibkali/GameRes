@@ -1,0 +1,113 @@
+{
+  "545660": {
+    "name": "Roofbot",
+    "steam_appid": 545660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545660/extras/005763713ef6eab446b488d4059d432f.avif?t=1487761492\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545660/extras_big/005763713ef6eab446b488d4059d432f.avif?t=1487761492 width=800 height=130 /></span><br><br>您将指引机器人Roofie穿梭于光怪陆离的屋顶，把能量球放入颜色对应的凹槽中。但要注意，屋顶的结构会随着您的行动而变化，所以请您三思而后行，每一步都可能更接近目标，也可能陷入永远无法脱身的泥潭。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545660/extras/e21cd7ba6c97f8b14a44f8868a20018b.avif?t=1487761492\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545660/extras_big/e21cd7ba6c97f8b14a44f8868a20018b.avif?t=1487761492 width=800 height=130 /></span><br><br>一边试着解决愈发精巧的谜题，一边在悠扬的旋律中探索手工绘制的奇幻场景。<br><br>在超过120个屋顶谜题中一路直上，去对抗一个超级机器人。它贪婪地汇集力量，使得严重的系统Bug中产生了更多的bug<br><br>每20层都有新的玩法与挑战在等待着您。<br><br>只有您才能将这个系统从毁灭性崩溃中拯救出来！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 日语, 韩语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545660/header.jpg?t=1487761492",
+    "developers": [
+      "Koreez"
+    ],
+    "publishers": [
+      "Double Coconut"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2000,
+      "final": 2000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 20.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "First steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/adf731cf8ad6ddb9562c0b94023fef88a2dc7cf3.jpg"
+        },
+        {
+          "name": "Veni, vidi, vici",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/e678707d8e626bd8918a1dbdf416c27da44ee167.jpg"
+        },
+        {
+          "name": "Brainy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/b71baf2dd6d810bc229ce91b63a6ba7726bcdb3e.jpg"
+        },
+        {
+          "name": "Smart",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/990ce648dff931859944b0a203183a732c46e80f.jpg"
+        },
+        {
+          "name": "Wise",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/027b12a77839dfff3b0499a34db6c774a89bd102.jpg"
+        },
+        {
+          "name": "Enlightened",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/0f1bf412eccc9b0e8b3b3dc602121ec44e0dff8e.jpg"
+        },
+        {
+          "name": "Never give up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/939499109e7fa3fe7e424f2bcfa03eb73a1e56a1.jpg"
+        },
+        {
+          "name": "Roof Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/4677a13d883a8d0241194721b5693226ec586975.jpg"
+        },
+        {
+          "name": "Roof Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/b0d03a4c9a278a81afffcccb2be30a9c5dad717d.jpg"
+        },
+        {
+          "name": "Roof Legend",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/545660/17491babc8a455fa4bc9de84f6441fb16a1bfd7d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

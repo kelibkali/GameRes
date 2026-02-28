@@ -1,0 +1,101 @@
+{
+  "1232650": {
+    "name": "Goblin treasure",
+    "steam_appid": 1232650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232650/extras/b84d778f2d3751870c2a27dcd4d7e4be.avif?t=1587896528\" width=800 height=96 /></span><br>Goblin Treasure is a casual arcade game in which you play the role of a goblin treasure hunter. Collecting diamonds while traveling across various boards. Your main goal is to collect as many diamonds as possible while avoiding goblins and traps.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232650/extras/4ec9432c43354aa7f65ef84061a8b1c7.avif?t=1587896528\" width=800 height=96 /></span><br>Main features:<br>- 5 levels<br>- 3 levels of difficulty<br>- big boards<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232650/extras/86025f7d4b2f65b979e3983d19b531c8.avif?t=1587896528\" width=800 height=96 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232650/header.jpg?t=1587896528",
+    "developers": [
+      "enrju"
+    ],
+    "publishers": [
+      "Andrzej Cudzilo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "25 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/59f6b414ff27b3a6cd55dbb68ccca33b3976b5f3.jpg"
+        },
+        {
+          "name": "50 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/fac935740e5713f787478c99550957c0d57615f7.jpg"
+        },
+        {
+          "name": "100 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/36e5d086f9572e325b36927c44b0a32b1b5e065b.jpg"
+        },
+        {
+          "name": "200 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/3012599053b06e89be6f8b966d87c3d6f6afd4c4.jpg"
+        },
+        {
+          "name": "400 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/45416d742e30b7b97930b216c7c03310531f3f85.jpg"
+        },
+        {
+          "name": "800 DIAMONDS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1232650/14246cbf1bfaf3c26d6b9dadb38842130f616094.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "629840": {
+    "name": "Caligo",
+    "steam_appid": 629840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Caligo是一个小型的大气步行模拟器。这是一个交互式故事，您主要需要看和听。<br />\r\n<br />\r\nCaligo是每个人都会以某种方式沉浸其中的黑暗，对我们每个人来说都是不同的东西。对于一些人来说，这是一个简短但令人兴奋的冒险，有些人会认为这是一个放松的地方。然而，其他人会想起他们最糟糕的噩梦，而对于少数人来说，这可能会是一个启示。但是，有一点是确定的：每个人都必须回答一个大问题。<br />\r\n<br />\r\n您在那里会发现：<br />\r\n- 各种角色 - 每个角色都与故事有关<br />\r\n- 不寻常的设置，每个都有自己独特的氛围<br />\r\n- 100%配音的对话，实际上很有意义，最终将形成主角的完整故事<br />\r\n- 一个帮助您更好地了解自己的选择",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629840/header.jpg?t=1693008919",
+    "developers": [
+      "Krealit"
+    ],
+    "publishers": [
+      "Krealit"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "New life",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/629840/10be44a3fd8ed2396a6b3f6473e7495c5d6fe21a.jpg"
+        },
+        {
+          "name": "Oblivion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/629840/ee9dd9572dd7505ce3403904a766a377e1c1b5ac.jpg"
+        },
+        {
+          "name": "Ink Spots",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/629840/fbcfc40ad5f62cbf44a2852e62192a059918ffde.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 2,
+      "total_reviews": 15
+    }
+  }
+}

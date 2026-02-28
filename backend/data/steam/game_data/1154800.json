@@ -1,0 +1,93 @@
+{
+  "1154800": {
+    "name": "ISLA test",
+    "steam_appid": 1154800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "ISLA test - this is a casual game with elements of physics. You control the green square and you need to collect pink objects, for each object you get points. But you will be disturbed by red objects that appear by chance, when you touch at least one of them, you lose. They will have different properties and behavior, some objects will try to make a sharp jerk towards you, while others will just slowly go down and disappear in the future. Apply your reaction, try to think outside the box. And how many points will you get?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Interesting gameplay<br />\r\n<br />\r\n- Use of physics<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Relaxing graphics",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154800/header.jpg?t=1574746321",
+    "developers": [
+      "Areta Watanabe"
+    ],
+    "publishers": [
+      "Areta Watanabe"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Beginning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/6f641a3d5122b55007a814bf7df3d723a94b2ab8.jpg"
+        },
+        {
+          "name": "Repeat Test",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/c9c75f54f35b342ee3eca662909ac41ba05b07b3.jpg"
+        },
+        {
+          "name": "Not the first time, huh?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/84d39a311532292592044aebd2021547d72c6673.jpg"
+        },
+        {
+          "name": "Not bad, but not enough",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/7dd8af2214ffd66493d8a3cfb326a6120ff12bff.jpg"
+        },
+        {
+          "name": "Yeah you're good",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/6e63cdd31b07b45701bb3292b87646f22aa1b0fc.jpg"
+        },
+        {
+          "name": "Great, but we did not expect more",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/72762ec69487d10bfc34103b780c46faff7b0f56.jpg"
+        },
+        {
+          "name": "What? How?!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/9d0ee637e48125af3e48a32c662453ac8a0f2578.jpg"
+        },
+        {
+          "name": "Test subject for honesty!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1154800/c2e0e12891f13b6518a6018d5478a739b40d8b17.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

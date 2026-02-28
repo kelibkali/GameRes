@@ -1,0 +1,105 @@
+{
+  "664420": {
+    "name": "Girls and Quiz",
+    "steam_appid": 664420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "女孩和测验 - 是一个简单而简短的游戏，您需要回答问题。 取决于你的答案，你可以得到每个女孩。",
+    "supported_languages": "英语, 简体中文, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664420/header.jpg?t=1499800193",
+    "developers": [
+      "morojenoe's empire"
+    ],
+    "publishers": [
+      "morojenoe's empire"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "开始游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/5ba700d4ad7bff040ee96cc40bdab73cfb746392.jpg"
+        },
+        {
+          "name": "精英社区",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/ce09660358378a7b57efd9d8ef0a339227e8bfe0.jpg"
+        },
+        {
+          "name": "You can't please Yana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/80499cfaab70b3c0aed83ae3c009e05b0c23629b.jpg"
+        },
+        {
+          "name": "You can't please Ms. Anderson",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/17ba2df5d76c4694c4da4181c2a12e1fb438ef81.jpg"
+        },
+        {
+          "name": "You can't please Ella",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/c5b90bd901c3822e5c09f71b90beae0e3dd99257.jpg"
+        },
+        {
+          "name": "You can't please Cindy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/f741a5c22be4434d39a67a8a69da72999c428248.jpg"
+        },
+        {
+          "name": "You won against Yana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/00ae860c2239b7053841e1f7e966413c01f485c9.jpg"
+        },
+        {
+          "name": "You won against Ms. Anderson",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/71a38284e85e7211f9df946f9ee7a5270ac3c201.jpg"
+        },
+        {
+          "name": "You won against Ella",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/edab54d836f039749bb90cadb9ea27c5e19af36e.jpg"
+        },
+        {
+          "name": "You won against Cindy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/664420/7f3ec58645752aefeb5915e6657af87bb974c340.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    }
+  }
+}

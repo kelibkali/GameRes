@@ -1,0 +1,89 @@
+{
+  "1558800": {
+    "name": "Forgot",
+    "steam_appid": 1558800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《<strong>Forgot</strong>》是一款简短的异常狩猎恐怖游戏。你扮演一个被囚禁在家中的男孩，与祖父母同住。但这真的是你的家吗？你确定他们就是你的祖父母吗？</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >你想离开，却找不到通往外面的出口。房间无休止地循环，时间仿佛静止了。午夜时分，“奶奶”不让你在天亮前离开。她不停地喂你蛋糕，然后把你送回房间。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >有时您的周围环境会发生变化，有时则保持不变...留意异常情况并做出决定：</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>家里有异常吗？</i></strong></p><p class=\"bb_paragraph\" >蛋糕有毒，请勿食用并立即离开！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>一切看上去都正常吗？</i></strong></p><p class=\"bb_paragraph\" >蛋糕安全又美味，出门的时候一定要吃掉它！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >只有连续做出12个正确的决定，早晨才会到来，通往自由的道路才会打开。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>游戏时间：15 - 60分钟</i></p>",
+    "supported_languages": "英语, 德语, 简体中文, 日语, 俄语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558800/58036b4ec01560ee0622fe7562918d1324db69cf/header.jpg?t=1764953804",
+    "developers": [
+      "Maxwell Whitebaker"
+    ],
+    "publishers": [
+      "Maxwell Whitebaker"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 12 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "一块美味的蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/82ab99b4085e28eae1083c337ebdcbacbb23e31b.jpg"
+        },
+        {
+          "name": "一块有毒的蛋糕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/8c7eb308d829709f71fbb21d69ca12815afe2c24.jpg"
+        },
+        {
+          "name": "好结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/665b76d585262a1f4d4fa028e72e4d41439b98d0.jpg"
+        },
+        {
+          "name": "糟糕的结局",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/6308b18d0909cd423f0fbea4e90821eab5829688.jpg"
+        },
+        {
+          "name": "所有异常",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/28e6e93ed604e6de721ffa1b15c8f90749c25f07.jpg"
+        },
+        {
+          "name": "密室",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1558800/cfd57bc589b558186ce50acb0f48fa6015f72640.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

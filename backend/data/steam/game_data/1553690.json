@@ -1,0 +1,85 @@
+{
+  "1553690": {
+    "name": "How does it work!?",
+    "steam_appid": 1553690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i><strong>How does it work!?</strong></i> - 解谜游戏类型的物理游戏，采用 3D 图形制作。<br>游戏中添加了许多级别，每个级别都包含必须完成的任务。 你必须绞尽脑汁找出如何正确应用给定的部分来实现关卡目标。 还有一个免费游戏，您可以制作自己的地图并想出自己的有趣机制。 为了让事情变得更加有趣，我们添加了成就。 尝试全部完成！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 丹麦语, 简体中文, 韩语, 荷兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 土耳其语, 乌克兰语, 芬兰语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553690/header.jpg?t=1709851354",
+    "developers": [
+      "Piece Of Voxel"
+    ],
+    "publishers": [
+      "Piece Of Voxel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 333,
+      "discount_percent": 91,
+      "initial_formatted": "¥ 37.00",
+      "final_formatted": "¥ 3.33"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "First steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1553690/612ae87c6eb9c3d9e85403ebe81a343739f80896.jpg"
+        },
+        {
+          "name": "A quarter behind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1553690/e26f06924f57cc14a915d847d0b788a4588ede29.jpg"
+        },
+        {
+          "name": "Half behind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1553690/e81489227006ed91badca4249b6f2f7d93ffad60.jpg"
+        },
+        {
+          "name": "Hurrah! Now you can play Free Mode.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1553690/2756ec67fb2efa2525c7e66248356f49deeafa11.jpg"
+        },
+        {
+          "name": "Good luck creating",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1553690/3a833484c7388755e8a4effa89f6b1bc29ad3c1b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

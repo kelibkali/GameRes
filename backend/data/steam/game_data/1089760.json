@@ -1,0 +1,61 @@
+{
+  "1089760": {
+    "name": "迷你物流",
+    "steam_appid": 1089760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "春节无聊在家，就做了一款小游戏自娱自乐。<br />\r\n这款游戏入手很简单，在各个节点之间拖拉线条建立连接，以便把一个节点的产品运输到另一个节点，生产出新的产品或者销售它。<br />\r\n在此过程中，注意使用有限的人力资源来提高某些管线的速度，以达到整个产业链的负载均衡。并注意不要让越来越高的维护费导致自己破产。",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089760/header.jpg?t=1729933497",
+    "developers": [
+      "chenjd"
+    ],
+    "publishers": [
+      "chenjd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 7,
+      "total_negative": 1,
+      "total_reviews": 8
+    }
+  }
+}

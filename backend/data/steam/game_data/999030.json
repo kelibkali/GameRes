@@ -1,0 +1,93 @@
+{
+  "999030": {
+    "name": "Gamepad Massage",
+    "steam_appid": 999030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>手柄按摩</strong>是一款按摩游戏，在这里你可以用你的Xbox手柄进行按摩。<br>你可以调节按摩的力度。<br>你甚至可以用java-script构建自己的按摩旋律。<br>我们构建了一些内置关卡来教你如何写按摩代码。<br>**你需要一个Xbox手柄（xinput手柄）方能享受 <strong>手柄按摩</strong>。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999030/header.jpg?t=1580219798",
+    "developers": [
+      "XenoAmess"
+    ],
+    "publishers": [
+      "XenoAmess"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "讲讲礼貌",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/999030/7f8d78c382f1d284d2e0921dd4444135aa8659cb.jpg"
+        },
+        {
+          "name": "新人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/999030/eea8734db291d89629ea2f21aa9cdc5031c49986.jpg"
+        },
+        {
+          "name": "培训完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/999030/4912ac75d1cb91e893c1affa21838cc133e81bd6.jpg"
+        },
+        {
+          "name": "青之寻引人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/999030/0e4d315eb5197adfb65305a13f55f3e4d8602b7e.jpg"
+        },
+        {
+          "name": "按摩人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/999030/7dd9fc2677b67fd9eefc5adf91ec83b833bc0558.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

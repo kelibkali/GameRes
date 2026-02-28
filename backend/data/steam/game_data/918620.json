@@ -1,0 +1,137 @@
+{
+  "918620": {
+    "name": "Warships 3D",
+    "steam_appid": 918620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Warships 3D是一款可定制的，在3D环境中完成的，带有动画和过场剧情的水战游戏。<br>玩家可以可自定义游戏规则，例如地图大小，哪些船只可用，参与那些战役，玩家可以获得什么武器。<br>游戏分两个阶段来玩儿，在第一阶段，玩家将自己的船只摆放在对手的地图上，而在第二阶段，玩家的目标是在其自己的地图中找到并摧毁敌人的船只。<h2 class=\"bb_tag\" >特性</h2><ul class=\"bb_ul\"><li>可自定义的（请参阅以下“自定义选项”）<br></li><li>带有动画和过场剧情的漂亮3D环境（在过场剧情播放时，玩家仍然可以射击）<br></li><li>6条环境音轨<br></li><li>在线多人游戏，本地多人游戏和单人游戏<br></li><li>游戏手柄支持和本地多人游戏为两位玩家在单独键盘上玩提供了选择</li></ul><h2 class=\"bb_tag\" >自定义选项</h2><ul class=\"bb_ul\"><li><strong>武器授予系统</strong>: 定义在某些事件中（例如船只被摧毁时）可以向玩家提供的武器类型<br></li><li><strong>射击模式</strong>: 每轮固定的射击次数或取决于未被摧毁的船只数量<br></li><li><strong>地图大小</strong> 范围从 2x2 到 20x20<br></li><li><strong>船只</strong> 可用 <strong>尺寸</strong> 从 1 到 7 <br></li><li>被摧毁的船只应该显示?</li></ul>即使您不想进行任何自定义，还可以玩儿经典模式。",
+    "supported_languages": "英语, 法语, 德语, 日语, 俄语, 简体中文, 意大利语, 葡萄牙语 - 葡萄牙, 西班牙语 - 西班牙, 波兰语, 希腊语, 塞尔维亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918620/header_schinese.jpg?t=1709808565",
+    "developers": [
+      "ENC Games"
+    ],
+    "publishers": [
+      "ENC Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Destroyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/01b6920d0d4894aeed41179f0dee9cb5da8c670a.jpg"
+        },
+        {
+          "name": "Conqueror",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/454a506e5fd05d762b8645bd7bc3b6a6b56e6687.jpg"
+        },
+        {
+          "name": "Below radar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/ee2169adf7c99ce56369a4606e3a6fca0bb2f203.jpg"
+        },
+        {
+          "name": "Just a scratch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/bd708dda041ccb4a0a308168b649baaafe6eedf9.jpg"
+        },
+        {
+          "name": "We did it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/de718136708d44d9d27445d3d85af9c840039eb0.jpg"
+        },
+        {
+          "name": "Mission impossible",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/7ffab4e7a242cb95f15bf62d2daca73f43e84bad.jpg"
+        },
+        {
+          "name": "Regroup",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/fc0dad1b726577b192dd227e31d0a9af60927cd7.jpg"
+        },
+        {
+          "name": "Couch time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/31226ce8a80f8a4a05f2dcfde57a45d7024f3def.jpg"
+        },
+        {
+          "name": "Gotcha",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/b2f72059a072c41b39292a7c477505b4b5b905fe.jpg"
+        },
+        {
+          "name": "Lucky shot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/918620/97e0fbeb160c943841ad9bf0fe443cfc8f76157b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

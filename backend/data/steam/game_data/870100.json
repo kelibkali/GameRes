@@ -1,0 +1,85 @@
+{
+  "870100": {
+    "name": "乌鸦 - Crows",
+    "steam_appid": 870100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Crows是第一人称多人合作游戏。 随机选择一个匿名的恶棍，<br>他们的目标是破坏合作伙伴的使命。<br><br><br><strong>简介:</strong><br><br>一个强大的黑手党老板的儿子爱上了一个警察女孩。 当然他的黑手党父亲不同意这种关系。<br>他知道这是一个时间问题，这将成为他的事业的一个问题。<br><br>然后作为复仇，他的儿子偷走了他最有价值的文物，其中包含密码以获取黑手党的财富。<br>他隐藏了森林里的物品，找到了解决问题的办法。<br><br>他的父亲发现了他儿子的背叛，并聘请了一个团队来搜寻森林中的文物。<br>但他并不认为他的球队会有叛徒。 谁将很快消灭他的所有团队并窃取黑手党的财富。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870100/header_schinese.jpg?t=1613073846",
+    "developers": [
+      "Labory"
+    ],
+    "publishers": [
+      "SA Industry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 300,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 30.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "生活",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870100/9ebabb3207f0e428938dfe9beb34010ed49e11aa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 4,
+      "total_negative": 4,
+      "total_reviews": 8
+    }
+  }
+}

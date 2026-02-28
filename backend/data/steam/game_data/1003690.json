@@ -1,0 +1,83 @@
+{
+  "1003690": {
+    "name": "CrossTrix",
+    "steam_appid": 1003690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "CrossTrix is a crossword based puzzle game, where you are given 20 mystery letters which are revealed individually each turn. Each player is given 3 re-rolls per game that they may use to replace newly-revealed letters with a different letter, for a chance at more matches on screen. The game features 3 game modes:<br><br><ul class=\"bb_ul\"><li><br>* Score Attack - All instances of a revealed letter are awarded to the player. Player reveals all letters, then play switches to the next player.<br>* Strategy Mode - Players can only select 3 of the instances of revealed letters on screen. When all letters have been revealed, play switches to the next player.<br>* Versus Mode - Players can only select 3 of the instances of revealed letters on screen. Both players are working off the same screen and can absorb opponent pieces via having a scored tile to the opposing sides (of left and right, or above and bellow) of a piece or pieces to absorb them. Players take turns, as play changes to the next player after &quot;End Turn&quot; is selected.</li></ul><br>Goal of the game is to get the best score. Scoring of complete words will earn the player bonus points.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003690/header.jpg?t=1548903791",
+    "developers": [
+      "Jason Free"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

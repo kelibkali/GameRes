@@ -1,0 +1,85 @@
+{
+  "869010": {
+    "name": "Katto",
+    "steam_appid": 869010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Katto is a rhythm puzzle game that gives you a brainteaser on every beat. Use your two katanas to chop through complex obstacles with beat-perfect strikes and see how far you can go!<br><br>The core challenge in Katto comes from trying to perform simultaneous but unique actions with each katana. As you encounter more obstacles, this gets expanded upon to test your memory, reaction time, dexterity, and other mental abilities.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Original soundtrack with a dynamic melody you create as you play<br></li><li>A series of endless procedurally generated levels that get faster over time<br></li><li>Obstacles that provide a unique challenge both on their own, and when combined with other obstacles<br></li><li>Daily challenges<br></li><li>Leaderboards</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/869010/header.jpg?t=1723697167",
+    "developers": [
+      "Bailey Snyder"
+    ],
+    "publishers": [
+      "Bailey Snyder"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Apprentice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/869010/4b21b4f6bda0a39e8ea47c08d8cf9872fc80768e.jpg"
+        },
+        {
+          "name": "Sensei",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/869010/c89a531b1f0d36a71e93135326bdef7c48bc6eb9.jpg"
+        },
+        {
+          "name": "Competitor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/869010/2081903f9be47140954732db74471a78893616a0.jpg"
+        },
+        {
+          "name": "Beatkeeper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/869010/fa4501cb0f7717287f9596941a88cc70cf28c9cd.jpg"
+        },
+        {
+          "name": "Perfectionist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/869010/c48e066d76f134a1d8b6a931f5c3c37b2f048d17.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

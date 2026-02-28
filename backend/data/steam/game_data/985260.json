@@ -1,0 +1,125 @@
+{
+  "985260": {
+    "name": "The Morrigan",
+    "steam_appid": 985260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Step into this world of beautiful stylised graphics and explore striking, handcrafted environments - torch in one hand, big axe in the other. Gameplay is a rich, multi-layered experience, with surprising charm and heart.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985260/extras/a447e548286a73c54e0c3982565d07b4.poster.avif?t=1597997524\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985260/extras/a447e548286a73c54e0c3982565d07b4.webm?t=1597997524\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985260/extras/a447e548286a73c54e0c3982565d07b4.mp4?t=1597997524\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Features:</h2><u><strong>Dramatic combat system:</strong></u><br>This is what VR swordplay should be: free-flowing attacks and blocks that allow you to feel the rhythm of combat. Dynamic physics-based melee combat delivers a reaction to every hit.<br><br><u><strong>Can it still be bullet time if it’s with arrows? </strong></u><br>Bend time to dodge arrows or strike them out of the air - if you’re fast enough.<br><br><u><strong>Swordplay that’s easy to learn yet challenging to master</strong></u><br>Chain blocks and attacks unleash devastating counter attacks that can turn the tide of battle in your favour. Five different enemy attack styles to get your teeth into.<br><br><u><strong>And what would a dungeon be without puzzles? </strong></u><br>This new game has got you covered. Keys, switches, hidden rooms - the whole enchilada.<br><u><br><strong>And if heart-stopping peril is your thing...</strong></u><br>This game will have you dodging terrifying traps (that you can then use against your enemies) and climbing across death-defying drops.<br><br><u><strong>No time for questing? </strong></u><br>Drop into the arena and enjoy wave after wave of enemies - and unlock weapons to use in the main campaign or arena.<br><u><br><strong>Looking for story? </strong></u><br>The basics: a desperate king strikes a deal with the Morrigan to get him out of a tight spot, sacrificing his (unborn) daughter’s freedom. Time passes, and the daughter eventually succeeds the throne. The Morrigan returns to call in the debt… unless you can stop her, that is. But she is a god, so good luck with that!<br><u><br><strong>A whole armoury of weapons</strong></u><br>Tool up with swords, axes, shields, bows - play in whatever style you like, with over 20 weapons to choose from.<br><br><u><strong>A range of locomotion options</strong></u><br>Free locomotion, teleport or both supported. Left- or right-handed? Not a problem.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985260/header.jpg?t=1597997524",
+    "developers": [
+      "The Pixel Mine Ltd"
+    ],
+    "publishers": [
+      "The Pixel Mine Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5600,
+      "final": 1400,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 56.00",
+      "final_formatted": "¥ 14.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 53,
+      "highlighted": [
+        {
+          "name": "Complete the Tutorial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/31234d33831fa351b9cae6e9773428c6193751e7.jpg"
+        },
+        {
+          "name": "Complete The Beginning on easy difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/eceab8caee6da97756658aa6e3b31a4763d3b052.jpg"
+        },
+        {
+          "name": "Complete The Beginning on medium difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/1a8a56380fba4f976d072a92b94645f1559c5b19.jpg"
+        },
+        {
+          "name": "Complete The Beginning on hard difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/d8fc982447662b52da1cd62cb1aec63049efd289.jpg"
+        },
+        {
+          "name": "Complete The Tomb on easy difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/f7fe7e5f3ffe86f7cbc48f636f0670659a79b99f.jpg"
+        },
+        {
+          "name": "Complete The Tomb on medium difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/77f69478995d44c294d989f3a627571f26b2a12c.jpg"
+        },
+        {
+          "name": "Complete The Tomb on hard difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/ed93155a5e15d835d5db1b757d6364446a91555c.jpg"
+        },
+        {
+          "name": "Complete The Church on easy difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/8d0f5af7fade4bf661cecf41b48bfd002e56aef0.jpg"
+        },
+        {
+          "name": "Complete The Church on medium difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/b9c17fb33c0ab0516f0ad08acbbe9c4f7afb433c.jpg"
+        },
+        {
+          "name": "Complete The Church on hard difficulty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/985260/249c2a510436f101fed9565652353ca102f97b67.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 1,
+      "total_reviews": 22
+    }
+  }
+}

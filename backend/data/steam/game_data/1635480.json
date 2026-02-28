@@ -1,0 +1,85 @@
+{
+  "1635480": {
+    "name": "Spaceships",
+    "steam_appid": 1635480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Spaceships is an action arcade game. Fight epic battles, explore the galaxy and discover its secrets. But watch out, Kate is hunting you...",
+    "supported_languages": "葡萄牙语 - 巴西<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635480/header.jpg?t=1768478735",
+    "developers": [
+      "Nicolas Canova"
+    ],
+    "publishers": [
+      "Canova Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "5 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1635480/a7ee490b7eb8c43b31b59d5859c4e2937743e99a.jpg"
+        },
+        {
+          "name": "15 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1635480/90e4d2b77b17e4f56beb88de07350f6298c0f578.jpg"
+        },
+        {
+          "name": "30 minutes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1635480/c281d7a571fb65b14acba5472914f8b158ac2e35.jpg"
+        },
+        {
+          "name": "1 hour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1635480/5f2827b1c4fb5c8c59bc296b6c1b935107e8cb96.jpg"
+        },
+        {
+          "name": "Allies",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1635480/7a784dadf716ef89a1b5490e6f75104f41e6069a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

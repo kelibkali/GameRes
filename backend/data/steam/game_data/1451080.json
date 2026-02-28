@@ -1,0 +1,113 @@
+{
+  "1451080": {
+    "name": "DUNGEON ENCOUNTERS",
+    "steam_appid": 1451080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >《DungeonEncounters》简介</h2>《DungeonEncounters》是一款追求极简游戏设计的迷宫探索RPG。本作基于原始设计理念，尽可能简化视觉表现和效果，因此玩家可以体验游戏系统本身的乐趣。<br><br>当运用技能探索迷宫时，将会遭遇各种以十六进制表示的事件。战斗也包含在事件之中，玩家将与非同一般的敌人展开惊心动魄的战斗，并且需要反复探索才能到达更深的阶层。本作最大的魅力就在于玩家可以通过此过程享受到自主思考的乐趣。<br><br>此外，走遍地图本身也是游戏的主要目的之一。迷宫内还存在着稀有道具、尚未加入的伙伴和出现概率低的敌人等丰富多彩的收集要素。克服了无数困难之后，在最深层等待玩家的究竟是什么……<h2 class=\"bb_tag\" >事件</h2>在本作中，“获得道具”、“HP回复”、“更换技能”、“武器店”和“防具店”这些一般RPG中的独立要素在地图上也以“事件”的形式存在，并显示为白色号码。同样，与敌人的战斗也存在于地图上，如果装备了“Fiend Scouting（显示战斗号码）”的技能，则将以黑色号码显示。事件满足条件时，则可以随时从选单的“Log（日志）”中查阅，这将有助于玩家攻略迷宫。<h2 class=\"bb_tag\" >战斗</h2>战斗方面则采用了“FINALFANTASY”系列中熟悉的“Active・Time・Battle（ATB）”系统。此系统将基于每个角色的速度，对敌方盟友实时进行攻击和防御（※）。由于此系统的设计者同时担任本作总监，因此可以享受高度敏锐的ATB系统也是本作的特徵之一。（※玩家在选择指令时还可以设定“Wait（等待）”使时间停止。）<h2 class=\"bb_tag\" >地图</h2>地图由横竖网格分隔而成的正方形格子组成，画面左上角显示当前位置的坐标。每走遍一整层的所有格子就可以获得“技能分数”，因此推荐积极去走遍地图。然而，较深楼层中的格子本身会被隐藏或设置陷阱，因此前进时需要小心谨慎。",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451080/header.jpg?t=1696939088",
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 19800,
+      "final": 19800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 198.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "DUNGEON ENCOUNTERS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/7100e785639ca3a742e4f9c4dc13524ef9b54c07.jpg"
+        },
+        {
+          "name": "Lord Paramount of Maps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/2f2f6c25e4751fec36d6d831a6b0c92fc2ead4b8.jpg"
+        },
+        {
+          "name": "Jack of All Abilities",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/94283d78d652143540960ac9513732471e304eda.jpg"
+        },
+        {
+          "name": "Leading Authority on Fiends",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/6af64b0aa46207213a0ddd7c6ec00440d29289b7.jpg"
+        },
+        {
+          "name": "Destroyer of Worlds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/6a62fd94ad2c0d2ffadcd75de777db0faf713762.jpg"
+        },
+        {
+          "name": "Adventurers Assemble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/d570275dd6dc084174593b50ffca77d58724aed3.jpg"
+        },
+        {
+          "name": "The Deepest Depths",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/a3ca56aa87a7c34de50d18ea061149d65c9f1275.jpg"
+        },
+        {
+          "name": "More Atlas than Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/a05342132f03294f1a1a970ab16c835500b28362.jpg"
+        },
+        {
+          "name": "Ability Adept",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/0e90658c47298713a13ddbc980f6905037d88af6.jpg"
+        },
+        {
+          "name": "Fiend Professor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1451080/d1ee40be354be2bcdf47f612547bce860b10c6de.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 2,
+      "total_negative": 4,
+      "total_reviews": 6
+    }
+  }
+}

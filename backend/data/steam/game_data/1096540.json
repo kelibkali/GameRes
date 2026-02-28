@@ -1,0 +1,65 @@
+{
+  "1096540": {
+    "name": "XMagicTyping",
+    "steam_appid": 1096540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "酷鱼魔键(XMagicTyping)是一个好玩有趣的打字特效软件，它能在您打字的时候显示出酷炫惊艳的各种特效。 支持创意工坊，数十款特效任您选择。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>支持创意工坊，数十款打字特效一键下载使用<br></li><li>支持特效参数设置，可轻松调节特效的缩放/偏移/旋转等<br></li><li>支持暂停模式，暂停后完全不占CPU/GPU等系统资源<br></li><li>深度优化，超级流畅<br></li><li>支持多国语言<br></li><li>兼容各种动态壁纸软件，例如：Wallpaper Engine,雨滴壁纸RainWallpaper<br></li><li>支持设置任务栏透明</li></ul><h2 class=\"bb_tag\" >暂未支持的软件列表</h2>以下软件由于未提供光标位置获取接口所以在其中输入无法显示特效<br><ul class=\"bb_ul\"><li>Edge<br></li><li>QQ,TIM<br></li><li>Win10上的现代UI的App <br></li><li>Win10的开始菜单</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096540/header.jpg?t=1607489396",
+    "developers": [
+      "XDesktopSoft"
+    ],
+    "publishers": [
+      "XDesktopSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 4,
+      "total_negative": 3,
+      "total_reviews": 7
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "1200200": {
+    "name": "Sin Chess",
+    "steam_appid": 1200200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>游戏特色</strong><br>玩家与原罪恶魔进行棋局博弈，不同于传统大富翁摧毁对手的玩法机制，本作更倾向于通过搜集更多资源超越对手获得最终胜利。类大富翁游戏，脱离网络对战可玩性会大幅下降，本作通过策略卡牌与不同关卡英雄技能搭配，让玩家体验单机版也能有满满的变化乐趣。<br><br>※不需要骰子进行移动的桌棋游戏<br>※多种英雄任你选，挑战连续关卡，多种地图设定<br>※达成成就，才能解锁新英雄<br>※数百种随机事件，策略卡牌由你决定<br><br><strong>故事背景</strong><br>机械时代，人类文明高度发达。人性的弱点越发暴露无遗，为了选拔最优秀的战士，帝国的英雄需要经历七大罪的残酷试炼，究竟谁能脱颖而出，就此开启人类新世代，成为最完美的战士？<br><br><strong>玩法简介</strong><br>玩家固定拥有4张手牌。每回合分为移动阶段、出牌阶段、站点阶段。<br>移动阶段，玩家需要根据想要移动的步数，消耗一张对应步数的手牌<br>出牌阶段，玩家可消耗一张图标与当前站点一致的手牌，获得相应的收益<br>站点阶段，触发该站点专属事件",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200200/header_schinese.jpg?t=1606557110",
+    "developers": [
+      "islegame"
+    ],
+    "publishers": [
+      "IceSilk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 16,
+      "total_negative": 4,
+      "total_reviews": 20
+    }
+  }
+}

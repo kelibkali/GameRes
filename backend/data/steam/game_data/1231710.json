@@ -1,0 +1,58 @@
+{
+  "1231710": {
+    "name": "Super Foosball",
+    "steam_appid": 1231710,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Super Foosball is an arcade inspired Foosball game. First player to score 5 goals will win. The game contains both a single and multiplayer mode.<h2 class=\"bb_tag\" >Note: The game does NOT have matchmaking. You must forward port 7777 to play with your friend. Only the person hosting has to do this.</h2><h2 class=\"bb_tag\" >Keyboard + Mouse</h2><ul class=\"bb_ul\"><li>Q W E R to select a pole</li></ul><ul class=\"bb_ul\"><li>Mouse movement to move poles</li></ul><ul class=\"bb_ul\"><li>Hold left or right click and scroll to rotate characters</li></ul><ul class=\"bb_ul\"><li>Scroll to kick the ball</li></ul><h2 class=\"bb_tag\" >Keyboard only</h2><ul class=\"bb_ul\"><li>Q W E R to select pole</li></ul><ul class=\"bb_ul\"><li>Up / Down to move poles</li></ul><ul class=\"bb_ul\"><li>Left / Right to rotate characters</li></ul><ul class=\"bb_ul\"><li>Space to kick the ball</li></ul><br>This is a remake of an older game I created a few years ago. The previous game was a tech demo and I felt it deserved a bit of more polish.<br><br><br>Music : Racing Cars by @SuperSonicDash",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1231710/header.jpg?t=1583731011",
+    "developers": [
+      "DenyingProduct"
+    ],
+    "publishers": [
+      "DenyingProduct"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

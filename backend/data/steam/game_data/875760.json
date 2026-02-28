@@ -1,0 +1,85 @@
+{
+  "875760": {
+    "name": "Furious Seas",
+    "steam_appid": 875760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875760/extras/b8d464bb06d7b9201e78e3d6e1f0f4c3.poster.avif?t=1628121767\" width=628 height=182 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875760/extras/b8d464bb06d7b9201e78e3d6e1f0f4c3.webm?t=1628121767\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875760/extras/b8d464bb06d7b9201e78e3d6e1f0f4c3.mp4?t=1628121767\" type=\"video/mp4\"></video></span><br><br>《狂怒之海》让你驾驶致命的海盗船，在虚拟现实的世界中复仇。展开你惊心动魄的故事。只要伸手就能指挥你的船员和战舰，击沉任何阻拦你前进的敌人，在狂暴的海域中书写出你的传奇！<h2 class=\"bb_tag\" >特色</h2><br><ul class=\"bb_ul\"><li>和一帮凶神恶煞的海盗在大海上对抗。<br></li><li>享受操作简便的游戏，无需到处跑动，所有你想要的东西都在触手可及的地方。<br></li><li>驾驶你的战船，开火击沉你的死敌。</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875760/header.jpg?t=1628121767",
+    "developers": [
+      "Future Immersive"
+    ],
+    "publishers": [
+      "Future Immersive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 4900,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 70.00",
+      "final_formatted": "¥ 49.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    }
+  }
+}

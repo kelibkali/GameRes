@@ -1,0 +1,73 @@
+{
+  "1427540": {
+    "name": "Attack from Planet Smiley",
+    "steam_appid": 1427540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Attack from Planet Smiley is a retro arcade game where the aim of the game is to survive. Survive a horde of angry smiley faces invading your world. The only way to stop them? You. You are equipped with the latest technology and weaponry there is such as lasers, nukes, and even larger lasers, so when you die, it's all over.<br />\r\n<br />\r\nTag along with a couple friends in the 2-3 Player modes while listening to a mix of three retro-space songs that will get you fired up and ready to burst some happy faces. But, if even one smiley face touches any of you or gets to your side of the battlefield, it's game over - even one smiley face will wipe out the entire planet. Also, after a while a gigantic boss Smiley will trot along, and even another if you take your time, so don't try use any small pebbles against these guys - they'll take a massive beating and come out smiling, cough cough unless you use some of those bigger things, ah yes, nukes. Oh, and they have a gun to shoot you back too, don't worry though, you can blow up those bullets as well!<br />\r\n<br />\r\nOverall, have fun, and don't get too happy shooting up all 'em smiley faces, ironic right? Soon enough, they'll overrun you, leaving you only with the honest score you worked so hard to achieve - and the scores come in different colours too! (Hint: you'll get pink if you do really well. Like reeaally well). Even though much of it may be up to chance, you'll be sure to get a good enough score eventually after you get addicted to the game. Good luck!<br />\r\n<br />\r\nThere may also be a few bugs and missing info like the number of smileys that you've killed... those are being worked on at the moment and I would appreciate if you would give any feedback on anything that goes wrong on your game.<br />\r\n(ALSO NOTE: Holding down too many keys at once, especially for co-op, will cause some keys to not work at the same time e.g. up, shoot and left at the same time. This is due to the typical lack of threading involved in Gamemaker 8.1 and I am working on adding threading through inserting code into the game in the near future).",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1427540/header.jpg?t=1604273166",
+    "developers": [
+      "William Good"
+    ],
+    "publishers": [
+      "William Good"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

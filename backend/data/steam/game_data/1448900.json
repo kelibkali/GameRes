@@ -1,0 +1,49 @@
+{
+  "1448900": {
+    "name": "StreamUsers",
+    "steam_appid": 1448900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "StreamUsers is a program that allows streamers to always know who is watching their broadcast. It is enough to connect your channel in the settings and the main window will display a list of viewers, which is divided into three categories: common viewers, moderators and VIPs.<br><br>An additional category, favorite viewers, is optional. It will display viewers that you mark as favorites.<br><br>Of additional, but no less important functionality is the chat. It can be opened either in a separate window or as a browser source in a streaming program (OBS, XSplit, PlayClaw).<h2 class=\"bb_tag\" >Main Features</h2><ul class=\"bb_ul\"><li>Real-time viewer list tracking<br></li><li>Adding favorite viewers<br></li><li>Display online difference<br></li><li>Appearance customization<br></li><li>Stopwatch and timer</li></ul><h2 class=\"bb_tag\" >Chat</h2><ul class=\"bb_ul\"><li>Display icons for moderators, VIPs, turbos, etc.<br></li><li>Default smileys display<br></li><li>BTTV smilies support.<br></li><li>Ability to display in the stream program: OBS, XSplit, PlayClaw</li></ul><br><i>Supported streaming platform: Twitch</i>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/header.jpg?t=1677156161",
+    "developers": [
+      "Yevhenii Rabtsun"
+    ],
+    "publishers": [
+      "Yevhenii Rabtsun"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 3 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

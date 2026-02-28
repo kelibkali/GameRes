@@ -1,0 +1,115 @@
+{
+  "727970": {
+    "name": "Cosmic Trail",
+    "steam_appid": 727970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Welcome to <strong>Cosmic Trail</strong>, a skill-based 3D platformer.<br><br>Take control of a little spaceship that needs to get to the portal at the end of each trail in only 32 seconds. In each trail you'll have to use the jump and turbo impulse capabilities of your ship to be able to traverse the obstacles. You have infinite retries and will respawn immediately on death (yes, it's that kind of game). <br><br>This game started as a tribute to an classic MS-DOS game, but as the development progressed it became its own thing. The design is based on having shorter and denser levels for a more challenging experience.<br><br>The game was made with our own game engine, RoyalLib3, programmed in C++ and OpenGL, and uses our voxel rendering technology with custom shaders for the lighting and ambient occlusion.<br><br>Features:<br><br><ul class=\"bb_ul\"><li>20 levels (trails) to master. From the simpler ones, for learning the basics, up to incredible challenges to conquer.<br></li><li>Each level has its own mechanical design, all levels are different, no two levels feel similar, there is no filler.<br></li><li>Easy to play, hard to master.<br></li><li>Play with your keyboard or gamepad (compatible with XB, PS and NSW gamepads).<br></li><li>Compete with the world in the Steam Leaderboards. Try to beat the best times!<br></li><li>Compatible with high refresh rate monitors (like GSync).</li></ul><br>I hope you enjoy the game. :)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727970/header.jpg?t=1525881389",
+    "developers": [
+      "Royal9Games",
+      "RoyalJL"
+    ],
+    "publishers": [
+      "Royal9Games",
+      "RoyalJL"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Tutorial 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Tutorial 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Tutorial 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Tutorial 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Big House",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Rock climbing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Good old RGB",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Orange Clock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Lateral thinking",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        },
+        {
+          "name": "Long road",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/727970/3938a19777920c109f4f94b8a0f032bfd715f085.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

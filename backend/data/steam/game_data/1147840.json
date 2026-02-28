@@ -1,0 +1,113 @@
+{
+  "1147840": {
+    "name": "Hyper Storm",
+    "steam_appid": 1147840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hyper Storm is an arcade, thrilling shooter with backview.<br />\r\nDefeat your enemies and compete for the best scores by controlling futuristic fighters that rush towards your enemies on a stage from ground to space.<br />\r\n<br />\r\nVR is supported and feedback motion data according to the fighter's movement or combat situation for the simulator is output to the UDP network.<br />\r\nSupport for SimTools plugins.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/header.jpg?t=1571343912",
+    "developers": [
+      "MotionHouse"
+    ],
+    "publishers": [
+      "MotionHouse"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Stage 1 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/cbf57481d4036322b6cc35369a89a856616178c0.jpg"
+        },
+        {
+          "name": "Stage 2 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/35eaa252ab33e10131a9c21bcd47a151cc8698ff.jpg"
+        },
+        {
+          "name": "Stage 3 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/61a8ef5e6c14559085410485182e56af5575ad88.jpg"
+        },
+        {
+          "name": "Stage 4 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/3a17cac104327137bd67da30dbf682218e5f592a.jpg"
+        },
+        {
+          "name": "Stage 5 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/ba3c30fb5ce2093494eb73710166e9204caeee70.jpg"
+        },
+        {
+          "name": "Stage 6 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/7afb895c920898e7d67871f55b103769a92f2edc.jpg"
+        },
+        {
+          "name": "Stage 7 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/69dc33e64529d2533f0a0df19e39d77c2c7b28a2.jpg"
+        },
+        {
+          "name": "Stage 8 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/776ca37c60839e161fee678a2078cf7b39c8e73a.jpg"
+        },
+        {
+          "name": "Stage 9 Conquer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1147840/e17ecc3b6e234704812ea6447803c77b0d3b7dc2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

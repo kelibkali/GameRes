@@ -1,0 +1,53 @@
+{
+  "913250": {
+    "name": "Mimic",
+    "steam_appid": 913250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mimic is a horror game. This game is need a mic.<br />\r\nIf you're stuck in deep darkness, you need to make a sound. But something in the dark will follow you through your voice.<br />\r\nIn order to escape from the house, you have to find levers hidden all over the house.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913250/header.jpg?t=1535172940",
+    "developers": [
+      "Mimic"
+    ],
+    "publishers": [
+      "Mimic"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "1385190": {
+    "name": "After The War",
+    "steam_appid": 1385190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Keep your family and yourself alive in this ruined city and escape from here.</strong> Get out of your house, investigate, kill other people and steal their belongings. <br>Find food and medicine for your family, keep them alive. <br>Open lockers, break doors. Investigate cabinets, drawers, chests and find valuable items.<br>Create a bed to sleep, a chest to store things, fire to heat and cook. Place them to your house. <br>Shop with vendors around you, buy weapons, armor, medicine, and wear them. For an easier journey, find a car, repair it, fill up with petrol. <br>Find people who will save you and your family here and make a deal.",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 日语, 葡萄牙语 - 葡萄牙, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1385190/header.jpg?t=1733171321",
+    "developers": [
+      "piratecat games"
+    ],
+    "publishers": [
+      "piratecat games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "MAP",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/4759ee0cf7da8dfa349579f2d56630cec9b04dbc.jpg"
+        },
+        {
+          "name": "GAMBLER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/843e820c1df14613c0a937ecd846a4908c778e55.jpg"
+        },
+        {
+          "name": "CRAFTMAN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/6c9d84cb706b70a01719e82431263e9dd171d448.jpg"
+        },
+        {
+          "name": "CAR MECHANIC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/66541a7c4dbbfe0aa1c9df6a2341fdd859c9eae1.jpg"
+        },
+        {
+          "name": "CHEF",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/972406ddfdca6f98b39b146f0d32371bffd3b339.jpg"
+        },
+        {
+          "name": "LOOTER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/9d874de1fd579cbd48337289a0da53aaf43c2fdc.jpg"
+        },
+        {
+          "name": "CAFER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/7210e81dde35602d0921183be935e169e28435f3.jpg"
+        },
+        {
+          "name": "SURVIVOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1385190/8ec6989b889a1b6818f88f4a4e3a40b9eff53219.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 0,
+      "total_negative": 5,
+      "total_reviews": 5
+    }
+  }
+}

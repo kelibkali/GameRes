@@ -1,0 +1,86 @@
+{
+  "1544700": {
+    "name": "Evolver",
+    "steam_appid": 1544700,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Gameplay Synopsis:<br />\r\n<br />\r\nEvolver blends competitive fighting with quantum-cyberpunk-scifi to create a world of bizarre weapons, unconventional fighting styles, and wildly eccentric characters. Fighters wield weapons such as hand-held guillotines and giant surgical lancets, and couple them with super powers and martial arts to (sometimes literally) destroy their enemies.<br />\r\n<br />\r\nEvolver’s combat mechanics are unique among 2D fighting systems in that it combines elements of traditional fighters with those of platform fighters. It also replaces traditional blocking with a unique evade-and-parry based defense system. Additionally, players choose their attack sets before each round with each character having 15 unique moveset combinations. Evolver’s combo system is friendly to inexperienced players and button mashers thanks to it’s auto combo mechanic, but also rewards seasoned fighting game players who put the time into creating complex attack sequences and mixups.<br />\r\n<br />\r\nEach player is also equipped with a fountain of resources called bursts. Bursts have a variety of functions, and generally costs some bit of meter called Senergy. Senergy is earned by successfully attacking an opponent, and is lost when using bursts.  Senergy can also be obtained from orbs, and a small amount is awarded when taking damage. Each stance has special moves or stance bursts which can be used to extend combos and enhance attack combinations. With the exception of Evade Bursts and Break Bursts, all bursts cost some amount of meter. Players have 8 universal bursts (not including throws) which are as follows: <br />\r\n<br />\r\nBasic Bursts:<br />\r\n<br />\r\nEvade Bursts (EvB) - Become intangible for a brief time and dash forward or backward; evade bursts ignore all attacks except throws. Evade bursts can be performed on the ground and in the air. Pressing the EvB input during an EvB, the jump attack counter can be reset once allowing for a second air attack.EvBs have a half 600ms cooldown which is represented by the blue gauge in the HUD. <br />\r\n<br />\r\n&gt;Throws - While throws are not technically bursts, they can be thought of in the same regard. Throws are especially useful because they cannot be evaded. Use throws to catch an enemy trying to dodge your attacks. Throws have a 3s cooldown which is monitored by the red gauge in the HUD. Additionally, throwing an opponent will knock a small amount of senergy from them which can be obtained by either player. Orbs cannot be absorbed while hit or down. <br />\r\n<br />\r\nPower Bursts (PoB) - Charge a heavy knock out that strengthens in damage and knock distance the longer it’s charged. The knock away distance of PoB scales on health, and counters EvB the same way throws do. PoBs also use the same 30s red gauge as throws. <br />\r\n<br />\r\nRepulse Bursts (ReB) - A parry stance which guards against most incoming attacks. ReBs have immediate recovery on hit confirm, and otherwise have a short recovery frame if no attack connects.  The full Repulse Burst cooldown is 3 seconds, and a single ReB will deplete the gauge by half. A successful repulse burst will regenerate the cooldown allowing for 6 -10 sequential repulsions depending on block stun. <br />\r\n<br />\r\nBreak Bursts BrB) - Consumes breaker charge to knock enemy away and instantly recover mid combo. Break bursts are monitored by the spinning, green icon below the meter gauge.<br />\r\n<br />\r\nCreate Bursts (CrB) - Perform a brief taunt or meditation to generate Senergy (GIF coming soon)<br />\r\n<br />\r\n<br />\r\nAdvanced Bursts:<br />\r\n<br />\r\n<br />\r\n<br />\r\nControl Bursts (CoB) - Cancels one string into another string allowing links between otherwise impossible combos. Control bursts can also be used to crossup an enemy by holding forward during the burst. CoBs use both the blue gauge and the orange gauge cooldowns. <br />\r\n<br />\r\n<br />\r\n&gt;Augment Bursts (AuB) - Instantly kills an opponent who has 50 or less red health. Augment bursts are performed by ending a combo of at least 5 hits with a certain attack sequence. AuBs use both the green and orange cooldowns. <br />\r\n<br />\r\n&gt;Soul Bursts (SoB) - Acts as a breaker, and consumes Senergy while allowing unlimited bursts until Senergy reaches 0. SoB requires 100 Senergy, and lasts for 15 seconds. During a Soul Burst, the user is in a heightened state allowing for additional effects for all confirmed hits; hand to hand attacks will stagger the enemy, decreasing their attack and movement speeds. Successful weapon attacks will cause bleed or damage over time, and each characters unique power has it’s own special effect. Even more daunting, attacks deal direct damage to red health, so your opponent cannot recovery damage dealt during a soul burst. <br />\r\nHowever, such great power comes at a cost. While your character’s soul energy is exposed, all attacks cause self damage while granting a shield for any successful attacks. Additionally, hitstuns are increased by 15% when hit during a SoB. Use with great caution!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544700/header.jpg?t=1756837555",
+    "developers": [
+      "Weapons Grade Studios"
+    ],
+    "publishers": [
+      "Weapons Grade Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

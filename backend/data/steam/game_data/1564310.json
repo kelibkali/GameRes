@@ -1,0 +1,55 @@
+{
+  "1564310": {
+    "name": "Materials VR",
+    "steam_appid": 1564310,
+    "required_age": 0,
+    "is_free": true,
+    "description": "MaterialsVR lets you interact with molecular models in Virtual Reality. Add planes to create cross section. See electron density isosurfaces and load your own CHGCAR files.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Toolbar</li></ul>Start by selecting a molecule from the menu. Each model is accompanied by a toolbar above. Use it to enable rotation, disable bounding box, or add a plane that intersects with the molecule.<br><ul class=\"bb_ul\"><li>Cross Section View</li></ul>You can set a plane to be the cross section plane by clicking the button on top. Only meshes on one side of the plane will be rendered.<br><ul class=\"bb_ul\"><li>Electron density</li></ul>Click on the &quot;Molecule&quot; title bar to switch to isosurfaces. From there, you may select a isosurface model generated from CHGCAR files. You can modify the isosurface level in the toolbar.<h2 class=\"bb_tag\" >Acknowledgement</h2>We acknowledge contributions by (in alphabetical order) Siddharth Ahuja, Emi Caroline Brown, Andong Jing, Sean Lin, Qiaoqian Lin, Noah Rebei, Sujay Shah, Zekun Wei, Jinlin Xu, Zhongshen Zeng, and Xusheng Zhang and support from the NCSA SPIN program, the NSF REU INCLUSION (grant No. OAC-1659702), and the NSF CAREER grant No. DMR-1555153 for support.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564310/header.jpg?t=1617628295",
+    "developers": [
+      "Zhili Luo",
+      "André Schleife"
+    ],
+    "publishers": [
+      "André Schleife"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

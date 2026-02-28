@@ -1,0 +1,73 @@
+{
+  "1139860": {
+    "name": "CRUEL WORLD",
+    "steam_appid": 1139860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This World is Cruel ... In the wasteland wandering soulless machines that destroy everything living. Distraught people are hiding in the ruins of cities. And in the darkness under the city terrible creatures lurk. Earth scorched by fires and poisoned by chemical bombs is lifeless and barren.<br>The player will have to look for food and shelter, explore, build, and fight.<br>And it depends only on the player whether he can change this world for the better.<h2 class=\"bb_tag\" >IMPLEMENTED:</h2><ul class=\"bb_ul\"> <li> The system of loading large spaces.<br></li><li> Various types of weapons (firearms, melee).<br></li><li> The basic system of player’s parameters and needs (Health, Stamina, Hunger, Thirst).<br></li><li> Base combat system.<br></li><li> Basic system of stealth.<br></li><li> Base AI with patrolling the territory.<br></li><li> Type of enemies - Bandits.<br></li><li> Type of enemies - Robots.<br></li><li> Inventory.<br></li><li> Limiting the capacity of the inventory by weight and volume (affects the speed of movement and stock of endurance).<br></li><li> Simplified crafting system.<br></li><li> Workbenches.<br></li><li> Test location (will be ruthlessly upgraded). </li></ul><h2 class=\"bb_tag\" >SOON:</h2><ul class=\"bb_ul\"> <li> Gun wear and equipment damage.<br></li><li> Construction (walls, furniture, decoration).<br></li><li> Dismantling and destruction of objects on the map (obtaining resources).<br></li><li> Day / night change system + weather effects.<br></li><li> Character editor.<br></li><li> Player equipment system (clothes, armor, backpacks).<br></li><li> A system for interacting with objects with a progress bar and unique animations. </li></ul><h2 class=\"bb_tag\" >THE PLANS:</h2><ul class=\"bb_ul\"><li> Improving graphics, sounds and animations.<br></li><li> An in-depth system of needs and various states of the player (fracture, heat stroke, exhaustion, etc.).<br></li><li> Improving the combat system.<br></li><li> Improved stealth system.<br></li><li> Improving and debugging AI (shelters, grenades, etc.).<br></li><li> Adding new types of enemies (Different Gangs, Mutants, aggressive fauna).<br></li><li> Advanced crafting system, with production chains.<br></li><li>Transport.<br></li><li> Cooperative.<br></li><li> Improving the user interface.<br></li><li> Improving performance, optimization, and bug fixes.</li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139860/header.jpg?t=1667113845",
+    "developers": [
+      "SiberianGames"
+    ],
+    "publishers": [
+      "SiberianGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

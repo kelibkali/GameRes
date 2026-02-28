@@ -1,0 +1,85 @@
+{
+  "1140000": {
+    "name": "Stellaris: Lithoids Species Pack",
+    "steam_appid": 1140000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Lithoids Species Pack》包含一系列全新的石头物种肖像和船舰模型，适合喜欢以滴水穿石的方式发掘一个与大地关系更密切之文明的玩家。似石族 (Lithoid) 是种完全以智石构成的大块头物种，他们摄取矿物维生，寿命很长，而且几乎能在任何环境中建立殖民地。 <br><br>玩家可以扮演似石族，尝试全新的游戏风格。这个种族会聚焦在矿物生产，以及即便在偏远世界也不会停下的殖民行动。他们拒绝放弃帝国的任何一寸土地，固执程度堪比顽石。《Lithoids Species Pack》内含：<br><br><ul class=\"bb_ul\"><li>似石族帝国的独特机制<br></li><li>15 幅似石族全新肖像和 1 幅似石族机器人肖像<br></li><li>以矿物为基底的全新船舰模型 <br></li><li>全新语音包<br></li><li></li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1140000/header.jpg?t=1716897320",
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Negative",
+      "total_positive": 26,
+      "total_negative": 115,
+      "total_reviews": 141
+    }
+  }
+}

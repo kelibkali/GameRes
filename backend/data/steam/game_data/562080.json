@@ -1,0 +1,54 @@
+{
+  "562080": {
+    "name": "Hello Neighbor Demo",
+    "steam_appid": 562080,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562080/extras/bd331530176819f82383c8c371d213ac.poster.avif?t=1499357224\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562080/extras/bd331530176819f82383c8c371d213ac.webm?t=1499357224\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562080/extras/bd331530176819f82383c8c371d213ac.mp4?t=1499357224\" type=\"video/mp4\"></video></span><br><br>This is the Pre-Alpha of Hello Neighbor. It contains basic gameplay, temporary artwork, placeholder sounds, and a draft house layout. Nothing from the Pre-Alpha is making it into the final game as this was a proof-of-concept demo. If you want to see the latest version of Hello Neighbor, go to <br><br><ul class=\"bb_ul\"><li>Pre-Alpha of Hello Neighbor<br></li><li>Shows the basic gameplay idea with advanced AI countering your moves<br></li><li>Art, animation, sounds, and house layout aren't final at all. <br></li><li>There is nothing in the basement once you get there</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562080/header.jpg?t=1499357224",
+    "developers": [
+      "Dynamic Pixels"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 7 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "621500": {
+    "name": "TrueScale",
+    "steam_appid": 621500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "TrueScale is a groundbreaking interior design tool that can simultaneously create 2D floor plans, 3D mockups, and full room-scale environments in VR. With TrueScale, anyone can design their house, office or apartment in minutes, and then virtually experience it first-hand in real scale. Additionally, this particular version of TrueScale leverages Wayfair’s 3D model API, enabling users to furnish their designs from a robust catalog of actual furniture and décor. <br />\r\n<br />\r\nAs the user creates, the app automatically generates a replicated 3D environment so that they can instantly be transported into their designs using a VR headset. By entering the real scale model, users gain a sense of depth that cannot be achieved through traditional renders, and with Vive’s room-scale technology, users have the freedom to walk around and explore a design space while making changes in real time. Using VR in this stage of the design process allows the user to gain a realistic picture of the final design as opposed to relying on their imagination, blueprints or story boards.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 日语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/header.jpg?t=1510660223",
+    "developers": [
+      "Immersion"
+    ],
+    "publishers": [
+      "Immersion"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

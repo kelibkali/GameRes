@@ -1,0 +1,89 @@
+{
+  "1399040": {
+    "name": "This Is Not Chess",
+    "steam_appid": 1399040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This Is Not Chess is a turn-based tactics game where squads of goofy characters duke it out across colourful battlefields. <br><br>Rather than every unit on the team getting a chance to move and attack, you have a number of actions you can use across the whole team. Moving, transforming or deploying all cost actions, but techniques are different. Techniques don't activate immediately and cost nothing to prepare. Leave a unit alone and they'll focus on their technique, executing it on a later turn! Or if you can't wait, you can spend actions to make it happen sooner... <br><br>While the wizard is flinging spells and the swordsman slashes, the jester throws his custard pies and the robotic stalker waits for its chance to pounce! Let loose in this melting pot of madness!<br><br><ul class=\"bb_ul\"><li>    Limited number of actions shared across the whole team. How will you spend your turn?<br></li><li>    Wide variety of goofy and unusual characters sporting some potentially strange attack ranges.<br></li><li>    Elements attached to techniques and characters that bring Rock-Paper-Scissors strategy into play.<br></li><li>    Silly story about an unlikely party forming together to save the day.<br></li><li>    Challenge mode where you create your squad and take on predefined battlefields.<br></li><li>    Local skirmish mode with multiple teams, customisable winning conditions atop randomly generated or preset maps.<br></li><li>    Inbuilt editors that let you create your own units, maps and campaigns!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1399040/header.jpg?t=1667003224",
+    "developers": [
+      "Courtney Dawson"
+    ],
+    "publishers": [
+      "Courtney Dawson"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

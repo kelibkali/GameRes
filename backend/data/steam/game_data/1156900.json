@@ -1,0 +1,113 @@
+{
+  "1156900": {
+    "name": "输出牧场",
+    "steam_appid": 1156900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156900/extras/07b847ddc1ce73758ca7551e8c289512.poster.avif?t=1711876097\" width=616 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156900/extras/07b847ddc1ce73758ca7551e8c289512.webm?t=1711876097\" type=\"video/webm; codecs=vp9\"></video></span><br><ul class=\"bb_ul\"><li>简单的操作，只需要你的滑鼠<br></li><li>逐步解锁超过100种动物和技能卡，使每一次冒险都能尝试不同组合带来的新鲜感<br></li><li>遭遇超过50种事件，带来的是好事...或是坏事<br></li><li>完成成就取得独特的卡牌<br></li><li>探索地图中各个独特的战斗场景<br></li><li>击败强大的boss取得稀有的卡牌<br></li><li>透过遭遇角色、技能来完成图鉴</li></ul>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156900/header_schinese.jpg?t=1711876097",
+    "developers": [
+      "DuskDogStudio"
+    ],
+    "publishers": [
+      "DuskDogStudio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "狮子王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/2e37ad21e6d6746ceb0bba3faa6ef886a66e9695.jpg"
+        },
+        {
+          "name": "鲸鱼王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/ef4f6959d3c9d9c5b7abc735dc5aba0133317ea5.jpg"
+        },
+        {
+          "name": "军团",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/b0dfca4156b721ff4ffe4558f41e7e8e787de662.jpg"
+        },
+        {
+          "name": "太简单啦!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/795696fdc6b9ad1b3f29e1e5e6a24a375f561bf5.jpg"
+        },
+        {
+          "name": "守财奴",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/1713e94c75a71782d727db618a512f4301084b83.jpg"
+        },
+        {
+          "name": "只有动物就够了!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/79ed74fe9e3cb62d43f5727b3540030632f2c164.jpg"
+        },
+        {
+          "name": "给我更多的钱!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/a7c48ae1806036357523f5131408c70f616750c3.jpg"
+        },
+        {
+          "name": "快!还要更快!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/5c05126b9155b3a126d0f9896e7a9b6a8c8b3838.jpg"
+        },
+        {
+          "name": "这难度没问题吗?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/ad3064e1ba96431b73c7b8d6365bf0d1dd1bfde7.jpg"
+        },
+        {
+          "name": "终于集齐了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156900/c1d7454dc8f223d7d1db776f7406164edda078c3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 22,
+      "total_negative": 3,
+      "total_reviews": 25
+    }
+  }
+}

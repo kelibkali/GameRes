@@ -1,0 +1,69 @@
+{
+  "1117150": {
+    "name": "GarbageClassification",
+    "steam_appid": 1117150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本游戏中包含丰富的垃圾种类，如干垃圾，湿垃圾，可回收垃圾和有害垃圾四种，每种垃圾对应数个实体物品，满足当前市场上既有垃圾分类的全部操作。通过本程序的体验，可以让自己对现实生活中的垃圾更加敏感，让垃圾投放更加方便快捷。场景体验分为两种，一种是PC端，通过点击来投放垃圾；另一种是通过VR虚拟现实体验，让人真正的融入到真实的场景环境当中，更加逼真的模拟投放垃圾的一些相关操作。在体验时，会根据你的投放而打分，用来鼓励正确的投放。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117150/header.jpg?t=1565517187",
+    "developers": [
+      "个人"
+    ],
+    "publishers": [
+      "个人"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

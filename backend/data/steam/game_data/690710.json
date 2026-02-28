@@ -1,0 +1,133 @@
+{
+  "690710": {
+    "name": "HEIANKYO ALIEN / 平安京エイリアン",
+    "steam_appid": 690710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This software is a compilation that includes the arcade version of Heiankyo Alien which was a big hit in 1980, and two other arranged versions.<br><br>Contents of the compilation are as follows.<h2 class=\"bb_tag\" >1. Arcade version</h2>It is a ported version of the original arcade version of Heiankyo Alien.<h2 class=\"bb_tag\" >2. Heiankyo Alien 3671</h2>This is the first arranged version of Heiankyo alien which added a significant change in the gameplay. You have infinite lives before time runs out, as this game is 5 minute long score attack (With up to 90 seconds time extention depending on the items you dig).<br><br>By killing a certain number of aliens earn items that give you advantages. There is also a diamond buried somewhere in the field which doubles the score. On top of that, recover all buried items for special bonus. <br>In addition to explosive score growth and psychedelic graphics, game effects reflect game development and give you different sense of exhilaration.<br><br>The arcade version was more of a game to &quot;defend&quot;, but this version has more emphasis on &quot;attack&quot;.<br>Music is composed by Wing☆, who admires Yuzo Koshiro as his master, and Ibojima, a Swedish Techno/Trance unit. Gorgeous music will produce the sense of exhilaration in game play.<h2 class=\"bb_tag\" >3. Glitch Encore Alien</h2>In Heiankyo Alien 3671, I implemented a feature that existed in TK-80BS version, but not in the arcade due to hardware limitations. Later a bug was discovered that will let you score explosively. This bug was fixed and 3671 was released, but since this bug has no other negative effect other than scoring, I decided to include this bug as part of the specification to make it as a separate version.<h2 class=\"bb_tag\" >4. Idle version</h2>A Collaboration version with Guildoll, &quot;2.5 dimension figure idols who want to be loved&quot;, a goal is set at each level for you to advance. With a theme song, each member of the group has a different scenario and the game play is also completely differently arranged from &quot;Heiankyo Alien 3671&quot;.<br><br>In the following update, there will be five members at the end. (Every member will have a different scenario / mission.) This version is planned to implement the full voice acting of each member.",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690710/header.jpg?t=1740436301",
+    "developers": [
+      "Mindware"
+    ],
+    "publishers": [
+      "Mindware"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4500,
+      "final": 4500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 45.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Brain beit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/e4a3a7d8ba2d5e09c44f79e14d97878c6acab6ea.jpg"
+        },
+        {
+          "name": "Get MD sound!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/c6e8c1e455bf3daa36dc764e677c185ac15c48b1.jpg"
+        },
+        {
+          "name": "Name entry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/b5478af8e03df25670497a5cdf84451f60421d71.jpg"
+        },
+        {
+          "name": "Candy Glitch Saga",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/a2fa1e7edf378d60bd64028df56177aeef31bc7f.jpg"
+        },
+        {
+          "name": "Special bonus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/531000cd40283bc26f1e28f05034ce3c243f18bb.jpg"
+        },
+        {
+          "name": "Combo 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/61ed19e31e6cfaec3afebdee1e553a420302d469.jpg"
+        },
+        {
+          "name": "Lv.50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/69efec4e426f56fefd91bf1bed0b28e5fa407061.jpg"
+        },
+        {
+          "name": "Lv.100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/5c5d14b6fd8387bfea88cc9fd7b84acf6e6eb571.jpg"
+        },
+        {
+          "name": "Lv.200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/33c84b291b99fd18259aaf6af36effe3a81bc667.jpg"
+        },
+        {
+          "name": "Million !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/690710/fdb78da8791f34d62dff3e7644184dacbd3a2e8d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

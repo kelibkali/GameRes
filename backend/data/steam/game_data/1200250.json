@@ -1,0 +1,89 @@
+{
+  "1200250": {
+    "name": "The Time of Awakening",
+    "steam_appid": 1200250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本游戏为一个有选项分支的视觉小说。本游戏为单机游戏，使用鼠标左键来进行游戏，不需要联网。<h2 class=\"bb_tag\" ><strong>特点</strong></h2>剧情－－剧本是一个完整的故事，可以保证一定量的游戏时间<br>画面－－有丰富的立绘和三十张左右的cg图片可供收集<br>选项－－根据玩家选择的不同，故事会迎来不同的结局，有七个不同的主要结局<br>音乐－－特别制作的配乐，配有二十首左右的bgm以及op和ed歌曲<h2 class=\"bb_tag\" ><strong>剧情背景</strong></h2>故事发生在魔法元素充斥大陆的年代。<br>在这场冒险中，玩家将以身为亡灵法师的主角的视角<br>与不同的角色相遇，体验轻松愉快的日常，游走在各个势力之中，通过自己的方式解决所有的危机，探索大陆的真相。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200250/extras/27f00f1466f3be21c0643ea11f36a8a2.avif?t=1576305905\" width=600 height=588 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200250/extras/2776241a7695cd7d266409f8a4410e8e.avif?t=1576305905\" width=600 height=960 /></span>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200250/header.jpg?t=1576305905",
+    "developers": [
+      "覺醒"
+    ],
+    "publishers": [
+      "覺醒"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Take a tea break",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/255b2ce63b94525a390b54810938fbefe28acacb.jpg"
+        },
+        {
+          "name": "Eteass End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/9aa8814c60c85423b66d372ed0b4e8473253ac30.jpg"
+        },
+        {
+          "name": "Rocked End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/07c63b0a5eab3b7da410eb86100caaf6f994ead7.jpg"
+        },
+        {
+          "name": "Maur End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/f30251336ebcb941b8d2dc1f7dcdbeb6b7bd67d0.jpg"
+        },
+        {
+          "name": "Leage End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/dc2974bb0016179ad69b8aa4318aa0e6eed761f7.jpg"
+        },
+        {
+          "name": "Baekatia End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/ea6846fa7989b584115953521badbb452ab18bf0.jpg"
+        },
+        {
+          "name": "Ture End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1200250/585c1a29353a851bb933d9d02cc68050cddab409.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "564310": {
+    "name": "Serious Sam Fusion 2017 (beta)",
+    "steam_appid": 564310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Serious Sam Fusion 2017</strong> brings several Serious Sam games developed by Croteam to the latest in-house tech! <br>The best part? If you own a Serious Sam game listed below you'll be getting a Serious Sam Fusion 2017 version of that game for FREE!<br><br>Serious Sam Fusion 2017 is also a central hub for existing Serious Sam games that will enable seamless integration of new engine features, patches, and upgrades.<h2 class=\"bb_tag\" >Games available in Serious Sam Fusion 2017</h2><ul class=\"bb_ul\"><li>Serious Sam HD: The First Encounter <br></li><li>Serious Sam HD: The Second Encounter<br></li><li>Serious Sam 3: BFE<br></li><li><strong>VR versions of all games are a part of Serious Sam Fusion 2017, too!</strong></li></ul><br>Please keep in mind that this release of Serious Sam Fusion 2017 is currently in beta. You'll experience extreme violence, inexplicable joy, some sadness, sometimes all at once, and, how shall we put it... erm, occasional bugs. Please use the official discussions page to let us know of anything that might be bothering you. Thanks!<h2 class=\"bb_tag\" >What does it do?</h2>Serious Sam Fusion 2017 enables a lot of cool new features, like a common workshop and cross-game mods. All of the games can be started from one application, so you can jump between playing The First Encounter level to a Serious Sam 3 level and back without exiting the game. When listing game servers, servers playing TFE, TSE, SS3 – will all appear in the same list and you can vote map across games if you want. <u>Oh, and owners of our VR games are able to play multiplayer together with their &quot;flat&quot; counterparts!</u> <br>Since there are so many changes and exciting new features, we'll just go ahead a list them here as bullet points.<h2 class=\"bb_tag\" >Cool new features in Serious Sam Fusion 2017</h2><br><ul class=\"bb_ul\"><li>All games now support SteamOS/Linux/OSX!<br></li><li>Split-screen!<br></li><li>64bit executables<br></li><li>Support for Vulkan API (DirectX9 is now being removed) <br></li><li>Multithreaded rendering<br></li><li>The new &quot;light-weight&quot; savegame system - savegames are now saved much faster, are very small and stored in the Steam cloud, and savegames still work even if a level is changed in a patch, or if a mod is updated<br></li><li>Full support for all controllers including Steam controller, PS4 gamepads, all older DInput joysticks <br></li><li>Proper multimonitor support <br></li><li>Borderless window support <br></li><li>Customizable sound outputs <br></li><li>Proper 3D audio using a proprietary sound-mixer (the same approach as used in the old Classic games) <br></li><li>Improved physics engine with better handling of character movement <br></li><li>Texture streaming in all games <br></li><li>Much better modding support with customizable weapons and items, improved scripting (including better support for scripting networked games) <br></li><li>Lots of other improvements, optimizations and fixes </li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564310/header.jpg?t=1728688792",
+    "developers": [
+      "Croteam"
+    ],
+    "publishers": [
+      "Devolver Digital",
+      "Croteam"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 76,
+      "highlighted": [
+        {
+          "name": "Air Element",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/95c9ad6bb28b4edd785774ccb07c26b4aac9b435.jpg"
+        },
+        {
+          "name": "Earth Element",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/cf1a0d77c655f90a6c809ac08896b1eb9e7d714f.jpg"
+        },
+        {
+          "name": "Fire Element",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/83c98cea8c794b67ae1d77b2c3e40396513df69c.jpg"
+        },
+        {
+          "name": "Water Element",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/e681a1f0db82bf1a35f7c22376efcb2032edbb30.jpg"
+        },
+        {
+          "name": "Huge Pile of Lava",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/f576ec45ec8a1ff9bbe2b2b6dcc52ccbc74ac2f4.jpg"
+        },
+        {
+          "name": "Hey! That's cheating!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/0ed5214b2465419f771f10d2ad0f9ef6260a2e7e.jpg"
+        },
+        {
+          "name": "Quick Draw",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/edfc13f6ce6261215a1eafc0a60b8cd72fbc936d.jpg"
+        },
+        {
+          "name": "Wall of Bullets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/0c7b3fe7caa3c77db663b0b49017fc329394cac5.jpg"
+        },
+        {
+          "name": "Cannon Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/3d1b1852f9dbbc30a3ab279faf6ac0e8a56e956b.jpg"
+        },
+        {
+          "name": "Look, it's a secret!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/564310/f476c3e1814844018638aa15a778f19f7453700d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 202,
+      "total_negative": 30,
+      "total_reviews": 232
+    }
+  }
+}

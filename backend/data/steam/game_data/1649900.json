@@ -1,0 +1,53 @@
+{
+  "1649900": {
+    "name": "什么找茬",
+    "steam_appid": 1649900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "小清新版找茬游戏，可爱有趣的图片给您带来轻松愉快的时光。  不要小瞧这个游戏哦，你不一定可以在5秒内完成哦！",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649900/header_schinese.jpg?t=1757907334",
+    "developers": [
+      "RZGames"
+    ],
+    "publishers": [
+      "RZGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "1170870": {
+    "name": "Rain of Fire",
+    "steam_appid": 1170870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Rain of Fire</strong> is a game that puts 10 players in a Free-for-All match to protect their people from missiles. <br>Eliminate enemies and gather money by day.<br>Move your people from dangerous positions by night.<br>Protect as many houses as possible for your people  and be the last one standing.<br><br><strong>Features:</strong><br><br><strong>Types of game</strong><br>- Singleplayer matches against 9 bots with unlimited money for missiles<br>- Multiplayer matches against 1 to 9 players<br><br><strong>Mechanics</strong><br>- Depending on the type of game chosen, every match can start with 1,5 or 10 houses at your disposal that are harboring your people<br>- Also depending on the type of game, you start with either 1,2 or 3 missiles per day<br>- You have to keep as many houses away from destruction from another player/bot<br>- During the day you can search/guess enemy houses that are harboring their people and destroy them with missiles and you can search for treasures on the map for money<br>- During the night you can move your people from houses, one by one. If the house, you want to move your people from, is smoked, you won't be able to move them<br>- Last player, with 1 or more houses standing, wins<br><br><strong>Missiles</strong><br>- Scanning missile: Scans the designated target by you, and scans other houses nearby for enemies<br>- Smoke missile: Smokes the target and nearby houses so that they can't move people from those houses during the night<br>- Explosive missile: Destroy one target designated by you<br>- Triple explosive missiles: Destroys 1 target designated by you and 2 other random targets (cannot be yours)<br><br><strong>Specials</strong><br>- During night you can jam one of the players, blocking him of attacking a whole round<br>- You can request additional missiles during planning rounds",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170870/header.jpg?t=1572261327",
+    "developers": [
+      "Dar4 Software"
+    ],
+    "publishers": [
+      "Dar4 Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "839180": {
+    "name": "Nine-Slicer",
+    "steam_appid": 839180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Easily reduce the atlas sizes in your games! Optimize large images for your UI by creating sliced versions.<br />\r\n<br />\r\n1. Mock up your UI in your image editing program (such as Photoshop).<br />\r\n2. Export each full-sized UI element from your image editing program as png files.<br />\r\n3. Load the full sized UI element png into Nine-Slicer.<br />\r\n4. Define your slicing margins.<br />\r\n5. Preview the results side-by-side with the original.<br />\r\n6. Export the optimized image, along with a text file to remember the margins that were used.<br />\r\n7. Use the optimized exported image in an app that supports nine-sliced images.<br />\r\n<br />\r\nNine-sliced images can be used in various game engines, including Unity.<br />\r\nNo more labor-intensive manual slicing work in Photoshop.<br />\r\nSpend seconds on what would take several minutes to do manually, on each UI image. The saved time adds up!<br />\r\n<br />\r\nTo see a full demonstration video, click the &quot;View the manual&quot; link on the right.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/header.jpg?t=1667000337",
+    "developers": [
+      "Gilligames"
+    ],
+    "publishers": [
+      "Gilligames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 8 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

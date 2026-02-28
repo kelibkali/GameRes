@@ -1,0 +1,58 @@
+{
+  "877530": {
+    "name": "Sneaky Funk",
+    "steam_appid": 877530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DOWNLOAD PROTOTYPE HERE: https://windmillgames.itch.io/sneaky-funk<br />\r\n<br />\r\nSneaky Funk is a melee-based, rogue-lite action dungeon crawler game with a focus on letting the player choose their own play style rather than force you to dodge and shoot like many other top-down rogue-lite games. <br />\r\n<br />\r\nThe floor and room layouts are procedurally generated and contain enemies, props, physical objects and more to create variety in gameplay and visuals. <br />\r\n<br />\r\nThe gameplay loop is mostly split into 2 parts; the real-time combat and the initiation attack.<br />\r\n<br />\r\n- Initiation Attack: Every time you enter a new room (that contains enemies) you get to allocate some action points to create a path between different anchor points in the room. Once this is done, the player character enters the room and jumps between these points, damaging enemies in their path. The player can choose to spec into this stage of gameplay by choosing weapons or items that offer more action points or add functionality and complexity to this stage. This is something that plays with a heart for strategy and tactics will love!<br />\r\n<br />\r\nIf action-oriented gameplay is more your style, we have that too. <br />\r\n<br />\r\n- Real-time combat: After the initiation attack has occurred, any remaining enemies need to be cleared out. At this stage, you swing your weapon at the enemies and use abilities to dodge their attacks. Most games in this genre are either turn-based or rely heavily on ranged attacks; our game uses melee to great effect and features a unique control scheme and purpose-built abilities to allow the player to quickly and efficiently out-maneuver enemies.<br />\r\n<br />\r\nEach floor features a boss and defeating it allows the player to carry on to new floors and meet new challenges (currently, only a single boss and floor is implemented for the prototype version of the game).",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/877530/header.jpg?t=1663306265",
+    "developers": [
+      "BoopityBap"
+    ],
+    "publishers": [
+      "BoopityBap"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

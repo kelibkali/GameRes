@@ -1,0 +1,61 @@
+{
+  "946400": {
+    "name": "Slime Quest",
+    "steam_appid": 946400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A colorful adventure of a small green slug in a fairy-tale country. Collect coins and do not fall into the clutches of red slugs. Conquer the highest ledges and descend into deep caves. Use the walls to climb higher and ride on the flying platforms. The main goal is to reach the flag at the end of the levels and collect more coins.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/946400/header.jpg?t=1538688744",
+    "developers": [
+      "CasGames"
+    ],
+    "publishers": [
+      "CasGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

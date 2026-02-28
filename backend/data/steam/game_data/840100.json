@@ -1,0 +1,118 @@
+{
+  "840100": {
+    "name": "Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸",
+    "steam_appid": 840100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >横向策略RPG</h2><br>　MagicScrollTactics不同于一般的俯瞰视角型游戏，而是在横向画面上进行战斗。<br>　高处的攻击可以造成很大的伤害；而从低处进行的攻击，命中率则会下降。<br>　为了化解这一局面，可以让机动力高的己方人员先占领高处阵地，或是让飞行系角色从空中攻击。<br>　使用魔法的话，可以无视高低差带来的影响摧毁敌方。<h2 class=\"bb_tag\" >树型技能系统</h2><br>　使用升级时获得的点数，可以习得或者强化技能。<br>　每一个职业都有自己独特的技能树。变更职业后，还能学到新的技能。<h2 class=\"bb_tag\" >剧情　和魔法师还有海盗的战斗</h2><br>　召唤师那修由于工作关系来到了边境岛屿。<br>　在那里，她会和想要复活古代魔女的魔法师们，以及觊觎财宝的海盗开战。<br>　和召唤来的战士们，还有封印女祭司一起，打碎邪恶的野心吧！",
+    "supported_languages": "日语, 英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/header_schinese.jpg?t=1745570607",
+    "developers": [
+      "オートリ電子"
+    ],
+    "publishers": [
+      "オートリ電子",
+      "Gamirror Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "序言",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/3801e8b971a5e903c07931989f9f7cabb752cbdf.jpg"
+        },
+        {
+          "name": "第一章通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d96e6347b32e77b8bd959a456b443f0cbd547796.jpg"
+        },
+        {
+          "name": "第二章通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/dfc12f4569c6b57c3eff1446eb63ec613f4eb891.jpg"
+        },
+        {
+          "name": "第三章通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/a41be9aea10e7876453ccc91d6966f16ecf7d2aa.jpg"
+        },
+        {
+          "name": "第四章通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d5542af0f5cac6d303a7e153115f571c9847b4a0.jpg"
+        },
+        {
+          "name": "游戏通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d5caf31093bc3d9bdfd0e7f2574c799b78389e69.jpg"
+        },
+        {
+          "name": "最大的战役",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/c4236f78095fa36b109d853b80f0dd8d15d6cc5f.jpg"
+        },
+        {
+          "name": "打蛋器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/a2c4f4ec6b473104c3e90c380fb5ff12c7a0afb2.jpg"
+        },
+        {
+          "name": "化敌为友",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/ce97577c3b834b17835bc3ab517e1359109d0356.jpg"
+        },
+        {
+          "name": "图鉴制霸",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/40e5a2e8be9729f5cfe35806640c0c3153252dc4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 54,
+      "total_negative": 14,
+      "total_reviews": 68
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "1193990": {
+    "name": "Trapped",
+    "steam_appid": 1193990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Trapped is a first-person horror game with puzzle elements. In the game you have to get out of this strange place, but for this you will have to examine it, and try not to get caught by its inmates. The walkthrough of the game will take ~50 minutes",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1193990/header.jpg?t=1577939754",
+    "developers": [
+      "N4bA"
+    ],
+    "publishers": [
+      "N4bA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1799,
+      "final": 899,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 17.99",
+      "final_formatted": "¥ 8.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 10,
+      "total_negative": 1,
+      "total_reviews": 11
+    }
+  }
+}

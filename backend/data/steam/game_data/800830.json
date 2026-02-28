@@ -1,0 +1,105 @@
+{
+  "800830": {
+    "name": "Floogen",
+    "steam_appid": 800830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "探索一个停止运动的世界，用粘土，纸板和胶带制作。<br />\r\n战斗寄生的瓜生物和结束他们的恐怖统治。<br />\r\nTànsuǒ yīgè tíngzhǐ yùndòng de shìjiè, yòng niántǔ, zhǐbǎn hé jiāodài zhìzuò.<br />\r\nZhàndòu jìshēng de guā shēngwù hé jiéshù tāmen de kǒngbù tǒngzhì.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/800830/header.jpg?t=1635293458",
+    "developers": [
+      "Ian Levesque"
+    ],
+    "publishers": [
+      "Ian Levesque"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Thanks for Listening",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/2a8239139f1eb3e88c9384a959c67faf6faa4a1b.jpg"
+        },
+        {
+          "name": "All Fish Caught!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/48cc91304dcece2b3276fe004c0a5c55a96642c1.jpg"
+        },
+        {
+          "name": "All Characters, All Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/c60c91d5c5091ada1275425042fb636f689ad535.jpg"
+        },
+        {
+          "name": "Secret Melons",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/4104c0cc07c7fcdc716e98a32e6b53cd9e9a84bc.jpg"
+        },
+        {
+          "name": "Seeds Obliterated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/8c249dc7dab1f03dd2e3eebe49a29a072281eebe.jpg"
+        },
+        {
+          "name": "Vines Severed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/237c44e0d79a86fef308f41e7cf7f209a5ad4c2a.jpg"
+        },
+        {
+          "name": "Petals Plucked",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/800830/6006dfc0721042469c92cad79262cf2d9f51f014.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

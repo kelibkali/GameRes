@@ -1,0 +1,73 @@
+{
+  "1248240": {
+    "name": "PLUGMAX",
+    "steam_appid": 1248240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "玩1分钟，规则全懂！<br />\r\n玩3分钟，操作不懵！<br />\r\n玩5分钟，挑战全球，比拼插功！<br />\r\n成为“PLUGMAX”！<br />\r\n<br />\r\n・游戏中几乎不需要文字操作。<br />\r\n・操作说明有英语、中文（繁体、简体）、韩语、日语版本。<br />\r\n・“PLUGMAX”意为最强插头。<br />\r\n・成为“PLUGMAX”并非易事。<br />\r\n・后续会有更新。预计为调整游戏平衡、增加规则、增加音效等。",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248240/header.jpg?t=1584054056",
+    "developers": [
+      "TinyAssociatesBand"
+    ],
+    "publishers": [
+      "TinyAssociatesBand"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 3 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

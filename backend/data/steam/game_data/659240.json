@@ -1,0 +1,90 @@
+{
+  "659240": {
+    "name": "PROJECT MAZE LIGHT",
+    "steam_appid": 659240,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>PROJECT MAZE LIGHT</strong> - Simplified version of <strong>PROJECT MAZE</strong> without multiplayer for players who like to run through simple mazes!<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> 3 mazes with fixed size<br></li><li> 1 randomly generated maze (25x25)<br></li><li> Marks system<br></li><li> Helper system<br></li><li> Achievement system</li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659240/header.jpg?t=1729427797",
+    "developers": [
+      "LAMBDADEV"
+    ],
+    "publishers": [
+      "LAMBDADEV"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Tinny runner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/659240/e7a2bdd56ce8146b9365b965e27552a893b8219a.jpg"
+        },
+        {
+          "name": "Visitor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/659240/94c8652301e43ad06e83179bd47efb8b575100a3.jpg"
+        },
+        {
+          "name": "Big Fellow",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/659240/83b0ffd8571d97aa6bb372294273491c309e3802.jpg"
+        },
+        {
+          "name": "Bless RNG",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/659240/a1e03ebd5865643e3b2387ca3dacc6952bf88203.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

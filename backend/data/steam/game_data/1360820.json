@@ -1,0 +1,61 @@
+{
+  "1360820": {
+    "name": "The Chase",
+    "steam_appid": 1360820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Chase is a 2.5D racing game where you have to run from the cops, collect some cash, and do some missions.<br />\r\nUnlock new cars and funny goofy characters.<br />\r\nJust relax and enjoy the stressful chase!",
+    "supported_languages": "英语, 阿拉伯语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360820/247b71f0c9755f43cafa65f13b738cb0c5b89c10/header.jpg?t=1763022149",
+    "developers": [
+      "Mad Hook"
+    ],
+    "publishers": [
+      "Mad Hook"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

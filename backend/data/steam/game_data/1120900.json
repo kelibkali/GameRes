@@ -1,0 +1,93 @@
+{
+  "1120900": {
+    "name": "Hoodo",
+    "steam_appid": 1120900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hoodo是一款隐形游戏。<br />\r\n由于实验，一个不朽的身体逃离城市。<br />\r\n<br />\r\n玩家的目的是偷走Hoodo潜入特定的位置。<br />\r\n解决使用不朽的身体或提供谜题来识别和解决给定环境中的元素。<br />\r\n这里有各种不断骚扰玩家的敌人。<br />\r\n<br />\r\n探索您的道路，识别潜在威胁，预测并实现目标",
+    "supported_languages": "英语, 俄语, 简体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120900/header.jpg?t=1567897651",
+    "developers": [
+      "AMBOSS GAMES"
+    ],
+    "publishers": [
+      "AMBOSS GAMES"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Switch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1120900/01a53c4747abef60ba702b1f3cac99b6a66e10ba.jpg"
+        },
+        {
+          "name": "The End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1120900/76358f7bb4b5640884556e5bf24e4959be772d14.jpg"
+        },
+        {
+          "name": "Power Shoes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1120900/a13037dfc223b3c1a36bc0b2908040ad12b8bc89.jpg"
+        },
+        {
+          "name": "HACK",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1120900/91a0e1c79e59df262d28cb03571504df50ce43ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

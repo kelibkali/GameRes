@@ -1,0 +1,105 @@
+{
+  "1218680": {
+    "name": "Beatdown Brawler",
+    "steam_appid": 1218680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Beatdown Brawler是一款带有可选Rhythm游戏模式的疯狂3d格斗游戏。 在游戏的可选节奏模式下，通过各种各样的格斗动作和特殊能力，不断击败并击败敌人。<br><br>主要特点<br><br><ul class=\"bb_ul\"><li>在职业模式中冒险或以自定义级别播放，您可以在其中选择单个歌曲和难度级别。<br></li><li>从五个难度级别之一中进行选择，以最大化重播价值。<br></li><li>最初以三位英雄之一的身份进行游戏，并能够通过游戏解锁第四位英雄。<br></li><li>可选陷阱增加了其他挑战。<br></li><li>可选的游戏节奏模式会惩罚未按节拍执行的动作。<br></li><li>可选的生存模式允许无尽的游戏过程，难度不断提高，直到玩家被击败。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙, 俄语, 简体中文, 日语, 德语, 法语, 葡萄牙语 - 葡萄牙, 意大利语, 土耳其语, 葡萄牙语 - 巴西, 乌克兰语, 波兰语, 瑞典语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218680/header.jpg?t=1703018732",
+    "developers": [
+      "D.W. Software"
+    ],
+    "publishers": [
+      "D.W. Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 7 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Novice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/723ced038a297de6550c2c579536d0a0ebd45122.jpg"
+        },
+        {
+          "name": "Journeyman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/5128816b67cf195afff653896d270e9c3483eb6a.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/853e741ac0e90a7a6e8b3c4247e993a479342f41.jpg"
+        },
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/95b3f6e4ffce0ab922b0ccdfab9748e1044da20c.jpg"
+        },
+        {
+          "name": "Grandmaster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/e2e4c962e3d9f029643f52cc9551aebb989de062.jpg"
+        },
+        {
+          "name": "Unlocked Harry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/70354e9fae618eb7489cf950666d621f60d8b551.jpg"
+        },
+        {
+          "name": "Got Rhythm",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/c6a5f67d1d30975a69edbfe2e40c32edb1f1efe7.jpg"
+        },
+        {
+          "name": "Gladiator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1218680/b77a1745fb600017046ba9f7b6a1fdb9fff22101.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

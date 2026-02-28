@@ -1,0 +1,97 @@
+{
+  "1450100": {
+    "name": "LUNA",
+    "steam_appid": 1450100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这个游戏中，你会扮演一个叫「露娜（Luna）」的小女孩。在寻找她隐藏的秘密时，从黑暗中生存下来吧。越追溯记忆，越会发现被深深埋没的黑暗真相。<h2 class=\"bb_tag\" >摘要</h2>这是露娜的故事。<br><br>露娜放学回家，她发现一个由父母留下的纸条，写有因有事情会很晚回家。深夜独自留在家里的露娜，被诅咒的黑暗的存在开始慢慢靠近。寻找独自一人的她的黑暗的存在，是带着什么目的接近她的呢？<br><br>用你的手，来决定露娜的命运吧。",
+    "supported_languages": "英语, 韩语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1450100/header.jpg?t=1772068710",
+    "developers": [
+      "Simple"
+    ],
+    "publishers": [
+      "PsychoFlux Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "菜鳥浣熊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1450100/5320c5dc12c7db4905faa6c23397f6ec255353d4.jpg"
+        },
+        {
+          "name": "新手浣熊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1450100/a6c2b726233f8e25d8530f842573842d75b5aae0.jpg"
+        },
+        {
+          "name": "精英浣熊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1450100/c9253ec8adf975bcfb392fd2d155f6ffcc519d16.jpg"
+        },
+        {
+          "name": "大王浣熊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1450100/f97e6bddf2a442fa00cafae8364a9ee46b60edc8.jpg"
+        },
+        {
+          "name": "上帝浣熊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1450100/6ae97352b1f9c26683d524829c60fe8e9ba478cf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 25,
+      "total_negative": 4,
+      "total_reviews": 29
+    }
+  }
+}

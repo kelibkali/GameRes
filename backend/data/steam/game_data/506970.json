@@ -1,0 +1,78 @@
+{
+  "506970": {
+    "name": "DARK SOULS™ III - Ashes of Ariandel™",
+    "steam_appid": 506970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;你就是无火的余灰。<br />\r\nDark Souls™ III Season Pass内容之一。取得DLC包“艾雷德尔之烬，”拓展您的游戏体验。<br />\r\n踏上探索雪白世界──艾雷德尔的旅程，挑战新地图、头目、敌人，以及取得新武器、防具套装与法术。<br />\r\n您愿意接受挑战，再次拥抱黑暗吗？&quot;",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 波兰语, 俄语, 葡萄牙语 - 巴西, 简体中文, 繁体中文, 日语, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506970/header.jpg?t=1580310767",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "BANDAI NAMCO Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7800,
+      "final": 3900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 78.00",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 434,
+      "total_negative": 516,
+      "total_reviews": 950
+    }
+  }
+}

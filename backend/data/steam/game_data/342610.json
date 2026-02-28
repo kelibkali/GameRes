@@ -1,0 +1,145 @@
+{
+  "342610": {
+    "name": "HyperRogue",
+    "steam_appid": 342610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >你是一位孤独的冒险者，身处陌生的非欧几里得世界当中。在讨厌的怪物抓到你之前，尽可能多地收集宝藏。探索大约 60 种地域，其中各有独特的宝藏、敌人和地形障碍。你的任务是寻找传说中的宝藏--Yendor法球。取得一个即可获胜！也完全可以忽略这个任务去收集游戏中的各种其他宝藏。 游戏的突出特点在于独特的几何：这是极少数在双曲面上进行的游戏之一。游戏中的网格由六边形和七边形组成，直线看似平行，却又相互交叉，三角形的角度总和小于 180 度；由于世界几乎无限大（从起点出发只需 700 步就能到达数以亿计的地点），到达同一个地方两次的可能性微乎其微，可你若是真的返回原处，世界似乎又因此旋转。所有这些对游戏的玩法都很重要。这款游戏的灵感来源于roguelike类游戏（侧重于走位，而非RPG元素）、M. C. Escher的作品，以及Deadly Rooms of Death等解谜游戏。 HyperRogue 经常更新！除了最初的 2D 双曲线解谜模式外，HyperRogue还包含实验模式，允许玩家改变游戏的方方面面，进行非欧几里得实验，如竞速模式、即时制“飞行射击”模式、3D 几何（包括Thurston 几何）、SteamVR 虚拟现实等。如果你想把 HyperRogue 当作一款非欧几里得第一人称射击游戏来玩，也是可以实现的！</p>",
+    "supported_languages": "英语, 波兰语, 土耳其语, 捷克语, 俄语, 法语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/342610/header.jpg?t=1729149471",
+    "developers": [
+      "Zeno Rogue"
+    ],
+    "publishers": [
+      "Zeno Rogue"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 1 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 308,
+      "highlighted": [
+        {
+          "name": "Reached Desert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/e49f1d9d9fe64dd06bc04a2f3edfc78c2c91f7f8.jpg"
+        },
+        {
+          "name": "Ice Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/31e75b8cefde7c565733a0114c9723d78dfd08c4.jpg"
+        },
+        {
+          "name": "Reached the Living Caves",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/a8fd1332409dc5eda9559794de9c15cf0fe59cf2.jpg"
+        },
+        {
+          "name": "Hyperbolic Sage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/ad2ab613df1249ef2edf8e16ce777710316a590b.jpg"
+        },
+        {
+          "name": "Reached R'Lyeh",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/64e7143586b135f9ab964550a41ea8da310b691e.jpg"
+        },
+        {
+          "name": "Reached the Land of Mirrors",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/97d4af51da4a0162290a0cdbe36f34fc0fe17b7b.jpg"
+        },
+        {
+          "name": "Reached the Graveyard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/07e791c3d3d27cd2f284a427bd4f585e23af9fe2.jpg"
+        },
+        {
+          "name": "Reached the Jungle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/20c80ec10c122081ba4e0215af90d09efd837a78.jpg"
+        },
+        {
+          "name": "Reached Hell",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/a9ee9f635a3b2c9dc5fb943c64f7d2037c8d1e3f.jpg"
+        },
+        {
+          "name": "Reached the Land of Eternal Motion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342610/fd8d340f1231cc29b1afd9e8a6a3cb2e13c32fff.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 7,
+      "total_negative": 0,
+      "total_reviews": 7
+    }
+  }
+}

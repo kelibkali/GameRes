@@ -1,0 +1,109 @@
+{
+  "992720": {
+    "name": "東方苦粗芸物語 Touhou KSG Story",
+    "steam_appid": 992720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "2018-12-30 update<br />\r\nlevel complete flag bug is fixed when bad timing click.<br />\r\n<br />\r\nin Japanese language only yet.<br />\r\n<br />\r\n“概览”<br />\r\n此游戏是东方粉丝电影的粉丝游戏。<br />\r\n设置等与上海爱丽丝的东方系列不同。<br />\r\n它是动作，射击，拼图，运动等几种类型的综合。<br />\r\n<br />\r\n＜概要＞<br />\r\nこのゲームは東方二次創作動画の二次創作ゲームです。<br />\r\n上海アリス幻樂団の東方シリーズと呼ばれるものとは設定等が異なります。<br />\r\nアクション、シューティング、パズル、スポーツなど複数のジャンルによるオムニバスです。<br />\r\n<br />\r\n＜ストーリー＞<br />\r\n日課を終え自室でテレビを見る稗田阿求。<br />\r\n疲れからか、不幸にも東風谷早苗に侵入されてしまう。<br />\r\n貞操の危機を恐れ、早苗の要求を飲んだ阿求に対し、<br />\r\n早苗が提示したゲームとは・・・。<br />\r\n<br />\r\n＜操作方法＞<br />\r\nキーボード、マウスを使用します。<br />\r\n詳しい操作方法はゲーム中に表示されます。<br />\r\n<br />\r\n＜特徴＞<br />\r\nEASY翻訳システム：ゲーム中の会話文字列は全て個別のテキストファイルで提供されるため簡単に他の言語に翻訳することができます。<br />\r\nEASY音声変更システム：ゲーム中の音声は全て個別のOGGファイルで提供されるため簡単に他の音声に差し替えることができます。<br />\r\n<br />\r\n＜エンディング＞<br />\r\n主なエンディングは<br />\r\nグッドエンド、バッドエンド、ゲームオーバーの3種類です。<br />\r\nスタッフロールはグッドエンドで表示されます。",
+    "supported_languages": "日语<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/992720/header.jpg?t=1574523579",
+    "developers": [
+      "Hellshake Yano"
+    ],
+    "publishers": [
+      "Hellshake Yano."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "START",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/da9ca91c2b01c1fb793bca8c4fd1c972f02202fc.jpg"
+        },
+        {
+          "name": "STAGE 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/9208aa28301c2e3e026503bcbf3d3df47027c7a0.jpg"
+        },
+        {
+          "name": "STAGE 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/0e997e3fa813ce79313ec0daf656b49b9e394a42.jpg"
+        },
+        {
+          "name": "STAGE 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/9085d10a28218f711fca1aab2e88df77d3343e27.jpg"
+        },
+        {
+          "name": "STAGE 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/b3614e85d86372d69b3c146eedd2952b2fe439c7.jpg"
+        },
+        {
+          "name": "STAGE 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/c0a45d2a21cda5c151a6cd37b67683f0a8e17640.jpg"
+        },
+        {
+          "name": "CRAZY GAMER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/73203f1f2ad868a0907964a91485eb306e224058.jpg"
+        },
+        {
+          "name": "GOOD ENDING",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/992720/53295925ea09bfef404851ec92a6d3183a6801c3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 3,
+      "total_negative": 4,
+      "total_reviews": 7
+    }
+  }
+}

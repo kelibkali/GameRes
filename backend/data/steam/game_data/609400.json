@@ -1,0 +1,110 @@
+{
+  "609400": {
+    "name": "City Rush",
+    "steam_appid": 609400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "City Rush is a game where you must swing, climb, and jump to move around a city and get to the finish platform in each <br />\r\nLevel. The original idea came from my brother then I turned it into a game for the HTC Vive.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609400/header.jpg?t=1703115726",
+    "developers": [
+      "Liam Swetnam",
+      "Alex Swetnam"
+    ],
+    "publishers": [
+      "Liam Swetnam"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Ahhhh!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/b65239ecbd5924272ed62fff119cc1d5da30f5f0.jpg"
+        },
+        {
+          "name": "Glitched",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/6774fd36fcb57c3a5e6fce516768e255148f3ff2.jpg"
+        },
+        {
+          "name": "Rage Quit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/df8e0747683523379e4a9bf53b62f106d22f6a26.jpg"
+        },
+        {
+          "name": "Baby Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/deed8da24752d928880166568393bd05c1380444.jpg"
+        },
+        {
+          "name": "Hacker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/03aad9442891b8d8e6fbd8b70fe1e351980bc0ff.jpg"
+        },
+        {
+          "name": "Pretty Good",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/e88a692ebe417277052d87e4a6e6b0eb11e0ecc1.jpg"
+        },
+        {
+          "name": "Pro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/609400/d5056f8ac9d1079c0bba91af2d615faf8f8f70b7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

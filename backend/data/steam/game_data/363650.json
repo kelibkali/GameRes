@@ -1,0 +1,109 @@
+{
+  "363650": {
+    "name": "Hacker's Beat",
+    "steam_appid": 363650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363650/extras/93a23d365dcb7a6155251e2985ac95c9.avif?t=1728456615\" width=500 height=86 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363650/extras/3ce4db3e5dba32712ae8171eb9d522f9.avif?t=1728456615\" width=500 height=70 /></span></p><h2 class=\"bb_tag\" >2016/Jun/17: EDIT mode fixed + New songs!</h2><p class=\"bb_paragraph\" >EDIT mode bug fix is done.</p><p class=\"bb_paragraph\" >Also &quot;Doodle Ninja&quot; and &quot;Croixleur Sigma&quot; songs are added!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >2016/May/24: EDIT mode!</h2><p class=\"bb_paragraph\" >We implemented an &quot;EDIT mode&quot; so that you can import your song and create your own game!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also, a manual for the EDIT mode is available from &quot;View the Manual&quot; at the right of this store page, or from the Steam client.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Important notice:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Make sure to place your song file inside the &quot;wav&quot; folder of the local game folders:<br>C:Program FilesSteamsteamappscommonHacker's BeatEditwav</p></li><li><p class=\"bb_paragraph\" >Only wav format is usable</p></li><li><p class=\"bb_paragraph\" >Only the songs shorter than 3mins are usable</p></li></ul><p class=\"bb_paragraph\" >Songs which fulfill above 3 will be loaded in your song list of the EDIT mode.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Once you place the song, there are two types to make you own game; place each notes one by one manually, and place the notes by typing while you play (You cannot place the long-notes in the latter method).</p><p class=\"bb_paragraph\" >We recommend you to put the notes by typing at first, then edit them later to fix the position or add the long-notes.</p><p class=\"bb_paragraph\" >You can change the position of those notes later.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Of course you can play your own song, but moreover, you can share your newly created songs with friends! (You cannot share the music data hoever)</p><p class=\"bb_paragraph\" >To share, you need to save the project and EXPORT it.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please see a manual for more information.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363650/extras/6f01597ea2489b75bde2dd9144ec920a.avif?t=1728456615\" width=500 height=70 /></span></p><h2 class=\"bb_tag\" >Game Concept: Rhythm Game + Hacker Theme</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >I'm sure you've experienced this at some point... You're tapping away at your keyboard at a blistering pace, the clattering of the regular keys intermittently interrupted by the nuanced sound of the Enter key.</p><p class=\"bb_paragraph\" >Play out your dangerous hacker fantasies with this clever rhythm game.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >It's easy enough to get the hang of. All you have to do is hit the &quot;notes&quot; that appear on-screen in the general area of the keyboard that it corresponds to.</p><p class=\"bb_paragraph\" >Just in the general vicinity is close enough, so rhythm ends up being more important than accuracy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Welcome, to the Hacker's World...</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363650/extras/2b7a490edf371be7b34fc12b0773707f.avif?t=1728456615\" width=500 height=70 /></span>We started off by researching music games, and found the most important thing that makes music games fun is hitting the right button at the right time, timing your hits to the rhythm of the music.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Next, we went to Japanese video arcades and examined actual music game machines. A commonality between these games was that they came off as looking incredibly difficult, but as a result also really intriguing.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Timing your hits with the music's rhythm and the perceived difficulty level are the main attractors. We incorporated these two points into a &quot;hacker&quot; theme and made it so that the hits don't need to be as precise.</p><p class=\"bb_paragraph\" >We combined &quot;hacking&quot; and &quot;music&quot; games into a single: Hacker's Beat.</p>",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363650/header.jpg?t=1728456615",
+    "developers": [
+      "TEAM TANDS PLUS"
+    ],
+    "publishers": [
+      "PLAYISM"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 9 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "Newbie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/a0417a7516c017b2e94f9d6b81e576b5468449a7.jpg"
+        },
+        {
+          "name": "Wizard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/2653d93619585b9a091630ab8afce9f4c18f630e.jpg"
+        },
+        {
+          "name": "Demigod",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/43009f023408119f280d0a6a92dbec1b80fa6648.jpg"
+        },
+        {
+          "name": "The NULL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/04dcbee13a685158d80d09b9358ba30326fd4934.jpg"
+        },
+        {
+          "name": "Hello, World!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/f164d9df754b7457a00983e2d155706376594562.jpg"
+        },
+        {
+          "name": "Grow Up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/a34032a8c7b4d836a8bc3af4169a73872143570b.jpg"
+        },
+        {
+          "name": "Perfect!__BackLightning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/0a492cfcbcd2b3d7fab7e70aa8bc2d5fc6f8699c.jpg"
+        },
+        {
+          "name": "GoodJob!__BackLightning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/bd1732832496cd46211a7f99ff5bd84cbbf38dd1.jpg"
+        },
+        {
+          "name": "Perfect!__Charge_In_The_Grid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/104452704f3ecda0c0ed3c8e4bf024bba09927b8.jpg"
+        },
+        {
+          "name": "GoodJob!__Charge_In_The_Grid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/363650/329856dcea6cb6ad9abd3b6b713c7c7afe60fef3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 1,
+      "total_negative": 3,
+      "total_reviews": 4
+    }
+  }
+}

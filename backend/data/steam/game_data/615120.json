@@ -1,0 +1,121 @@
+{
+  "615120": {
+    "name": "COMPOUND",
+    "steam_appid": 615120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Unsure? Download the free demo now!<br><br>COMPOUND is a randomized, rogue-lite, free-roaming shooter for Virtual Reality veterans. Duck and dodge around enemy fire in a tough-as-nails retro FPS with multiple locomotion options. Prepare to die - a lot - until you are good enough to reach the heart of The Corporation and take back what belongs to everyone...<br><br><strong>What is this?</strong><br>The concept of COMPOUND started as an attempt to move away from the 'wave shooter' formula common in early indie VR titles and towards a fuller FPS experience, built from the ground up for room-scale Virtual Reality. The trade off is that this game may not be suited to players who are still coming to grips with VR.<br><br><strong>Who are the developers?</strong><br>Just me! This is a passion project; I've had great fun working full time on COMPOUND for the last 6 years.<br><br><strong>Can I help?</strong><br>Yes, please! As I mentioned, I am developing this game by myself. I need the feedback of the community to help me find bugs and balance gameplay. If you have any suggestions or find a bug that isn't in the list of known-bugs, please drop by the forums and let me know. <br><br><strong>Cool music!</strong><br>I know! But I can't take the credit for it; the music for COMPOUND was made by the handsome and talented SPEEDBLACK. You can even purchase the OST directly by searching for &quot;compound speedblack&quot; on bandcamp[/url]<br><br><strong>This game is too hard!</strong><br>Rogue-lite games are supposed to be hard! But don't give up - you'll get better with every (doomed) run. Eventually you'll master the game and its systems and feel like a pro. If you are still getting frustrated, try playing on easy mode, or head over to the practice area to practice fighting an enemy you are having trouble with. I also added a guide for new players that is pinned in the forums. Please read it for tips on how to survive!<br><br><strong>This game makes me feel sick...</strong><br>Unfortunately the feeling of motion sickness just doesn't go away for some people. But that's fine! COMPOUND should be perfectly playable using only teleportation. Also, there are all sorts of comfort options that might help prevent or lessen motion sickness. Please take a look at the options and try various combinations. You might find with a little tweaking you can make it feel right for you.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615120/header.jpg?t=1723940379",
+    "developers": [
+      "Bevan McKechnie"
+    ],
+    "publishers": [
+      "notdead"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 6800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 68.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "Stinky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/df1011306bf44617893a6846f3a674be2b91809b.jpg"
+        },
+        {
+          "name": "Difficult Customer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/858317c12822811aaca4e77883271394c9a9c1f3.jpg"
+        },
+        {
+          "name": "Had A Crate Time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/c61a6d9b251509fbd7208782ba28a6055ed1e4f9.jpg"
+        },
+        {
+          "name": "Manage This",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/8326b3f8a9927cbedac7e877e0ebf012811af0d7.jpg"
+        },
+        {
+          "name": "Processed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/6fc7bdfafc8d920b9f6b1e3fc44b5cae11be8660.jpg"
+        },
+        {
+          "name": "Citizen Science",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/927777d52548ee1f07522702c3026d83cb5c6adc.jpg"
+        },
+        {
+          "name": "Corporate Restructuring",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/d81e69386b9c330e650d942d9a80c16dd0e8c62e.jpg"
+        },
+        {
+          "name": "Helicopterminated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/25a1c14a18a52cc29da049aae4255df348408a42.jpg"
+        },
+        {
+          "name": "Ad Infinitum",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/531cbc15ca22f35e5d47559424153032a895c808.jpg"
+        },
+        {
+          "name": "Untouchable",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/615120/3f1e038cfe9543ba5b581c46146de45991b01f5d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 7,
+      "total_negative": 2,
+      "total_reviews": 9
+    }
+  }
+}

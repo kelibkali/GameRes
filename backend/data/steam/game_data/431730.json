@@ -1,0 +1,52 @@
+{
+  "431730": {
+    "name": "Aseprite",
+    "steam_appid": 431730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Aseprite is a pixel art tool that lets you create 2D animations for videogames.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> Compose sprites using <strong>layers &amp; frames</strong> as separated concepts<br></li><li> Create images in <strong>RGBA</strong> or <strong>Indexed</strong> color modes <br></li><li> Open/Save <strong>GIF animations</strong>, sequence of PNG files, etc.<br></li><li> A <strong>timeline</strong> where you can copy/move layers, frames, or specific images<br></li><li> Animation tools: Real-time animation preview, <strong>onion skinning</strong>, tag frames<br></li><li> Pixel art tools: shading, pixel perfect strokes, RotSprite rotation, tiled mode, filled contour<br></li><li> Export/import <strong>sprite sheets</strong><br></li><li> A command line interface to automate conversion and sprite sheets generation <br></li><li> Updates for the whole v1.x series up to v1.9.</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 韩语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 阿拉伯语, 荷兰语, 日语, 葡萄牙语 - 葡萄牙, 土耳其语, 南非语, 匈牙利语, 印度尼西亚语, 挪威语, 加泰罗尼亚语, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/header.jpg?t=1749680273",
+    "developers": [
+      "Igara Studio"
+    ],
+    "publishers": [
+      "Igara Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 2 月 22 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1429,
+      "total_negative": 32,
+      "total_reviews": 1461
+    }
+  }
+}

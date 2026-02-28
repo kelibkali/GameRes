@@ -1,0 +1,106 @@
+{
+  "4309910": {
+    "name": "Serenity Demo",
+    "steam_appid": 4309910,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><strong>A zen gliding and exploration game with procedurally generated music</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >chill out </p></li><li><p class=\"bb_paragraph\" >get in the zone</p></li><li><p class=\"bb_paragraph\" >have fun</p></li><li><p class=\"bb_paragraph\" >multi-player by default</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Cool features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >procedurally generated music</p></li><li><p class=\"bb_paragraph\" >procedurally generated levels</p></li><li><p class=\"bb_paragraph\" >drag an .sf2 soundfont to change instruments</p></li><li><p class=\"bb_paragraph\" >drag an .mp3/wav/opus to add background audio</p></li><li><p class=\"bb_paragraph\" >CRT shader (adjustable or can be toggled off)</p></li><li><p class=\"bb_paragraph\" >60fps</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Demo limitations</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >this is a work in progress build from the first week of Jan 2026</p></li><li><p class=\"bb_paragraph\" >progress is not tracked, every game starts from level 1</p></li><li><p class=\"bb_paragraph\" >the number of patterns and platforms are less than final game</p></li><li><p class=\"bb_paragraph\" >the music system is not as advanced as final game</p></li><li><p class=\"bb_paragraph\" >some platform shapes have less than optimal collision</p></li><li><p class=\"bb_paragraph\" >almost zero onboarding</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Credits</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >by Matt Sephton</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Audio instruments use a soundfont by</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >D-Sound Lab</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Frameworks</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >three.js</p></li><li><p class=\"bb_paragraph\" >PlayroomKit</p></li><li><p class=\"bb_paragraph\" >SpessaSynth</p></li><li><p class=\"bb_paragraph\" >Tweakpane</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Influences</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Alpha Waves (1990)</p></li><li><p class=\"bb_paragraph\" >Electroplankton (2005)</p></li><li><p class=\"bb_paragraph\" >Flower (2009)</p></li><li><p class=\"bb_paragraph\" >Journey (2012)</p></li><li><p class=\"bb_paragraph\" >Jumping Flash (1995)</p></li><li><p class=\"bb_paragraph\" >Panekit (1999)</p></li><li><p class=\"bb_paragraph\" >Proteus (2013)</p></li><li><p class=\"bb_paragraph\" >Tiny Wings (2011)</p></li><li><p class=\"bb_paragraph\" >Tranquility (1992)</p></li><li><p class=\"bb_paragraph\" >Zarch (1987)</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Thanks</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Bill Romanowski</p></li><li><p class=\"bb_paragraph\" >Brian Eno</p></li><li><p class=\"bb_paragraph\" >Tero Parviainen</p></li><li><p class=\"bb_paragraph\" >Hiroshi Yoshimura</p><p class=\"bb_paragraph\" ></p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309910/d6bf16164eccee289293a69248e77c8095e61e6f/header.jpg?t=1770918039",
+    "developers": [
+      "Matt Sephton"
+    ],
+    "publishers": [
+      "Matt Sephton"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 77,
+        "description": "可以仅用触控"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

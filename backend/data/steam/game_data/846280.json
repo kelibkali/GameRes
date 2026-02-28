@@ -1,0 +1,67 @@
+{
+  "846280": {
+    "name": "RutonyChat - Rename Streams",
+    "steam_appid": 846280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DLC for the program RutonyChat.<br />\r\n<br />\r\nAllows you to rename titles for the broadcast on the sites:<br />\r\n- Twitch<br />\r\n- GoodGame<br />\r\n- Trovo<br />\r\n- VKPlay<br />\r\n<br />\r\nThe advantage is that you edit the titles, game, etc. of all broadcasts in one window. Also there is support for templates that allow you to quickly specify the titles of the previously saved template.<br />\r\n<br />\r\nImportant!<br />\r\nThis add-on requires connection to sites.<br />\r\nFor Twitch, you need to enabled Alerts - Subscriber and/or Host.<br />\r\nVKontakte can only be renamed when a translation is alive.<br />\r\nGoodgame requires a connected of Alerts - Subscribers.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846280/header.jpg?t=1722289553",
+    "developers": [
+      "Rutony Studio"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

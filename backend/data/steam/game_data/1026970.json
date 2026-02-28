@@ -1,0 +1,69 @@
+{
+  "1026970": {
+    "name": "SpaceEngine PRO",
+    "steam_appid": 1026970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个DLC更改SpaceEngine许可证以允许个人商业用途，并解锁了一些有助于录制视频和为你自己的项目创建空间资产的“专业”功能:<br />\r\n可以使用相机路径编辑器<br />\r\n可以录制并保存带透明通道的视频和屏幕截图<br />\r\n导出“无限分辨率”的天空盒贴图(Skybox)，包括HDR DDS立方体贴图格式(Cubemap)<br />\r\n导出“无限分辨率”的行星纹理<br />\r\n鱼眼/圆顶和等矩形投影模式中的“无限渲染分辨率”<br />\r\n<br />\r\n有关商业使用权限的详细信息，请参阅EULA。<br />\r\n<br />\r\n注意:“无限分辨率”意思是SpaceEngine不会限制你使用任何你想要的分辨率，但由于你的图形硬件的限制，存在实际限制。 <br />\r\n如果你有一个非常新的高端显卡，你能够使用旧的低端硬件的（如8192x8192）或更高的分辨率（如32768x32768）。",
+    "supported_languages": "英语, 德语, 俄语, 意大利语, 法语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 荷兰语, 波兰语, 土耳其语, 芬兰语, 捷克语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026970/header.jpg?t=1711414703",
+    "developers": [
+      "Cosmographic Software"
+    ],
+    "publishers": [
+      "Cosmographic Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 50000,
+      "final": 50000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 500.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 0,
+      "total_reviews": 11
+    }
+  }
+}

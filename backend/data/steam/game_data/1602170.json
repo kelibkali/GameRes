@@ -1,0 +1,81 @@
+{
+  "1602170": {
+    "name": "Need For Conquest",
+    "steam_appid": 1602170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Need for Conquest is a turn-based strategy game with a very simple objective - to capture all enemy territories on a map and achieve global domination. If you like RISK® style games but you want to enjoy the freedom of procedurally generated maps and level editor, this game is for you. Ah, and there is no risk of in-game payments ;-) You pay once and it’s all yours with all future updates - fair and square.<br> <br>In Need For Conquest a player can play on both geographical or procedurally generated maps.<br> <br>Geographical maps available up to date:<br><br><ul class=\"bb_ul\"><li> World<br></li><li> Europe<br></li><li> United States of America<br></li><li> Great Britain and Ireland<br></li><li> Germany</li></ul><br>Each of those maps can be customised by a user in a built-in map editor (Video Tutorial for Map Editor).<br> <br>The number of procedurally generated maps is practically countless. They are not precomputed but generated at a runtime on the player’s machine. For all practical purposes each one of them is unique. To give the player the ability to save them or modify if needed the most recently generated map is available in a built-in map editor under Default &gt; Procedurally Generated.<br> <br>In Need for Conquest each turn has 3 phases: draft, attack and move. You can draft your armies into territories, launch an attack from a chosen territory to the enemy territory and move your armies from one of your territories to the other. If you are not sure what to do during a given phase, press the “?” button to read the help info.<br> <br>For each territory, there might be assigned a certain number of coins and stones - you can modify it if you wish in our map editor. Total number of coins tells how many armies you can draft at each round. Total number of stones decides the armour of your armies when defending your territories.<br> <br>In Need for Conquest, you can play against advanced AI (up to 11 computer opponents). Up to date, you can choose from 3 levels of difficulty (Monkey AI, Colonel AI and Marshal AI). You can also play against human opponents on the same PC.<br> <br>There are 2 game modes available:<br><br><ul class=\"bb_ul\"><li> Classic: Armies can attack as many times as possible during one round and then one chosen army movement in the move phase.<br></li><li> Conquer: A bit slower but more realistic style where given army have only one attack or one move (exclusively) per round.</li></ul><br>The battle mechanics is a bit improved compared to RISK®. It has a very nice and quite natural property, that the bigger your advantage is, the less total damage statistically your armies will receive while destroying the same defending force.<br> <br>In Need for Conquest you can use a built-in map editor to modify existing maps or test your own strategic ideas by creating completely new maps. To play on your map, edit it in “Map Editor” and then just enter “User Defined” scenario after clicking “New Game” in “Main Menu”. You may define links between territories, amount of coins and stones for any territory, you may choose which territories belong to which player and set the default number of armies for any territory. You can create a practically infinite number of games. There is no risk you will be ever bored with Need for Conquest.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602170/header.jpg?t=1680643068",
+    "developers": [
+      "Michal Wojcik"
+    ],
+    "publishers": [
+      "Warp Dynamics Limited"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

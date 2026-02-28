@@ -1,0 +1,109 @@
+{
+  "931430": {
+    "name": "Land of an Endless Journey",
+    "steam_appid": 931430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Land of an Endless Journey is a first-person math puzzle game across different atmospheric landscapes.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931430/extras/Features.PNG?t=1537981707\" /></span><br><br><ul class=\"bb_ul\"><li>Explore the beauty of nature across different landscapes.</li></ul><ul class=\"bb_ul\"><li>Solve math puzzles and pay attention where you move as you might get trapped!</li></ul><ul class=\"bb_ul\"><li>Puzzles difficulty goes up while maintaining the same puzzle size.</li></ul><ul class=\"bb_ul\"><li>Immerse yourself in a surreal world with lovely music.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931430/extras/Story.PNG?t=1537981707\" /></span><br><br>As you were sailing in the Northern Sea, you find yourself near a mysterious land with no way to escape but to solve the trails.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931430/extras/Map.PNG?t=1537981707\" /></span>",
+    "supported_languages": "英语, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931430/header.jpg?t=1537981707",
+    "developers": [
+      "Operation Codename"
+    ],
+    "publishers": [
+      "Operation Codename"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "The Journey Begins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/fee2d666e781bf9da6b2761ea9c22fb76989c244.jpg"
+        },
+        {
+          "name": "First Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/a054c7973a3ceb109478f4db4cec4a04ac83e800.jpg"
+        },
+        {
+          "name": "Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/dd1669828b881b258c5ae9614b30d7a0326ca4b7.jpg"
+        },
+        {
+          "name": "Through The Forest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/a666079d6ec66aca80b6bdd29dc53629529fabfc.jpg"
+        },
+        {
+          "name": "The Mountains",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/ab6a68db9e87eb51a294e54742f47e2f68357b78.jpg"
+        },
+        {
+          "name": "Cloudy Day",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/ae4c62eab64d4a370f0ac192f9c70275a4bd4b8e.jpg"
+        },
+        {
+          "name": "Into The Worlds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/7913cadfe0a2b429c1a31b139568d63f897d56ef.jpg"
+        },
+        {
+          "name": "Snowy Day",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/56de27ca279dd30b0820796b3108648276adf0c4.jpg"
+        },
+        {
+          "name": "The Sky Lines",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/9a483f1a22d9291fb41c4f3210372e25509a0990.jpg"
+        },
+        {
+          "name": "Machines",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/931430/ed17c9273643f57eb606515a36ba0c3ffd3200a7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

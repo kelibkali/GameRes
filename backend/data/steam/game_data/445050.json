@@ -1,0 +1,87 @@
+{
+  "445050": {
+    "name": "Paintey",
+    "steam_appid": 445050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Paintey is a freeform do whatever you want painting simulator!<br>You can paint everything from your face to the entire environment.<br><br><strong>Key features:</strong><br><ul class=\"bb_ul\"><li>Paint all the things!<br></li><li>Paint balloons!<br></li><li>Googly eyes to stick onto anything!<br></li><li>An innovative (Optional) climbing locomotion system!<br></li><li>Birds!<br></li><li>Twitch chat integration! - Optionally spawns users from your twitch chat into the game.</li></ul><br><strong>Coming soon:</strong><br><ul class=\"bb_ul\"><li>More levels<br></li><li>More interactivity overall<br></li><li>Multiplayer!<br></li><li>Time trial mode?</li></ul><br>Paintey does not have any sort of predefined goals, you just have fun and mess around!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445050/header.jpg?t=1502017801",
+    "developers": [
+      "Brian Lindenhof"
+    ],
+    "publishers": [
+      "ShadowBrain Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 4 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

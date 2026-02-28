@@ -1,0 +1,65 @@
+{
+  "930500": {
+    "name": "You Are Here",
+    "steam_appid": 930500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i>You are Here</i> gives you the power to shrink and expand the universe. Take a journey from tiny quarks, atoms, cells, planets, stars, galaxies - all the way to the observable universe! This project has been heavily inspired by the classic 1977 Science film by Charles and Ray Eames, <i>Powers of 10</i>.<h2 class=\"bb_tag\" >Data Sources</h2><ul class=\"bb_ul\"><li> Star positions, colors, and magnitudes are from the HYG Database. The database is a subset of the data in three major catalogs: the Hipparcos Catalog, the Yale Bright Star Catalog (5th Edition), and the Gliese Catalog of Nearby Stars. There are 119,615 stars in the HYG Database.<br></li><li> The galaxies are from Data Release 14 from the Sloan Digital Sky Survey and describes the position and size of 755,649 galaxies.</li></ul><h2 class=\"bb_tag\" >Credits</h2><ul class=\"bb_ul\"><li> Thank you Dr. Miguel Angel Aragon Calvo, Assistant Professor at the National Astronomical Observatory, UNAM for generously providing his galaxy data from the Sloan Digital Sky Survey.<br></li><li> Thank you David Nash for your excellent HYG Database of stars.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/header.jpg?t=1569091632",
+    "developers": [
+      "Tesseract Software"
+    ],
+    "publishers": [
+      "Tesseract Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

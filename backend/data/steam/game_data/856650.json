@@ -1,0 +1,73 @@
+{
+  "856650": {
+    "name": "Pylon Racer",
+    "steam_appid": 856650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Pylon Racer is an experiment. On the one hand it was the one game I craved and could not buy, and on the other it is a sandbox where I can experiment with new rendering and game-play techniques.<br><br><strong>From a games perspective:</strong><br><ul class=\"bb_ul\"><li>True first person gaming. No HUD overlays, no ribbon in the sky to follow, no chase plane views. Fly it the way a pilot would, then watch the TV replay afterwards.<br></li><li>Insanely difficult. It is the <i>&quot;flappy bird&quot;</i> of flight simulation. There is no rookie mode to nurse you around. You will have to practice the turns repeatedly until you are in full control of the airplane.<br></li><li>Accurate simulation of a modern aerobatics plane. <br></li><li>Pure test of pilot skill. No upgrades, especially no in app purchases. Your time only reflects your skill as a pilot. I hope that combined with leaderboards for time and penalties it will foster a community that race each other for the top spot.<br></li><li>Fast stable game-play. Down to the minimum spec, my testers have all managed a guaranteed 60 fps. I feel so strongly about this aspect of gaming, that I will report bad frames as part of your results. In a game this fast, even a single slow (30 fps) frame will through you off balance. Combined with a 1000 fps joystick and flight model simulation, it is the smoothest simulation experience you can get.</li></ul><br><strong>From a developer perspective:</strong><br><ul class=\"bb_ul\"><li>Trees. With 4 million individual leaves in the world, and more than half of them visible in a single frame at times, it was a chance to prove that 3 dimensional trees have a place in flight simulation. It builds on my research in growing convincing trees on the GPU, and I look forward to expanding the vegetation in the future.<br></li><li>Radiosity solution inside the cockpit. Full light bounce simulates the complexities of light and the wide range of light effects. While my initial research showed fantastic promise, a maths bug has forced me to tone it down a little for this release. </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856650/header.jpg?t=1557670940",
+    "developers": [
+      "Johan Hammes"
+    ],
+    "publishers": [
+      "Johan Hammes"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "878300": {
+    "name": "RollTheEarth",
+    "steam_appid": 878300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is Single Player Adventure game.<br><br>Control the earth and get to the destination.<br><br>The control System is based on Unity physics system.<br><br>Therefore, Unlike other games, you have to keep in mind that the earth doesn't ignore inertia and acceleration.<br><br>You will encounter various obstacles [such as lightening, water, fire, hail aurora] though, <br><br>try again and again!<br><br>[How to Play]<br>Camera control : Rotate your mouse<br>Move : W, S, A, D<br>Jump : Space<br>Change mouse sensitivity : ESC or F10 in game scene.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/878300/header.jpg?t=1531238132",
+    "developers": [
+      "TYSoft"
+    ],
+    "publishers": [
+      "TYSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 6 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

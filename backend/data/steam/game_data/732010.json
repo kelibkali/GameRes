@@ -1,0 +1,61 @@
+{
+  "732010": {
+    "name": "BrainyJoy",
+    "steam_appid": 732010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Brainy Joy is a new genre of puzzle game.<br />\r\n<br />\r\nThe game consist of nodes connected with roads with sometimes goodies or demons on these nodes <br />\r\n<br />\r\nsometimes the player can build or remove roads.<br />\r\n<br />\r\nWith the exception of sorcerers who travels across the roads in order to kill the player, all the foes (monsters) are statics.<br />\r\n<br />\r\nThe goal of the game is to kill all statics monsters on all maps.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/732010/header.jpg?t=1511804074",
+    "developers": [
+      "Fabrice BIZEC"
+    ],
+    "publishers": [
+      "Fabrice BIZEC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

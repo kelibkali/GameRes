@@ -1,0 +1,62 @@
+{
+  "1098930": {
+    "name": "Narazumono Demo",
+    "steam_appid": 1098930,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Narazumono is a roguelike game.<br />\r\nThe goal is to reach the bottom of the randomly generated dungeon.<br />\r\n<br />\r\n• Random Dungeon<br />\r\nThe dungeon's layout is randomly generated, with the placement of items and enemies changing every time.<br />\r\nExplore each floor to find the stairs, and descend to proceed to the next floor.<br />\r\n<br />\r\n• Turn-based combat system<br />\r\nEach time a player takes an action such as movement or attacking, enemies will also take one action.<br />\r\nUntil the player acts, the enemies will not act either.<br />\r\n<br />\r\n• Permadeath<br />\r\nIt is game over when the player is killed.<br />\r\nWhen you get a game over, all the items you have will be lost except for three.<br />\r\nYou will have to begin the adventure again from the starting point.<br />\r\n<br />\r\nThis game is compatible with XBox 360 controller.<br />\r\nTo use the XBox 360 controller with mac, please install TattieBogle Xbox 360 Driver.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098930/header.jpg?t=1560398492",
+    "developers": [
+      "noprops"
+    ],
+    "publishers": [
+      "noprops"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

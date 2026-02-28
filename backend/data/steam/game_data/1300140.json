@@ -1,0 +1,97 @@
+{
+  "1300140": {
+    "name": "异数OS MR Lab",
+    "steam_appid": 1300140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>简介</strong><br>异数OS MR Lab 战争模拟器是异数OS 虚拟现实实验室的一个目标版本，该实验室的主要目标是为开发模拟元宇宙大型在线城市战争等社交体验做技术验证，得益于异数OS网络基础技术突破，异数OS MR Lab 战争模拟器可以实现最大10万网络玩家全球(地区)同服同屏实时在线交互，目标是世界在一个服务器中，世界在同一个屏幕中，出于摩尔定律技术约束与成本约束，本实验室的网络战争体验可能在未来三十年内将是全球唯一体验，因此会长期更新开发维护。<br><br><strong>实验室目前技术方向与特色：</strong><br>1.  大规模独立AI，每个AI可独立开发实现，并拥有一定社会合作能力，如听从部门领导安排完成特定任务，AI是战争主体价值与主线，不因玩家数量约束而停机。<br>2.  巨型单位，巨型单位包括多了组件以及领导角色，可被寻路碰撞并承载基本的角色单位完成战争任务。<br>3.  客户端无逻辑，所有逻辑均在AI虚拟机中完成，客户端仅有基本输入，并预测响应战争结果，因此可最大限度减少外挂。<br>4.  地图最大384平方公里，全局公共视野最大18公里，没有战争烟雾，因此只要你愿意，你可以看到世界中每一个战争细节。<br>5.  10万单位同服同屏在线，目标是全球同服，原则上不分服，只按地区延迟需要做分服，无副本，不氪金，一次交钱，终身有限免费体验。<br>6.  实时在线大规模刚体体验，泰坦与简单单位物理反馈。<br>7.  256路3D立体声，实时渲染战场音效<br>8.  支持x360手柄，震动反馈.<br><br><strong>玩法</strong><br><br>1. 玩家需要通过学习主流美术工具以及办公软件，比如Blender,3dmax,c4d,execl等为实验室制作免费MOD或商业MOD,相关MOD制作资料可以去官方社区QQ群交流寻找.<br>2. 玩家需要通过主流社交工具参加社交活动，完善你的战争体验想法，并组织寻找可能的团队来参加MOD制作，如果你没有一定的社交能力，那么10万人的世界将只有你和AI.<br>3. 如果你不熟悉中文，那你应该学习中文，并且接受必要的国学教育，比如易经，因为战争AI是易经语言编写，如果你没有必要的国学素养，将很难用AI组织一场有深度意义的战争。<br><br>在 Dawn DLC中主要展示异数OS MR Lab中的各项战争体验特性， 包含春夏秋冬四张不同背景的地图, 这个场景有三座防守塔楼堡垒，两个对攻浮动城堡，一个在地图上游荡运动的进攻城堡，两个队伍，每队3万单位，三位领导分别控制着三个浮动城堡和两队地面军队，一位（诸葛亮）控制一队弓箭兵放箭（3万），一位（周瑜）控制一个空中城堡携带士兵巡航攻击，一位（许褚）集结刀盾兵在弓箭兵对面，玩家可以控制一个直升机，手动控制4个模拟技能，可以模拟控制发射4种不同尺寸重量的炸弹，使用键盘或者手柄手动为技能电容充电，充电完成后，放开对应充电按钮可发射炮弹，炮弹命中地面单位后，地面单位会倒地死亡（浮动城堡中的单位目前不会倒地死亡），技能电容量决定着发射炮弹的出视速度<br><br>关于模拟发射和数控发射的区别<br>模拟发射，由技能电容量决定发射强度，无极调控弹药速度<br>数控发射，无法控制技能发射强度，每次发射的弹药都是单调的同一个参数（速度）。<br><br><strong>玩家权益</strong><br>1. 异数OS MR LAB仅包含程序，不包含MOD，你需要参与社区活动寻找MOD.<br>2. 实验室本身终身免费升级，有限提供免费服务内容。有限免费服务内容包括免费MOD体验，服务器空闲时排队预约等。<br>3. 玩家MOD不可以包含任何色情内容与不良信息，异数OS MR Lab 战争模拟器的目标是反战，渲染残酷的战争给人们带来的伤害与痛苦，任何最终目标不一致的内容将不被允许发行MOD.<br><br><strong>本实验室开发背景简介</strong><br><br>万人听令弓箭雨是1998年互联网初期提出的元宇宙MMORPG与 MR等5G 6G体验基本需求指标，他决定着元宇宙MMORPG MR的基本体验素质，听令弓箭雨是一种全局动态交互式效果，只可以单地图单服实现，无法分布式扩充，按计划一场赤壁之战这种小规模战役需要40万人口同屏在线，5-20Tbps带宽单地图服务器，当时需要50000倍服务器带宽，按照摩尔定律规划需要50年时间，但是这二十年网络服务器性能只提升了2-5倍，这导致MMORPG只能放弃世界地图，放弃用户社交，多开副本导致游戏蜕变为网络版氪金单机游戏，最终走向了失败，因此实现万人听令弓箭雨有望保持领先世界30年，做到全球唯一实时战争体验，目前异数OS MR Lab 战争模拟器已初步成形，单地图同屏10万人200G到1.6T输出带宽，实现小规模万人听令弓箭雨的元宇宙实时战场，对比相关网游，比如2D网游一般同地图服2000单位同屏200单位，视野50米，3D网游同地图服800单位，同屏50单位，视野200米，而一个典型的弓箭雨需要1500米视野，放箭单位2万以上，所以万人听令弓箭雨效果目前只有电影作品中才会出现，电影比如魔戒攻城需要同服同屏10万单位，视野6000米，同屏需要容纳4个弓箭雨场景， 因此魔戒这种电影中出现的元宇宙网游效果在30年内将是世界唯一体验.<br><br><strong>关于MOD(DLC)制作</strong><br>1. 使用Blender,3dmax等制作工具为本游戏制作支持的3D模型，本游戏支持3ds fbx obj等格式的静态3D模型，以及md2格式的角色动画，如果你有其他角色动画模型，则需要用3dmax的md2导出插件转换动画模型到md2.<br>2. 提供音效素材，目前支持mp3文件格式，支持集合音效模式，即所有音效放入一个mp3文件中.<br>3. 将所有游戏资源数据放入你提供的mod目录下，比如 data/Dawn.<br>4. 在Github中查找HereticOS-MR-Lab项目，下载Dawn的游戏资源定义模板GameRes.h GameResLib.h,根据你提供的资源修改定义，并编译执行生成MOD资源文件，比如game.mod.<br>5. 去社区分享你的mod资源，我们审核通过后，会放到HereticOS-MR-Lab服务器中预约排期推送给你和你的朋友以及感兴趣的玩家体验。<br><br>目前游戏是开发者体验版本，需要预约开服，详细玩法以及MOD资源制作分享预约开服可以关注 实验室社区QQ群 739924481<br>github HereticOS-MR-Lab 中有MOD资源定义<br><br><strong> Introduction </strong><br><br>HereticOS MR  war simulator is a target version of HereticOS virtual reality lab. The main goal of the lab is to do technical verification for the development of Metaverse social experience such as simulating large-scale online war. Thanks to the breakthrough of HereticOS network basic technology, HereticOS Mr Lab for war simulator can realize the real-time online interaction of the largest 100000 online players on same server and screen . The goal is that the world in one server and world is in same screen. Due to the technical and cost constraints of Moore's law, the network war experience of our laboratory can be the only experience in the world in the next 30 years, so it will be updated, developed and maintained for a long time.<br><br><br><br><strong> Current technical direction and characteristics of the laboratory: </strong><br><br>1. Large scale independent AI, each AI can be independently developed and implemented, and has certain social cooperation ability, such as following the arrangement of department leaders to complete specific tasks, AI is the main value and main line of war, not due to the number of players.<br><br>2. Giant units, which include multiple components and leading roles, can be found and collided, and carry basic role units to complete war tasks.<br><br>3. The client has no logic, all logic is completed in the AI virtual machine, the client has only basic input, and predicts the response to the war results, so the plug-in can be minimized.<br><br>4. The map has a maximum of 384 square kilometers, and the global public view has a maximum of 18 kilometers. There is no war smoke, so you can see every war detail in the world as long as you want.<br><br>5. 100000 units are on-line with the same service and the same screen. The goal is to serve the same service globally. In principle, they are not divided into different services. They are only divided according to the needs of regional delay. There is no copy, no krypton gold, one-time payment, limited free experience for life,<br><br>6. 256 channel 3D stereo, real-time rendering battlefield sound effect<br><br>7. Real time online large-scale rigid body experience, Titan and simple unit physical feedback.<br><br>8. Support X360 pad and vibration feedback<br><br><br><strong> Play method </strong><br><br>1. Players need to learn mainstream art tools, such as 3DMAX and C4D, to make free mod or commercial mod for the laboratory,About mod res make knowledge, can find by official community production group.<br><br>2. Players need to participate in social activities through mainstream social tools, improve your idea of war experience, and organize to find possible teams to participate in mod production. If you don't have certain social ability, then 100000 people will only have ”you“ and ”AI“<br><br>3. If you are not familiar with Chinese, you should learn Chinese and receive necessary Chinese education, such as the Ichang, because war AI is written by I Ching language. If you do not have the necessary Chinese literacy, it will be difficult to organize a war with profound significance.<br><br><br><br>Detailed play method can pay attention to QQ group of laboratory community 739924481<br><br><br><br><strong> Player benefits </strong><br><br>1. the exception OS MR LAB only contains programs, not MOD. You need to participate in community activities to find MOD<br><br>2. The laboratory itself is upgraded free of charge for life, with limited free service content. Limited free services include free mod experience, queuing for appointment when the server is free, etc.<br><br>3. Player mod can't contain any pornographic content and bad information. The HereticOS MR Lab war simulator is anti war, rendering people's hurt and pain caused by cruel war. Any content with inconsistent ultimate goal will not be allowed to release mod.<br><br>In the dawn DLC, we mainly show the characteristics of war experience in the HereticOS Mr lab, including four maps with different backgrounds in spring, summer, autumn and winter, In this scene, there are three defensive tower fortresses, two opposing floating castles, one attacking Castle wandering on the map, two teams, each with 30000 units. Three leaders respectively control three floating castles and two teams of ground troops. One (Zhuge Liang) controls a team of archers to fire arrows (30000), and one (Zhou Yu) controls an air castle to cruise and attack with soldiers , a (Xu Chu) gathers a sword shield soldier opposite the archer. The player can control a helicopter, manually control four simulation skills, simulate and control the launch of four bombs of different sizes and weights, and use the keyboard or handle to manually charge the skill capacitor. After the charging is completed, release the corresponding charging button to launch the projectile. After the shell hits the ground unit, the ground unit will fall Death (units in the floating castle will not fall to death at this time), and the ability capacitance determines the apparent speed of the projectile<br><br><br><br>The difference between simulated launch and numerical control launch<br><br>Simulation launch, the firing strength is determined by the skill capacitance, and the ammunition speed is regulated by the infinite<br><br>Numerical control launch, unable to control the skill firing intensity, each time the ammunition is monotonous the same parameter (speed).<br><br><strong> Brief introduction to the development background of the laboratory</strong><br><br><br>10000 people listen to bow and arrow rain, which is the basic demand index for 5g 6g Metaverse experience such as Metaverse MMORPG and Mr proposed in the early stage of the Internet in 1998, which determines MMORPG Mr's basic experience quality, listening to bow and arrow rain is a global dynamic interactive effect, which can only be realized by single map and single server, and can't be expanded in a distributed way. According to the plan, a battle in Chibi, a small-scale battle, requires 400000 people to be online on the same screen, 5-20tbps bandwidth single map server, which needs 50000 times of server bandwidth at that time. According to Moore's law, it will take 50 years, but these 20 The annual performance of the network server only increased by 2-5 times, which led to MMORPG only giving up the world map, giving up the user's social interaction and opening more copies, leading to the game transforming into the online krypton gold stand-alone game, which eventually went to failure. Therefore, the realization of 10000 people listening to the bow and arrow rain is expected to stay ahead of the world for 30 years and achieve the only real-time war experience in the world. At present, HereticOS  Mr Lab for war simulator has been initially formed. The output bandwidth of 100000 people on a single map and a screen is 200g, which can realize the real-time battlefield of 10000 people listening to the bow and arrow rain on a small scale. For example, the 2D online games are generally the same as the map service 2000 units and the screen 200 units, the field of vision is 50m, the 3D online games are the same as the map service 800 units, the screen 50 units and the field of vision is 200m, while a typical bow and arrow rain needs 1500m field of vision, and the archer 2 units More than 10000 people listen to the effect of bow and arrow rain. At present, the effect of bow and arrow rain will only appear in the movie works. For example, the movie of Lord of the rings needs to serve 100000 units on the same screen, with a vision of 6000 meters, and the same screen needs to accommodate four scenes of bow and arrow rain. Therefore, the Metaverse online game effect of the movie of Lord of the rings will be the only experience in the world in 30 years",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1300140/header.jpg?t=1674675381",
+    "developers": [
+      "大雪原工作室"
+    ],
+    "publishers": [
+      "大雪原工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 900,
+      "final": 900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

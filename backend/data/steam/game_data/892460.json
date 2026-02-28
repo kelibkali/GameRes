@@ -1,0 +1,87 @@
+{
+  "892460": {
+    "name": "TwoPlay Mahjong(双人麻将)",
+    "steam_appid": 892460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个麻将游戏有两种模式，一是单人闯关（等级提升，获得金币）；二是网络双人对战，有别于传统的4人麻将。本游戏的玩法特点有以下几个：<br />\r\n<br />\r\n    一、没有花牌出现，万牌，筒子牌，索子牌，字牌共计136张。本游戏每局牌堆的数量是40张。        <br />\r\n    二、本游戏中没有“吃牌”的操作，杠、碰、胡都和国标玩法一致。<br />\r\n    三、取消门风，圈风胡牌，没有最低8翻的限制。<br />\r\n    四、算翻方法按照中国国家体育总局于1998年7月所制定的规则计算。<br />\r\n    五、全球麻将游戏中独一无二的胡牌番种详细分析，让胡牌真正胡的明白。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892460/header.jpg?t=1617347063",
+    "developers": [
+      "Suphoebe Studio"
+    ],
+    "publishers": [
+      "Suphoebe Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

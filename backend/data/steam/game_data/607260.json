@@ -1,0 +1,54 @@
+{
+  "607260": {
+    "name": "McOsu",
+    "steam_appid": 607260,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><strong><u>McOsu</u></strong><u> is developed separately from and has no direct affiliation with <strong>osu!</strong> or <strong>ppy Pty Ltd.</strong></u></p><p class=\"bb_paragraph\" ><u>McOsu is <strong>NOT</strong> osu!</u></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >A free open-source circle-clicking rhythm game client for <strong>osu!(standard)</strong> beatmaps, with the main focus on making practicing easier and customizing gameplay. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >It is primarily a <strong>practice client</strong> for getting better at the &quot;official&quot; game by having tools at your disposal that osu!(stable) does not provide for some reason, <strong>it's <u>not</u> supposed to be a perfect copy of osu!</strong> though it does get close enough where necessary. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>If you have never played osu! before</strong>, then I do not recommend using this client (except for VR players + FPoSu players of course), because there are no gameplay tutorials to be found here (just google &quot;osu!&quot; and play the official game which is a lot more polished and has online rankings including multiplayer support etc.).</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >McOsu only supports <strong>osu!(standard)</strong> beatmaps, while diffs for other gamemodes like mania/taiko/ctb/etc. are simply invisible. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Unlimited Customizability (Options, Console Commands via SHIFT + F1)</p></li><li><p class=\"bb_paragraph\" > Beatmap Overrides (Approach Rate, Circle Size, Overall Difficulty, HP Drain)</p></li><li><p class=\"bb_paragraph\" > Speed/BPM Slider</p></li><li><p class=\"bb_paragraph\" > Scrubbing and Quicksave/load (SHIFT and F6/F7, rebindable, jump to any point in time of a beatmap)</p></li><li><p class=\"bb_paragraph\" > Experimental Mods (Wobble, Jigsaw, First Person, Playfield Flipping, Reverse Sliders, etc.)</p></li><li><p class=\"bb_paragraph\" > Change mods and options while playing (F1 and CTRL + O)</p></li><li><p class=\"bb_paragraph\" > Built-in pp counter (live stats overlay + ranking screen)</p></li><li><p class=\"bb_paragraph\" > VR gamemode</p></li><li><p class=\"bb_paragraph\" > First-Person 3D gamemode (FPoSu)</p></li><li><p class=\"bb_paragraph\" > Steam Workshop support for skins</p></li><li><p class=\"bb_paragraph\" > Infinite offline profiles with pp ranking</p></li><li><p class=\"bb_paragraph\" > Customizable HP Drain + Notelock algorithms</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Beatmaps</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >If you have osu!(stable) installed, then McOsu will load your beatmaps directly from the default osu!(stable) installation path, although custom paths are also possible </p></li><li><p class=\"bb_paragraph\" >You can use McOsu without installing osu!(stable) (it is <strong>not</strong> recommended though), a guide on manual beatmap management is available in the Steam Community Guides</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >osu! VS McOsu</h2><p class=\"bb_paragraph\" >The intention of this game is neither to replace peppy's client, nor to split the community. McOsu was created partially out of frustration, because osu! is lacking many usability features vital to practicing effectively and efficiently. This is currently being rectified in the rewrite of osu! (called osu!lazer), which is an open-source project anyone can contribute to.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Holodance VS McOsu</h2><p class=\"bb_paragraph\" >While Holodance is focused on providing a full VR rhythm game experience with osu! beatmap compatibility as a sideproject, McOsu tries to bring pure osu! gameplay into Virtual Reality while staying as close to the original as possible.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >As a wise man once said, &quot;plz enjoy game&quot;.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >-</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you want, you can help out with McOsu development on Github, or just take a look at the source code, as this is an open-source project.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >-</p><h2 class=\"bb_tag\" >Skin Credits:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > ffffffffffffffffff - &quot;- Jaret - Mish Mosh&quot;</p></li><li><p class=\"bb_paragraph\" > irrlux - &quot;Talrava XIV&quot;</p></li><li><p class=\"bb_paragraph\" > HazrdMC - &quot;Phaze&quot;</p></li><li><p class=\"bb_paragraph\" > Redon - &quot;Aesthetic 1.3&quot;</p></li><li><p class=\"bb_paragraph\" > DarkSlayer000 - &quot;xXx_SampleSkin_xXx v1.3&quot;</p></li><li><p class=\"bb_paragraph\" > Inori - &quot;Stepmania&quot;</p></li><li><p class=\"bb_paragraph\" > taikuta - &quot;Murakumo&quot;</p></li><li><p class=\"bb_paragraph\" > Easy - &quot;Burning_Crow V2&quot;</p></li><li><p class=\"bb_paragraph\" > Icomoon</p></li><li><p class=\"bb_paragraph\" > Freepik</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/header.jpg?t=1746483689",
+    "developers": [
+      "McKay"
+    ],
+    "publishers": [
+      "McKay"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

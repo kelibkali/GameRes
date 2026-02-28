@@ -1,0 +1,133 @@
+{
+  "605920": {
+    "name": "VOLTED",
+    "steam_appid": 605920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Volted是一个非常激烈的基于团队的多人车载射击游戏, 有分级别和巨型机器昆虫。<br />\r\n<br />\r\n在电力成为主要资源的世界里，你所要做的就是为它而战。<br />\r\n<br />\r\n炸死敌人，摧毁和保护铁塔，对抗机器昆虫和斗牛犬。 在战场上收集枪支并解锁模型和新武器。 大炮，机关枪，霰弹枪，能量武器 - 一切都是为了破坏或反破坏。<br />\r\n通过为盾牌充电，补充能量并恢复彼此的弹药容量来相互交流。<br />\r\n<br />\r\n有四个类别的载具：悬浮载具，坦克，直升机和火炮载具。 所有四个类别都深深融入团队和小队合作系统，这对获得胜利至关重要。 在搜索战场时，您可以找到不同类型的弹药，耐力和速度能力。 除了上面列出的功能外，每个类别都有您团队完成关键目标最需要的独特的资源能力。 为了获得这种独特的资源，您需要选择适当的车辆类别。",
+    "supported_languages": "英语, 俄语, 乌克兰语, 法语, 德语, 西班牙语 - 西班牙, 捷克语, 波兰语, 简体中文, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/605920/header.jpg?t=1568317351",
+    "developers": [
+      "Betterburg"
+    ],
+    "publishers": [
+      "Betterburg"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1900,
+      "final": 1900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "First Kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/8dea76809ea0c852391999b5888fd324f72bf8b4.jpg"
+        },
+        {
+          "name": "50 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/115020c5201220fd80f569caafac1953eb835247.jpg"
+        },
+        {
+          "name": "500 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/043132b2b7ba46d6eb3cd2425f0f24a88568a0d8.jpg"
+        },
+        {
+          "name": "1000 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/18810c682475af7fc257556551e997d70b3168ee.jpg"
+        },
+        {
+          "name": "Hover and heal.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/8677c6a9bf8f0021abe32c9ed66a03db60761fbc.jpg"
+        },
+        {
+          "name": "Hover and heal more",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/066a6d1606f61e82947397f66faa1c93c57c339a.jpg"
+        },
+        {
+          "name": "Grand master healer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/021ad7475dbd8e05b2eab1212e7717e11084adf7.jpg"
+        },
+        {
+          "name": "Shields needed!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/65473b702b5dc57feadc547db97497fb50338d51.jpg"
+        },
+        {
+          "name": "More shields needed!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/d97c7b9d3b1759ed0b7780ed0bed52bf4ac11d1a.jpg"
+        },
+        {
+          "name": "Agent of shield.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/605920/9447b76883a05ec46dd7c5d57b8c10de099ab887.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 24,
+      "total_negative": 2,
+      "total_reviews": 26
+    }
+  }
+}

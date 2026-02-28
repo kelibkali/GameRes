@@ -1,0 +1,105 @@
+{
+  "1203850": {
+    "name": "传染",
+    "steam_appid": 1203850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款极简风休闲解谜游戏。<br><br>游戏中没有任何文字，你将通过精心设计的关卡逐步了解游戏的所有内容。<br><br>在每一个关卡中，你需要在限定时间内用病毒感染所有细胞来赢得胜利。正确的操作顺序和时机是获胜的关键。<br><br>感染细胞碰撞健康细胞时会消耗体内的病毒来传染对方，有些细胞带有抗体，只有抗体消耗完毕才会被传染，病毒和抗体都会随时间恢复。<br><br>每个感染细胞每隔一段时间会提供一个基因，消耗基因才能操控各种机关。<br><br><ul class=\"bb_ul\"><li>45个精心设计的关卡，大部分玩家的通关时间会在3小时以上。</li></ul><br><ul class=\"bb_ul\"><li>独特的游戏机制.</li></ul><br>音乐来自：Frankum &amp; Frankumjay",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 丹麦语<strong>*</strong>, 乌克兰语<strong>*</strong>, 俄语<strong>*</strong>, 保加利亚语<strong>*</strong>, 匈牙利语<strong>*</strong>, 土耳其语<strong>*</strong>, 希腊语<strong>*</strong>, 挪威语<strong>*</strong>, 捷克语<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 泰语<strong>*</strong>, 瑞典语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 芬兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 越南语<strong>*</strong>, 阿拉伯语<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203850/header_schinese.jpg?t=1578823602",
+    "developers": [
+      "ZGame Studio"
+    ],
+    "publishers": [
+      "ZGame Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 1 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "感染第6关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/cf242244d15f3b563b523a1a3b3a725aca8bcea7.jpg"
+        },
+        {
+          "name": "感染第12关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/d5063ebad6abd4a1dcf9f119f7cc3e3259021f45.jpg"
+        },
+        {
+          "name": "感染第18关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/c13c6cd2827c5a400d49ace122cb105415cf8a42.jpg"
+        },
+        {
+          "name": "感染第24关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/00800dae7ebb594e0292258ed755325f7ed8969e.jpg"
+        },
+        {
+          "name": "感染第30关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/3868f570616499e85d8ea482567ad81f4c045a84.jpg"
+        },
+        {
+          "name": "感染第35关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/3a6d14b83814daeb2d03a0044a8dcbdd567bc860.jpg"
+        },
+        {
+          "name": "感染第40关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/3e991e11d0e065407dea2ac138be4b072b2e15bc.jpg"
+        },
+        {
+          "name": "感染第45关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1203850/b497594011f899c058cc3f08c1168e1a3aa62c30.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "1584830": {
+    "name": "Duck Creator",
+    "steam_appid": 1584830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Duck Creator</h2>Create your Duck!<br>Customize as you like!<br>Put a hat on your duck!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/header.jpg?t=1640529187",
+    "developers": [
+      "Weakfish Studio"
+    ],
+    "publishers": [
+      "Weakfish Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "QUACK!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1584830/8ec7ab869e29c4d9b1001239639fbe7b50e2985a.jpg"
+        },
+        {
+          "name": "GLASSES!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1584830/e62071ebcd1c9cca40a3af9fbf6a6e71e8b6952d.jpg"
+        },
+        {
+          "name": "RACOON!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1584830/46d6b1d99bd6875b28df8676facb0b27cf8ecd53.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    }
+  }
+}

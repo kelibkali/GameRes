@@ -1,0 +1,77 @@
+{
+  "767240": {
+    "name": "BASIC8",
+    "steam_appid": 767240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/extras/670674e818af3830364d38bccfb1b46d.avif?t=1764128397\" width=1224 height=406 /></span><br>BASIC8 is an integrated <strong>Fantasy Computer</strong> for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc. It's been a while since we used to enjoy coding and playing straightforward after a computer bootup. The goal of BASIC8 is bringing a sense of joy back from retro/vintage computing and gaming, also being quick at getting higher level stuff done for contemporary development for everyone.<br><br>Click &quot;<u>View the manual</u>&quot; or &quot;<u>Visit the website</u>&quot; on the right side of this page to get full details (it's above instead of right side on small mobile screen).<h2 class=\"bb_tag\" >READY</h2><ul class=\"bb_ul\"><li>Handy sharing via Workshop with built-in tools<br></li><li>Disk can be made into standalone player with the Player Maker and HTML Maker, you'll find them in the Workshop<br></li><li>Disk can be saved as &quot;*.b8&quot; file, &quot;*.png&quot;, or text based for sharing<br></li><li>Programmable in an easy to learn BASIC dialect with both retro and modern syntax<br></li><li>Easy to use API for graphics, input, audio, and more other facilities<br></li><li>Visualized built-in tools for editing sprite, tiles, map, quantized, etc.<br></li><li>Visualized Wave Maker (Workshop) for making sound effect<br></li><li>Easy to bring your own tools<br></li><li>More features coming...</li></ul><h2 class=\"bb_tag\" >SPECS</h2><ul class=\"bb_ul\"><li>Display: 160x128 pixels<br></li><li>Audio: 2 music channels, 1 MIDI channel, 4 sound effect channels, 1 speech channel<br></li><li>Code: BASIC (structured/prototype-based/functional)<br></li><li>Graphics: up to 65535 drawing commands per cycle<br></li><li>Palette: 16 colors with transparency support<br></li><li>Sprite: up to 32x32 pixels per frame, up to 512 frames per sprite<br></li><li>Tiles: 240 cels<br></li><li>Map: up to 128x64 tiles per layer, up to 4 layers (including a layer of logic mark) per page<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 8 players<br></li><li>Keyboard and mouse: supported</li></ul><h2 class=\"bb_tag\" >LANG</h2><ul class=\"bb_ul\"><li>Case-insensitive; but no line number in BASIC8<br></li><li>Built-in LIST and DICT<br></li><li>Structured sub routine definition with the DEF/ENDDEF statements<br></li><li>LAMBDA expression enhanced<br></li><li>Prototype-based CLASS paradigm<br></li><li>With both manually and automatically dispatched COROUTINE<br></li><li>Importing multiple source files with the IMPORT statement<br></li><li>Automatic releasing of referenced objects by GC<br></li><li>Built-in libraries for File, IO, JSON, Matrix, Network, Web, etc.<br></li><li>No limitation for file quantity (code, sprites, maps, etc.)<br></li><li>More advantages to be discovered...</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/bf4e99db979dad46b8b4037aab1fa45a561c361d/header.jpg?t=1764128397",
+    "developers": [
+      "Tony Wang"
+    ],
+    "publishers": [
+      "Tony Wang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7900,
+      "final": 7900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 79.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

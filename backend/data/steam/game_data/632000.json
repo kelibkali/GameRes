@@ -1,0 +1,113 @@
+{
+  "632000": {
+    "name": "CrossCells",
+    "steam_appid": 632000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "CrossCells is an ambient logic puzzle game.<br />\r\n<br />\r\nUse number clues to remove tiles and solve the puzzle.<br />\r\n<br />\r\nIncludes 50 brain teasing puzzles.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/header.jpg?t=1560433944",
+    "developers": [
+      "Matthew Brown"
+    ],
+    "publishers": [
+      "Matthew Brown"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Complete 5 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/89ccdd2c17083a9e3f786187634e359bb389ccdb.jpg"
+        },
+        {
+          "name": "Complete 10 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/47c9c9cc6cf0022873eca3f261dd436d9edef71e.jpg"
+        },
+        {
+          "name": "Complete 15 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/b16a8bc1b3e5f2caf957a43325c4bceac0b6d3a8.jpg"
+        },
+        {
+          "name": "Complete 20 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/53a6f9b94147a91e0df1758cd6456fc17ffeccd2.jpg"
+        },
+        {
+          "name": "Complete 25 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/e5dd32ebad52d1fce950a7172c0d8fb22f9f0ca3.jpg"
+        },
+        {
+          "name": "Complete 30 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/371af21dd69441267118e068735f311a9bae170c.jpg"
+        },
+        {
+          "name": "Complete 35 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/4137acfdf01000a3ce56b6f2a716bb75bf8b08f3.jpg"
+        },
+        {
+          "name": "Complete 40 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/d4585ba2e1d0f9f2fa0cd84cf2f979e6d58dee8b.jpg"
+        },
+        {
+          "name": "Complete 45 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/72058c3d043f2a3c40aa60fdc7f7dee0882070a2.jpg"
+        },
+        {
+          "name": "Complete 50 Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/632000/66e275aff350bb7933b408a8561de96098cdecef.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 113,
+      "total_negative": 19,
+      "total_reviews": 132
+    }
+  }
+}

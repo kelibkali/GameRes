@@ -1,0 +1,101 @@
+{
+  "806720": {
+    "name": "幻想四倍剣^2 悔悟棒の謎 / GensoYonbaiKen^2",
+    "steam_appid": 806720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "GensoYonbaiken^2 is a fangame of Touhou Project.<br><br> This is similar to GensoYonbaiken 1 in battle system, but the story of 2 has nothing to do with 1.<br> So there is no problem even if you have not played 1 yet.<br><br> This game supports English partially. It's under development beta.<br>more info<br><br><br><br>幻想四倍剣^2は、東方Project二次創作の同人シミュレーションRPGです。<br>システムには前作を踏襲していますが、ストーリーは独立しているので、前作を知らなくても問題なく遊ぶことができます。<h2 class=\"bb_tag\" >システム</h2>　ユニットごとにターンがまわってくるアクティブターン制。<br><br>　体力はHP×残機制。相手のHPがたとえ低くても、残機が多いとなかなか倒せない。多段ヒットするスペルを有効に使おう。<br><br>　使えるユニットは20人以上で、もちろんそれぞれ固有のスペカを持っている。好きなユニットでパーティを組んで戦おう。<h2 class=\"bb_tag\" >ストーリー</h2><br>　四季映姫の持つ悔悟棒が、妖怪たちの手に奪われてしまった。<br>　果たして彼女らの狙いは何か。そして悔悟棒に隠された謎とは？<br>　調子に乗ってる妖怪たちを叩いて蹴散らし、黒幕をあばけ四季映姫！",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/806720/header.jpg?t=1572389124",
+    "developers": [
+      "オートリ電子"
+    ],
+    "publishers": [
+      "オートリ電子"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "戦いの始まり",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/7dd302627c0e9ffd295a4aca75ccdfcb6e95635b.jpg"
+        },
+        {
+          "name": "VSレミリア",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/1225534603dc63fee7ed4131af20f3f4d9cce062.jpg"
+        },
+        {
+          "name": "VSマミゾウ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/a296b0989bba83da4fcee9f6c6709c1975fb6a7f.jpg"
+        },
+        {
+          "name": "VS青娥",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/a2c043781cc34c5d38d5f26fb29b792bc8f54ff1.jpg"
+        },
+        {
+          "name": "VS空",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/9c53651781658bbc82bd17ffc28d214e8783b8c6.jpg"
+        },
+        {
+          "name": "VS萃香",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/2d3c253696700c198d668339afadbcaa1209ef5f.jpg"
+        },
+        {
+          "name": "VSラスボス",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/43e3cfa5c9fd0900779c33856b59d70dee8001bc.jpg"
+        },
+        {
+          "name": "最大の戦い",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/806720/cc969661e801dcd0c2fc923d728a017254d79ab2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 17,
+      "total_negative": 1,
+      "total_reviews": 18
+    }
+  }
+}

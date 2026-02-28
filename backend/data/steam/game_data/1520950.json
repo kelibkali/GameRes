@@ -1,0 +1,86 @@
+{
+  "1520950": {
+    "name": "ChatManager",
+    "steam_appid": 1520950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "ChatManager is a powerful and useful tool for controlling chat and live streaming. Allows you to get rid of many routine actions and will diversify your streaming. The program interface is designed in a modular style, which simplifies interaction with it.<h2 class=\"bb_tag\" >Key features</h2><ul class=\"bb_ul\"><li>Bot with a combined system of conditions and results.<br></li><li>Chat with various themes that can be displayed on the stream.<br></li><li>Sound control module. Play different sound files on your broadcast.<br></li><li>Keyboard control module. Send key presses or key combinations to a selected window.<br></li><li>Streaming program control module (OBS). The program can send commands to control scenes, sources (change position, take screenshots, etc), live streaming and recording.<br></li><li>Chatters module. Collects information about the viewers of your broadcast (messages, channel scores, subscriptions, etc).<br></li><li>Module levels. Allows you to create levels for chatters, which you can use in the bot.</li></ul><br>All of these modules can be combined in the bot and create different scenarios for its work.<h2 class=\"bb_tag\" >Important note</h2><ul class=\"bb_ul\"><li>Supported streaming service - Twitch.<br></li><li>For correct interaction with the streaming software (OBS) it is recommended to use its latest version.</li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520950/header.jpg?t=1677156426",
+    "developers": [
+      "Yevhenii Rabtsun"
+    ],
+    "publishers": [
+      "Yevhenii Rabtsun"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520950/a6ecae3945f3f0ff2f1dd0a5464995b489081e78.jpg"
+        },
+        {
+          "name": "Installer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520950/0faa0287c56878b1d65c92d44ae1e73e7d67b421.jpg"
+        },
+        {
+          "name": "Ghost",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520950/eca20d8fc3b989c3b3aef10a938a5f9e1ba44b57.jpg"
+        },
+        {
+          "name": "Mom, get the camera",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520950/4aef65ee949d4343916cb8210b42a131102194df.jpg"
+        },
+        {
+          "name": "Best streamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1520950/e7ba454da02201c0e785370bd3b11204dfa7e273.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

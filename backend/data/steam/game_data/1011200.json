@@ -1,0 +1,65 @@
+{
+  "1011200": {
+    "name": "Yametei",
+    "steam_appid": 1011200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个不同以往的跑酷游戏，游戏给你一个不同以往的神兽形象，还有不同以往的音乐。还有，我们加入了技能系统，让游戏更加不同，除此以外，游戏里还有逃脱场景以及挣脱系统，哈哈，你们一定会喜欢的。<br />\r\nPS：我们做了英语，俄语，葡萄牙语，中文的适配，应该足够你们使用了。<br />\r\n<br />\r\n当您在跑酷时按W键跳，数字键1，2，3是三种不同的技能，技能2和3在技能使用中按S键可以取消。技能需要捡到问号物品获得，不过优先获得生命。在一定概率之下你会进入森林场景，这时，A和D键分别是左和右，S键按下可以退出草丛，场景下会有时间倒数，在时间耗尽之前必须进入一个一段时间后出现的随机位置的草丛，然后你会躲过鸟的捕食，否则你会被抓住然后进入鸟爪场景。鸟爪场景很简单，你只要一直按H键直到红色的槽装满你就能挣脱然后回到跑酷场景中。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011200/header_schinese.jpg?t=1550134082",
+    "developers": [
+      "K1Software"
+    ],
+    "publishers": [
+      "K1Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

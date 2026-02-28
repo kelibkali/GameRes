@@ -1,0 +1,53 @@
+{
+  "1575230": {
+    "name": "Paid Trade",
+    "steam_appid": 1575230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Paid Trade</strong> is a frustratingly addictive game where you guess if a random item is worth more than the one you currently possess. The worth is based on Amazon prices. How good are YOU at estimating the value of a completely random item? Try it out now! What is the best streak you can get?<br><br>It's a very simple game concept. But that doesn't make it any less fun. When you start the game you are given one random product on the left side of a split screen with the info of how much it costs. You then are given another random item on the right side of the split screen without this particular information about how much it is worth. You then have to take a guess and either click on the &quot;more&quot; button to say it is worth more than the product on the left side or click on &quot;less&quot; to guess the opposite. If you are right your streak will go up by one and you will be given the next random item that you now have to compare. The product that was just on the right side of the screen will move to the left and will be the one you have to compare the new product to. If however your guess was wrong, your streak will end and the game will be over.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575230/header.jpg?t=1617042650",
+    "developers": [
+      "Jonas Tag"
+    ],
+    "publishers": [
+      "Jonas Tag"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

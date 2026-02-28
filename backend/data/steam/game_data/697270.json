@@ -1,0 +1,73 @@
+{
+  "697270": {
+    "name": "OneHit",
+    "steam_appid": 697270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In this multiplayer game you fight against each other in fast and action-packed battles. Choose one of the four characters and use the variety of attack and defense skills to defeat your opponents and smash them out of the arena. The clou: just a single hit kills you, so be careful!<br><br>OneHit can be played in the local network (LAN) or via any tunneling service (e.g. Hamachi) with up to eight players. It may also be possible to play over the Internet with port forwarding set up correctly in your router (TCP/UDP port 7777) but this has not been tested yet. Please make sure that your firewall doesn't block the game from accessing the network.<br><br><u>Plans for future updates:</u><ul class=\"bb_ul\"><li>Make OneHit playable directly over Steam with your Steam-contacts<br></li><li>Add achievements<br></li><li>Add support for Linux and MacOS</li></ul><br><u>How to play:</u><ul class=\"bb_ul\"><li>Please make sure that your firewall doesn't block the game from accessing the network.<br></li><li>One player hosts a game by clicking on &quot;Host Game&quot;. The other players then join by clicking on &quot;Join Game&quot; and choosing the right server from the list. If the server (or host) doesn't appear in the list, you can connect by entering its IP-adress (&quot;Join by IP&quot;).<br></li><li>Now everyone can choose a character, a name and (in case of the team-game-mode) a team. The host can also change the game mode, map and number of wins. When everyone hit &quot;Ready&quot;, the host can start the game.<br></li><li>Move your character by clicking on the ground (left or right mouse button). The character will try to go to that location.<br></li><li>Use skills with keys Q, W, E and R. The skill will be cast in the direction of your mouse cursor. In general, Q and W are attack skills and E and R are defense skills.<br></li><li>At the beginning of each round, you are invulnerable for two seconds to avoid spawn-kills.<br></li><li>When the game has finished, the host can either start a new one or you can return to the main menu.</li></ul><br>Developed by Felix Schröder in the Unreal Engine 4.10.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697270/header.jpg?t=1509466266",
+    "developers": [
+      "Felix Schröder"
+    ],
+    "publishers": [
+      "Felix Schröder"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

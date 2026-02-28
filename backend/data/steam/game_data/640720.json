@@ -1,0 +1,50 @@
+{
+  "640720": {
+    "name": "CAD XR",
+    "steam_appid": 640720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "CAD XR is a visualization tool that allows users to view their CAD (computer-aided design) models in virtual or augmented reality. Our user interface is extremely simple and intuitive, though also allows for a wide array of customization options. Viewing models in CAD XR gives users a true visualization of their projects before any physical models are built.<br>​<br>In the construction or architecture industry? Walk through a building or view a structure in 1:1 scale to get a true sense of the size. <br>​<br>Work with microelectronics often? Increase the scale of a microchip to a size large enough to see every individual part.<br><br>In a medical field? Allow patients to judge the size of a prosthetic limb in VR to see what best fits them.<br>​<br>Save time and money by using virtual reality to examine CAD models before they're physically made.<br><br><strong>CAD XR supports the following formats:</strong><br><ul class=\"bb_ul\"><li>AutoCAD DXF (.dxf)<br></li><li>Collada (.dae)<br></li><li>Stereolithography (.stl)<br></li><li>Wavefront Object (.obj)</li></ul><br><strong>Technical Specs:</strong><br><ul class=\"bb_ul\"><li>Windows-based application allows for high performance<br></li><li>VR compatible - Utilizes HTC Vive and Oculus Rift<br></li><li>Controller support for HTC Vive and Oculus Touch controllers for the VR viewer<br></li><li>Easy hand and grip controls to allow fluid model manipulation in the VR viewer<br></li><li>Built-in 3D desktop viewer lets users view and play around with a model<br></li><li>Shows the triangle count of loaded models in the 3D viewer<br></li><li>Supports up to 10 million triangles<br></li><li>Displays a coordinate system and viewcube with respect to the 3D model<br></li><li>Simple and intuitive mouse controls for 3D desktop viewer<br></li><li>Gives users the freedom to export converted files to any specified destination<br></li><li>Files can be sorted per the user’s needs (by date, name, or size)<br></li><li>User-friendly tool tips are always available to provide assistance<br></li><li>Supports backwards-compatible x64 architecture</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640720/header.jpg?t=1553012630",
+    "developers": [
+      "Lucid Sight, Inc."
+    ],
+    "publishers": [
+      "Lucid Sight, Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

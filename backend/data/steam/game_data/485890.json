@@ -1,0 +1,89 @@
+{
+  "485890": {
+    "name": "Summer Sale",
+    "steam_appid": 485890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Experience <strong>Winter Sale</strong> without losing money. Buy games that you like or those that you don’t.<br>Be the cool guy that owns every game in store. Customize your game as you like. Change colors and widget locations. Don’t like default game color. Then CHANGE it without any microtransactions. <br>Non-stop <strong>WINTER SALE</strong> even in summer, autumn and spring.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485890/extras/8383bb9308be17127f9c34d010f45f0a.avif?t=1482208650\" width=370 height=512 /></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485890/header.jpg?t=1482208650",
+    "developers": [
+      "Ductape studio"
+    ],
+    "publishers": [
+      "Ductape studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 6 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "First Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/7bba64a6498d81ffe09c93276324a0676ad74869.jpg"
+        },
+        {
+          "name": "Just one more game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/2d9ce7725c6f5eaf76931a87ea9d4f2757281c25.jpg"
+        },
+        {
+          "name": "Discount Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/86802dbc6bd3e0ac4e4e344bebf959f463db202d.jpg"
+        },
+        {
+          "name": "Need more games",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/287f16fe5a5b4c68af4a550699ce786c8ec0d1ef.jpg"
+        },
+        {
+          "name": "I'm Rich ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/d36cd26c0f6909ff62f552ceafa17cde0dd0ca44.jpg"
+        },
+        {
+          "name": "Installing newest updates",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/485890/2ed83f7422fa11d1646100cf1d16938785b6b86c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 103,
+      "total_negative": 34,
+      "total_reviews": 137
+    }
+  }
+}

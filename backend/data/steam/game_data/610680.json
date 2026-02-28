@@ -1,0 +1,141 @@
+{
+  "610680": {
+    "name": "Starway Fleet",
+    "steam_appid": 610680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Jump in the cockpit of a space fighter</h2>Starway Fleet is an action-focused space fighter simulator game. Take part in various missions including interception or reconnaissance, provide fighter cover for cargo ships or help rescue the crew of disabled ships, etc. Fight offline in quick missions against computer-controlled enemies or online with your friends in co-op mode (up to 3 players). Be the famous fighter ace, let the whole Universe know your name!<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> 3 game modes: quick missions, custom battles and survival mode.<br></li><li> 10 exciting quick missions, which can be played both in Single-player and Co-Op multiplayer.<br></li><li> 2 custom battle maps, both playable in Single-player and Co-Op multiplayer.<br></li><li> 2 survival maps, both playable in Single-player and Co-Op multiplayer.<br></li><li> Epic space battles, heavily armed capital ships.<br></li><li> Multiplayer mode with up to 3 simultaneous players.<br></li><li> Optional VIVE support: experience the excitement of space combat directly from the cockpit of your fighter.<br></li><li> HOTAS, mouse + keyboard and game pad support.</li></ul><h2 class=\"bb_tag\" >Inspired by the following space simulator games</h2><ul class=\"bb_ul\"><li> Elite Dangerous<br></li><li> STAR WARS X-Wing vs TIE Fighter<br></li><li> EVERSPACE<br></li><li> Descent<br></li><li> Strike Vector</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语, 法语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610680/header.jpg?t=1572874094",
+    "developers": [
+      "StormCube Games"
+    ],
+    "publishers": [
+      "StormCube Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "Tutorial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/55e64eed017d6f3e469281b67e2b4e56e1dcbf5f.jpg"
+        },
+        {
+          "name": "Mission 1 – Homebound",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/c52c3b5b1df812de0da874b8b4921685218e47f6.jpg"
+        },
+        {
+          "name": "Mission 2 – Rescue",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/ebf40b37930e26cc029bf528952de97a584c5756.jpg"
+        },
+        {
+          "name": "Mission 3 – Gateway keepers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/7f7118acbc70b6b9f68b784310fbbd4da5b4a401.jpg"
+        },
+        {
+          "name": "Mission 4 – Transshipment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/dbe78273e240559b1900e6ccce63de7b1650748a.jpg"
+        },
+        {
+          "name": "Mission 5 – Cyclops",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/4a29f4e1780998ed025f76d4bde9c630a6ea308e.jpg"
+        },
+        {
+          "name": "Mission 6 – Defend the miner facility",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/2eaed29fd51bda4888553c3e7b82a7e8c1db05e5.jpg"
+        },
+        {
+          "name": "First mark",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/882fe7631045d1d319214f385d1465d6a1bf7b8f.jpg"
+        },
+        {
+          "name": "30 fighters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/66a63a884722669d0658f09db1cdc9d9b4da5b5d.jpg"
+        },
+        {
+          "name": "100 fighters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/610680/82b66ed5f1cbdc1fcb3d4a4d84f99dfd20fb878b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

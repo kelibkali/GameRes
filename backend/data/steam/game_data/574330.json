@@ -1,0 +1,93 @@
+{
+  "574330": {
+    "name": "Mac Exporter",
+    "steam_appid": 574330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Take your Clickteam Fusion 2.5 project to new heights by publishing it to the Mac App Store with the new Mac Exporter. Using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of a button our tools will build an Mac Application, Mac xCode, or Mac .ccm project for you, ready to be moved to your mac to compile or test.<br><br><strong>Required:</strong> To test the exporter standalone applications you must own a Mac with OSX 10.9 (Mavericks) or greater.  You can also output a Mac Xcode project with a precompiled runtime so that you can change Xcode settings, for example for code signing before submitting to the Apple Mac App Store. A Mac Developer account ($99 per year on  for signing and distributing your applications in the App Store is required. Clickteam Fusion 2.5 Steam or Clickteam Fusion 2.5 Developer Steam and the exporter work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
+    "supported_languages": "英语, 法语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574330/header.jpg?t=1669177912",
+    "developers": [
+      "Clickteam"
+    ],
+    "publishers": [
+      "Clickteam"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 13300,
+      "final": 13300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 133.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

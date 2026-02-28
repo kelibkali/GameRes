@@ -1,0 +1,129 @@
+{
+  "356400": {
+    "name": "Thumper",
+    "steam_appid": 356400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Thumper》是一款节奏暴力游戏，它包含了经典的节奏动作游戏元素、迅捷的速度感、以及残酷的肉搏。你将扮演一只太空甲虫，英勇地面对地狱般的虚空，直面来自未来的巨型疯狂之首。<br />\r\n<br />\r\n凭借简洁精准的操控，你将冲破坚难的障碍，一路尖啸飞驰在无尽的轨道上，一往无前，不断掌握新的招式，达到极致的速度，最终在令人血脉贲张的 Boss 战中全身而退。每一次破坏性的撞击都交织着震撼有力的原创音乐。你必须穿过节奏的地狱，才能体验多种感官交融的天堂。<br />\r\n<br />\r\n在极度炫目的 2D 画面或全面浸入式的 VR 视角中体验暴力之美吧。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 丹麦语, 荷兰语, 芬兰语, 挪威语, 波兰语, 俄语, 简体中文, 瑞典语, 繁体中文, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/header.jpg?t=1677622045",
+    "developers": [
+      "Drool"
+    ],
+    "publishers": [
+      "Drool"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6800,
+      "final": 3400,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 68.00",
+      "final_formatted": "¥ 34.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "关卡 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/f09b7114dd7c3f93382b53b5805ca7cf1e95d44c.jpg"
+        },
+        {
+          "name": "关卡 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/23624fb7647f826fd037f9871add75f180f0c7d6.jpg"
+        },
+        {
+          "name": "关卡 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/77e3d1c1182b1c0d65b6aba78ee9a53677124bff.jpg"
+        },
+        {
+          "name": "关卡 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/c76599f3f1686a4dfff7bb2b6b7bbbaf5de8b9a6.jpg"
+        },
+        {
+          "name": "关卡 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/e51897d3226d72f1417678fda0aff829750234e3.jpg"
+        },
+        {
+          "name": "关卡 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/8707db5ece7b5e3f9c8e5eca546ae347bb1c8a45.jpg"
+        },
+        {
+          "name": "关卡 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/2955e57e0e7317bcef904842b7a64e2288ba8f72.jpg"
+        },
+        {
+          "name": "关卡 8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/4f8e11c5480756a316a72b2a77ee9b53f1478913.jpg"
+        },
+        {
+          "name": "已完成所有关卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/56b2f479e26dddce985ceb9c4b2817603974874d.jpg"
+        },
+        {
+          "name": "关卡 1 级别 S",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356400/9b64ec1d78bcc68e781e5dc902d1f25b302d458f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 214,
+      "total_negative": 32,
+      "total_reviews": 246
+    }
+  }
+}

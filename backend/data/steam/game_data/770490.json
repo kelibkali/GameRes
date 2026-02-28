@@ -1,0 +1,97 @@
+{
+  "770490": {
+    "name": "Death in the Water",
+    "steam_appid": 770490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这片天然的开放水域中潜水，你将与让人惊悚万分的大白鲨面对面，它们张着血盆大口，试图将你撕碎，你能存活多久？<br />\r\n“死亡水域”游戏的难度极具挑战性，大多数玩家都无法挺过三次绝杀。",
+    "supported_languages": "英语, 法语, 德语, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 土耳其语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770490/header_schinese.jpg?t=1675426791",
+    "developers": [
+      "Lighthouse Games Studio"
+    ],
+    "publishers": [
+      "Lighthouse Games Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 750,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 7.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Killed 5 Sharks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770490/7a5358cc65ef0c86db035ded07a1a5fbbd77ba58.jpg"
+        },
+        {
+          "name": "Killed 10 Sharks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770490/7a5358cc65ef0c86db035ded07a1a5fbbd77ba58.jpg"
+        },
+        {
+          "name": "Killed 15 Sharks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770490/5a2c8234d10e38d5d450f05b8877c2076eca18c2.jpg"
+        },
+        {
+          "name": "Killed 20 Sharks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770490/b4da6d24b2f1e6fc1cb3d25ef696d053ff7940d2.jpg"
+        },
+        {
+          "name": "Killed 25 Sharks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/770490/b4da6d24b2f1e6fc1cb3d25ef696d053ff7940d2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 8,
+      "total_negative": 1,
+      "total_reviews": 9
+    }
+  }
+}

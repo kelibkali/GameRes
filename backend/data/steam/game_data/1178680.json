@@ -1,0 +1,101 @@
+{
+  "1178680": {
+    "name": "RetroVamp",
+    "steam_appid": 1178680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >《RetroVamp》简介</h2>《RetroVamp》的灵感来自于多款著名的硬核 2D 游戏，是一款色彩缤纷的复古式平台跳跃游戏，让你勇攀高峰。通过滑行、跳跃和爬墙穿行在充满障碍物的世界。地图一共可以设置五个存档点，每次死亡后都需要从其中一个存档点重新开始。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178680/header.jpg?t=1602702860",
+    "developers": [
+      "DavideJ"
+    ],
+    "publishers": [
+      "DavideJ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Rookie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/a73be8afbf6f28812fc37b28981264dcc5c1e31a.jpg"
+        },
+        {
+          "name": "Experienced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/f0739c30131a6e32c94b888374e955959a87effa.jpg"
+        },
+        {
+          "name": "Veteran",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/e1e5fb91a304dddb1868743b80321256c9c59a6d.jpg"
+        },
+        {
+          "name": "Impossible",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/8eabef196a917b1d50f750b3bc8080f8de36cb1c.jpg"
+        },
+        {
+          "name": "You made it!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/c691b7ba33ab1a9a4ffa562d796d2515f08768f5.jpg"
+        },
+        {
+          "name": "Second victory, impressive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/5e16a69e8e430ffe7c6a28267ed06c9957927b42.jpg"
+        },
+        {
+          "name": "Five is the perfect number",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/034e667cef19f76bac5c345797d795d446e933b8.jpg"
+        },
+        {
+          "name": "Hardcore mode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1178680/bd7aad0118333b39bc9535111ae9e93754871c0b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

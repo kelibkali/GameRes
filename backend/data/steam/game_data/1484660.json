@@ -1,0 +1,85 @@
+{
+  "1484660": {
+    "name": "Drabidiboo",
+    "steam_appid": 1484660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Drabidiboo</strong> is a turn-based strategy game of prediction with a strong meta component, containing a large set of Pets to collect and use to build up your team.<h2 class=\"bb_tag\" >Learn to play in 30 seconds!</h2>A match is played by 2 players on a board of 10x10 tiles, locally against the AI or via internet with a random opponent.<br><br>Each player must form a team of 4 Pets; to keep the game balanced, each Pet has a cost (crystals) and both players can spend only a given amount of them to form the team.<br><br>You <strong>win</strong> if you own more Star Gems than your opponent when the last one is collected.<br>You <strong>lose</strong> if each of your pets faint.<br><i>Win and loss conditions are always evaluated at the end of the turn.</i><br><br>The match is made up of rounds. A round has 2 phases: <strong>DECLARE</strong> and <strong>RESOLVE</strong>.<br>During the declare phase, you must give an order to each of your Pets. Simultaneously your opponent will do the same.<br><br><u>PLEASE NOTE: you don't know what your opponent is about to declare and vice versa. This is a game of prediction!</u><br><br>(You can declare an order using the Pet cards that surround the board)<br>You are blue. Your opponent is red.<br><br>During an order you can declare: <br><ul class=\"bb_ul\"><li> when to act (last / first)<br></li><li> where to go (movement)<br></li><li> to turn or not (rotation)<br></li><li> what to do (action)</li></ul><br>Of course, you can also decide to skip one or all of these commands if you want your Pet to stand still. ;)<br><br>That's all! Now you have all the info you need to play a match.<br><br>Good luck! :)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484660/header.jpg?t=1618572808",
+    "developers": [
+      "Morgan Vitale"
+    ],
+    "publishers": [
+      "Morgan Vitale"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "878620": {
+    "name": "Neotrie VR Multiplayer",
+    "steam_appid": 878620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "NeoTrie VR is a software that enables users to create, manipulate, and interact with 3D geometrical objects and 3D models in general, of several types. Allows the teacher to easily design 3d mathematical activities with text, photos, videos and sounds.<h2 class=\"bb_tag\" >Aims</h2><ul class=\"bb_ul\"><li>Plane geometry visible through the eyes of a third dimension.<br></li><li>3D geometry and modelling meant for 3D printing.<br></li><li>Develops handicrafts and 3D visual skills.<br></li><li>Stimulates deductive and inductive reasoning skills.<br></li><li>Highlights cooperative work and positive interdependence.<br></li><li>Motivates pupils by means of recreational, collaborative and competitive games.</li></ul><h2 class=\"bb_tag\" >Subjects</h2><ul class=\"bb_ul\"><li>2D and 3D Geometry: parallels and perpendiculars, angles, lengths, areas, volumes, ...<br></li><li>Multiview projection planes and scanner for the study of sections and figures. <br></li><li>Manipulate round bodies and find curved intersections.<br></li><li>Construction and study of polyhedra (Platonics, pyramids, prisms, antiprisms, Archimedean, Johnson, Kepler, etc.).<br></li><li>Basic operations with polyhedra (duality, truncation, rectification, extension, etc.),<br></li><li>Spatial symmetries of 3D figures, translations, rotations, reflections, dilations, etc.<br></li><li>Geodesic spheres and cupola.<br></li><li>3D graphic calculator to represent curves and parametric surfaces.<br></li><li>2d and 3d geometric fractals.<br></li><li>Crystalline networks from fundamental cells.<br></li><li>Euler 3D graphs (Seven Königsberg bridges problem).<br></li><li>Hamiltonian graphs in space (Salesman’s problem).<br></li><li>Coloring graphs in space (based on Four colours theorem).<br></li><li>Varied dynamic constructions.<br></li><li>More in development...</li></ul><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Galleries of hundreds of pre-designed geometric figures.<br></li><li>Speech Recognition System to insert figures in the scenario. (Compatible only with languages that support speech recognition in the Microsoft API).<br></li><li>File system to load and save scenes created by users. <br></li><li>Import-export STL objects from other softwares.<br></li><li>Import GeoGebra applets (wip).<br></li><li>Multiplayer tool that enables users to create, play and learn together in the same scene<br></li><li>Photo camera and video recording inside the VR scene.<br></li><li>More in development...</li></ul><br>Find out more activities on the Neotrie VR community website.",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/878620/header.jpg?t=1708540853",
+    "developers": [
+      "Virtual Dor"
+    ],
+    "publishers": [
+      "Universidad de Almería"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

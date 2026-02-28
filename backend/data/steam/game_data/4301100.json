@@ -1,0 +1,52 @@
+{
+  "4301100": {
+    "name": "EmoteLab | 捏捏表情包",
+    "steam_appid": 4301100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >EmoteLab 是一款用于创建定制角色和动态表情的工具。导出的表情可用于 Discord、Twitch 等各种社交媒体或聊天应用程序。无论您是内容创作者、VTuber，还是单纯地喜欢在与朋友和家人的日常对话中使用表情包，EmoteLab 都提供了一种简单、易于上手的方式，为对话带来更多可爱元素并提升社区参与度。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >软件中包含一个内置的可定制角色模型，配有多种预设部件和动画片段。您可以组合发型、面部特征、服装和配饰，创建原创角色、个人头像或有趣的聊天表情。可以调整角色大小和其他属性，以满足不同平台的上传要求。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >核心特性</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >适合新手的角色定制界面</p></li><li><p class=\"bb_paragraph\" >更改实时预览</p></li><li><p class=\"bb_paragraph\" >针对常用平台的灵活导出设置</p></li><li><p class=\"bb_paragraph\" >保存并重复使用角色预设</p></li><li><p class=\"bb_paragraph\" >支持第三方 Spine2D 模型（需要 4.3 版本；需遵循特定命名规范才能使用内置的自定义界面）</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >主要功能</h2><p class=\"bb_paragraph\" ><strong>🎨 创建自定义角色</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >混合搭配可用的角色部件，如发型、面部特征、服装和配饰</p></li><li><p class=\"bb_paragraph\" >使用直观的滑块调整部件</p></li><li><p class=\"bb_paragraph\" >为单独部件着色</p></li><li><p class=\"bb_paragraph\" >保存角色预设，以便后续加载</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>💫 预览与测试动画</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >浏览并播放内置动画库中的动画</p></li><li><p class=\"bb_paragraph\" >预览您的角色在不同动画中的呈现效果</p></li><li><p class=\"bb_paragraph\" >在视口中缩放、旋转和重新定位角色</p></li><li><p class=\"bb_paragraph\" >在导出前尝试不同的组合</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>🎞️导出动态 GIF</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >将动画导出为动态 GIF</p></li><li><p class=\"bb_paragraph\" >控制输出大小、帧速率和画质</p></li><li><p class=\"bb_paragraph\" >使用针对 Discord 和 Twitch 等平台优化的预设</p></li><li><p class=\"bb_paragraph\" >支持透明背景导出</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>🗃️ 管理您的角色</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >保存多个角色</p></li><li><p class=\"bb_paragraph\" >轻松在已保存的角色之间切换</p></li><li><p class=\"bb_paragraph\" >删除不再需要的角色</p></li><li><p class=\"bb_paragraph\" >以可共享的格式导出角色设置，以便与他人交换预设</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >适用于</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >为 Discord、Twitch 和社交媒体创建动态表情符号和表情</p></li><li><p class=\"bb_paragraph\" >为与朋友和家人的日常聊天添加个性化表情</p></li><li><p class=\"bb_paragraph\" >为非专业内容创作生成简短的角色动画</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >购买前重要须知</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >EmoteLab 使用一个预制的、可定制的角色模型。虽然它提供了多种部件和动画，但无法创建所有类型的角色。可用的部件和动画片段仅限于当前软件版本所包含的内容。</p></li><li><p class=\"bb_paragraph\" >开发者可能会根据用户反馈随时间增加新的部件和动画片段，但无法保证能满足所有请求。</p></li><li><p class=\"bb_paragraph\" >请查阅文档网站以查看当前可用角色部件和动画片段的完整列表。购买决策应基于当前功能和内容，而非对未来更新的期望。</p></li><li><p class=\"bb_paragraph\" >EmoteLab 专为没有动画或内容创作背景的普通用户设计。它不是一个专业的动画工具，不支持关键帧或手动编辑单个部件的运动。</p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/8656f15899e0dd6d520ec971442d074853ea6906/header.jpg?t=1770019054",
+    "developers": [
+      "0x4682B4"
+    ],
+    "publishers": [
+      "GlycoProduction"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 1 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 198,
+      "total_negative": 2,
+      "total_reviews": 200
+    }
+  }
+}

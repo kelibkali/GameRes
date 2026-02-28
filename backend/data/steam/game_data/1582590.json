@@ -1,0 +1,82 @@
+{
+  "1582590": {
+    "name": "2D横向射击游戏示例",
+    "steam_appid": 1582590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "示例游戏是一个简单的2D横向滚屏射击游戏。请参考对象的项目。项目中的材料可以自由使用。<br><br>战机可以发射普通子弹，并结合闪避技术进行近距离攻击，还可以捕获敌人，并使用炸弹进行更大范围的攻击。<br>当体力为0时，必须重新开始该关卡，但如果曾接触过重生点的旗帜，只需要从该处重新开始便可。<br>得分，体力，和炸弹数量都会显示在屏幕上。<h2 class=\"bb_tag\" >●如何升级或强化战机的机制</h2>每次击败敌人时，都有机会获得提升的道具。取得的话会为战机带来好处。<br><ul class=\"bb_ul\"><li>体力恢复<br></li><li>加强攻击<br></li><li>炸弹+1</li></ul>的3种类别。<h2 class=\"bb_tag\" >●加强攻击</h2>提升攻击共有三个阶段。<br>第1阶段︰弹速和攻击力偏低<br>第2阶段︰提高弹速和攻击力，能发射出犹如光束般的子弹<br>第3阶段︰向前方產生大范围的激光攻击但有时间限制，过了一段时间后便返回到第二阶段状态。<h2 class=\"bb_tag\" >●关卡说明</h2>第一关卡是上下都有像洞窟一样构造的舞台，两种敌人角色登场。<br>只要到达最深处便会通关。<br>第二关卡的背景是以机械式为主。在第一关卡没出现过的敌人再另增添两个不同类型的敌人，BOSS也有在此关卡出现。<br>打倒BOSS后便可通关。<h2 class=\"bb_tag\" >●操作方法 (支持XInput手柄)</h2>上下左右︰移动<br>B︰普通攻击<br>Y︰近距离攻击 (也可做回避)<br>X︰投弹<br>A︰捕获敌人 (可选择接触敌人)<h2 class=\"bb_tag\" >●操作方法 (键盘)</h2>鼠标︰移动<br>SPACE︰普通攻击<br>C键︰近距离攻击 (也可做回避)<br>X键︰投弹<br>Z键︰捕获敌人 (可选择接触敌人)<h2 class=\"bb_tag\" >●系统环境</h2>ver1.0.4.2<br>※除此之外的版本有可能出现错误。<h2 class=\"bb_tag\" >●储存位置</h2>选择“Sample”以显示示例项目。<br>如果没有显示，请尝试卸载程序并重新安装。",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1582590/header.jpg?t=1655339969",
+    "developers": [
+      "polytanQ",
+      "PLAYISM"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "944500": {
+    "name": "Antistatic",
+    "steam_appid": 944500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Antistatic</strong> is a crisp, uncompromising indie platform fighter built in a custom engine. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/32bbd22788dcfe9c464690ec001c322d.poster.avif?t=1753306171\" width=338 height=190 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/32bbd22788dcfe9c464690ec001c322d.webm?t=1753306171\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/32bbd22788dcfe9c464690ec001c322d.mp4?t=1753306171\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Inside a crumbling digital world, atomic combatants carry out their programming in an endless series of battles over the remaining shielded landmarks.</p><p class=\"bb_paragraph\" ><strong>Local play</strong> — plug in multiple controllers and play together on one screen</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Traditional mechanics</strong> — shields, directional influence, lag-canceling, grabs, wavedashing, and more </p><p class=\"bb_paragraph\" ><strong>GameCube adapter support</strong> — natively use the official adapter to play with the most iconic controller for the genre, with a familiar feel</p><p class=\"bb_paragraph\" ><strong>6 characters</strong> — all with different play styles </p><p class=\"bb_paragraph\" ><strong>10 stage layouts</strong> — some staples, and some new </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/50523eed496e14f45467a0a6c6b022bb.poster.avif?t=1753306171\" width=338 height=190 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/50523eed496e14f45467a0a6c6b022bb.webm?t=1753306171\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/50523eed496e14f45467a0a6c6b022bb.mp4?t=1753306171\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Internationalization Alpha</strong> </p><p class=\"bb_paragraph\" >Rough lookup/machine-assisted language options available for: Spanish, French, Italian, German, Russian, Japanese, Korean, Simplified Chinese, and Traditional Chinese.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/5f599914c9a68bb4c3e0d8d1894144f4.poster.avif?t=1753306171\" width=338 height=190 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/5f599914c9a68bb4c3e0d8d1894144f4.webm?t=1753306171\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/extras/5f599914c9a68bb4c3e0d8d1894144f4.mp4?t=1753306171\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Online Alpha</strong></p><p class=\"bb_paragraph\" >Online play is in alpha, but the central matchmaking servers are currently offline. Remote Play Together is the recommended approach for now.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944500/header.jpg?t=1753306171",
+    "developers": [
+      "bluehexagons"
+    ],
+    "publishers": [
+      "bluehexagons"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

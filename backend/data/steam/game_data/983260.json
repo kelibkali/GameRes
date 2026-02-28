@@ -1,0 +1,77 @@
+{
+  "983260": {
+    "name": "Pixel Ship Shooter",
+    "steam_appid": 983260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Pixel Ship Shooter is a fast-paced retro shooter game, dodge bullets and zap your friends to death!<br><br><strong>Features</strong><br><br>* Retro-style gameplay<br>* Up to 4 player multiplayer<br>* LAN and global online hosting<br>* State-of-the-art graphics and visuals<br>* Power-ups<br>* Colorful explosions<br><br><strong>Controls</strong><br><br>* WASD and arrow keys for movement<br>* Space to shoot<br>* R to respawn<br>* Esc to enter main menu<br>* F11 to toggle full screen<br><br><strong>Hosting</strong><br><br>* Unblock ports 7777 and 27015 in TCP and UDP<br>* Unblock game in the Firewall<br>* Enter main menu<br>* Click &quot;Host match&quot;<br><br><strong>Joining</strong><br><br>* Unblock game in the Firewall<br>* Enter main menu<br>* For LAN use local IP in text bar <i>(example 192.168.0.1)</i><br>* For Internet use global IP<br>* Press Enter and then &quot;Connect&quot;",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/983260/header.jpg?t=1613045820",
+    "developers": [
+      "Altope Interactive"
+    ],
+    "publishers": [
+      "Altope Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

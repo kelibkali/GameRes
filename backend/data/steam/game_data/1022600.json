@@ -1,0 +1,74 @@
+{
+  "1022600": {
+    "name": "MetrixVR",
+    "steam_appid": 1022600,
+    "required_age": 0,
+    "is_free": true,
+    "description": "MetrixVR is a multiplayer online game, where you can build things, talk with people, and much more.<br>The game have many gamemodes, from &quot;sandbox&quot; to some gamemodes with survival or exploration goals.<h2 class=\"bb_tag\" >How to Play Gamemodes ?</h2><br>There is two ways to play: Using the main server (Hub), or on some self-hosted servers (MVRDS / MetrixVR Dedicated Server).<br>The hub allow you to play with a limited sandbox game. It also make you able to meet other community members, or just to wait for a private server to be online.<br>The self-hosted servers allow you to play any gamemode, as long as you respect the rules created by the server master.<br>Theses self-hosted servers are hosted by community members or some third-party organisation, and allow the host to configure his server as he or his community wants.<h2 class=\"bb_tag\" >How to create custom game content ? (Objets, Models, UIs, Gamemodes, ...)</h2><br>To create some content, you have to use the game developpement kit, called &quot;UVRSDK&quot;, and Unity 2018.3.0f2.<br>If you already used to create some avatars or worlds using VRChat, this should be really easy for you to use it.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022600/header.jpg?t=1578602953",
+    "developers": [
+      "Slaynash"
+    ],
+    "publishers": [
+      "HyperCat Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

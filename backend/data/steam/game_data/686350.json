@@ -1,0 +1,75 @@
+{
+  "686350": {
+    "name": "Immersion Chess: Advanced AI",
+    "steam_appid": 686350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.<br><br><strong>Middlegame</strong> algorithm for levels 8, 9 and 10 differs mostly in depth calculation. It also takes clock settings into account.<br><br><strong>Endgame</strong> stage uses so called SYGYZY tables, which makes AI play extremely precise.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686350/header.jpg?t=1504687598",
+    "developers": [
+      "Immersion"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

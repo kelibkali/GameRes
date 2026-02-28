@@ -1,0 +1,193 @@
+{
+  "518060": {
+    "name": "Chess Ultra",
+    "steam_appid": 518060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "即将推出史上最激动人心的国际象棋游戏。<br><br>Chess Ultra 采用现代风格呈现史上最出色的战略游戏；精美的 4K 视觉效果，获得国际象棋大师认可的人工智能等级，完全兼容虚拟现实，一切旨在带给你绝佳的象棋体验。<br><br><ul class=\"bb_ul\"><li>绝佳的棋子，优美的环境<br></li><li>10 个获得国际象棋大师认可的人工智能等级<br></li><li>直观且完全重新设计的本地和在线多人模式，更有 ELO 排名系统<br></li><li>在线提供全面的时间控制模式，包括经典、快棋和马拉松<br></li><li>跨平台在线游戏和排行榜<br></li><li>观看和参加 Ripstone 的正式比赛<br></li><li>在 80 个棋局中展示您的技能<br></li><li>赢得最重要的历史性比赛，改写你的过去<br></li><li>导出每局本地和在线游戏的可移植式棋局记号法 (PGN)<br></li><li>完全集成 Twitch 可让你与社区玩家一决高下<br></li><li>佩戴虚拟现实设备玩游戏，使自己沉浸在 Chess Ultra 体验中<br></li><li>详尽的教程有助于提高你的游戏技能</li></ul><br>全面支持 Oculus Rift 和 HTC Vive，佩戴虚拟现实设备玩 Chess Ultra，享受迄今为止最激动人心的国际象棋体验。<br>从图书馆中古董红木棋盘上的木纹，到每个棋子底部的豪华毛毡；国际象棋从未如此精彩。<br>身临其境般地拿起棋子移动，将注意力完全集中于手边的游戏。<br><br><ul class=\"bb_ul\"><li>与 Oculus Rift 和 HTC Vive 兼容<br></li><li>使用 Oculus Touch 或 Vive 控制器拿起棋子移动<br></li><li>完全沉浸在优美、超逼真的环境中<br></li><li>站起来可改变每种环境的视角，以获得更好的视野<br></li><li>接受 Gomorrah 的终极国际象棋挑战。你能挺过去吗？</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语, 俄语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/header.jpg?t=1764082204",
+    "developers": [
+      "Ripstone"
+    ],
+    "publishers": [
+      "Ripstone"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4500,
+      "final": 4500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 45.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 6 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 32,
+        "description": "Steam 回合通知"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "Absolute Pin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/8f73c95bc1d56ff1cf51412edbc8c7bce3dd4d9d.jpg"
+        },
+        {
+          "name": "Alekhine’s Gun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/a9709c4cfefc001bfbda9d60e4cd29dd4e6994fc.jpg"
+        },
+        {
+          "name": "Back-rank Mate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/810e0a61b8a123d96185f46562dd5836899f8950.jpg"
+        },
+        {
+          "name": "Doubled Pawn",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/e73e2f857f8f9d43b76cdb8c8bcace8df8613942.jpg"
+        },
+        {
+          "name": "O-O-O",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/64047ec674d5b9444e9ecd39016fdc640f0804e1.jpg"
+        },
+        {
+          "name": "O-O",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/5e16896e48479ee68b090b4c90b045be175f75c7.jpg"
+        },
+        {
+          "name": "Check",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/5a0aee02216726304338cf39eb698c4bb7966b03.jpg"
+        },
+        {
+          "name": "Checkmate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/29a1a4a8491bca0e859b93913cbc384e0b73fa11.jpg"
+        },
+        {
+          "name": "Chop Wood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/ec692813923aaa17e209ef92864d27c2bc1fec24.jpg"
+        },
+        {
+          "name": "Promotion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/ef146a6ffe053407cc9b8a3f82f3a4caa03f7e6f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 90,
+      "total_negative": 15,
+      "total_reviews": 105
+    }
+  }
+}

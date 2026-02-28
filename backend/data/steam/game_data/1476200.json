@@ -1,0 +1,71 @@
+{
+  "1476200": {
+    "name": "Project: Gorgon VIP Membership",
+    "steam_appid": 1476200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Help support the game's development while receiving useful benefits, including:</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Four extra character slots!</p></li><li><p class=\"bb_paragraph\" >15 extra inventory slots -- for each character!</p></li><li><p class=\"bb_paragraph\" >25 extra slots in each item-transfer chest! There are four such chests now (100 extra slots) and two more coming (for a total of 150 extra slots).</p></li><li><p class=\"bb_paragraph\" >Access to offline advancement via the Autodidacticism skill!</p></li><li><p class=\"bb_paragraph\" >Access to special in-game reports, such as a &quot;character data dump&quot; that lets you view all your character's stats in a simple spreadsheet.</p></li><li><p class=\"bb_paragraph\" >And more benefits to come! We're exploring ideas like giving VIPs custom chat colors, unique emotes, and monthly gift-redemptions that give out amusing trinkets.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>How to use:</strong> the benefits of VIP mode are automatic, and you'll gain the extra character slots, inventory slots, etc. as soon as you log in. The Autodidacticism skill is the special case: the skill is immediately unlocked, but you will still need to level-up the skill! Visit Hirochi in Rahu to begin.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What happens if I end my VIP subscription?</h2><p class=\"bb_paragraph\" >If your VIP plan ends, the extra benefits go away. But you never lose stuff permanently! If your VIP slots were in use, they become &quot;overflow&quot; slots, meaning that you can't access them, but they're still there. As you free up space, they become visible.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Inventory:</strong> if your VIP plan ends and leaves your character carrying too much, you'll be &quot;overburdened&quot;. (This is exactly the same as if you had drunk a potion of inventory-expansion, and it wore off while you were carrying extra items.) You'll be able to access the normal number of items, and the rest will be hidden until you make space. As you drop, sell, or otherwise remove items from your inventory, the &quot;overflowing&quot; items appear automatically.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Transfer slots:</strong> just as with regular inventory, if your VIP plan ends and leaves your transfer slots overflowing, you will only be able to see the regular number of items in the chest -- the rest will be hidden. As you remove visible items, the hidden items reappear one by one. (You cannot add items to a chest while it's overflowing, so all you can do is remove items until it stops overflowing.)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Character slots:</strong> if your VIP plan ends and leaves you with more characters than you originally had access to, only the most-recently-played characters will be accessible. The others will be hidden. If you choose to delete any of those characters, one of your other characters will appear in the now-empty slot.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Autodidacticism:</strong> Any earned skill levels in Autodidacticism are retained, but you are unable to use the skill until you have VIP again. If your character(s) were participating in an Autodidacticism hangout at the moment that VIP ends, that hangout is canceled.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476200/header.jpg?t=1740171885",
+    "developers": [
+      "Elder Game, LLC"
+    ],
+    "publishers": [
+      "Elder Game, LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4100,
+      "final": 4100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 41.00",
+      "recurring_sub": 520598,
+      "recurring_sub_desc": "今日需支付 ¥ 41.00，另外自动续订每 1 个月需支付 ¥ 41.00。"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 5 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

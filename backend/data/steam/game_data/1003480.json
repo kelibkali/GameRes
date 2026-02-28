@@ -1,0 +1,81 @@
+{
+  "1003480": {
+    "name": "Fireboy & Watergirl: Elements",
+    "steam_appid": 1003480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Solve the puzzles, beat the times and collect all the diamonds! <br />\r\n<br />\r\nPlay alone or with a friend to join Fireboy and Watergirl in this new adventure!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003480/header.jpg?t=1548336521",
+    "developers": [
+      "Oslo Albet"
+    ],
+    "publishers": [
+      "Oslo Albet"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Complete all the levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1003480/340fd9521a36e03b91a3a23a6078c4d07285587c.jpg"
+        },
+        {
+          "name": "Get all the green gems",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1003480/c827ffc2a2248e2b9344935ae6cdb16be93cb333.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 394,
+      "total_negative": 39,
+      "total_reviews": 433
+    }
+  }
+}

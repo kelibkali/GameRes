@@ -1,0 +1,121 @@
+{
+  "454100": {
+    "name": "Dungeon Escape",
+    "steam_appid": 454100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款简约风格的硬核2D平台游戏，主人公尝试从充满危险陷阱与敌人的神秘地牢中逃脱。<br><br>游戏特征：<br><ul class=\"bb_ul\"><li>简约风画面<br></li><li>硬核游戏玩法<br></li><li>由HateBIt配乐<br></li><li>关卡众多<br></li><li>硬币！谁不喜欢硬币啊？</li></ul><br>你能通过全部的挑战，并离开这处危险的地牢吗？",
+    "supported_languages": "英语, 乌克兰语, 捷克语, 波兰语, 葡萄牙语 - 巴西, 法语, 西班牙语 - 西班牙, 荷兰语, 德语, 土耳其语, 保加利亚语, 希腊语, 芬兰语, 简体中文, 意大利语, 日语, 韩语, 罗马尼亚语, 匈牙利语, 俄语, 白俄罗斯语, 马来语, 塞尔维亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454100/header.jpg?t=1726344070",
+    "developers": [
+      "Roenko Games"
+    ],
+    "publishers": [
+      "Roenko Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 306,
+      "discount_percent": 83,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 3.06"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 51,
+      "highlighted": [
+        {
+          "name": "关卡 1完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/db4dfe4bf9a89bc51e2d8a69f3ebbca9087df5a4.jpg"
+        },
+        {
+          "name": "关卡 2完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/82a0618203ba0cba5e8a2ec88a45dc5dcd4fbfd8.jpg"
+        },
+        {
+          "name": "关卡 3完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/c5f6eb8e64a518a628dc647550cd3dbafc889244.jpg"
+        },
+        {
+          "name": "关卡 4完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/74f074553cd532bde46737bca20a1254520df97f.jpg"
+        },
+        {
+          "name": "关卡 5完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/0f75475d267d6e1692a767fb77dc809365c8aea0.jpg"
+        },
+        {
+          "name": "关卡 6完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/a07a178c8eea15257f8448368adab1f2272776b5.jpg"
+        },
+        {
+          "name": "关卡 7完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/70de85818cb25257d2a2b3fa64e73d08eb998b75.jpg"
+        },
+        {
+          "name": "关卡 8完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/510c8e71756ae9bb05354ac6a94f9cf53725629a.jpg"
+        },
+        {
+          "name": "关卡 9完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/a547a1fb0adc96d097ef65ed9e22c7d1d732d442.jpg"
+        },
+        {
+          "name": "关卡 10完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/454100/5247006b3959de1dbd34c4ccc8ccf34d47e52bba.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 72,
+      "total_negative": 15,
+      "total_reviews": 87
+    }
+  }
+}

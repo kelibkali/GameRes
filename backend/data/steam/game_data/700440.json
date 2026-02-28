@@ -1,0 +1,97 @@
+{
+  "700440": {
+    "name": "Jellyfish",
+    "steam_appid": 700440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个关于水母的隐秘生活史的游戏。<br>虽然听起来有点博物学纪录片的味道， 但这是一个更偏向于娱乐性的游戏作品，希望大家喜欢。<br>在游戏里你从一个卵开始随着关卡设置变化成一个水螅状幼体 最后变成成体水母，你会遇到各种解密，动作，战斗 等等挑战，当你一路过关，最后找到伴侣并成功生出宝宝后生命周期就完成了, 游戏也就结束了。<br>我觉得如此展现一个美丽的动物的生命历程是一个很有趣的事情，希望跟大家分享我在其中寻找到一些难以名状的神秘而美妙的体验。<br><br><strong>【游戏特性】</strong><br><br>1. 前两关玩法是属于休闲类，紧接着的三四关是一个解密类游戏，最后是动作类RPG（包含了战斗与解密要素）。<br><br>2. 游戏内所有角色都是程序自动生成的，这样其运动非常流畅有一种数学的美感.<br><br>3. 游戏定位是艺术类游戏，也许动作解密这个归类更适合它.<br><br><strong>水母是生活在海底的能动的花朵，也许是世界上最美丽的动物形态了，我希望展现一种生命之美。</strong>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/700440/header.jpg?t=1537804137",
+    "developers": [
+      "PanGuoJun"
+    ],
+    "publishers": [
+      "PanGuoJun"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 9 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Super Surfer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/700440/07e4da91536968a1dcbb897127321a2bf4b8a33b.jpg"
+        },
+        {
+          "name": "Super hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/700440/99160e0fe2d5e19798b23c204d4b448e70142c83.jpg"
+        },
+        {
+          "name": "Perfect Fighter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/700440/5e57dccb56235886fbf60771af6f825ac5020d90.jpg"
+        },
+        {
+          "name": "Perfect Lover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/700440/54f311dbb9c2f2b6123c1a8c8b0e40d255a31e08.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

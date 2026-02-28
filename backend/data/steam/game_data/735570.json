@@ -1,0 +1,97 @@
+{
+  "735570": {
+    "name": "Project Rhombus",
+    "steam_appid": 735570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Project Rhombus</strong> is a rhythm-based casual action game that combines exciting electronic music with stylish flat design. Hold on as long as possible, blocking the oncoming arrows moving to the beat.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Music with sensual beat<br></li><li>Minimalistic graphics<br></li><li>Easy to learn, quite hard to master<br></li><li>100% free!</li></ul><br><i>in honor of Toby Fox</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/735570/header.jpg?t=1727468860",
+    "developers": [
+      "SEROSOO"
+    ],
+    "publishers": [
+      "PsychoFlux Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Easy 60\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/735570/4058624fa3dac14f04bb55bb3c09875a37eefb4c.jpg"
+        },
+        {
+          "name": "Normal 60\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/735570/c982bd043357b2153d656faec69c5e81343e9fca.jpg"
+        },
+        {
+          "name": "Hard 60\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/735570/2e27409ab650028507e13ba09e79c4dd1a2d78f6.jpg"
+        },
+        {
+          "name": "Expert 60\"",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/735570/41d7dc82ef6204dc941c9f535f861ef68a2c43dc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 14,
+      "total_negative": 1,
+      "total_reviews": 15
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "1360490": {
+    "name": "PECO",
+    "steam_appid": 1360490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "基于绿色的益智动作游戏。<br />\r\n播放器根据相机中反射的舞台的比例分为三个步骤，并且大小和跳跃力会随着变化而变化。<br />\r\n同样，当显示舞台时，一些块出现，而在显示特定块时，一些块出现。<br />\r\n让我们考虑这些头，通过考虑在舞台上的投影位置来引导玩家达到目标。",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360490/header.jpg?t=1601939833",
+    "developers": [
+      "RootSerious"
+    ],
+    "publishers": [
+      "RootSerious"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "Open_Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/9db10359dcd62a84555c555ef7609b646562583d.jpg"
+        },
+        {
+          "name": "Clear_Stage1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/2852b42d842bff085d9fd3ff32bc9d6c5ba93ca2.jpg"
+        },
+        {
+          "name": "Clear_Stage2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/66506f02cd071082cc5fe0f300c3b7f51dcd60e3.jpg"
+        },
+        {
+          "name": "Clear_Stage3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/f46ead1a8e022f06e2c55c6861d3b60fc8947fa5.jpg"
+        },
+        {
+          "name": "Clear_Stage4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/2ef3ba31416cf9e23e4210909eaa9387894ed1fc.jpg"
+        },
+        {
+          "name": "Clear_Stage5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/69225116b065cd05dfcaed4b3c0dd960a3184236.jpg"
+        },
+        {
+          "name": "Clear_Stage6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/791a1f964620f01101930eaf2323b06211cb9b5e.jpg"
+        },
+        {
+          "name": "Clear_Stage7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/6d56b21a13f474729135ad3676c1670f8b4d34e7.jpg"
+        },
+        {
+          "name": "Clear_Stage8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/2867409da5221e086b069e0775f59b1146d93248.jpg"
+        },
+        {
+          "name": "Clear_Stage9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1360490/4652af2615513868526adc0babba2f0b7bd58568.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

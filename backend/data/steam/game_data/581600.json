@@ -1,0 +1,105 @@
+{
+  "581600": {
+    "name": "The Albatross",
+    "steam_appid": 581600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Description:</strong><br><br>Albatross is an indie first-person adventure themed game. Whether you are travelling to a Victorian city to investigate a UFO invasion, or roaming through a haunted village in Scotland beneath a florid full-moon eclipse. You can take the role of an experienced private agent, who conceals himself behind an alias known as the 'Albatross'. Complete thrilling and competitive assignments in varied environments and fight to the top of the Steam Leaderboards in an effort to master each assignment. Unlock achievements by completing strenuous objectives, and unlock trading cards to trade on the Steam Marketplace.<br><br><strong>Steam Features:</strong><br><br><ul class=\"bb_ul\"><li> Steam Trading Cards<br></li><li> Steam Achievements<br></li><li> Steam Leaderboards</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581600/header.jpg?t=1590647465",
+    "developers": [
+      "FlagmanJeremy"
+    ],
+    "publishers": [
+      "FlagmanJeremy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Albatross - Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Albatross - Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Albatross - Level 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Lucky Albatross",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Blimp Down",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Strange Signals",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        },
+        {
+          "name": "Scarecrows and The Albatross",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/581600/408d379c712cdd613c5fc52f43d3b7b918878627.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 2,
+      "total_negative": 4,
+      "total_reviews": 6
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "1254410": {
+    "name": "破阵图(Grids of World)",
+    "steam_appid": 1254410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏基于井字游戏的原理制作。为了获胜，玩家需要占领连续三个据点连成一条线。<br>本作使用UE4引擎开发。在游戏中，玩家可以进行人机对战或与其他在线玩家进行游戏。<br><br>[游戏玩法]<br>在游戏中，共有9个据点。<br>攻击据点要求杀死所有守卫AI。否则，对据点的攻击是无效的。<br>占领据点后，将在播放器右上角的UI界面上显示据点占领信息。<br>当要塞界面显示某队玩家占领的据点是连续一条线的三个要塞据点时，判定该队胜利。<br><br><br>【玩家qq群】<br>666378080<br>加群获取新版本内测资格等福利。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/header.jpg?t=1619184271",
+    "developers": [
+      "IncreZero Studio"
+    ],
+    "publishers": [
+      "IncreZero Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "1471550": {
+    "name": "Variable",
+    "steam_appid": 1471550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Variable is a real-time card game.<br />\r\nThe goal of the game is to score more points than the opponent.<br />\r\nThe player must take cards from the common deck.<br />\r\nWhen the deck is over, points are counted.<br />\r\nThere are five types of cards.<br />\r\nIf the card is repeated, then the move is transferred to another player.<br />\r\n<br />\r\nThere are special cards in the deck:<br />\r\n1 - Take any enemy card.<br />\r\n2 - The game is transferred to another player.<br />\r\n<br />\r\nThe game continues until the third defeat.<br />\r\nYou can play with a computer or another player.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471550/header.jpg?t=1607925341",
+    "developers": [
+      "Kedexa"
+    ],
+    "publishers": [
+      "Kedexa"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

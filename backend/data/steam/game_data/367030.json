@@ -1,0 +1,86 @@
+{
+  "367030": {
+    "name": "Lootfest",
+    "steam_appid": 367030,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>--I failed to complete the game in time, I can't work on it full time anymore, it will probably never leave Early Access--</strong><br><br>The game has a creative area with powerful voxel editor tools. You can join friends online and build together. (I am currently reworking the adventure part of the game, it will accessible again in the future)<h2 class=\"bb_tag\" ><strong>current Early Access Features:</strong></h2><br><ul class=\"bb_ul\"><li>Copy, paste and save templates.<br></li><li>Tool shapes like cube, sphere and cone.<br></li><li>2-4 online multiplayer.</li></ul><h2 class=\"bb_tag\" ><strong>technical Facts</strong></h2>Input: Keyboard, Mouse &amp; Keyboard and Xbox 360-, Xbox One-, PS4 Gamepad<br>Big picture mode: Yes<br>Rebindable keys: No<br>Multiplayer limit: 1 local splitscreen, 4 online<br>Supported resolutions: All<br>Multiple monitors: Yes<br>Max framerate: 144<br>Max Field of View: 120<br>Anti aliasing: No<br>SSAO: No<br>Offline gameplay: yes<br>Engine: MonoGame/C#/OpenGL<br>Development team size: 1",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367030/header.jpg?t=1642187750",
+    "developers": [
+      "vikingfabian.com"
+    ],
+    "publishers": [
+      "vikingfabian.com"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 5 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Final Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367030/d8f66412131ba52a1a8b838ef4b53ebe2e3ab98b.jpg"
+        },
+        {
+          "name": "All levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367030/0c1fdc26b0780d2840acdb7a2faaf1be22878a7e.jpg"
+        },
+        {
+          "name": "All cards",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367030/f41b2f69fd2170a23e9bb53590ae54ba1a780f7c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

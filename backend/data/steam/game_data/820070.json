@@ -1,0 +1,137 @@
+{
+  "820070": {
+    "name": "Cube Universe",
+    "steam_appid": 820070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The universe was once peaceful, a place where magic and technology co-existed and everyone strove for the greater good. But then, many thousand years ago, a freight ship crashed on the home planet of the Rok'lin, a primitive species of warriors. Quickly, they studied the alien technology and built an army of spaceships, powerful enough to conquer entire worlds. The few survivors of their attacks joined them in what would become the Ancient Empire. But some resisted, forming a powerful alliance: the United Planets.<br><br>Millennia later, the war has calmed down. But distrust lays deep within both factions and fights break out regularly.<h2 class=\"bb_tag\" ><strong>EXPLORE THE UNIVERSE</strong></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820070/extras/36c3a2b20e6455d611f2ac7414021c20.avif?t=1718602006\" width=616 height=346 /></span><br>Fly through space with your own ship and fight against enemies. Buy and upgrade spaceships at one of the local space stations. Or beam down and explore many different, procedurally generated planets.<h2 class=\"bb_tag\" ><strong>DUNGEONS</strong></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820070/extras/e7a9b4dc84420ec2117013f72a974122.avif?t=1718602006\" width=616 height=346 /></span><br>Fight powerful enemies in deep caves and high towers. Be quick and vigilant to survive their attacks.<h2 class=\"bb_tag\" ><strong>QUESTS</strong></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820070/extras/e91551719ee3010b0bb3e835d59f68b8.avif?t=1718602006\" width=616 height=346 /></span><br>Various people and, apparently, fungi will give you quests that will reward you with experience and sometimes weapons and armor. But you can't trust everyone, so it's up to you to make the right decisions.<h2 class=\"bb_tag\" ><strong>FIGHT</strong></h2>Pick one of 5 different weapons, each with unique abilities and talents. Are you a fire mage, a healer, or a protector?<h2 class=\"bb_tag\" ><strong>MULTIPLAYER</strong></h2>You can play alone or with your friends. Regular dungeons are made for 5 people - but don't worry because NPCs will join your group if it is too small.<h2 class=\"bb_tag\" ><strong>CRAFT</strong></h2>Choose a profession and advance it to craft powerful items. Become a tailor, blacksmith, jeweler, enchanter, and more.<h2 class=\"bb_tag\" ><strong>BUILD</strong></h2>Thanks to a custom-made engine, there are almost no limitations: build with mini cubes that are just 0.5 meters in size, with a maximum building height of over 2 km (4096 blocks).<h2 class=\"bb_tag\" ><strong>COMING SOON...</strong></h2>Cube Universe is currently an Alpha, but we're getting close to the Beta. Here is a short list of the planned features. Additionally, more content like new planets, quests, or dungeons will be added.<br><br><br><strong>Improved multiplayer (coming in Alpha 0.7)</strong><br>Server list (partially working already), friend list, playing the same character on multiple servers, recruitment tool for dungeons etc.<br><br><strong>Mods and user-generated content (coming in Beta 1.0)</strong><br>Support for easy modding, including a terrain editor for custom terrains with custom quests. Most of the content is already defined in XML and Lua files, so we will only have to add some logic that loads user-generated XML files and some code for interaction between different mods. Additionally, the Lua API will be expanded to support more advanced mods.<br>Mods will not only be easy to create, but also easy to install - if you connect to a modded server, you will not even have to manually install mods since this will be done automatically.<br><br><strong>PvP (coming in Beta 1.1)</strong><br>Fight other players on battlegrounds. Possibly including vehicle combat.",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820070/header.jpg?t=1718602006",
+    "developers": [
+      "Beosar"
+    ],
+    "publishers": [
+      "Beosar"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/fad549c17fdcf88a78932906a556e7fd9bc37bf0.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/44a5e51ed94248dfc8ae8760d40c245091d4cc2a.jpg"
+        },
+        {
+          "name": "Level 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/8c737b91460cdcc8296d337c54064e6be48ba35d.jpg"
+        },
+        {
+          "name": "Level 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/f90b5695769ba8f1cd9171afa6da72eae1594800.jpg"
+        },
+        {
+          "name": "Level 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/3495d01e2b974609e88a8e2844b96d6611e3f7b6.jpg"
+        },
+        {
+          "name": "Planetary Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/61d60bd7c33b151cbdaa36ccb64a731b8f163289.jpg"
+        },
+        {
+          "name": "Terranian Protector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/987a00fdd78e032941390a04d78e44d7379d25f3.jpg"
+        },
+        {
+          "name": "Luminous Protector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/90ea113a0132718af4dc41059e4016a5c6f775ba.jpg"
+        },
+        {
+          "name": "Feallan Protector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/8594736a36f70de5fe27d13757b12a482057b511.jpg"
+        },
+        {
+          "name": "Questionable Decisions",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/820070/f62ed67774b823a7c8d9e7167e555b5ffabf2f93.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

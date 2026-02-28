@@ -1,0 +1,80 @@
+{
+  "630180": {
+    "name": "Armor Clash II - VR",
+    "steam_appid": 630180,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This is the VR version of Armor Clash II, supporting SteamVR(HTC Vive).<br />\r\n<br />\r\nHow to launch the VR version:<br />\r\nOpen SteamVR, launch the capsule on the Steam, there will be a dialog option, choose &quot;Launch Armor Clash II in VR&quot;, then play.<br />\r\n<br />\r\n<br />\r\nNotice for HTC Vive users (2017-06-30): <br />\r\nBecause the SteamVR client updated, it cost a issue that desktop icon can not launch the game when SteamVR opening, please try to close SteamVR before launching the game, or right click on the capsule and choose launch the game from desktop or vr, or even launch the exe file directly in the game folder.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630180/header.jpg?t=1498784870",
+    "developers": [
+      "Windforce"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 5 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

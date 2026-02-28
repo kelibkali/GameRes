@@ -1,0 +1,50 @@
+{
+  "702270": {
+    "name": "DevWill",
+    "steam_appid": 702270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Devwill is a platformer with arcade graphics and gameplay. The visuals are mostly in black and white, however some of the details show some color saturation. The aesthetics are meant to resemble the old Black and White movies look, with the use of effects such as screen scratches, old projector sounds and intertitle text for dialogs and narratives. Expect a challenging game with a mysterious and reflexive, yet poetic, background story.<br>​<br>Key Features:<br>- 16 levels<br>- 5 Bosses<br>- Password system<br>- Secrets and Easter Eggs (reach 7700 points to find them all)<br>- Original Chiptune Soundtrack<br>- About 45 min of longplay<br>- An intrinsically gameplay based narrative<br>- Tons of classic B&amp;W horror movies references<br><br>Default Controls: <br>Left/right Arrow Keys: walk<br>S: jump<br>D: fire<br><br>Video keys:<br>F11: toggle Fullscreen<br>F10: Change resolution (try to fit your Monitor)<br>[ and ´: (next to Enter) Change Brightnes<br>]: (next to Enter): toggle scanline filters on or off (scanlines only, the &quot;old B&amp;W movie effect is always on as it's part of the intended aesthetics of the game)<br>ESC: Options and Quit menu (where you can remap the keyboard and gamepad)<br><br><br>Troubleshooting<br><br>Q: I'm having problems with configurations and settings, what can I do?<br>A: Reinstall the game on Steam or delete the &quot;Cabinet.ini&quot; in the game files.<br><br>Q: Sometimes when I quit the game Steam says the game is still running, what can I do?<br>A: Just wait for a moment and it should go back to normal.<br><br>Q: The first time I run &quot;Devwill.exe&quot; on Windows 8 or 10 I get prompted to install &quot;Directplay&quot;. Is it safe?<br>A: Yes, Directplay is a Windows component. Your OS will download and install it from microsoft servers. It is safe and required for running the game.<br><br>Q: The game runs in a small square, even while in full screen. How do I make it expand to the entire screen?<br>A: DevWill runs in a square screen format, up to a maximum of 1025X1025. If you monitor is in a higher resolution the fast workaround is to: 1) Right click on &quot;Devwill.exe&quot; and go to Properties. 2) In the Compatibility tab check the &quot;Run in 640X480 screen resolution&quot; option, and apply. 3) Run the game, wait for it to load and press F10 until you find the resolution that best suits your monitor. Alternatively, if your video card drivers allow for custom settings for individual games, you can use that.<br><br>Q: When I try running the game I get the error: &quot;Failed to load the game data. File seems corrupted&quot;. What can I do?<br>A: This is a common incompatibility issue with a lot of indie games, especially the ones made on Game Maker, and it seems to happen only in a few computers. The solution, as strange it sounds, is to delete all printer installed on your computer (even if you do not own a printer). This fix seemed to work for everyone who ran across this issue.",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/header.jpg?t=1660179495",
+    "developers": [
+      "Paulo A. M. Villalva"
+    ],
+    "publishers": [
+      "Amaweks Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "1092300": {
+    "name": "Drone Racer",
+    "steam_appid": 1092300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "想在家享受FPV无人机赛车吗？ 飞过宽阔的地图。<br />\r\n开关FPV与冠捷随时查看，支持PC和VR发挥。<br />\r\n<br />\r\n◆无人机组合<br />\r\n   -将无人机与机身，螺旋桨和电池组合在一起。<br />\r\n   -性能和重心取决于无人机的部件。<br />\r\n<br />\r\n◆单人<br />\r\n   - 你可以玩或实践无人机自行赛车<br />\r\n   -6张世界地图和36条轨道<br />\r\n<br />\r\n◆道具玩<br />\r\n   -使用10件物品来加速和保护您的无人机，或者用导弹和地雷阻碍对手。<br />\r\n<br />\r\n◆1对1比赛<br />\r\n   - 1对1模式与其他用户实时。<br />\r\n<br />\r\n◆2对2小组比赛<br />\r\n   -需要采取战略行动来阻碍其他团队成员或保护盟友免受敌人的攻击。<br />\r\n<br />\r\n◆无限对决<br />\r\n   -最多可以有4位玩家同时玩，并且所有玩家都在竞争",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092300/header.jpg?t=1577170099",
+    "developers": [
+      "Funnypack"
+    ],
+    "publishers": [
+      "Funnypack"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4700,
+      "final": 4700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 47.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "首先完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/ac65625fee4441bfa44d43bcd891408b74ecf015.jpg"
+        },
+        {
+          "name": "资深飞行员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/48ad5a3e1385549f7b0b5739658949e501512ebe.jpg"
+        },
+        {
+          "name": "极速赛车手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/6a15276455ea0742a870c5f2f4cd7af3ce1f91b8.jpg"
+        },
+        {
+          "name": "勤劳的人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/b0f43196f492dd5ef95c6ddf7d8f9cef68172843.jpg"
+        },
+        {
+          "name": "飞行执照",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/b16951afd6c3d9c9b3bab76975f7d53e0a8482d2.jpg"
+        },
+        {
+          "name": "一点点赚很多",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/1958718409a3b2a88455e5a1cf1f8728699116f9.jpg"
+        },
+        {
+          "name": "狙击手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/4e7d79d32877beadca8773d0edacc6a919a6f664.jpg"
+        },
+        {
+          "name": "必然",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/a66480425a13a0ab4d3fb6b9e820a047626802ba.jpg"
+        },
+        {
+          "name": "安全第一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/4857692d4d556db2cd37bc32b741b56c62cc23e9.jpg"
+        },
+        {
+          "name": "速霸",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1092300/55e97bc0768b9ab298b9cfd6467e84697ec4595f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

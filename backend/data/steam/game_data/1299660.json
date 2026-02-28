@@ -1,0 +1,61 @@
+{
+  "1299660": {
+    "name": "WiP",
+    "steam_appid": 1299660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "WiPはシンプルな2Dアクションゲームです。<br />\r\n無機質で大きな腕を持つ主人公を操り、最奥に待つボスのもとへと辿り着きましょう！<br />\r\n主人公は射撃とパンチという二つの攻撃手段を持っています。射撃は遠距離を攻撃でき、パンチは敵の防御を貫通することができます。<br />\r\n見事ボスを撃破した際には、クリアした時間と倒した敵の数に応じてスコアが表示されます。ハイスコアを目指しましょう！",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299660/header.jpg?t=1590163874",
+    "developers": [
+      "Hinawajin"
+    ],
+    "publishers": [
+      "Hinawajin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

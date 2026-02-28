@@ -1,0 +1,61 @@
+{
+  "691190": {
+    "name": "Desktop Audio Visualizer",
+    "steam_appid": 691190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "桌面频谱秀是一个非常轻巧的全屏音乐频谱显示软件。它可以捕获当前任意音频来源作为频谱来半透明显示在屏幕最前端，且不会影响到您的其他操作，让您在玩游戏和工作的时候也能欣赏到随着音乐律动的频谱。<h2 class=\"bb_tag\" ><strong>特色</strong></h2><ul class=\"bb_ul\"><li>支持自动捕获当前系统所有音频来源，包括所有音乐播放器、游戏、视频播放器、麦克风等。<br></li><li>频谱支持非常多的自定义个性化设置，例如位置、形状、大小、颜色等。<br></li><li>能一直半透明显示在屏幕最前端，但是不会影响您的任何操作，适合在游戏和工作的时候同时使用。<br></li><li>支持主题预设，一键切换主题。<br></li><li>超低资源占用，轻便快速。<br></li><li>可以与Steam其他游戏和软件同时使用。</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/header.jpg?t=1577013232",
+    "developers": [
+      "RainySoft"
+    ],
+    "publishers": [
+      "RainySoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 6,
+      "total_negative": 3,
+      "total_reviews": 9
+    }
+  }
+}

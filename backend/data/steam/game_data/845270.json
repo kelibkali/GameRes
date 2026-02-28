@@ -1,0 +1,97 @@
+{
+  "845270": {
+    "name": "Mirror Drop",
+    "steam_appid": 845270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mirror Drop is a psychedelic 3D puzzle game where you maneuver a reflective sphere in a world full of mirrors, over-saturated colors, and infinities. Each level contains three puzzles and a hidden exit, set against 100% raytraced alien geometry.<br><br><ul class=\"bb_ul\"><li>25 levels<br></li><li>3+ hours of content<br></li><li>3 save slots (auto-saves after each level)</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/845270/header.jpg?t=1719410065",
+    "developers": [
+      "Ian Lilley"
+    ],
+    "publishers": [
+      "Ian Lilley"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Reflection Depth 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/2efe51335483c842def6854db4dce4d14ba43937.jpg"
+        },
+        {
+          "name": "Reflection Depth 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/a69922354493902101f28f10550f6de2c8437503.jpg"
+        },
+        {
+          "name": "Reflection Depth 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/54c71b4168bfa0e265e648afc174d2c7c464f016.jpg"
+        },
+        {
+          "name": "Reflection Depth 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/65a5ea4c283b2237c5f0c1579736e14ba0280d10.jpg"
+        },
+        {
+          "name": "Self Reflection",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/22a8cb4880a66730695b56075e9bf4184517c7a1.jpg"
+        },
+        {
+          "name": "Total Internal Reflection",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/deb8e38365dcd8e3aa966a946ed4b7a42a848dc6.jpg"
+        },
+        {
+          "name": "Master Movemaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/845270/d29136a540b7a73857318811ca16275bae1c54fc.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

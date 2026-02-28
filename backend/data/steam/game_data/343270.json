@@ -1,0 +1,73 @@
+{
+  "343270": {
+    "name": "Disillusions Manga Horror",
+    "steam_appid": 343270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Summary : First person horror story, manga character art, 3D visuals and multiplayer.<br><br>- Made by one guy in an Attic and his girlfriend, in their spare time.<br>- This game was made for iPod touch many years ago, and brough to PC/Steam by popular demand, expect the game to be of mobile quality.<br>Thank you for taking interest, please remember to rate and review, and record yourselves if you can! ^_^<br><br>• <strong>Explore</strong> in <strong>first person</strong> to proceed in the <strong>horror</strong> story.<br>• Featuring 2D <strong>anime</strong> <strong>manga</strong> style character art and <strong>3D environments</strong>.<br>• Control two characters, DiS and Sui, see how their <strong>story</strong> connects.<br>• Dark, gritty surroundings and eerie audio effects for <strong>atmospheric</strong> gameplay.<br>• Retro indie horror, with a story to kill for.<br>• Sandbox <strong>multiplayer</strong>, place traps, chat and scare other players! **<br>• Exploring, trap and chat in all 4 chapters with the multiplayer! **<br><br>- DiS and Vigil are two friends who visit the haunted residence the newspapers have been covering recently. Unbeknownst to them, however, the place is not as abandoned as the press makes out... <br>- Be drawn into exploring the mysterious past of the psychotic murderer who once called the place home?<br>Visit the original crime scene with Police girl Sui, solve and see how she is involved with the story! Has she been hiding something, are DiS, Sui and Vigil connected somehow? <br><br>* DK2 Oculus rift tested and working for mac/windows.   With    pre-0.6.0  SDK   (Consumer version does not work).<br>** Currently Chapter 4 is not playable with Oculus VR, occasionally some multiplayer chapters may be unavailable.<br><br>- - - Change Log - - -<br><br>12 Feb 2015 :<br>Various Map and GUI adjustments<br>Player max now 64 (lobby)<br>Top 50 scores show instead of 100, to load faster<br>Thinner player collider on multiplayer<br>Events do not delete themselves after set time if triggered<br>Added backup quitting incase no network to disconnect from<br>Fixed buttons and added Low quality setting to multiplayer maps<br>Floor falling fixes in multiplayer<br><br>2 Feb 2015 :<br>German and Japanese translations improved (thanks Shervrar and Shinji-coo-K)<br>Added Multiplayer / Chapter 4  (V1.0)<br>Slightly longer sprint and faster recovery time<br>Layout aspect ratio size improvements throughout<br>Final form Sui only shows after completing chapter 3<br>Back button appears sooner<br>Chapters scoring adjusted<br>Credits updated<br>Grammar fixes<br>Skip button added to intros (chapter 1 and 4)<br>Touch screen pause button hides on PC version<br>Minor map adjustments<br>Footsteps and Traps stay spawned for longer<br>Chapter 4 map slightly smaller so you can find players easier<br>Chapters 1 2 and 3 converted to multiplayer and playable",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343270/header.jpg?t=1499584049",
+    "developers": [
+      "StephenAllen"
+    ],
+    "publishers": [
+      "StephenAllen"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 1 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 2,
+      "total_negative": 4,
+      "total_reviews": 6
+    }
+  }
+}

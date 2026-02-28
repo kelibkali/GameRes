@@ -1,0 +1,121 @@
+{
+  "948320": {
+    "name": "Dragon Simulator Multiplayer",
+    "steam_appid": 948320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "魔龙模拟器多人版<br />\r\n<br />\r\n欢迎来到魔龙的世界。《魔龙模拟器多人版》是一个3D模拟游戏，你可以在PVP模式中与其他魔龙战斗，或者杀掉从地面射击的AI角色。你也可以玩合作游戏模式，你必须杀死僵尸并收集他们的灵魂。<br />\r\n<br />\r\n特色<br />\r\n可操纵的巨龙<br />\r\n3张地图可以游玩<br />\r\n多样的魔龙皮肤<br />\r\n多种魔龙攻击：火球，火焰吐息，还有特殊的<br />\r\n4种游戏模式：死亡竞赛，团队死亡竞赛，大逃杀，僵尸模式（合作）<br />\r\n白天和夜晚时间选项",
+    "supported_languages": "英语, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948320/header.jpg?t=1685799824",
+    "developers": [
+      "FreezeNova"
+    ],
+    "publishers": [
+      "FreezeNova"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First Blood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/ca495aef03768d281be9ce232acfbf6449d3c0e8.jpg"
+        },
+        {
+          "name": "15 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/e9098d91cd644a46dc8078e53a709190da0fa90b.jpg"
+        },
+        {
+          "name": "30 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/45ec1edfcd7018e28c46a31e134000f7d86b302f.jpg"
+        },
+        {
+          "name": "50 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/ef1798058e2f900eaf6ddb66d15674d15e5d03ef.jpg"
+        },
+        {
+          "name": "65 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/478ee340572dbc4bf05c643368c2c480ed1bcbd2.jpg"
+        },
+        {
+          "name": "80 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/d491450d96a0d2d5b258fb2e926939422189b564.jpg"
+        },
+        {
+          "name": "100 Kills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/948320/f29f5571ab29f5894ce339f837d72e9f1db75364.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    }
+  }
+}

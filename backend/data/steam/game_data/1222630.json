@@ -1,0 +1,94 @@
+{
+  "1222630": {
+    "name": "RetroArch - Beetle PSX",
+    "steam_appid": 1222630,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Beetle PSX emulates a popular 32bit game console released in the mid '90s.<br><br>Notable features:<br><br><ul class=\"bb_ul\"><li>PBP and CHD file format support, developed by Zapeth<br></li><li>Software renderer internal resolution upscaling, implemented by simias<br></li><li>Vulkan and OpenGL renderers<br></li><li>High-resolution texture replacement<br></li><li>PGXP<br></li><li>Dynamic recompilers for increased performance</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语, 希腊语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 西班牙语 - 拉丁美洲, 瑞典语, 土耳其语, 越南语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222630/header.jpg?t=1677706112",
+    "developers": [
+      "Libretro"
+    ],
+    "publishers": [
+      "Libretro"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

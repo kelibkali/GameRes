@@ -1,0 +1,44 @@
+{
+  "1464460": {
+    "name": "Qip",
+    "steam_appid": 1464460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Qip 是一个游戏存档版本控制软件，灵感来自流行的版本控制系统（如 Git 和 SVN），旨在使您的存档数据备份和切换更加容易和便捷。<br><br>您可以使用 Qip 来管理您的游戏流程，随时提交和切换存档来重复体验游戏流程，在任意提交处创建分支，完整体验复杂的游戏故事线而不用手动复制存档或重新开始游戏。除此之外，Qip 将您的存档提交保存在指定文件夹，若您的存档遭遇任何损坏，您可以使用 Qip 轻松切换到早期未损坏的存档，避免耗费大量时间从头开始游戏。<br><br>Qip 也可用于轻量的文件版本控制，适用于小型文件素材管理。因为 Qip 不具备分支合并等复杂的功能，因此若您有复杂的需求，请使用 Git 或 Subversion 等专业软件。<h2 class=\"bb_tag\" >Qip 可以做什么？</h2><ul class=\"bb_ul\"><li>在安全的地方创建一个存放游戏存档历史的仓库。<br></li><li>当你想备份存档以便来日再玩时，创建一个提交并留下一些有用的信息。<br></li><li>当你想重玩以前的存档时，找到那个提交并检出，当前的存档会被替换成提交的存档。<br></li><li>当你想改变以前在游戏中的选择时，检出存档并重新选择，然后在新分支上创建一个提交。</li></ul><h2 class=\"bb_tag\" >功能：</h2><ul class=\"bb_ul\"> <li>提交（Commit）：将您的保存保存到统一存储库。<br></li><li>提交消息（Commit Message）：记录提交信息。<br></li><li>检出（Checkout）：切换到任何已提交的保存。<br></li><li>分支（Branch）：从任何提交创建新分支，代表从该提交开始的新故事线。<br></li><li>事件（Event）：创建事件以定位游戏过程中的重大事件，例如游戏进入二周目或击败 Boss。<br></li><li>标签  (Tag) ：添加标签以获得更好的搜索和过滤体验。<br></li><li>树图（Tree Graph）：通过树形图可以轻松获得游戏历史概览。<br></li><li>增量备份：未改变的文件不会被复制，以节省磁盘空间。</li></ul><br>Qip 使用 SHA-1 进行文件校验，因此几乎不可能遗漏最小的更改。所有游戏存档和文件夹结构都保存到用户定义的存储库（Depot）中的统一仓库（Repository）中，该存储库可以轻松地转移和备份到任何位置。使用 Qip，备份和还原游戏存档将不再是一件繁琐的工作。您只需点击按钮并输入提交消息，Qip 便会自动完成剩余工作，快速创建结构清晰的提交树。<br><br>下图显示了 Qip 的工作原理：<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1464460/extras/728038a0da696268b96d6641eed2a5b4.avif?t=1618307740\" width=575 height=456 /></span>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1464460/header.jpg?t=1618307740",
+    "developers": [
+      "Evade Game"
+    ],
+    "publishers": [
+      "Evade Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 12 月 3 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

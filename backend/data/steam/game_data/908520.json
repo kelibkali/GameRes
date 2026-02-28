@@ -1,0 +1,65 @@
+{
+  "908520": {
+    "name": "fpsVR",
+    "steam_appid": 908520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. Easily change SteamVR settings in the fpsVR settings overlay in the SteamVR dashboard. Headset cable twist tracking and other useful features.</p><p class=\"bb_paragraph\" >                </p><p class=\"bb_paragraph\" >Features include:</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Display of the current  FPS and the average FPS for VR session</p></li><li><p class=\"bb_paragraph\" >Display of the GPU &amp; CPU usage (and Max CPU/Thread Usage - the maximum instantaneous usage among all threads/cores in the system)</p></li><li><p class=\"bb_paragraph\" >Display of the GPU MEM &amp; RAM usage</p></li><li><p class=\"bb_paragraph\" >Display of the GPU &amp; CPU frametimes </p></li><li><p class=\"bb_paragraph\" >Display of the GPU temperature and CPU temperature (Experimental feature)</p></li><li><p class=\"bb_paragraph\" >Display of the Ratio of reprojected frames to presented frames, Display of the number of dropped frames</p></li><li><p class=\"bb_paragraph\" >Display of the current time and duration of the VR session</p></li><li><p class=\"bb_paragraph\" >Display the batteries charge of the controllers (and Vive trackers) in percentages.</p></li><li><p class=\"bb_paragraph\" > Ability to set default playback and record devices, ability to mute/unmute the microphone using VR headset proximity sensor, ability to change Steam VR audio settings</p></li><li><p class=\"bb_paragraph\" >SteamVR Supersampling settings &amp; Motion Smoothing settings</p></li><li><p class=\"bb_paragraph\" >Сable tracking feature.</p></li><li><p class=\"bb_paragraph\" >Display the status of the microphone, microphone control: mute / unmute</p></li><li><p class=\"bb_paragraph\" >Ability to change the size and the opacity of the overlay window, Ability to attach the overlay window to the controllers, Ability to hide the overlay window</p></li><li><p class=\"bb_paragraph\" >Center marker - displays a marker that represents the center of the playspace.</p></li><li><p class=\"bb_paragraph\" >Ability to attach the overlay window for seated positions in seated games/apps (for auto/flight-sims)</p></li><li><p class=\"bb_paragraph\" >Automatically start fpsVR when SteamVR starts (optional), Automatically minimize the window after start (optional)</p></li><li><p class=\"bb_paragraph\" >Hide the window to Windows tray in minimized state (optional)</p></li><li><p class=\"bb_paragraph\" >Ability to reset statistics at any time for benchmarking/testing</p></li><li><p class=\"bb_paragraph\" >Ability to save the history of VR sessions and view it in the fpsVR History Viewer (included)</p></li><li><p class=\"bb_paragraph\" >Timer, Alarm.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >For more information, see the forum topic &quot;fpsVR Q&amp;A&quot;</p>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908520/header.jpg?t=1737491094",
+    "developers": [
+      "SBSoftLab"
+    ],
+    "publishers": [
+      "SBSoftLab"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 9 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 56,
+      "total_negative": 1,
+      "total_reviews": 57
+    }
+  }
+}

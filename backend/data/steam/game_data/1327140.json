@@ -1,0 +1,44 @@
+{
+  "1327140": {
+    "name": "Visciple29er",
+    "steam_appid": 1327140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Visciple29er is a face tracking application that uses face detection technology.<br />\r\n<br />\r\nIt operates as a pseudo controller and can be used as a XInput  general purpose device.<br />\r\n<br />\r\nIt tells the pseudo controller the yaw, pitch, roll, distance, lean, and estimated gaze coordinates from the face position.<br />\r\n<br />\r\nAssignment:<br />\r\nYaw: Right analog stick X<br />\r\nPitch: Right analog stick Y<br />\r\nRoll: Analog trigger LR<br />\r\nDistance: Left analog stick Y<br />\r\nLean: Left analog stick X<br />\r\nPupil：HAT switch<br />\r\n<br />\r\nFAQ<br />\r\n<br />\r\nQ:  This application network communication?<br />\r\nA:  It works without network communication.<br />\r\n<br />\r\nQ:  What kind of webcam do you recommend?<br />\r\nA:  Recommend a camera with Pan/ Tilt/ Zoom (PTZ) .",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1327140/header.jpg?t=1608352920",
+    "developers": [
+      "Xanaly Products LLC"
+    ],
+    "publishers": [
+      "Xanaly Products LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 12600,
+      "final": 12600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 126.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 21 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

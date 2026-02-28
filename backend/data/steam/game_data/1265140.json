@@ -1,0 +1,89 @@
+{
+  "1265140": {
+    "name": "Get Gem",
+    "steam_appid": 1265140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265140/extras/9786f46a26a0c904b932677ad7fad1bd.avif?t=1730991847\" width=616 height=256 /></span><br><br>简单的3D第三人称视角搜索游戏。<br>操纵13岁的Saya和23岁的Saya在祖父在乡下的豪宅中找到珠宝。<br><br>适合所有年龄段的轻型游戏。<br>不适合核心游戏玩家或射击者。<br><br>游戏特色<br>3D第三人称视角游戏。 （请注意，因为它不是射手。）<br>从头开始创建的关卡设计。<br>乡村豪宅的气氛。<br>您所要做的就是在豪宅中获取所有宝石。<br>有32件珠宝。<br>操作简单。 只有两种类型的操作：“行走”和“获取珠宝”。<br>您无法执行“奔跑”，“跳跃”，“蹲下”或“开枪”之类的操作。<br>当玩家接近时，门会自动打开和关闭。<br>保存加载功能（1个保存插槽）<br><br>1级：Saya 13岁时，她和祖父一起住在该国的豪宅中。 她祖父的爱好是收集珠宝，但是她总是被骂，因为她找到了并将珠宝存放在他的豪宅中。<br>2级：从那时起已经过去了10年。 萨亚开车去了曾经和爷爷住在一起的豪宅。<br><br>控件<br>步行：W，A，S，D<br>获取宝石：E<br>相机：鼠标<br>暂停菜单：ESC<br><br>Xbox控制器<br>行走：左摇杆<br>获得宝石：X<br>相机：右摇杆<br><br>控件（迷你游戏拼图）<br>鼠标滚轮：相机变焦<br>鼠标拖动：相机移动，拼图块移动",
+    "supported_languages": "日语, 英语, 法语, 德语, 西班牙语 - 西班牙, 泰语, 越南语, 简体中文, 繁体中文, 韩语, 意大利语, 葡萄牙语 - 葡萄牙, 丹麦语, 土耳其语, 波兰语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265140/header.jpg?t=1730991847",
+    "developers": [
+      "Sonic-Alpha"
+    ],
+    "publishers": [
+      "NS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 5 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Get Gem",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1265140/b147c536b7aa41b8e4be22e1fa8dfc075b57d086.jpg"
+        },
+        {
+          "name": "Get Gem 1级完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1265140/3d2745900e597934b670d71cf805273ae1d9c74b.jpg"
+        },
+        {
+          "name": "Get Gem 2级完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1265140/4b7a10a20f76fa072abe48158a2078d008a50b50.jpg"
+        },
+        {
+          "name": "你发现零泉水",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1265140/490c05eafa71127c389296329666be60a948154f.jpg"
+        },
+        {
+          "name": "迷你游戏完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1265140/50a80228be17b105d6bd58bfb094bedf21080a20.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

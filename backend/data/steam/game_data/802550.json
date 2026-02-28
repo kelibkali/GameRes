@@ -1,0 +1,109 @@
+{
+  "802550": {
+    "name": "war1:various fighters",
+    "steam_appid": 802550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "各色人等是一款策略类的小游戏，玩家需要在游戏中即时的选择不同特性的战士与敌人对攻，游戏提供了16种不同属性的战士，在恰当的时机选择恰当的战士是赢得游戏的关键，游戏目前有90各关卡，如果将所有战士的等级升级到5，一种新的挑战模式将开启，游戏中有16个成就。<br />\r\n<br />\r\n游戏玩法：<br />\r\n在每一关开始前，你需要选出在游戏中使用的三种战士，游戏开始后这些战士会自动的生成与电脑生成的战士对攻，你可以根据战场的情况调整战士的种类来获得胜利。<br />\r\n<br />\r\n战士信息：<br />\r\n1、弓箭手<br />\r\n2、侍卫<br />\r\n3、巨人<br />\r\n4、弓弩手<br />\r\n5、女镖师（技能：多重攻击）<br />\r\n6、重锤（技能：攻击附加伤害）<br />\r\n7、相扑(技能：范围攻击)<br />\r\n8、盔甲战士（技能：反弹近战伤害）<br />\r\n9、狂刀（技能：当敌人人数多于己方时攻速加倍）<br />\r\n10、魔法师（技能：弹射魔法球）<br />\r\n11、角斗士（技能：吸血）<br />\r\n12、忍者<br />\r\n13、女巫（技能：禁锢）<br />\r\n14、长矛手<br />\r\n15、双手剑士（技能：一定概率双倍攻击）<br />\r\n16、武者",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802550/header.jpg?t=1635718279",
+    "developers": [
+      "herun"
+    ],
+    "publishers": [
+      "herun"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "bodyguard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/acaff3de62c5045e7542d389b1d7177cbc52f133.jpg"
+        },
+        {
+          "name": "spearman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/c2b0bc4317aa5923b40c1d9dd8f25dbaba7858ec.jpg"
+        },
+        {
+          "name": "Giant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/1e6a5d1a6810e4ca09c8c8ae1f59f8d4c35b0cb6.jpg"
+        },
+        {
+          "name": "archer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/2cdd95e629366aff8937729bb084b31a1749711f.jpg"
+        },
+        {
+          "name": "crossbowman",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/d8ecb42a5a10a05a485a970ba30e0fca4bcca0fe.jpg"
+        },
+        {
+          "name": "sumo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/baabb3b5ff3411f6303d656455b21e742bf59046.jpg"
+        },
+        {
+          "name": "slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/b8f33df474d3ce197a241771dcf7ef885469f6e8.jpg"
+        },
+        {
+          "name": "mage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/43e90ee9d4d0552ebf58cfa7421d7cace2bd06d8.jpg"
+        },
+        {
+          "name": "sorceress",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/f214600cdf5ccaf06164fed137d2ebd57ea7f30e.jpg"
+        },
+        {
+          "name": "female warrior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802550/36ac540f624cbd7f29118c491197001d66d4bab1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

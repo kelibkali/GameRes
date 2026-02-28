@@ -1,0 +1,117 @@
+{
+  "340150": {
+    "name": "Basement",
+    "steam_appid": 340150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Basement 是一个策略游戏，你必须从事地下交易才能赚钱，并以此开发梦想游戏。要与其他帮派，警察，疯狂的毒鬼，神秘的投资者甚至往事的幻影打交道并非易事。 <br />\r\n你将从你老伯父的地下室开始，然后迅速了解到毒品交易的世界是多么复杂和不可预测。 扩大影响力，大批量出售，雇用专业人才，获得优质设备和武器，提高产量并实现梦想。",
+    "supported_languages": "英语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/340150/header.jpg?t=1584560370",
+    "developers": [
+      "Halfbus"
+    ],
+    "publishers": [
+      "Halfbus"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 11 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "Slowbro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/6130c038b679284ecdda7489edc6656b605e5472.jpg"
+        },
+        {
+          "name": "Skilled hustle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/e9971daa73bce4022b6835081dee444a61ee49a0.jpg"
+        },
+        {
+          "name": "Herbal treatment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/891ed0aa43d03e284430b10bc7b8b51cbff9bd6f.jpg"
+        },
+        {
+          "name": "Wimp",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/9eb4845932db5e53b521089066643f287fda493f.jpg"
+        },
+        {
+          "name": "Full pockets of money",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/60f65a948aa4c6c1339331ceeeab17f47c76e860.jpg"
+        },
+        {
+          "name": "Raider",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/7aa439c21d69913da3edeeaeb86fdaea62a5d83c.jpg"
+        },
+        {
+          "name": "Bro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/50af210a92cc70933b01bbc34aa498c33dbd30f4.jpg"
+        },
+        {
+          "name": "Not bad, you could do it!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/ae380b2856e3178671114125b134ff62322709da.jpg"
+        },
+        {
+          "name": "Dude",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/a502b7637022a6a25f933e94af01b224ac249ae7.jpg"
+        },
+        {
+          "name": "MFKR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340150/92c31c2f47559d6bb5bd494b468153cd3944c447.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 4,
+      "total_negative": 6,
+      "total_reviews": 10
+    }
+  }
+}

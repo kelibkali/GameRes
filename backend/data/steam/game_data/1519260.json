@@ -1,0 +1,50 @@
+{
+  "1519260": {
+    "name": "ELLE the EndLess LEarner: ELLEments of Learning",
+    "steam_appid": 1519260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The ELLE project is a student-developed project whose objective is to experiment and design a platform that language instructors can use to custom-build interactive learning content for their classes and to test the effectiveness of gamified language learning. The platform is broken up into several interactive learning games that allow its users to practice and learn language, utilizing the PC, Mobile (Android and iOS), and VR mediums.<br />\r\n<br />\r\nSpin N Spelle is a game where players spell out the translation of a term using alphabet blocks (Fig. 2). Each controller commands a magic wand that can select, spin, and place the block on a shelf beside the term to be translated. Accents and special symbols (such as the Portuguese ç and é) <br />\r\nare created by adding an accent sticker to the block in the appropriate location. Players can use one hand to hold the block and the other to place the sticker, or they can press B on the controller to “freeze the physics” in the game world, let go of the block and it will stay in the air while they use the same hand to place the sticker. These features were designed to increase accessibility and user experience. The game can be played in “endless” or “quiz” mode. In endless mode, five shelves for placing blocks that translate five different terms are presented at one time. After a term is spelled correctly, the shelf lights up then disappears (like a completed row in Tetris) and a new one appears, randomly selected from the database. This continues until the player decides to exit the game. In the quiz mode, the game is played the same way, with the variation that the player sees each term only once. <br />\r\n<br />\r\nHighrise Hellep is a firefighting game where the player is a firefighter (Fig. 3). A category (adjectives, food, etc.) appears on a road sign, and the player must direct a firehose and its stream of water where a foreign language term that belongs in that category is displayed on a balcony that is on fire. After the player sprays water on all terms in the building that match the category, a green checkmark appears on the sign,  and a new category appears. This game also has endless and quiz modes that mirror those in the block game.<br />\r\n<br />\r\nCurrently only supports the Oculus Quest II.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519260/header.jpg?t=1620777835",
+    "developers": [
+      "gameslabucf"
+    ],
+    "publishers": [
+      "gameslabucf"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

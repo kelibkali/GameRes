@@ -1,0 +1,121 @@
+{
+  "1585230": {
+    "name": "CorePiercer",
+    "steam_appid": 1585230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "因为太阳辐射的增强，地表即将无法维持生命，未来人们需要移居地底。因此，科学家研发了高科技列车，可以有效率地穿梭于地底，也需要有第一批人协主进行实验，探索地心并学习如何在地底生存。<br />\r\n已知，地心是个高温高压的环境，因此降温是个首要问题。另外也可能面临地下水，暗流，熔岩流以及坚硬的岩层等。<br />\r\n为了提升探索的深度，你必须强化你的车厢，提高补给能力，以及各种设备的提升。<br />\r\n须注意你的油料，如果没油了，就只能用备用电力缓慢地前进。<br />\r\n钻头有两种可以提升的科技，更坚硬的钻头可以钻破更硬的岩层，震动的钻头可以提升打碎石头或是矿物的速度。<br />\r\n补给车厢，包含水与油料，另外加挂货物车厢可以增加载货量。<br />\r\n要在水中行驶的话，建议加挂涡轮车厢，可以提升行进速度。<br />\r\n如果你的资源够，还能够建造地下铁车站，就不用每次都爬到地面上来补给了。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 乌克兰语, 瑞典语, 简体中文, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 越南语, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585230/header.jpg?t=1709311017",
+    "developers": [
+      "xe2050"
+    ],
+    "publishers": [
+      "WELOVEBOT CO., LTD."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 4 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "Oil refinery",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/1ff7fddafa64ec38a9721b37f5dc67fa5831f0e5.jpg"
+        },
+        {
+          "name": "Fuel car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/b6931357780dbbec16c9539437ba5cc43a42e963.jpg"
+        },
+        {
+          "name": "Battery car A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/ce2c7f3e47d6dbc849b87bd8b4d0ddcc318c2b70.jpg"
+        },
+        {
+          "name": "Tracked car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/a1ca9f81ba9921035cf9ffff141c916f256315d8.jpg"
+        },
+        {
+          "name": "Cargo car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/d76e5e28d25fbfffee76a089e27eefe41b03ecaa.jpg"
+        },
+        {
+          "name": "Engine car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/e9a331013b0be8b21e031509a0870aa3f53280e5.jpg"
+        },
+        {
+          "name": "Pump car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/2fdc3f1d6f79c65d4b905c34ff820f91d75405be.jpg"
+        },
+        {
+          "name": "Liquit-N2 car",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/9ff32173b8c7135aa27e5d7af4a2cbb8f2630c2d.jpg"
+        },
+        {
+          "name": "Water car B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/1bd83694438075dd87e7c091b39ddb0b5ede355f.jpg"
+        },
+        {
+          "name": "Water car A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1585230/f6c92714f34d442d5ee9bc71f9ee02ff6e611e1c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

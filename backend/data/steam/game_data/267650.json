@@ -1,0 +1,93 @@
+{
+  "267650": {
+    "name": "Android Exporter for Clickteam Fusion 2.5",
+    "steam_appid": 267650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Ride the wave of creativity with the ever increasingly popular Android platform from Google. Developing Android applications using Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer the Android export module gives you the power to create quality apps for Android quickly and effectively.<br><br>Using our unique drag and drop interface and the amazing event line editor you can create any kind of 2d game or app you can imagine for Android powered phones and Tablets. After your creation is complete simply click “Build &amp; Run” and a APK file will be generated and installed on your test device all with one click (Auto Install supported on most devices).<br><br>Get into one of the fastest growing mobile software markets now with Clickteam Fusion 2.5 and the Android Exporter.<br><br><i>What do you need to create an Android application<br><br>You need to install Android Studio. After Android Studio is installed, open Clickteam Fusion 2.5, open the Preferences, select the General tab, and then select the Android exporter in the exporter list. You need to indicate the pathname of the Java SDK and the pathname of the Android SDK. Both are installed by Android Studio.<br><br><ul class=\"bb_ul\"><li>1. The Java SDK is usually installed in the jre sub-directory of Android Studio, by default C:\\Program Files\\Android\\Android Studio\\jre. Verify this directory exists on your machine and use it as &quot;Pathname of the JDK directory&quot; in the preferences of Clickteam Fusion 2.5.<br></li><li>2. The Android SDK is usually installed in your local Application Data directory, by default in C:\\Users\\YourName\\AppData\\Local\\Android\\Sdk. Replace YourName by your Windows user name. Verify this directory exists on your machine and use it as &quot;Pathname of the Android SDK directory&quot; in the preferences of Clickteam Fusion 2.5. If you can't find the mentioned folder, open Android Studio, open its Settings and select Android SDK in the list. The pathname of the Android SDK will be displayed in the Android SDK Location box.</li></ul><br>And later when you want to release applications:<br><br><ul class=\"bb_ul\"><li>1. You will need a certificate to sign your applications before being able to release them.<br></li><li>2. If you want to publish applications on the Android Market, you will need to register a developer account on  ($25). </li></ul></i>",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267650/header.jpg?t=1669177521",
+    "developers": [
+      "Clickteam"
+    ],
+    "publishers": [
+      "Clickteam"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 24800,
+      "final": 24800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 248.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2013 年 12 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

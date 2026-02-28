@@ -1,0 +1,65 @@
+{
+  "1011470": {
+    "name": "PacketStorm",
+    "steam_appid": 1011470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Many years ago, I learned about Dijkstra's algorithm - the fundamental building blocks of how the internet works. I was fascinated by these, and attempted to implement it myself. I had such fun (because I'm quite frankly a massive nerd) messing about with nodes and graphs that I decided to turn it into a game, written using DirectX 5 and C++. Years later, I ported it to XNA, but didn't finish it. Years LATER, I ported it once more to Unity, and after over a decade of off-on development, I'm proud to release the relaxing and zen-like PacketStorm.<br />\r\n<br />\r\nIn PacketStorm, you play an AI developing a new Internet Service Provider. Each game takes place over a few second of game-time, but potentially many hours of realtime. Buy up routers, upgrade cable networks and deal with packet jams as you earn money to research new and better upgrades. Move from running a small ISP over England to one spanning the entire world.<br />\r\n<br />\r\nFREE BONUS - Learn the names and locations of almost every city in the world. It's like learning, but fun!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1011470/header.jpg?t=1570352734",
+    "developers": [
+      "ProjectorGames"
+    ],
+    "publishers": [
+      "ProjectorGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

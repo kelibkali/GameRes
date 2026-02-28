@@ -1,0 +1,85 @@
+{
+  "1443260": {
+    "name": "Endless",
+    "steam_appid": 1443260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Endless 一 款休闲游戏，您可以控制一个向前飞的黑暗方块，您的任务是躲避飞向您的红色障碍。每经过一个障碍，您就会得到一分。困难在于，如果遇到障碍，您将立即失败并且必须重新开始。同样，障碍物向您飞来的速度会逐渐增加，这需要您做出更快的反应。您可以获得多少积分？<br />\r\n<br />\r\n特征：<br />\r\n<br />\r\n-冥想游戏<br />\r\n<br />\r\n-简约风格<br />\r\n<br />\r\n-轻松的背景音乐<br />\r\n<br />\r\n-顺利难度",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 繁体中文, 简体中文, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1443260/header.jpg?t=1603472416",
+    "developers": [
+      "Sagenta"
+    ],
+    "publishers": [
+      "Sagenta dev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 308,
+      "discount_percent": 72,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.08"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 10 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1443260/575d3e1d6c5f4a8c92a59301ada4337b71349a43.jpg"
+        },
+        {
+          "name": "1k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1443260/f9c25a4375da9aa900513a80239168d47041f594.jpg"
+        },
+        {
+          "name": "End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1443260/c7182a6958b1fa676127f8dd92b2b1d615c38626.jpg"
+        },
+        {
+          "name": "100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1443260/0923ea084346c1e45937a623c4b3eb47fd0ffcfa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

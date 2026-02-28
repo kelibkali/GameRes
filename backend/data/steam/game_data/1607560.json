@@ -1,0 +1,46 @@
+{
+  "1607560": {
+    "name": "Kepler Project",
+    "steam_appid": 1607560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Build Rockets (coming soon)</h2><br>Assemble custom rockets and spaceships from simple parts to find the right combination to reach your objectives!<br>We are developing a custom physics engine to reduce computational load, enabling higher performance for exploding rockets!<h2 class=\"bb_tag\" >Shoot your Rockets into Space (coming soon)</h2><br>Pilot your ship all the way from the launchpad to the surface of distant worlds!<br>This will become reality as soon as the surface and atmosphere simulation are added to our engine.<h2 class=\"bb_tag\" >Explore the Solar System (work in progress)</h2><br>Fly through the Solar System in real scale using our custom orbital engine that support very high accuracy calculations. No more round-off errors!<h2 class=\"bb_tag\" >Non-Impulsive Maneuver</h2><br>Our custom engine let you play with complex maneuvers and original trajectories.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607560/extras/f89affe6ef3791e785e4eb5d4ab242cc.poster.avif?t=1638308399\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607560/extras/f89affe6ef3791e785e4eb5d4ab242cc.webm?t=1638308399\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607560/extras/f89affe6ef3791e785e4eb5d4ab242cc.mp4?t=1638308399\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >features</h2><br><ul class=\"bb_ul\"><li> realistic simulation of orbital dynamics using Kepler laws and patched conics<br></li><li> custom engine aimed for high performance and high precision<br></li><li> smooth orbit rendering even in extreme cases<br></li><li> deterministic simulation independent of time-wrap and SoI changes<br></li><li> efficient physics simulation of ship dynamics using Runge-Kutta 4<br></li><li> support for high time-wraps even while under acceleration<br></li><li> accurate itinerary planning</li></ul>",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607560/header.jpg?t=1638308399",
+    "developers": [
+      "Kepler Project"
+    ],
+    "publishers": [
+      "Kepler Project"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

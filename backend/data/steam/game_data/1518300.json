@@ -1,0 +1,101 @@
+{
+  "1518300": {
+    "name": "Two Guys One Cabin",
+    "steam_appid": 1518300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1518300/extras/ae0124fd8c701bf36374c1c6a3c113ba.avif?t=1616455469\" width=637 height=852 /></span>",
+    "supported_languages": "英语, 俄语<strong>*</strong>, 简体中文, 日语, 德语, 芬兰语, 捷克语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1518300/header.jpg?t=1616455469",
+    "developers": [
+      "TopSkyGames"
+    ],
+    "publishers": [
+      "TopSkyGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "ADVENTURE BEGIN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/119dd4ad2e01aa457e7506486b0bb5279ff037dd.jpg"
+        },
+        {
+          "name": "BIK IS DEAD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/7c2802181f801bdc266ef1331be3fdb727d6fd4b.jpg"
+        },
+        {
+          "name": "LEVSHA IS DEAD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/1db8e9a517e7d169769a9b07ab8857c52b5e30ec.jpg"
+        },
+        {
+          "name": "NAMELESS MONSTER IS DEAD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/2f79327d2bc275118a8651b56044603128b44dec.jpg"
+        },
+        {
+          "name": "Love is strange",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/7af03148abb15bc6ea9565112ec192033535ed6b.jpg"
+        },
+        {
+          "name": "My life my rules",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1518300/b92b7d184f0493c29847b579550e92bb04d44b42.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 30,
+      "total_negative": 5,
+      "total_reviews": 35
+    }
+  }
+}

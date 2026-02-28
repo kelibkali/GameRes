@@ -1,0 +1,110 @@
+{
+  "95900": {
+    "name": "Air Conflicts: Secret Wars",
+    "steam_appid": 95900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "空中冲突：秘密战争是一款街机版的以一战和二战为背景的飞行模拟游戏。玩家需要在其中飞越7场战役并通过49个任务。在起飞前，玩家可以在拥有不同优势和弱点的战机中自由选择。<br>在任务中玩家会接到不同的目标的诸如战场巡逻，侦查情况，突袭敌机，轰炸目标和护航友军。任务目标通过不同角色间的对话下达。在一些任务完成后玩家可以升级多种技能借以更好的掌控战机，提升你的耐力或者拥有更多的僚机。此外，玩家可以在街机模式和拟真模式这两种控制方案中自由选择。前者使游戏较易上手，而后者提供了更多的操作选项来掌控你的飞机。<br>除了战役之外本作将会提供多种多人联机模式，包括最大支持4名玩家的本地和互联网对战。<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li>七场战役，基于二战的抵抗行动改编而来<br> </li><li>动感十足的游戏体验将激动人心的连续作战带给每一个人<br> </li><li>超过二十个不同的场景，每个都拥有独立的高清晰细节<br> </li><li>驾驶超过十六架不同的战机，自由选择一战或者二战设定模式<br> </li><li>扫射你的敌人，进行空中搏斗，轰炸地面目标或者以火箭摧毁敌人的有生力量和载具<br> </li><li>超过48个目标各异的任务提供了攻击，侦查和探索等多种游戏体验<br> </li><li>玩家可以用鼠标，键盘和手柄控制战机<br> </li><li>玩家可以在两种控制方案间选择：街机模式和拟真模式。<br> </li><li>多种多人联机模式，包括最大支持4名玩家的本地和互联网对战</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 意大利语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/95900/header.jpg?t=1447354357",
+    "developers": [
+      "Games Farm",
+      "3Division"
+    ],
+    "publishers": [
+      "Games Farm"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2011 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Siege of Tobruk",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/b5f753985fe8f023aedb79e66bb66bd6bc0f2a96.jpg"
+        },
+        {
+          "name": "Fall Blau",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/9c04263d009b50d6a5ca12d7a76a2774b654c1c3.jpg"
+        },
+        {
+          "name": "Operation Black",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/3ec2f2ced94cc25949f7e020dc08c4f85e699a17.jpg"
+        },
+        {
+          "name": "Operation Belt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/79b82db70675b6dcccb463cc22bb26d9954d0c4e.jpg"
+        },
+        {
+          "name": "Operation Overlord",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/3a0ccd6ca5776c840984f8af6943a9ad61104ffd.jpg"
+        },
+        {
+          "name": "Slovak Uprising",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/18808479244ae004c48b521770a4b024a8233f9c.jpg"
+        },
+        {
+          "name": "Liberation of Balkans",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/75ad5c10773ea41cbadfacf50a2b7cc12dce2616.jpg"
+        },
+        {
+          "name": "All missions",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/bb414affe17477690d6995eb66592ac157bbe7b8.jpg"
+        },
+        {
+          "name": "Bird Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/b259423c55c4067dad1c2f4ce9636c7e86f1b469.jpg"
+        },
+        {
+          "name": "Fighter Ace",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/95900/65896f97c82bcfa459dc689204eeae8db1ac6a45.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 15,
+      "total_negative": 5,
+      "total_reviews": 20
+    }
+  }
+}

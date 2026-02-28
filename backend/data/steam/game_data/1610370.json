@@ -1,0 +1,185 @@
+{
+  "1610370": {
+    "name": "Horror Royale",
+    "steam_appid": 1610370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Prepare for the ultimate horror multiplayer experience:</p><p class=\"bb_paragraph\" >Horror Royale is an online and local multiplayer co-op/PvP survival horror game. Communicate with your friends using proximity chat (but try not to be so loud that the monsters can hear) and use items and your environment to avoid the monsters and survive.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Mods:</h2><p class=\"bb_paragraph\" >Discover player-created monsters, human skins and maps on the Steam Workshop.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Game Modes:</h2><p class=\"bb_paragraph\" ><u>Plunderer</u></p><p class=\"bb_paragraph\" >Find randomly spawning loot before other players in order to get the most points and escape.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>Oddball</u></p><p class=\"bb_paragraph\" >An oddball will spawn on the map, try to find it first or steal it from other players, hold on to it to get enough points to escape and leave everyone else behind.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>Tag</u></p><p class=\"bb_paragraph\" >In tag, a player will start ‘in’ and it is their goal to pass it on to someone else. In this game mode the monsters can only see the player that is ‘in’. In order to survive you have to be the last player standing. Game modifier: Build Up Tag - This modifier means that you will stay ‘in’ after you tag someone else.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>Survive The Night</u></p><p class=\"bb_paragraph\" >Work with your friends to survive until 6AM.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>PvP</u></p><p class=\"bb_paragraph\" >In PvP, your goal is to be the last player standing, ways to get this done include luring the monster to other players using noisemakers and blinding them with flashbangs.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u>Objectives</u></p><p class=\"bb_paragraph\" >Complete objectives scattered randomly throughout the map, all while avoiding the monster, to survive this game mode.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Maps:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >House</p></li><li><p class=\"bb_paragraph\" >Abode</p></li><li><p class=\"bb_paragraph\" >Double Story</p></li><li><p class=\"bb_paragraph\" >Tower</p></li><li><p class=\"bb_paragraph\" >Space Station</p></li><li><p class=\"bb_paragraph\" >Abandoned</p></li><li><p class=\"bb_paragraph\" >Forest</p></li><li><p class=\"bb_paragraph\" >Level 426</p></li><li><p class=\"bb_paragraph\" >Dwelling</p></li><li><p class=\"bb_paragraph\" >Community</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Multiplayer:</h2><p class=\"bb_paragraph\" >Four player split screen and private matches (including LAN) are available to play with friends. You can also host a public game or find a game through quick match or server browser allowing you to play with other people online.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Game Modifiers:</h2><p class=\"bb_paragraph\" >The host will be able to choose a wide variety of different options that can change the game drastically. These options include but are not limited to:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Difficulty</p></li><li><p class=\"bb_paragraph\" >Number of monsters</p></li><li><p class=\"bb_paragraph\" >Types of monsters (Eight different types of monsters that can be toggled on or off)</p></li><li><p class=\"bb_paragraph\" >Fire</p></li><li><p class=\"bb_paragraph\" >Human AI</p></li><li><p class=\"bb_paragraph\" >Up Close and Personal Mode (Get ready for lots of jump scares: you won’t be able to hear the monsters until they’re right next to you) </p></li><li><p class=\"bb_paragraph\" >Blackout (The lights on the map will turn off, meaning players will only have their flashlights to see)</p></li><li><p class=\"bb_paragraph\" >Movement speeds</p></li><li><p class=\"bb_paragraph\" >FOV</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Customisation:</h2><p class=\"bb_paragraph\" >Unlock 35 different skins by levelling up or completing challenges.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610370/header.jpg?t=1762687843",
+    "developers": [
+      "Ben Wade"
+    ],
+    "publishers": [
+      "Ben Wade"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 79,
+      "highlighted": [
+        {
+          "name": "Ah, Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/f25a387ac6695f74864cd54201d3821f886d69fc.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/dfa0c7bd46935f49ac7615151498d66cb78e1f1a.jpg"
+        },
+        {
+          "name": "Survivalist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/a85e7ae3e75e5a9a47911e370782e6b43971d4a4.jpg"
+        },
+        {
+          "name": "Veteran",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/294ebac431cb0230e7b44c7538ca1da2c5893fa7.jpg"
+        },
+        {
+          "name": "Immortal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/e128067b71f0cc015e8a92fef7fceb48831519c3.jpg"
+        },
+        {
+          "name": "Need a Hand?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/0b3f7b2287128bd30722a8f51e90efe368b3693a.jpg"
+        },
+        {
+          "name": "Selfless",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/9aacbc47454b11d47793053684eda8d7365286c9.jpg"
+        },
+        {
+          "name": "I Revive Because I Can",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/5d2b3d9e79065a08ea053893bf2ccfafbc8fc4ae.jpg"
+        },
+        {
+          "name": "Freeze",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/d0a3770421ab8e83cf70589dff31279b9c71aa20.jpg"
+        },
+        {
+          "name": "Stunning!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1610370/c4e3e965cd071cf223e7ae6a3b1d17ffecb87f5c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "714880": {
+    "name": "大乱斗 Chaos Battle",
+    "steam_appid": 714880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "大乱斗是一款类似于大逃杀的游戏,玩家在迷宫中找到并杀手所有的对手就能获取胜利！<h2 class=\"bb_tag\" >故事背景：</h2>宇宙初开，万物渐生，阴阳相分，化身魔神，魔神之争，互斗千年。<br>玩家所在城市遭遇魔兵突袭，神得知后大怒，欲征兵于天下，共同抵抗外侵之敌，主角得知此事后此立誓破敌之军，登神之位!<h2 class=\"bb_tag\" >游戏特色：</h2><ul class=\"bb_ul\"><li>随机的迷宫<br></li><li>Q版风格<br></li><li>打乱职业<br></li><li>操作简单<br></li><li>没有时间限制<br></li><li>聊天互动<br></li><li>抢夺资源</li></ul><h2 class=\"bb_tag\" >后期更新说明：</h2>游戏分为6大阶段也可以说是6种游戏模式，每种模式的开启都需要满足一定的条件，分别为初战，成名，破敌，攻略，攻城，登神。之后还会有一个整合版本。<br>后期会添加大量的游戏元素，包括反派角色以及道具场景。<br>本次上线为初战阶段，玩家通过神的选拔，参加前线战斗。<br>之后预计每个月会更新一个或两个阶段。<h2 class=\"bb_tag\" >特别提醒：</h2>建议刚开始游戏的时候首先要找到装备，这样才能有机会通过神的选拔。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/714880/header_schinese.jpg?t=1515803746",
+    "developers": [
+      "绿叶工作室"
+    ],
+    "publishers": [
+      "绿叶工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "10杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/c334c59a03125650e7db257804ee5dcaf24004d5.jpg"
+        },
+        {
+          "name": "50杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/b0707c39d2ae823fec67e4a9e7e0a67458493fb8.jpg"
+        },
+        {
+          "name": "200杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/69a87178cd647124bde3b71352246abd587990e3.jpg"
+        },
+        {
+          "name": "100杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/81d6179fdd7ed4b13a5c833f629305b47309b6c0.jpg"
+        },
+        {
+          "name": "500杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/4fb927a7dd7a04d006b59d23ea682081bcca9f84.jpg"
+        },
+        {
+          "name": "777杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/c1998247be2b63f17f06ec4b374c71aad574f702.jpg"
+        },
+        {
+          "name": "10胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/9fcc1cb7e75d3ae8e7aeccd7a9495d0ef6d185ba.jpg"
+        },
+        {
+          "name": "50胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/b0defbd580dd854a6146a67cd7eb61f4cf72a980.jpg"
+        },
+        {
+          "name": "200胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/bb9793d93a4f9fe74062cd87bbbe0b49625c58c1.jpg"
+        },
+        {
+          "name": "500胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/714880/7e0e328898a70164c487c47e218c7316d153994d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    }
+  }
+}

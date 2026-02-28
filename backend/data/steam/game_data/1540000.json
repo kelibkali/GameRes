@@ -1,0 +1,73 @@
+{
+  "1540000": {
+    "name": "Mocap Fusion [ VR ]",
+    "steam_appid": 1540000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Motion Capture Fusion [VR]</strong> is an immersive roomscale mocap sandbox for artists and animators who wish to create and export motion capture animations<i>, or create live content</i>, using conventional VR hardware. With as little as a single VR HMD and two controllers users may create mocap on their own avatars. Advanced users may create more detailed motion capture including full body tracking and can be combined with other sensors (eg. Apple IPhone <i>Truedepth sensor</i> and Oculus Quest 2 <i>optical finger tracking</i>) to connect avatars to simultaneous inputs. This fusion of multiple sensor can combine many layers of motion capture in a single take; including: full body tracking, face capture, lipsync, gaze tracking, optical finger tracking. <br><br><strong>Highlights</strong><br><br><ul class=\"bb_ul\"><li>Record motion capture using custom avatars, scenes and props.<br></li><li>Add custom shaders, textures, emotes expressions, dynamicbone physics and more.<br></li><li>Vive pro eye, Vive lip tracking and Iphone ARkit facecap support.<br></li><li>HTC Vive, Valve Index, Oculus Rift, Oculus Quest2, some WMR headsets.<br></li><li>Can be used without VR, trackers only, or with only IPhone head tracking.<br></li><li>Add multiple avatars into a scene, build storyboards, react to other prerecorded avatars.<br></li><li>Camera motion capture and zoom, player acts as the cinematographer in VR.<br></li><li>VTOL and Fixed Wing flight simulation vehicle platforms for aerial photography shots.</li></ul><br><strong>Supported Output Formats</strong><br><ul class=\"bb_ul\"><li>Exports to <strong>SFM</strong> <i>(.dmx)</i>.<br></li><li>Exports to <strong>Blender</strong> <i>(.blend)</i>.<br></li><li>Exports to <strong>Unity</strong> <i>(.anim)</i>.</li></ul><br><strong>Live-Link (live production) and Live-Recording plugins</strong><br><ul class=\"bb_ul\"><li>Live Link plugin available for <strong>Unreal Engine</strong> <i>(live avatar sync, live recording)</i>.<br></li><li>Live Link plugin available for <strong>Blender</strong> <i>(live avatar sync, live recording)</i>.<br></li><li>Live Link plugin available for <strong>Unity</strong> <i>(live avatar sync)</i>.</li></ul><br><br>Include custom avatars and use the avatar throughout the production workflow. This eliminates the need for retargeting and ensures the mocap data always fits 1:1 without causing any offsets in the final results.<br><br>One of the unique features of <strong>Mocap Fusion</strong> is that it has the ability to export motion capture data and reconstruct the scene in Blender, making it available for final rendering in minutes.<br><br><strong>Compatible Headsets (VR HMDs)</strong><br><ul class=\"bb_ul\"><li>Valve Index<br></li><li>HTC Vive <i>(and Vive Pro Eye)</i>.<br></li><li>Oculus Quest <i>(1 and 2)</i>.</li></ul><br><strong>Optional Tracking Hardware</strong><br><ul class=\"bb_ul\"><li>SteamVR Vive trackers.<br></li><li>IPhone Truedepth sensor <i>(facecap and eye tracking)</i>.<br></li><li>Oculus Quest 2 <i>(full optical finger tracking)</i>.</li></ul><br><strong>Capabilities </strong><br><ul class=\"bb_ul\"><li>Export mocap and create scenes in Blender™ instantly.<br></li><li>HTC™ Vive Trackers (Up to 11 optional points) full body tracking.<br></li><li>Ability to record, playback, pause, slomo, scrub mocap in VR.<br></li><li>Customizable IK profiles and avatar parameters.<br></li><li>SteamVR Knuckles support for individual finger articulation.<br></li><li>Quest 2 optical finger tracking app for individual finger articulation and finger separation.<br></li><li>Vive Pro Eye blink and gaze tracking support.<br></li><li>Sidekick IOS Face capture app (Truedepth markerless AR facial tracking).<br></li><li>User customizable Worlds, Avatar and Props may be built for mocap using the APS_SDK.<br></li><li>Compatible with existing Unity3D™ avatars and environments.<br></li><li>Supports custom shaders on mocap avatars.<br></li><li>DynamicBone support for adding hair, clothing and body physics simulation to avatars.<br></li><li>Breathing simulation for added chest animation.<br></li><li>Add/Record/Export VR Cameras for realistic camera mocap (eg. VR Cameraman effect).<br></li><li>Optimization for exporting mocap (.bvh) data to Daz 3D.<br></li><li>Placement of &quot;streaming&quot; cameras for livestreaming avatars to OBS or as desktop overlays.<br></li><li>Microphone audio recording with lip-sync visemes and recordable jaw bone rotation.<br></li><li>Storyboard mode, save mocap experiences as pages for replaying or editing later.<br></li><li>Animatic video player, display stories and scripts, choreograph movement.<br></li><li>Dual-handed weapon IK solvers for natural handling of carbines.<br></li><li>Recordable VTOL platform for animating helicopter flight simulation (eg. news choppers).<br></li><li>VR Camcorders and VR selfie cams may be rigidly linked to trackers.<br></li><li>VR props and firearms may be rigidly linked to trackers.<br></li><li>Ghost curves for visualizing the future locations of multiple avatars in a scene.</li></ul><br><strong>Gameplay</strong><br>The experience depends on the user's PC and the tracking hardware used. The recommended <i>SteamVR</i> headsets are the Valve Index or the HTC Vive. A Quest HMD may also produce reasonable results. <i>It is also possible to use the software without an HMD (eg. when livestreaming).</i> Full body tracking is only available when using feet and hip trackers (and optional elbows, knees, chest). Users may achieve more realistic tracking results when using body trackers. Body trackers are optional and standing mocap is supported. Further realism my be achieved on compatible avatars by also enabling face capture or using a Vive Pro Eye for gaze and blink tracking.<br><br><strong>History</strong><br>Originally this was designed as an intuitive way for users to create virtual training videos and presentation in an immersive VR environment for added realism and then export their animation for rendering. The project was made available to a community for beta testing and since has received feedback and many feature requests which has helped add to the utility of the software for a verity of different creators.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540000/header.jpg?t=1708146572",
+    "developers": [
+      "Animation Prep Studios"
+    ],
+    "publishers": [
+      "Brave Cinema Entertainment LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 33600,
+      "final": 33600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 336.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

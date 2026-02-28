@@ -1,0 +1,42 @@
+{
+  "267130": {
+    "name": "Star Swarm Stress Test",
+    "steam_appid": 267130,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Welcome to the newest frontier in gaming: battles and scenes at the scale of armies and fleets, all active at once with no trickery around loading screens or off-screen abstractions. <br><br>Star Swarm is a real-time demo of Oxide Games’ Nitrous engine, which pits two AI-controlled fleets against each other in a furious space battle. Originally conceived as an internal stress test, Oxide decided to release Star Swarm so that the public can share our vision of what we think the future of gaming can be. The simulation in Star Swarm shows off Nitrous’ ability to have thousands of individual units onscreen at once, each running their own physics, AI, pathfinding, and threat assessments. <br><br>Nitrous uses the power of its proprietary SWARM (Simultaneous Work and Rendering Model) technology to achieve incredible performance on modern, multi-core computer hardware. SWARM allows Nitrous to do things previously thought impossible in real-time 3D rendering, like Object Space Lighting -- the same techniques used in the film industry -- and having thousands of unique individual units onscreen at once.<br><br>Note that Star Swarm is not a deterministic simulation -- the AI and everything else is being computed in real time, so you will get slightly different results from multiple executions even on the same hardware. Unfortunately, achieving 100% determinism with the highly threaded nature of the Nitrous engine is an unrealistic goal. <br><br>The Nitrous engine is already in use for two games currently in production: an unannounced title from Oxide Games and Stardock’s Star Control reboot. Nitrous is also available for licensing to interested game developers. <br><br>You’ve got to see it to believe it. Download Star Swarm for free now to see what your gaming PC can do with the next-generation Nitrous engine.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li> Up to 10,000+ units onscreen at once – Imagine what kind of games can be made when developers can count on simulating battles and scenes at this scale<br></li><li> SWARM technology blows the performance curve – Fully utilizing each hardware CPU or GPU core available, SWARM allows Nitrous to achieve incredible results<br></li><li> Benchmark mode generates performance information – Since Star Swarm is a dynamic simulation rather than a canned demo, run it several times to see what Nitrous’ real-world gaming performance is on your machine <br></li><li> Film-style rendering – Nitrous uses Object Space Lighting, the same techniques used in film, including real-time film-quality motion blur</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/header.jpg?t=1667931126",
+    "developers": [
+      "Oxide Games"
+    ],
+    "publishers": [
+      "Stardock Entertainment"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2014 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

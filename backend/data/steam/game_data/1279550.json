@@ -1,0 +1,54 @@
+{
+  "1279550": {
+    "name": "极限星云",
+    "steam_appid": 1279550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Ultimate Cosmic Nebula is an interactive 3D live wallpaper. You can control and interact with Nebula Effects with your mouse.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Support Workshop,One-Click download online themes<br></li><li>Support Custom Theme, many editing options.<br></li><li>Support interact with mouse.<br></li><li>Support Pause Mode - You can pause wallpaper when you need 100% power for your games.<br></li><li>Optimization - reduced equipment requirements. Low CPU usage.<br></li><li>Multi, wide, 4K screens support - You can choose one of the screens or extend the wallpaper to all screens.  Works smooth at 4K.<br></li><li>Support Taskbar Aero Blur or fully transparent (for Win10) .<br></li><li>Support Windows 7/8/8.1/10</li></ul><h2 class=\"bb_tag\" >FAQ</h2>Q: Why can't I see the desktop icon?<br>A: 1. Make sure your Windows had enabled Aero<br>    2. Adjust Windows System &quot;System Properties&gt;&gt;Performance Options&gt;&gt;Visual Effects&quot; to &quot;Adjust for best appearance&quot;<br>    3. If you have Integrated graphics card,please set the UltimateFluid.exe run with the Integrated graphics card.<br>    4. Please add UltimateCosmicNebula.exe and CoreHost.exe in App folder Path to your AntiVirus Software's Trust-White-List and Restart computer<br><br><br>Q: How to remove Steam Hook?<br>A: Right click the UltimateCosmicNebula tray icon and select the menu item &quot;Preferences...&quot; ,Uncheck the &quot;Enable Steam Support&quot;, Restart UltimateCosmicNebula.<br><br><br>Q: Can I use UltimateCosmicNebula with WallpaperEngine at the same time?<br>A: NO. Live wallpaper software is exclusive. So if they are used at the same time, they will cover each other.<br><br><br>Q: How to Exit/Shutdown UltimateCosmicNebula?<br>A:1. You can exit UltimateCosmicNebula from tray icon menu &quot;Exit&quot; (Screen Bottom-Right corner,near by your WIFI icon).<br>2. if can not found the tray icon, please open the system TaskMgr to kill the processes &quot;UltimateCosmicNebula.exe&quot;",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279550/header.jpg?t=1586179964",
+    "developers": [
+      "UltimateDesktop"
+    ],
+    "publishers": [
+      "UltimateDesktop"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

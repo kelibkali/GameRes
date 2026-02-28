@@ -1,0 +1,53 @@
+{
+  "1553570": {
+    "name": "MineSweeper 3D 三维扫雷",
+    "steam_appid": 1553570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "经典扫雷的三维复刻版本。<br />\r\n一群金黄色的圆球出现在空中，其中一些藏有雷。找出它们！<br />\r\n就像经典的扫雷游戏一样，你可以通过鼠标右击标记某个球为雷，或通过鼠标左击打开它。<br />\r\n当你不小心打开了一个雷，游戏将会结束。如果不是雷，它将告诉你它的周围有多少个雷。<br />\r\n你的目标是将所有不含雷的圆球打开。<br />\r\n<br />\r\n控制方式很简单。在空中飞行，靠近一个球以锁定它，然后通过鼠标对其进行操作。<br />\r\n+ 用 WASD 来前后左右移动<br />\r\n+ 按 C 可降低高度<br />\r\n+ 按 空格 可提升高度<br />\r\n当你靠近一个球，这个球会变亮。然后你可以：<br />\r\n+ 鼠标左键打开它<br />\r\n+ 鼠标右键将其标记为雷<br />\r\n<br />\r\n你可以通过按键 Q 或 Esc 来退出当前游戏或退出整个程序。<br />\r\n<br />\r\n相比经典的二维扫雷，三维扫雷的难度提升了一个档次。对于一位专业的玩家，在二维扫雷中完成一个10雷简单模式通常只需要5秒，但在三维扫雷中完成一局8雷简单模式可能需要长达5分钟。<br />\r\n<br />\r\n如果你认为你是扫雷专家，这里有专门为你准备的的专家模式。只是，玩的时候请小心。<br />\r\n<br />\r\n三维扫雷游戏使用虚幻引擎4制作，为你提供不错的游戏体验及令人满意的视觉效果。身处深山之中，细思雷之走向。玩累了，可以到旁边的房子旁休息片刻，待酒足饭饱再出发。<br />\r\n<br />\r\n祝玩得愉快！",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/header.jpg?t=1709368074",
+    "developers": [
+      "CanFish"
+    ],
+    "publishers": [
+      "CanFish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    }
+  }
+}

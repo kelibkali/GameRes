@@ -1,0 +1,105 @@
+{
+  "1081600": {
+    "name": "Fractal Gallery VR",
+    "steam_appid": 1081600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于</h2>虚拟现实中的分形图库。<br>沉浸在一个舒适的空间中，通过探索数学之美，从日常生活的喧嚣中抽身。<h2 class=\"bb_tag\" >内含什么</h2><br>    100张静态的分形图像。<br>    40张动态的分形图像。<br>    隐藏的秘密。<br>    冥想音轨。<br><br>这个画廊在不断变化，因此您总能找到新的东西。<br><br>将分形图库作为您虚拟现实世界的一部分，沉浸在数学之美中。<h2 class=\"bb_tag\" >支持和更新</h2>作为这个项目背后的唯一开发者，我致力于用更新和新功能积极支持它。我有一些令人兴奋的想法，包括新的分形图、环境细节、物体和隐藏的秘密。<br>这个项目基于UE4。因此，我计划不断提升图形效果，并添加对新VR设备的支持。",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081600/header.jpg?t=1697790005",
+    "developers": [
+      "Pavel Ksenofontov"
+    ],
+    "publishers": [
+      "Pavel Ksenofontov"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 6 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Sacred Place",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/199ef5c52a7ec2761ce61ffaeb5a89ef278d6ce3.jpg"
+        },
+        {
+          "name": "Behave yourself properly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/8ff4fa66b4ce846bb2afbd297e6a0131f13a59b6.jpg"
+        },
+        {
+          "name": "The egg",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/176ef7ab3ccc83ef9b95c15a2c8760bba868d4b1.jpg"
+        },
+        {
+          "name": "Part of the exhibition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/94e3e1429c18c1e34194bb34f8386b07e4112c21.jpg"
+        },
+        {
+          "name": "Lost reading",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/7ddc47ba8cd74039c5f9615ff9d305e87c34843e.jpg"
+        },
+        {
+          "name": "A short road to mushrooms",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081600/cf4212b1a2a9cfcd441dfad9b4d01077544d12d9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

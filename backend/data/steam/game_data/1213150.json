@@ -1,0 +1,105 @@
+{
+  "1213150": {
+    "name": "Break",
+    "steam_appid": 1213150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "I made this as a tribute to my childhood, to all those classic FPS games that I grew up playing like Doom and Quake. I wanted to bring back the feeling of playing those games that I had when I was a kid. I'm just one guy and I'm a programmer not an artist, so I had to rely a lot on open source graphics and sound. But I think if you look past that, you'll find a pretty cool little game.<br />\r\n<br />\r\nBreak is a classic fast paced retro FPS with a custom 2.5D style engine similar to Doom or the Build Engine. It has about 24 non-secret levels, 7 weapons, and a built in editor. The editor is pretty cool, I spent a lot of time refining it. It has a custom scripting language which is intentionally similar to ZDoom's scripting language (and Megazeux's scripting language) to make the transition from ZDoom to Break easy for existing users of ZDoom and GZDoom. <br />\r\n<br />\r\nI designed Break so that people could build their own cool stuff with it. Everything was designed around simplicity and ease of use with a focus on making custom content easily. Break follows a minimalistic philosophy compared to something like ZDoom. I tried to keep everything minimalistic so that it would be as easy as possible to make custom content for. <br />\r\n<br />\r\nI included a lot of quality of life features for creating custom content like easy importing and exporting of maps, incredibly simple file formats, insanely easy texture importing, a what you see is what you get style editor, and so on. Break also has a unique layers system that allows for a kind of 2.75D level design. It has some support for slopes, fences/middles, and lighting, but I tried to keep everything as simple and minimalistic as possible to make all this stuff super easy to use.<br />\r\n<br />\r\nWhenever I played Doom as a kid, I always wanted a built in editor that was fun and easy to use instead of complex and difficult like most level editors were back then. In Break, I tried to create the kind of editor that I always wanted as a kid.<br />\r\n<br />\r\nI didn't want to just throw together another Doom clone. If you really care about those old games, you don't want just another clone. I think you want something lovingly handcrafted. That's why I built a totally custom engine from scratch. This is a game for people who like handcrafted products. I think there is something beautiful in the imperfections that handcrafting something introduces. Maybe handcrafted products are more human that way.<br />\r\n<br />\r\nThis is a game for people who dream about going back to the glory days of Doom and Quake, for people who miss the good old days, for people who want to try to resurrect the past, at least a little. I hope you'll give it a try. It may be a little rough around the edges, but it's a good game, and if you love classic FPS games, then I think you'll like Break too.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213150/header.jpg?t=1642653133",
+    "developers": [
+      "Arcade Artistry"
+    ],
+    "publishers": [
+      "Arcade Artistry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 50,
+      "highlighted": [
+        {
+          "name": "Learning the Ropes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Dragons are Scary",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "The Training Wheels are Off",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Missing Vampire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Wonder what's in those books",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Who builds these things?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Where does everyone sleep?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "What's holding up that hallway?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Expensive water bill, questionable structural integrity",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        },
+        {
+          "name": "Circular Experience",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1213150/77262701407d827d0dda6678ba8e90e5d81bf806.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "1134190": {
+    "name": "tri.Attack();",
+    "steam_appid": 1134190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "tri.About(&quot;<br><br>tri.Attack(); is a 2D arcade game with a theme inspired by classic Atari-era entertainment. As the player, you control a single tri with unique powers compared to other polygons. The tri has the ability to shoot out of your body. Once shot out, the tri can recall back to yourself. This boomerang-like tri serves as your weapon, which you need to use to defeat enemy polygons.<br><br>Several different enemies exist in the game, each giving different amounts of points. The score gained increases for each enemy defeated with a single shot of your tri. Attempt to get as high of a score as possible, unlocking all of the tri variants as you play!<h2 class=\"bb_tag\" >Tri Types</h2><br><strong>Normal</strong>:<br><br>Your first tri! This tri has a great size and will move straight in the direction that you shoot it in. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Triple</strong>:<br><br>They're smaller, but there are three of them! The tris will go in three separate directions of the player. The player can shoot out again once all of the three tris are recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Follow</strong>:<br><br>This tri has homing properties to it, constantly following your cursor, with the caveat that the time for it to automatically recall to the player is less than other tri types.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Sponge</strong>:<br><br>Bigger is better. The tri will start out at a somewhat smaller size, but will increase its size for each enemy that it hits. The size of the tri resets once it is recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br>More tris are included!<br><br>tri.Attack(); is designed and programmed by Demmy Mangusso. Composition is provided by Nick West. Additional programming by Yukon Wainczak<br><br>&quot;);",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/header.jpg?t=1603215129",
+    "developers": [
+      "Demmy Mangusso"
+    ],
+    "publishers": [
+      "Demmy Mangusso"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 10 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "tri.Triple();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/8c5cc7b5e5acebdf992e6a7bcb2978e36ef5129a.jpg"
+        },
+        {
+          "name": "tri.Follow();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/c57abb520385b6d33e8da6ec78cbeb6cc27ce7d2.jpg"
+        },
+        {
+          "name": "tri.Sponge();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/907b03738167508526fb6c17a0dfd0474a031ff4.jpg"
+        },
+        {
+          "name": "tri.Bounce();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/d62482f374125118ac01b75129d049a5367f09c6.jpg"
+        },
+        {
+          "name": "tri.Rapid();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/925b5015413fecb2acf03be7d338472ef65f1a64.jpg"
+        },
+        {
+          "name": "tri.Addict();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/fa912edbd344833ec3c5acb2ac513a77e83f6a5b.jpg"
+        },
+        {
+          "name": "tri.Master();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/def4071e683ce8efa444b87332fd8c72449dcfd9.jpg"
+        },
+        {
+          "name": "tri.Forever();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/17b520d63b2a6ec4ae9bfca44d014397295f49c0.jpg"
+        },
+        {
+          "name": "tri.Giant();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/2eb8659a29194aaf205c62240ac7c00d93c5d4b2.jpg"
+        },
+        {
+          "name": "tri.Heave();",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1134190/456c3ee9b72a325273f57a54622a1988c0b6ab0b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "819220": {
+    "name": "Yuso",
+    "steam_appid": 819220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Yuso是一款益智游戏，您必须清除Yuso屏幕！随着您的游戏进展，游戏会变得越来越难，并逐渐引入新的颜色和工具来帮助或阻碍您。<br><br>担任太阳系的太空医生角色。从一颗星球移动到另一颗星球，结识当地居民并完成他们的关卡。一群古怪的角色将在你的旅程中帮助你！<br><br>Yuso可能看起来很可爱，但不要让它们蒙骗您！关卡将变得越来越难，后期的关卡更是非常艰难。这游戏采用开放式的进展系统，让您有机会先进展，才随时回到困难的关卡。<br><br>特点：<br><ul class=\"bb_ul\"><li>80关卡以上的益智游戏，将带您穿梭太阳系。<br></li><li>一路上您会遇到一群有趣而古怪的角色。<br></li><li>干净和美丽的呈现。<br></li><li>简单的控制，唯一复杂的是里头的谜题！<br></li><li>倒带，通过一个按钮，逐步悔棋。<br></li><li>独特的音乐；每个星球都有自己的主题，带你进入各个世界。<br></li><li>一个开放式的进展系统，您可以先跳过较难的关卡，之后才回来挑战。因此，不要因为卡住了而感到沮丧！</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819220/header.jpg?t=1572346808",
+    "developers": [
+      "Vertical Reach"
+    ],
+    "publishers": [
+      "Vertical Reach"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 7 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "水星已被治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/68af6a012fa40ac78605431934433ebeecd4a878.jpg"
+        },
+        {
+          "name": "金星解锁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/4713c63bf1b504356b68497fd4f9bd583ecc55bd.jpg"
+        },
+        {
+          "name": "金星已被治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/760ff50775221ac92c114c07e867301f8cfc30b9.jpg"
+        },
+        {
+          "name": "地球解锁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/db4b13f4f0738a49579a0fc9c477882de13f3d43.jpg"
+        },
+        {
+          "name": "地球已被治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/c936d91ecd875b79c7a22acf3f644f43a66e0f43.jpg"
+        },
+        {
+          "name": "火星解锁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/58ebc416c5440c1853f92068e6da3cdd97abcd68.jpg"
+        },
+        {
+          "name": "火星已被治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/9a36f8920809a9290119a22938cf547fdb0e938b.jpg"
+        },
+        {
+          "name": "木星解锁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/f08978ac9df7328a7005195a9b5d74b5783bb152.jpg"
+        },
+        {
+          "name": "木星已被治愈",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/531297b2075b3fed3f385185030378084178a5ca.jpg"
+        },
+        {
+          "name": "土星解锁",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/819220/d017802ba792f37bb90194fd56ad53ba00693bda.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    }
+  }
+}

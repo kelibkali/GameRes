@@ -1,0 +1,103 @@
+{
+  "777900": {
+    "name": "The Departure",
+    "steam_appid": 777900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Welcome to <i>The Departure!</i><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777900/extras/f4a593479a149fd87488135bbf89bc03.poster.avif?t=1594928690\" width=48 height=87 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777900/extras/f4a593479a149fd87488135bbf89bc03.webm?t=1594928690\" type=\"video/webm; codecs=vp9\"></video></span> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777900/extras/a91ab7a6acf6b0d555f66d664cfde708.webp?t=1594928690\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777900/extras/a91ab7a6acf6b0d555f66d664cfde708.poster.avif?t=1594928690\" class=\"bb_img\" width=49 height=86 /></picture></span><br><br><i>The Departure</i> is a two-dimensional colonist simulator in which the player is tasked with the survival of their colony. In order for the player to sustain their colony, they must gather resources such as food, ore, and lumber. With these resources, players are capable of constructing homes, mines, and campfires - which increase population and gold income, ore income, and food income, respectively. Complete with a unique, authentic soundtrack and original artwork, The Departure provides both a challenging and adventurous experience as players must fight to keep their colonists alive, and thrive whilst doing it.<br><br>In <i>The Departure</i>, the story follows the adventure of the player in the Colonial Age, whom joins a pirate crew in order to live a life of pleasure and plunder. While the player embarks on a voyage to a neighboring continent, they are suddenly attacked by a rival crew. Their battle was long and brutal, and led the crew to their demise. Spare the player, who awakens in a mysterious environment, eager to begin again.<br><br>Originally a text-based game, <i>The Departure</i> has been remade using GameMaker: Studio, bringing many of it's core features to life.<br><br><strong>Features</strong><br>150+ Original Sprites<br>92 Randomly Chosen Colonial-Themed Names<br>51 Randomly Chosen Colonial-Themed Phrases<br>20+ Randomly-Chosen 16-bit SFX (Gathering, Building, Death, Success, etc).<br>14 Fully-Animated Colonists<br>Unique, Ambient Soundtrack <br><br><i>Alright, enough with the numbers. Let's get into the details, eh?</i><br><br><strong>Build:</strong> <br>The player is given the ability to build houses, mines, and campfires through an attractive GUI - so long as the player has the resources to do so. These buildings provide food, gold income, and ore income - all of which can be used to the advantage of the player.<br><br><strong>Gather:</strong> <br>In order to proceed in this game, the player must gather resources in order to build. These resources must be hand-gathered by the player, however, the player is not limited to purely gathering. As stated <br>before, all buildings provide a specific bonus to the player's resources.<br><br><strong>Upgrade:</strong><br>If the player would rather upgrade a previously existing building, they totally can. Not only does this conserve space, but it makes your colony look much nicer.<br><br><strong>Daily Activity:</strong> <br>Each day, the player receives taxes from their colonists. The gold gained from these taxes is required for many buildings, and in order for the player to increase the amount of gold they gain per day, they must increase their colonist count. This can be done by constructing more homes. However, it is important that the player's colonists stay fed. Otherwise, they'll starve.<br><br><strong>GUI:</strong><br>In The Departure, the GUI is where the player can locate the amounts of a resource they have, current incomes of resources, and daily food costs. If the player wishes it remain unseen for whatever purpose, the may hide it at any time.<br><br><strong>Actions:</strong> <br>When a player enters a resource-gathering area, their action counter increases. Once the player has completed two actions, the day will progress.<br><br><strong>Saving/Loading:</strong> <br>The Departure has a fully-functional save/load system. You won't have to restart time and time again, unless you die.<br><br><strong>Controls:</strong> <br>If the player is unsure which buttons do what, we made a fix for that. At any point, the player can open their pause menu and review the controls. We won't leave you hanging.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777900/header.jpg?t=1594928690",
+    "developers": [
+      "FailoutGames",
+      "DanLamb47"
+    ],
+    "publishers": [
+      "FailoutGames"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Woodcutter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/dc165c66abb916af7afdf97cf90f0f4691e9414f.jpg"
+        },
+        {
+          "name": "Stone Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "Hungry Man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "Homeowner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "Mining Monopoly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "Camper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/dc165c66abb916af7afdf97cf90f0f4691e9414f.jpg"
+        },
+        {
+          "name": "Day 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "1,000 Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "10,000 Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/a0ee281a8331d22ec7854bfe98de0e85b43e5aa3.jpg"
+        },
+        {
+          "name": "100,000 Score",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/777900/dc165c66abb916af7afdf97cf90f0f4691e9414f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

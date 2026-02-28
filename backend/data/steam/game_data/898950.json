@@ -1,0 +1,125 @@
+{
+  "898950": {
+    "name": "ulxrd",
+    "steam_appid": 898950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "An abstract game<br />\r\ncreated from new ideas. <br />\r\n<br />\r\nYour goal is to surround more pieces than your opponent first to make their pieces into dead pieces.<br />\r\nTo win, you must make it so your opponent has 3 or fewer living pieces first.<br />\r\n<br />\r\nBy moving your own pieces to where your opponent's pieces are, the positioning between pieces change.<br />\r\nYou can only move your pieces in 4 directions: up, down, left, and right, and only to where your opponent's pieces are. <br />\r\n<br />\r\nTo move your pieces, left-click on the one you want to move to select it.<br />\r\nWhile still clicking, flick the piece in the direction you want to move it.<br />\r\n<br />\r\nWhen you have surrounded an opponent's piece and it has become a dead piece, the piece will have an X mark on it.<br />\r\nPieces with an X on them cannot be moved.<br />\r\n<br />\r\nIn the event that your piece gets accidentally surrounded by your opponent, your piece will become dead as well.<br />\r\nThis game requires anticipating ahead of time the situation after pieces have been moved. <br />\r\n<br />\r\nIf both you and your opponent wind up with 3 or fewer living pieces at the same time, the person that caused it will lose.<br />\r\n<br />\r\nNormal Play (Online Battle) has a time limit.<br />\r\nIf you do not make your next move within the set time, you lose.<br />\r\nIn Standalone Mode, there is no time limit in the initial settings.<br />\r\nThis can be changed in settings.",
+    "supported_languages": "英语, 日语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898950/header.jpg?t=1533711586",
+    "developers": [
+      "Tsukinowa App."
+    ],
+    "publishers": [
+      "Tsukinowa App."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "rate 1550",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/9003f0bad59185194dee15708a448b96d1713484.jpg"
+        },
+        {
+          "name": "rate 1600",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/14b8a0a391e5f9f09eeab2871cbbd80239c0c750.jpg"
+        },
+        {
+          "name": "rate 1700",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/3a7ac556d84aeadbb0082b79486b0f9f9752965b.jpg"
+        },
+        {
+          "name": "rate 1800",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/c549a2a496f474c01da5922f0f7ffa9374914be1.jpg"
+        },
+        {
+          "name": "rate 1900",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/dbccd4e226c8c3fc7a8c8c1f4ca99b1a213d14ca.jpg"
+        },
+        {
+          "name": "rate 2000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/263433b7e621946fd3c7412c542e9b07c87ee79f.jpg"
+        },
+        {
+          "name": "rate 2200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/4825b6d03374a5b7be9289eacb5df18846fb3634.jpg"
+        },
+        {
+          "name": "rate 2500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/31e1e261c85d6b9a9a548d2adc5dcdb2d268f88f.jpg"
+        },
+        {
+          "name": "rate 3000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/a1f3c020ffdc1ab4e4063d33216151d91ef78d22.jpg"
+        },
+        {
+          "name": "win 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898950/335f6c5a0e112c9a80f27d777ac9b91bff8cd100.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

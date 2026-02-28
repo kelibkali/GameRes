@@ -1,0 +1,93 @@
+{
+  "564680": {
+    "name": "001 Game Creator - MMORPG Kit",
+    "steam_appid": 564680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The MMORPG Expansion DLC provides 001 Game Creator users with a brand new template designed to create massively multiplayer online role-playing games. The package comes with several pre-made maps, interfaces and networking features to allow users to immediately jump in and start building their dream MMO RPGs. Players can build directly off this template or use the assets/scripts to create their own from scratch.<br><br><strong>Feature Highlights:</strong><br><br>- Movement and gameplay networking communication using both UDP/TCP wisely<br>- Dedicated server with support for multiple clients (<strong>number of total clients is only limited by the specs of the server</strong>)<br>- Admin panel with active server log with administration controls to kick users<br>- Registration/login system with password recovery<br>- Unique item/magic target-based battle system<br>- Chat log to allow players to communicate with each other<br>- Player inventory/magic/equipment management<br>- Shops and Inns for players to buy items/equipment and rest in<br>- NPC dialogue/questing<br>- Compatible with PC/Steam (HTML5 is not available due to browser networking support issues)<br>- Can be modified to incorporate 3D (provided some scripting changes)",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 挪威语, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564680/header.jpg?t=1727109402",
+    "developers": [
+      "SoftWeir Inc."
+    ],
+    "publishers": [
+      "SoftWeir Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 12800,
+      "final": 10240,
+      "discount_percent": 20,
+      "initial_formatted": "¥ 128.00",
+      "final_formatted": "¥ 102.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 2 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

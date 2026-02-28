@@ -1,0 +1,44 @@
+{
+  "366550": {
+    "name": "Zeuxis : procedural texture generator",
+    "steam_appid": 366550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i>No need to be an artist. Create nice textures in a few minutes.</i><br>This software allows you to create textures by combining basic operators.<br>You stack operators in a hierarchical fashion to get a result.<br><br>Simple and fast UI.<br>128bit internal resolution to prevent loss of higher range when combining effects.<br><br><strong>Try the demo</strong> first to make sure it works on your PC.<br>The projects created with the demo are compatible with the full product.<br><br><u>Limitations</u>:<br><ul class=\"bb_ul\">    <li><strong>English only</strong>, no UNICODE support for filenames (when saving/loading), only basic ASCII.<br>    </li><li>The UI is not customizable, i.e. font, font color, font size, window color.<br>    </li><li>Export formats supported: <strong>JPG, TGA, TIFF</strong> ( Export is disabled in demo ).</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/header.jpg?t=1462745512",
+    "developers": [
+      "Martin Veilleux"
+    ],
+    "publishers": [
+      "Martin Veilleux"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2015 年 6 月 2 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

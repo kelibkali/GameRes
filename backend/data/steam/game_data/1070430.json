@@ -1,0 +1,105 @@
+{
+  "1070430": {
+    "name": "Space Duke",
+    "steam_appid": 1070430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>游戏操作：</strong></h2><strong><ul class=\"bb_ul\"><li>使用左右方向键控制飞船的转向，上键控制飞船的前进动力。<br></li><li>使用Ctrl键开火。<br></li><li>按下X键切换武器，停止开火键可以回血，如果血量小于百分之五十，将会游戏UI闪动警告。<br></li><li>玩家的飞船有一定概率会因为碰撞而失控，需要用方向键稳住飞船。</li></ul></strong><h2 class=\"bb_tag\" ><strong>游戏特点：</strong></h2><strong><ul class=\"bb_ul\"><li>不需要捡起任何东西，更高的分数是解锁装备的关键，解锁的分数被隐藏，因此玩家所有注意力将集中到射击敌人和躲避敌人上。<br></li><li>游戏并非单纯的像素风格游戏，UI采用了平面化与像素风格结合。<br></li><li>游戏游戏对玩家的数据进行本地化存储，有死亡统计，消灭数统计，分数统计等。<br></li><li>拥有纠错功能，当玩家中途意外退出游戏（如断电），数据不会丢失，将视作结束了一场游戏。<br></li><li>支持Steam成就。<br></li><li>小地图可以让玩家清晰地知道自己的位置和敌人的位置。<br></li><li>敌人从多个方向攻击玩家，你需要进行躲避和攻击敌人。<br></li><li>游戏采用以时间为依据的波次，如果及时消灭场景中的敌人，那么这点将会很容易看出来。<br></li><li>游戏除了UI的文字和玩家采用了特殊的颜色，整体的颜色采用灰白色调。<br></li><li>支持多国语言，现有简体中文，英文，日文，韩文，阿拉伯文，法文，俄文，西班牙文，德文，希伯来文。<br></li><li>游戏为2D游戏，游戏背景采用了补偿设计，使得游戏过程中有3D效果。<br></li><li>游戏难度比较适中，易于上手，相对硬核玩家而言，比较偏向于休闲游戏。<br></li><li>游戏更多的借鉴了Luftrausers，Bit Blaster XL，Cycle28。</li></ul></strong><h2 class=\"bb_tag\" ><strong>开发者字条：</strong></h2><strong>开发第一个独立游戏之后，收到了许多鉴赏家的评测与指点，这些对我的开发起了很大的重用。在做这款游戏之前我玩过很多类似的游戏，但是我发现由于玩家不知道自己的位置往往会晕头转向，所以在这款游戏中我加入了雷达小地图，试图提高玩家对游戏的操控性。我现在正在开发另一款游戏，其中用到了这款游戏中的部分技术。如果你玩过我的游戏，希望你指出游戏中的不足之处以及提供建议，这些将在下一个版本中做出修改。希望你喜欢我的游戏。</strong>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070430/header.jpg?t=1557308895",
+    "developers": [
+      "AHui.Game"
+    ],
+    "publishers": [
+      "AHui.Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 5 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Number one",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/a5204a1ea42e475cf29bf2b2f638846fc35d6491.jpg"
+        },
+        {
+          "name": "Armed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/c5e3377101d9b00a86d59cb822b721d0cd0031b4.jpg"
+        },
+        {
+          "name": "Rich man",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/43f4b685ec153d24f5c7cdffe3b9dd7a55819b17.jpg"
+        },
+        {
+          "name": "Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/98b6d77713377629b5a216cae391d1d288d62637.jpg"
+        },
+        {
+          "name": "Destroyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/5cdf80b80cb4e4f714e3716704bedab84bd5115c.jpg"
+        },
+        {
+          "name": "Insist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/57dbd9a39cd7eb7cf896915c11fb988c40edf151.jpg"
+        },
+        {
+          "name": "Dead",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/99a9226060b19974629e9788d0a7fe4fcd4787e4.jpg"
+        },
+        {
+          "name": "Grim reaper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/63d6f5c83ca5b7f53ecd12d2279cc3be07c86769.jpg"
+        },
+        {
+          "name": "Rose",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1070430/d35e6f25a3fa610df4a54c97c9721006c7a95fd5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    }
+  }
+}

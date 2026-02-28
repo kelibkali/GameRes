@@ -1,0 +1,70 @@
+{
+  "1515730": {
+    "name": "Yellowlooper",
+    "steam_appid": 1515730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Yellowlooper looks minimalistic but is extremely difficult, one mistake and the level starts again.<br />\r\n<br />\r\nDon't touch the wall, it's easy :)<br />\r\n<br />\r\nCharly „Yellowlooper is my first game that I developed when I was 13“<br />\r\n<br />\r\nThe Steam release was on January 26th 2021",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 繁体中文<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 俄语<strong>*</strong>, 瑞典语<strong>*</strong>, 土耳其语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515730/header.jpg?t=1718831571",
+    "developers": [
+      "CharlyKuschel",
+      "PocketGames"
+    ],
+    "publishers": [
+      "Useless Arts"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Respect",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515730/1054729befbfad362268eb40d7ce4386124356c3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

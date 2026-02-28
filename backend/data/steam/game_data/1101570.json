@@ -1,0 +1,57 @@
+{
+  "1101570": {
+    "name": "Cliper: 剪贴板增强工具",
+    "steam_appid": 1101570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于这款软件</h2>Cliper为您提供Windows剪贴板的增强功能，补足了原生剪贴板多个使用不便之处，提升日常操作效率及便利度。<h2 class=\"bb_tag\" >软件特色</h2><ul class=\"bb_ul\"><li>剪贴板的内容不再随着每次新的复制而遗失，它们将会被永久记录，等待再次调取，或者直到主动将其删除。<br><br></li><li>以更加简便的操作将记录中的内容重新载入剪切板。<br><br></li><li>历史记录可以被方便的按照类型、时间等进行分组，或者根据内容查找，同时拥有收藏夹功能。<br><br></li><li>绝大部分格式都可以被记录及还原，而不会丢失图片的颜色或富文本的格式等额外信息。<br><br></li><li>可配置的应用程序以及内容的黑白名单，可以不记录那些无用的2fa验证码或者从密码管理器复制的隐私内容。<br><br></li><li>有恰到好处的、可配置的声音及气泡提示，为用户提供简便高效的工具使用体验。</li></ul><h2 class=\"bb_tag\" >常见应用场景</h2><strong>剪贴板中存有内容又需要复制粘贴新内容</strong><br><ul class=\"bb_ul\"><li>直接复制新内容<br></li><li>在需求处照常<u><strong>CTRL+V</strong></u>将新内容粘贴<br></li><li>切换到旧数据的需求处<br></li><li>按下<strong><u>左CTRL+左WIN+左ALT</u></strong>呼出本软件<br></li><li>只需按下<strong><u>CTRL+V</u></strong>或<strong><u>回车</u></strong>即可将旧内容置入剪贴板并粘贴<br>(在粘贴至某些较旧或不兼容的程序时,可能需额外再按一次<u><strong>CTRL+V</strong></u>以手动粘贴)</li></ul><i>附注</i><br><i>本软件被呼出时将会自动选中较旧数据,所以按快捷键可直接粘贴。<br>以上演示快捷键为软件预设默认值。</i><br><br><strong>浏览长文时</strong><br>在需要摘抄处直接选中复制(<strong><u>CTRL+C</u></strong>)并继续浏览<br><br><strong>(浏览完成后)记录摘抄笔记时</strong><br>在笔记中呼出本软件并选择记录的摘抄并依次粘贴",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101570/header.jpg?t=1591097180",
+    "developers": [
+      "Starship Studio"
+    ],
+    "publishers": [
+      "Starship Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 6 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 5,
+      "total_negative": 7,
+      "total_reviews": 12
+    }
+  }
+}

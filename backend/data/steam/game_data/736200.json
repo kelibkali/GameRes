@@ -1,0 +1,109 @@
+{
+  "736200": {
+    "name": "Nana in the Dark",
+    "steam_appid": 736200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Nana in the Dark</strong><br>娜娜来到一个陌生的地方，<br>要从那里逃生，你必须从不明身份的东西中生存下来！<br><br>*简单的图形<br>*可爱的人物<br>*有点恐惧<br>*故事<br>*多结局",
+    "supported_languages": "英语, 法语, 俄语, 西班牙语 - 西班牙, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736200/header.jpg?t=1607091603",
+    "developers": [
+      "Starmyth"
+    ],
+    "publishers": [
+      "Starmyth"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Ghost Busters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/e39cfbfdf8e4ebd3fdcd0e02bceac0bfbb67c560.jpg"
+        },
+        {
+          "name": "NO7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/23291cfcd4c4712cefdc84b2fa2a96b12e162be8.jpg"
+        },
+        {
+          "name": "Behind Story",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/2908e50c9e1b547cac92d0a13bb4633112ffdfb2.jpg"
+        },
+        {
+          "name": "Fly!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/4ba7b564a326f1bf97e2b21de0785bc1d14eebcd.jpg"
+        },
+        {
+          "name": "Never give up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/e5ebd46d551d4bc90849a65de6a531269b804338.jpg"
+        },
+        {
+          "name": "Apartment Manager",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/e7add92cb7bf2b398e2d75773266ebc69bb16a0e.jpg"
+        },
+        {
+          "name": "My Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/aee4c790689ae5ce1e64db15039d0e0d077d98d2.jpg"
+        },
+        {
+          "name": "Undead",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736200/2978aa7b83a52fd52c6001301a228a3d06fa82e3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 4,
+      "total_negative": 3,
+      "total_reviews": 7
+    }
+  }
+}

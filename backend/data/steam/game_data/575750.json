@@ -1,0 +1,93 @@
+{
+  "575750": {
+    "name": "Magic Box",
+    "steam_appid": 575750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Magic Box - interesting puzzle game with a lot of interesting and challenging levels.<br />\r\nFeatures:<br />\r\n- Pixel graphics<br />\r\n- The set of levels<br />\r\n- Various bonuses",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575750/header.jpg?t=1609434905",
+    "developers": [
+      "Indie Games Studio"
+    ],
+    "publishers": [
+      "Enoops"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2017 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "#1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/575750/a89bf6dc3f182df7656d844690f7dfc2e336247b.jpg"
+        },
+        {
+          "name": "#2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/575750/b4208c85db8c2782dd0b3a1fd66b368dfadab416.jpg"
+        },
+        {
+          "name": "#3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/575750/79ef2bfbbc1631132ef6fd0398bfd731d1f36f2b.jpg"
+        },
+        {
+          "name": "#4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/575750/d93268f6b309e46c7bc7168c669217ecc97ce8da.jpg"
+        },
+        {
+          "name": "#5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/575750/b7804f2e875b4149e4cf8bc9c34a36d775fe47e8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "4314770": {
+    "name": "SnekromancY",
+    "steam_appid": 4314770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >The Story</h2><p class=\"bb_paragraph\" >The stupid elves are attacking your tower! Your only chance is to transform into snake form, gather as much treasure as you can, and retreat to the top of your tower where you'll be safe. Collect the most coins by level 10 for a high score</p><p class=\"bb_paragraph\" >Your snake form decays rapidly, so you have to eat constantly to maintain it. If you eat you will grow, but as your health decays you will shrink and eventually die. Collect gems to upgrade your powers, and you'll be able to summon undead minions who ride on your back and shoot your enemies.</p><p class=\"bb_paragraph\" >You must collect all the keys on each level before you can advance.</p><h2 class=\"bb_tag\" >How to Play</h2><p class=\"bb_paragraph\" >Turn your snake with cursor keys or WASD (remappable in settings). Once in motion, you will keep moving until you hit something. Hitting walls or looping on yourself will damage you.</p><p class=\"bb_paragraph\" >Your health will gradually decay over time, and if it reaches 0 you will lose a segment. If you have no more segments left, it's game over.</p><p class=\"bb_paragraph\" >Eating food will grant you an additional segment and refill your health bar. A small amount of food will respawn on the map after being eaten, so that there is always at least one somewhere.</p><p class=\"bb_paragraph\" >Ladders will spawn throughout the map, and enemy invaders have a chance of entering the dungeon through them. You can kill them by eating them, but you may take damage in doing so, and will not get any rewards. If an enemy is killed by your minions, they will drop gems, potions, or other items.</p><p class=\"bb_paragraph\" >Collecting gems will fill your XP bubble, and when full you will be granted an upgrade. Chests will always grant you an upgrade immediately.</p><p class=\"bb_paragraph\" >Upgrades can buff your snake (such as health or speed bonuses), summon a minion to ride on your back, or buff existing minions. If you lose a segment and there is not enough room for all of your minions, one will drop on the floor. It will continue shooting from where it stands, and if you return with room for it later you can pick it back up.</p><p class=\"bb_paragraph\" >Collect all the keys on the level and you'll unlock the stairs to the next level, but be careful, a powerful boss enemy will appear at the stairs when you unlock them.</p><p class=\"bb_paragraph\" >Gather as many coins as you can and make it past level 10 to get a high score!</p><h2 class=\"bb_tag\" >Roadmap</h2><p class=\"bb_paragraph\" >This is a work-in-progress, and I plan to continue adding features over time. Current planned features include (but are not limited to), in no particular order:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >More bosses</p></li><li><p class=\"bb_paragraph\" >More minions and attacks</p></li><li><p class=\"bb_paragraph\" >Relics and magic items</p></li><li><p class=\"bb_paragraph\" >Level selection / dungeon map</p></li><li><p class=\"bb_paragraph\" >Additional level themes and tile-sets</p></li><li><p class=\"bb_paragraph\" >Traps</p></li><li><p class=\"bb_paragraph\" >Player-laid bombs or other effects that can destroy enemies and even alter the map</p></li><li><p class=\"bb_paragraph\" >Save/Load game</p></li><li><p class=\"bb_paragraph\" >Scoring leaderboards</p></li><li><p class=\"bb_paragraph\" >Bonus treasure rooms</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/e8c2dc4edeabc371f7fc428e9e213a94d61f3ee1/header.jpg?t=1771197382",
+    "developers": [
+      "Final Screw"
+    ],
+    "publishers": [
+      "Final Screw"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

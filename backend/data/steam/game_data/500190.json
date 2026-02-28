@@ -1,0 +1,69 @@
+{
+  "500190": {
+    "name": "Firefight",
+    "steam_appid": 500190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Firefight is a World War II real-time simulation game with more AI and attention to detail than any other game in its genre to date. Tanks are modelled with a physics engine and have gears, rev counters and speedos, and steer themselves with brake levers to give them realistic looking tracked vehicle movement. Each bullet, shell or piece of shrapnel is modelled in 3D and ricochets realistically off sloping surfaces. You can see each infantryman's rank, name, weapon, ammunition remaining, heart rate and fatigue levels. Machine gunners will call for ammunition when they're running low and other squad members will rush over with spare ammo if they are carrying any. Wounded men call for medics who will sprint over to administer first aid. Off-board artillery can be called in but will have to fire several ranging shots before the full 8 gun battery opens fire simultaneously.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >There are 36 maps to choose from (9 each on the Western Front, Eastern Front, Pacific Front and Modern Cities), and each map has eight scenarios. The scenarios give you the option to play as any of the major nationalities involved in fighting on the Western Front from 1939 right up to 1945.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500190/header.jpg?t=1745849155",
+    "developers": [
+      "Sean O'Connor"
+    ],
+    "publishers": [
+      "Sean O'Connor"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2016 年 7 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 19,
+      "total_negative": 4,
+      "total_reviews": 23
+    }
+  }
+}

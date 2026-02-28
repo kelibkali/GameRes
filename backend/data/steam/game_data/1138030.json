@@ -1,0 +1,125 @@
+{
+  "1138030": {
+    "name": "灵卡大师 Master of LinCard",
+    "steam_appid": 1138030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >游戏特色</h2><strong>《灵卡大师》</strong>是一款快节奏卡牌对战游戏，具有丰富的卡牌（接近500张），分为角色卡、装备卡、魔法卡和药水卡4种，其中角色卡又可根据特性分为多类，玩家通过角色卡召唤出角色攻击对方以取得胜利，配合装备卡、魔法卡和药水卡可使游戏的玩法千变万化。<br><br>游戏的对战规则部分参考了经典卡牌游戏《游戏王》，并且加入了大量创新元素，对游戏平衡性也做了一定的改进。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138030/extras/00802d1a5f394232ea64e8b0ac31b159.avif?t=1570283961\" width=600 height=128 /></span><br><br>角色卡按<strong>种族</strong>可分为8类，每一个种族都有自己的特殊效果：<br><strong>人类</strong>-(暴击：攻击属性克制的单位时造成相应倍数的伤害)<br><strong>精灵</strong>-(生命恢复：每回合结束时恢复相应的生命值；伤害缓冲：受攻击时减少玩家受到的伤害)<br><strong>幽灵</strong>-(夺命：攻击血量低于50%且等级比夺命等级低的单位时，直接干掉对方)<br><strong>天使</strong>-(溅射：攻击防御单位时，给对方造成相应比例的直接伤害)<br><strong>恶魔</strong>-(削甲：使被攻击单位的防御力降低相应数值)<br><strong>吸血鬼</strong>-(吸血：当攻击给对方造成伤害时，自身恢复相应比例的生命值)<br><strong>龙</strong>-(成长：每执行一次攻击，提高一定数值的攻击力)<br><strong>牛</strong>-(怒气：每被攻击一次，提高一定数值的攻击力)<br><br>角色卡按<strong>属性</strong>可分为7种：金、木、冰、火、地、雷、暗，属性之间相互克制。<br><br>角色卡按等级可分为9级，不同等级的召唤条件也不一样：<br>1~3级可直接召唤<br>4级需要一个祭品，血量低于30%的单位不可当作祭品<br>5级需要等级之和不小于召唤等级的祭品，血量低于30%的单位不可当作祭品<br>6~9级需要等级之和不小于召唤等级的祭品；血量低于60%的单位不可当作祭品<h2 class=\"bb_tag\" >3种游戏模式</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138030/extras/a038bd442293a17539518411f7eecb22.webp?t=1570283961\" width=599 height=57 /></span><br><br><strong>冒险模式(新游戏)</strong><br>玩家需要战胜二十多位决斗者，并解决一些谜题，以成为灵卡大师。<br>提供了4种难度，可满足不同玩家的需求。<br><br><strong>快速对战</strong><br>与随机的对手进行对战，当玩家连胜数量或胜率提高时，对手的血量也会随之提高。<br><br><strong>局域网对战</strong><br>当玩家腻于与电脑对战时，可以通过局域网与朋友来一场精彩对战。<h2 class=\"bb_tag\" >如果您喜欢这款游戏，欢迎加入官方QQ交流群:399739884</h2>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138030/header.jpg?t=1570283961",
+    "developers": [
+      "DearSky Studio"
+    ],
+    "publishers": [
+      "DearSky Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "捕鱼大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/00fdd40d554477ea3a1059465b76b1bc6984424c.jpg"
+        },
+        {
+          "name": "五大法师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/607d2aa7aa08a2f5b714ae67a505b102b82f0adf.jpg"
+        },
+        {
+          "name": "全卡牌",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/b04ba62787c696fa0219e8f50709e7d28c12d641.jpg"
+        },
+        {
+          "name": "十连胜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/934be120982d18e92b58f538ffadb9711c9b0c2e.jpg"
+        },
+        {
+          "name": "游戏通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/664cc4fbe392aab59a9d8cdf1e791c0aa1695445.jpg"
+        },
+        {
+          "name": "50级",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/af3e9d82cbfd293f3f4012b526bc2a5230205f98.jpg"
+        },
+        {
+          "name": "100级",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/ea8311e6963387ec19b3276e1587d855b5b4d233.jpg"
+        },
+        {
+          "name": "通关大师难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1138030/9093014de5f53d105d39a2f0538c830c46df3fe1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    }
+  }
+}

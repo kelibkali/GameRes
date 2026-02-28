@@ -1,0 +1,65 @@
+{
+  "1012130": {
+    "name": "神马江湖",
+    "steam_appid": 1012130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏特点：<br />\r\n*最经典最强大的仙侠飞行棋来袭，帮你找回儿时经典回忆。<br />\r\n*所有英雄免费可供玩家选择，每个英雄具有独特的技能。<br />\r\n*在强大的人工智能支持下电脑也是一个深不可测的的对手哦，当然也可以和你的家人或小伙伴玩上几局。<br />\r\n*提供三种不同的游戏模式：<br />\r\n-经典模式：经典飞行棋<br />\r\n-道具模式：在经典模式的基础上随机生成道具，丰富多样的道具使得对局更加扑溯迷离<br />\r\n-无尽模式：没有终点，只有战斗，摧毁敌方棋子获得分数，达到指定分数是胜利的唯一条件<br />\r\n<br />\r\n经典模式游戏规则：<br />\r\n*由2至4位玩家参与游戏。<br />\r\n*初始状态下，每位玩家有四个棋子。<br />\r\n*每个玩家轮流投掷骰子进行游戏。<br />\r\n*游戏开始前，可以设置棋子出基地的骰子点数。只有当骰子点数与设置点数相同时，棋子才能从基地起飞。<br />\r\n*棋子依据投掷的骰子数，沿着棋盘向前移动。<br />\r\n*如果棋子落在了与之相同颜色的棋格内，则这个棋子可以直接跳跃到下一个与之颜色相同的棋格内，不能连跳。<br />\r\n*最先将所有棋子子移动到终点的团队获胜。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012130/header_schinese.jpg?t=1549333485",
+    "developers": [
+      "贰点捌"
+    ],
+    "publishers": [
+      "贰点捌"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

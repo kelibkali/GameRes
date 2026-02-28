@@ -1,0 +1,38 @@
+{
+  "1409670": {
+    "name": "《光明记忆：无限》光线追踪 基准测试软件",
+    "steam_appid": 1409670,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >- 该工具为显卡帧率基准测试并非《光明记忆：无限》游戏，不可游玩，主要用于测试您的硬件系统是否可以流畅运行开启（光线追踪）技术后《光明记忆：无限》的最高画质。</h2><br><br>【DEMO所用技术】：<br>- RT Caustics（焦散）<br>- RT Reflections（反射）<br>- RT Refractions（折射）<br>- RT Ambient Occlusion（环境光遮蔽）<br>- RT Shadows（软阴影）<br>- DLSS2.1  (深度学习超采样技术)&quot;<br><br>【开启条件需要满足以下3点】：<br>1.Windows10 64位系统<br>（版本1903或以上）<br><br>2.支持光线追踪的显卡<br>（NVIDIA显卡最低为RTX 2060（6G），或其他未来即将支持光线追踪的显卡，具体支持型号请到相应显卡品牌的官网上查询）<br><br>3.显卡驱动最新版本<br>（NVIDIA显卡需要到GeForce Experience中确定驱动版本为最新，其他品牌显卡请到相应品牌驱动页面查询更新）<br><br>【Benchmark中对应 RTX 效果】：<br>（RTX低）：RT 反射 - RT 环境光遮蔽 - RT阴影（低）   <br>（RTX中）：RT 反射 - RT 环境光遮蔽 - RT阴影（中）- RT 折射（光传播3次）   <br>（RTX高）：RT 反射 - RT 环境光遮蔽 - RT阴影（高） - RT焦散- RT 折射（光传播4次）   <br>（RTX极高）：RT 反射（光传播2次） - RT 环境光遮蔽 - RT阴影（高） - RT焦散 - RT 折射（光传播5次）   <br><br>【Benchmark中对应 DLSS缩放等级】：<br>（DLSS超性能）：1080P 缩放到 360P<br>（DLSS性能）：1080P 缩放到 540P<br>（DLSS平衡）：1080P 缩放到 627P<br>（DLSS质量）：1080P 缩放到 720P",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 拉丁美洲, 葡萄牙语 - 巴西, 俄语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409670/header_schinese.jpg?t=1650869873",
+    "developers": [
+      "FYQD-Studio"
+    ],
+    "publishers": [
+      "FYQD-Studio",
+      "PLAYISM"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

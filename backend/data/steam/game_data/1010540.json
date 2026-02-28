@@ -1,0 +1,85 @@
+{
+  "1010540": {
+    "name": "Ancient Anathema",
+    "steam_appid": 1010540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Ancient Anathema - 第一人称恐怖游戏和冒险元素。<br><br>你必须为一个因为母亲去世而陷入债务困境的贫困学生。 唯一最好的选择是掘墓人的工作。 但在其中一个班次中，墓地的主人消失得无影无踪。</strong><br><br><strong>解决墓地主人失踪的神秘面纱。不要忘记你必须住一个漫长的夜晚。</strong>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 繁体中文, 简体中文, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010540/header.jpg?t=1548773735",
+    "developers": [
+      "Yars"
+    ],
+    "publishers": [
+      "Yars"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Gate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010540/9285b60ea3efa3608057e6d9928dffec42ad6eb7.jpg"
+        },
+        {
+          "name": "Boat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010540/65575b7efaa70a461bb7fbef322a4b6e798daedd.jpg"
+        },
+        {
+          "name": "Note",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010540/29031cfa7e72bd247a761e88e854cb88b806d0a7.jpg"
+        },
+        {
+          "name": "End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010540/5cd1e36338d26a42e37d3c0f0d6f99f3b9b409fb.jpg"
+        },
+        {
+          "name": "Skeleton",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1010540/a8643b5ff521e12f0c83f1ef338c31f740326c3d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    }
+  }
+}

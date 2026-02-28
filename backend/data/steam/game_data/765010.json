@@ -1,0 +1,70 @@
+{
+  "765010": {
+    "name": "Strid",
+    "steam_appid": 765010,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765010/extras/977c4a3dea98c49bd5a66f973acf4616.avif?t=1608623377\" width=600 height=344 /></span><br><br><i><strong>Summary</strong></i><br><br><ul class=\"bb_ul\"><li><strong>Vehicles</strong> - Use vehicles such as tanks and helicopters to destroy the enemy. <br></li><li><strong>Modifiable terrain</strong> - Construct or destroy terrain to your advantage. <br></li><li><strong>Fog of war</strong> - Out-maneuver your enemy by utilizing the fog of war. <br></li><li><strong>Unlocks</strong> -  Each kit has a variation with some new items that can be unlocked. Expand your arsenal by unlocking new weapons with increasing experience.<br></li><li><strong>Squads</strong> - Invite some friends and play as a squad in intense battles.<br></li><li><strong>Online or LAN</strong> - Host or join games on LAN or online.<br></li><li><strong>Bots</strong> - Play with humans or bots.<br></li><li><strong>Kits</strong> - Choose between 7 different kits, each holding 5 unique items with varying tactical purposes.<br></li><li><strong>Conquest</strong> - Capture flags and reduce the enemy team's tickets to zero to win the battle.<br></li><li><strong>Tactical Items</strong> - Use smoke-grenades and flash-bangs to distract enemies in close quarters firefights. Call in air strikes using laser target designation and radio.</li></ul><br>The game was built with organic, home-grown C++ code, OpenGL and a few open source libraries by a one-man team.<br><br>Though I have limited time for this, I try to update the game from time to time.<br><br>I've found that the best way to play this game is to play 1on1 or more with a few bots on each team. <br>If you try it alone you probably want to play with a few bots on your side versus many more bots.<br>Maintain control of the most flags so the enemy tickets will bleed out.<br><br>I have one server hosted in France, so if you live in Europe this should be okay, but you can always host your own LAN server.<br>To host a public server you need to port forward:<br>UDP Port 17112<br>TCP Port 17113<br><br>Discord server:<br>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765010/header.jpg?t=1608623377",
+    "developers": [
+      "kelkk"
+    ],
+    "publishers": [
+      "kelkk"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 10 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "440": {
+    "name": "Team Fortress 2",
+    "steam_appid": 440,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><strong>“最有趣的在线游戏”</strong> - PC Gamer</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t <strong>现已免费！</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t 没有任何限制！ 想玩多少玩多少，想玩多久玩多久！</p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t <strong>有史以来评价最高的免费游戏！</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t 《军团要塞 2》是有史以来最受欢迎的在线动作游戏之一，游戏不断提供免费更新，带来新的游戏模式、地图、装备，当然还有最重要的——帽子。 九个兵种性格各异，特色鲜明，各自具备独特的战术技能，适合不同水平的玩家。</p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t <strong>还是《军团要塞 2》新手吗？ 不用担心！</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t 无论您的风格与经验水平如何，总有一个角色适合您。 详尽的训练和离线练习模式能助您打磨战斗技巧，然后随心畅玩《军团要塞 2》众多的游戏模式，其中包括夺旗模式、控制点模式、推车模式、竞技场模式、山丘之王模式，等等等等。</p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t <strong>创建您自己的角色！</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t 游戏有数以百计的武器、帽子及其他物品可供收集、合成、购买和交易。 您可以根据自己的游戏风格和个人品味来调整自己最喜欢的兵种。 不花钱也能取得比赛的胜利——曼恩公司商店里的几乎所有物品都能在游戏中得到。</p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t</p><p class=\"bb_paragraph\" >\t\t\t\t\t\t\t\t\t</p>",
+    "supported_languages": "英语<strong>*</strong>, 丹麦语, 荷兰语, 芬兰语, 法语, 德语, 意大利语, 日语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 西班牙语 - 西班牙, 瑞典语, 繁体中文, 韩语, 捷克语, 匈牙利语, 葡萄牙语 - 巴西, 土耳其语, 希腊语, 保加利亚语, 罗马尼亚语, 泰语, 乌克兰语, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2007 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 8,
+        "description": "已启用 Valve 反作弊保护"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 14,
+        "description": "解说可用"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 520,
+      "highlighted": [
+        {
+          "name": "兵种首领",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_play_game_everyclass.jpg"
+        },
+        {
+          "name": "世界旅行者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_play_game_everymap.jpg"
+        },
+        {
+          "name": "团队医生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_healpoints.jpg"
+        },
+        {
+          "name": "火焰喷射器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime.jpg"
+        },
+        {
+          "name": "步哨枪手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_turretkills.jpg"
+        },
+        {
+          "name": "复仇者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_kill_nemesis.jpg"
+        },
+        {
+          "name": "猛杀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths.jpg"
+        },
+        {
+          "name": "伪装大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_get_healed_byenemy.jpg"
+        },
+        {
+          "name": "与这样的队友游戏...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_play_game_friendsonly.jpg"
+        },
+        {
+          "name": "王朝",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/tf_win_multiplegames.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 632,
+      "total_negative": 145,
+      "total_reviews": 777
+    }
+  }
+}

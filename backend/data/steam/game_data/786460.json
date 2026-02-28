@@ -1,0 +1,69 @@
+{
+  "786460": {
+    "name": "Slizer Battle Management System: Terran Partition",
+    "steam_appid": 786460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Terran Partition (ABMS) is a standalone expansion pack for Slizer Battle Management System. <strong>You do not need to purchase the original game to play this DLC.</strong> It includes the original story with improved and new missions, continues the story with improved graphics, longer weapon ranges, a new damage system, a better learning curve with new missions, and other qualitative differences.<h2 class=\"bb_tag\" >Graphics:</h2>Select your own colours for player, allied, and enemy units; and for the GUI and text in game. New art assets and improvement on old ones. Gradient effects are used on the GUI, backgrounds, and menus. Some text has been replaced with images, other text uses custom fonts instead of the default.<h2 class=\"bb_tag\" >Gameplay:</h2>Many abilities have been reworked to increase tactical depth. Deployable units now have a delay and their destination is targeted, Laser cannons now target coordinates instead of a direction. Missile flares have a much smaller range. Smoke now protects missiles from being attacked and prevents missiles from following their target. All units have significantly longer weapon ranges, and bullet drop now goes to 100% damage reduced at max range. The new damage system calculates armour penetration based on a new weapon variable, &quot;weapon pressure&quot;. Armour piercing shots have high pressure, while siege weapons have low pressure. This means snipers do less damage but are sure to penetrate armour, while cannons do more damage but are more prone to damage reduction from armour. Sensors are now weaker at longer ranges, so stealthier units can get closer to a detector before being revealed. And much more.<h2 class=\"bb_tag\" >Story:</h2>The missions have been rearranged and remade to improve the learning curve. Specific tactics will be taught early on instead of giving the player missions with open tactical options. The battlecruisers will be introduced after basic units have been mastered. The campaign's story will be longer than in SBMS.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/786460/header.jpg?t=1591770930",
+    "developers": [
+      "slizer88"
+    ],
+    "publishers": [
+      "slizer88"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "1545310": {
+    "name": "NORMALIZATOR - DarkPaint",
+    "steam_appid": 1545310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This DLC will allow you to quickly and effortlessly edit PBR textures used with your objects. <br>Convenient and easy-to-use application for drawing on a 3D object in .X, .OBJ, .FBX format.<br>You will be able to edit the texture:<br>colormap, normalmap, heightmap, selfilluminationmap, rough / glossmap, metalnessmap, ambient occlusion map.<br>In formats:<br>.DDS, .PNG, .JPG, .TGA<br>You can add several default data brushes with your own set, you just need to add a black and white brush image to the folder.<br>You can draw on your imported objects in DarkPaint with both the customized color and the loaded material created in the parent application NORMALIZATOR.<br>Viewport control is exactly the same as in the parent application.<br>The simple interface will allow you to quickly master the application/<br>A simple import of objects in several of the most popular formats will allow you to make changes to the texture of an object directly on it and you will not need to switch between a graphics editor and a modeling program or your project to see how the edited texture looks.<br>The minimum system requirements for the application will allow you to simplify the work on your project without resorting to powerful and demanding graphic 3D texture editors, thereby speeding up the process of creating a PBR asset for your project.<br><br><strong><h2 class=\"bb_tag\" >Pay special attention.</h2>This DLC is still being finalized and at the moment only working functionality is being published. Stay tuned for future DLC features in the community news.<br>Assembly features:<br>    Multi-textured objects now supported. (not same time all UV) </strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1545310/header.jpg?t=1624258931",
+    "developers": [
+      "AuroraCorp"
+    ],
+    "publishers": [
+      "Aurora software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

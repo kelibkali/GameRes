@@ -1,0 +1,58 @@
+{
+  "1019140": {
+    "name": "Trenchfoot Demo",
+    "steam_appid": 1019140,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Trenchfoot is just good clean local multiplayer fun for up to 16 friends (<strong>the demo is limited to just two (2) players</strong>). If you enjoy old-school local multiplayer games, you're going to love Trenchfoot!<br><br>Included in the current build of Trenchfoot is:<br><ul class=\"bb_ul\"><li> Support for up to 16 <strong>local</strong> players. <strong>the demo only supports two (2) players.</strong><br></li><li>9 powerups and items<br></li><li> Players can place blocks. Blocks add a defensive aspect to the game. Blocks will stop explosions from spreading and can be used to shape dymanic ones.<br></li><li> Flood explosions, these explosions will fill the space available to them. They flood around corners, scurry through bottlenecks and expand into open spaces. <br></li><li> Players place tiles during the gameplay modifying the level<br></li><li> Destroyable blocks are the standard destroyable blocks players can place these. They create temporary barriers, and also continue to add powerups during gameplay.<br></li><li> Water tiles are a player placeable tiles that stop explosions from spreading, but do not hinder player movement<br></li><li> Pipe tiles are a player placeable tile that funnel explosions and players through them. If an explosion gets into a pipe it will be directed through it until it exits. Once it exits it will continue to expand again until its magnitude is expended.</li></ul><br>Features that are partially implemented:<br><ul class=\"bb_ul\"><li> <strong>Graphics and animations</strong>: The current game's graphics are a work in progress. Graphics assets are well underway but more are coming. New graphical features are being added regularly.<br></li><li> <strong>Sound and music</strong>: The current game's sound effects are a work in progress but coming along well.<br></li><li> <strong>More power-ups and abilities</strong>: This is where your feedback comes in, during the early access period your feedback will be needed regarding powerups and player abilities.</li></ul><br><strong>Trenchfoot is a local multiplayer only game. There is no single content in the game.</strong>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1019140/header.jpg?t=1548475903",
+    "developers": [
+      "Cocompadres"
+    ],
+    "publishers": [
+      "Cocompadres"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

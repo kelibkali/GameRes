@@ -1,0 +1,102 @@
+{
+  "1040000": {
+    "name": "SpaceBullet",
+    "steam_appid": 1040000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "“SpaceBullet”是我的第一场游戏，它也是我的工作室（ACreativeGame）的第一场游戏。 我自己研究制作游戏，也研究创作音乐。因为我喜欢2D像素，所以我做了它。 创造力就是我所追求的，所以我尝试将卡系统添加到其中，以使这个游戏更有趣和具有挑战性。<br />\r\n<br />\r\n在这个游戏中，你需要控制一艘宇宙飞船来击败敌人并获得最佳分数。<br />\r\n<br />\r\n你的游戏中也会出现各种子弹，如果你有工具，你可以改变你的子弹。<br />\r\n就像改变子弹的方法一样，你需要获得一个卡片工具，以便控制卡片来选择宇宙飞船的命运。<br />\r\n<br />\r\n另外，为了实现我的目标，我将在未来使这个游戏更有趣。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040000/header.jpg?t=1553045999",
+    "developers": [
+      "ACreativeGame Studio",
+      "Luan Chenghao"
+    ],
+    "publishers": [
+      "ACreativeGame Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2019 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "五千分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/6c13e406e57438917bfda6b6656e3a44e83846fd.jpg"
+        },
+        {
+          "name": "一万分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/92b662473c55c1a9614bccf4da3198098af02107.jpg"
+        },
+        {
+          "name": "一万五千分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/d956ed5ab006b2a9276825690417b626cc8bbeb4.jpg"
+        },
+        {
+          "name": "两万分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/0bd358a18c9a1c1b4bd23d32072a949955d8a1a5.jpg"
+        },
+        {
+          "name": "三万分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/3b0a454911d9bbe16414441544a9a2fc01646e8b.jpg"
+        },
+        {
+          "name": "年轻人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/072c5e4ca1c0c81dd15e9ddce8a94a5159d6eab3.jpg"
+        },
+        {
+          "name": "征战沙场",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/22d6da5f0fc762253cb58985f2c95e54048ff55a.jpg"
+        },
+        {
+          "name": "惨不忍睹",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/55958d7f4d448e63314eac94a7ceb7dbac7518db.jpg"
+        },
+        {
+          "name": "千疮百孔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1040000/c0fd98c6dc3fbb03a809c28f7bef197818c4642c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

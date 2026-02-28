@@ -1,0 +1,66 @@
+{
+  "1222390": {
+    "name": "Shape Arena",
+    "steam_appid": 1222390,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Game developed by undergraduate students in the research laboratory ICAD / VisionLab, of the Computer Science Department of the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Interdisciplinary project between the courses of Computer Engineering, Control and Automation Engineering, Computer Science and Design.<br />\r\n<br />\r\nThe teachers can’t even imagine that between classes, the classroom becomes the stage of an epic confrontation of chalk geometry! The battlefield? The Chalkboard! Control skillfully illustrated geometric shapes on the chalkboard and collect all the candies to earn the highest score. But in this mission, there are many dangers, young champions. Therefore, be very careful not to be targeted by the various hazards that will appear on the board, making your mission a struggle for the survival of chalk. <br />\r\n<br />\r\nShape Arena is a multiplayer arena game, in which 4 characters need to collect candy to increase their score and become the winner. There is no permanent death or life bar in the game. When touching a dangerous object, the character disappears for a few seconds and then reappears in the center of the screen. Upon dying, the character loses 1 point on his score, leaving behind a candy that can be acquired by other players.<br />\r\n<br />\r\nYou will control one of the four geometric shapes in this dispute: The mad Square, the playful Circle; the vain Triangle, or the clever Star. Each of them has a special ability that helps in their movement and knocks back opponents as they hit them.<br />\r\n<br />\r\nDuring the match, several hazards, items and events will spawn procedurally, influencing the pace of the match. Use the skill of each character to get the best out of the situation! There are the following categories of procedural elements in Shape Arena:<br />\r\n<br />\r\nItems - Appear floating in bubbles. They can be beneficial, like the sword that eliminates enemies, dangerous, like the skull that takes 1 point off your scoreboard, or neutral, like the magnifying glass that zooms in on the player who took it.<br />\r\n<br />\r\nHazards - Elements that will always eliminate a player when they come into contact.<br />\r\n<br />\r\nEvents - Events that change how the stage is played.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222390/header.jpg?t=1601575572",
+    "developers": [
+      "ICAD/VisionLab PUC-Rio"
+    ],
+    "publishers": [
+      "ICAD/VisionLab PUC-Rio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

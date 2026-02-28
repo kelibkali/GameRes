@@ -1,0 +1,113 @@
+{
+  "1609690": {
+    "name": "the secret of dyes",
+    "steam_appid": 1609690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> 特殊说明 - 1 </strong><br>本游戏是以染料三原色为解谜思路的解谜游戏，因此可能对色弱色盲人群并不友好，提前告知！<br><br><strong> 特殊说明 - 2 </strong><br>在本人的游戏阅历中，并没有发现哪些游戏有如此设定，如果已经有类似的游戏的话，在此声明，本人并没有抄袭，可能只是单纯的想到一块去了。（游戏解谜设计可能并不如何出彩，但是应该算比较新颖）。<br><br><br><strong> 游戏定位 </strong><br>轻度解谜，休闲，关卡相对简单。<br><br><strong> 游戏内容 </strong><br><ul class=\"bb_ul\"><li> 目前包含35关，游戏前十关是规则介绍，也可以视为教学关卡。<br></li><li> 至少十首优美的背景音乐。<br></li><li> 风格迥异的唯美天空。</li></ul><br><strong> 游戏规则 </strong><br><ul class=\"bb_ul\"><li> ‘WASD’ 控制误入染料秘境的小伙，拾取染料，给路途中的方块染色，染出一条通往箭头的路<br></li><li> 染料三原色（减法三原色）为青、洋红、黄（我们生活中的打印机就是用这三种颜色调出万千颜色的）。游戏点击右上角 ‘?’ 可以打开帮助，里面有色环图，即为染色规则。<br></li><li> 黑色为万能通路色，能联通任意颜色。其他颜色只能连接同种颜色。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609690/header.jpg?t=1681969536",
+    "developers": [
+      "GCN"
+    ],
+    "publishers": [
+      "GCN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 6 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 35,
+      "highlighted": [
+        {
+          "name": "关卡一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/bd6d0e3e3863ef3d99f32cd5a6c5e45c8bf4071c.jpg"
+        },
+        {
+          "name": "关卡二",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/2b06256ea1fb041151a0609ef8d7556cbe4f73db.jpg"
+        },
+        {
+          "name": "关卡三",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/b2f350f707b4a9a45f415f8e9e286c695e55fe81.jpg"
+        },
+        {
+          "name": "关卡四",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/aa3a0fb24bb97e2acc657cdcc1790b711c204342.jpg"
+        },
+        {
+          "name": "关卡五",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/a54ea7d910eba85afcf81e00751229178c9dfd6a.jpg"
+        },
+        {
+          "name": "关卡六",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/ae67107b66f7282564ef01b2a787d845f32542b9.jpg"
+        },
+        {
+          "name": "关卡七",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/5495152a54e02452eb839adea5dda8c09f3b5d18.jpg"
+        },
+        {
+          "name": "关卡八",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/c0a2ce452f98a3bb1e35a7368d453502afd11896.jpg"
+        },
+        {
+          "name": "关卡九",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/a10b71449aaabbb03b249df5ee73ebcaaeabcd4a.jpg"
+        },
+        {
+          "name": "关卡十",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1609690/978b6e882c83f0103fb938f952b1ef9202b9ff8e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

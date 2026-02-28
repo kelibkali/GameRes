@@ -1,0 +1,89 @@
+{
+  "898810": {
+    "name": "Merv Liberation",
+    "steam_appid": 898810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Experience the thrill of escaping from deviously designed levels.  Use gravity / construct ramps / Move water and materials to get you to your destination.<h2 class=\"bb_tag\" >Key Features</h2><br><ul class=\"bb_ul\"><li>Pickax, destroy the environment and collect materials for other uses.<br></li><li>Mud Gun, use your collected materials and redistribute them to advance through the levels.<br></li><li>Water Cannon, Redistribute water and use it to your advantage.<br></li><li>20+ Levels to play.<br></li><li>Gain up-to 3 stars per level, allowing you to progress faster.<br></li><li>Discover new game mechanics to get you through the levels easier.<br></li><li>Steam Achievements.<br></li><li>Cloud saves, keep your progress in the Steam cloud.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898810/header.jpg?t=1684954392",
+    "developers": [
+      "Sub Orbital Software"
+    ],
+    "publishers": [
+      "Sub Orbital Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 300,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Collect first star.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898810/4e2600e0ff8a0ba0b763f4b9ac595856495bb8ec.jpg"
+        },
+        {
+          "name": "Collect 9 stars",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898810/8b8e4363e7dd1689edf59963f308e6a57edc5f18.jpg"
+        },
+        {
+          "name": "Collect 20 stars.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898810/eacf88a76344affcc6fc79db6bad1f95ccccbdb8.jpg"
+        },
+        {
+          "name": "Collect 66 stars.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898810/019e0c1755500bb02de04bf42b2f8f2777f18623.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

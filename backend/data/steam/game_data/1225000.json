@@ -1,0 +1,69 @@
+{
+  "1225000": {
+    "name": "Barbearian Soundtrack",
+    "steam_appid": 1225000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Barbearian OST, composed by Tommy Baynen. Arcade inspired tracks with modern electronic production.",
+    "supported_languages": "英语, 芬兰语, 法语, 德语, 日语, 简体中文, 意大利语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225000/header.jpg?t=1581628317",
+    "developers": [
+      "Tommy Baynen"
+    ],
+    "publishers": [
+      "Kimmo Factor Oy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2020 年 2 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}

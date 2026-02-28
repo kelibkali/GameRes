@@ -1,0 +1,85 @@
+{
+  "802900": {
+    "name": "Hollow Steps",
+    "steam_appid": 802900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You are a customer of a virtual world company Dartom Inc. You are one of the many people who wants to test themselves in one of the many worlds created by the company. When the tester finishes their puzzles in the world, they exit the world and given their results. On your test, a ghost in the system will change your experience.<br />\r\n<br />\r\nThe world you enter has 3 main puzzles and 3 mini puzzles that open the gates for the main puzzles and your goal is to finish them and exit the world to see your results.<br />\r\n<br />\r\nGameplay is mostly around the puzzles where you need to find a way to solve them. You have little tips from the company at the beginning of each puzzle's area. Besides puzzles, there are a secret safe which only opens with 8 fragments and computer panels that change your surroundings.<br />\r\n<br />\r\nWe hope you will enjoy your stay at Dartom Inc.",
+    "supported_languages": "英语, 土耳其语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 匈牙利语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 阿拉伯语, 捷克语, 荷兰语, 日语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802900/header.jpg?t=1633510825",
+    "developers": [
+      "QuickSave"
+    ],
+    "publishers": [
+      "SA Industry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2018 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Small Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802900/06a84a744c03b7557d2fe0352d95233248326f77.jpg"
+        },
+        {
+          "name": "Main Puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802900/8f51dec9f164dacf060c81f4509dd3d9b9f873a5.jpg"
+        },
+        {
+          "name": "Secret Safe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802900/76d3d7b9988c67271608113dfa941dc1895d0081.jpg"
+        },
+        {
+          "name": "Welcome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802900/d7991271043dfe03f7034bd07ec103d492434a97.jpg"
+        },
+        {
+          "name": "Final Decision",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/802900/dbafd7fe6c16ed977f758f82daecb2eb1a840f30.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    }
+  }
+}

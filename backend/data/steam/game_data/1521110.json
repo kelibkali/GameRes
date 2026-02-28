@@ -1,0 +1,89 @@
+{
+  "1521110": {
+    "name": "Black Baby",
+    "steam_appid": 1521110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The Black Baby is lost in an underground maze. Explore the maze, fight gigantic creatures, and find your way to freedom by collecting keys and opening doors. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Bring light to the darkest corners</strong> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521110/extras/f800e301ab41648342165ac84ffe76a4.avif?t=1744450444\" width=480 height=260 /></span></p><p class=\"bb_paragraph\" ><strong>Escape from enemies</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521110/extras/aaa5f6da10db95df214df143481089d0.avif?t=1744450444\" width=480 height=260 /></span></p><p class=\"bb_paragraph\" ><strong>Fight them back</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521110/extras/18eef9aeecaa2ce48f95a715fd34d8cd.avif?t=1744450444\" width=480 height=260 /></span></p><p class=\"bb_paragraph\" ><strong>Consume their souls to restore your health</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521110/extras/ba3acbb30950b2c3ba598937a54c0279.avif?t=1744450444\" width=480 height=260 /></span></p><p class=\"bb_paragraph\" ><strong>Keyboard/Mouse controls</strong>: </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Move: WASD</p></li><li><p class=\"bb_paragraph\" >Camera: Mouse</p></li><li><p class=\"bb_paragraph\" > Run: Left shift</p></li><li><p class=\"bb_paragraph\" > Attack: Left mouse button</p></li><li><p class=\"bb_paragraph\" > Aim: Right mouse button</p></li><li><p class=\"bb_paragraph\" > Throw: Left mouse button (while aiming) </p></li><li><p class=\"bb_paragraph\" > Throw up: Middle mouse button </p></li><li><p class=\"bb_paragraph\" > Drop Item: E</p></li></ul><p class=\"bb_paragraph\" ><strong>Xbox controller controls</strong>: </p><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Move: Left stick</p></li><li><p class=\"bb_paragraph\" >Camera: Right stick</p></li><li><p class=\"bb_paragraph\" > Run: Left trigger</p></li><li><p class=\"bb_paragraph\" > Attack: Right bumper</p></li><li><p class=\"bb_paragraph\" > Aim: Left bumper</p></li><li><p class=\"bb_paragraph\" > Throw: Right bumper (while aiming) </p></li><li><p class=\"bb_paragraph\" > Throw up: Y button</p></li><li><p class=\"bb_paragraph\" > Drop Item: B button</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521110/header.jpg?t=1744450444",
+    "developers": [
+      "Santaclos"
+    ],
+    "publishers": [
+      "Santaclos"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 2 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Free baby",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1521110/94e40f01314af89a8ff89df564378cf2835bbd43.jpg"
+        },
+        {
+          "name": "Fast baby",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1521110/874f5644dc368f92af78a84d0d4c7dc022ef9bc9.jpg"
+        },
+        {
+          "name": "All dead",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1521110/94a9e788f827934b03169806250d2222f334b76e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    }
+  }
+}
