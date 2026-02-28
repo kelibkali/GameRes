@@ -1,0 +1,70 @@
+{
+  "2023230": {
+    "name": "Scorn: Digital Artbook",
+    "steam_appid": 2023230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "置身于《Scorn》的独特美学之中。长达192页的数字版艺术册中包含了一系列精挑细选的游戏内艺术图与独家概念构思设计稿。<br><br><strong>EPUB </strong>&amp; <strong>MOBI</strong>格式。我们推荐您使用Thorium浏览EPUB版本电子书，除此以外还推荐您使用Kindle软件浏览MOBI版本。<br><br><br><strong>如何启用</strong><br><ul class=\"bb_ul\"><li><i>Scorn - The Art of the Game</i>将被下载至游戏安装目录，通常路径为<i>...\\Program Files (X86)\\Steam\\steamapps\\common[/i]。[/list]</i></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2023230/header.jpg?t=1697704619",
+    "developers": [
+      "Ebb Software"
+    ],
+    "publishers": [
+      "Kepler Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 9,
+      "total_negative": 4,
+      "total_reviews": 13
+    },
+    "type": "dlc"
+  }
+}

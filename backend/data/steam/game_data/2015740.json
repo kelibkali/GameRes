@@ -1,0 +1,86 @@
+{
+  "2015740": {
+    "name": "SnailQuest",
+    "steam_appid": 2015740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >蜗牛任务是一款基于2048移动模式的解谜游戏。</h2>当玩家输入移动方向时，所有蜗牛会朝同一方向移动，并且只有在遇到障碍物时才会停止。<br>当两只蜗牛碰撞时，会融合成更高级别的蜗牛。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/d6804c5c23550a2dad89016f7d3104c5.poster.avif?t=1656478253\" width=424 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/d6804c5c23550a2dad89016f7d3104c5.webm?t=1656478253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/d6804c5c23550a2dad89016f7d3104c5.mp4?t=1656478253\" type=\"video/mp4\"></video></span><br>利用蜗牛的这一特性，收集奖励，并抵达目的地吧。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/5d53f0ca95906ed9b75237e285d1131f.poster.avif?t=1656478253\" width=424 height=304 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/5d53f0ca95906ed9b75237e285d1131f.webm?t=1656478253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/5d53f0ca95906ed9b75237e285d1131f.mp4?t=1656478253\" type=\"video/mp4\"></video></span><br>游戏现在版本拥有40个手工制作的关卡，并且预计会在之后免费更新另外40个关卡。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/c3f44ae710b73d5975660f83480ce43f.avif?t=1656478253\" width=424 height=218 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/extras/3d9c12a1eaa3a2fc375f8e4a689d308e.avif?t=1656478253\" width=424 height=240 /></span><br>希望大家能喜欢",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015740/header.jpg?t=1656478253",
+    "developers": [
+      "Roman's Iris"
+    ],
+    "publishers": [
+      "Roman's Iris"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "完美新兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015740/699ff247106d33ad2fbe9a306a128c167ccfc4f5.jpg"
+        },
+        {
+          "name": "遍历",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015740/01c4d11a034cdb23f5c4dc46b403a3e530e33b0f.jpg"
+        },
+        {
+          "name": "势不可挡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015740/8f7843cf15ed61a2637c5f019d21161a614d1ed1.jpg"
+        },
+        {
+          "name": "火花",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015740/516b1d422d507d2e5a7ffdb40be28901aef6d886.jpg"
+        },
+        {
+          "name": "行百里者半九十",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015740/207176371e521619553d7070d2f008a9cf397f23.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

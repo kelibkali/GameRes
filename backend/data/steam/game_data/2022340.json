@@ -1,0 +1,50 @@
+{
+  "2022340": {
+    "name": "Kargo Demo",
+    "steam_appid": 2022340,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>This demo provides a vertical slice of the game Kargo with a selection of levels to show off the core gameplay mechanics. It's still an early version, so things might change until the full release. <br><br>Please leave any feedback you might have in the Steam Forums and don't forget to wishlist!</strong><br><br>Kargo is a 2D cave-flyer with a focus on puzzle elements. Your goal is to deliver cargo containers to their designated targets. Navigate your spaceship through the levels with Asteroids-like controls. Gates, cannons and other level elements are color-coded and activate when the corresponding cargo item is present. Figure out the right order in which to collect cargo, use them as keys and deliver them to their targets.<br><br>Kargo is heavily inspired by classics such as Crazy Gravity and similar cafe-flyers. However, its unique combination of puzzle solving, precision flying and shooting cargo with modern controller support, provides a fresh experience into the genre.<br><br>The game was designed for small screen sizes and controllers, so it's best played on the Steam Deck (or similar handheld consoles).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022340/header.jpg?t=1662628396",
+    "developers": [
+      "LiberaByte"
+    ],
+    "publishers": [
+      "LiberaByte"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

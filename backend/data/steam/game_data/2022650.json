@@ -1,0 +1,74 @@
+{
+  "2022650": {
+    "name": "ENTRY",
+    "steam_appid": 2022650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hyperultrasupercasual turn-based game where you should create words by adding letters on the field and using it. The middle of the field is a random word with 5 letters. Every turn you can add only one letter and create only one word. Every letter equal one point, so to win just get more points. The game ends when all cells are filled with letters. There are 25 cells. And if you do quick maffs, you and your opponent have 10 moves both",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022650/c9a195833ebc821e99498632840bdd5ff99165ef/header.jpg?t=1743690996",
+    "developers": [
+      "Laura"
+    ],
+    "publishers": [
+      "Laura"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

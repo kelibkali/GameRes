@@ -1,0 +1,86 @@
+{
+  "2018140": {
+    "name": "LEEN",
+    "steam_appid": 2018140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "LEEN is a Turn-based Multiplayer game, where you have to calculate your move to fight with your friend.<br />\r\n<br />\r\nYour character is simple, it's tiny paper with a pin as a head.<br />\r\nMap in this game will auto generated and items will be randomly placed.<br />\r\n<br />\r\nEvery turn player will receive energy to walk and at the end of the turn, If your head points at another player your character will attack them.<br />\r\n<br />\r\nThe last standing is the winner.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2018140/header.jpg?t=1655449284",
+    "developers": [
+      "Techcast"
+    ],
+    "publishers": [
+      "Techcast"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

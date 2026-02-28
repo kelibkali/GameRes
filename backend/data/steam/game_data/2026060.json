@@ -1,0 +1,122 @@
+{
+  "2026060": {
+    "name": "Aviation Manager",
+    "steam_appid": 2026060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "选择你的起点，为附近机场建立航线，选择合适的飞机，为航班设置时刻表。最大化的利用飞机、机场、中转路线等赚取财富，将航线扩展至全世界。<h2 class=\"bb_tag\" >航线</h2>每条航线从起点出发，途径多个机场后最终回到起点，等待下一次的调度。设计合理的路线使乘客便捷的达到目的地，提高航线的利用率。<h2 class=\"bb_tag\" >时刻表</h2>为每条航线配置时刻表，当达到特定时间时，如果有飞机在等待调度，航线将会发出航班。为航班配置途径机场的停留时间来错开高峰，提高机场利用率，减少飞机等待时间。<h2 class=\"bb_tag\" >中转</h2>当没有直达航班时，乘客会选择进行合理的中转航班。<h2 class=\"bb_tag\" >扩容</h2>扩容机场的座椅来增加乘客容量上限，扩容机场的登机口来提升停靠飞机的数量上限。<h2 class=\"bb_tag\" >关于作者</h2>游戏由个人业余制作，有意见或者建议的玩家可通过评论留言",
+    "supported_languages": "英语, 俄语, 简体中文, 法语, 德语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 葡萄牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/header.jpg?t=1663349666",
+    "developers": [
+      "Light Game"
+    ],
+    "publishers": [
+      "Light Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "发家致富",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/08a7c42060688593a18edcdd12a09296dfa1d2be.jpg"
+        },
+        {
+          "name": "先来后到",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/7d9c83cee862a6fee16005f04154e2eb9aff13cc.jpg"
+        },
+        {
+          "name": "重复利用",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/fc96d2b6d8c5b0291520b28a3513eaeee0035ac4.jpg"
+        },
+        {
+          "name": "志在千里",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/051da8d59a6c126f5eff917084a1c30b8427e1ed.jpg"
+        },
+        {
+          "name": "老骥伏枥",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/710c2742b80b36a194687fcdd815e74bfce1050d.jpg"
+        },
+        {
+          "name": "满载",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/d0faa859835eb0764e37ff6d5d59cc1729b0be2b.jpg"
+        },
+        {
+          "name": "全都要有",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/4d1832abe7e0d564b4b62b26255bd7a96c42f8fd.jpg"
+        },
+        {
+          "name": "大展宏图",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/5d54d7b891d8d605a72a06d84cfae2ad31e217b3.jpg"
+        },
+        {
+          "name": "起飞",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/ee7d2c7552d9f2925f9dba39e2b4a73067eb3dcc.jpg"
+        },
+        {
+          "name": "空空如也",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2026060/37c9835f6c29ecfd613eee828c839fd01bebb33a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}
