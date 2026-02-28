@@ -1,0 +1,118 @@
+{
+  "2009840": {
+    "name": "Plop Saga",
+    "steam_appid": 2009840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是个像素风格的单人动作冒险游戏, 讲诉了小水滴Plop的一场以拯救森林为目的的奇幻冒险. 玩家操作简单, 只需要控制方向然后选择合适的时机跳跃. 每一关冒险都不计失败次数, 可以无限重复挑战, 没有压力.<br><br><strong>内容</strong><br>游戏包含了5个大的不同风格场景, 每个场景包含7个关卡. 关卡设计有趣, 其中某些关卡也富有挑战性.<br><br><strong>优美的音乐</strong><br>游戏的背景音乐舒缓优美, 适合带上耳机, 沉浸式的体验游戏. <br><br><strong>收集蓝火</strong><br>这是游戏中一点小小的挑战, 每一关场景中都有一朵蓝火等待玩家去收集. 需要注意的是, 收集到蓝火之后, 本关之后的游戏就不能失败了; 如果失败了就需要重新去收集蓝火.<br><br><strong>保存点</strong><br>考虑到玩家的游戏体验, 每一关都有一个游戏存盘点, 失败了可以从存盘点重新开始游戏.",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009840/header.jpg?t=1712187674",
+    "developers": [
+      "Simple Touch"
+    ],
+    "publishers": [
+      "Simple Touch"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "收集入门",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/b0c142f9771d821a4be2742342b3a3c153777536.jpg"
+        },
+        {
+          "name": "收集新手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/918ad769c03f0fc914de091df8d38115b6fbc672.jpg"
+        },
+        {
+          "name": "收集初手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/293ffc61da146c8b7d8922be3e8afc9e3658026c.jpg"
+        },
+        {
+          "name": "收集能手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/643f0cededa8e8369b7ac54744133812c62934f8.jpg"
+        },
+        {
+          "name": "收集专家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/710bb7752f513bdd3bf824c80fe90fc1ff361b47.jpg"
+        },
+        {
+          "name": "森林",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/736cdccdb5e5cb4b47369a485d5fff32a9847e40.jpg"
+        },
+        {
+          "name": "山",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/0063b2f3e5cd5e7ff513af4471b170e874018100.jpg"
+        },
+        {
+          "name": "洞穴",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/e10f38f41c665f382111d26cfc663dcdbd1911a4.jpg"
+        },
+        {
+          "name": "沙漠",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/7dd782c287b428bb061597e99826b83faf43adf3.jpg"
+        },
+        {
+          "name": "雪山",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2009840/920ac90116184b1fcec8d8bf3e366c2df4bb3b06.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    },
+    "type": "game"
+  }
+}

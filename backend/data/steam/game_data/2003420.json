@@ -1,0 +1,58 @@
+{
+  "2003420": {
+    "name": "Bonk'd Audio Visualizer",
+    "steam_appid": 2003420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Features</h2>The Bonk'd Audio Visualizer is a 3D audio visualizer written in C/C++ with Vulkan, designed for Linux first, Windows second. It is designed to be lightweight, fast, and low latency. Future planned features include:<br><br>-Desktop background rendering<br>-Customizable colors (can be customized with command line options right now)<br>-Customizable speed (can be customized with command line options right now)<br>-Customizable wave heights/sample rate/sample size (also customizable via command line options right now)<br><br>Stretch goals depending on reception:<br><br>-VR<br>-Control of viewport<br>-Gamification of some sort<h2 class=\"bb_tag\" >Usage</h2>Simply start Bonk'd Audio Visualizer and start playing your favorite music and enjoy! Fruther configuration can be changed with launch options, explained in the Manual.txt included with game files, soon to be available through a configuration file, and then potentially a UI to change things live. Hit escape to close the program.<h2 class=\"bb_tag\" >Notes</h2>If you're running on Linux by default the application uses PipeWire, an option to use straight ALSA is available with -alsa in the launch options, it presently connects to the mic instead of the default output device, a fix is in the works. Testing was completed on Fedora 36, but any linux with Pipewire and proper Vulkan drivers should work with the default settings just fine.<br><br>Many features are available through launch parameters, customization of the rendering, swapping starting monitors, switching audio interface, and forcing usage of integrated or dedicated GPUs are just a few of the available options through launch parameters. These features are being moved into a config file, and then later into a GUI application, but have been provided as launch options to give access to them as early as possible. <br><br>For convenience, the launch parameters are listed below, and are included in the Manual.txt in the software installation.<br><br>Available options:<br><br>Option syntax &gt;&gt;&gt;&gt; description<br>-wh (integer)  &gt;&gt;&gt;&gt;&gt; set wave height, default is 25<br>-a (real number)  &gt;&gt;&gt;&gt;&gt; set alpha (transparency) default 0.25<br>-mt (integer)  &gt;&gt;&gt;&gt; set move time default 6<br>-alsa &gt;&gt;&gt;&gt;&gt; use ALSA instead of PipeWire (linux only)<br>-window\t&gt;&gt;&gt;&gt;&gt; run windowed instead of fullscreen<br>-fi &gt;&gt;&gt;&gt;&gt; force use of integrated GPU*<br>-fd &gt;&gt;&gt;&gt;&gt; force use of dedicated GPU*<br>-debug &gt;&gt;&gt;&gt;&gt;&gt; print debug output to bav_log.log<br>-display &gt;&gt;&gt;&gt;&gt; set which display to render to (fullscreen only)<br><br><br><br>*Steam appears to &quot;hide&quot; GPUs from Vulkan when multiple GPUs are present on a machine. You can run the program from command line/terminal with the force parameters and they will function as expected, but through Steam you may run into trouble with them. There may be ways to circumvent this with environment variables or how you run steam, but I've not found a surefire way to do so, ymmv.<br><br>Trailer music graciously provided by NCS, link to song: ",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2003420/header.jpg?t=1655832040",
+    "developers": [
+      "Bonk'd Industries"
+    ],
+    "publishers": [
+      "Bonk'd Industries"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

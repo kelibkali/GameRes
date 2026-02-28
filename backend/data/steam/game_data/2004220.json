@@ -1,0 +1,114 @@
+{
+  "2004220": {
+    "name": "异世界杂货铺 skyscraper in Another world",
+    "steam_appid": 2004220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "*********** 短期内不会进行更新了，请勿购买 ************<br><br>购买须知：<br>购买前可以先通过页面介绍、视频、图片来了解游戏的基本玩法及整体质量<br>虽然是EA发行，但内容更新随缘，不保证之后会有大幅度内容更改，还请谅解。<br><br>本游戏为独立开发，您可以通过以下方式反馈游戏中遇到的BUG：<br>Steam社区论坛<br>QQ交流群：884029245<br><br><u>游戏介绍</u><br>您将扮演一位商人，经营一家杂货店，通过零售、市场策略等方式赚钱，不断发展壮大<br><br><u>基本玩法</u><br><ul class=\"bb_ul\"><li>贩售商品：通过与供应商签约，进货商品，再贩卖给各式各样的顾客赚取差价。<br></li><li>摆放设施：通过建造各式各样的设施和房间，吸引顾客消费，增加收入。<br></li><li>冒险采集：通过去各种地图进行冒险，采集原材料，并获得特殊物品。<br></li><li>打造生产：通过自行打造各类商品，减少对供应商的依赖，获得更大的利润。<br></li><li>宠物养成：冒险可以抓捕各类魔兽，并带回来进行培养，作为冒险者的伙伴增加战斗力。</li></ul><br>新内容会先更新到test分支，待稳定后再更新到主分支。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004220/header.jpg?t=1694401877",
+    "developers": [
+      "one game"
+    ],
+    "publishers": [
+      "one game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1900,
+      "final": 1900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "开门大吉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/31ee3eb0d32d98bcebf83eef01236ebdeca4ec68.jpg"
+        },
+        {
+          "name": "打开渠道",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/8aeba7372f6e2888d3428597a89b2d399b0bb2ca.jpg"
+        },
+        {
+          "name": "工具人√",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/48e54c220ebe2fa632a2d0d2b6fa8d158d45ce7e.jpg"
+        },
+        {
+          "name": "热度联动",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/d32ab6962fc7c0186273e49784ace12c90884a92.jpg"
+        },
+        {
+          "name": "产业聚集",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/9170b1815f73cedc4b7be85b42bd623d8e3de49c.jpg"
+        },
+        {
+          "name": "学习装置",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/2b944a6652f20f7fc4388d39ed150bb35025e9a3.jpg"
+        },
+        {
+          "name": "业务扩展",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/87f4943043ede218ae185002e577816dd12fda99.jpg"
+        },
+        {
+          "name": "第一桶金",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/7c96495ce4f193eb668bb3fc3463bf9dd1d0985c.jpg"
+        },
+        {
+          "name": "蒸蒸日上",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/aa1feaa41c2e93b021fdc81f32be1b2c8c23c476.jpg"
+        },
+        {
+          "name": "小有资产",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004220/1c4fe41756c661d6e127dfba1c25d887a4dee832.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 5,
+      "total_negative": 2,
+      "total_reviews": 7
+    },
+    "type": "game"
+  }
+}

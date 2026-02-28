@@ -1,0 +1,122 @@
+{
+  "2012600": {
+    "name": "Radium Lux",
+    "steam_appid": 2012600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Radium Lux</strong> is a physics-based skill game with puzzle elements. The game design is inspired by and based on the author's hermetic Theory of Everything. This game was an important element in looking at the nature of reality from the perspective of a software developer. The level design is partly based on the three principles of static, organic and chaotic structures. Sometimes the levels change their structure during the game, as if one would skip from one reality to the next.<br>The sphere that the player has to navigate towards the target is attracted by two tractor beams and gravity. These three forces from different directions allow the sphere to be maneuvered very organically. The aim is to reach the finish line as quickly as possible.<br>While the game starts out easy, the levels get harder and harder, to the point where one wrong move will immediately send the sphere into spikes and collapse.<br><br><strong>130 Level:</strong><br>The levels are connected in a non-linear way and so it is possible that some levels have alternative endings that unlock alternative levels. Some are easy to find, others may be hidden. The failed attempts and the time spent on each level are counted until the level is completed for the first time in order to calculate a speedrun best time after all levels have been completed.<br><br><strong>Replay and Ghost function:</strong><br>The gameplay of each game is recorded and saved in the event of a personal best time. This means that every best time can be viewed again if required, and it is also possible to see one's own high score as a ghost in order to compete against it in a race. The last time the player failed a level can also be viewed as a replay.<br><br><strong>Three player profiles:</strong><br>The game is actually a single-player game, but there is a separate highscore table for the three save games. The best times of the players can also be shown as ghosts during the game to compete against them and try to beat their best times.<br><br><strong>Individual designs:</strong><br>The design can be set individually, including moving backgrounds that move to match the music, as they function as a kind of visualizer. However, this can lead to performance problems on slower computers, which is why, in addition to the classic standard design and the visualizer, there are also design profiles that are specifically aimed at performance in order to be able to chase the high score without any problems.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012600/header.jpg?t=1740406977",
+    "developers": [
+      "Lukas Jaeckel"
+    ],
+    "publishers": [
+      "Develobster"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 33,
+      "highlighted": [
+        {
+          "name": "SECTOR A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/6de55fefbec6d18116313248e3f1af63d0beeb31.jpg"
+        },
+        {
+          "name": "SECTOR B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/fa8912836293587bc67dddee34f0890bd4ac2892.jpg"
+        },
+        {
+          "name": "SECTOR C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/0be9443cf25d37c1e534c707d95348775c0af4d2.jpg"
+        },
+        {
+          "name": "SECTOR D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/ce2631bba3bf23227b9496b56beb05863f967017.jpg"
+        },
+        {
+          "name": "SECTOR E",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/7ee1836dd9d42f5137c5d932cd175aad6833e54b.jpg"
+        },
+        {
+          "name": "SECTOR F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/1250859bc68077000f17eb34518a5c8270e3a9b4.jpg"
+        },
+        {
+          "name": "SECTOR G",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/509a8c0593e883f10bb512641339d2780ad76525.jpg"
+        },
+        {
+          "name": "SECTOR H",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/020b71014e565f148200382a6ac728d000c2babd.jpg"
+        },
+        {
+          "name": "SECTOR I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/8fd2f78ce78334bb76e64c2e1fc34fd9e0b83ae2.jpg"
+        },
+        {
+          "name": "SECTOR J",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2012600/1e93fe1be39df3dd18cdd3b78db36cc7cec6aed1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
