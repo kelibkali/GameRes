@@ -1,0 +1,67 @@
+{
+  "2000000": {
+    "name": "Round Table",
+    "steam_appid": 2000000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Round Table is a fun virtual reality action game for everyone! You are a knight of King Arthur's Round Table practicing swordplay in preparation for a big tournament. The wizard Merlin was kind enough to conjure up a training course for you, right in King Arthur's throne room! Grab a sword and get to it. How many rounds of Merlin's parcour can you do?<h2 class=\"bb_tag\" >Gameplay</h2>Select competitive mode, grab a sword (or two!) and start hitting the training dummies Merlin has summoned for you. One hit and they fall over. Hit all the training dummies in the throne room to advance to the next round. But be careful not to run out of time! Each round Merlin is going to conjure up more and more training dummies. At the same time, you have less time to hit them all. Luckily you get a little bit of extra time from removing a training dummy. <strong>How many rounds can you last?</strong><br><br>Round Table also features two other game modes: arcade/casual and sandbox. There is no score counting or high score tracking in arcade/casual or sandbox game mode.<h2 class=\"bb_tag\" >Arcade/Casual Mode</h2>If you want to just enjoy the game world without a ticking clock, pick the casual mode. There is no time limit, and you can play for as many rounds as you like.<h2 class=\"bb_tag\" >Sandbox Mode</h2>In the sandbox game mode you can set your own challenge! You get most of the dials and gauges that we use to balance the competitive game mode. Make the game as easy or as difficult as you like! And if you find the right setting for your flow, share it with us on Discord!<h2 class=\"bb_tag\" >Detailed Game Mechanics</h2>Round Table is a level-based hack'n'slash with a time limit and a running high score. The levels are called &quot;rounds&quot;. At the beginning of the round a set of enemies spawn. The enemies look like medieval training dummies made of straw, hooked up to a single wheel. The enemies spawn in random locations and move randomly. The enemies do no damage. One hit with a sword removes the training dummy from the round, and adds time to the round timer. The round ends once all the training dummies that spawned at the beginning of the round have been hit, or if the round timer runs out. If the round timer runs out, the game ends. If all the enemies are removed in time, the game moves on to the next round.<br><br>In competitive mode, the first round has a 60 second timer and one enemy spawns. Each round, the round timer decreases by two seconds, and the number of spawned enemies increases by one. Each enemy hit increases the round timer by one second. This balancing is correct as of 1.52, but may change with patches and updates.<br><br>In arcade/casual mode, there is no round timer, and no score. This is ideal for everyone who is new to VR and wants to have time to get to know the gameplay.<br><br>In sandbox mode, there are sliders for round timer, round timer decrease, round timer enemy bonus and hitpower. Moving the sliders changes the values, allowing the player to set a custom difficulty level. The hitpower setting controls how much force of a sword swing is applied to the enemies, which in turn determines how far they fly as a response to the hit.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000000/header.jpg?t=1654260219",
+    "developers": [
+      "Martin Brockelmann",
+      "Harald Schmid"
+    ],
+    "publishers": [
+      "Gramm GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

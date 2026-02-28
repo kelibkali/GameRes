@@ -1,0 +1,42 @@
+{
+  "2000680": {
+    "name": "Coding Learn Demo",
+    "steam_appid": 2000680,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Coding Learn is a game that will help you learn the basics of programming using c# as an example. Travel with the robot, help him solve puzzles and move together towards the cherished goal!<br>There are three levels available in the demo:<br>1) Teaching the interface and working with variables<br>2) Arithmetic tasks using built-in methods<br>3) Branches<h2 class=\"bb_tag\" >Task List</h2><h2 class=\"bb_tag\" >1st Level</h2><h2 class=\"bb_tag\" >1)using Methods</h2><h2 class=\"bb_tag\" >2) Using Methods With Arguments</h2><h2 class=\"bb_tag\" >3) Declaring Variables Of Different Types</h2><h2 class=\"bb_tag\" >4) Var</h2><h2 class=\"bb_tag\" >5) Arithmetic (int)</h2><h2 class=\"bb_tag\" >6) Arithmetic (float)</h2><h2 class=\"bb_tag\" >7) Reduced Operations</h2>8) Remainder of division (Integer division, division of fractional numbers)<br>2nd level:<br>1) Repetition of an old theme<br>2) Choosing the right variable name<br>3) Problem on Math Round<br>4) Task on pow, cast<br>5) Using multiple methods<br>3rd level:<br>1) logical operations more and less<br>2) Comparing variables with values<br>3) The problem of finding the median using branches<br>4)Bool<br>5) Repetition<br>6)switch case<br>7) Repetition of what has been learned",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000680/header.jpg?t=1652764914",
+    "developers": [
+      "twelveAddOne"
+    ],
+    "publishers": [
+      "Baker's dozen"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}
