@@ -1,0 +1,162 @@
+{
+  "2004650": {
+    "name": "SailSim",
+    "steam_appid": 2004650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "As a Live-Aboard I wanted to create something anyone could use for learning as well as for those rainy days when going out to sea is difficult but you still want to sail. This simulator was created to give everyone an idea about the basic principles of sailing, as well as to provide some knowledge in a fun and intuitive way. The main goal is to have fun and learn something along the way. Hopefully that goal is being achieved with every update i make to the simulator.<br />\r\n<br />\r\n🔸 Try out different sailing vessels to see how they behave<br />\r\n🔸 Learn different parts of a sailboat and what they do<br />\r\n🔸 Learn sailing through simple yet instructive courses<br />\r\n🔸 Check out different symbols, terminology and sailing equipment<br />\r\n🔸 Have fun if learning is not your thing by exploring or competing<br />\r\n🔸 Venture on simple yet fun adventures<br />\r\n🔸 Collect Achievements and battle for the highest score<br />\r\n<br />\r\n⚫ Currently available vessels are<br />\r\n◼ Laser - Olympic<br />\r\n◼ Catalina 22 - Classic (Fin Keel)<br />\r\n◼ Sabre Spirit 37 - (Fin Keel)<br />\r\n<br />\r\n⚫ Current Sailing Features<br />\r\n◼ Keel Control<br />\r\n◼ Keel vs Vessel velocity &amp; mass effect<br />\r\n◼ Boom Direction<br />\r\n◼ Boom Jibe &amp; Tack forces<br />\r\n◼ Boom Vang Control<br />\r\n◼ Main Sail Folding &amp; Unfolding<br />\r\n◼ Jib Folding &amp; Unfolding<br />\r\n◼ Jib Sheet tension &amp; Winch Control<br />\r\n◼ Spinnaker Control<br />\r\n◼ Sail Reefing<br />\r\n◼ Rudder vs Velocity control<br />\r\n◼ Rudder &amp; Turning circle based on vessel mass<br />\r\n◼ Rudder reverse control<br />\r\n◼ Engine Fuel Capacity and Refueling Systems<br />\r\n◼ Outboard engine control<br />\r\n◼ Outboard engine Prop Walk effect<br />\r\n◼ Sail Drive Prop Walk effect<br />\r\n◼ Dynamic Wind<br />\r\n◼ Level Interaction<br />\r\n◼ Drift effect vs Sail direction<br />\r\n◼ Vessel Heel &amp; Potential Capsize effects<br />\r\n◼ Jib and Main Sail &quot;Rudder Pull&quot; when used separately<br />\r\n◼ Wind dynamics based on vessel velocity and direction<br />\r\n◼ Much more...<br />\r\n<br />\r\nI created SailSim to be accessible for Android as well as Windows. It is difficult to find a good compromise as far as graphics, to satisfy the Windows crowd. I know it could visually be better but then the work needed to integrate it on Android would be much larger so i found a Middle ground as far as visuals go to hopefully satisfy both sides. <br />\r\n<br />\r\nThe visuals are meant not to be too serious where it doesn't matter as much (Environment in specific) but playful and fun. I however do spend a great deal of time on the physics of the simulator where the vessels can receive up to 30 or more forces dynamically at the same time, so the vessels are not just bumbling around but are actually getting the forces you would get in real life (mostly since nothing is perfect). Every time i sail i always think or notice a small detail in how my own vessel behaves and try to add that to SailSim.<br />\r\n<br />\r\nAlthough by no means this should be considered as an exact replication of the actual sailing process, it does provide things you shall encounter when you step on any boat. If learning is not your thing, it is very addictive to just play with a sailboat and physics applied to it when the wind is howling outside and you have nothing better to do.<br />\r\n<br />\r\nSome controls and reactions of the sailing vessels in this simulator have been set intentionally in an awkward way and not as a typical Sailing Game would do it. This is done to try and replicate what you shall encounter when controlling a sailboat by yourself.<br />\r\n<br />\r\nI am having a blast developing this as an ongoing project. Spend lots of sleepless nights just because the specific environment or function is just too fun to stop making. Hopefully others will appreciate the work that is made by just one man on a small boat at sea :) I have many ideas and additions I would like to make to this simulator so if you like its direction, spread the word as I develop it under way or in a marina whenever my batteries are charged from solar or the engine.<br />\r\n<br />\r\n⭕ Make sure you update to the latest available version as i fix bugs and release fixes and new functions as i go.<br />\r\n<br />\r\n✴ If you find faults (bugs) not related to graphics but based on general behavior, please don't hesitate to mention it and i should have it fixed in no time. I do try to check everything before i publish a new update but no one is perfect and things do tend to slip my mind from time to time.",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 希腊语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004650/804e12a2647192de08afe6207ab1d443708a618e/header.jpg?t=1767885899",
+    "developers": [
+      "Demetris Rouslan Zavorotnitsienko"
+    ],
+    "publishers": [
+      "Demetris Rouslan Zavorotnitsienko"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 37,
+      "highlighted": [
+        {
+          "name": "First Adventurer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/5ec1a0f6e73d048df400533ebf3cb9983ec1bfef.jpg"
+        },
+        {
+          "name": "Boatswain Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/ca9ad1b2c275cebf0f265c376868ba06b5c96c31.jpg"
+        },
+        {
+          "name": "Powder Monkey Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/7c35cfd80e1c4830e997be4bed02a6d6a4e21f39.jpg"
+        },
+        {
+          "name": "Gunner Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/919ead93ba32222ef0d6c13e7574a09161b475dc.jpg"
+        },
+        {
+          "name": "Sail Master Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/e1f7715fd9f58eca98ed807abaa1259ba761c607.jpg"
+        },
+        {
+          "name": "Quartermaster Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/e4ccfef15d56996a0e033f8ade90f1504d702d89.jpg"
+        },
+        {
+          "name": "First Mate Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/0027b11ff5d57716ba1be5fb40468d7df663a5c3.jpg"
+        },
+        {
+          "name": "Captain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/b4602c041e4117a705a83e0e7d4db92aa818cfee.jpg"
+        },
+        {
+          "name": "Pirate Seeker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/e01c5b2aba02a2f5cb903f0a97ca7e65d2edbff9.jpg"
+        },
+        {
+          "name": "Puzzle Solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2004650/f0a4dbc23deaec1ca5e171b246054af2e9806b7b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

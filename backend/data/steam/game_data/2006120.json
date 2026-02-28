@@ -1,0 +1,114 @@
+{
+  "2006120": {
+    "name": "GameZero",
+    "steam_appid": 2006120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Once a peaceful land, 4 kingdoms fight for supremacy in an online mmo experience! GameZero uses ummorpg and unity partnered with steam to provide an immersive online experience.  Follow a questline to gain over 50 weapons and increase your powers so you can fight in the arena against other players.  Over 15 sets of armor to acquire and 50 weapons to increase your potential on the battlefield!  Play online with friends or build a server yourself and host for others.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2006120/header.jpg?t=1724309232",
+    "developers": [
+      "Tomas"
+    ],
+    "publishers": [
+      "mas3d"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "create a character",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/3d08dc741f42e6842f129f1eb4e96412df3e05fa.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/2f68ae3dd96a408a50a489bbc1eea6edfc6cb678.jpg"
+        },
+        {
+          "name": "Battle hardened",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/d1ec3e97096ff255a62c853e4678ad3c580e4b69.jpg"
+        },
+        {
+          "name": "Interstellar",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/a28d71f6994b928a5a857a47ca4c75da4061b62d.jpg"
+        },
+        {
+          "name": "killa",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/94987213166cab3a6859b56076b96e4646978410.jpg"
+        },
+        {
+          "name": "pk",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/ca5465249253c979b70230180974523d16bcc0c2.jpg"
+        },
+        {
+          "name": "goonkilla",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2006120/c2a0bccf1d3bc8d61dd7238ec28d1bf0f62bed09.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

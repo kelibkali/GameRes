@@ -1,0 +1,62 @@
+{
+  "2004200": {
+    "name": "头号皮卡",
+    "steam_appid": 2004200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Game goals:<br />\r\nThis is an parkour pickup game. The pace of the game is very tight. The goal of the game is to score as many points as possible.<br />\r\noperate:<br />\r\nA: Left<br />\r\nD: Right<br />\r\nPlease avoid obstacles and pass through the arch to get bonus points<br />\r\nAs the game time progresses, the game difficulty will increase",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004200/header.jpg?t=1654247053",
+    "developers": [
+      "seagull home"
+    ],
+    "publishers": [
+      "Pickup One"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 16100,
+      "final": 16100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 161.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

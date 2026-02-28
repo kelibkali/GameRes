@@ -1,0 +1,54 @@
+{
+  "2007060": {
+    "name": "垃圾游戏",
+    "steam_appid": 2007060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在游戏中，你将操控一个小人，在一个上千平方的房子中，拿到钥匙，出去。开门、跑酷、解迷、密码，这都是你逃出生天的工具。在 一次次的迷失和失败中找到前进的路。你可以和bug做斗争，也可以被各种问题卡住用，也会发现一些不完善的功能。但是这都没有关系，你的脑子 去通关。但是当你通关之后，你会发现你的脑子都变差了",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2007060/header.jpg?t=1658311169",
+    "developers": [
+      "Ouzicong"
+    ],
+    "publishers": [
+      "Ouziconhg"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}
