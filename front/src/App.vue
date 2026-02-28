@@ -11,6 +11,10 @@ const showLoginView = ref(false);
 
 const showUserInfoView = ref(false);
 
+const selectOption = ref("homePage")
+
+const selectIndex = ref(0)
+
 const user = ref({
   userID:"",
   email: "",
@@ -52,17 +56,13 @@ const getUserLogin = async () =>{
 const asideHover = ref(false);
 
 const panelMenuRadius = computed(() => ({
-  borderRadius:`${asideHover.value ? 0.4 : 2.3 }rem`,
-  marginLeft: `${asideHover.value ? 0.5 : 1.2 }rem`,
-  marginRight: `${asideHover.value ? 0.5: 1.2 }rem`
+  borderRadius:`${asideHover.value ? 0.2 : 1.5 }rem`,
+  marginLeft: `${asideHover.value ? 1 : 1.3 }rem`,
+  marginRight: `${asideHover.value ? 1: 1.3 }rem`
 }))
 
 const showTextStyle = computed(() => ({
   'show-text': asideHover.value
-}))
-
-const lineStyle = computed(() => ({
-  'line-style': asideHover.value
 }))
 
 const handleLoginSuccess = () =>{
@@ -74,6 +74,23 @@ const handleRefreshPanel = async () =>{
   console.log("refreshPanel");
   await getUserLogin()
 }
+
+const handlePageChange = (page:string) => {
+  if(page === "homePage"){
+    selectIndex.value = 0;
+  }else if(page === "gameList"){
+    selectIndex.value = 1;
+  }else if(page === "personalPage"){
+    selectIndex.value = 2;
+  }
+
+  selectOption.value = page;
+}
+
+const overlayY = computed(() => ({
+  transform:`translateY(${selectIndex.value * 3.4 }rem)`
+}))
+
 
 onMounted(() => {
   getUserLogin()
@@ -107,43 +124,75 @@ onMounted(() => {
         @mouseenter="asideHover = true"
         @mouseleave="asideHover = false"
     >
-<!--      <el-container>-->
-        <el-header class="menu-header">
-          Logo
-        </el-header>
-<!--        <el-main style="padding: 0">-->
-<!--          <el-menu class="page-change">-->
-<!--            <el-menu-item>-->
-<!--              hello-->
-<!--            </el-menu-item>-->
-<!--            <el-menu-item>-->
-<!--              hello-->
-<!--            </el-menu-item>-->
-<!--            <el-menu-item>-->
-<!--              hello-->
-<!--            </el-menu-item>-->
-<!--          </el-menu>-->
-<!--        </el-main>-->
-          <div class="option-group" :style="panelMenuRadius">
-            <div class="option" @click="openUserPanel">
-              <el-icon size="20px">
-                <UserFilled />
-              </el-icon>
-              <div class="panel-font" :class="showTextStyle">
-                用户
-              </div>
+      <div class="menu-header">
+        Logo
+      </div>
+      <div class="panel-main">
+
+        <div class="page-change-group">
+
+          <div class="option-overlay" :style="overlayY">
+            <div class="header-overlay"></div>
+            <div class="bg-overlay" :class="{active: asideHover}"></div>
+          </div>
+
+          <div class="p-option" :class="{active: selectOption == 'homePage'}" @click="handlePageChange('homePage')">
+            <div class="p-icon">
             </div>
-            <div class="line" :class="lineStyle"></div>
-            <div class="option">
-              <el-icon size="20px">
-                <Lock />
-              </el-icon>
-              <div class="panel-font" :class="showTextStyle">
-                hello
-              </div>
+            <span class="p-option-font" :class="showTextStyle">
+              主页
+            </span>
+          </div>
+          <div class="p-option" :class="{active: selectOption == 'gameList'}" @click="handlePageChange('gameList')">
+            <div class="p-icon">
+            </div>
+            <span class="p-option-font" :class="showTextStyle">
+              游戏列表
+            </span>
+          </div>
+          <div class="p-option" :class="{active: selectOption == 'personalPage'}" @click="handlePageChange('personalPage')">
+            <div class="p-icon">
+            </div>
+            <span class="p-option-font" :class="showTextStyle">
+              个人资料
+            </span>
+          </div>
+        </div>
+
+
+        <div class="option-group" :style="panelMenuRadius">
+          <div class="option" @click="openUserPanel">
+            <el-icon class="option-icon" size="18px">
+              <UserFilled />
+            </el-icon>
+            <div class="panel-font" :class="showTextStyle">
+              用户
             </div>
           </div>
-<!--      </el-container>-->
+
+          <div class="line" :class="{active: asideHover}"></div>
+
+          <div class="option">
+            <el-icon class="option-icon" size="18px">
+              <Lock />
+            </el-icon>
+            <div class="panel-font" :class="showTextStyle">
+              用户用户有
+            </div>
+          </div>
+
+          <div class="line" :class="{active: asideHover}" ></div>
+
+          <div class="option">
+            <el-icon class="option-icon" size="18px">
+              <Lock />
+            </el-icon>
+            <div class="panel-font" :class="showTextStyle" >
+              hello
+            </div>
+          </div>
+        </div>
+      </div>
     </el-aside>
     <el-main style="padding: 0;margin-left: 5.5rem">
       <router-view></router-view>
@@ -155,40 +204,37 @@ onMounted(() => {
 .page-aside{
   position: absolute;
   height: 100vh;
-  width: 5.5rem;
+  width: 5rem;
   background: white;
-  box-shadow: 0 0 0.5rem rgba(0,0,0,.3);
-  transition: width 0.3s ease;
+  box-shadow: 0 0 0.3rem rgba(0,0,0,.2);
+  transition: width 0.25s ease-out;
 
   overflow: hidden;
 }
 
 .page-aside:hover{
-  width: 12.5rem;
+  width: 15rem;
 }
 
 .menu-header{
-  height: 6rem;
+  height: 5rem;
   display: flex;
   justify-content: space-between;
   padding: 0;
 }
 
-.page-change{
-  height: 65vh;
-}
-
 .line{
-  position: absolute;
   background-color: #cccccc;
-  height: .1rem;
-  width: 25%;
-  padding: 0;
-  transition: width 0.3s ease;
-}
+  height: 0.05rem;
+  width: 1rem;
+  transform: translate3d(0,0,0) scaleX(1);
 
-.line-style{
-  width: 75%;
+  transition: transform 0.25s ease-out;
+
+  &.active{
+    transform: translate3d(0.1rem,0,0) scaleX(11.5);
+  }
+
 }
 
 .option-group{
@@ -197,14 +243,19 @@ onMounted(() => {
   align-items: center;
   justify-content: space-around;
 
-  height: 8rem;
+  height: 7rem;
   font-size: 1rem;
 
-  transition: all .3s ease;
+  transition: all 0.25s ease-out;
 
   overflow: hidden;
 
   background-color: #f0f0f0;
+  gap: 0.2rem;
+
+  padding-top: 0.25rem;
+
+  padding-bottom: 0.25rem;
 
   .option{
     display: flex;
@@ -215,7 +266,7 @@ onMounted(() => {
     color: #191919;
     width: 93%;
     border-radius: 3px;
-    height: 3rem;
+    height: 2rem;
     transition: all .3s ease;
 
     white-space: nowrap;
@@ -223,10 +274,8 @@ onMounted(() => {
     overflow: hidden;
 
     .el-icon{
-      margin-left: 0.85rem;
+      margin-left: 0.55rem;
     }
-
-
   }
   .option:hover{
     background-color: #d9d9d9;
@@ -235,20 +284,25 @@ onMounted(() => {
 }
 
 .panel-font{
-  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   opacity: 0;
   visibility: hidden;
-  width: 0;
+  font-size: 12px;
+  width: 40%;
   transform: translateX(2rem);
   transition: all .3s ease;
+
+  font-family: "SansMedium", sans-serif;
+
 }
 
 .panel-font.show-text{
-  position: relative;
   opacity: 1;
   visibility: visible;
-  width: auto;
   transform: translateX(3rem);
+
 }
 
 
@@ -261,5 +315,93 @@ onMounted(() => {
   transform: translate(-50%, -50%);
 }
 
+.panel-main{
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .page-change-group{
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+
+    .p-option{
+      display: flex;
+      align-items: center;
+      background-color: white;
+      height: 3.2rem;
+      margin-left: 1rem;
+      margin-right: 1rem;
+
+      border-radius: 3px;
+
+      transition: all .25s ease-out;
+
+      &.active{
+        background-color: #e6e6e6;
+      }
+    }
+
+    .p-option:hover{
+      background-color: #e6e6e6;
+      .p-icon{
+        color: #858585;
+      }
+    }
+  }
+}
+
+.p-option-font{
+  white-space: nowrap;
+  font-size: 14px;
+  font-family: "SansMedium", sans-serif;
+  opacity: 0;
+  transform: translateX(0rem);
+  transition: all .2s ease;
+  z-index: 15;
+}
+
+.p-option-font.show-text{
+  opacity: 1;
+  transform: translateX(0.5rem);
+}
+
+.p-icon{
+  padding-left: .3rem;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  color: #d9d9d9;
+  transition: all .25s ease-out;
+  scale: 70%;
+}
+
+.option-overlay{
+  transition: all 0.2s ease;
+
+  .header-overlay{
+    position: absolute;
+    width: 8px;
+    height: 3.2rem;
+    margin-top: 0.2rem;
+    background-color: #1a1a1a;
+    z-index: 15;
+  }
+
+  .bg-overlay{
+    position: absolute;
+    width: 4rem;
+    height: 3.2rem;
+    margin-top: 0.2rem;
+    z-index: 5;
+    background-color: #e6e6e6;
+    transition: all 0.25s ease-out;
+
+    &.active{
+      width: 14rem;
+    }
+  }
+}
 
 </style>

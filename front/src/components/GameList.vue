@@ -144,10 +144,29 @@ onMounted(() => {
         prop="achieved_count"
         width="100px"
     >
+
+      <template #header>
+        <div class="header-achievement">
+          <div
+              class="container"
+              :class="{active: activeSort === 'achieved_count'}"
+              @click="handleClick('achieved_count')"
+          >
+            <span>成就数</span>
+            <div class="triangle-border"></div>
+          </div>
+        </div>
+      </template>
       <template #default="scope">
-        <span v-if="scope.row.achievements_total !== 0">
-          {{scope.row.achieved_count}} / {{ scope.row.achievements_total }}
-        </span>
+        <div v-if="scope.row.achievements_total !== 0">
+          <span style="color: #1a1a1a">
+            {{scope.row.achieved_count}}
+          </span>
+           /
+          <span style="color: #7a7a7a">
+            {{ scope.row.achievements_total }}
+          </span>
+        </div>
         <span v-else>
           - / -
         </span>
@@ -183,6 +202,15 @@ onMounted(() => {
   font-weight: normal;
 }
 
+.header-achievement{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: normal;
+}
+
 .container {
   display: flex;
   align-items: center;
@@ -209,5 +237,9 @@ onMounted(() => {
 
 :deep(.hidden){
   display: none;
+}
+
+.game-table{
+  user-select: none;
 }
 </style>

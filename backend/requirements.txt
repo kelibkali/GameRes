@@ -5,5 +5,7 @@ peewee~=3.19.0
 Flask~=3.1.2
 flask-cors~=6.0.2
 pillow~=12.1.0
+numpy
+scipy
 python-dotenv
 pymysql
