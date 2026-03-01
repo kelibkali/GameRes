@@ -1,0 +1,99 @@
+{
+  "1780380": {
+    "name": "Golf Solitaire Simple",
+    "steam_appid": 1780380,
+    "required_age": 0,
+    "is_free": true,
+    "description": "A simple Golf Solitaire game with several common rule variations and a challenge mode with more than 100 levels! Can you beat all 100+ levels?<br><br><strong>How to play</strong><br><br>Move the topmost tableau cards to the waste pile, one at a time, as long as they are one up or one down in rank (suits do not matter).  So, if your top waste card is a 7, for example, you may remove any 6s or 8s from the tableau.<br><br>In traditional Golf rules, aces are always low, and you may build A-2-A but not 2-A-K. You may not build up or down on a king at all.  If you take a king from a tableau or deal one from the deck, simply deal another card from the deck and move along to the next tee.  You may play through the stock pile only once.<br><br><strong>Winning</strong><br><br>The goal is to clear away the entire tableau, moving all cards to a single waste pile.  At the end of the game, count how many cards are left in the tableau; this is your score -- the lower the score, the better.<br><br><strong>Common variations on these rules include:</strong><br><br><ul class=\"bb_ul\"><li> Queens may be played on top of Kings.<br></li><li> Turning the corner is permitted so that a King can be played on top of an Ace, and vice versa.<br></li><li> One or both of the Jokers may be added to the deck and used as wild cards that represent any value.<br></li><li> The foundation pile can start off empty, so players can choose one of the exposed cards to move them to the foundation for a &quot;head-start&quot;.</li></ul><br><strong>Credits</strong><br><br>- Card graphics by Kenney - <br>- Star graphics by mkbatista - ",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780380/header.jpg?t=1761567045",
+    "developers": [
+      "Jousting Knight Games"
+    ],
+    "publishers": [
+      "Jousting Knight Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 37,
+      "highlighted": [
+        {
+          "name": "First Tee Off",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/03c2263adb58727531402fac77c72e3b5e20640c.jpg"
+        },
+        {
+          "name": "Par",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/15dcad80f3a097aa17f2d622db8ceca1300e9661.jpg"
+        },
+        {
+          "name": "Bogey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/0f22a54a16349cf187f4d4a11d1b994fb94ee1cb.jpg"
+        },
+        {
+          "name": "Double Bogey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/0da06792181e791391af46c339f5d1da890b1645.jpg"
+        },
+        {
+          "name": "Triple Bogey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/c1b7aeb987364fb7480c783e597c7914c338e64e.jpg"
+        },
+        {
+          "name": "Birdie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/d2c9e4729d02b9e461f137b9ae210e72bc52cbed.jpg"
+        },
+        {
+          "name": "Eagle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/e129f5b1313896fda683f1f8c3bf04a5719947d2.jpg"
+        },
+        {
+          "name": "Double Eagle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/200e38c5f00355bfc6b067ae276a1071e2800e70.jpg"
+        },
+        {
+          "name": "Front 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/f5836802b057cc41b2c2f91a1a6df07804c8cc5e.jpg"
+        },
+        {
+          "name": "Back 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780380/7698987712e73fffca1c7d6e6e98aea2359441eb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

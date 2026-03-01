@@ -1,0 +1,111 @@
+{
+  "1808820": {
+    "name": "Alien Shepherd",
+    "steam_appid": 1808820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Gameplay</h2><br>A unique 2D precision platformer game in which you control an alien shepherd that goes looking for a missing sheep.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/fc85f75f8f0c0dadcd6e1d1d31c44a1c.poster.avif?t=1645954338\" width=600 height=580 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/fc85f75f8f0c0dadcd6e1d1d31c44a1c.webm?t=1645954338\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/fc85f75f8f0c0dadcd6e1d1d31c44a1c.mp4?t=1645954338\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li> More than 50 different levels with increasing difficulty<br></li><li> Two game modes (normal/hard) to please casual and hardcore players<br></li><li> Oldschool handcrafted pixel-art<br></li><li> A unique mechanic that allows flying in any direction for a short period of time<br></li><li> A cute pet jellyfish</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/17920583fcd8bb2f3b775cd0fd192e93.poster.avif?t=1645954338\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/17920583fcd8bb2f3b775cd0fd192e93.webm?t=1645954338\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/extras/17920583fcd8bb2f3b775cd0fd192e93.mp4?t=1645954338\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808820/header.jpg?t=1645954338",
+    "developers": [
+      "Florent Espanet",
+      "Léa Espanet"
+    ],
+    "publishers": [
+      "Florent Espanet"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "The end.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/63aa995b431652d540334f48eadc5d013edb4934.jpg"
+        },
+        {
+          "name": "Immortal.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/2a47e5e6aaaf79091d55b7b66f280fdd897fd9bc.jpg"
+        },
+        {
+          "name": "A secret !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/cd64b90433274d3fead16c6dc984f8c2f0736d62.jpg"
+        },
+        {
+          "name": "All secrets !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/e8daaa6d0de7983c14e71cd7d6b9cf3b7c772efe.jpg"
+        },
+        {
+          "name": "Fusion !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/205c54b6710c552c75a1a61017dc8117b9af3191.jpg"
+        },
+        {
+          "name": "The hard end.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/5ca717fdcf1af36da95154da7f74386a74e8a391.jpg"
+        },
+        {
+          "name": "1000 deaths",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/62178fd1ab76dd85479d1dba787d6599107ad379.jpg"
+        },
+        {
+          "name": "Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1808820/2589fef20bb18c96b8cfaba39f52f3c9898d7d64.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

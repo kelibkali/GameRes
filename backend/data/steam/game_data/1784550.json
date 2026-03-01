@@ -1,0 +1,78 @@
+{
+  "1784550": {
+    "name": "Demolition race",
+    "steam_appid": 1784550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "赛车不在光滑的汽车上，它不介意撞墙甚至加速。 但是，不要急于如此迅速地与您的汽车分开。<br />\r\n如果您足够小心和足够快，它将帮助您成为破坏性种族的冠军。<br />\r\n您在障碍拉力赛道上与多个对手同时开始。 要获得最高奖励，您需要在终点线占据最高位置。<br />\r\n起初，您可以使用最弱的赛车，但随着您赛车生涯的进步，您会购买最强大的赛车以增加获胜的机会。 在赛道上，有一些动态物体会在碰撞中真实地散开，汽车也有一定程度的损坏，必须对其进行监控，以保持发动机工作并成功完成比赛。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784550/header.jpg?t=1662693639",
+    "developers": [
+      "xFAIRx"
+    ],
+    "publishers": [
+      "xFAIRx"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "First on first map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1784550/9f6ed8c21fd1b48bb7847690845786e8e5947fc9.jpg"
+        },
+        {
+          "name": "First on second map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1784550/b087b5aacebf68d70097791b2cd8db8e34449463.jpg"
+        },
+        {
+          "name": "First on third map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1784550/5528062578e2ba8608af2c0437f8af64cf853cda.jpg"
+        },
+        {
+          "name": "First on fourth map",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1784550/b32463734a926cdb00565eca1cc52ba8e93a593b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

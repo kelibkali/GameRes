@@ -1,0 +1,126 @@
+{
+  "1761630": {
+    "name": "What's Your Gender?",
+    "steam_appid": 1761630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The original release of “What's your gender” was our entry and the winner to the “Binary and Beyond” themed BPB game jam. Since then a couple of updates have added content, english language support and rounded out the game. Additionally the Steam release has a couple of achievements to hunt.<br><br>It is an Antichamber inspired educational puzzle game, that allows you to simultaneously explore a non-euclidean maze and concepts and terms related to gender, identity and expression in a playful and reassuring manner. The game is currently available fully voiced in English and German.<br><br><strong>NOTE:</strong> This is a short game.<h2 class=\"bb_tag\" >Controls</h2><br><ul class=\"bb_ul\"><li> WASD or Arrow keys + Mouse to move<br></li><li> Space to jump (optional)<br></li><li> E/LMB to interact</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761630/header.jpg?t=1749735391",
+    "developers": [
+      "PurpleSloth"
+    ],
+    "publishers": [
+      "PurpleSloth"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 70,
+        "description": "环绕声"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Find a Way Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/3fcf1b879f98e09a6875fc5bd2df1f77e0dfc156.jpg"
+        },
+        {
+          "name": "Euphoric Jump",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/b888b652e879d91c21526dde67d1b42f7b622277.jpg"
+        },
+        {
+          "name": "Listen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/42327392ece316d860f3f91f976fd02465730550.jpg"
+        },
+        {
+          "name": "Test a Pronoun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/20e6605af3b63cdcdeabb18550c5a5e82b32924d.jpg"
+        },
+        {
+          "name": "Jump in at the Deep End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/2d5127916ee68a3a9f407b5d7c9283dee7976d19.jpg"
+        },
+        {
+          "name": "Fascinated Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/9e064bb6d8cbd7e53dd96cd93a948bb4572a9067.jpg"
+        },
+        {
+          "name": "Lost Your Footing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1761630/0d444bb6ada1ab27f4bddff0b4608d724d068d2b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

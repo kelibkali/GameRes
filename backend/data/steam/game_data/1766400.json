@@ -1,0 +1,58 @@
+{
+  "1766400": {
+    "name": "清平书社",
+    "steam_appid": 1766400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "七岁那年你不小心一个人走丢了，就在差一点被人贩子拐走的时候你<br />\r\n遇到了那个人，如今你已经十八岁，这十一年里你一直想要再次见到<br />\r\n那个人，那个救了你的大姐姐，可是这么多年来她再没出现过,<br />\r\n直到你大二期间在一家名为“清平书社”的书店兼职店员<br />\r\n开始……<br />\r\n游戏要素<br />\r\n进入剧情后点击推进剧情，每段剧情的最后都会进入三消游戏<br />\r\n三消游戏中：<br />\r\n拖拽格子交换位置，把三个颜色相同的宝石连成一条直线，即可消除。达到指定的目标通关后。<br />\r\n当三个以上相同颜色宝石构成不同形状时，消除时会给一个宝石附加能力（再次被消除时使用能力）：<br />\r\n1.\tL字型 宝石获得十字消能力，同时消除所在行列的宝石<br />\r\n2.\t一字型 宝石获得横向消除能力 1字型宝石获得纵向消除能力<br />\r\n3.\t十字型 宝石获得同色消除能力，将所有同色格子一起消除<br />\r\n当然也会有小恶魔的干扰，阻止你操作这个宝石，小恶魔会随着时间而增加，你需要消灭他们，有些宝石比较硬，带有护盾，被消除时，护盾会被代替宝石消除。<br />\r\n游戏中有道具，道具可以对宝石或恶魔操作实现意想不到的效果，道具可以通过关卡获得，也可以用消除宝石的星星在商店购买。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766400/header.jpg?t=1656675294",
+    "developers": [
+      "qingping"
+    ],
+    "publishers": [
+      "qingping"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 7,
+      "total_negative": 17,
+      "total_reviews": 24
+    },
+    "type": "game"
+  }
+}

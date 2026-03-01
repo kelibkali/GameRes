@@ -1,0 +1,62 @@
+{
+  "1807150": {
+    "name": "KeyHero",
+    "steam_appid": 1807150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "关键英雄（KeyHero）是一款解谜游戏。<br />\r\n<br />\r\n玩家可以控制主角上下左右移动，遇到墙会被挡住。但是玩家也可以用自己的按键搭一座桥，只要有按键覆盖的地方，玩家就可以顺利通过。但是相对应的，玩家就会失去在按键方向的移动能力。此外还有无法通过的火焰，和帮助玩家在地图上远距离移动的传送门。<br />\r\n<br />\r\n游戏的目标就是在配合所有的机制下，收集齐所有方向的按键。<br />\r\n<br />\r\n游戏一共有50关。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807150/header.jpg?t=1638360059",
+    "developers": [
+      "Superwyh"
+    ],
+    "publishers": [
+      "Superwyh"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

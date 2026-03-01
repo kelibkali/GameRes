@@ -1,0 +1,122 @@
+{
+  "1806700": {
+    "name": "Monster Girl Manager",
+    "steam_appid": 1806700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Monster Girl Manager is a monster-raising roguelite that focuses on guiding a team of monster girls through dungeons.<br />\r\n<br />\r\nAll monster girls are procedurally generated from a player entered seed.  Entering the same seed will always produce the same Monster Girl, so players can post seeds they have discovered for others to use. In addition to aesthetic traits like eye color and skin color, seeds also influence base stats and personality.<br />\r\n<br />\r\nPersonality and Monster Type directly influence dialogue, skills, abilities, gift preference, and training preference. Monster Girls have different strengths and weaknesses in battle so finding and training different team compositions is a core part of the gameplay loop.<br />\r\n<br />\r\nDungeons are designed in a Mystery Dungeon style. Traverse a multi-floor dungeon filled with traps and enemies while managing the health and energy of your team. Collect artifacts during a run that empower your team in battle.<br />\r\n<br />\r\nPlayers can upload their own sprites, dialogue, palettes, and dungeon layouts. No coding is required. Simply edit the included text files and restart the game. Monster Girl Manager reads easy to edit png and text files and includes readme files to aid in file manipulation.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1806700/header.jpg?t=1682469363",
+    "developers": [
+      "∇"
+    ],
+    "publishers": [
+      "∇"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 46,
+      "highlighted": [
+        {
+          "name": "I would like to rage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/4fd97e113b9f0341231c7e744d18cb790c39df77.jpg"
+        },
+        {
+          "name": "Bulletproof",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/b16d15b423e6f9ffe94345dcb4187a5365385f01.jpg"
+        },
+        {
+          "name": "The hunt is on!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/db6699b93eba70907ff92eb345612b794e15ec46.jpg"
+        },
+        {
+          "name": "Court is in session",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/7fd797283d186082a2002600603c000c7ebd3b0a.jpg"
+        },
+        {
+          "name": "He who controls the dust",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/872a28bb0711ed149fe3f2fccd9817d6517836c4.jpg"
+        },
+        {
+          "name": "Ultimate Lifeform",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/9078b025b181eb0ae8839f4404abdf00fa670c4e.jpg"
+        },
+        {
+          "name": "Let the colors flow",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/24dda80f7329e69129883e0211a827a056dbda51.jpg"
+        },
+        {
+          "name": "All Seeing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/3a323c652b6f50b26d9cbad76c620dcb139b04f9.jpg"
+        },
+        {
+          "name": "I am the cure",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/3f3db1b7624f9a9bf1369dd64635d936e202d7cb.jpg"
+        },
+        {
+          "name": "Pyromania",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1806700/68cc07fed0217c0f8fd6efc9b7759a90e7863bd8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

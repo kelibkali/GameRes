@@ -1,0 +1,98 @@
+{
+  "1770580": {
+    "name": "DCS: AH-64D",
+    "steam_appid": 1770580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AH-64 “阿帕奇”于1986年首次部署，现已交付约2,400架。自2003年以来，AH-64D一直是美国陆军武装直升机部队的骨干。基于 AH-64A，“Delta”版本是一款双座直升机，飞行员坐在后座，副驾驶/炮手（CP/G）在前面。依靠机头下方安装的一挺30毫米链炮、以及短翼上挂载的地狱火导弹和2.75英寸火箭弹，AH-64D在伊拉克和阿富汗证明了其对抗各种威胁的能力。<br><br>该直升机由两台T-700-GE-701C发动机提供动力，并通过副油箱和内部/辅助油箱的燃油供应而获得较长的任务续航时间。 AH-64D旨在保护驾驶舱和关键部位，因而能够承受中小口径火力。航空器生存设备（ASE）系统包括导弹、激光和雷达警告传感器、雷达干扰机和消耗性对抗措施。<br><br>多亏了飞行员夜视系统（PNVS）以及作为目标捕获和指定瞄准具（TADS）一部分的先进前视红外（FLIR）传感器，AH-64D在夜间成为了一个非常强大的平台。AH-64D飞行员配备了综合头盔和显示瞄准系统（IHADSS），可将飞行、传感器和武器信息投射到他们的右眼，使得他们可以简单地通过目视一个目标来进行攻击。<br><br>除了美国陆军，AH-64D的其他型号还曾在英国、荷兰、日本、埃及、希腊等国家服役。<br><br>在开发后期，我们还将给AH-64D配备火控雷达（FCR），使其能够使用雷达制导的地狱火导弹探测、分类、跟踪和打击空中和水面目标。<br><br><strong>DCS: AH-64D的主要特点</strong><br><br>抢先体验版 :<br><br><ul class=\"bb_ul\"><li>专业的飞行动力学和发动机建模，具有真实飞机在所有高度、温度和速度范围内不同重量和飞行构型的高精度特性<br></li><li>两个6自由度高细节的驾驶舱和机体建模<br></li><li>带鼠标交互的完全可点击座舱<br></li><li>多机组乘员。另一个乘员可以是玩家也可以是AI “George”<br></li><li>完整电气、燃油、液压、冷气、防火、SCAS、保持模式以及无线电系统的详细建模<br></li><li>武器装备系统的完整建模：30毫米链炮、2.75”火箭弹以及AGM-114K地狱火反坦克导弹（直接、低、高模式）<br></li><li>外挂副油箱<br></li><li>IHADSS、MPNVS和MTADS/TEDAC系统以及传感器<br></li><li>线性运动补偿器（LMC）<br></li><li>带移动地图的战术态势显示（TSD）<br></li><li>防御系统（包括导弹告警系统、箔条热诱布撒器以及雷达告警接收机）<br></li><li>美国陆军和其他涂装<br></li><li>夜视仪<br></li><li>探照灯<br></li><li>抢先体验手册<br></li><li>训练任务</li></ul><br><strong>完整版：</strong><br><br><ul class=\"bb_ul\"><li>火控雷达（FCR）和雷达频率干涉仪（RFI）<br></li><li>添加AGM-114L雷达制导地狱火<br></li><li>通过数据链在小队成员之间共享和指示目标<br></li><li>TADS 多目标跟踪（MTT）<br></li><li>激光告警系统<br></li><li>雷达干扰器<br></li><li>防冰系统<br></li><li>先进损毁建模<br></li><li>更多的涂装和涂装模板<br></li><li>完整的英文（完整语言支持待定）<br></li><li>Eagle Dynamics制作的战役</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770580/header.jpg?t=1740599673",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 43300,
+      "final": 43300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 433.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 41,
+      "total_negative": 20,
+      "total_reviews": 61
+    },
+    "type": "dlc"
+  }
+}

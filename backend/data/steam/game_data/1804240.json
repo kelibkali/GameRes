@@ -1,0 +1,50 @@
+{
+  "1804240": {
+    "name": "MUReader",
+    "steam_appid": 1804240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "MUReader是一款定位于PC端的轻量级小说阅读器，它可以快速加载大体积txt文件并提供流畅的阅读体验。让您在紧张的脑力运动之余，用不同的方式放松自己紧绷的神经。但出于某些法律原因，MUReader当前并不提供小说的下载途径。<br><ul class=\"bb_ul\"><li>超快的加载速度：实测60M体积的txt文件可以无感加载、翻阅<br></li><li>自适应的块式浏览：文字区域会根据软件窗口尺寸的变化自动调整以尽可能多的展示内容，对21:9或更宽的带鱼屏有最佳阅读体验，弥补传统模式只能集中在屏幕中间缓慢阅读的缺憾。<br></li><li>专注的阅读区域：除了必要且极窄的上下工具条外全是阅读区域，可以尽享小说剧情。<br></li><li>阅读场景快捷键：方向键、wasd切页/滚动，+、-调整字体，支持小键盘控制。<br></li><li>“弱智版”目录检索功能：受限于txt文档本身的格式特点，章节需要靠软件自行识别，当前可以按照固定格式判断章节。小说明：每次启动后的首次展开目录会有“1秒每千章”的卡顿。相应的优化工作已经写入计划表，因并不是最紧迫任务，工作室将在主体功能大体完善后的优化阶段进行处理。<br></li><li>关于小说：再次重申，MUReader不提供下载途径。</li></ul>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1804240/header_schinese.jpg?t=1636537143",
+    "developers": [
+      "MuYun Software Studio"
+    ],
+    "publishers": [
+      "MuYun Software Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

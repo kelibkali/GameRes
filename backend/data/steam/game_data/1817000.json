@@ -1,0 +1,110 @@
+{
+  "1817000": {
+    "name": "Zodiacats",
+    "steam_appid": 1817000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/763a239eb00c651e92ac88b686697559.avif?t=1764106800\" width=600 height=192 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/1e186ee9636be6e50874e8d59a405333.poster.avif?t=1764106800\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/1e186ee9636be6e50874e8d59a405333.webm?t=1764106800\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/1e186ee9636be6e50874e8d59a405333.mp4?t=1764106800\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/0f8952a80e5e8c7ef67bc33f020ceefe.avif?t=1764106800\" width=620 height=279 /></span><br><br>星座猫是一个拼图类游戏，通过拼图你将揭晓一只星座猫的真面目。<br>你也可以获知关于你的星座的预测，看未来将带你去往何处！<br>让凯瑟琳引导你使用占星盘，向你展示每个星座的特质。你也可以探知你的小猫的星座！<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/extras/aa5bde11bcaf6ae74c0ce77e557318a4.avif?t=1764106800\" width=620 height=229 /></span><br><br>猫咪们是可爱的神秘生物，它们是我们的守护者，也是唯一拥有穿越此生和往生的能力的物种。猫咪们古灵精怪又蠢萌，它们的内心充满魔力和正能量！<br><br><ul class=\"bb_ul\"><li>必须使用鼠标<br></li><li>令人放松的游戏体验<br></li><li>Steam游戏成就</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西, 日语, 韩语, 俄语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817000/header.jpg?t=1764106800",
+    "developers": [
+      "Devcats"
+    ],
+    "publishers": [
+      "Devcats"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 550,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Aries",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/a624202499783f94712e4773010ecf6921e09fbd.jpg"
+        },
+        {
+          "name": "Taurus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/b4104b0d4de806db23350aace0cb2782f89a3ccb.jpg"
+        },
+        {
+          "name": "Gemini",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/8d6750ec47f3d2dec0d868b2217876046f5bc16d.jpg"
+        },
+        {
+          "name": "Cancer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/b081e77e7ea0fd44384b2eb325888755e2c72fef.jpg"
+        },
+        {
+          "name": "Leo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/00b9d9d564748129a85a78982d1ec8b96f7a37d5.jpg"
+        },
+        {
+          "name": "Virgo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/10d52632e8fd0ab960940b7d757c54e32b7f887b.jpg"
+        },
+        {
+          "name": "Libra",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/df669e873530c23583b957f3dfe8ab091e69444d.jpg"
+        },
+        {
+          "name": "Scorpio",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/fb1bf581fe797d10c39800ccbaa7fa1be6e415b8.jpg"
+        },
+        {
+          "name": "Sagittarius",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/a938cb591b13839ca4f5799df211f65c31a9e965.jpg"
+        },
+        {
+          "name": "Capricorn",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1817000/12776615777364cb0fcde91ade3f08afcebcd99c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 81,
+      "total_negative": 1,
+      "total_reviews": 82
+    },
+    "type": "game"
+  }
+}

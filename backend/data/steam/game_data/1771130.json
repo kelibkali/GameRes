@@ -1,0 +1,110 @@
+{
+  "1771130": {
+    "name": "OPEN DOOR",
+    "steam_appid": 1771130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于游戏</h2>首先，你必须四处走动（随着游戏的进行，寻找物品和解决故事，以及解决难题）。<br>其次，scrimmers（是的，他们是存在的，但他们不是那么多）。<br><br>这是我的第一个独立恐怖项目，其剧本和概念被多次回收，受到许多经典游戏的启发，从中汲取灵感。<h2 class=\"bb_tag\" >关于机制</h2>游戏的特点是经典的机制，如解开谜题，寻找物品，将某些物品与其他物品结合起来，还可以找到通道和钥匙。<br>游戏还具有一些隐身机制。<h2 class=\"bb_tag\" >关于故事</h2>所有的一切都围绕着一个组织展开，该组织将人用于生物技术的目的，因为这个目的，里面开始发生奇怪的事情。",
+    "supported_languages": "英语<strong>*</strong>, 俄语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 繁体中文, 韩语, 日语, 波兰语, 土耳其语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771130/header.jpg?t=1726363969",
+    "developers": [
+      "BraveCat'Studios"
+    ],
+    "publishers": [
+      "BraveCat'Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 580,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 29.00",
+      "final_formatted": "¥ 5.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "What the hell?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/c28c054eee0d442bcec79460030305bec664267b.jpg"
+        },
+        {
+          "name": "Easy peasy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/6ce886e716d51c466c484e79e302504afdd606ee.jpg"
+        },
+        {
+          "name": "Pathologist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/acd96332ac97c024e5ab6e07a9eec39f46bff5fd.jpg"
+        },
+        {
+          "name": "Let there be light!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/26a5c4c52216fb9fe6100055af30d4aece1632f4.jpg"
+        },
+        {
+          "name": "I'm sick of it!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/12e8e5f00a2862788076abb7b2f1cacd5e9247f9.jpg"
+        },
+        {
+          "name": "Inquisitive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/7e4fc6cf01ab7ee119a1bd115e0e2c861214f5cd.jpg"
+        },
+        {
+          "name": "Bureaucracy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/7ad3a4ec6c62530bf3c6d9fc594bbb263020235a.jpg"
+        },
+        {
+          "name": "Learn all the secrets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/c7b81ca75b9d200ee78cc52ec0d81f0e5a484637.jpg"
+        },
+        {
+          "name": "Smarter than everyone!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/99409146d99111a1f39285d393f157ba34516e8d.jpg"
+        },
+        {
+          "name": "Bull's-eye!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1771130/57a8ff78e6ccb9f0d1805cd9fd268281896eb0d4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 3,
+      "total_reviews": 16
+    },
+    "type": "game"
+  }
+}

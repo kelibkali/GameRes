@@ -1,0 +1,64 @@
+{
+  "1782010": {
+    "name": "Serendipity Hotel",
+    "steam_appid": 1782010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "「Serendipity Hotel」<br />\r\n<br />\r\nYou, who solved many cases in Serendipity Village, have been invited to the Serendipity Hotel VIP event.<br />\r\nIt is a 2D adventure mystery game where you solve the events that take place in a hotel.<br />\r\n<br />\r\n<br />\r\n{STEAM_APP_IMAGE}/extras/등장인물.jpg<br />\r\nVIPs and hotel staff invited along with the detective.<br />\r\nThey are the breads to enjoy the event together, but they are the suspects in the incident at the Serendipity Hotel.<br />\r\n<br />\r\nPlease solve the case through investigation!",
+    "supported_languages": "韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782010/header.jpg?t=1651734872",
+    "developers": [
+      "HOIT",
+      "MIZZA"
+    ],
+    "publishers": [
+      "hoit",
+      "mizza"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

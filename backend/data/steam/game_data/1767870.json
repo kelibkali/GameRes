@@ -1,0 +1,45 @@
+{
+  "1767870": {
+    "name": "KONAMI Publisher Sale",
+    "steam_appid": 1767870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "",
+    "supported_languages": "英语",
+    "header_image": null,
+    "developers": [
+      "Flatiron Films"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": ""
+    },
+    "categories": [
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "80",
+        "description": "电影"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "advertising"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "1794710": {
+    "name": "Infinite Progression",
+    "steam_appid": 1794710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Procedural Generation</h2><br>The game is formatted as a list of modules, all in a stack, These modules all interact with the ones above. Once you make 10000 currency, you can buy another module. This module will be randomly picked, yet with a seed, you can play the same sequence every time.<h2 class=\"bb_tag\" >Never Ending</h2><br>Incremental games have always had an end, whether it is because the effort to go on is impossible to put forth, or because the end is predefined, but not with this one. Every module in the base game is designed to allow you to play the game indefinitely.<h2 class=\"bb_tag\" >High Replayability</h2><br>Play the game with whatever combinations of mods you want. Mods can range from boosts to generators, to Plus-Mode where you can choose the next module.<h2 class=\"bb_tag\" >Easy To Learn Modding System With A Growing API</h2><br>Don't think there are enough modules in the game, just make another. With a python plugin system and a built-in mod maker, you can do anything you want. It doesn't end there, the majority of what future updates will contribute to the API of the game, making it easier to do what you would like.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/header.jpg?t=1646678014",
+    "developers": [
+      "Prestosilver"
+    ],
+    "publishers": [
+      "Prestosilver"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Fair is Fair",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1794710/c7e9b2bd229c6301262d492445e8d9252a077859.jpg"
+        },
+        {
+          "name": "Ugh thats so unfair",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1794710/c7e9b2bd229c6301262d492445e8d9252a077859.jpg"
+        },
+        {
+          "name": "Better Together",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1794710/4f55e4281c6e6392e43d9ad5f746e05d4e118a90.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

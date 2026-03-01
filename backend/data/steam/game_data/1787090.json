@@ -1,0 +1,102 @@
+{
+  "1787090": {
+    "name": "MyDockFinder",
+    "steam_appid": 1787090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >MyDockFinder</h2><br>MyDockFinder是一款系统快速启动和控制查看系统功能的软件。可以拖拽添加自己喜好的程序或文件，拖拽直接使用程序打开文件。基于WinUI使用GPU渲染，流畅的动画效果，贝塞尔曲线圆角模糊而且可以调节模糊强度。管理系统所有窗口的最小化动画。<br><br>定期持续更新，可能会有崩溃现象，请在下面留言反馈问题，后续更新将会带来创意工坊、更多成就、更换皮肤功能等众多功能，敬请期待！<br>一个人开发进度较慢，每次更新需要两到三周甚至一个月时间。<br>如果有严重问题的可以直接发邮件给我，我可以远程帮助解决问题，目前解决了30多个没有失败的。<h2 class=\"bb_tag\" >主要功能</h2><ul class=\"bb_ul\"><li><strong>全局实时动态模糊效果可以调节模糊强度</strong></li></ul><ul class=\"bb_ul\"><li>支持4K高分辨率和多显示器环境</li></ul><ul class=\"bb_ul\"><li>可以同步修改系统亮色和暗色模式</li></ul><ul class=\"bb_ul\"><li>Steam云备份配置文件（手动备份，steam成就）</li></ul><h2 class=\"bb_tag\" ><strong>MyDock</strong></h2><ul class=\"bb_ul\"><li>dock栏图标可以快速启动应用程序</li></ul><ul class=\"bb_ul\"><li>可手动修改图标</li></ul><ul class=\"bb_ul\"><li><strong>窗口最小化动画</strong>（三种效果可选）</li></ul><ul class=\"bb_ul\"><li>启动台快速启动程序面板</li></ul><ul class=\"bb_ul\"><li>特定程序消息提醒功能</li></ul><ul class=\"bb_ul\"><li>快速查看活打开文件夹内所有文件</li></ul><ul class=\"bb_ul\"><li>查看当前城市天气详情</li></ul><ul class=\"bb_ul\"><li>窗口预览管理应用程序窗口</li></ul><ul class=\"bb_ul\"><li>显示应用程序下载、播放媒体进度条</li></ul><ul class=\"bb_ul\"><li>图标套用统一遮罩使其更加协调</li></ul><ul class=\"bb_ul\"><li>多种隐藏显示模式</li></ul><ul class=\"bb_ul\"><li>每个应用程序可设置独立的隐藏模式</li></ul><h2 class=\"bb_tag\" ><strong>MyFinder</strong></h2><ul class=\"bb_ul\"><li>可以快捷关机、重启、注销电脑</li></ul><ul class=\"bb_ul\"><li>CPU、内存、磁盘、网速、温度监控（需要手动开启，steam成就）</li></ul><ul class=\"bb_ul\"><li>管理WiFi网络连接</li></ul><ul class=\"bb_ul\"><li>系统托盘图标显示管理操作</li></ul><ul class=\"bb_ul\"><li>蓝牙连接配对</li></ul><ul class=\"bb_ul\"><li>调节显示器亮度，包括台式机显示器<strong>（台式机显示器调节亮度可能会损坏你的显示器，HDMI接口可能会失效，DP接口可以完美调节亮度）</strong></li></ul><ul class=\"bb_ul\"><li>快速调节音量，切换音频输出设备，可以分别修改每个程序的音量大小</li></ul><ul class=\"bb_ul\"><li>所有功能按钮鼠标右键可显示对应系统功能</li></ul><ul class=\"bb_ul\"><li>媒体控制功能</li></ul><ul class=\"bb_ul\"><li>音量变化提示</li></ul><ul class=\"bb_ul\"><li>沉浸式显示更好的融合窗口背景</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 俄语, 日语, 简体中文, 繁体中文, 韩语, 西班牙语 - 西班牙, 意大利语, 乌克兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 瑞典语, 泰语, 葡萄牙语 - 巴西, 希腊语, 土耳其语, 波兰语, 捷克语, 保加利亚语, 越南语, 阿拉伯语, 匈牙利语, 斯洛伐克语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1787090/header.jpg?t=1751263441",
+    "developers": [
+      "MyDockFinder"
+    ],
+    "publishers": [
+      "MyDockFinder"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "MyDockFinder老用户",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/a3ca2cbfe5b73bda5f4737e8fe0ff0a6c11729f1.jpg"
+        },
+        {
+          "name": "Steam 云备份",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/fcfd728e670537b17b1e90487d45156881613ae6.jpg"
+        },
+        {
+          "name": "首次编辑图标",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/e9787eb41cdde4299968a2bd4bbace72eb541084.jpg"
+        },
+        {
+          "name": "天气预报",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/a4709d9a7a46ddf4aecae016b86be19470d45dfa.jpg"
+        },
+        {
+          "name": "添加图标",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/587b93802b72f7bde471a4b055359ccc54e8972b.jpg"
+        },
+        {
+          "name": "启动台",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/7b9b52a7c3c42852660203334b466702ddbd9444.jpg"
+        },
+        {
+          "name": "自定义logo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/2688384ac0a12edb60adbc0d6b12fbe28deda06d.jpg"
+        },
+        {
+          "name": "关闭计算机",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/94854649704885440164ce46bd87cdca051cd88a.jpg"
+        },
+        {
+          "name": "系统功能",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/c92a73aa8622b590074e1982bf0977a1884d8c8a.jpg"
+        },
+        {
+          "name": "系统检测",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1787090/e9787eb41cdde4299968a2bd4bbace72eb541084.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 3061,
+      "total_negative": 1416,
+      "total_reviews": 4477
+    },
+    "type": "game"
+  }
+}

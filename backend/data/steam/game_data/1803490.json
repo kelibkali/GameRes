@@ -1,0 +1,90 @@
+{
+  "1803490": {
+    "name": "Neo Spectrum",
+    "steam_appid": 1803490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The system has been compromised, it's your job to restore it.<br>Neo Spectrum is a 2D puzzle platformer game. Use the properties of the different colored blocks to face numerous puzzles and challenges, starting from simple ones like moving platforms, to advanced ones where you'll have to manouver quickly around enemies, dodge lasers, walljump and even control multiple characters at once.<h2 class=\"bb_tag\" >Blocks</h2><br>Each colored block has unique properties:<br>The RED block is dynamic and affected by physics.<br>The GREEN block is bouncy and can be used to jump higher or bounce red blocks around.<br>The BLUE block is sticky and can be used to climb and maybe some more advanced tricks.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803490/extras/7dfc0396104bc9536ae39cc3c4b5f26b.poster.avif?t=1637061856\" width=548 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803490/extras/7dfc0396104bc9536ae39cc3c4b5f26b.webm?t=1637061856\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803490/extras/7dfc0396104bc9536ae39cc3c4b5f26b.mp4?t=1637061856\" type=\"video/mp4\"></video></span><br>Colored blocks demonstration.",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803490/header.jpg?t=1637061856",
+    "developers": [
+      "Victor Gheno de Souza"
+    ],
+    "publishers": [
+      "Victor Gheno de Souza"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "System Clear!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1803490/7a8aec7d8195aefcf7295f0c4ae99303f125959b.jpg"
+        },
+        {
+          "name": "Memory Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1803490/31851fab631ba29fc9e45a7449d70e8c374bdae1.jpg"
+        },
+        {
+          "name": "Red Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1803490/242a388ee85f1e16232d52656fd320c2fbd36538.jpg"
+        },
+        {
+          "name": "Green Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1803490/e748de220dcdc2a657f141466629e28d8ae0af31.jpg"
+        },
+        {
+          "name": "Blue Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1803490/b5de2dc9cfc6f82db0f74a40499401fc3281b21f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

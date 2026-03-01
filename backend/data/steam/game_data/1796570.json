@@ -1,0 +1,86 @@
+{
+  "1796570": {
+    "name": "Jump Movement",
+    "steam_appid": 1796570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款硬核2D平台游戏，设计简约，画面赏心悦目。<br />\r\n你只能在跳跃时向左和向右移动，直到你落地。在每个地点，你有6个房间，在你通往终点的路上有许多障碍。<br />\r\n总共有5个地点和5个难度级别--总共有25个组合--尝试在最短的时间内通过每个组合。<br />\r\n你能做到吗？听起来不是太难？那么祝你好运，并尽量不要砸坏你的键盘 :)",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 简体中文, 荷兰语, 葡萄牙语 - 葡萄牙, 俄语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796570/header.jpg?t=1696968825",
+    "developers": [
+      "Semsamoon"
+    ],
+    "publishers": [
+      "Lunavis Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "An eager novice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1796570/c70023d11aa4ab51fececae391f7514977cf82d1.jpg"
+        },
+        {
+          "name": "Advanced techniques",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1796570/40c1b877d110e179938ec130afd5103c26276001.jpg"
+        },
+        {
+          "name": "Good skills",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1796570/099029123919e70aeaf391b50990ebdb7a6e4994.jpg"
+        },
+        {
+          "name": "Master class",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1796570/c3fcd3a7c99f30570985017d5820f72868e6a21b.jpg"
+        },
+        {
+          "name": "An expert in everything",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1796570/26083f4a17eb42e88dbfa5d576d2e10ae1881b2d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

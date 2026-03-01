@@ -1,0 +1,110 @@
+{
+  "1788390": {
+    "name": "Insect Seeker",
+    "steam_appid": 1788390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个游戏包括寻找隐藏在关卡中的各种昆虫（还有一些其他动物）。<br />\r\n所有关卡都是真实昆虫的照片<br />\r\n- 根据照片的气氛会出现自然的声音：鸟鸣、河流、雨声、海浪……<br />\r\n- 在遇到困难时提供帮助：排除的搜索区域、动物或昆虫的类型、您必须准确找到哪种昆虫或动物。<br />\r\n- 一旦发现一种昆虫，它就会出现在动物寓言中，并带有一张大照片，其名称后跟其拉丁学名。<br />\r\n- 级别已分为 7 个难度级别，从“初学者”到“硬核”，允许根据您的级别校准难度。<br />\r\n- 这个游戏适合所有年龄段和全家，了解我们从未见过的昆虫和动物的存在。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 简体中文, 韩语, 希腊语, 日语, 葡萄牙语 - 葡萄牙, 俄语, 泰语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1788390/header.jpg?t=1767199906",
+    "developers": [
+      "Elisabeth Mila Rose"
+    ],
+    "publishers": [
+      "Elisabeth Mila Rose"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "First Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/003d89ddc0073016fd93e6ddd82c0903b3fff9d6.jpg"
+        },
+        {
+          "name": "levels : I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/e31e72ffdef9810123da4fb7b33516e9ef2d8db5.jpg"
+        },
+        {
+          "name": "Levels : II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/d782a691171dad5cec2d082cd018223831d7de03.jpg"
+        },
+        {
+          "name": "Levels : III",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/0e3e53df3019ea7007ecf2583b9312f78e654517.jpg"
+        },
+        {
+          "name": "Levels : IV",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/5020b51c52ee3453b0a42286d50e25083db401b3.jpg"
+        },
+        {
+          "name": "Stars : I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/e0dbbf977c11bf9592f0e8ded2bfd36067b3654f.jpg"
+        },
+        {
+          "name": "Stars : II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/70c798dbbda05d2f64a159d223c30c889f57111a.jpg"
+        },
+        {
+          "name": "Stars : III",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/c357c81f82011332e82c3340794bbe282a4b2477.jpg"
+        },
+        {
+          "name": "Stars : IV",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/413e25b8a03d1aaf221234c4b96ce73f0cfc189d.jpg"
+        },
+        {
+          "name": "Speedrun : I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1788390/7ee8dff0b2c4278d48c26091f71e0f4144afd3e2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

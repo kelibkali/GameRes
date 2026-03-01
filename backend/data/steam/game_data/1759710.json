@@ -1,0 +1,49 @@
+{
+  "1759710": {
+    "name": "MocapForAll",
+    "steam_appid": 1759710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "--------<br>PLEASE TRY DEMO VERSION FIRST<br>Make sure the app works in your environment before purchase. The demo version has limited functionality only for data export.<br>--------<br><br>This is a Windows application that uses multiple webcams to capture human motion using AI.<h2 class=\"bb_tag\" >No special equipment required</h2>You can capture human motion if you have the followings:<br><ul class=\"bb_ul\"><li>a middle range PC<br></li><li>2 or more webcams<br></li><li>a room of about 2.5m x 2.5m</li></ul>You can use regular webcams like the ones used in video conferences. You can also use apps that turns your smartphones or tablets into webcams.<h2 class=\"bb_tag\" >Realtime with a middle range PC</h2>For examples, it runs at<br><ul class=\"bb_ul\"><li>around 17 fps on Surface Pro 7 which does not have a dedicated GPU<br></li><li>30 to 60 fps on GTX 1080 Ti</li></ul><h2 class=\"bb_tag\" >What you can do with MocapForAll</h2><ul class=\"bb_ul\"><li>You can output captured motion to the network(*1) via VMT protocol(*2) and VMC protocol(*3) in real time.<br></li><li>You can save the captured motion to files in BVH format and FBX format.<br></li><li>You can output captured motion to the shared memory in real time.</li></ul><br>(*1) Both VMT protocol and VMC protocol use UDP/OpenSound Control.<br>(*2) &quot;VMT protocol&quot; here refers to the message format used in the communication of Virtual Motion Tracker. The official HP of Virtual Motion Tracker does not use the word &quot;VMT protocol&quot;, but MocapForAll uses the word &quot;VMT protocol&quot; for convenience.<br>(*3) &quot;VMC protocol&quot; is a message format used for communication between applications such as VirtualMotionCapture. Note that VirtualMotionCapture itself is not required for other compatible apps to communicate with each other using VMC protocol.<br><br>These allow you to do the followings:<br><br><strong>Use in SteamVR via Virtual Motion Tracker</strong><br>Through Virtual Motion Tracker, the capture motion can be used as virtual trackers in applications running on SteamVR.<br><br><strong>Use in Unreal Engine4, Unreal Engine5, Unity</strong><br>You can send the captured motion to Unreal Engine4, Unreal Engine5, or Unity for game development or video production.<br><ul class=\"bb_ul\"><li>Plugins for linking data directly to UE4, UE5, or Unity are available from the online manual.<br></li><li>As described in Use in other apps via VMC protocol, it is also possible to link by EVMC4U and VMC4UE using VMC Protocol.<br></li><li>A Unity sample to read data from the shared memory written by MocapForAll is available from the online manual.</li></ul><br><strong>Use in other apps via VMC protocol</strong><br>You can send the captured motion to various applications via the VMC protocol. The following are confirmed to work:<br><ul class=\"bb_ul\"><li>Sending bones and facial expression morphs to Unity using EVMC4U<br></li><li>Sending bones and facial expression morphs to Unreal Engine using VMC4UE<br></li><li>Sending bones to Blender using VMC4B<br></li><li>Sending bones to VSeeFace, and receiving facial expression morphs from VSeeFace<br></li><li>Sending tracker to VirtualMotionCapture</li></ul><br><strong>Save animations to files</strong><br>You can save the captured motion as BVH files and FBX files. It can be used with Blender etc.<br><br><strong>Create programs to receive data</strong><br>As the output specifications are open to public (except for FBX), you can even create your own programs to receive data from MocapForAll.",
+    "supported_languages": "英语, 日语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/header.jpg?t=1647507896",
+    "developers": [
+      "Akiya Research Institute"
+    ],
+    "publishers": [
+      "Akiya Research Institute"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 60000,
+      "final": 60000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 600.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 30 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

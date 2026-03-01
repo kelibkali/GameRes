@@ -1,0 +1,114 @@
+{
+  "1780530": {
+    "name": "Cyber Sweep",
+    "steam_appid": 1780530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mines are randomly distributed. Find where they are by removing blocks. Beacons will guide you by showing how many adjacent Mines there are, if any. You win when all Mines have either been surrounded or have been removed. Be careful not to hit a Mine!<h2 class=\"bb_tag\" >Modes</h2>Choose between two game modes:<br><ul class=\"bb_ul\"><li><strong>Mine</strong> - Remove all Blocks until only the Mines remain. <br></li><li><strong>Sweep</strong> - Remove all Mines instead.</li></ul><h2 class=\"bb_tag\" >Difficulty</h2>Choose between the following sizes:<br><ul class=\"bb_ul\"><li><strong>Rookie</strong> 5x5x5 Blocks with 10 Mines<br></li><li><strong>Professional</strong> 7x7x7 Blocks with 33 Mines (Unlocked by winning above)<br></li><li><strong>Operative</strong>: 8x8x8 Blocks with 50 Mines (Unlocked by winning above)<br></li><li><strong>Elite</strong>: 9x9x9 Blocks with 70 Mines (Unlocked by winning above)<br></li><li><strong>Legend</strong>: 10x10x10 Blocks with 99 Mines (Unlocked by winning above)</li></ul><h2 class=\"bb_tag\" >Steam Features</h2><ul class=\"bb_ul\"><li><strong>Stats</strong>: Your progress is saved and can be used for unlocking higher difficulties and other goodies.<br></li><li><strong>Achievements</strong>: There are 19 Achievements available. All should be able to be obtained after a few hours of play-through.<br></li><li><strong>Leaderboards</strong>: Your best Time on specific Game Mode and Difficulty is uploaded and can be compared with others.</li></ul><h2 class=\"bb_tag\" >Graphics</h2>Overall Quality settings using:<br><ul class=\"bb_ul\"><li><strong>Low</strong>, <strong>Medium</strong>, <strong>High</strong>, <strong>Epic</strong>, <strong>Cinematic</strong></li></ul>Anti-aliasing and Super Sampling using: <br><ul class=\"bb_ul\"><li><strong>FXAA</strong> - Fast Approximate Anti-Aliasing (Improves quality (old))<br></li><li><strong>TAA</strong> - Temporal Approximate Anti-Aliasing (Improves performance)<br></li><li><strong>TSR</strong> - Temporal Super Resolution (Improves motion clarity)</li></ul>Use the built-in Benchmark to see worst-case scenario.<h2 class=\"bb_tag\" >How to Play</h2><br><br>A <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/extras/f1bce39cc59829bdd71f71914284142a.avif?t=1653641354\" width=64 height=64 /></span>   B<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/extras/5cc41302b9cda53a8ccc0c0d771b790d.avif?t=1653641354\" width=64 height=64 /></span>   C<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/extras/85ef0ec7f4c79b585cff2633f0d08a50.avif?t=1653641354\" width=64 height=64 /></span>   D <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/extras/81ff1947f295dabf08bdacc4441b7012.avif?t=1653641354\" width=64 height=64 /></span>   E <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/extras/3c5a274c4d3961033383b7588302c997.avif?t=1653641354\" width=64 height=64 /></span><br><br>A. <strong>Block:</strong> <br>Remove Blocks by clicking the Left Mouse button. It can be empty inside, contain a Beacon, or a Mine.<br><br>B. <strong>Mine:</strong><br>Mine mode: If you hit a Mine it's Game Over. <br>Sweep mode: Right Mouse click to remove the Mine. When all Mines are cleared you've won. <br><br>C. <strong>Beacon:</strong> <br>Tells if there are adjacent Mines. Pay attention to all directions including diagonally. <br>The number and color will indicate how many adjacent Mines there are.<br><br>D. <strong>Marker:</strong><br>Set a Marker with the Right Mouse button if you are suspecting a Mine there. Any numbers of Markers is allowed. <br><br>E. <strong>Shield:</strong><br>A Shield is awarded once a day, but you can have no more than 10 in total. Only one shield can be used per match. The Shield will prevent you from hitting a Mine.<h2 class=\"bb_tag\" >Secrets</h2><br>You've read this far and deserve to know the secrets. <br><br><ul class=\"bb_ul\"><li>Achievement: Play Rookie and Operative difficulties on Sweep Mode to unlock two separate backgrounds.<br></li><li>Achievement: Click on the Fuyu Games Logo (Main Menu) to visit our homepage. Feel free to look into our other games! <br></li><li>Easter Egg: Find the lost item from our previous game and click on it. Appears in Space when in Main Menu. <br></li><li>Easter Egg: Find the lost item from our previous game and click on it. Appears after 13 minutes and 37 seconds, in the right corner. </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780530/header.jpg?t=1653641354",
+    "developers": [
+      "Fuyu Games AB"
+    ],
+    "publishers": [
+      "Fuyu Games AB"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 825,
+      "discount_percent": 25,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 8.25"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "Acquired 10 Shields!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/4b31e5ce8b0cb722f2ffec3633fae6cee5bc1fc8.jpg"
+        },
+        {
+          "name": "Destroyed 5000 Blocks!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/cc56765ed06c9f5ca970df647262a2aa7395bfa1.jpg"
+        },
+        {
+          "name": "Found 500 Mines!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/ffa28aace7c858495091e2338fde71e168355c09.jpg"
+        },
+        {
+          "name": "Found 100 Mines!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/25f729d9e75d681006f11f6f554d8b586baaa0d6.jpg"
+        },
+        {
+          "name": "Master all Difficulties!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/954a542e4bfefd0a7b3767d1385c34ace9b85e75.jpg"
+        },
+        {
+          "name": "Got your first Shield!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/2ab513df3c7e2631933e50f4a20890dddd403a43.jpg"
+        },
+        {
+          "name": "Another Background!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/f920d4e07b28abf25b28eb695d217cb9a71a7da6.jpg"
+        },
+        {
+          "name": "Yet Another Background!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/83edeb4df1ea19529c9fb20acaa6e8bdf9894eb9.jpg"
+        },
+        {
+          "name": "Acquired 5 Shields!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/48c8c97e0cf2caab5a8dc2163f31e55320757c2a.jpg"
+        },
+        {
+          "name": "Unlocked Elite Difficulty!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1780530/38af9a85d3977710b5c5a109312c4a150dc1dbca.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1813570": {
+    "name": "jingor sudoku",
+    "steam_appid": 1813570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >智晶数独是一款益智游戏，可作为兴趣爱好，可挑战智力，可休闲娱乐。</h2><br>智晶数独就是在已填有部分数字的智晶面（立方体展开面）中，将1～8之间的数字按下面两条规则填入除中格以外的空白九宫格中。<br>  规则一：在同一面的格子中，每个数字只能出现一次；九宫格的中格作为无效格；总共有6个面。<br>  规则二：在同一棱的格子中，每个数字只能出现一次；总共有12条棱。<br>  总结规则：即1～8的每个数字在每一面、每一棱只能出现一次。<br>特别强调的是每个智晶数独的答案是唯一的<br><br>同一棱的格子是指立方体中棱所涉及的8个格子。<br>请参照：下面图形中红框圈出的格子就是同一棱的格子<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1813570/extras/4942aacdc35b577fbee809ea1bd3fcef.avif?t=1641193221\" width=460 height=245 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1813570/extras/d9c241c9d4dbded0d90f2d6307764291.avif?t=1641193221\" width=460 height=245 /></span>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1813570/header_schinese.jpg?t=1641193221",
+    "developers": [
+      "ZHANG LIDONG"
+    ],
+    "publishers": [
+      "ZHANG LIDONG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

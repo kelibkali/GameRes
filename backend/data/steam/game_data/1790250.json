@@ -1,0 +1,106 @@
+{
+  "1790250": {
+    "name": "Moon Dancer",
+    "steam_appid": 1790250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Moon Dancer is a vertically scrolling shmup featuring an exhilarating lock-on laser. The user controls the fighter &quot;Moon Dancer&quot; equipped with shots and lock-on lasers to defeat the enemy.<br><br><strong>Game features:</strong><br><ul class=\"bb_ul\"><li>Pop and cool lock-on laser Shmup.<br></li><li> Use the NES color palette as an art style.<br></li><li> There is an &quot;arcade mode&quot; consisting of all 8 stages and a &quot;caravan mode&quot; in which you compete for a 3-minute score.<br></li><li> Supports online ranking.</li></ul><br>Arcade mode consists of eight stages. You can choose from three levels of difficulty. If you break through all the stages, the game will be cleared. <br>Caravan mode is a 3-minute limited challenge to get a high score.<br>In all modes, Local ranking and online ranking are supported.<br><br>This game requires you to quickly defeat the enemies that appear one after another.<br>The feature of this game is the balance that prioritizes attacking the enemy rather than avoiding bullets.<br><br>Two types of music are included: the original version by HIROKKEY and the chiptune arrangement version using the NES sound source by Taku Shiiba. Music can be switched in the option menu.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790250/header.jpg?t=1725753067",
+    "developers": [
+      "TERARIN GAMES"
+    ],
+    "publishers": [
+      "TERARIN GAMES"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 2500,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 50.00",
+      "final_formatted": "¥ 25.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "CARAVAN CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/7ec295226f2d5bc7c6706a3c8dfd92d4df84fbf5.jpg"
+        },
+        {
+          "name": "NORMAL CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/3263e7db864d95fe1115ae1e9514fdcf4327e300.jpg"
+        },
+        {
+          "name": "HARD CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/5c35efe27fa90228edfee07fc79f4bca2a0186e7.jpg"
+        },
+        {
+          "name": "EXPERT CLEAR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/6d05220a8ad882dfdbdd4d4fe53c640636ac028d.jpg"
+        },
+        {
+          "name": "NORMAL 1CC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/441288df8b005d89f719c73e512999d934f088c7.jpg"
+        },
+        {
+          "name": "HARD 1CC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/0c1102939314d7a9b56c4aa5b20d2d991c479e31.jpg"
+        },
+        {
+          "name": "EXPERT 1CC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1790250/688f1831d9455a27e0430a36700814ac4a2fcd8a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

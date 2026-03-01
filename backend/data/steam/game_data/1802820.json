@@ -1,0 +1,86 @@
+{
+  "1802820": {
+    "name": "Escape Covid Camp",
+    "steam_appid": 1802820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802820/extras/SteamGif1.GIF?t=1638291448\" /></span><br><br>Contained within a world of steel, this is not the life you chose. Explore your new home that saps the souls of all who it contains. Fabricate a plan to escape this world force upon you. Freedom is your mission.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802820/extras/SteamGif2.GIF?t=1638291448\" /></span><br><br><ul class=\"bb_ul\"><li>Craft food in the cafeteria to trade with others.<br></li><li>Trade with other inhabitants of the camp to receive items useful in escaping.<br></li><li>Set traps for the unsuspecting guards to fall victim to.<br></li><li>Make a run for the forest. Just don't get caught!<br></li><li>Scavenge camp for useful resources.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802820/header.jpg?t=1638291448",
+    "developers": [
+      "RedZyrro"
+    ],
+    "publishers": [
+      "RedZyrro"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 300,
+      "discount_percent": 80,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Beat The Game - Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1802820/e753e7b9bcd678f7a890968aff23fa19ed8686a4.jpg"
+        },
+        {
+          "name": "Beat The Game - Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1802820/c125024ab598a8fc47c0bf8b2c429fa2312662a2.jpg"
+        },
+        {
+          "name": "Beat The Game - Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1802820/14dd70e85863a5bbcbdd2ed65229deb1a6ffcc6d.jpg"
+        },
+        {
+          "name": "Dazed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1802820/e3b5623a257db1672b989a9a2d5bb7ed2fa96957.jpg"
+        },
+        {
+          "name": "Escape Itemless",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1802820/8691eae48f657cc36875405d8c1629c59f68f8fe.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

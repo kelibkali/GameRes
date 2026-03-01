@@ -1,0 +1,74 @@
+{
+  "1797450": {
+    "name": "FPS Arena Online",
+    "steam_appid": 1797450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >F.P.S.A.O currently operates on a listen-server functionality basis, allowing players to create game sessions via the main menu's server creation window. Once created, these sessions become browsable by other players through a scroll browser or discoverable randomly. For added security and control, Host players possess the ability to password protect their sessions at either creation time or even mid-session, ensuring invited guests only. </p><p class=\"bb_paragraph\" >Unlike typical first person shooter games, F.P.S.A.O introduces a dynamic twist: players do not pre-select their loadouts before entering sessions. Instead, they initiate gameplay with a basic weapon upon joining another player's world. This design enables spontaneity, as players can swap their loadouts at any time using a conveniently placed quick selection menu. Weapon acquisition relies on Score currency, accumulated through successful PvP combat kills. When players succumb to death, their weapons drop, allowing others to retrieve them before they disappear. Additionally, players retain the freedom to drop their active weapon voluntarily, swapping it with another of equivalent class. </p><p class=\"bb_paragraph\" >Player inventories are intentionally limited to three weapons: one primary, one secondary, and one shield weapon. Certain weapons boast unique combat effects and states, enriching gameplay strategy. Visually stunning maps play a vital role in gameplay immersion. Moreover, a fully playable 3D lobby precedes matches, inviting players to explore and socialize before intense competitions begin.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/6eee7dc86d4c67c19dbedcb23b3ec1148c61b2dd/header.jpg?t=1749191238",
+    "developers": [
+      "Ira Williams"
+    ],
+    "publishers": [
+      "Ira Williams"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

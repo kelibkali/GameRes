@@ -1,0 +1,110 @@
+{
+  "1799720": {
+    "name": "Tale of six",
+    "steam_appid": 1799720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Tale of six</strong> is a 2D platformer about adventures in space. To progress, you have to choose from one to six, but you don't know which choice will take you to the right place.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799720/header.jpg?t=1636741955",
+    "developers": [
+      "2ev1l"
+    ],
+    "publishers": [
+      "2ev1l"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1450,
+      "final": 1450,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 14.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 21,
+      "highlighted": [
+        {
+          "name": "God",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/cbc24c2126f883fc005bb41c1afc18c22033a2c6.jpg"
+        },
+        {
+          "name": "Impossible",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/8ba127ec923d4a8f49d44a63d102b0888a648255.jpg"
+        },
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/c6862f687831146100e7527901ba5f024558aac0.jpg"
+        },
+        {
+          "name": "Awesome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/4a5c902ee25a7ba3525da14f1f66e0b69f85a2d8.jpg"
+        },
+        {
+          "name": "Fine",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/a7670fe1c1abf402365a9d7aca623fcc6b8e2265.jpg"
+        },
+        {
+          "name": "Good",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/7cae326a8e849d460e75536cb54f8edf63d9b36c.jpg"
+        },
+        {
+          "name": "Average",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/937bef9042449bf0aff26d6e886a0824971026ce.jpg"
+        },
+        {
+          "name": "Not bad",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/51570cd7de7694c271119ef9d07d7126be1eabde.jpg"
+        },
+        {
+          "name": "Bad",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/2411b0592c40b02758017007849a3f014f3f3121.jpg"
+        },
+        {
+          "name": "Bad end",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1799720/f81f0df0594a021624375bf6c4556e3288d97ba9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
