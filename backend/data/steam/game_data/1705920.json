@@ -1,0 +1,82 @@
+{
+  "1705920": {
+    "name": "Space Endeavor",
+    "steam_appid": 1705920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Space Endeavor is an Action Shooter Game where you have to shoot your way to get back control of your ship. It's no easy task though, and you have to fight through ever increasing waves of enemies!<br><br><br>Controls:<br>WASD to move<br>Left mouse button to shoot<br>Shift to roll<br>Shift in front of NPCs to talk<br><br>GUNS:<br><br>LASER PISTOL:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705920/extras/d99f10e66a46c5b0ec68ead81ffc0129.avif?t=1696306462\" width=128 height=128 /></span><br>-Shoots 1 bullet<br>-Deals 3 damage<br>-Found in the lobby<br><br>LASER AR:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705920/extras/4002b73cba0250b1d16d2f8240b6080f.avif?t=1696306462\" width=128 height=128 /></span><br>-Shoots consecutive bullets<br>-Deals 5 damage<br>-Dropped by the first boss<br><br>Star Cannon:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705920/extras/e5a869f806a930c319425a39185beefc.avif?t=1696306462\" width=128 height=128 /></span><br>-Shoots consecutive stars<br>-Shoots homing stars<br>-Deals 15 Damage<br>-Dropped by the second boss<br><br>OctoShot:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705920/extras/cd1600f04ce92a194383502adf62baa6.avif?t=1696306462\" width=128 height=128 /></span><br>-Shoots ink in 8 directions<br>-Shoots homing ink<br>-Deals 25 Damage<br>-Dropped by the third boss",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1705920/header.jpg?t=1696306462",
+    "developers": [
+      "Vikinglock"
+    ],
+    "publishers": [
+      "Loudfish Labs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Your First Gun",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1705920/e89a2f27a7cd2b856fca2bb02913b88ee0ad850e.jpg"
+        },
+        {
+          "name": "Boss Hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1705920/990abcc6a80e661df7e7861d8d796835087bfe3c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "1745460": {
+    "name": "Festival Tycoon - Supporter Pack",
+    "steam_appid": 1745460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This optional DLC pack consists of:<br><br><ul class=\"bb_ul\"><li>An in-game thank you card from me, the developer. <br></li><li>A special role in the Festival Tycoon Discord server. <br></li><li>A supporter Pack flair via Discord Rich Presence (others can see you’re a supporter via the ‘Playing Now’ screen in Discord).<br></li><li>A special in-game item only available via the Supporter Pack DLC.</li></ul> <br>This pack is not required to play Festival Tycoon. It’s an optional DLC for those who want to help me, as a solo indie developer, with the development of the game. The perks provided won’t give anyone an unfair advantage, they’re just a way for me to thank people for their support.",
+    "supported_languages": "英语<strong>*</strong>, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745460/header.jpg?t=1632748014",
+    "developers": [
+      "Johannes Gäbler"
+    ],
+    "publishers": [
+      "Future Friends Games",
+      "Johannes Gäbler"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 880,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 8.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

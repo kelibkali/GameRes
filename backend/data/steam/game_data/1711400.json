@@ -1,0 +1,78 @@
+{
+  "1711400": {
+    "name": "排球入门指南",
+    "steam_appid": 1711400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>极简的风格</strong><br>作者我榨干天生所拥有的艺术细胞所集成的不能再简洁的画风（我能说简陋吗。。但毕竟还是我的第一个成品，不要让它太自卑了）。<br><br><strong>烦人的旁白</strong><br>为了你在游玩的时候不会太寂寞，底下会有各种旁白烦扰你。<br><br><strong>写实的模型</strong><br>没有超自然的弹跳力，更贴切于真实球场上的排球节奏。<br><br><strong>好友的厮杀</strong><br>在通过前两个模式之后，支持好友间的同屏博弈，希望有朝一日你们能燃起斗志在地球OL中一绝雌雄（叫你们去打球，别误会成其他东西了）。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1711400/header.jpg?t=1660705681",
+    "developers": [
+      "多巴胺军火商"
+    ],
+    "publishers": [
+      "多巴胺军火商"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 456,
+      "discount_percent": 24,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 4.56"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 92,
+      "total_negative": 1,
+      "total_reviews": 93
+    },
+    "type": "game"
+  }
+}

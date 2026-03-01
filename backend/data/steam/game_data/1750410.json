@@ -1,0 +1,71 @@
+{
+  "1750410": {
+    "name": "Bridge of Dawn",
+    "steam_appid": 1750410,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<i>Bridge of Dawn</i> is a free, open-sourced 3D arcade/racing style game for one or two players. Follow the story of Vulpes the Fox as he rushes to catch the sun and find out the secret to everlasting life.<br><br><i>Bridge of Dawn</i> was created by Kimberly Blais, founder of Mama Makes Games, during a week-long Epic MegaJam. Set in the magical world of the Isle of Mist, <i>Bridge of Dawn</i> is a lighthearted and fun game for all ages.<br><br><strong>Featuring original music by Australian hip-hop star YNG Matryr, rising artist YNG SiLICON, and Madame X!</strong><br><br><ul class=\"bb_ul\"><li>Exciting arcade-style gameplay featuring one- and two-player support<br></li><li>Easy-to-learn, hard-to-master action that challenges you to get the best score and time<br></li><li>A fun fairytale-like story drawn from the fantasy world of the <strong>Isle of Mist</strong><br></li><li>Animated cutscenes with voice-acting by professional voice actor Erica Schroeder<br></li><li>Race side-by-side or play &quot;Fox Tag&quot; in local multiplayer<br></li><li>Huge island racing map filled with plants, roads, rocks, and &quot;Timekeeper&quot; opponents<br></li><li>Dynamic music that adapts to your progress and performance<br></li><li>NVidia Real-Time Ray Tracing (RTRT) support<br></li><li>Available in <strong>English</strong>, <strong>Spanish</strong>, and <strong>Chinese</strong>, with full translation of subtitles and user interface<br></li><li>Completely free and open-source to download, play, and modify however you'd like</li></ul><h2 class=\"bb_tag\" >How to Play</h2><strong>Goal:</strong> Reach the  waypoints before the timer runs out. The higher you are when you touch the waypoint, the more points you get.<br><br><strong>Move:</strong> Use the mouse and WASD keys or a controller to move the fox.  For two-player mode, the keyboard moves the first fox and the controller moves the second fox.<br><br><strong>Jump and Sprint:</strong> To jump, press Spacebar or the A/Y button on the controller. The longer you hold jump, the higher you'll jump when you release it. To sprint, hold Shift or the B/X button on the controller.<br><br><strong>Fox Tag</strong>: In Fox Tag mode, players take turn being &quot;it&quot; and trying to tag the other player.<h2 class=\"bb_tag\" >Open-Sourced Fun</h2><br><i>Bridge of Dawn</i> is fully open-sourced under the highly permissive MIT license! You can download the project to learn how the game was created, make any changes you'd like, and then release your own version of the game. Just install Unreal Engine 4, download the <i>Bridge of Dawn</i> source code, and open the &quot;BridgeOfDawn_UEProj.uproject&quot; file.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750410/extras/3125e2c547bbd06912c41f0dfae16a54.avif?t=1769615741\" width=640 height=356 /></span>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750410/header.jpg?t=1769615741",
+    "developers": [
+      "Mama Makes Games"
+    ],
+    "publishers": [
+      "Mama Makes Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "1753800": {
+    "name": "Lowsy",
+    "steam_appid": 1753800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Lowsy</strong> - a game whose main goal is to complete the level in such a way that each eyelid gets an eye. The eye has several parameters: color, speed, temperature, height, and you can change them with the help of objects that can be moved with the help of other objects. You can learn about each of the objects in the interactive tutorial and experiment with them in the sandbox before passing.<br><br>At each level, you will be provided with a limited number of objects to place and a location where the starting point of the eye and the eyelid will be located. You will need to arrange the objects in such a way that an eye can reach each eyelid. You will be able to use many different objects that interact with the eyes and each other in different ways. After placing the objects, you can start the simulation. The eye will appear with the color of its start point on the ground, with zero temperature, the first speed and will begin to move in the direction of the start point. If you don't know how a particular object works, you can find a brief description of it in the tutorial section and see how it works there or in the sandbox, where nothing prevents you from experimenting with most of the available objects. There are not many levels in total, but the passage of each of them takes not so little time.",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1753800/header.jpg?t=1632739890",
+    "developers": [
+      "Xpux"
+    ],
+    "publishers": [
+      "Xpux"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

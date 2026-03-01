@@ -1,0 +1,110 @@
+{
+  "1701190": {
+    "name": "Chessformer",
+    "steam_appid": 1701190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Chessformer is a grid-based puzzle platformer with Chess pieces. Each of the pieces moves as expected, but they fall down after moving and can't move again until they stop falling.  Pieces also stack on top of each other which is key to solving most levels. The goal in each level is to capture the opposing king, who is lazy and never moves, so don't worry about losing any pieces.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/179b24e9302840ab831eb59acad2a6e9.poster.avif?t=1642521385\" width=512 height=352 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/179b24e9302840ab831eb59acad2a6e9.webm?t=1642521385\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/179b24e9302840ab831eb59acad2a6e9.mp4?t=1642521385\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/60bab1235462c8c61208d912b05fcf55.poster.avif?t=1642521385\" width=512 height=352 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/60bab1235462c8c61208d912b05fcf55.webm?t=1642521385\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/extras/60bab1235462c8c61208d912b05fcf55.mp4?t=1642521385\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/header.jpg?t=1642521385",
+    "developers": [
+      "Robert Alvarez"
+    ],
+    "publishers": [
+      "Robert Alvarez"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "4 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/0bb7ec5ec97e262f0a56be14267221b1c2904d54.jpg"
+        },
+        {
+          "name": "8 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/e8604d2e28279ea8652c446096263cf0dbdc4a6f.jpg"
+        },
+        {
+          "name": "12 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/4d0a23bd2a176b60e571cdc2d1e87d8470b3afaf.jpg"
+        },
+        {
+          "name": "16 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/a74dd87805503460323c9f7f8be674dee91d1dec.jpg"
+        },
+        {
+          "name": "20 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/a4bed5ee6f49895622d5fc2c31d5a2d25b34d086.jpg"
+        },
+        {
+          "name": "24 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/46d070951bdc413c80e0623dc6cfa394708fbdfd.jpg"
+        },
+        {
+          "name": "28 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/b27067a17e6aef080694b540508313068e7610b5.jpg"
+        },
+        {
+          "name": "32 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/9c3651a48066badd47529bc25644ee91bfbed69f.jpg"
+        },
+        {
+          "name": "36 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/8713b53467ee4d0de7e2f5de627001012e285f43.jpg"
+        },
+        {
+          "name": "40 Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1701190/f54357f91ffc8078adde684c30a564bd3d590d54.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 18,
+      "total_negative": 0,
+      "total_reviews": 18
+    },
+    "type": "game"
+  }
+}

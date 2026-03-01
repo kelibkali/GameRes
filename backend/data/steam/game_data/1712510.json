@@ -1,0 +1,71 @@
+{
+  "1712510": {
+    "name": "Light Crawler",
+    "steam_appid": 1712510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A first-person dungeon crawler with a procedurally generated open world.<br />\r\nAs you explore the outside world you will come across different area types, forest, desert, tundra, etc.<br />\r\nEach area will feature its own enemies and dungeons.<br />\r\nAs you level up so do your weapons, find ones you like and keep upgrading them.<br />\r\nThe primary weapon types are magic, ranged, and melee.<br />\r\nYou can get different lights for your lantern, green(poisons enemies affected by its light), blue(slows enemies), etc.<br />\r\nWeapons drop as the base item, base item with prefix buff, base item with suffix buff, base item with prefix and suffix buff, or unique item",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/header.jpg?t=1698521985",
+    "developers": [
+      "Craig Beeson",
+      "Jonny Vorderkunz"
+    ],
+    "publishers": [
+      "Craig Beeson"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

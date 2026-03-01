@@ -1,0 +1,90 @@
+{
+  "1739130": {
+    "name": "Cornmaze Craze",
+    "steam_appid": 1739130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Cornmaze Craze</strong> is a casual multiplayer-based game designed to be played with your close friends. Become the Pumpkin Poltergeist, a supercharged spirit bent on cleansing the maze of corn, or avoid the spirit in the bowels of the maze<br><br><strong>Run  through randomly generated mazes </strong> in singleplayer or with friends. each maze is randomly procedurally generated, so each game will be different. <br><br><strong>Avoid the Pumpkin Poltergeist</strong> and his Evil Army of Specters, and look out for his friend the Plaguebearer too. as the game goes on, the poltergeist will become stronger and stronger while the maze becomes larger and larger, making him more apt to take you down before you reach the end.<br><br><strong>Become the Poltergeist</strong> and chase down your friends. Gain a few new abilities at your disposal like teleporting to help you make sure your friends don't make it to the end. Alternatively, play as the Plaguebearer, the Poltergeists' toxic friend with his own set of unique abilities.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1739130/header.jpg?t=1636228507",
+    "developers": [
+      "Elmok"
+    ],
+    "publishers": [
+      "Elmok"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1739130/873884cb8151639d94be64d42c82bd6e50a0fccd.jpg"
+        },
+        {
+          "name": "Poltergeist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1739130/e7383abcb6eb191dca3b1eeedf4eeae5962aceac.jpg"
+        },
+        {
+          "name": "Plaguebearer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1739130/4e2fda226ae7b202dbd39ff6de70b78395da8514.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

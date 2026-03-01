@@ -1,0 +1,42 @@
+{
+  "1734190": {
+    "name": "Gomps",
+    "steam_appid": 1734190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Gomps</strong> stands for <strong>G</strong>eneric <strong>O</strong>nline <strong>M</strong>ulti<strong>p</strong>layer <strong>S</strong>ystem.<br><br>Gomps allows you to add very basic multiplayer functionality to any single player Unity game with, zero or minimal configuration. This means you're able to see other players around you in the game world in real time (represented by the cute Gomps blob), identified by their Steam ID.<br><br>The Gomps Manager app makes it easy to find all compatible games. You can run Gomps with any compatible game from your Steam library, or just drop any other game exe on to the Gomps Manager window for manual installs.<br><br>You can also write notes and leave them throughout the game worlds, so that you can communicate with other players asynchronously and leave hints. To do this, you need to use Gomps Companion website. You can use this website from a mobile device, from the Steam overlay browser, or any other way you choose. This way you can write notes without having to pause the game.<br><br>Gomps relies on croudsourced configurations to make each game look as good as possible, but a lot of games work with zero configuration. First person games usually work right out of the box, but pretty much any genre can be made compatible with Gomps with a custom config. This includes third person games, 2D side-scrollers, top-down games, etc.<br><br>Gomps currently only supports Unity, but hopefully in the future there will be support for other engines, like Unreal Engine. Work to support other engines has not begun yet, and it might just never happen, so no promises there!<h2 class=\"bb_tag\" >What Gomps is not</h2><br>When you play a game with Gomps, every player is still playing their own single player game. You can't &quot;spectate&quot; other people's games through Gomps, since all you see is their position in the game world you're in. Gomps does't magically synchronize every player's game to make the worlds consistent. Gomps does't affect the mechanics of the games being played, so it can't turn a single player game into a full coop experience, nor a competitive one. All you get is a bunch of ghosts floating around you, who happen to be in the same location as you in their own instance of the game. You're able to interact with these players using text messages, and eventually other types of interactions like &quot;taunts&quot;, but they will always be purely visual and have no effect on the game you're playing.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734190/header.jpg?t=1680550455",
+    "developers": [
+      "Raicuparta"
+    ],
+    "publishers": [
+      "Raicuparta"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

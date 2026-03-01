@@ -1,0 +1,106 @@
+{
+  "1707100": {
+    "name": "ヴァジアルサーガ愚民化戦略XX（ダブルエックス）",
+    "steam_appid": 1707100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "* This game only supports Japanese.<br><br>Vazial Saga is a simulation game of national strategy.<br><br>Strengthen national power in domestic affairs, circulate diplomatic strategies, win battles,<br>If you occupy all the nations, you will be &quot;world conquered&quot;.<br><br>[story]<br>After the collapse of society due to material civilization, humankind based on its reflection<br>Governance by some politicians &quot;Following policy&quot;.<br><br>The world was settled by folklore, and the people got their own happiness.<br><br>To make that peace forever<br>The politician manipulates his own genes and becomes an absolute person of immortality.<br>The people worshiped and obeyed the absolute as a &quot;god&quot;.<br><br>For hundreds of years, perfect order was maintained and all the people lived happily.<br>However, those who are tired of happiness form a clique and disturb the peace of the country ...<br><br>The &quot;gods&quot; of each country organized an army and suppressed it.<br>The slightest turbulence disrupted the over-perfect order, creating greater conflict.<br>The world was once again flooded with death from hatred and justice.<br><br>You exist in this world as the &quot;god&quot; of a nation.<br>Dominate the &quot;whole world&quot; and lead all the people to happiness.<br><br>* About game settings after purchase.<br> There is config.txt in the game installation folder, and you can make the following settings.<br><br>WINDOW_SIZE_X=???? ... Specifies the default window size. Y size is calculated automatically. Values range from 200 to X size on the screen.<br>ALWAYS_RUN=ON ... Runs the game even when inactive.<br>DX9=ON ... Now works with older versions of DirectX 9. (For PCs that behave strangely in full screen, etc.)<br>DIB=ON ... Draws using the method that does not use DirectX (DIB).<br>KEY_UDLR=OFF ... Disable the up / down / left / right keys on the keyboard (for when it responds even though it is not pressed).<br>PAD=OFF ... Disable pad operation (for when it reacts even though it is not pressed).",
+    "supported_languages": "日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/header.jpg?t=1630626406",
+    "developers": [
+      "StudioGIW"
+    ],
+    "publishers": [
+      "Mediascape Co.,Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10300,
+      "final": 10300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 103.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Exploitation.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/973f6fcf410ad75580d79c098140ed615b0b9e24.jpg"
+        },
+        {
+          "name": "Alliance.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/43eab80efaf1dbdfb91a0d942023bdf488e90ef5.jpg"
+        },
+        {
+          "name": "Descendants prosperity.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/d7af65f26549f80588ebe3f833c595f8f100b9b0.jpg"
+        },
+        {
+          "name": "Growth promotion.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/c4dc6dc41e45579d7e7a4b395509ef00925e2990.jpg"
+        },
+        {
+          "name": "Talent evolution.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/58e6f758ba0f33b873d6354df7076da0a30384ec.jpg"
+        },
+        {
+          "name": "Dismissal.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/47d880771093ab8544e86f69f9642a9fde7a7ac0.jpg"
+        },
+        {
+          "name": "Rename.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/0f4215bf382528a23400b4b29bf82288a4bd1dc7.jpg"
+        },
+        {
+          "name": "Domination.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/9dc31b9588241b14c8ba818b4c0d77db3df1e175.jpg"
+        },
+        {
+          "name": "Strong arm king.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/d5b54fb304bff3cf124548818e3fa81d64d8fb78.jpg"
+        },
+        {
+          "name": "Intellect King.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1707100/08f18e310ef2ca3966fa05e4b4dc077dc4f5a1b7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

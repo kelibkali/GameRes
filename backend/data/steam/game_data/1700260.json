@@ -1,0 +1,62 @@
+{
+  "1700260": {
+    "name": "Fishards Demo",
+    "steam_appid": 1700260,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700260/extras/26189edd7fe04643f67e285aa0bff0de.poster.avif?t=1639066068\" width=128 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700260/extras/26189edd7fe04643f67e285aa0bff0de.webm?t=1639066068\" type=\"video/webm; codecs=vp9\"></video></span><br>In this game you control a <strong>wizard fish with legs!</strong> <br><br><ul class=\"bb_ul\"><li> <strong>Magic</strong> - Combine <strong>5 elements</strong> to create unique spells and defeat your opponents!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700260/extras/c66a3cee9d4cebafaa464f0b775734f2.webp?t=1639066068\" width=103 height=23 /></span><br></li><li> <strong>Multiplayer</strong> - To play simply <strong>join or host</strong> a room and play with strangers or friends! The <strong>demo</strong> allows for rooms of maximum 4 people.<br></li><li> <strong>Classes</strong> - Select your favourite combination of elements to create the perfect class that matches your play-style.  <br></li><li> <strong>Gamemodes</strong> - <strong>Free for all</strong> is the only gamemode available in the demo.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1700260/header.jpg?t=1639066068",
+    "developers": [
+      "Rivernotch Game Studio"
+    ],
+    "publishers": [
+      "Rivernotch Game Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

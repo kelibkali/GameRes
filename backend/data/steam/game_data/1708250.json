@@ -1,0 +1,106 @@
+{
+  "1708250": {
+    "name": "Jump If You Can!",
+    "steam_appid": 1708250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;Jump If You Can!&quot; is a fun way to challenge specifically your sense of timings, your ability to make them work <i>for</i> you, not <i>against</i> you! However, in this 2D precision platformer, unlike in other games of a similar feel, in order to predict when it is a good moment to jump, you will have to adjust to one more problem besides the behavior of surroundings on the screen: when you actually are ABLE to jump, which will be controlled by a TIMER. That's right: the player's very <i>ability</i> to jump changes over time as a level is in progress! In some levels, the jumping ability will keep switching between enabled and disabled at a certain pace, whereas in other levels, your jumping strength will &quot;swing&quot;, i.e. keep decreasing and increasing, also at a certain pace; sometimes, even both can be happening in the same level. Moreover, in some levels, your jumping ability will depend on the platform you are currently standing on. Yes, it does get that crazy: platforms will occasionally want or not want you to jump!<br><br>Don't worry, though: you will always be able to tell the current state of your jumping ability from the green-blue flashing on the player's image. Whenever you CAN jump, the player's sprite WILL display the flashing; when you CANNOT jump, there will be no flashing.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/d3b3c8f508e5f5cb503d1c9c40b012e0.poster.avif?t=1655243399\" width=320 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/d3b3c8f508e5f5cb503d1c9c40b012e0.webm?t=1655243399\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/d3b3c8f508e5f5cb503d1c9c40b012e0.mp4?t=1655243399\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/eff5276bc0bea3abf6ac414a310840f8.poster.avif?t=1655243399\" width=320 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/eff5276bc0bea3abf6ac414a310840f8.webm?t=1655243399\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/extras/eff5276bc0bea3abf6ac414a310840f8.mp4?t=1655243399\" type=\"video/mp4\"></video></span><br><br>In case of gradual increase/decrease, the intensity of the flashing will match up with where your jumping strength at the moment is between its maximum and null.<br><br><strong>Useful tip</strong> regarding the player's physics: the <i>acceleration</i> you make <i>prior</i> to a jump plays an <i>important</i> role in this game!<br><br>Features include:<br><ul class=\"bb_ul\"><li>fun gameplay with unique levels<br></li><li>responsive controls<br></li><li>support for the Xbox 360 controller<br></li><li>with the keyboard, you can control the player with both arrows and W-A-S-D<br></li><li>No annoying &quot;lives&quot; and &quot;continues&quot;: lives are <i>unlimited</i>!<br></li><li>Fun minimalist graphics</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708250/header.jpg?t=1655243399",
+    "developers": [
+      "D. T. Games"
+    ],
+    "publishers": [
+      "D. T. Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "High Five!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/7cdeb8fd57c57f2a0f50738a86738479bc15eaa7.jpg"
+        },
+        {
+          "name": "Double High Five!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/289541e1cbbe0e8cfc996da597c99b1a23d00c6e.jpg"
+        },
+        {
+          "name": "Can Certainly Jump",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/498d1696bd3543fd49938db9d8d742fb59b7f4dc.jpg"
+        },
+        {
+          "name": "Can Jump Nicely",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/d535a8364fd39c4cf283f16222cbf1ffff51ac35.jpg"
+        },
+        {
+          "name": "What? A \"High Square Five\"? Yes!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/fbe7e2761ba5c87d5e256d6dac9546539df2a4a0.jpg"
+        },
+        {
+          "name": "Can Jump Really Nicely",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/d928a1435ab4817e5a476cdb636d5a16c497a8d0.jpg"
+        },
+        {
+          "name": "That's Some Really Serious Jumping Here",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/ac8ebc3a40b7b363f8b380c4a08bd121e1a9decf.jpg"
+        },
+        {
+          "name": "Can Jump Like a Pro!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/3c15abdee1e51342ef33cb475bf7ea29082f312a.jpg"
+        },
+        {
+          "name": "First Steps, First JUMPS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1708250/9d5d725c7bd00ee53b6cfe1b0a993e88d90ebd6e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

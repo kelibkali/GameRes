@@ -1,0 +1,115 @@
+{
+  "1745000": {
+    "name": "Fisherman's House",
+    "steam_appid": 1745000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你被可怕的渔夫神秘地捕获了。这个渔夫以绑架受害者，然后吃掉他们而闻名。你的任务是在渔夫杀死你之前尽快逃脱。<br><br>《渔夫的屋子》在这款游戏中等着你。在这个屋子里有各种各样的工具和钥匙，可以帮助你逃离这个屋子。但是你应该小心，因为渔夫听力非常好。<h2 class=\"bb_tag\" >特点</h2><br><ul class=\"bb_ul\"><li> <strong>随机生成的谜题</strong> - 每局游戏都会生成新的随机位置，钥匙或工具可能被隐藏在其中。<br></li><li> <strong>不同的难度级别</strong> - 有不同的难度级别，会改变渔夫的移动速度。<br></li><li> <strong>他能听到你</strong> - 不仅游戏中你发出的声音，你的麦克风也是游戏的一部分。不过，如果你愿意，可以关闭麦克风。<br></li><li> <strong>VR模式</strong> - 以前所未有的方式玩《渔夫的屋子》！使用你最喜欢的VR头显，带来全新的体验。</li></ul><br><i>祝你玩得开心，尽情探索！</i>",
+    "supported_languages": "英语, 德语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745000/header.jpg?t=1757347003",
+    "developers": [
+      "Platuro"
+    ],
+    "publishers": [
+      "Platuro",
+      "Frosthain"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "New guest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/1d0367454d751667590fdd8650ea72b2c1a3c0d5.jpg"
+        },
+        {
+          "name": "Nice boat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/a7c1800f6bc0536ef1448a1f0a28b8c4a1684781.jpg"
+        },
+        {
+          "name": "Classic way",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/aec04def11251d30df374503c9e571a829c37281.jpg"
+        },
+        {
+          "name": "Explosive situation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/f52b36e2dbfc487e51910951087c7afb1e7edb99.jpg"
+        },
+        {
+          "name": "It's Halloween!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/e15ee8c2f670e4029ae8bc22f43f76a66583f0e1.jpg"
+        },
+        {
+          "name": "Nightmare",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/fbefd299b5d09f50540f65f4de8c1fe540a6a366.jpg"
+        },
+        {
+          "name": "It's Christmas!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1745000/16895fa8c9c4c3777401fc15496af21550002793.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

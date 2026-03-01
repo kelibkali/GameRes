@@ -1,0 +1,50 @@
+{
+  "1708240": {
+    "name": "Armada Demo",
+    "steam_appid": 1708240,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This demo will contain the entirety of the base game until the game is fully released. The reason for this is because I want the game to be avaliable to as many people as possible, while also allowing for people to buy the game, similar to a donation, if you enjoy the content I provide or plan to provide for the game. Eventually, the community will be required to purchase the game and the demo will cease being updated, but for a long while will be the exact same as the purchased copy.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708240/header.jpg?t=1627443751",
+    "developers": [
+      "Game Fruit"
+    ],
+    "publishers": [
+      "Game Fruit"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

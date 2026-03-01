@@ -1,0 +1,102 @@
+{
+  "1694300": {
+    "name": "Light Pursuer",
+    "steam_appid": 1694300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "有光照的地方地图才会显示，否则则是一片黑暗，玩家只能前往有光照的地方。玩家可以通过推动灯塔，让灯塔照亮地图的其它地方，从而探索地图的不同地方。游戏的目标是要收集散布在地图各处的水晶，收集完所有水晶后即可获得胜利，而这不是一个十分轻松的过程，需要玩家努力开动脑筋方能实现。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/header.jpg?t=1627375171",
+    "developers": [
+      "Yang Sun"
+    ],
+    "publishers": [
+      "Yang Sun"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "first step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/709761cb641c0c16d6b73b2b5935c70839993959.jpg"
+        },
+        {
+          "name": "5 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/a394b3dce1efba6923fb9b1e3d5bc74e6ce1bdaf.jpg"
+        },
+        {
+          "name": "10 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/dc406d351030e9d080177001c582828cd26336be.jpg"
+        },
+        {
+          "name": "15 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/37a14a092389101efd166a51df687d625c0d3f50.jpg"
+        },
+        {
+          "name": "20 levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/2ab10f399defaa053209734330769eec27125f21.jpg"
+        },
+        {
+          "name": "all levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1694300/671754ec882b742c55f7f71e9515a06a1e035244.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

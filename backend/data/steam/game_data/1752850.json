@@ -1,0 +1,94 @@
+{
+  "1752850": {
+    "name": "Find Match Icons",
+    "steam_appid": 1752850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在数百个图标中找到该图标。<br />\r\n<br />\r\n这是一场三消游戏，但方式不同寻常。<br />\r\n<br />\r\n游戏每 4 秒生成一组图标，并显示您需要在其中找到哪个图标并用鼠标左键单击。 如果玩家在 4 秒内找到所需的图标，他将获得 1 分和额外的 5 秒时间。 只要玩家正确点击图标，游戏就会继续，如果他点击错误的图标，他将失去时间和积分。<br />\r\n<br />\r\n玩家的任务是获得尽可能多的分数，成为排行榜的第一名。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752850/header.jpg?t=1709424255",
+    "developers": [
+      "Hede Games"
+    ],
+    "publishers": [
+      "Hede Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 67800,
+      "final": 67800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 678.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "q",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/a1e7ab6a51b54002c17fa9d108ffd79a618d2872.jpg"
+        },
+        {
+          "name": "w",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/b1e24fc3c86f858fe4fdc149b669f003601911ab.jpg"
+        },
+        {
+          "name": "e",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/b6c4a11841a9b3d9b5254577b960f48fcb17784c.jpg"
+        },
+        {
+          "name": "r",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/5cb0758f0568f49be20738a014d29afeb9ace978.jpg"
+        },
+        {
+          "name": "t",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/58494bcc752074656e09349b588df8aadadcb88d.jpg"
+        },
+        {
+          "name": "y",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1752850/dd11a96d68a8b308f8ffd3855c1dd405e99af539.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

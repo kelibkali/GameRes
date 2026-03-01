@@ -1,0 +1,62 @@
+{
+  "1701580": {
+    "name": "Mr.Treemp",
+    "steam_appid": 1701580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is a 2d platformer, parkour, adventure. The protagonist of the game is a typical marginal, from the &quot;common people&quot;,<br />\r\ntrying to gain power.<br />\r\n<br />\r\nAs ususal for these people, he cannot stop the rat race, trying to build success and reach higher and higher. In this game you help him<br />\r\nachieve this boundless success.<br />\r\n<br />\r\n1. Controls and movement physics.<br />\r\n<br />\r\n\t~ Controls: AWSD or arrow keys  <br />\r\n\t~ If you keep holding right or left key, the hero will move up to the right or up to the left.<br />\r\n\t~ When the hero is falling down, it is impossible to control him.<br />\r\n\t~ When jumping, you can slightly move in the air.<br />\r\n\t~ Acceleration: the longer you run before the jump, the higher you can jump.<br />\r\n<br />\r\n2. What should I do in this game?  <br />\r\n<br />\r\n\t~ Collect coins and fan's admiration (hearts)<br />\r\n\t~ Green leaves give you energy to jump higher and longer. You can't jump if your energy is low.<br />\r\n         \t   Each jump takes some of your energy, depending on the difficulty level. On EASY difficulty, you won't lack energy.<br />\r\n          \t   But on the HARD difficulty you need to think of the most effective route to collect all the hearts and coins before you lose the energy.<br />\r\n\t~ Brown leaves make you lose 10 energy points if you touch it. But if you run at it or jump on top of it, you will jump higher. Use it when <br />\r\n\t   you can't reach a certain platform every other way.<br />\r\n\t~ Stay away from green goo, you will lose health points.<br />\r\n\t~ If the hero loses all his lives, the game goes to the beginning first level.<br />\r\n\t~ Monsters - grey, vicious creatures moving horizontally or vertically across the field. Meeting with them, the hero jumps away from it and <br />\r\n\t   loses energy. At the first levels, this amount is small, but later the  monsters can take a lot. Try not to get caught on their way. Often this <br />\r\n\t   happens in flight after a jump.<br />\r\n<br />\r\n3. How to start playing.<br />\r\n<br />\r\n\t~ Use Left Mouse Button to choose options from the main menu<br />\r\n\t~ To start a new game, select Game Setup and game difficulty. The default game difficulty is Light.<br />\r\n\t~ Next, select New Game. You will be taken to the beginning of the playing field of the first level.<br />\r\n\t~ After passing the level and exiting to EXIT on the playing field, you get to the next level and so on. EXIT, on the playing field it's a toilet. <br />\r\n\t   The hero must jump into it to &quot;merge&quot; to the next level.<br />\r\n\t~ If you exit the game in the menu, the current game is saved automatically.<br />\r\n\t~ You can completely exit the game through Exit. When you restart the game, select the menu item Start Game and the game will start <br />\r\n\t   from the level and  from the place where you left off the last time.<br />\r\n\t~ On the screen of the playing field, no matter where the hero is, the achievement bar in the game and the button exit to the game menu. <br />\r\n\t~ The achievements  panel displays:<br />\r\n\t\t~ Collected Coins<br />\r\n\t\t~ Hero's current energy (eaten caramel)<br />\r\n\t\t~ Number of lives of the hero<br />\r\n\t\t~ Current standard of living<br />\r\n \tNext to the achievement panel in the game is a button to exit the game menu. You can exit the game menu by pressing Esc on your keyboard.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701580/header.jpg?t=1645990129",
+    "developers": [
+      "Saranchov Serhii"
+    ],
+    "publishers": [
+      "Saranchov Serhii Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

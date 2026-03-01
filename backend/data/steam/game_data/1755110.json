@@ -1,0 +1,110 @@
+{
+  "1755110": {
+    "name": "Warlocks Entanglement",
+    "steam_appid": 1755110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Warlocks Entanglement puts you into a destructible open world in a magical medieval setting.  Explore and learn all this world has to offer and then open a gateway to the next world!.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Destructible environment</h2>  Destroy anything see you see and build something new with the resources. </p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Combat</h2> Fight a variety of different creatures with various weapons that you can either find from looting or craft yourself as you learn.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Day and night cycles</h2> Craft torches to provide you light or enchant one of your weapons with radiance to help you see in the dark,  You can carry torches in both hands giving much more visibility in dark places.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Looting and exploring</h2>  There are many locations to loot but as you exhaust areas you must start heading further afield to find what your looking for.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Base building</h2> You can occupy a house and convert it to your own requirements or build one from scratch, there are many different resources around that you can utilise to aid you in this.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Levelling</h2>  As you gain experience create more advanced high tier weapons / bows and armour.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Gardening</h2> You can create or loot seeds and plant them to grow crops, Cross contaminating some crops can cause more exotic and useful plants to grow,  You can learn the secret to this as you go.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Brew potions</h2> As your cauldron grows stronger with the ingredients it needs you will be able to brew more powerful potions, Providing an array of additional skills to aid you.</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Delving deep underground</h2> There are many chasms that open up to underground tunnels and sometimes cities,  There are many precious recourses to loot and mine underground</p></li><li><p class=\"bb_paragraph\" ><h2 class=\"bb_tag\" >Many Worlds</h2> Play the pre-selected map or a randomly generated world.   </p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755110/header.jpg?t=1728146087",
+    "developers": [
+      "Sub Orbital Software"
+    ],
+    "publishers": [
+      "Sub Orbital Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 39,
+      "highlighted": [
+        {
+          "name": "Make a stone axe",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/36015c80b3693df8f58cce900729a0670724dca0.jpg"
+        },
+        {
+          "name": "Make a stone shovel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/6fa22c659d3f353b3c637283a6c34ed29ecf8bb8.jpg"
+        },
+        {
+          "name": "Make a wooden bow",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/cc4c7c24491243d1fdac4214399b774e7f8078d8.jpg"
+        },
+        {
+          "name": "Make stone arrows",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/7a683fabdb7ebe171312758eb78d876b9a5a79cf.jpg"
+        },
+        {
+          "name": "Make a torch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/b5f22839658077cb2e4cbd1ea5336f5c5ec16d89.jpg"
+        },
+        {
+          "name": "Construct a Kiln",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/586d73563eafe27dfc23da1386208fe85bb3e5e3.jpg"
+        },
+        {
+          "name": "Construct a clay oven",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/ce576be47f874f21e2587a2113d87b2e68841a82.jpg"
+        },
+        {
+          "name": "Make some clay bricks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/5621eb48d10a7170f290b08648247bc02269f9fc.jpg"
+        },
+        {
+          "name": "Make a mortar and pestle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/fbb4e64b5e4ec0686411ce109fc639b980b1c1e7.jpg"
+        },
+        {
+          "name": "Make a workbench",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755110/d48d8561e05a64c82320b891eaf55092e28cb71d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

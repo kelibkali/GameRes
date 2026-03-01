@@ -1,0 +1,102 @@
+{
+  "1755810": {
+    "name": "城市空中决战",
+    "steam_appid": 1755810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "城市空中决战是一款飞行竞速和射击游戏，游戏中你将驾驶战斗机飞行在真实城市的上空，在摩天大楼之间与对手进行空中竞速，撞击各种目标并避开建筑物，也可以与对手进行激烈的空中战斗，在快节奏和高强度的对抗中不断提高自己的飞行和射击技术。<br />\r\n<br />\r\n游戏中共包含 3 座城市，全部根据现实中的大型城市建模制作，所有建筑和街道均与真实城市相同。<br />\r\n<br />\r\n每一个关卡均有得分排行榜，让玩家与全世界的网友比拼，激励玩家不断突破分数极限。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755810/header_schinese.jpg?t=1709256937",
+    "developers": [
+      "JS GAME"
+    ],
+    "publishers": [
+      "JS GAME"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "PASS 1 LEVEL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/d8e62ed672742959f92b0f6dc8efc643d764823d.jpg"
+        },
+        {
+          "name": "PASS 2 LEVELS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/5da098b17280fa8944d89e3111349278cfc0f7b6.jpg"
+        },
+        {
+          "name": "PASS 3 LEVELS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/3d0aa5ca4ccf1c2e8b98b3bd014c3fdd6b4f1f86.jpg"
+        },
+        {
+          "name": "GET 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/2b1d6174921e514ce9e5f368c12f9ca1202b3a94.jpg"
+        },
+        {
+          "name": "GET 5 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/7ffa708573c7fc8c4773a52689059c45aeb85023.jpg"
+        },
+        {
+          "name": "GET 7 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/79617fed9c72d1dcf495c731577c6be52e3138ef.jpg"
+        },
+        {
+          "name": "GET 9 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755810/f5f1f0729990fb85c989c202204ce9f110f75cfe.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "1693610": {
+    "name": "Sudokolorful",
+    "steam_appid": 1693610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sudokolorful是一款基于颜色的益智游戏，适合色盲，基于经典的数独游戏。<br>你的主要目标是用一种颜色填充每个空白点，注意不要在同一行、列和邻域（较大的方块）中重复颜色。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693610/extras/2b6746a6ee8bf77d41e05f71170f2ebc.poster.avif?t=1686087574\" width=600 height=248 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693610/extras/2b6746a6ee8bf77d41e05f71170f2ebc.webm?t=1686087574\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693610/extras/2b6746a6ee8bf77d41e05f71170f2ebc.mp4?t=1686087574\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li>用不同类型的数独挑战您的大脑：4x4、6x6 和 9x9</li></ul><ul class=\"bb_ul\"><li>渐进模式有 50 个独特的挑战，每个挑战有 4 个变化。</li></ul><ul class=\"bb_ul\"><li>在三种难度之间进行选择：经典模式下的简单、中等和困难。 在此模式下最多可进行 90 项挑战。</li></ul><ul class=\"bb_ul\"><li>色盲？ 更改为色盲友好的调色板。 调色板仔细考虑了每种类型的色盲，但全色盲</li></ul><ul class=\"bb_ul\"><li>随时保存当前游戏</li></ul><ul class=\"bb_ul\"><li>你喜欢经典的数独游戏吗？ 显示数字</li></ul>",
+    "supported_languages": "英语, 日语, 葡萄牙语 - 巴西, 繁体中文, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693610/header.jpg?t=1686087574",
+    "developers": [
+      "OriOpa Studio"
+    ],
+    "publishers": [
+      "Mindful Capybara"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "The First Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/149a506e4307301f226a0885daf3429e4d70e8f7.jpg"
+        },
+        {
+          "name": "Vortex I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/8e6dc2dfa4a8ef7a33da367b193a98060f4b0980.jpg"
+        },
+        {
+          "name": "Invaders from Space",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/a93b1c91c9d22ff76fc845752e670d05cf6f2600.jpg"
+        },
+        {
+          "name": "Chess Board II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/a5a319c819ff8484eced417986aead12c930da60.jpg"
+        },
+        {
+          "name": "Snake II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/83157df1abbb5cc3bb21baaae2038760b6a5c6e8.jpg"
+        },
+        {
+          "name": "Ghost",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/59b5eead99c5758fa58cde74ea98e6309e399762.jpg"
+        },
+        {
+          "name": "UFO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/20dbe3bfcc0dce4bfcf203e7ddba4c5ab5578f47.jpg"
+        },
+        {
+          "name": "Lucky Glover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/c0010953975a06e058b71f0a67f095b6eddde450.jpg"
+        },
+        {
+          "name": "You are the Champion!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1693610/84a2ae75059af633d97de118c05ab645045be324.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

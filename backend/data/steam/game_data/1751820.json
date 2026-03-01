@@ -1,0 +1,116 @@
+{
+  "1751820": {
+    "name": "Project OutFox",
+    "steam_appid": 1751820,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<i>Project OutFox</i> 是一个基于 StepMania 的、完全可扩展的跨平台节奏游戏引擎，包含17种不同的模式，可模拟不同的基于舞蹈、乐器和键的节奏游戏。<br><br>Project OutFox 的目标是成为该类型的跨平台沙盒和“可游玩的博物馆”，并且可以支持近25年的内容。它是由一个社区成员志愿开发的、由粉丝为粉丝打造的一款游戏，目的是以社区为中心、庆祝节奏游戏对世界的贡献，并为未来的玩家提供档案。<br><br>Project OutFox 为模拟各种不同的游戏模式提供了广泛的谱面格式支持：<h2 class=\"bb_tag\" >基于舞蹈平台的模式</h2><strong>dance (3k, 3k double, 4k, 4k double, 6k, 6k double)</strong> .dwi, .sm, .ssc - 默认的游戏模式。这种游戏类型包含4个基本方向的轨道（上、下、左、右）。它还包含6k谱面样式，添加了左上和右上的方向，以及仅使用左上、下和右上的3k谱样式。<br><br><strong>pump (5k, 5k double, 6k (halfdouble)</strong> .ksf, .sma, .sm, .ssc - 5轨道舞蹈游戏，它舍弃了上下左右的4个基本方向，改为使用4个对角线方向和中心位置。<br><br><strong>techno (4k, 4k double, 5k, 5k double, 8k, 8k double, 9k, 9k double)</strong> .sm, .ssc - 一种专为具有9个踏板的平台设计的舞蹈游戏类型，包括4轨道（类似于 dance）、5轨道（类似于 pump）、8轨道（使用除中心踏板之外的所有踏板），以及9轨道样式。包括单板和双板模式。<br><br><strong>smx (3k, 3k double, 5k, 5k double)</strong> .ssc - StepRevolution 设计的舞蹈游戏类型，使用了一种独特的新踏板，包括基本方向加中间踏板（上、下、左、右和中心）。<br><br><strong>ds3ddx (4k + 4 sensor)</strong> .ssc - 在中国的电玩中心可以经常看到这种模式的跳舞机，它使用4个对角线方向的踏板以及4个基本方位的手部传感器。<br><br><strong>stepstage (6k, 3k)</strong> .ssc - 玩过它的人会非常熟悉这种模式：在舞蹈平台上以圆形排布着6个圆形的踏板。<br><br><strong>kickbox (4k, 6k, 8k)</strong> .sm, .ssc - 一种怪怪的、需要您拳打脚踢的游戏模式（包括4k、6k、8k模式）。<h2 class=\"bb_tag\" >基于传感器的模式</h2><strong>para (5 sensor, 8 sensor)</strong> .sm, .ssc -  一种专为 para para 舞步设计的舞蹈游戏，通常使用半圆形排布的5个红外手部传感器进行游玩，并使用相当宽松的评分系统。<br><br><strong>ez2 (3k + 4 sensor)</strong> .sm, .ssc - 一种基于已停产的跳舞机 EZ2Dancer 的游戏类型，它使用三个脚部踏板和一对手部传感器。<br><br><strong>maniax (4 sensor)</strong> .sm, .ssc - 一种基于已停产的跳舞机 Dance Maniax 的游戏类型，它使用排成两列（上和下）的四个手部传感器。<h2 class=\"bb_tag\" >基于控制器的模式</h2><strong>be-mu (5k +scratch, 5k +scratch double, 7k +scratch, 7k +scratch double)</strong> .bms, .bml, .bme - 支持5k和7k样式。<br><br><strong>po-mu (3k, 4k, 5k, 7k, 9k, 9k double)</strong> .pms, .bme - PMS 玩家模式，支持3、4、5、7和9按钮模式，双人模式，以及加载 PMS/BME po-mu 文件的能力。<br><br><strong>kbx (1k to 19k)</strong> .bms, .bml, .bme .chart, .dwi, .dtx, .gda, .ksf, .mc, .mid, .osu, .osz, .pms, .qua, .qp, .sma, .sm, .ssc, .tja - 一种专门为键盘玩家设计的支持1-19轨道的游戏模式，利用 smartGen 系统，您可以在此模式下游玩任何模式的歌曲。这是 OutFox 特定的游戏类型，不是对任何其他游戏的模拟。<br><br><strong>gddm (6k, 9k, 10k)</strong> .dtx, .gda, .g2a - 一种击鼓模式，支持6打击界面（5个鼓和一个踏板）、9打击界面（7个鼓、低音踏板、踩镲踏板）和10打击界面（“真实”）风格，使用 MIDI 电子鼓组演奏。<br><br><strong>gdgf (3fret, 5fret)</strong> .dtx, .gda - 一种吉他模式，支持3轨道和5轨道模式，通常使用吉他风格控制器游玩。<br><br><strong>gh (5fret, 6fret)</strong> .chart, .mid - 一种5轨道的吉他模式，模拟北美曾经流行的一种主机游戏的机制。<br><br><strong>taiko (1 drum - 4 hitpoints)</strong> .osu, .osz, .tja - 一种流行的游戏，通常用鼓控制器来玩。<br><br>功能丰富的新编辑器给您带来焕然一新的编谱体验，无论是创建一个标准的谱面，还是用天马行空的想法来征服您的好友，一切都不在话下。新的在线模式允许您与全世界各地的玩家一同竞争，也让您能够在新的排行榜上大秀一把。<br><br>在键盘、控制板、midi 乐器、控制器、跳舞毯、触控和对 SteamDeck 控制器（即将推出！）的完整支持下，您有无数种发挥自己能力的方式。再加上游戏内的 mod 和特效选项，在您面前的是无穷的可能！",
+    "supported_languages": "英语, 法语, 德语, 日语, 波兰语, 葡萄牙语 - 巴西, 简体中文, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1751820/header.jpg?t=1742943177",
+    "developers": [
+      "Project OutFox",
+      "Team Rizu"
+    ],
+    "publishers": [
+      "Project OutFox"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "2026 年 8 月"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

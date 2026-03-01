@@ -1,0 +1,63 @@
+{
+  "1729590": {
+    "name": "自动细胞",
+    "steam_appid": 1729590,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>自动细胞</strong><br>自动细胞是基于生命游戏开发的。它由简单的网格组成，每次鼠标左键点击都会增加或减少一个网格，或者在文件列表中使用新的文件。不论如何，它都将遵循着简单的规则进行演化。你可以预览3D堆叠的细胞，在合适的网格组合下，它将有惊叹的效果。<br><br><strong>生命游戏</strong><br>1970 年，剑桥大学的约翰·康威编制了这个游戏程序，它由几条简单的规则控制，然而组合这些规则就可以使该程序产生无法预测的结构和动态。“生命”游戏是在一个二维的方格世界上运转的，每一个方格可以被看作是一个小的生命体，它有两种状态：生存或死亡。<br><i>John Horton Conway (1937–2020)</i><br><br><strong>史蒂芬·霍金《大设计》</strong><br>我们可以想象，像生命游戏这样的东西，只有一些基本规律，可能会产生高度复杂的功能，甚至是智能。它可能需要包含数十亿个正方形的网格，但这并不奇怪。我们的大脑中有数千亿个细胞。<br><br><strong>现在支持规则</strong><br>现在仅支持B3/S23规则。其他规则会在后续更新。<br><br><strong>关于创意工坊</strong><br>可在创意工坊中上传分享你的创作或下载观赏他人的创作。后续创意工坊将会支持自定义规则。<br><br><strong>支持</strong><br>有任何问题可以发送电子邮件到 : <a href=\"mailto:leosue.onemore@gmail.com\">leosue.onemore@gmail.com</a>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1729590/header.jpg?t=1631160912",
+    "developers": [
+      "日辰星火"
+    ],
+    "publishers": [
+      "日辰星火"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 9 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Steam workshop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1729590/c9be9e81d2ca0b30741490b1cd8b8414342c19df.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

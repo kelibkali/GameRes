@@ -1,0 +1,58 @@
+{
+  "1743720": {
+    "name": "Typer Hero (打字英雄)",
+    "steam_appid": 1743720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你的村子遭到了怪兽的入侵，用你的键盘来保护你的村子吧。<br />\r\n    每个小怪兽的头上都会有一个单词，你可以通过打出这个单词来击败这个小怪兽。阻止小怪兽们抵达荧幕的底部就可以保护你的村庄。<br />\r\n    这里有不同类型的怪物和boss，它们都有有趣的能力。 你能用优秀的打字技巧阻止他们吗?  <br />\r\n    <br />\r\n    小贴士：<br />\r\n    - 打的不是你要对付的怪兽？ 按Tab或Backspace可以取消，然后你就可以切换打字的目标了。<br />\r\n    - 游戏有两种不同的难度模式可供选择，并且在第一次通关后会出现生存模式可供选择。<br />\r\n    - 因为是个打字游戏，所以菜单栏也设计成用打字的方式来出发。比如在开始菜单时，打出“开始游戏”，就可以开始玩了。<br />\r\n    - 如果还是觉得游戏太简单了，那就试试在开始画面把标题打掉看看？<br />\r\n    -  关于判定，其实判定机制很简单，先出来的怪兽优先判定。但是因为怪兽行走的速度是不同的，所以不一定是最下面的怪兽排最前面。如果发现打了不是你要打的怪兽，那么按Tab或Backspace取消，同时这个怪兽就会被排到判定列表的最后。<br />\r\n<br />\r\n    10月4日更新<br />\r\n    修正了游戏的一些Bug，比如英文模式下有的单词开头有空格，或者有的单词会在荧幕外面的情况。<br />\r\n<br />\r\n    2023/03/13更新<br />\r\n    - 英文模式下, 导入了英语六级的 CET-6 (超过5500个) 单词, (超过500)短语 and (超过100) 句子. 单词还包括音标. 并且在英文上会显示中文释义。<br />\r\n    - 每关都会显示有总共有多少个小怪兽。<br />\r\n    - 稍稍加快了每一关怪兽的进场速度。<br />\r\n    - 生存模式不再需要通关才能选择了。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1743720/header_schinese.jpg?t=1678711661",
+    "developers": [
+      "KeKaiXinLe"
+    ],
+    "publishers": [
+      "KeKaiXinLe"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 10 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 18,
+      "total_negative": 6,
+      "total_reviews": 24
+    },
+    "type": "game"
+  }
+}

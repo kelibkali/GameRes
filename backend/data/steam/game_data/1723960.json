@@ -1,0 +1,86 @@
+{
+  "1723960": {
+    "name": "Chariot Land",
+    "steam_appid": 1723960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723960/extras/658f82267207a2ade65050321136d8d5.avif?t=1630389789\" width=512 height=250 /></span><br>Chariot Land是一个简单的射击游戏，只有移动和射击操作，弹药无限。<br>玩家需要选择战车（有的战车需要完成指定关卡以及击杀一定数量的敌人来解锁），然后进入关卡战斗，清除所有敌人。<br>当玩家出现在敌人视线范围内时会被锁定，这个时候可以利用地形躲开敌人的视线，或者逃得远远的。<br>每次消灭敌人都会掉落护盾或者医疗箱等物质，护盾可以无限累加，但生命值不能超过最大值。<br>目前有5个关卡，第一个关卡是简单的击杀游戏，清除所有敌人便会通关。剩下的关卡中的敌人会从大型运输直升机中源源不断的出来，必须先摧毁运输直升机，然后清除剩下的敌人。注意，在攻击运输直升机时，会有敌人来救援。<br>准备好了就开始战斗吧！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723960/header.jpg?t=1630389789",
+    "developers": [
+      "Youth Game"
+    ],
+    "publishers": [
+      "Youth Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 8 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": " Armored Pickup",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1723960/76da6c14cdc58aec1579394da3d525385b36b375.jpg"
+        },
+        {
+          "name": "Standard Tank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1723960/611c612d5e7a2f937021a4dfffc494e426c3a57a.jpg"
+        },
+        {
+          "name": "Armored Copter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1723960/17e252c32cc4486f809f3a8e6cd47d89858891d6.jpg"
+        },
+        {
+          "name": "Double-Barreled Tank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1723960/05db22480fc9b02b5b5906e528c064294137895f.jpg"
+        },
+        {
+          "name": "Ultimate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1723960/3c1108713e1f2712af3e294d32fddc7cf0260bb2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

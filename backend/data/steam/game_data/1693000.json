@@ -1,0 +1,82 @@
+{
+  "1693000": {
+    "name": "射程之内",
+    "steam_appid": 1693000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >本游戏现已停更，不要购买！！！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >本游戏希望玩家能够从操作大规模战斗，欣赏战斗场面中获得快乐，不强调竞技性和操作。不会玩可以看游戏内的教程，或是看B站AriesTech的视频。 </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >这是一个基于大量物理细节的RTS，地形对策略决策影响更大。游戏中的炮弹具有弹道计算，会被地形障碍阻挡。单位具有不同的加速度和角加速度。武器具有转角限制。单位会根据转交限制进行仇恨机制的运算，会自行走到没有障碍阻挡的位置发动攻击。地形起伏会影响非步行单位的移动速度。 </p><p class=\"bb_paragraph\" >为了增加代入感，游戏的速度可以从1%到400%调节，摄像机视角高度自由，你可以慢放看清武器开火的瞬间。步行单位根据一种新的即时演算算法，会适应当前移动状态和地形起伏。</p><p class=\"bb_paragraph\" >游戏优化很好，可以让1000个单位同屏混战。</p><p class=\"bb_paragraph\" >即使你玩过RTS游戏，我们依然建议你先玩一下教程关卡。</p>",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/header.jpg?t=1744579783",
+    "developers": [
+      "Aries"
+    ],
+    "publishers": [
+      "Aries"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4000,
+      "final": 4000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 40.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 7 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 129,
+      "total_negative": 99,
+      "total_reviews": 228
+    },
+    "type": "game"
+  }
+}

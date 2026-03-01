@@ -1,0 +1,87 @@
+{
+  "1703140": {
+    "name": "Isle of Jura",
+    "steam_appid": 1703140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "前往世外桃源侏罗岛来一场钓鱼之旅。探索山野、结交友人，还有钓上美味的鱼！<h2 class=\"bb_tag\" >游戏特色</h2><ul class=\"bb_ul\"><li> 捕获超过50种鱼类<br></li><li> 掌握3种不同的钓鱼技巧<br></li><li> 寻找收藏品并完成岛屿图鉴<br></li><li> 与岛民们谈笑风生<br></li><li> 按照自己的节奏肆意探索</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 意大利语, 德语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 土耳其语, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1766910935",
+    "developers": [
+      "EM Games"
+    ],
+    "publishers": [
+      "EM Games",
+      "GrabTheGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Report Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1703140/12ec4f5e505cf784116dbaf3492236c08a40d866.jpg"
+        },
+        {
+          "name": "True Angler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1703140/8495a1f917481d7d45a74565e69ff8def8645fd6.jpg"
+        },
+        {
+          "name": "Island Historian",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1703140/55b1895c320004183cbbb9ab107548a6eadc6488.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 9,
+      "total_negative": 6,
+      "total_reviews": 15
+    },
+    "type": "game"
+  }
+}
