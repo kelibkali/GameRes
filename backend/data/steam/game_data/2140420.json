@@ -1,0 +1,70 @@
+{
+  "2140420": {
+    "name": "Outnumbered - Pro Edition",
+    "steam_appid": 2140420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This optional <strong>Outnumbered</strong> DLC is a thank you to those who already supported the game or want to support the game.<br><br><strong>Pro Edition Bonus</strong><br><ul class=\"bb_ul\"><li>Start with 20.000 Energy Credits<br></li><li>Reduced Ship Configuration System Assignment Cost<br></li><li>Color Customization<br></li><li>Leaderboards (Note: I understand that the leaderboard should be free, but please see it from my perspective: I am trying to clean the leaderboard of fake scores. Without a paywall, I would lose a crucial layer of protection, leading to more work/pain (cleanup and protection) and less time to focus on creating actual content. If you know of a better way, please let me know!)<br></li><li>Funds additional game content and supports the dev to follow his dreams!</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2140420/header.jpg?t=1671905744",
+    "developers": [
+      "Amped Horizon"
+    ],
+    "publishers": [
+      "Amped Horizon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

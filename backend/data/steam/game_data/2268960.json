@@ -1,0 +1,110 @@
+{
+  "2268960": {
+    "name": "GyroGunner",
+    "steam_appid": 2268960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Omni-directional scrolling twin-stick shooter.</p><p class=\"bb_paragraph\" >The purpose is to control the enemy base by operating a combat helicopter equipped with a Vulcan cannon and lock-on missiles.</p><p class=\"bb_paragraph\" >There is an arcade mode where you clear areas in order from area 1, and a free mode where you can play the cleared areas.</p><p class=\"bb_paragraph\" >There are 7 stages in total.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >It is recommended to use a controller for operation.</p><p class=\"bb_paragraph\" >Move with the left stick and rotate with the right stick.</p><p class=\"bb_paragraph\" >Vulcan cannons, lock-on missiles, and flares have ammo limits.</p><p class=\"bb_paragraph\" >Use flares to avoid enemy homing missiles.</p><p class=\"bb_paragraph\" >Boosters can be used at any time and will increase your movement speed at the cost of fuel consumption.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you get hit, you will take damage, and if the damage reaches 100% or more, you will crash.</p><p class=\"bb_paragraph\" >If it runs out of fuel, it will crash.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There are no power-up items or repair items.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268960/extras/e71213c8a90327a49419a011cff0eb9a.avif?t=1756417670\" width=384 height=192 /></span></p><p class=\"bb_paragraph\" >It is recommended to use a controller for operation.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268960/extras/22785c32f4ec1bca519fe4d5e4b0066c.avif?t=1756417670\" width=384 height=128 /></span></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268960/header.jpg?t=1756417670",
+    "developers": [
+      "H.T.Project Games"
+    ],
+    "publishers": [
+      "H.T.Project Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "AREA 1-A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/911d61023064490113d586b2b5bc479700d3bc6d.jpg"
+        },
+        {
+          "name": "AREA 1-B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/f79df91fbfc626f05daf2b07a693d4503ba329e5.jpg"
+        },
+        {
+          "name": "AREA 1-C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/6b4697f96e9130f1ab089289ed01bf0eae96b0eb.jpg"
+        },
+        {
+          "name": "AREA 2-A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/1a53108587d575914c9a6412dfe8954b5d5ba496.jpg"
+        },
+        {
+          "name": "AREA 2-B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/87aead667a6e56d16dcb876bfe462c148a51d81f.jpg"
+        },
+        {
+          "name": "AREA 2-C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/79ac990553956a58c1087b677360088ff21dff9c.jpg"
+        },
+        {
+          "name": "AREA 3-F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/d72ac01a96dc1320ad2b3835f6c585abdbf9a82b.jpg"
+        },
+        {
+          "name": "Normal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/1bd7f0ce5d699cdd7196d88adee016a8084f1067.jpg"
+        },
+        {
+          "name": "Hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/f5403a601dabd8a9a9afd02bcabb5f2a2ecaf66e.jpg"
+        },
+        {
+          "name": "Ace",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2268960/3ec283593bc782d36ef4e6de9dd1a4f69878c9a5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

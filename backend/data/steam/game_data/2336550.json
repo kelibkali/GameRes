@@ -1,0 +1,130 @@
+{
+  "2336550": {
+    "name": "象棋派对",
+    "steam_appid": 2336550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>中国象棋</strong>是一种两人战略棋盘游戏。该游戏代表两支军队之间的战斗，主要目的是将死敌人的将帅。<br><br>除了所有传统功能外，该游戏还提供了更多体验：<br><br>* 在一场棋局中最多支持 4 名玩家<br>* 支持图标显示棋子（代替汉字），方便非中文使用者识别<br>* 在线排名游戏和排行榜<br>* 与朋友或其他休闲玩家的非排名大厅游戏<br>* 从简单到大师共5个AI难度<br>* AI 协助赛后复盘分析<br>* AI 进行单机游戏的即时分析<br><br>注: AI水平取决于电脑硬件配置",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 越南语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/header_schinese.jpg?t=1684941545",
+    "developers": [
+      "Zero"
+    ],
+    "publishers": [
+      "Zero Cores"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Beat monkey AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336550/318f7291e838ffc034612a303c27cf300c1934ec.jpg"
+        },
+        {
+          "name": "Beat novice AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336550/1fe5ba38be3379651fb409b4b20e67918f204b2f.jpg"
+        },
+        {
+          "name": "Beat amateur AI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336550/423720beb2905d0a9bca8a4470cb4291317ea486.jpg"
+        },
+        {
+          "name": "Teamwork",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2336550/dfeee253c3a3f9ed96ce25ca999262386d570233.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

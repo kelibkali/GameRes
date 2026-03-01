@@ -1,0 +1,82 @@
+{
+  "2365680": {
+    "name": "Fallen",
+    "steam_appid": 2365680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>&quot;Fallen&quot;</strong> is a game about a small sphere's journey to become a bright light that shines on the world.<h2 class=\"bb_tag\" >GamePlay</h2>- You have to avoid many obstacles and go up.<br><br>- If you touch an obstacle while climbing, you lose your strength and fall.<br><br>- Avoid all obstacles in a total of 5 themes and reach the top.<h2 class=\"bb_tag\" >Control</h2>Control is simple. Move with <strong>direction keys + space bar</strong><br><br>There are two ways to move.<br><br>If you press the space bar briefly, it moves for a short distance.<br><br>Also, If you press and hold the space bar, the distance traveled increases by the pressed time, <br>and you can pass through obstacles during this movement.",
+    "supported_languages": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365680/header.jpg?t=1741417118",
+    "developers": [
+      "TEAM.ETC."
+    ],
+    "publishers": [
+      "TEAM.ETC."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Climber",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365680/9077d983bf053a029256305a9e6b729b12446891.jpg"
+        },
+        {
+          "name": "First Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365680/a273e981a898e2329aa3d11a00d898ff7707215d.jpg"
+        },
+        {
+          "name": "Avoider",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365680/4e72edf3e09a7a42bf8e06e2a1809ca059638557.jpg"
+        },
+        {
+          "name": "Wind Surfer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365680/86907ab147f5939843957dca186c385d218b47ae.jpg"
+        },
+        {
+          "name": "Out Of Blackhole",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365680/30ac12604280b7274821dc183446d56db8464758.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

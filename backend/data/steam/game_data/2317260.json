@@ -1,0 +1,43 @@
+{
+  "2317260": {
+    "name": "AirGame",
+    "steam_appid": 2317260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>AirGame是一款全新的远程桌面串流软件，通过高效的编解码技术与高度自适应的网络技术，为玩家提供极致的游戏体验。无论你在何处，AirGame都能让你轻松连接到你的游戏主机，享受即时的游戏画面。</strong><h2 class=\"bb_tag\" >一流的性能</h2><br><ul class=\"bb_ul\"><li>极低延时：通过先进的技术，AirGame实现了画面延时的极限优化。<br></li><li>全面的硬件支持：通过使用Nvidia，AMD，Intel的GPU硬件H264，H265编解码，AirGame为你打开了全新的游戏世界。<br></li><li>高清流畅：支持720P至4K分辨率，30至240fps帧率，以及5至100M的码率，让你享受高清流畅的游戏体验。<br></li><li>网络自适应: 针对公网连接优化的网络私有协议，自动适应不同带宽，自动根据丢包率设置合适的前向纠错，消除网络带来的卡顿。</li></ul><h2 class=\"bb_tag\" >丰富的特性</h2><br><ul class=\"bb_ul\"><li>远程p2p连接：通过公网远程p2p连接，你可以急速连接到你的游戏主机。<br></li><li>网络唤醒：通过网络唤醒(wol)功能，你可以随时启动你的游戏主机。<br></li><li>手柄支持：AirGame支持xinput类型手柄及震动反馈，让你充分沉浸在游戏中。<br></li><li>分享模式：通过分享模式，你可以轻松地与朋友一同分享你的游戏主机。</li></ul>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2317260/header.jpg?t=1694624093",
+    "developers": [
+      "mycloudgame"
+    ],
+    "publishers": [
+      "mycloudgame"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

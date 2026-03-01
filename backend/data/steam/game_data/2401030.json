@@ -1,0 +1,78 @@
+{
+  "2401030": {
+    "name": "Ultimate Tag",
+    "steam_appid": 2401030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >The Thrill of the Chase</h2>Chase your friends through unique maps, trying to tag each other and avoid being &quot;it&quot; at all costs!<h2 class=\"bb_tag\" >Level Up</h2>At the end of each round, the losers choose powers that will aid them in the future. Losing isn't so bad after all...<h2 class=\"bb_tag\" >Customize</h2>Unlock a wide range of new colors and accessories, and dress to impress!<h2 class=\"bb_tag\" >Easy to Pick Up</h2>With only five buttons per player, anyone can pick up a controller and join in the fun!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401030/header.jpg?t=1688576154",
+    "developers": [
+      "KarloKnows"
+    ],
+    "publishers": [
+      "KarloKnows"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

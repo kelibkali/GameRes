@@ -1,0 +1,66 @@
+{
+  "2402040": {
+    "name": "Russian Train Trip 2 - fast time",
+    "steam_appid": 2402040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "为《俄罗斯火车之旅2》增加了时间加速，可以看到所有的内容，所有的火车站，不需要花10个小时玩游戏。<br>为懒人提供的额外内容 :)<br><br>一些亮点：<br><br>[列表］<br><ul class=\"bb_ul\"><li> 时间加速只能在访问第一个 &quot;支柱 &quot;站后启动<br></li><li> 时间加速的系数为20。<br></li><li> 按SHIFT+P可以回到正常时间，按SHIFT+L可以回到正常时间。</li></ul>",
+    "supported_languages": "英语, 俄语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 繁体中文, 简体中文, 日语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402040/header.jpg?t=1682089449",
+    "developers": [
+      "Monavista dev"
+    ],
+    "publishers": [
+      "Monavista pub"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 450,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 4.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

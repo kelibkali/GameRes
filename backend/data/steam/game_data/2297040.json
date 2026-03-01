@@ -1,0 +1,59 @@
+{
+  "2297040": {
+    "name": "Custom Desktop Pet-自定义桌面宠物",
+    "steam_appid": 2297040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >介绍</h2>这是一个支持自定义的桌面宠物，支持立绘、spine、精灵动画。同时也有事件交互，以及其他的有趣的功能。您可以利用素材自己制作桌宠，自定义它的行为、语音、音效、着色器等。当然，您也可以直接通过Steam创意工坊下载其他人分享的桌面宠物。此桌面宠物衍生自另一个免费桌面宠物项目：碧蓝航线秘书舰，可以在github上找到这个项目。<br>桌宠推出时将自带一个白丝洛丽塔白毛粉瞳萝莉猫娘，动态立绘，带好感度系统，主打的就是一个二次元（没有涩涩，后面DLC会有涩涩，但可能没法上国区，不搞热水器，来硬的）<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297040/extras/e05bf020e21c271442aa5d5afa196ac0.avif?t=1693821698\" width=512 height=1280 /></span><br>*图像为AI生成的粗略影像，最终成品与之有诸多不同。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297040/extras/08eb7da6e2a915411707f7bfd62eed8e.avif?t=1693821698\" width=224 height=220 /></span><h2 class=\"bb_tag\" >如何自定义</h2>下载本项目时会附带一个电子书，里面详细说明了自定义角色的各种属性、指令和素材文件的组织方式等，并且附有实例教您手把手地制作一个桌宠。如果您希望自定义自己的桌宠，请花费一点时间仔细阅读。自定义桌宠不需要您具备任何编程基础，如果有需要补充的知识，也会直接在文中给出。自定义桌宠的行为比较复杂，采用类似编程的方式对其进行自定义，为此会有一个非常简陋的“编程语言”需要您去学习（即使您没有编程基础，也能迅速掌握），它提供了许多有用的函数。虽然这部分内容比较复杂，但您能通过这个简陋的“编程语言”来做到许多事情，例如通过定义一个“好感度”来控制她在不同好感度情况下的不同行为；或者是设置角色对不同按键的反应、播放的动画和音频，例如通过按键WASD来控制角色在桌面上走动并播放走路动画；还有些别的有用函数，例如检测系统时间，如果已经夜深了您还没有睡觉，那么她会温柔地提醒您去睡觉，或者干脆一脚把您踹出电脑（关机）...利用好提供的函数，您能根据自己的个人喜好或需求打造一个适合自己的宠物！<h2 class=\"bb_tag\" >进一步消息</h2>本项目将长期更新，后续将添加更多功能（未来将支持Live2D和3D模型），如果目前您对本项目不满意，可以在评论区下方提出意见或建议，或者选用以下方式联系作者：<br>QQ交流群515079733<br>bilibili @月夜Crescent<br>我们将努力把这个项目做成最好的桌宠之一。<br>如果现阶段不满意也先别急着退款，就先当给作者一点鼓励，后面更新相信不会让大家失望的，当然如果反馈比较好的话涩涩的DLC也会尽快安排上（看销售额了，支持的朋友越多，越有闲钱去弄这些玩意，现在连交给G胖的押金都还没拿回来）。与其冲个几十上百块给二次元手游买个皮肤不如花点小钱来支持一下作者，所有角色在桌面上任你拿捏，除了不能帮你在游戏里打怪其他该有的功能都有了。<h2 class=\"bb_tag\" >感谢</h2>特别感谢由XChy开发的XEL项目和XSharp项目，这两个项目对桌宠的行为自定义作出了重要贡献，项目作者为Github @XChy",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 丹麦语<strong>*</strong>, 俄语<strong>*</strong>, 保加利亚语<strong>*</strong>, 匈牙利语<strong>*</strong>, 土耳其语<strong>*</strong>, 希腊语<strong>*</strong>, 挪威语<strong>*</strong>, 捷克语<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 泰语<strong>*</strong>, 乌克兰语<strong>*</strong>, 瑞典语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 芬兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 越南语<strong>*</strong>, 阿拉伯语<strong>*</strong>, 韩语<strong>*</strong>, 阿塞拜疆语<strong>*</strong>, 亚美尼亚语<strong>*</strong>, 伊博语<strong>*</strong>, 信德语<strong>*</strong>, 僧伽罗语<strong>*</strong>, 盖丘亚语<strong>*</strong>, 克罗地亚语<strong>*</strong>, 冰岛语<strong>*</strong>, 切诺基语<strong>*</strong>, 加利西亚语<strong>*</strong>, 加泰罗尼亚语<strong>*</strong>, 南非语<strong>*</strong>, 印地语<strong>*</strong>, 印度尼西亚语<strong>*</strong>, 古吉拉特语<strong>*</strong>, 斯瓦希里语<strong>*</strong>, 吉尔吉斯语<strong>*</strong>, 哈萨克语<strong>*</strong>, 格鲁吉亚语<strong>*</strong>, 土库曼语<strong>*</strong>, 泰米尔语<strong>*</strong>, 基切语<strong>*</strong>, 塔吉克语<strong>*</strong>, 塞尔维亚语<strong>*</strong>, 索托语<strong>*</strong>, 奥迪亚语<strong>*</strong>, 威尔士语<strong>*</strong>, 孔卡尼语<strong>*</strong>, 孟加拉语<strong>*</strong>, 阿姆哈拉语<strong>*</strong>, 尼泊尔语<strong>*</strong>, 巴斯克语<strong>*</strong>, 希伯来语<strong>*</strong>, 卡纳达语<strong>*</strong>, 爱沙尼亚语<strong>*</strong>, 爱尔兰语<strong>*</strong>, 拉脱维亚语<strong>*</strong>, 提格里尼亚语<strong>*</strong>, 斯洛伐克语<strong>*</strong>, 斯洛文尼亚语<strong>*</strong>, 旁遮普语（古尔穆基语）<strong>*</strong>, 旁遮普语（沙穆基语）<strong>*</strong>, 茨瓦纳语<strong>*</strong>, 毛利语<strong>*</strong>, 沃洛夫语<strong>*</strong>, 波斯尼亚语<strong>*</strong>, 波斯语<strong>*</strong>, 泰卢固语<strong>*</strong>, 乌尔都语<strong>*</strong>, 乌兹别克语<strong>*</strong>, 瓦伦西亚语<strong>*</strong>, 白俄罗斯语<strong>*</strong>, 基尼亚卢旺达语<strong>*</strong>, 卢森堡语<strong>*</strong>, 祖鲁语<strong>*</strong>, 科萨语<strong>*</strong>, 立陶宛语<strong>*</strong>, 约鲁巴语<strong>*</strong>, 索拉尼语<strong>*</strong>, 维吾尔语<strong>*</strong>, 菲律宾语<strong>*</strong>, 蒙古语<strong>*</strong>, 苏格兰语<strong>*</strong>, 豪萨语<strong>*</strong>, 达利语<strong>*</strong>, 阿尔巴尼亚语<strong>*</strong>, 阿萨姆语<strong>*</strong>, 鞑靼语<strong>*</strong>, 马来语<strong>*</strong>, 马其顿语<strong>*</strong>, 马拉地语<strong>*</strong>, 马拉雅拉姆语<strong>*</strong>, 马耳他语<strong>*</strong>, 高棉语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297040/header.jpg?t=1693821698",
+    "developers": [
+      "月夜Crescent"
+    ],
+    "publishers": [
+      "月夜Crescent"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

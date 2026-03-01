@@ -1,0 +1,82 @@
+{
+  "2218850": {
+    "name": "1 Day Later: Escape Zombie Hospital",
+    "steam_appid": 2218850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You woke up in a hospital ward in the middle of a zombie apocalypse. Your task is to survive the first day and get out of the zombie hospital. Use your uninfected superior mind and fool rotten-brain zombies. Stealth mode is your primary weapon.<h2 class=\"bb_tag\" >Key Features:</h2><br><ul class=\"bb_ul\"><li> 3D Top-Down hardcore zombie stealth game.<br></li><li> Run away from zombies, fight them, distract throwing cans, fool them switching light, barricade doors - there are always many ways to go through the level .<br></li><li> Explore dark levels with different lighting.<br></li><li> A thrilling storyline, multiple characters to play.</li></ul><br>To go through level, you need to find key and get to exit door.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218850/extras/2db5324bd5a4628d36199cd285e2f8f2.poster.avif?t=1720810241\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218850/extras/2db5324bd5a4628d36199cd285e2f8f2.webm?t=1720810241\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218850/extras/2db5324bd5a4628d36199cd285e2f8f2.mp4?t=1720810241\" type=\"video/mp4\"></video></span><br><br>This is usually not so easy! :)<br><br>IMPORTANT:<br>This is a puzzle game, not Kill 'Em All, weapons added just to give player a chance to free himself when he made an error. Every level can be completed without fighting (see Walkthroughs on Youtube), player just need to think a little and try the alternative way. Every level can be completed in many ways - throwing cans, switch on/off light, drive zombie to food, etc. In few levels zombie have the key and you need to kill him, but his health reduced to make kill easy.<br><br>Hints:<br>1) Standard hearing radius of zombie is equal to the distance to which the zombie sees. This value is multiplied by the noise volume that you produced = whether zombie will hear you or not. Noise volume can be determined intuitively or on the noise bar on the left. For example, when running in flip-flops, the volume is 1.1. When walking - 0.55. Running in sneakers - 0.9, walking - 0.45. Gunshot noise volume of shotgun is 5.0, revolver - 4.0, with a silencer 1.66 and 1.33 accordingly. The volume of moving furniture depends on its size and weight. Well and so on.<br>2) All zombies have the following states:<br>- Patrolling hunting territory, which he considers his own, on the repeating route (slow walking);<br>- Wandering without a goal (slow walking);<br>- Moving to the place of the heard sound, to check what it was (walking);<br>- Chasing the prey when the zombie sees it (running);<br>- Moving to food if the zombie sees it and he is hungry (walking);<br>- The process of devouring food (on the spot, seeing and hearing radius decreases greatly);<br>- Hibernation (just stands still). All zombies in the dark hibernate, if the zombie does not have some light, e.g. a flashlight on the helmet (but they see player's flashlight and still go to sounds!). Occasionally, some zombies hibernate even in the light, if their brain is too damaged;<br>- Attacking human or obstacle - door or furniture;<br>- Temporarily knocked down by heavy hit;<br>- Died, again, but now forever :)",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 韩语, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218850/header.jpg?t=1720810241",
+    "developers": [
+      "Stoned Android Studio"
+    ],
+    "publishers": [
+      "Stoned Android Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "First Zombie Kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218850/709509c5df9705f06b0162deab45d8446e881da2.jpg"
+        },
+        {
+          "name": "No Underpants!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218850/6e48ba931e30461621109a0a6d31c44ad24ec72a.jpg"
+        },
+        {
+          "name": "Flawless Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218850/f6624740892b74d7810ff7f7a3745272b8a6790f.jpg"
+        },
+        {
+          "name": "Butcher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218850/3cc05557ca2977867bab7c549a4952386d6cbc41.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

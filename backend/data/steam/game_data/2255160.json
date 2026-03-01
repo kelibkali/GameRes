@@ -1,0 +1,74 @@
+{
+  "2255160": {
+    "name": "失眠 艺术集",
+    "steam_appid": 2255160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>下载完成后请在游戏安装盘符中以下地址中查看《失眠-艺术集》：</strong><br><strong>…Steam\\steamapps\\common\\Insomnia Theater In The Head\\Insomnia Theater In The Head Artbook</strong><br><br>失眠艺术集，包含了一些制作过程中的设定、思路，游戏使用的原素材，以及一套小精灵表情包。<br><br>艺术集内容由《失眠》制作人KeKe单人绘制完成。<br><br>如果您在玩完游戏后觉得还不错的话，可以选择通过购买失眠艺术集给与我们更多的支持。希望您能够喜欢，同时也非常感谢您的喜爱和支持！",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255160/header_schinese.jpg?t=1722425192",
+    "developers": [
+      "Perfect Day Studio"
+    ],
+    "publishers": [
+      "Perfect Day Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 3,
+      "total_negative": 2,
+      "total_reviews": 5
+    },
+    "type": "dlc"
+  }
+}

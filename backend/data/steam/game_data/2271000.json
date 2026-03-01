@@ -1,0 +1,114 @@
+{
+  "2271000": {
+    "name": "Rayland 2",
+    "steam_appid": 2271000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "欢迎来到雷兰。 这个岛上的居民使用来自激光束的能量来生存，并使用重复立方体来传输这种能量。<br>你的任务是帮助 Rayland 的居民通过路径中包含的不同土地传输 Domus 的能量。 为此，您必须正确定位 repeatodes 立方体并旋转它们，以便能量射线到达其各自颜色的 Domus。<br><br><ul class=\"bb_ul\"><li>使用每一层的资源，使反射光线到达 Domus。<br></li><li>使用鼠标移动并使用键盘旋转 Repeater Cubes。<br></li><li>使用带有通道的方块到达 Domus。<br></li><li>用各自颜色的激光击中每个目标。<br></li><li>50 个具有挑战性的关卡。</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 简体中文, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271000/header.jpg?t=1678110626",
+    "developers": [
+      "Naoka Games"
+    ],
+    "publishers": [
+      "Naoka Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Level 01",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/6c3199c757596c50d447022663820441b1e0a8cb.jpg"
+        },
+        {
+          "name": "Level 05",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/e862628cb6e09e67fb9da8e9c2acd6ac662d42c1.jpg"
+        },
+        {
+          "name": "Two Lasers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/8761fe32533f51c170887f18e1a4afda1dd4546c.jpg"
+        },
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/5c229d004a3e85ede1789fff4be6ff40ee2c021b.jpg"
+        },
+        {
+          "name": "Blue Laser",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/ebe0fa23a45e63a445e0935ea7d63612a57f777e.jpg"
+        },
+        {
+          "name": "Red Blocker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/398a9539309a283c7ce9ae25abb20207304d280d.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/3f9361fe2fcce989caf1f9dd837253ed41f6159d.jpg"
+        },
+        {
+          "name": "Blue Blocker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/281ec80bf1915cf201a2a83ce3131cc01be47988.jpg"
+        },
+        {
+          "name": "Level 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/2cc325ffd9c282dc6efee5aa4ab3594d428e7ec7.jpg"
+        },
+        {
+          "name": "Green Laser",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271000/5d01d911c47b8d987b474c3e6d0574cb59c79d11.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

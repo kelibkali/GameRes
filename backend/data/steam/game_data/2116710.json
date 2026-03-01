@@ -1,0 +1,74 @@
+{
+  "2116710": {
+    "name": "Windsurfing MMX",
+    "steam_appid": 2116710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The development team of ”Windsurfing The Game” worked on providing a close-to-reality simulation of windsurfing.<br>The aim is to provide as much as possible of the fun and excitement this sport gives.<br><br><strong>Features:</strong><br>Realistic 3-Dimensional Realtime Simulation of Windsurf, featuring:<br>– Accurate behavior of the windsurf<br>– Realistic movements of the sea, variable windspeed and direction<br>– Multiplayer online mode<br>– 3 different wave heat durations<br>– Freestyle<br>– Slalom Downwind<br>– Jumps and Moves (Jibes, Table-top, Loops, Goiter…)<br>– Score submission to the website to compete with the community<br>– Several locations, boards, sails and more available<br><br><strong>Minimum requirements:</strong><br>– Processor speed greater than 1.6GHz<br>– Windows 7 with DirectX 9<br>– Sound card<br>– 3D-Accelerated Graphic Card supporting Vertex Shaders V2.0<br>The Game was tested successfully on:<br>– NVidias GeForce 7600, 8600 Series and above<br>– Intel graphic chip 4500MHD",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116710/header.jpg?t=1661929454",
+    "developers": [
+      "Jérôme Six"
+    ],
+    "publishers": [
+      "SIX Simulations"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

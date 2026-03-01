@@ -1,0 +1,55 @@
+{
+  "2263790": {
+    "name": "GAMEBOOSTER",
+    "steam_appid": 2263790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This tool squeezes real performance out of your PC—no snake oil, no risk. It combines a smart game booster that applies the right performance profile when your game launches with an HDD-friendly preload system that cuts loading stutter. On top, you get GPU preference control, a lightweight crosshair overlay, shader-cache cleanup, and practical system tweaks. Ideal if you want fast, repeatable results without manual fiddling.</p><h2 class=\"bb_tag\" >Why You’ll Like It</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Noticeably smoother:</strong> Applies the right Windows optimizations, priorities, and service states for your game.</p></li><li><p class=\"bb_paragraph\" ><strong>Faster loads—even on HDDs:</strong> Preloads files in controlled chunks to reduce hitching and background thrashing.</p></li><li><p class=\"bb_paragraph\" ><strong>Profiles, not guesswork:</strong> Gaming, Balanced, or Power Saver—switch in a click, feel the difference.</p></li><li><p class=\"bb_paragraph\" ><strong>Clean &amp; reversible:</strong> No dangerous registry hacks. Everything is transparent and undoable.</p></li><li><p class=\"bb_paragraph\" ><strong>Anti-cheat friendly:</strong> Uses system-level info; no code injection into the game process.</p></li></ul><h2 class=\"bb_tag\" >Core Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Smart Game Booster</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Sets <strong>CPU priorities</strong> for selected processes.</p></li><li><p class=\"bb_paragraph\" >Starts/stops optional <strong>services</strong> (e.g., updates/print) for a lean play session.</p></li><li><p class=\"bb_paragraph\" ><strong>Startup cleanup</strong> to free resources.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>HDD-Friendly Preload</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Preloads game files in <strong>configurable MB chunks</strong> with <strong>I/O throttling</strong> for HDDs.</p></li><li><p class=\"bb_paragraph\" >Optional <strong>Top-N MB</strong> to preload only the most impactful data.</p></li><li><p class=\"bb_paragraph\" >Supports a <strong>“prefer” list</strong> via <i>hotset.json</i> (learns frequently accessed files).</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>GPU Preferences</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Quickly prioritize <strong>integrated</strong> vs. <strong>dedicated</strong> GPU (where supported by the system).</p></li><li><p class=\"bb_paragraph\" >Save/load presets.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Overlay (Crosshair)</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Always on top</strong>, <strong>click-through</strong>, adjustable size/color/transparency.</p></li><li><p class=\"bb_paragraph\" ><strong>Hotkey</strong> to toggle visibility.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Shader Cache Manager</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Shows common cache locations (DirectX/Vulkan/GL).</p></li><li><p class=\"bb_paragraph\" >Deletes <strong>only files older than N days</strong>, if desired.</p></li><li><p class=\"bb_paragraph\" >Note: shaders will auto-recompile on next launch.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Profiles &amp; Settings</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Gaming / Balanced / Power Saver</strong> starting points.</p></li><li><p class=\"bb_paragraph\" >Save/load profiles, <strong>backup/restore</strong> settings.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>System Info &amp; Monitoring</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Quick view of <strong>network/system</strong> status, lightweight graphs, handy shortcuts.</p></li></ul></li></ul><h2 class=\"bb_tag\" >Who It’s For</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Gamers</strong> with HDD installs or chatty background services.</p></li><li><p class=\"bb_paragraph\" ><strong>Creators/Streamers</strong> needing repeatable performance profiles.</p></li><li><p class=\"bb_paragraph\" ><strong>Laptop users</strong> switching between battery saving and max performance.</p></li></ul><h2 class=\"bb_tag\" >What It’s Not</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Not a miracle fix for broken drivers or thermal throttling.</p></li><li><p class=\"bb_paragraph\" >Not a cheat: no process injection, no packet tampering.</p></li></ul><h2 class=\"bb_tag\" >FAQ</h2><p class=\"bb_paragraph\" ><strong>Do I have to configure each game?</strong><br>No. Profiles cover most cases. Fine-tuning is optional.</p><p class=\"bb_paragraph\" ><strong>Anti-cheat risk?</strong><br>Designed to be <strong>process-external</strong> (priorities, services, file preload). No code injection.</p><p class=\"bb_paragraph\" ><strong>Any benefit on SSDs?</strong><br>Yes—profiles and priorities still help. Preload mainly targets HDD bottlenecks.</p><h2 class=\"bb_tag\" >System Requirements</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>OS:</strong> Windows 10/11 (64-bit)</p></li><li><p class=\"bb_paragraph\" ><strong>Processor:</strong> x64 CPU</p></li><li><p class=\"bb_paragraph\" ><strong>Memory:</strong> 4 GB RAM (8 GB recommended)</p></li><li><p class=\"bb_paragraph\" ><strong>Storage:</strong> 200 MB for the app + variable cache</p></li><li><p class=\"bb_paragraph\" ><strong>Other:</strong> Admin rights recommended for service/startup actions</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263790/73a167694af6595302c6808a451111ebe7c5870a/header.jpg?t=1758979308",
+    "developers": [
+      "SIENTURE"
+    ],
+    "publishers": [
+      "SIENTURE"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

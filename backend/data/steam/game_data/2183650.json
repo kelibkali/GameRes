@@ -1,0 +1,114 @@
+{
+  "2183650": {
+    "name": "ROCKMAN X DiVE Offline",
+    "steam_appid": 2183650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《ROCKMAN X DiVE》是基于“洛克人 X”系列重新构建的外传，以离线版重新亮相！<br />\r\n来试试本系列经典的横版卷轴动作游戏吧！<br />\r\n<br />\r\n网络世界“深层纪录档”保存了“洛克人 X”系列的游戏数据。这个世界发生了原因<br />\r\n不明的错误，导致保存的游戏数据出现错乱。玩家在突然现身的向导“莉可”的指<br />\r\n引下，潜入“深层纪录档”世界！控制在“深层纪录档”重现的猎人程序“艾克斯”或<br />\r\n“杰洛”等熟悉的猎人，打败非正规资料，修复游戏数据吧！<br />\r\n<br />\r\n■ 完全重现本系列的动作<br />\r\n完全重现了“洛克人 X”系列的正宗动作，包括冲刺、跳跃、手炮、光剑等！<br />\r\n除了本作独有的360度射击以外，还增加了自动瞄准！<br />\r\n<br />\r\n■ “洛克人”系列的角色总共多达100人以上亮相<br />\r\n获得你喜爱的“洛克人系列”角色，收集并培养他们吧！<br />\r\n无论是你记忆中的那个角色，还是原创的角色，都会以全新面貌亮相！<br />\r\n<br />\r\n■ 多达数百个的关卡！丰富的游戏内容与原创剧情<br />\r\n体验《ROCKMAN X DiVE》原创的剧情，与新的洛克人相遇吧！关卡分不同级别，多达数百个！<br />\r\n丰富的游戏内容能让你充分体验洛克人动作的乐趣！<br />\r\n<br />\r\n■ 用武器、晶片、卡片来强化角色<br />\r\n任何角色都能自由搭配武器进行强化。角色升星还会解锁技能，增加强化的内容哦！<br />\r\n卡片设计以原作插画为基础，无论是强化还是收集都乐趣无穷！",
+    "supported_languages": "英语, 日语<strong>*</strong>, 泰语, 繁体中文, 葡萄牙语 - 巴西, 法语, 德语, 简体中文, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183650/header_schinese.jpg?t=1769136063",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 14800,
+      "final": 14800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 148.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 35,
+      "highlighted": [
+        {
+          "name": "高速公路",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/a8c337b23d5202ab817cba84a8168cd0398abe0a.jpg"
+        },
+        {
+          "name": "矿山",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/da2dd07a6cb1fc59e2250976834bb161fcfd1f70.jpg"
+        },
+        {
+          "name": "工厂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/1d2441883bb72a81bed4c96b304419b315bd5875.jpg"
+        },
+        {
+          "name": "空军基地",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/b656ebe5b6ab34f862ae192928a8f7e0c69d141e.jpg"
+        },
+        {
+          "name": "机场",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/78699994b37d81f82247e7bda1e10106747a31f5.jpg"
+        },
+        {
+          "name": "浮游遗迹",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/d4cda21024d00783ba39e822aaf450d001c9e655.jpg"
+        },
+        {
+          "name": "深绿之森",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/fae78cf5d1956fc0f63cfd2b6e2db5c144fdf97f.jpg"
+        },
+        {
+          "name": "军事列车",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/4767bcad5f72962132bf00a53975ea90f536447b.jpg"
+        },
+        {
+          "name": "电子空间",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/7d86253db4c365eaeb07bb43f8565c0f83763fb5.jpg"
+        },
+        {
+          "name": "火山",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2183650/da57efc83b292f61ee6bcba54648b40c6949ec43.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 76,
+      "total_negative": 43,
+      "total_reviews": 119
+    },
+    "type": "game"
+  }
+}

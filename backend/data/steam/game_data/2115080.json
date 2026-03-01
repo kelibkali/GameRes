@@ -1,0 +1,62 @@
+{
+  "2115080": {
+    "name": "Hex",
+    "steam_appid": 2115080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Turn-based, isometric, party-based tactical RPG. Innovative gameplay, permadeath, realistic armor system, lethal and non-lethal attacks, lots of realistic and meaningfully different weapons. No save-scumming, no grind, no HP bloat, no randomly dying from things you don’t control. Easy to learn and hard to master.<br><br>The game combines previewing enemy attacks with a system where random values are calculated before player makes the decision. The core principle is that all new variables that affect the gameplay are always introduced at the beginning of the turn, giving player time to react. This approach allows to create a very challenging but fair combat with high stakes and long-lasting consequences. The system is designed in a way to make player’s decisions more important than random rolls. For example, you won’t lose because you missed several times in a row on attacks that seemed like a sure hit. You won’t lose because the enemy rolled a lucky crit and killed one of your team and you had no way to prevent it. The game is entirely predictable within any single turn, but each new turn can create a unique situation on the battlefield that player will have to deal with.<br><br>Key features:<br><br><ul class=\"bb_ul\"><li>All enemy attacks for their next turn are shown in advance, giving player ability to react. Each turn therefore presents a unique tactical puzzle the player must solve.<br></li><li>All random variables are calculated at the start of the turn, so you will always know the exact result of your every action. This approach combines the best of both random and deterministic systems.<br></li><li>Complex system where each action resolved using multiple checks that depend on dozens of variables. The system supports a variety of playstyles and allows for multitude of classes and weapons that each has it's uses.<br></li><li>Large selection of realistic weapons and armor. Design inspired by real historic examples and each piece of equipment has its own tactical niche, consistent with how it's actually were used.<br></li><li>Saving system which combines Ironman mode with the ability to retry encounters and pick the best outcome (retry attempts are limited). This way you have to carefuly plan your every action, but a single mistake won't ruin an entire playthrough.<br></li><li>Permadeath. Squadmates that die in battle are gone forever. If your main char dies and you have no retries it's game over.<br></li><li>Good balance between melee, ranged and magic abilities.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115080/header.jpg?t=1698609783",
+    "developers": [
+      "Sunny Days"
+    ],
+    "publishers": [
+      "Sunny Days"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

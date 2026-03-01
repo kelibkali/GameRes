@@ -1,0 +1,58 @@
+{
+  "2181340": {
+    "name": "Bright Sudoku",
+    "steam_appid": 2181340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >感谢之前对《Bright数独》支持的伙伴。现在新版本的游戏上线了，之前买过游戏的玩家现在可以免费更新最新版本了！由于玩家的反馈，在这个版本中，我们去除了3d模式（如果想继续体验3d模式，可以玩老版本）。</p><p class=\"bb_paragraph\" >在2.0.0 beta版本中，我们添加了如下几点：</p><p class=\"bb_paragraph\" >1、增加了数独的标注，现在解题可以标注游戏了。</p><p class=\"bb_paragraph\" >2、增加了提示功能，现在可以通过点击提示按钮获取解题的建议了。</p><p class=\"bb_paragraph\" >3、增加了剧情模式，全新的故事体验，通过数独解题来推进剧情。欢迎体验</p><p class=\"bb_paragraph\" >4、优化了操作体验，针对数独的操作进行了优化。</p><p class=\"bb_paragraph\" >5、添加了成就系统，现在游戏内可以通过剧情解锁各种成就了。</p>",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181340/3762f2b7bce4f98cbf47ad5511cf2435547a4428/header.jpg?t=1760223589",
+    "developers": [
+      "AutubGame"
+    ],
+    "publishers": [
+      "AutubGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

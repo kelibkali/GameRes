@@ -1,0 +1,98 @@
+{
+  "2160460": {
+    "name": "打兔兔",
+    "steam_appid": 2160460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《打兔兔》是一款极简休闲游戏，你将扮演一个小野人，在兔兔落地之前，用木棒击打它，让兔兔飞的足够远。<br><br>游戏非常短，可能只有1分钟。但可以在碎片时间，放松一把，挑战一下兔兔飞越的最远距离。<h2 class=\"bb_tag\" >游戏基本信息</h2><br><strong>两种主题可选：</strong>冰雪平原、熔岩火山<br><br><strong>四种兔子可选：</strong>黑色、棕色、灰色、白色<br><br><strong>三种挥棒可选：</strong>1棒、3棒、5棒<br><br><strong>同时支持多语种、成就、云存档、高分记录、累计挥棒记录</strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/header_schinese.jpg?t=1666341891",
+    "developers": [
+      "兔兔的游戏"
+    ],
+    "publishers": [
+      "兔兔的游戏"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "20m",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/bef0759650c49d4f02e9d314c3164e577aea0232.jpg"
+        },
+        {
+          "name": "50m",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/b78f55d7a4db276b932064045cd8f0ea63c6f69c.jpg"
+        },
+        {
+          "name": "100次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/3b3436d2140c8d6eb84ed75f1d6f684f05b40de3.jpg"
+        },
+        {
+          "name": "1000次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/10530c11f31f6c9e312b0f97c7087cd4c2a1ae02.jpg"
+        },
+        {
+          "name": "1000m",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/cb04141f363f2e7bae0a387c1bec8fb0d4b47be9.jpg"
+        },
+        {
+          "name": "10000m",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/c1d93894322ea2f7c593553f3836fb49fa8a2f00.jpg"
+        },
+        {
+          "name": "3棒150M",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/2e32ed3a78d6776cd9149f84a1c2a792d266b191.jpg"
+        },
+        {
+          "name": "5棒260M",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2160460/56a2e3428577356383c64eac9b05f17564ca00a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    },
+    "type": "game"
+  }
+}

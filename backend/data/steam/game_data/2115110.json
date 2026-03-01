@@ -1,0 +1,98 @@
+{
+  "2115110": {
+    "name": "Outrun Them",
+    "steam_appid": 2115110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The name of the game is literally the game. Outrun the zombies and don't let them catch you. Your speed increases the further you run, but so do does the zombie's. No two runs are the same as procedurally generated obstacles will keep you on your toes and randomly placed pickup items will be almost out of reach! There will always be a path ahead, but don't get trapped in an obstacle block because you CAN'T go backwards. Also, watch out for the pesky water blocks as they will slow you down.</p><p class=\"bb_paragraph\" >There are a few achievements so far, as well as stats.</p><p class=\"bb_paragraph\" > Friends say: &quot;Oh oh go get the boots, okay good, nice, alright use them, health there, grab it, no no no you missed it.. ah ah ah oh ah close one, use the hammer, nice, okay go go gooo, boots there, nooooo you missed, okay you're good you're good keep going, hammer, good, boots, oh yeah, health!!!! yeah keep going, no don't go that way, no no nooooo, nooooooooooo!&quot;</p><p class=\"bb_paragraph\" >I am a sole coder trying to get into game development, and this is my first attempt. All feedback is welcome!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115110/extras/32fdabf513d95dc2a2c21261ebdf7be5.avif?t=1736142092\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115110/extras_big/32fdabf513d95dc2a2c21261ebdf7be5.avif?t=1736142092 width=800 height=800 /></span></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115110/header.jpg?t=1736142092",
+    "developers": [
+      "TheBean"
+    ],
+    "publishers": [
+      "TheBean"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 2 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "250 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/4a855ad1391e2a06135394f2717a24118502d21c.jpg"
+        },
+        {
+          "name": "500 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/2ed57830bc2435edee8edd83f181e66d2f73f195.jpg"
+        },
+        {
+          "name": "1000 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/d97a52e3e03bb15a2d047f05fd54dc1c3754fc04.jpg"
+        },
+        {
+          "name": "1250 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/75d6ae6bdb1410dee1da4e637f4d925f466a7bd0.jpg"
+        },
+        {
+          "name": "1500 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/06e5e7b06ebee01d66b2c0bb7956062289be5b3e.jpg"
+        },
+        {
+          "name": "2000 TILES",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2115110/b4a88fbd91e57675d479ff061780f3f4a7c57f5d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

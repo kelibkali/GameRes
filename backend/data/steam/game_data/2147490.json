@@ -1,0 +1,102 @@
+{
+  "2147490": {
+    "name": "DCS: MB-339",
+    "steam_appid": 2147490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i>Requires Open beta</i><br><br><strong><h2 class=\"bb_tag\" >DCS: MB-339</h2></strong><br>The MB-339 is a single engine, twin seat, Italian jet trainer and light ground support aircraft derived from the legendary MB-326 and designed during the Cold War. The aircraft entered service in the early 80’s becoming the main training platform of the Italian Air Force.<br><br>The MB-339 was exported in several foreign countries in which some specimens are still operative. This aircraft also took part in the Falklands-Malvinas war with the Armada de la República Argentina (Argentina Navy) and was also used by the Eritrean Air Force in various roles, against rebels, smugglers, and even against the Ethiopian Air Force.<br><br>Historical operators of this aircraft in its A version were the Italian Air Force, Malaysia, Nigeria, Peru, United Arabs Emirates, Argentina and Ghana. Thanks to its superb flying qualities, the MB-339 in its aerobatic version (PAN) is also used by two great national aerobatic teams: the “Frecce Tricolori” (Italian Air Force) and the “Al Fursan” (“The Knights” – UAE Air Force).<br><br>The MB-339 is the only jet aircraft capable of performing the famous Lomcovák manoeuvre. The DCS: MB-339 aims to be the most realistic simulation of this aircraft ever made for PC, not only in terms of system functionalities but especially flight performances.<br><br>The MB-339 will be available in an almost complete state. The External Flight Model (EFM) is based on performance and engineering data of the real aircraft. Furthermore, the flight model has been tested by real MB-339 pilots including former Frecce Tricolori. Some of the most interesting features available at the release date are:<br><br><strong>Extensive and detailed simulation of all flight systems:</strong><br><ul class=\"bb_ul\"><li>Flight control system<br></li><li>Full Electric system including circuit breakers logic.<br></li><li>Detailed Hydraulic system.<br></li><li>Fuel system.<br></li><li>Oxygen and pressurization systems.<br></li><li>Navigation systems: TACAN, VOR/ILS, and AHRS/GPS including the possibility to load a custom data cartridge.<br></li><li>Blind Flying Hood<br></li><li>Radios already compatible with SRS.<br></li><li>Internal and external lighting.<br></li><li>Armament system.<br></li><li>Smoke system.</li></ul><br><strong>High-quality 3D model</strong><br>Based on blueprints and surveys of a real MB-339. Includes animations, lights and a complete damage model.<br><br><strong>6-DOF (Degrees of Freedom) </strong><br>Very accurate cockpit with realistic and detailed instruments, controls, and textures.<br><strong>Weapons:</strong><br><ul class=\"bb_ul\"><li>Anti Runway Durandal<br></li><li>Cluster Belouga bombs.<br></li><li>BAP-120 and BAP-100.<br></li><li>Pod conformal cannons DEFA 553 30mm.<br></li><li>Pod conformal machine guns AN-M3 12.7mm.<br></li><li>Pod conformal camera (only visual at release)<br></li><li>Travel pod<br></li><li>LR-25-0 (or AL-25-50) for 50mm rockets SNIA<br></li><li>50mm rockets Snia ARF-8/M3 (API/HEI/TP)<br></li><li>BRD-4-250 for training bombs Mk-76 /MK-106 and 2 50mm rockets<br></li><li>Mk-76 for BRD without hook, Italian labels<br></li><li>MK-106 for BRD without hook, Italian labels</li></ul><br><strong>Also Included:</strong><br><ul class=\"bb_ul\"><li>A vast variety of liveries for the different countries that operated the aircraft.<br></li><li>Interactive training and practice missions.<br></li><li>Several single player missions and instant actions.<br></li><li>Mini campaign.<br></li><li>PDF user manual.</li></ul><br><br><strong>Localization:</strong><br>Cockpit, Radio, Manual - English",
+    "supported_languages": "英语<strong>*</strong>, 德语, 西班牙语 - 西班牙, 俄语<strong>*</strong>, 捷克语, 法语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147490/header.jpg?t=1727213444",
+    "developers": [
+      "IndiaFoxtEcho"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 42000,
+      "final": 42000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 420.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "dlc"
+  }
+}

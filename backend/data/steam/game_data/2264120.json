@@ -1,0 +1,86 @@
+{
+  "2264120": {
+    "name": "GLR10X10",
+    "steam_appid": 2264120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Do you know the game called LoadRunner?<br />\r\nInspired by this game, I removed the annoying things and sublimated it into a pure puzzle game.<br />\r\nThis is a brand new pure puzzle in the style of LoadRunner.<br />\r\nHowever, the rules are quite different, so please think of it as a different game.<br />\r\nThere are no more enemies, the direction of gravity changes when you touch an arrow, the concept of time disappears, and you can think as much as you want.<br />\r\nIf you collect GOLD and enter the exit, the stage will be cleared.<br />\r\nThe map has 100 squares of 10X10, and the top, bottom, left, and right are connected, making it a rather difficult puzzle.<br />\r\nThis time, we prepared 101 stages.<br />\r\nI think the difficulty level is a little difficult, but if you get the hang of it, I think you can clear it.<br />\r\nYou can play 20 stages at the beginning.<br />\r\nIf you clear 15 out of 20 stages, you will be able to play up to the next 40 stages.<br />\r\nPlease meet the conditions and be able to play all stages.<br />\r\nThere is also a stage editor.<br />\r\nA bonus game is also provided.<br />\r\nThis is a simple game where you can freely change the direction of gravity and destroy as many blocks as you want.<br />\r\nPlease play lightly when you are tired.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2264120/header.jpg?t=1696150898",
+    "developers": [
+      "mobran"
+    ],
+    "publishers": [
+      "mobran"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "35StageClaers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2264120/76e9c8b59d69b7c1f4f469fbcdec1a0a1e8feba2.jpg"
+        },
+        {
+          "name": "55StageClaers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2264120/d065dff4b726fa145903925389d909c35b538099.jpg"
+        },
+        {
+          "name": "15StageClaers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2264120/659dbd229bbc1ac8d2665f9a30f50fa2043df5bd.jpg"
+        },
+        {
+          "name": "75StageClaers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2264120/7f2c14ae5f9a501a35c48e82a1e109afd01651a5.jpg"
+        },
+        {
+          "name": "101StageClaers",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2264120/1bc6ca779fc88b1b0d1878fc5fbd948ccf799885.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

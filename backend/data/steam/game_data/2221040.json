@@ -1,0 +1,86 @@
+{
+  "2221040": {
+    "name": "King Arthur: Knight's Tale - Pict Skirmish Pack",
+    "steam_appid": 2221040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此《King Arthur: Knight's Tale》新扩展包内容如下：<br><ul class=\"bb_ul\"><li>全新遭遇战地图：在十张设计独特的可选遭遇战地图上挑战你的策略技能，击败神秘的皮克特人部落。<br></li><li>五种难度级别：在简单、普通、适中、困难或极难五种难度级别下完成遭遇战地图。<br></li><li>全新成就：在任意难度下完成所有地图即可解锁新的成就。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 西班牙语 - 西班牙, 匈牙利语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221040/header.jpg?t=1669217176",
+    "developers": [
+      "NeocoreGames"
+    ],
+    "publishers": [
+      "NeocoreGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "2181840": {
+    "name": "形者",
+    "steam_appid": 2181840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《形者》是一款体素沙盒游戏，游戏中的地形和生物会随机生成，<br />\r\n  构建地形的方块会有丰富的形状变化，方块可以自由破坏和放置。<br />\r\n<br />\r\n      游戏玩法：生物会在地形周围随机生成，击败生物可获得食物和材料以帮助角色生存和发展。<br />\r\n                       方块建造是游戏的主要玩法之一，收集足够的方块材料后可建造富有特色的建筑。<br />\r\n                       收集的方块可用于合成物品，弓、剑等武器装备可通过合成获得以提升战斗力。<br />\r\n                       一些建筑结构会伴随地形随机生成，玩家可探索并获取其中的宝藏。",
+    "supported_languages": "简体中文, 英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 俄语, 保加利亚语, 匈牙利语, 希腊语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 越南语, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2181840/83f8e03200a871bbdb01ba435560c3cae6b6e5e1/header_schinese.jpg?t=1745426672",
+    "developers": [
+      "生长工作室"
+    ],
+    "publishers": [
+      "生长工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2181840/d168cd3420f514f1ec30111b45127028f5df6a0c.jpg"
+        },
+        {
+          "name": "破坏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2181840/247b3b0050630ab61a561fed2104009a06a4abe1.jpg"
+        },
+        {
+          "name": "种植",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2181840/f44c9f5da82b8840f37b16b8262b57721dc04e20.jpg"
+        },
+        {
+          "name": "收集",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2181840/06fd47b99d413f45c3b80fb401b326f461d0fd83.jpg"
+        },
+        {
+          "name": "进度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2181840/b00be3626a618ecf3b689e9bfff7c0620107efbf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "2172140": {
+    "name": "Crosshair Designer",
+    "steam_appid": 2172140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >What is it?</h2><br>The Crosshair Designer is a desktop application for Windows 10/11 that allows you to design highly customized crosshairs (or, &quot;reticles&quot;) and use them while playing full-screen PC games. The Crosshair Designer works alongside a free companion widget for the &quot;XBOX Game Bar&quot;. If you haven't used the XBOX Game Bar, don't worry, it's free, super simple to use, and is a part of Windows 10/11 that is purpose-built just for this sort of overlay.<h2 class=\"bb_tag\" >What can you create with it?</h2><br>The Crosshair Designer provides a high level of customizability, so that you can setup crosshairs that work well for you.<br><br>For example, you may want to:<br>- Quickly create a super simple and tiny dot-sight<br>- Meticulously adjust your crosshairs to replicate a specific crosshair you loved from some game<br>- Design a really big crosshair that makes it look like you're looking through a big scope.<br><br>This software allows you to do all of those things.<br><br>Another cool feature of the Crosshair Designer is that it allows you to have a &quot;dynamic&quot; crosshair - that is, a crosshair that changes/reacts to your mouse inputs. You can define what you want to happen to the crosshair as you use your mouse.<br><br>For example, maybe you want:<br>- Your crosshair to get a bit wider or change color when you hold down the left mouse button<br>- Your crosshair to change to have very fine/thin &quot;legs&quot;, with a high-contrast center dot when you are &quot;aiming down sights&quot;.<br><br>This software allows you to customize that. However, if you want a &quot;static&quot; crosshair (i.e., it doesn't change based upon mouse input), you can absolutely set it up that way, too.<h2 class=\"bb_tag\" >Why not use ______ instead?</h2><br>You have other options:<br><ul class=\"bb_ul\"><li>In-game crosshair customization (if your game allows it)<br></li><li>Other third-party software<br></li><li>Some clever approach of your own (maybe an NVIDIA overlay or stamp)</li></ul><br>Why not just use one of those options?<br><ul class=\"bb_ul\"><li>Many games don't allow much, if any, customization of crosshairs<br></li><li>Coming up with your own approach (like using an NVIDIA utility) may just not work with your game<br></li><li>Other software may restrict what you can create. For example, you may be limited to rather small crosshairs, or limited in the amount of complexity, details, fine-tuning, and adjustments you can make to your crosshairs.<br></li><li>Other software may not allow you as much ability to create &quot;dynamic&quot; crosshairs, especially if you want to have different crosshairs for different &quot;states&quot; (e.g., a different crosshair for &quot;not shooting&quot;, &quot;shooting&quot;, &quot;aiming down sights&quot;, and &quot;shooting while aiming down sights&quot;).</li></ul><h2 class=\"bb_tag\" >About the XBOX Game Bar and companion widget</h2><br>One important thing to note though is that you need to install the companion widget that operates in the XBOX Game Bar. The widget is totally free and is custom-designed to work with this desktop application. Also, in my opinion, the &quot;game bar&quot; is the primary way of displaying overlays on modern Windows operating systems (10/11), especially for overlays meant to work with full-screen PC games.<br><br>There are other ways of displaying overlays, but I think some of them are &quot;risky&quot; - for example, they may involve &quot;hooking&quot; into DirectX in order to render a crosshair on top of a full-screen game. My concern with those other approaches is that there may be a risk of it triggering anti-cheat software, because the anti-cheat software would see some external application &quot;messing around&quot; too closely with your game.<br><br>Instead, I think the game bar overlay approach will tend to &quot;just work&quot; and be &quot;safer&quot;, as it is a part of Windows 10/11 that is meant just for this sort of use case. And, from an anti-cheat software perspective, it's no different from displaying a little music or PC performance widget in the overlay. Further, this software isn't &quot;talking to&quot; your games or interacting with them in any way. It's simply rendering your custom crosshairs and, if you want it to, reacting to your mouse inputs (independently of your games).",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172140/header.jpg?t=1667941628",
+    "developers": [
+      "Zen Gaming Utilities"
+    ],
+    "publishers": [
+      "Zen Gaming Utilities"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "2156010": {
+    "name": "Wallpaper Web",
+    "steam_appid": 2156010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "多功能动态壁纸工具,设置多样化壁纸在您的桌面!<h2 class=\"bb_tag\" >可交互专业web壁纸:创意无限!</h2><ul class=\"bb_ul\"><li>支持最新的web前端技术框架,支持本地html网络化</li><li>自由使用您熟悉的第三方前端开发工具链进行web壁纸制作</li><li>通过内置的api接口,实现web壁纸与本地操作系统交互:<ul class=\"bb_ul\"><li>在html中直接调用打开本地应用,系统开关机,调整音量等</li><li>在html中直接获取操作系统资源信息,如cpu,ram使用率,当前系统音量,网络流量信息,实时声音频谱等</li></ul></li><li>通过以上接口与html动效,动画,事件,进行深度融合,您可制作出携带功能性的web壁纸,如与壁纸ui融合的应用收纳栏,系统资源展示,实时声音频谱等</li></ul><h2 class=\"bb_tag\" >多屏幕与缩放支持</h2><ul class=\"bb_ul\"><li>支持多屏幕,DPI缩放</li><li>可为每个屏幕单独设置相同或不同壁纸</li></ul><h2 class=\"bb_tag\" >分享与下载</h2><ul class=\"bb_ul\"><li>通过内置工具分享您的壁纸</li><li>通过内置工具浏览并下载您喜欢的壁纸</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2156010/header.jpg?t=1733401330",
+    "developers": [
+      "QingShirt"
+    ],
+    "publishers": [
+      "QingShirt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

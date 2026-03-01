@@ -1,0 +1,70 @@
+{
+  "2199120": {
+    "name": "REACMaster",
+    "steam_appid": 2199120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This is a little game for measuring the reaction time.</p><p class=\"bb_paragraph\" >The reactions will be saved and can be reviewed. To present the reactions a distribution diagram for each mode can be found in the menu. In the distribution diagram the X-Axis represents the reaction time and Y-Axis the count of reactions. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game provides different modes for reaction measurement:</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>2d Simple</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >After the color change of a rectangle the user has to click. Time measurement starts after the color change and stops on mouse click. </p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>2d Aim </strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A target spawns on screen and shall be hit by the mouse pointer. The target has 3 different areas, depending on the area which got hit, more points can be achieved. Time measurements starts on spawn of the target and ends with a mouse click. The diagram shows three different y-count/x-time distributions each referring to the achieved points. </p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>3d Movement and Reaction</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The player has to navigate right and left around walls on a straight floor. If the player sees a red ball he has to click the mouse. Time is measured from first sight of the red ball until the mouse click. The diagram shows a y-count/x-time distribution. </p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>3d Aim</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The player stands still on the mid of a plane. Targets will spawn in sight of the player. The player has to aim at the target to gain points. Like in 2D Aim the target has 3 different which relate to different amount of points. The diagram shows three different y-count/x-time distributions each referring to the achieved points. </p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>3d Movement, Aim and Reaction</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The player has to navigate right and left around walls on a straight floor. If the player sees a target he has to aim and click the mouse. Time is measured from first sight of the target until the mouse click. Points are given by the area of the target which got hit. Points are calculated dependent on the reaction time and accuracy. </p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199120/header.jpg?t=1735980763",
+    "developers": [
+      "Michael Schlag"
+    ],
+    "publishers": [
+      "Michael Schlag"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

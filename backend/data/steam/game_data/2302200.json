@@ -1,0 +1,42 @@
+{
+  "2302200": {
+    "name": "Gravity Demo",
+    "steam_appid": 2302200,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This is a physics, logic puzzle game where the aim is to guide the ball to the exit within 20 seconds on each level. Each puzzle starts with all objects and the ball as static.<br />\r\nYou can move and rotate yellow and orange objects into different positions. When you are happy with there placement press play to turn gravity on.<br />\r\nWith gravity turned on The ball and all green and yellow objects will fall and be affected by physics. For example, you might need to move a yellow object out of the way so the ball can roll to the exit, or place a ramp under the ball so it rolls down it when it falls.<br />\r\nThere are 4 main object types;<br />\r\nThe Red Ball(s) - Can not be moved, affected by gravity. Level complete when the ball reaches the exit<br />\r\nYellow - Can be moved, affected by gravity.<br />\r\nGreen - Can not be moved, affected by gravity.<br />\r\nOrange - Can be Moved, not affected by gravity.<br />\r\n<br />\r\nThe demo features<br />\r\n- 15 Levels<br />\r\n-Time Trials for every level<br />\r\n-Unlockable balls, for completing challenges.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2302200/header_schinese.jpg?t=1687113211",
+    "developers": [
+      "Tiny Castle Games"
+    ],
+    "publishers": [
+      "Tiny Castle Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

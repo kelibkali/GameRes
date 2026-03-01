@@ -1,0 +1,47 @@
+{
+  "2218510": {
+    "name": "DepthViewer",
+    "steam_appid": 2218510,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Creates 3D VR scenes from 2D input using depth estimation machine learning model.<br />\r\n<br />\r\nTakes any images or videos, estimates the depth using MiDaS model, and draws it in the 3D space for your VR HMD! <br />\r\nYou can save the depthmap output to use it later, record a 3D VR video to upload on Youtube. This program also can fetch the screen of your desktop and show the depth.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218510/header.jpg?t=1670739511",
+    "developers": [
+      "Chanjin Park"
+    ],
+    "publishers": [
+      "Chanjin Park"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

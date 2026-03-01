@@ -1,0 +1,66 @@
+{
+  "2174220": {
+    "name": "DoTeam",
+    "steam_appid": 2174220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DoTeam是一款生存游戏，玩家将在游戏中成为一只被驱逐出族群的兔子，独自在奇幻的游戏世界里生存。<br />\r\n在这个奇幻游戏世界，你可以通过击败各种怪物，采集物品，获取生存所需的各种资源。<br />\r\n在游戏里，你可以解锁不同武器道具，自由搭建不同的建筑，建造属于自己的基地。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174220/header.jpg?t=1673498669",
+    "developers": [
+      "KONG FANXU"
+    ],
+    "publishers": [
+      "KONG FANXU"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

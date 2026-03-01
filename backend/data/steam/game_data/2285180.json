@@ -1,0 +1,120 @@
+{
+  "2285180": {
+    "name": "Dream Catcher",
+    "steam_appid": 2285180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/extras/e059920cbaeb1f10d5c88e367dd8c07d.webp?t=1746985313\" width=586 height=44 /></span><ul class=\"bb_ul\"><li>Explore an open world. <br></li><li>Platform to secret areas. <br></li><li>Solve puzzles. <br></li><li>Find optional bosses and collectibles. </li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/extras/130653dccb8ea77015dbe0215e8b19b3.webp?t=1746985313\" width=586 height=44 /></span><ul class=\"bb_ul\"><li>Form a team of monsters to fight for you.<br></li><li>Use strategy to beat larger groups of monsters that would overpower you otherwise. </li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/extras/3226b75eceb246e8c70ddbc515f4bbc0.webp?t=1746985313\" width=586 height=44 /></span><ul class=\"bb_ul\"><li>Tame every monster that can appear in the game. <br></li><li>Some of them have unique traits and colors. </li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/extras/95d2d92230c6696edecaba7c5395f707.webp?t=1746985313\" width=586 height=44 /></span><ul class=\"bb_ul\"><li>Choose what your monster will evolve into with multiple choices at every stage. <br></li><li>Unlock rare evolutions previously unseen. </li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/extras/2828951411dab69ad8feb1617902f206.webp?t=1746985313\" width=586 height=43 /></span><ul class=\"bb_ul\"><li>Pair monsters together to create a new life. <br></li><li>Merge unique traits together and create powerful offsprings. </li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285180/header.jpg?t=1746985313",
+    "developers": [
+      "Indigoblin"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "The Beginning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/d662d450c7e606bfc794f56bc2ec0f3fde7d73d6.jpg"
+        },
+        {
+          "name": "[PLACEHOLDER]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/801e2b5fd490019acd00093af06ccec9e8af7f57.jpg"
+        },
+        {
+          "name": "[PLACEHOLDER]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/36bbc76b8257af90cc0d6afe7747ceb4bed1c8e0.jpg"
+        },
+        {
+          "name": "Elemental, My Dear Watson",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/a2055ea7c19625d7604a559f6053ad496b6771c6.jpg"
+        },
+        {
+          "name": "[PLACEHOLDER]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/28cdffcff012e78910ddee05b2c7fc39c9f3cd44.jpg"
+        },
+        {
+          "name": "[PLACEHOLDER]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/b1458cbe956eaa8fe3d6b548d6a86b3011b0f671.jpg"
+        },
+        {
+          "name": "[PLACEHOLDER]",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/458f9ab4d87899d2d7b3c2c69611500ae1758e8c.jpg"
+        },
+        {
+          "name": "Payday",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/92cccc7bede3605c4dbb5295ced6b4cd102a7fe7.jpg"
+        },
+        {
+          "name": "Ruthless",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/40e1e492a7bbf43e04c4d30ab289a582b48f51ff.jpg"
+        },
+        {
+          "name": "Zookeeper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2285180/141469c213e42e491f38789952a4b6f4263956b0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

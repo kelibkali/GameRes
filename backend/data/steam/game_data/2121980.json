@@ -1,0 +1,74 @@
+{
+  "2121980": {
+    "name": "Void Stranger",
+    "steam_appid": 2121980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Void Stranger is a 2D sokoban-style puzzle game where every step counts.<br><br>Descend into the forgotten labyrinth teeming with fiendish foes and traps that defy reason. A swift defeat lurks at every corner for those who neither study their surroundings nor think their moves through with care. <br>Trust you wits and slowly, surely, you will conquer the mysteries before you.<br><br>You do remember why you are here, right?<br>Or have you lost something?<br>Something very important to you.<h2 class=\"bb_tag\" >Includes:</h2><ul class=\"bb_ul\"><li>2D pixel art visuals with an appropriate soundtrack<br></li><li>Plethora of seemingly impossible puzzles<br></li><li>A story seeping through the seams of the Void<br></li><li>Several stages of frustration<br></li><li>A long road to follow</li></ul><h2 class=\"bb_tag\" >Tips:</h2><ul class=\"bb_ul\"><li>The game autosaves between each room, so take it easy<br></li><li>If a puzzle seems impossible, get some rest<br></li><li>If that doesn't help, try asking someone for help<br></li><li>Good luck!</li></ul>",
+    "supported_languages": "英语, 芬兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860",
+    "developers": [
+      "System Erasure"
+    ],
+    "publishers": [
+      "System Erasure"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 9 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Pendant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2121980/64163b6c6150c5c4cc137fd2171f0cad7afdd4d1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 1,
+      "total_reviews": 22
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "2267310": {
+    "name": "Quadice",
+    "steam_appid": 2267310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Quadice is a Tile-Matching Puzzle game featuring:<br>Challenge Mode: A 20-level single player challenge!<br>Endless Mode: How high can you score?<br>2-Player Mode: Who will win?<br><br>Also Featuring:<br><ul class=\"bb_ul\"><li> 15 playable characters.<br></li><li> Alternate costumes for multiple characters.<br></li><li> 12 Stages.<br></li><li> Different Trice(block) styles.<br></li><li> 23 songs to choose from.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267310/header.jpg?t=1694913085",
+    "developers": [
+      "Euphionia Studio"
+    ],
+    "publishers": [
+      "Euphionia Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

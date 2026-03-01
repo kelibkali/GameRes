@@ -1,0 +1,59 @@
+{
+  "2312790": {
+    "name": "魔物酒馆",
+    "steam_appid": 2312790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏故事<br />\r\n玩家将要扮演一只弱小的魔物，在魔物联军与人类帝国的大战中活下来。<br />\r\n在酒吧打工赚取生活费的同时，需要不断地成长。因为每一年的十月份是帝国军团总攻的时间，魔物需要协助联盟取得局部的胜利或者在战争之中活下来。在这个过程中，将会遇到各式各样性格迥异的魔物，与他们成为朋友或者仇敌，并肩作战。<br />\r\n魔物在自身成长的同时，也要想办法让魔物伙伴一起成长。当然，魔物也可以靠玩家的策略变成魔王。<br />\r\n<br />\r\n游戏玩法<br />\r\n- 魔物在酒馆打工，通过规划好每一天让自己成长<br />\r\n- 不同的魔物拥有不同的特性，比如骨头怪拥有更多的进攻骰子，而没有防御骰子<br />\r\n- 每年的10月份，邪恶的人类帝国将会进攻弱小的魔物世界，玩家此时可以挺身而出<br />\r\n- 通过在酒吧接告示，来决定一周的活动<br />\r\n<br />\r\n在战斗中，每一天分为“早”，“午”，“夜”三个回合。<br />\r\n- 不同的时辰，会对一些魔物产生起效<br />\r\n- 比如骷髅在夜间的行动力+1，而早晨的行动力则-1。<br />\r\n- 午夜的独角兽战斗力更强<br />\r\n- 玩家根据自身的行动力，执行若干回或者直接点击结束回合来结束这一天。<br />\r\n<br />\r\n主线事件-战役动员：<br />\r\n- 战线有起始点与终点，不同战线终点与起始也不同<br />\r\n- 越接近起始点，场景对玩家越有利，反之相反<br />\r\n<br />\r\n三条战线分别为：<br />\r\n- 搜集远古魔王遗物<br />\r\n- 联军大战<br />\r\n- 境内联合<br />\r\n<br />\r\n联合大军<br />\r\n- 魔物之间需要培养好感<br />\r\n- 好感度越高，魔物队友将能够提供更多的帮助<br />\r\n- 当魔物与玩家的好感度为负数时，将发生内讧。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312790/header.jpg?t=1705609199",
+    "developers": [
+      "Rocktaoist"
+    ],
+    "publishers": [
+      "Rocktaoist"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

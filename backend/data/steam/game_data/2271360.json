@@ -1,0 +1,82 @@
+{
+  "2271360": {
+    "name": "IsoChess",
+    "steam_appid": 2271360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "IsoChess是一款简单的国际象棋游戏，无论是新手还是有经验的玩家都可以玩。<br />\r\n<br />\r\n和电脑对战练习！<br />\r\nIsoChess可以让您和社区开发的各种国际象棋引擎进行对战。只需找到兼容的引擎，将其安装在游戏的ai/目录下。创建AI游戏时，您可以选择所安装的任意一个引擎。Stockfish是一个流行的开源引擎，可以开箱即用。Stockfish既是一个非常强大的引擎，也可以在难度较低的回合中进行比赛。非常适合练习和发展您的象棋技能。<br />\r\n<br />\r\n和任意一个玩家进行对战！<br />\r\nIsoChess的免费/演示版可以加入多人游戏。有了游戏的付费副本，您就可以创建游戏和其他玩家或者Steam上的任意一个玩家进行对抗！<br />\r\n<br />\r\n在线和离线多人游戏<br />\r\n离线功能支持真人vs真人游戏，或者真人vs AI游戏。即使您无法上网，也可以随身携带国际象棋。<br />\r\n<br />\r\n两种艺术风格<br />\r\n在复古等距“2.5D”或经典的自上而下的2D模式下游戏。<br />\r\n游戏过程中可以随时在图形样式之间进行切换。<br />\r\n<br />\r\n演示功能<br />\r\n- 与AI对战<br />\r\n- 本地多人游戏（2个玩家在同一台计算机上游戏）<br />\r\n- 加入在线游戏（付费副本创建的游戏）<br />\r\n<br />\r\n付费游戏功能（演示版中的所有功能）：<br />\r\n- 创建多人游戏<br />\r\n- 邀请steam上的任意一个玩家一起游戏<br />\r\n- 记录您所有的游戏<br />\r\n- 回顾您玩过的游戏",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271360/header.jpg?t=1710527498",
+    "developers": [
+      "Bit Twiddle Games"
+    ],
+    "publishers": [
+      "Bit Twiddle Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "2151000": {
+    "name": "Selene ~Apoptosis~ Artbook",
+    "steam_appid": 2151000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The art of Selene ~Apoptosis~, all in one place.<br><br><strong>You can find the artbook inside your Steam game folder.</strong>",
+    "supported_languages": "俄语, 英语, 简体中文, 繁体中文, 德语, 日语, 阿拉伯语, 西班牙语 - 西班牙, 波兰语, 西班牙语 - 拉丁美洲, 韩语, 葡萄牙语 - 巴西, 法语, 意大利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151000/header.jpg?t=1676677504",
+    "developers": [
+      "Viscum key",
+      "Nupu Neko Dev"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

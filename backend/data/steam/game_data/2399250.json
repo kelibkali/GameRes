@@ -1,0 +1,75 @@
+{
+  "2399250": {
+    "name": "Mahokenshi - The Designer's Guide",
+    "steam_appid": 2399250,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong> “Mahokenshi - The Designer's Guide”</strong> The DLC pack has a handful of challenging maps functioning as a guide to show off the potential and the possibilities of the Mission Editor, helping creators to get started.<br><br>The pack consists of multiple maps that after downloading will directly show up in your in-game custom mission folder. From here on out you can learn about the possibilities, or even shape it into your own custom-made adventure. You can get as creative as you wish one hex at a time, placing hordes of enemies, setting objectives, creating quests with rewards, and more.<br><br>The Celestial Islands are now in your hands!<br><br><strong>Map 1: Defeat The Armored Oni</strong> – The missions showcases all the basic<br>ingredients needed to create a good mission in Mahokenshi. Be sure to explore<br>the different events to gather additional tips on the mission editor!<br><br><strong>Map 2: Run!</strong> – In Mahokenshi, it’s important to set a time limit on missions. This<br>helps to establish a good pace and encourages strategic decision-making. There<br>are many ways to implement a time limit. In this example, several enemies have<br>been edited to have a “Tracking” behavior. They are constantly pursuing the<br>player, forcing them to make quick decisions.<br><br><strong>Map 3: The Oni Archipelago</strong> – Some Victory and Defeat conditions need a<br>target value to be set up along with “Markers”. First, use the brush tool next to<br>the victory or defeat condition to place markers, and then set the desired target<br>value. It’s important to note that the target value may not necessarily match the<br>number of markers used. For instance, in this mission, your objective is to defeat<br>Onis, but you may not have to defeat all of them.<br><br><strong>Map 4: Protect The Villages</strong> – Some special enemy behaviors unlock for<br>specific defeat conditions. In this example, all enemies are set to attack the<br>villages. It’s worth noting that enemies spawned from pits can also be assigned<br>this behavior.<br><br><strong>Map 5: Defend The Island</strong> – This mission demonstrates the ‘Reach Any Tile’<br>defeat condition. For such missions timing is crucial, and it’s better to build up<br>pressure gradually. If you select any enemy or pit, you’ll notice that there’s a<br>specific AI behavior designed for this type of mission.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399250/header.jpg?t=1753090995",
+    "developers": [
+      "Game Source Studio"
+    ],
+    "publishers": [
+      "Iceberg Interactive"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

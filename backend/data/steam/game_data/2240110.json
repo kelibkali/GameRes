@@ -1,0 +1,102 @@
+{
+  "2240110": {
+    "name": "Mount & Blade II: Bannerlord Digital Companion",
+    "steam_appid": 2240110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "以前所未有的方式体验卡拉迪亚的征战生活，尽在《骑马与砍杀2：霸主》数字伙伴。数字伙伴包括：<br />\r\n<br />\r\n        o\t一张卡拉迪亚的交互式地图<br />\r\n        o\t《卡拉迪亚游记》有声故事书<br />\r\n        o\t游戏原声音乐<br />\r\n        o\t概念创作图",
+    "supported_languages": "英语<strong>*</strong>, 简体中文, 土耳其语, 繁体中文, 法语, 意大利语, 日语, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 西班牙语 - 拉丁美洲, 德语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240110/header.jpg?t=1671213695",
+    "developers": [
+      "TaleWorlds Entertainment"
+    ],
+    "publishers": [
+      "TaleWorlds Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4900,
+      "final": 4900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 49.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 220,
+      "total_negative": 10,
+      "total_reviews": 230
+    },
+    "type": "dlc"
+  }
+}

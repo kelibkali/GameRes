@@ -1,0 +1,74 @@
+{
+  "2242080": {
+    "name": "Just Chess",
+    "steam_appid": 2242080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Enjoy a deep chess experience – solo or online – with Just Chess!</strong></p><p class=\"bb_paragraph\" >Whether you're a beginner or a seasoned player, Just Chess has everything you need. Sharpen your skills against a smart AI in a modern 3D environment, <strong>test your tactical vision with over four million chess puzzles</strong>, or challenge the world with comprehensive Lichess integration.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Built-in Chess Engine</strong> – Play offline instantly using the game's internal chess engine, no setup required.</p></li><li><p class=\"bb_paragraph\" ><strong>UCI Engine Support</strong> – Take your game to the next level by connecting any external chess engine that supports the UCI protocol, such as Stockfish. Play against opponents at – and even beyond – grandmaster strength.</p></li><li><p class=\"bb_paragraph\" ><strong>Engine vs Engine (EvE)</strong> – Curious to see which engine is stronger? Set up a match between two UCI chess engines of your choice and watch the battle unfold. Includes configuration options for engine threads and hash size.</p></li><li><p class=\"bb_paragraph\" ><strong>Puzzle Arena</strong> – Test your skills and improve your tactical awareness with a massive database of over four million puzzles from Lichess. Try different modes like the fast-paced Puzzle Blitz and the endurance-testing Puzzle Run.</p></li><li><p class=\"bb_paragraph\" ><strong>Lichess Integration</strong> – Log in to your Lichess account directly from the game!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Challenge friends or millions of other players online.</p></li><li><p class=\"bb_paragraph\" >Play against Lichess's own Stockfish AI at various difficulty levels.</p></li><li><p class=\"bb_paragraph\" >Continue your ongoing correspondence or real-time games.</p></li><li><p class=\"bb_paragraph\" >All online games are seamlessly synchronized with your Lichess account.</p></li><li><p class=\"bb_paragraph\" >Spectate Live Tournaments – Follow top-level chess events in real-time with the new Lichess Broadcasts integration. Watch grandmaster games unfold live, directly within the game's immersive 3D environment.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>3D Chessboard</strong> – With an adjustable viewing angle.</p></li><li><p class=\"bb_paragraph\" ><strong>Flip &amp; Reset View</strong> – Use F to flip the board and R to reset it to your playing side.</p></li><li><p class=\"bb_paragraph\" ><strong>Chess Clocks &amp; Time Controls</strong> – Play timed games with popular formats like Bullet (1+0), Blitz (5+3), Rapid (10+5), and Classical (30+0, 90/40). Time controls under 10 minutes are supported with both the built-in and UCI chess engines. Untimed mode is also available.</p></li><li><p class=\"bb_paragraph\" ><strong>2D and 3D Chess Clocks</strong> – Switch between practical 2D and immersive 3D clock views using the C key. 3D clocks show remaining time as a circular diagram.</p></li><li><p class=\"bb_paragraph\" ><strong>Adjustable Move Speed</strong> – Customize how fast the built-in or UCI chess engine plays its moves for a more relaxed or time-pressured experience. Combine with difficulty settings for a personalized challenge.</p></li><li><p class=\"bb_paragraph\" ><strong>Easy to Play</strong> – Simple controls and an intuitive interface.</p></li><li><p class=\"bb_paragraph\" ><strong>Adaptive AI Strength</strong> – Both the built-in and UCI chess engines can automatically adjust their strength based on your wins and losses, ensuring a balanced challenge.</p></li><li><p class=\"bb_paragraph\" ><strong>PGN Export and Analysis</strong> – The game allows you to copy the chess game in PGN format to the clipboard and analyze it on online chess analysis websites. Online analysis may require an account with the analysis service provider.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Note: External chess engines must be downloaded separately. Please use only trusted sources. The developer is not responsible for third-party software.</i></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2242080/header.jpg?t=1769114121",
+    "developers": [
+      "Pupugames"
+    ],
+    "publishers": [
+      "Pupugames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

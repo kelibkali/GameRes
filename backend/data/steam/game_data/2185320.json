@@ -1,0 +1,87 @@
+{
+  "2185320": {
+    "name": "Lost Trials",
+    "steam_appid": 2185320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You find yourself lost and stranded, with nowhere to go but upwards but be wary it's easy to lose progress by making mistakes. <br>There are no checkpoints, there are no saves, you either make it or you don't skill and speed determines your fate.<br><br>Lost Trials is a Punishing Platformer where simple mistakes can pull you back minutes of progress at a time, in-game time is tracked for speed running purposes and personal bests are uploaded to Steam leaderboards to be kept safe and permanent. Timing your jumps are key and understanding the charged jump mechanic as a whole is the main core of the game. <br><br>Some key features or lack there of involve:<br><br><strong><u>No saves or checkpoints</u></strong><br><br>For now saving is not required as skill and memorization improvements over time would make saving trivial. However it may be added in the future if the game is expanded and does well. <br><br><br><strong><u>In-Game Time Tracking</u></strong><br><br>As there is a timer running the entire time it does have some effect on the gameplay but it's not to be stressed differences are minimal; however it does affect the achievements. <br><br><strong><u>Catgirls</u></strong><br><br>self explanatory",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185320/header.jpg?t=1677604438",
+    "developers": [
+      "Wertyz"
+    ],
+    "publishers": [
+      "Wertyz",
+      "Frozen Bears"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Trial Passed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2185320/1f18868933f9adcea52411778361501ceb6110e3.jpg"
+        },
+        {
+          "name": "Trial Passed in Time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2185320/3bc7044b80b57303a9585e22cc46c6c1421abb29.jpg"
+        },
+        {
+          "name": "Developer Time Beaten",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2185320/0898bf215c4507eef3784e4241a8be322f9d2c93.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

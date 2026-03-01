@@ -1,0 +1,91 @@
+{
+  "2116380": {
+    "name": "Forgotten Lands: Online",
+    "steam_appid": 2116380,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><i><strong>Forgotten Lands: Online is a free online multiplayer RPG.</strong></i> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Explore an open world  without much limitation.  </p></li><li><p class=\"bb_paragraph\" > ﻿Customize  your character appearance through character skins and vanity items!</p></li><li><p class=\"bb_paragraph\" >Collect and compare hundreds of combat items to perfect your character build. </p></li><li><p class=\"bb_paragraph\" > Create a party, join a Guild, and befriend special players you encounter along your journey! </p></li><li><p class=\"bb_paragraph\" > Battle through hoards of combat NPCs, and encounter strong bosses for loot and prestige.  </p></li><li><p class=\"bb_paragraph\" > Battle other players in the PVP Zone for a chance to nab their equipment and prove your strength.</p></li><li><p class=\"bb_paragraph\" > Participate in mini-games that happen at certain times of the day! </p></li><li><p class=\"bb_paragraph\" >Strut your stuff by reaching the top of the rankings! (Displayed on the main website)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>The game was released in an alpha state, and is under active development.</i></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > The game is updated approximately once per month.  </p></li><li><p class=\"bb_paragraph\" > Max character level is 35, but is planned to be expanded to at least level 100. </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <i><strong>Server Reboot Schedule...</strong></i></p><p class=\"bb_paragraph\" > <i>The server will automatically restart itself every day.</i> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i><strong>Resets everyday @11:59 (UTC)</strong></i></p></li><li><p class=\"bb_paragraph\" ><i>The server may be offline for up to 5 minutes while it reboots.</i></p></li></ul><p class=\"bb_paragraph\" ><i>*The server also checks if it is offline, so if the server were to ever crash, it will automatically reboot itself. Just please wait a few minutes if the server goes offline.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>Important Note About VPNs and UDP Connection...</i></strong></p><p class=\"bb_paragraph\" >The game requires a UDP connection, which may cause issues if you are using VPN services. As a result, you likely will not be able to log into the game when connecting through a VPN connection. <strong><i>If you are able to launch the game but cannot log into the game, it is likely that you are using a VPN service or a TCP connection.</i></strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i><strong>Controller, Gamepads, and Steam Deck...</strong></i></p><p class=\"bb_paragraph\" >You can play the game using a controller, gamepad, or the Steam Deck. However, you may need to map buttons. Button mapping can be done directly through the Steam Input controller configuration, or it can be edited in the game settings (options menu -&gt; controls). Most controllers and gamepads have enough buttons to map all essential game controls. However, controllers and gamepads cannot be used to navigate game menus, and there is no built-in keyboard which would allow you to type text into the chat box or other input fields.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116380/header.jpg?t=1749153645",
+    "developers": [
+      "IZAKTLY"
+    ],
+    "publishers": [
+      "IZAKTLY"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

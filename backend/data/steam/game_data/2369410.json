@@ -1,0 +1,82 @@
+{
+  "2369410": {
+    "name": "Lotte",
+    "steam_appid": 2369410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369410/extras/4a28a374c8af2fb557d43af0e6eac622.poster.avif?t=1703752315\" width=630 height=354 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369410/extras/4a28a374c8af2fb557d43af0e6eac622.webm?t=1703752315\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369410/extras/4a28a374c8af2fb557d43af0e6eac622.mp4?t=1703752315\" type=\"video/mp4\"></video></span><br><br><strong>What if death did not mean it was GAME OVER?</strong> <br><br>Lotte is a five-minute short story about death told through game mechanics. You play as Lotte, a woman who happens to become a fly when she dies. Run, jump and fly your way through a soothing forest where everything you see is drawn by hand.",
+    "supported_languages": "英语, 丹麦语, 德语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369410/header.jpg?t=1703752315",
+    "developers": [
+      "mathismeilby"
+    ],
+    "publishers": [
+      "mathismeilby"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "The Journey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2369410/50451f8963cc4af3f4352cba574fe273574d7ce7.jpg"
+        },
+        {
+          "name": "The Journey Continues",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2369410/058ad19466c2c2b329c745aed41e6320ad928cd7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

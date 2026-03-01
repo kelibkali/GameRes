@@ -1,0 +1,122 @@
+{
+  "2144220": {
+    "name": "ダンジョンアーティファクト",
+    "steam_appid": 2144220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Roguelike Deckbuilder</h2><br>Repeatedly acquire and delete cards to strengthen your deck power and fight back against enemy automata.<br>Over 300 different cards, each with its own unique effect, can be combined to create endless strategies.<h2 class=\"bb_tag\" >Card Categories</h2><br>This title features four different card categories.<br><br><strong>Active Card</strong><br>It is a basic card whose effect is applied immediately upon use.<br><br><strong>Permanent Card</strong><br>It has the effect of static.<br><br><strong>Counter Card</strong><br>It can be activated at any time, including the opponent's turn. It has a special effect that allows you to interfere with your opponent's actions.<br><br><strong>Artifact Card</strong><br>It is a powerful card that is always effective if you have it.<h2 class=\"bb_tag\" >Character</h2><br>You can start the game by choosing one of two characters, &quot;Lydia&quot; and &quot;Smyrna&quot;.<br>Each character has its own features and different cards that can be acquired, allowing you to play with a completely different strategy.<h2 class=\"bb_tag\" >Story</h2><br>An artifact with a power that cannot be explained by current technology.<br>To retrieve the artifact, Lydia and Smyrna enter a dungeon to discover the secrets of the dungeon...<h2 class=\"bb_tag\" >Streaming, Video Creation</h2><br>As long as the following conditions are met, you are free to create streaming and play videos, regardless of whether you are an individual or a company, and whether or not you monetization your work.<br><ul class=\"bb_ul\"><li>The URL to the Steam store page must be included.</li></ul>",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144220/header.jpg?t=1748186840",
+    "developers": [
+      "いとこん"
+    ],
+    "publishers": [
+      "Exertion Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 4 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 122,
+      "highlighted": [
+        {
+          "name": "Hello World",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/aca7b4667da4b24f64a4189242a459a78736a63d.jpg"
+        },
+        {
+          "name": "ニューゲーム",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/19c4a71331a015041abaedc6205ee35c3e478fcf.jpg"
+        },
+        {
+          "name": "リディア:ノーマル開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/7781343fea9687b70db2b87708a66ee48e0c1e63.jpg"
+        },
+        {
+          "name": "リディア:ハード開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/911c4b55380f5e90f5a03342af9b0172485ed8a7.jpg"
+        },
+        {
+          "name": "リディア:ベリーハード開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/8f15dc0db691248baa9b825bffff8ca95f44d766.jpg"
+        },
+        {
+          "name": "スミルナ:ノーマル開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/fb0ed9552d17fd5981a8128b5540ae4562c96156.jpg"
+        },
+        {
+          "name": "スミルナ:ハード開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/8b972c442b205a2e346614ec8aabec0f720b4f91.jpg"
+        },
+        {
+          "name": "スミルナ:ベリーハード開始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/fe7243ed63e0989c873460b8623cfa0518c3b7e2.jpg"
+        },
+        {
+          "name": "初クリア",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/2461cebb93f9c7ebe24ed36414dabf5ad6c454ce.jpg"
+        },
+        {
+          "name": "10回クリア",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144220/f00338767833c526afbf3b6f1cbb783dd42c4b7e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 9,
+      "total_negative": 0,
+      "total_reviews": 9
+    },
+    "type": "game"
+  }
+}

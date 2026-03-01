@@ -1,0 +1,66 @@
+{
+  "2146730": {
+    "name": "Parlor",
+    "steam_appid": 2146730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Parlor 是一款 <strong> 互动派对游戏 </strong>，可以通过您的 <strong> Twitch 聊天 </strong> 进行游戏！ 作为主播，您可以为您的聊天提供线索，这样他们就可以通过在您的聊天中输入答案来猜测答案。<br><br><strong>两种游戏模式</strong><h2 class=\"bb_tag\" >告诉我</h2>允许 Streamer 在不说某些词的情况下说话，以提供聊天线索。<h2 class=\"bb_tag\" >显示我</h2>Streamer 仅提供聊天的物理线索。 不允许说话。<br><br><br>在每种模式下，您的聊天都会尝试通过在聊天中输入答案来猜测答案，相互竞争。<br><br>Parlor 提供多种语言版本，更多语言版本即将推出！ 在您的聊天中享受互动乐趣，并展示您非凡的词汇技巧！<br><br>请注意，您需要拥有 Twitch 帐户才能玩游戏。",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146730/header.jpg?t=1726261700",
+    "developers": [
+      "Alcedo Games"
+    ],
+    "publishers": [
+      "Alcedo Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

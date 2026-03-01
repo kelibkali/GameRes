@@ -1,0 +1,83 @@
+{
+  "2288570": {
+    "name": "BadMan",
+    "steam_appid": 2288570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "BadMan is a game where you shoot BadMans with your gun and they keep spawning faster as you kill them. You just shoot some 2D characters called BadMans and try to survive<br />\r\n<br />\r\n20 billion years ago, there was nothing in the universe other than a big happy circle. The circle (aka goodman) was doing nothing in the emptiness until some BadMans spawned near him. He couldn't defend himself because he didn't have gun. So he ran away from the badmans until he discovered that he can shoot bullets from his fingers. When he discovered it, he started hunting all of the BadMans. But as he kept killing them, the badmans started spawning faster and faster...",
+    "supported_languages": "英语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288570/header.jpg?t=1677999059",
+    "developers": [
+      "onlykemal",
+      "akmastertv"
+    ],
+    "publishers": [
+      "onlykemal"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "First BadMan",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2288570/70c02d9f982a9c3ca33f95f758dc08d78dcb7907.jpg"
+        },
+        {
+          "name": "10 BadMans",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2288570/9ace20a70c3ccc41786bb0244855cc84dd329851.jpg"
+        },
+        {
+          "name": "I can move!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2288570/98df5d2e80492578019431573f2e3e5fae9adfad.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

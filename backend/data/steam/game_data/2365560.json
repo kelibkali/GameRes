@@ -1,0 +1,90 @@
+{
+  "2365560": {
+    "name": "IguaRPG",
+    "steam_appid": 2365560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Be an iguana and save the world from evil.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>Create your own adorable iguana with the charming character creator<br></li><li>Solve puzzles and get help from other iguanas to collect the 4 big keys<br></li><li>Collect precious valuables to spend on unique consumables and stat boosts<br></li><li>Defeat strong invaders with strategy and clever use of items</li></ul><br> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.webp?t=1682289144\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.poster.avif?t=1682289144\" class=\"bb_img\" width=112 height=129 /></picture></span><h2 class=\"bb_tag\" >Controls</h2><br><ul class=\"bb_ul\"><li><strong>Arrow Keys</strong> - Move<br></li><li><strong>Space</strong> - Jump, Confirm, Use potion<br></li><li><strong>U</strong> - View potion supply<br></li><li><strong>Q</strong> - ???</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/header.jpg?t=1682289144",
+    "developers": [
+      "Hubol"
+    ],
+    "publishers": [
+      "Hubol"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Oversized",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365560/7b0839fe9f3ca58b588a927e34063c11fbb09ef9.jpg"
+        },
+        {
+          "name": "Unorthodox",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365560/48691a82d0a338adcf1f3347ac7377f7cf8deb16.jpg"
+        },
+        {
+          "name": "Vile",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365560/ef0c6e1ba85feba9ef80a00cf49153ec8b9338ae.jpg"
+        },
+        {
+          "name": "Ornate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365560/6f68b5212cccbede2c1cec9f8ed246e66b6b3ee0.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2365560/ebf66c4d6e001d1fb0dc6cd5b6546d9c8016f5a5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

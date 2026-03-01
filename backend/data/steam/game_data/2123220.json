@@ -1,0 +1,60 @@
+{
+  "2123220": {
+    "name": "ImmaterialAI 5 Plus lite",
+    "steam_appid": 2123220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Get the essential features of the premium upgrade to the praised ImmaterialAI platform at a fraction of the price!<br><br><i>If you get ImmaterialAI Plus lite you will get access to a discounted upgrade to Plus, available after purchase here: .</i><h2 class=\"bb_tag\" >Meta models</h2><ul class=\"bb_ul\"><li> create new dimensions of data<br><ul class=\"bb_ul\"><li> node types e.g. Person, Entity, Event, Feeling, Worldview, Belief <ul class=\"bb_ul\"><li> (NEW) node types can have parents, searching for a type also returns all subtypes</li></ul></li><li> link types e.g. Parallels, Depends on, Related to</li></ul></li><li> update default node and link types<br></li><li> ability to constrain link types to specific node types<br></li><li> hotwords to query through meta data from the search bar, use &quot;meta&quot; to show all node and link types<br></li><li> set custom colors and icons to your meta data, visible all throughout the app (in graphs too!)<br></li><li> Tapping on the category of a node/link type will filter your home page to show only node/link types<br></li><li> Tapping on the category of a node (e.g. feeling 'happy') to filter only feelings will now also show up the node type itself<br></li><li> (NEW) expand any node type to see all the nodes of that type</li></ul><h2 class=\"bb_tag\" >To-do system</h2><ul class=\"bb_ul\"><li> Assign to-do status to any node<br></li><li> Standalone auto-generated task board, <br>     </li><li> (NEW) create tasks and nodes on the fly inside the task board<br></li><li> Task filter added to the home page</li></ul><ul class=\"bb_ul\"><li> hotwords to query through all tasks from the search bar, type &quot;todo&quot;, &quot;inprogress&quot;, &quot;done&quot;,&quot;tasks&quot; and variations to show tasks of different states </li></ul>  <br><br>Lite features and more live in <strong>ImmaterialAI Plus</strong> ",
+    "supported_languages": "英语, 罗马尼亚语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 繁体中文, 印地语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123220/header.jpg?t=1708019722",
+    "developers": [
+      "Futuresoup"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

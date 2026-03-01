@@ -1,0 +1,127 @@
+{
+  "2354560": {
+    "name": "ClickeRogue",
+    "steam_appid": 2354560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/decaa45a1254bfdfc49c95b24dadac6f.poster.avif?t=1727772025\" width=590 height=276 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/decaa45a1254bfdfc49c95b24dadac6f.webm?t=1727772025\" type=\"video/webm; codecs=vp9\"></video></span> </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You are a slime looking to get stronger in a weird dungeon, where almost everything is after you.</p><p class=\"bb_paragraph\" >Get stronger by finishing dungeons and choose the right upgrades and get the best time possible.</p><p class=\"bb_paragraph\" >Fight using your clicks and defend yourself with your shield and good timing ! </p><p class=\"bb_paragraph\" >Good luck in the dungeon.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1fdbca6faf6e5ba91c268c52087f1c4d.poster.avif?t=1727772025\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1fdbca6faf6e5ba91c268c52087f1c4d.webm?t=1727772025\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1fdbca6faf6e5ba91c268c52087f1c4d.mp4?t=1727772025\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Lvl Up and choose between randoms upgrades to get stronger !</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1db03ef9710498d890a961380f996d72.poster.avif?t=1727772025\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1db03ef9710498d890a961380f996d72.webm?t=1727772025\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/extras/1db03ef9710498d890a961380f996d72.mp4?t=1727772025\" type=\"video/mp4\"></video></span></p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354560/header.jpg?t=1727772025",
+    "developers": [
+      "Dablue",
+      "Haikito"
+    ],
+    "publishers": [
+      "Dablue"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Starting the Adventure",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/b7d7f5037c497c924d45d4d15a62f570e98de0c0.jpg"
+        },
+        {
+          "name": "Explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/84f8651e20648eb8581692ebcc1abde716d38b40.jpg"
+        },
+        {
+          "name": "Adventurer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/67259e96ccbef3671d7c1ff3699ab21d23162e66.jpg"
+        },
+        {
+          "name": "Dungeon Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/bdaa7b72565c41aeb3fd2865927580f909684d29.jpg"
+        },
+        {
+          "name": "Crazy Slime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/35dbc84094591c46b148a10044a723eefec26040.jpg"
+        },
+        {
+          "name": "Death is the beginning",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/274559398aa24eb003c68e85c3fa56253afadcbf.jpg"
+        },
+        {
+          "name": "Pocket Money",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/25412cc564d4d4a004eb9ebeffc7516ecf10e0ff.jpg"
+        },
+        {
+          "name": "Stonks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/0a07ab38e1eb8775e2eb68278656978071986a37.jpg"
+        },
+        {
+          "name": "Rich Get Richer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/b38c113219ca7369e4d370d5ed208be102e3f682.jpg"
+        },
+        {
+          "name": "Elon Slime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2354560/6a6710d2eac6fe0ad68f37d4296b271f883a8117.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

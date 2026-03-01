@@ -1,0 +1,67 @@
+{
+  "2255300": {
+    "name": "The Starving Tournament",
+    "steam_appid": 2255300,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >The Starving Tournament</h2>will be a Multiplayer Survival Game, loosely based on the &quot;The Hunger Games&quot; movies. The open alpha version is already available for public access. Try our open alpha, report bugs or give us your ideas to make it the best game it can be.<h2 class=\"bb_tag\" >About the project</h2><br>Being fascinated of the &quot;Hunger Games&quot; arena idea and for the lack of a real game for the movies / books we wanted to start our own &quot;Hunger Games&quot; fan project. So we started &quot;The Starving Tournament&quot; - a tournament where 20 players will be put into differently designed arenas with traps, monsters and other dangers. But the biggest dangers are the other players and the HUNGER<br><br>Will you be the last one standing and win the Starving Tournament?<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255300/extras/d6b052ef3fa1694c42edf9c602450d61.avif?t=1694606184\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255300/extras_big/d6b052ef3fa1694c42edf9c602450d61.avif?t=1694606184 width=800 height=450 /></span><br><br>We are aware of the fact, that there have been other &quot;Hunger Games&quot; like games before, but we want to go a step further and take more features from the actual &quot;Hunger Games&quot; movie into our Game &quot;The Starving Tournament&quot;.<br>You can help us to achieve this goal, by downloading and playing the alpha version of the game,<br>report us bugs, give us Feedback and help us to build an amazing GAME!! Feel free to share your ideas, wishes etc. in the comments or write a message.<br><br>Implemented Features so far (In-Development Alpha Version):<br>- survival/FPS Basics (fall damage, healing, swimming, hunger / thirst, stamina, energy)<br>- melee and range weapons (bow &amp; arrow, spear, sword, throw-knifes, dropping weapons)<br>- medikit &quot;gifts&quot;<br>- multiplayer (via PUN 2)<br>- chat / statistics<br>- minimap<br>- HUD<br>- day/night Cycle<br>- statistics panel for Kill/Death/Ping<br>- bots (with prototype &quot;AI&quot;)<br>- spectator mode (spectator will act as sponsor)<br>- climbable trees<br>- food / drink from water<br>- energy / sleep<br>- different damages if feet / arms / head are hit<br>- slowed down fighting or running if arm or feet are wounded<br>- choose between round based / unlimited<br>- mines<br><br>planned features for Beta and Later:<br>- more arenas<br>- random arena<br>- more traps and other dangers<br>- more gifts from sponsors<br>- betting/ sponsoring System<br>- different characters with different characteristics/attributes<br>- weather<br>- more weapons<br>- gamemaker mode<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255300/extras/b3994dcf25907065b12491050c9ff82d.avif?t=1694606184\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255300/extras_big/b3994dcf25907065b12491050c9ff82d.avif?t=1694606184 width=800 height=450 /></span><br><br>Controls:<br><br>Normal Mode:<br><br>WASD/Arrow Keys + Mouse – Move<br>Shift – run<br>Cmd - Crouch<br>Space - jump<br>E – use / take / eat<br>F –flashligh<br>M – minimap<br>C – Toggle 3-rd Person/First Person Camera<br>T – Chat<br>TAB - statistics<br>1 – Weapon slot 1 (melee)<br>2 – Weapon slot 2 (range)<br>Mouse 1 – fire weapon / hit<br>Mouse 2 – fire weapon / aim<br>MouseWheel – change weapon<br>Esc – Pause Menu / Close Pause Menu<br><br>Spectator Mode:<br><br>WASD/Arrow Keys + Mouse – Move<br>Shift – move / fly faster<br>E – Buy Menu<br>F – Cinematic Mode (Prototype)<br>T – Chat<br>TAB - statistics<br>Mouse 1 – Place object (when selected in buy menu)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255300/header.jpg?t=1694606184",
+    "developers": [
+      "GJTP Games"
+    ],
+    "publishers": [
+      "GJTP Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "2279060": {
+    "name": "Stack Machines",
+    "steam_appid": 2279060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Stack Machines</strong> is an open-ended puzzle programming game. Use the stack data structure in the form of 4 stack machines moving according to the modules(instructions) placed on a grid to read, transform and output different input sequences. Optimize your solutions for size, module count, speed and cost-effectiveness.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >4 stacks</p></li><li><p class=\"bb_paragraph\" >Wrapping resizable board</p></li><li><p class=\"bb_paragraph\" >Open-ended puzzles with a lot of potential for optimization</p></li><li><p class=\"bb_paragraph\" >4 optimization metrics</p></li><li><p class=\"bb_paragraph\" >Recording of solution videos </p></li><li><p class=\"bb_paragraph\" >Histograms</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279060/header.jpg?t=1763458215",
+    "developers": [
+      "UP DEVELOPMENT LTD."
+    ],
+    "publishers": [
+      "UP DEVELOPMENT LTD."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 2400,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 48.00",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/593e916838ba04bf15195174a8ba028aa6885055.jpg"
+        },
+        {
+          "name": "Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/2ebea98c49e82c3b4bf940f2cb2587c5a634dcae.jpg"
+        },
+        {
+          "name": "Advanced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/804fd38666abd30435c3fdb7e91a118701c32bde.jpg"
+        },
+        {
+          "name": "All stacked up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/cfb5adb6c3b7729401af8c0533aca10069f5d129.jpg"
+        },
+        {
+          "name": "Optimal solution",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/f9a41ed9866aeb3173f02847e66be45ea3c94301.jpg"
+        },
+        {
+          "name": "Reverse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/1d2c29be71df6c26d5316c55226873ce5d22a89c.jpg"
+        },
+        {
+          "name": "Decomposition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279060/226640c4394ae9495e7419347aaab9b406660ea8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

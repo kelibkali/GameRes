@@ -1,0 +1,134 @@
+{
+  "2401370": {
+    "name": "Dogs Club",
+    "steam_appid": 2401370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401370/extras/af94283f5adc05a55810f41b477b8082.poster.avif?t=1758112250\" width=620 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401370/extras/af94283f5adc05a55810f41b477b8082.webm?t=1758112250\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401370/extras/af94283f5adc05a55810f41b477b8082.mp4?t=1758112250\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >关于</h2><br>Dogs Club 是一款具有挑战性的跑酷游戏，可以单人游戏和多人游戏。 以最快的时间完成赛道，让你自己和你的国家登上排行榜的榜首。<br><br>狗狗俱乐部游戏有不同类型的狗狗，您可以在游戏中选择，成为第一个完成困难赛道的人。 通过完成赛道和狗训练来获得新技能。<br><br>通过排行榜，其他玩家将能够看到您在赛道上的排名，您将与他们竞争“<strong>最佳时间得分</strong>”。<h2 class=\"bb_tag\" >游戏玩法</h2><h2 class=\"bb_tag\" ><ul class=\"bb_ul\"><li>你必须要快！<h2 class=\"bb_tag\" ></h2></li><li>你的反应一定很强！<h2 class=\"bb_tag\" ></h2></li><li>越过障碍，你就会获得排名！</li></ul></h2>",
+    "supported_languages": "英语, 德语, 日语, 韩语, 俄语, 土耳其语, 法语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401370/header.jpg?t=1758112250",
+    "developers": [
+      "Montee Games"
+    ],
+    "publishers": [
+      "Montee Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "CORGI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/90f7d54378ea7429831f43c5017fa250bfd1ac6e.jpg"
+        },
+        {
+          "name": "DALMATIAN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/c185cb7dcacd5bb4a9d84388fc043cc8e24d87b0.jpg"
+        },
+        {
+          "name": "DOBERMAN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/91dcd689e9bb3e6cde6bb1ab6b22d25c98a551f1.jpg"
+        },
+        {
+          "name": "G RETRIEVER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/9188f4de4d4d062aaf52dfe454cec991389c8ad6.jpg"
+        },
+        {
+          "name": "HUSKY",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/0a6bc5f3857209907380d672a47ab6f58a1220c2.jpg"
+        },
+        {
+          "name": "JR TERRIER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/391d01145b81699b10e4c48c7e0bcfc04cd77662.jpg"
+        },
+        {
+          "name": "LABRADOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/6e5c5b9e941a14577e6af8bee73151ca2114fb3c.jpg"
+        },
+        {
+          "name": "PITBULL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/e2c08452527d962afd07bf3fcdb979ff5a9153ea.jpg"
+        },
+        {
+          "name": "PUG",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/890379a096ac1638aa2fd6d1d1bdf29c6bfba4e6.jpg"
+        },
+        {
+          "name": "SHEPHERD",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2401370/55cfc58a0fa8585e6dc7d9ed468898198a9e4b0a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 5,
+      "total_negative": 2,
+      "total_reviews": 7
+    },
+    "type": "game"
+  }
+}

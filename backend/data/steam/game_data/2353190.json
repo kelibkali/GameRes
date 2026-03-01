@@ -1,0 +1,118 @@
+{
+  "2353190": {
+    "name": "Night of Spirits",
+    "steam_appid": 2353190,
+    "required_age": "16",
+    "is_free": false,
+    "description": "Night of Spirits 是一款单人或在线恐怖游戏，最多可容纳 4 名玩家，其主要目标是追捕困扰城市的幽灵。 你将不得不使用你的工具来追捕灵魂，从购买必要的组件到构建你自己的工具，你也可以出售你从每个幽灵身上找到的遗物。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 葡萄牙, 简体中文, 韩语, 日语, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353190/header.jpg?t=1697211086",
+    "developers": [
+      "tRB"
+    ],
+    "publishers": [
+      "tRB"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3649,
+      "final": 3649,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.49"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Win a match in the building",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Win a match in the mansion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Win a match in the farm house",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Win a match in the school",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Win a match in the graveyard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Discover the first spirit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/a3998c531461d307382ad20bfc9651acd9e1359d.jpg"
+        },
+        {
+          "name": "Finish tutorial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/78732452859e3f9bd573063455047035116c8764.jpg"
+        },
+        {
+          "name": "Capture a Amon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/e5a15734b77647284a53277b5868583b28001471.jpg"
+        },
+        {
+          "name": "Capture a Poltergeist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/e5a15734b77647284a53277b5868583b28001471.jpg"
+        },
+        {
+          "name": "Capture a Asmondeo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353190/e5a15734b77647284a53277b5868583b28001471.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

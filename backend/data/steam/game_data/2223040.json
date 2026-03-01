@@ -1,0 +1,82 @@
+{
+  "2223040": {
+    "name": "Snowball Fight Game",
+    "steam_appid": 2223040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在精心制作的关卡中磨练你的鼠标精准度。完美把握时机进行格挡和投掷雪球，击败各种敌人和多个Boss，每个转角都有惊喜和挑战等着你。成为传奇，到达终点，有特别的惊喜在等着你。世界的命运就掌握在你的雪球中！这可不是一件容易的事！<h2 class=\"bb_tag\" ><strong>亮点</strong></h2><ul class=\"bb_ul\"><li> 具有挑战性但可攻克的游戏玩法。通过练习提高鼠标精准度。<br></li><li> 格挡是游戏的核心，也是最重要的部分。<br></li><li> 独特的Boss战和精美的手工关卡。<br></li><li> 雪球。<br></li><li> 流畅满足的游戏体验，没有干扰元素。<br></li><li> 痛苦。</li></ul><h2 class=\"bb_tag\" ><strong>但是</strong></h2><ul class=\"bb_ul\"><li> 只有少量难以获得的解锁内容。</li></ul><h2 class=\"bb_tag\" ><strong>开发者留言：</strong></h2>这款游戏是我一个人制作的（大家好，我是John）。灵感来自于经典简单的Flash游戏如SnowCraft，街头霸王3：3rd Strike中令人满足的格挡机制，以及需要高度鼠标精准度的游戏。这是一款具有挑战性但并非不可能通关的游戏，不过硬核模式嘛...呃...不适合心脏脆弱的人。这个游戏的目的是成为一个有趣的小游戏，同时也是一个真正的挑战。希望你们喜欢！",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 土耳其语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223040/header.jpg?t=1745794388",
+    "developers": [
+      "rainyrobot"
+    ],
+    "publishers": [
+      "rainyrobot"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "ARCTIC ENDURANCE TEST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2223040/3885d90b32a466f269559f4f7bfb4c1c1f165792.jpg"
+        },
+        {
+          "name": "FROSTY FOUNDATIONS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2223040/556a147604b448b573d1895c711dea63467d5536.jpg"
+        },
+        {
+          "name": "A LEGEND IS BORN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2223040/b5f2265d7d19666fd501ee486f8c4891932cfb84.jpg"
+        },
+        {
+          "name": "BLIZZARD TAMER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2223040/c55f1899b587b5ac9e311b1db98318e04edfd2c6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2316070": {
+    "name": "Path-Reverse 轨迹逆转",
+    "steam_appid": 2316070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >简介：</h2>在这个游戏中，你将要使用能够逆转物体轨迹的能力解开谜题，以达到终点。<br>在这个游戏中，你也可以建造属于自己的解谜地图。<br>玩家可以通过倒转物体移动轨迹的方式通过障碍物，解开谜题。<h2 class=\"bb_tag\" >操作方法：</h2><u>游玩模式：</u><br>                  WASD \t              移动<br>\t\t  Space  \t              跳跃<br>                      E   \t              抓取<br>                  单击R             逆转物体/退出逆转<br>\t\t  长按R                 逆转玩家<br>\t   鼠标左键长按\t 向后倒转轨迹<br>           鼠标右键长按\t 向前倒转轨迹<br><br><u>建造模式：</u><br>\t\t  WASD                  移动<br>                      F                  切换飞行<br>\t\t  Space                向上飞行<br>\t\t    Ctrl                 向下飞行<br>             鼠标左键单击         摧毁方块<br>             鼠标右键单击\t   建造方块<br>                鼠标滚轮 \t\t   切换方块<h2 class=\"bb_tag\" >注意：</h2>1，\t当您在建造地图过程中，PointLight 方块有实体和碰撞体积，但是在游玩过程中仅保留灯光，没有碰撞和可视实体。<br>2，\t球，方块，玩家 均可触发踏板开关，但两个实体同时触发且其中一个实体离开后会关闭，请各位玩家游玩时见谅。<br>3，\tPlatform 平台方块在放置时无碰撞体积，想要摧毁它，使用pedal 和 receiver 激活之后再摧毁。<br>4，\t光敏性癫痫预警，如有不适，请立刻停止游玩并紧急就医。<br>5，  End Point 必须存在，才能生成地图。<h2 class=\"bb_tag\" >还有一件事：</h2>\t游戏时本人课余时间学习并且制作的，虽然游戏制作简单，质量一般，游玩性一般，从如何连接编程软件开始，真的什么都不会，搞了大半年，如果真的不喜欢还请退款删除游戏，礼貌开喷！",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316070/header.jpg?t=1677408968",
+    "developers": [
+      "Lost Heart"
+    ],
+    "publishers": [
+      "Lost Heart"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

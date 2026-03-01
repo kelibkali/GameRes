@@ -1,0 +1,51 @@
+{
+  "2236960": {
+    "name": "Qiybz",
+    "steam_appid": 2236960,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Qiybz is a game where you control an automatically jumping cube with other randomized cubes being as platforms and / or enemies. The main goal is to achieve the largest true highscore possible, but beware! The higher the score, the higher the difficulty.<br><br>The spawned cubes are randomized and there are over 20 different cube types that can be spawned, provided certain in-game conditions are met. With randomization also comes the so-called probability hierarchy, with some cubes being so rare that you might not see one even after ten thousand cubes. Familiarizing yourself with the cube types also gains an advantage over randomly jumping on cubes. The gaps between the cubes ensure that precision in landing on to the platforms is crucial. Enemy elimination is also important, as you will see if you try this game...<br><br>Note that spontaneous change of character skin is not possible, and you must change the skin manually if you want it to change. The same goes for backgrounds. Based on player feedback this can be subject to change, and spontaneous change especially for backgrounds might become a feature in the future. Soundtracks can change based on in-game conditions, but not all soundtracks are available this way, and some must be activated manually if one wants to listen to them.<br><br><strong>Some important, additional information</strong>: The enemies start to spawn after a score of 5, where enemy cubes (the cubes with an 'L' character in them) must be destroyed by jumping on them a number of times in order to get lives. Lives act as a shield against enemy projectiles (for example, the blood cubes), and are also needed to transform score into currency (2 lives per exchange) by jumping on the gray cubes with a peculiar symbol in them. The currency can then be used in the shop to alter the game in some ways. A boss cube can be summoned when the player reaches a score of 10k, and bosses start to automatically spawn after a score of 20k (the higher the score, the harder the bosses that can spawn).",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236960/header.jpg?t=1722652547",
+    "developers": [
+      "Jesse Sakari Hyttinen"
+    ],
+    "publishers": [
+      "Jesse Sakari Hyttinen"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

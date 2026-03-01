@@ -1,0 +1,78 @@
+{
+  "2219150": {
+    "name": "MUA",
+    "steam_appid": 2219150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "MUA is an online FPS title in which players take control of characters and challenge other players online in five-versus-five objective based battles. Featuring fast-paced action and immersive controls, players can switch between many different characters to suit the ever changing battle conditions. Utilize their unique characteristics and cooperate with teammates to secure the win.<br />\r\n<br />\r\nThis game features the ability to quickly compete online against other users.<br />\r\nUse various characters to win the battle!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219150/header.jpg?t=1689717063",
+    "developers": [
+      "BangsFactory"
+    ],
+    "publishers": [
+      "BangsFactory"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "RankPoint",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219150/6675200af4142076db84f60edda6ed3c9132b388.jpg"
+        },
+        {
+          "name": "number of plays",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219150/576e733273158d998d85c9960807cfb2008ab881.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

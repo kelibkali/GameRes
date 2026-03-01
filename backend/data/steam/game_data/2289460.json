@@ -1,0 +1,62 @@
+{
+  "2289460": {
+    "name": "我的时光",
+    "steam_appid": 2289460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《我的时光》是一款放置游戏，它提供了一个舒适的环境和一个完善的计时工具，帮助您专注于工作/学习。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>创建、管理您的番茄钟<br></li><li>查看专注数据<br></li><li>装饰您的房间<br></li><li>设置天气（晴天、多云、雨天）<br></li><li>昼夜循环</li></ul>",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2289460/header.jpg?t=1726324244",
+    "developers": [
+      "Where 游戏"
+    ],
+    "publishers": [
+      "Where 游戏"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 5,
+      "total_negative": 1,
+      "total_reviews": 6
+    },
+    "type": "game"
+  }
+}

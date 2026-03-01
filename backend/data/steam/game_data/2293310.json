@@ -1,0 +1,90 @@
+{
+  "2293310": {
+    "name": "Chromacell",
+    "steam_appid": 2293310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Chromacell is a horizontal scrolling retro style 2D shoot 'em up with colourful pixel-art graphics.<br><br>Select one of four difficulty modes and take on the enemy hoards!<h2 class=\"bb_tag\" >Features</h2><br>Engage enemies on land and in the air<br><br>10 uniquely themed stages to conquer<br><br>'No bullet mode' for beginners<br><br>Power-up your weapons and thrusters<br><br>Play with keyboard or gamepad<br><br>Survive dangerous boss battles<br><br>Find secrets for extra points<br><br>Local and Steam Cloud saves",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2293310/header.jpg?t=1727178760",
+    "developers": [
+      "171Dev"
+    ],
+    "publishers": [
+      "171Dev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "1CC",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2293310/7f09b1495adf32b4ff6e151baa1c226852c00639.jpg"
+        },
+        {
+          "name": "First Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2293310/49e76353e9552a751655407e69abe75d0d7f287b.jpg"
+        },
+        {
+          "name": "No Miss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2293310/e656a3715d0f89fbb128c500b8b1e545cc71fcfd.jpg"
+        },
+        {
+          "name": "Hard Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2293310/81f23f17b207a57740c0e79ff20e1bc9adf1eeb2.jpg"
+        },
+        {
+          "name": "All Secrets",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2293310/776da3255848e4fd766a769ef43ff1fa712cf9e2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

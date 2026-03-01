@@ -1,0 +1,78 @@
+{
+  "2263030": {
+    "name": "HELLGRINDER Demo",
+    "steam_appid": 2263030,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263030/header.jpg?t=1686901664",
+    "developers": [
+      "Danial Jumagaliyev"
+    ],
+    "publishers": [
+      "Danial Jumagaliyev"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Stronghold Grinded",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2263030/16b4da9344667660bc54918fbe60ff3db794a270.jpg"
+        },
+        {
+          "name": "Wallbreaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2263030/fdb795513db1e13121bbe741423afd6b829ccf80.jpg"
+        },
+        {
+          "name": "Peacemaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2263030/128a78344b158d8995810658e6a20ffd9cc779b5.jpg"
+        },
+        {
+          "name": "Melee Is My Jam",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2263030/eb0e762cd1763b196222d7b1e6cf7825cc232f6c.jpg"
+        },
+        {
+          "name": "I'm Too Good At This",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2263030/2b384661084b480c32374bd186de36e468117f44.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

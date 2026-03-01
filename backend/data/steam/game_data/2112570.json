@@ -1,0 +1,58 @@
+{
+  "2112570": {
+    "name": "Zombies TD",
+    "steam_appid": 2112570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Zombies TD is a tower defense style game with some differences. Amongst them:<br />\r\n-The game is not based on rounds, zombies will be born all the time, faster and stronger.<br />\r\n-The game ends when time runs out or the objective that must be protected by the player is destroyed by them.<br />\r\n-Also, a level system is built into the game which increases after a certain amount of enemies are killed.<br />\r\n-Every time you level up, the player will be able to choose from three rewards that are chosen at random.<br />\r\n-Soldiers: they are the main defense, they all come equipped with a weapon and can only be placed on specific turrets or objects. Also, they can be removed or replaced with another one instead.<br />\r\n-Towers: are objects that, in addition to blocking the passage of enemies, serve so that soldiers can stay away from them.<br />\r\n-Barriers: in addition to blocking the path of zombies forcing them to find another path, it also decreases their health and speed. Both barriers and towers cannot be removed or replaced, so think carefully before placing them. In addition, they can only be placed in a predetermined area.<br />\r\n-Zombies do not follow a specific path, they aim to destroy the target and will do anything to achieve it.<br />\r\n-Every time you receive the rewards, you will only have five seconds to choose one of them.<br />\r\n-Finally, some random events will happen, examples: an extra horde of zombies, stronger enemies and faster enemies, so be aware and prepare for them.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2112570/header.jpg?t=1661250586",
+    "developers": [
+      "IVS96"
+    ],
+    "publishers": [
+      "IVS96"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

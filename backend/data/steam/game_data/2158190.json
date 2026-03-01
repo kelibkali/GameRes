@@ -1,0 +1,118 @@
+{
+  "2158190": {
+    "name": "Robot Programmer",
+    "steam_appid": 2158190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "机器人正在改变世界。在 <strong><i>Robot Programmer</i></strong> 中，我们正在建造一个完全自动化的工厂，您可以对机器人进行编程以实现它。<br><br><strong>编程</strong> - 使用简单的指令对机器人进行编码以移动材料和产品。除了产生正确的输出外，您还需要以快速有效的方式协调机器人。<br><br><strong>简单说明</strong> -<br>．只有↑、↓、←、→、休眠、装载、卸货 7条指令。<br>．指令有两种类型：启动指令 和 循环指令。启动指令 下的指令将首先执行一次。循环指令 下的指令将在之后被重复执行。<br>指令少，上手容易；然而，使用这些小型指令集解决复杂任务也具有挑战性。<br><br><strong>谜题和难度</strong> - 游戏中有超过40个谜题。每个关卡都有 2 个通过标准。休闲玩家可以通过简单和未优化的解决方案通过关卡，然后享受下一个关卡。铁杆玩家可以挑战金牌，这需要非常聪明和创造性的解决方案。",
+    "supported_languages": "英语, 简体中文, 繁体中文, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2158190/header.jpg?t=1675861025",
+    "developers": [
+      "Zero"
+    ],
+    "publishers": [
+      "Zero Cores"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "Novice Programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/f130a3e828342ae440695880a13f4ce8339ffd43.jpg"
+        },
+        {
+          "name": "Apprentice Programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/9b326372f0a6c5d15afa708be38765be8e8c0ad4.jpg"
+        },
+        {
+          "name": "Journeyman Programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/dfeee253c3a3f9ed96ce25ca999262386d570233.jpg"
+        },
+        {
+          "name": "Complete A Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/c4fed2acd8fe3feec92f7b8a818bd5f79dc08876.jpg"
+        },
+        {
+          "name": "Master of A Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/52348e015347eac370654c60f96493e646aee47a.jpg"
+        },
+        {
+          "name": "Complete B Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/1fe5ba38be3379651fb409b4b20e67918f204b2f.jpg"
+        },
+        {
+          "name": "Master of B Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/0af31afc809b8e7d638b87be8bf38e372bf7bb18.jpg"
+        },
+        {
+          "name": "Complete C Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/423720beb2905d0a9bca8a4470cb4291317ea486.jpg"
+        },
+        {
+          "name": "Master of C Series",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/67772d3c455141e50d7503ee30b46a81adcfd506.jpg"
+        },
+        {
+          "name": "Workshop Programmer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2158190/3e0fb384d4cb408db8f58ad11613f862d1176c63.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

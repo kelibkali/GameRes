@@ -1,0 +1,59 @@
+{
+  "2339530": {
+    "name": "Stone Tribes",
+    "steam_appid": 2339530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>STONE TRIBES（石之部落）</strong></h2><h2 class=\"bb_tag\" ><strong>一款以自动化为核心的即时战略游戏</strong></h2><h2 class=\"bb_tag\" ><strong>核心概念（High Concept）</strong></h2><p class=\"bb_paragraph\" ><strong>Stone Tribes</strong> 是一款融合了强烈 RPG 要素的即时战略（RTS）游戏。<br>玩家不直接进行单位的微操，而是<strong>设计单位的智能逻辑</strong>，并向<strong>自治角色小队下达战术指令</strong>。</p><p class=\"bb_paragraph\" >玩家不再控制每一个细节，而是扮演一名<strong>战略架构师</strong>：<br>提前定义行为逻辑，并在战斗中通过 <strong>宏指令（Macros）</strong> 动态调整整体战略。</p><h2 class=\"bb_tag\" ><strong>核心幻想（Core Fantasy）</strong></h2><p class=\"bb_paragraph\" ><strong>你不控制单位。</strong><br><strong>你设计他们的思维方式 —— 并决定何时介入。</strong></p><p class=\"bb_paragraph\" >玩家领导一支由 <strong>30 名持久存在的角色</strong> 组成的部落，每个角色都拥有独立的职业、装备和行为逻辑。</p><p class=\"bb_paragraph\" >胜利来自于<strong>充分的准备</strong>、<strong>合理一致的自动化设计</strong>，以及<strong>实时调整战术的能力</strong>，而不是高 APM 或持续不断的微操。</p><h2 class=\"bb_tag\" ><strong>核心支柱（Core Pillars）</strong></h2><h2 class=\"bb_tag\" ><strong>1. 自动化驱动的玩法</strong></h2><p class=\"bb_paragraph\" >每个角色都运行在一个 <strong>自动化流程（Automation Flow）</strong> 之上：<br>这是一个基于条件的永久行为系统，用于定义单位的默认行动方式。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >自动化代表单位的内在智能</p></li><li><p class=\"bb_paragraph\" >行为自主、清晰且一致</p></li><li><p class=\"bb_paragraph\" >具备战斗兜底机制，确保单位始终可行动</p></li></ul><h2 class=\"bb_tag\" ><strong>2. 战术宏指令（玩家命令）</strong></h2><p class=\"bb_paragraph\" ><strong>宏指令（Macros）</strong> 是临时的战术命令，用于覆盖单位的个体自动化行为。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >玩家下达的是“意图”，而非具体执行</p></li><li><p class=\"bb_paragraph\" >可瞬间切换战略</p></li><li><p class=\"bb_paragraph\" >提供简单的预设宏或完全自定义的宏</p></li></ul><h2 class=\"bb_tag\" ><strong>宏状态解析（Macro State Resolution）</strong></h2><p class=\"bb_paragraph\" >在任何时刻，每个角色<strong>只会处于一种宏状态</strong>：</p><p class=\"bb_paragraph\" ><strong>宏状态 = 未定义（默认）</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >角色遵循其个人自动化流程</p></li><li><p class=\"bb_paragraph\" >核心战斗行为处于激活状态</p></li></ul><p class=\"bb_paragraph\" ><strong>宏状态 = 强制宏（Legacy）</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >角色执行预定义的战术命令<br>（MoveTo、MoveAndFight、AttackTarget）</p></li><li><p class=\"bb_paragraph\" >核心战斗行为被禁用</p></li></ul><p class=\"bb_paragraph\" ><strong>宏状态 = 自定义宏</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >角色执行玩家设计的战术行为</p></li><li><p class=\"bb_paragraph\" >核心战斗行为保持激活</p></li></ul><h2 class=\"bb_tag\" ><strong>核心战斗行为（Core Combat Behavior）</strong></h2><p class=\"bb_paragraph\" >核心战斗行为是一种最小化的兜底逻辑，仅在未被明确禁用时生效。</p><p class=\"bb_paragraph\" >当该行为处于激活状态，且当前的自动化或宏未生成任何有效动作时，角色将会：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >自动攻击最近的敌人</p></li><li><p class=\"bb_paragraph\" >向攻击范围内最近的敌人移动</p></li></ul><h2 class=\"bb_tag\" ><strong>3. 基于小队的战略</strong></h2><p class=\"bb_paragraph\" >部落可以被划分为多个小队，每个小队可同时接收不同的宏指令。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >一支军队，多种策略</p></li><li><p class=\"bb_paragraph\" >无需微操的高层次协同</p></li><li><p class=\"bb_paragraph\" >战场意图清晰、易于理解</p></li></ul><h2 class=\"bb_tag\" ><strong>4. RTS + RPG 混合玩法</strong></h2><p class=\"bb_paragraph\" >每个单位都是一个<strong>持久存在的角色</strong>，而非一次性消耗品：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >职业：战士、猎人、工匠、萨满、德鲁伊、死灵法师</p></li><li><p class=\"bb_paragraph\" >等级、经验、装备与法术</p></li><li><p class=\"bb_paragraph\" >在部落中承担明确的角色定位</p></li></ul><h2 class=\"bb_tag\" ><strong>核心系统概览</strong></h2><h2 class=\"bb_tag\" ><strong>自动化 vs 宏指令</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>自动化</strong> → 永久性的个人行为逻辑</p></li><li><p class=\"bb_paragraph\" ><strong>宏指令</strong> → 玩家下达的临时战术命令</p></li></ul><h2 class=\"bb_tag\" ><strong>队伍设计阶段</strong></h2><p class=\"bb_paragraph\" >在进入战斗前，玩家需要准备自己的队伍：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >30 名角色的整体构成</p></li><li><p class=\"bb_paragraph\" >职业分配与平衡</p></li><li><p class=\"bb_paragraph\" >装备与法术配置</p></li><li><p class=\"bb_paragraph\" >个人自动化流程</p></li><li><p class=\"bb_paragraph\" >自定义宏指令定义</p></li></ul><p class=\"bb_paragraph\" >玩家可以选择：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >使用预设队伍直接进入战斗</p></li><li><p class=\"bb_paragraph\" >深度参与自动化设计，以优化整体战略</p></li></ul><h2 class=\"bb_tag\" ><strong>游戏模式（测试版重点）</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>PvP 核心对抗（Nexus vs Nexus）</strong><br>两支队伍相互对抗，目标是摧毁敌方核心。</p></li><li><p class=\"bb_paragraph\" ><strong>单人 vs AI</strong><br>用于练习和战略实验。</p></li></ul><p class=\"bb_paragraph\" >未来将加入更多模式（PvE、多目标场景等）。</p><h2 class=\"bb_tag\" ><strong>Stone Tribes 的独特之处</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >无需疯狂微操</p></li><li><p class=\"bb_paragraph\" >APM 不是核心能力</p></li><li><p class=\"bb_paragraph\" >战略建立在设计与预判之上，而非机械操作</p></li><li><p class=\"bb_paragraph\" >一个以系统驱动、强调涌现行为的 RTS</p></li></ul><h2 class=\"bb_tag\" ></h2><h2 class=\"bb_tag\" ></h2>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339530/eb24024c86cd46bb2d43a40b42a5c1a2b0eaa8da/header.jpg?t=1772188588",
+    "developers": [
+      "Indie Island Studio"
+    ],
+    "publishers": [
+      "Indie Island Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

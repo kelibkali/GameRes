@@ -1,0 +1,54 @@
+{
+  "2335710": {
+    "name": "Px2d - Three Kingdoms Theme Role Expansion Package 001",
+    "steam_appid": 2335710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Px2d》三国主题角色拓展包001<br />\r\n头部组件：191个<br />\r\n肩部组件：57个<br />\r\n脚部组件：1个<br />\r\n武器组件：163个<br />\r\n装饰组件：2个<br />\r\n效果组件：12个<br />\r\n身体组件：201个<br />\r\n手部组件：10个<br />\r\n背部组件：30个<br />\r\n防具组件：15个<br />\r\n辅助组件：2个<br />\r\n<br />\r\n组件总数：684个<br />\r\n<br />\r\n使用方法：加载dlc即可。加载后会自动替换资源内容。<br />\r\n<br />\r\n重要提示<br />\r\n同一时间最多只支持自动加载一个dlc的内容。<br />\r\n建议不要同时加载多个dlc。过多的加载内容会造成内存溢出，软件会出现错误。无法使用。<br />\r\n如果非要同时使用多个dlc的内容，也有一个办法。<br />\r\n就是新建一个role文件夹，然后把多个dlc的内容放到里面，资源的名字要事先都按顺序从新排列好。<br />\r\n然后修改px2d.INI文件里各个组件的资源数量。<br />\r\n最后把新的role文件夹和新的px2d.INI文件覆盖到本体文件夹里即可。",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335710/header.jpg?t=1677914581",
+    "developers": [
+      "PixelWorkshop"
+    ],
+    "publishers": [
+      "PixelWorkshop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6600,
+      "final": 6600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 66.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2174190": {
+    "name": "元境VR",
+    "steam_appid": 2174190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款防守类、射击、打僵尸、单机VR游戏，在游戏里你需要完成65波防守，每10波会有强大的Boss进攻。<br />\r\n有专门打钱的地图、打宝地图供你探索。<br />\r\n游戏有三种类型武器，手枪、冲锋枪、散弹枪，每种武器都有各自的属性和特性，拿到强大的武器打到Boss吧。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174190/header.jpg?t=1673656881",
+    "developers": [
+      "个人"
+    ],
+    "publishers": [
+      "个人"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "2233110": {
+    "name": "MazeCraft",
+    "steam_appid": 2233110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "-) Turn based pixel art <strong>roguelike</strong> RPG for hardcore players. <br>-) Procedural generation of mazes and caves. <br>-) A large number of characteristics of the game world. <br>-) Monsters hunt the player and fight each other. <br>-) Each monster is unique in terms of characteristics and behavior. <br>-) Monsters are pumped during the game, the strongest one survives. <br>-) Lots of game items, weapons, armor and artifacts. <br>-) There are explosions, fire and the spread of fires. <br>-) Strong boss and his minions. <br>-) Each new game is <strong>unique</strong> and <strong>randomized</strong> as much as possible.<br><br>Imagine a world where monsters evolve as you play. Their characteristics grow in battles with their own kind. After several hundred moves in the labyrinth, boss monsters naturally form, destroying everyone around.<br><br>The player starts the game from a room in a maze. His task is to find the key, and then find the room with the exit from the labyrinth, the exit door cannot be opened without the key. . Then you need to defeat the boss and his minions.  In some rooms of the labyrinth there are obelisks of monsters that spawn new monsters at a given frequency. Monsters can attack the player and each other while also pumping their characteristics.<br>The player has five stats: life, strength, defense, luck, and mana. Life is taken from monsters and other events, and is restored by +1 to a maximum with each subsequent turn. Strength affects the force of the blow or the force of the shot. Defense reduces damage. Luck affects the ability to critically strike (double damage) and block a blow (half damage). Mana is needed and consumed when shooting from staves.<br>Various items respawn in the labyrinth, helping to raise the characteristics of the player and monsters.",
+    "supported_languages": "英语, 俄语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 繁体中文, 韩语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233110/header.jpg?t=1671691354",
+    "developers": [
+      "Rand Games"
+    ],
+    "publishers": [
+      "Rand Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

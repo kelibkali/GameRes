@@ -1,0 +1,83 @@
+{
+  "2234300": {
+    "name": "GT:VR",
+    "steam_appid": 2234300,
+    "required_age": 0,
+    "is_free": true,
+    "description": "GT:VR is a social VR platform with a focus on community and creators!<br>Explore user-created worlds with friends or meet new ones!<br>Build your own worlds &amp; avatars with our friendly Unity SDK and get involved with GT:VR's future!<br><br><br><strong>For the Creators:</strong><br>A platform doesn't just provide a place for user-created content, it relies on it.<br><br>Thus one of the main goals of GT:VR is to be a place where content creators are valued!<br>Uploaded content can have URL's attached so fans of your work can easily find and support you.<br>Uploaded avatars have multiple &quot;credit&quot; slots so everyone involved in it's creation can be properly credited.<br>&quot;Remote Upload Keys&quot; allow you to create and upload Worlds &amp; Avatars on another user's behalf, simplifying the process of commissions.<br><br>In addition, GT:VR is constantly updated and works directly with content creators to add requested features &amp; ideas!<br><br><br><br><strong>For the Community:</strong><br>A platform is nothing without it's community!<br><br>Another goal of GT:VR is to be community focused.<br>The community will be involved in development, with their feedback and ideas shaping the future of the platform.<br>We also aim to be an inclusive comfortable space for all, with plans for &quot;opt-out&quot; tags to hide content that's not suitable for you.<br>There will be opt-out tags for things like motion sickness, epilepsy triggers, claustrophobic spaces etc.<br><br><br><strong>Create:</strong><br>Our Unity SDK is designed to be as simple as possible without compromising on features!<br><br>Avatars can be set up in a single click, and hand-gestures actions can be added with a friendly UI.<br>Using Index controllers, up to 32 hand-gesture actions are possible per-hand.<br><br>Worlds can be as simple or as complex as you'd like!<br>Make use of the included prefabs to add mirrors, media players and music to your worlds.<br>Worlds can also be scripted using full C# code, allowing for complex game worlds without the limitations of a proprietary programming language.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234300/header.jpg?t=1730687127",
+    "developers": [
+      "Gama-Tech"
+    ],
+    "publishers": [
+      "Gama-Tech"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2249120": {
+    "name": "Blockappend",
+    "steam_appid": 2249120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A 3D isometric puzzle game where you create shapes by appending blocks together. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/18db06d5c3c19ae92fa8cdf329a379df.poster.avif?t=1765222440\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/18db06d5c3c19ae92fa8cdf329a379df.webm?t=1765222440\" type=\"video/webm; codecs=vp9\"></video></span><br>When you flip a block next to a potential block, the potential block lights up and they move as one unit. <br><br>Progress through the levels and find new and interesting ways to move these little blocks! <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/77c27efb3e030a36a0a6e611fd8dd970.poster.avif?t=1765222440\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/77c27efb3e030a36a0a6e611fd8dd970.webm?t=1765222440\" type=\"video/webm; codecs=vp9\"></video></span><br>Like this white block that bounces you off if you try to flip onto it.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/435096cde3af41b3893acd8c3bfcacbe.poster.avif?t=1765222440\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/extras/435096cde3af41b3893acd8c3bfcacbe.webm?t=1765222440\" type=\"video/webm; codecs=vp9\"></video></span><br>Or this black block that destroys the tile it touches.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249120/header.jpg?t=1765222440",
+    "developers": [
+      "Rupour"
+    ],
+    "publishers": [
+      "Rupour"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Lighted All Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2249120/c02981897a432e05ee54468d97528092296f6106.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

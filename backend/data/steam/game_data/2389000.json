@@ -1,0 +1,70 @@
+{
+  "2389000": {
+    "name": "Dr Wan",
+    "steam_appid": 2389000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "It is a game that clears the dungeon by avoiding numerous monsters using the main character's skills.<br />\r\nIt's a 3D quarter view game.<br />\r\nLet's use gas, punch, uppercut, rolling, defense, running, throwing, etc. well.<br />\r\nLet's solve the dungeon puzzle well.<br />\r\nLet's make good use of the dungeon traps.",
+    "supported_languages": "英语, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2389000/header.jpg?t=1682578877",
+    "developers": [
+      "mw22"
+    ],
+    "publishers": [
+      "mw22"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

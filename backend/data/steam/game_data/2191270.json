@@ -1,0 +1,67 @@
+{
+  "2191270": {
+    "name": "Ease Out",
+    "steam_appid": 2191270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >概述</h2><br>Ease Out是一个以传统多轨道音游为原型，以轨道消逝为主要玩法特点的音乐游戏<h2 class=\"bb_tag\" >游戏特色</h2><br><strong>轨道消逝</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/b0e75e614ab38c4416403763b94f177f.poster.avif?t=1748365062\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/b0e75e614ab38c4416403763b94f177f.webm?t=1748365062\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/b0e75e614ab38c4416403763b94f177f.mp4?t=1748365062\" type=\"video/mp4\"></video></span><br><br>在游玩过程中，轨道会随时间消逝，而该轨道上的音符将会转移到相邻的轨道。<br>在游戏最后随着最后的轨道消失，游戏结束。<br>随着轨道的消失，游戏会变得更加简单。。。吗？<br><br><strong>定键不定轨</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/a01dc36e68718d1ba2cefc50f095f0d8.poster.avif?t=1748365062\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/a01dc36e68718d1ba2cefc50f095f0d8.webm?t=1748365062\" type=\"video/webm; codecs=vp9\"></video></span><br><br>摒弃了传统的key与轨道的对应关系，游戏中的每一个key都对应着一种颜色的音符<br>当对应颜色的音符落到任何轨道上的时候，按键都是一定的<br>低BPM谱的春天！<br><br><strong>谱面编辑器</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/53e187131e9f50634eb77c0d6ad0c635.poster.avif?t=1748365062\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/53e187131e9f50634eb77c0d6ad0c635.webm?t=1748365062\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/extras/53e187131e9f50634eb77c0d6ad0c635.mp4?t=1748365062\" type=\"video/mp4\"></video></span><br><br>借助<i>Malody</i>这一强大的谱面制作工具和头发掉光光了的程序员开发的开源关卡编辑工具，你可以在malody中进行铺面创作，在Ease Out编辑器中为谱面添加各种炫酷的动画，并通过godot引擎强大的mod加载功能让你的朋友们玩到你创作的关卡！<br><br><i>在抢先体验阶段开始一段时间后将会开放铺面编辑器和Steam创意工坊功能</i><br><br>觉得不爽？ 欢迎来吐槽！<br>官方QQ群：783480389<br>官方discord：<br>官方Bilibili: ",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191270/header.jpg?t=1748365062",
+    "developers": [
+      "ON Gaming Studio",
+      "Float Gaming Studio"
+    ],
+    "publishers": [
+      "Float Gaming Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

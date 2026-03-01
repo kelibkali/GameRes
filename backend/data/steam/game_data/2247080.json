@@ -1,0 +1,58 @@
+{
+  "2247080": {
+    "name": "Glyph Guesser",
+    "steam_appid": 2247080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "One evening, my 5 year old son asked me to &quot;guess my letters&quot;. It turns out he was thinking of three letters that didn't make a word. Just three random letters. It was kind of fun!<br />\r\nGlyph Guesser is a little program I made that builds on this idea. You can adjust the difficulty by setting the size of the pool of characters, the length of the random sequence, and the kind of hints you get about how close your guesses are. The hints are all togglable independently, so you can choose to see:<br />\r\n* No hints at all, just guess randomly.<br />\r\n* How many of the glyphs are somewhere in the sequence.<br />\r\n* Which of the glyphs are in the sequence<br />\r\n* Which of the glyphs are in the correct locations.<br />\r\nBecause glyph guesser supports 860 glyphs from the UTF-8 character set, you can generate an arcane set of glyphs to guess from, and if you choose a glyph set of 10 or less, you can reference them with the numerals 0-9. Otherwise, you'll need to copy-paste the glyphs from the library printout.<br />\r\n<br />\r\nEnjoy guessing!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/header.jpg?t=1673474150",
+    "developers": [
+      "Paul Spooner"
+    ],
+    "publishers": [
+      "Tryop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

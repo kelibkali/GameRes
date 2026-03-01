@@ -1,0 +1,114 @@
+{
+  "2225500": {
+    "name": "单人桥牌",
+    "steam_appid": 2225500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这款游戏是基于桥牌规则的单人游戏。它无需叫牌，系统会自动确定庄家应该赢得多少墩。你和人工智能队友共同赢得多少墩牌是游戏输赢的关键。赢墩数达到标准墩数则得分，低于标准墩数并且进攻或防守失败则扣分。虽然你有一个非常强大的人工智能队友，但是与另外两个人工智能对抗并不容易。能拿到标准墩数就很好了，否则你可以使用每盘结束时的重玩功能继续磨练牌技。</p><p class=\"bb_paragraph\" >铁人模式在分数不低于500分时自动生效。</p><h2 class=\"bb_tag\" >键盘和手柄支持</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 左：左方向键，A键，D-Pad 左方向键，左摇杆向左</p></li><li><p class=\"bb_paragraph\" > 右：右方向键，D键，D-Pad 右方向键，左摇杆向右</p></li><li><p class=\"bb_paragraph\" > 首张：Home键，Q键，右摇杆向左</p></li><li><p class=\"bb_paragraph\" > 末张：End键，Z键，右摇杆向右</p></li><li><p class=\"bb_paragraph\" > 上一花色：PgUp键，E键，控制器L/L1键</p></li><li><p class=\"bb_paragraph\" > 下一花色：PgDn键，C键，控制器R/R1键</p></li><li><p class=\"bb_paragraph\" > 出牌：空格键，回车键，PlayStation 叉键，XBox A鍵，Nintendo B鍵</p></li><li><p class=\"bb_paragraph\" > 照明：P键，数字0，PlayStation 三角，XBox Y键，Nintendo X键</p></li></ul><h2 class=\"bb_tag\" >多语言支持</h2><p class=\"bb_paragraph\" >要更改游戏语言：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >打开您的 Steam 库；</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >右键点击游戏名称，在弹出菜单中选择“<strong>属性…</strong>”；</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >打开“<strong>通用</strong>”选项卡；</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >从“<strong>语言</strong>”选项的下拉菜单中选择您希望使用的语言。</p></li></ul><h2 class=\"bb_tag\" >游戏日志</h2><p class=\"bb_paragraph\" >%appdata%\\Godot\\app_userdata\\Contract Bridge Solo</p>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语, 韩语, 丹麦语, 波兰语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/header.jpg?t=1733417414",
+    "developers": [
+      "Feiyun Wang"
+    ],
+    "publishers": [
+      "Feiyun Wang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "HISCORE 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/1ab189ccd8a5dd2166b9b472fcfd9a5d784b2268.jpg"
+        },
+        {
+          "name": "HISCORE 200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/823d8788babcb6dd62867a4d3104fd433dfc917b.jpg"
+        },
+        {
+          "name": "HISCORE 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/88838b86d17277b9219cfc9ee9a3e54885a3dab5.jpg"
+        },
+        {
+          "name": "HISCORE 1K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/3d288826d5aaab0a19cd791f8d33fb0af2ca55c4.jpg"
+        },
+        {
+          "name": "HISCORE 2K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/8289d736c79faaa1bac826354cc28ad14705f5b8.jpg"
+        },
+        {
+          "name": "HISCORE 5K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/c5bc62e5fa8dbe7a12317bcd28d40a092b7fbe02.jpg"
+        },
+        {
+          "name": "HISCORE 10K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/e530247218936160d294dea4d9631daf031e01ac.jpg"
+        },
+        {
+          "name": "HISCORE 20K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/dd91b3dbbcec2a63d1212a665c8596c5177b989e.jpg"
+        },
+        {
+          "name": "HISCORE 50K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/7e3ef92970ef4f4aded0a458acdc86f871f576f9.jpg"
+        },
+        {
+          "name": "HISCORE 100K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2225500/47d6003a265da45c0d15848ab2967b3544311bc4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "2253260": {
+    "name": "Enchantment Siege",
+    "steam_appid": 2253260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于游戏</h2><br>这是一款合作多人防御游戏，您可以在其中与敌人作战。 他们每级变得更强。 所以你需要找到更好的工具来打败他们。 您可以购买咒语和魔杖。 此外，您可以通过牺牲一些您获得的宝石来提高您的统计数据。 有多个级别可以通过您达到的最高级别解锁。 如果您喜欢基于防御者和魔杖技能的游戏，请随时尝试一下。<h2 class=\"bb_tag\" >等级</h2><br>游戏中有 3 种级别。<br>正常：敌人有点笨，更容易杀死。 最低的收益率。<br>困难：正常模式和极端模式之间的中间点。<br>极端：敌人变得更强大并开始明智地追捕你。 最高的收益率。<h2 class=\"bb_tag\" >限制</h2><br>100 级后，生成模式变为混乱模式。 所以他们越来越咄咄逼人。 看看你能走多远，然后让游戏崩溃（字面意思）。 玩得开心 ！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 挪威语, 波兰语, 罗马尼亚语, 俄语, 简体中文, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253260/header.jpg?t=1687532483",
+    "developers": [
+      "Blue Palm Studio"
+    ],
+    "publishers": [
+      "Blue Palm Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "REACH LEVEL 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/f98a41a19969bb364ccb5c56c2b23736279a87c3.jpg"
+        },
+        {
+          "name": "REACH LEVEL 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/97b6b3d1db4d36ff90350f8f9cf767344982f4da.jpg"
+        },
+        {
+          "name": "REACH LEVEL 200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/9d32af2f4ad8ba8ca66b8d9f3a679eeb3ef4110b.jpg"
+        },
+        {
+          "name": "BLUE PALM",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/d68c77f0c05dc90ff0c5f04743cb45ae4ccd776e.jpg"
+        },
+        {
+          "name": "NEW SKILL PURCHASED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/0beea71626fea88f6d1b83ce7c7c6ae3448cf46d.jpg"
+        },
+        {
+          "name": "A BOSS KILLED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2253260/b8751e3c4539339ae6c0407eecd59cdbfc567bc9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

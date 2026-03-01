@@ -1,0 +1,86 @@
+{
+  "2383090": {
+    "name": "边境猎人 - DLC:服装包第三季",
+    "steam_appid": 2383090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" > 包含有游戏中人物的服装。</h2><h2 class=\"bb_tag\" >1.艾尔莎的黑色公主裙 </h2><h2 class=\"bb_tag\" >2.艾尔莎的白色公主裙 </h2><h2 class=\"bb_tag\" >3.艾尔莎的 巫女服</h2><h2 class=\"bb_tag\" >4.希雅娜的 巫女服</h2><h2 class=\"bb_tag\" >5.尼娅的 巫女服</h2>",
+    "supported_languages": "英语, 俄语, 日语<strong>*</strong>, 简体中文, 繁体中文, 法语, 意大利语, 德语, 韩语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383090/header.jpg?t=1685723284",
+    "developers": [
+      "IceSitruuna"
+    ],
+    "publishers": [
+      "IceSitruuna"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 585,
+      "discount_percent": 61,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 5.85"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 4,
+      "total_negative": 2,
+      "total_reviews": 6
+    },
+    "type": "dlc"
+  }
+}

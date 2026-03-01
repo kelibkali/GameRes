@@ -1,0 +1,46 @@
+{
+  "2291150": {
+    "name": "激活: Activate Demo",
+    "steam_appid": 2291150,
+    "required_age": 0,
+    "is_free": true,
+    "description": "在试用版中，我们准备了最基本的游戏内容，包括：<br />\r\n你可以获得与使用一些基本的道具。<br />\r\n你可以发现一些基本的方块。<br />\r\n你可以游玩新手教程，经典模式。<br />\r\n<br />\r\n通过这些内容，你可以快速了解这个游戏的核心玩法，此后，你将可以决定是否在完整版中体验所有内容。<br />\r\n在正式版中，你可以体验到更多丰富的道具、方块、游戏模式。<br />\r\n还有成就和排行榜等着你！",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291150/header.jpg?t=1674746341",
+    "developers": [
+      "千千工作室"
+    ],
+    "publishers": [
+      "千千工作室"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "2255740": {
+    "name": "Volcano Simulator - Reunion Island",
+    "steam_appid": 2255740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Discover a unique and fully interactive lava simulator !<br>Watch eruptions and lava flows across the stunning landscapes of Réunion Island.<br>This simulation was co-created in 2016 with Eric Chahi, the renowned author of Another World, From Dust, and Paper Beast !<br><br>The simulator lets you interact in real time with eruptions in photorealistic, dynamic environments, revealing a wide range of volcanic structures, from lava fields to cones creation !<br>Create new eruptive fissures, control flow rate, temperature, pressure, and observe the evolution in beautifully rendered 3D landscapes !<br><br>The application is powered by a custom-built graphics and physics engine, specifically designed for this simulation and using the incredible computing power of GPUs !<br><br><strong>Useful Keyboard Shortcuts</strong><br>• <strong>Mouse, middle button</strong> : move the camera from the observer’s point of view<br>• <strong>Alt + middle button</strong> : rotate the camera<br>• <strong>C or double-click</strong> : center the camera on the selected point<br>• <strong>W</strong> : Wireframe view<br>• <strong>N</strong> : Normal map view<br>• <strong>Break</strong> : start / pause the simulation<br>• <strong>+</strong> / <strong>-</strong> : increase / decrease simulation speed<br>• <strong>Escape</strong> : open the main menu, with access to scenarios and graphic settings<br>• <strong>F12</strong> : Steam screen capture",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255740/e56368f688133e9b611c3027ce597fa0d3879331/header.jpg?t=1759022509",
+    "developers": [
+      "Eric Chahi",
+      "François Sahy"
+    ],
+    "publishers": [
+      "François Sahy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 5 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Lava Lake",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/775b50a61b9e8eaf85f4aed8d5b126413f1822be.jpg"
+        },
+        {
+          "name": "Dolomieu Crater",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/5cfef50802d30ef78373641b15fc9077a5bebbc6.jpg"
+        },
+        {
+          "name": "Lava River",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/b17317a216d78461dd33c36d9a2ee1030d586398.jpg"
+        },
+        {
+          "name": "Far view",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/76dfa98fc74f2118c2d5aec850f018b31a09306d.jpg"
+        },
+        {
+          "name": "Dangerous place",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/7c43644b2f1d303488ccdbccad6fb55551c95930.jpg"
+        },
+        {
+          "name": "Crater explosion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/ef5c1e8eb7201461e83fd095842f53812b778ae1.jpg"
+        },
+        {
+          "name": "Protect all houses",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/163e8d1b5d648617acf6dc811bfc5a748305e43a.jpg"
+        },
+        {
+          "name": "Infrared View",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/0fa5b908391017f6941ee09150af70527559d5a1.jpg"
+        },
+        {
+          "name": "Rivals Signpost",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2255740/b33c9bb46d9b98b9648e12aaa23dae9b77ea755e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

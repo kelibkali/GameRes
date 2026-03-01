@@ -1,0 +1,75 @@
+{
+  "2397200": {
+    "name": "来杯咖啡",
+    "steam_appid": 2397200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "咖啡就是开发者继续创作的燃料!<br />\r\n<br />\r\n为了感谢您的支持，您将得到一套可打印的海报和壁纸。壁纸适用于FHD、UWD、4K和移动设备。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397200/header_schinese.jpg?t=1682592869",
+    "developers": [
+      "AurumDust"
+    ],
+    "publishers": [
+      "AurumDust",
+      "Game Seer Ventures"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

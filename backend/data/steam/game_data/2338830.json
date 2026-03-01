@@ -1,0 +1,79 @@
+{
+  "2338830": {
+    "name": "Rocket Control",
+    "steam_appid": 2338830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is an extremely simple 2D action game where you launch, control, and land rockets.<br />\r\n<br />\r\nThe only user input is to iginite each booster to the left or right using the A and D keys on the keyboard. When you want to move the rocket to the right, you activate only the left booster and stop the right booster. The opposite is also true.<br />\r\n<br />\r\nThe rules are simple: ascend to an altitude of 1000 meters, start the descent, and then land back at the original launchpad. That's all there is to it.<br />\r\n<br />\r\nThere are three rounds in total, and they get progressively more difficult.<br />\r\n<br />\r\nThere are two conditions for a successful landing: speed and angle. If you try to land at a speed that is too high, the landing will fail (and the rocket will explode). Also, if the angle of the rocket is outside a certain range, the landing will fail.<br />\r\n<br />\r\nAs the rounds progress, the range of allowable speed and angle becomes narrower. In addition, from the second round onward, wind will blow and push the rocket around.<br />\r\n<br />\r\n**How to Use**<br />\r\nLeft Booster : 'A' Key<br />\r\nRight Booster : 'D' Key<br />\r\nThat's it.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2338830/header.jpg?t=1681865051",
+    "developers": [
+      "Northbrain"
+    ],
+    "publishers": [
+      "Northbrain"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "round1 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2338830/b9e1edc38c7df7f27f63c1dff98c723440f07eef.jpg"
+        },
+        {
+          "name": "round2 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2338830/1704d6713965824a9e49c0de01f1e4e4bbe3e1de.jpg"
+        },
+        {
+          "name": "round3 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2338830/6d6f4d5e90e770299ac59e9158522efd6249f295.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

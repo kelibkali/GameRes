@@ -1,0 +1,110 @@
+{
+  "2152060": {
+    "name": "Astraea",
+    "steam_appid": 2152060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Astraea is a 2D Shoot 'em up game where you fight through enemies of increasing strength and frequency.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Defeat enemies to gain energy to upgrade your ship<br></li><li> Moving to the top of the screen will collect all energy blobs on screen<br></li><li> If you are in danger, you can use your warp to go through enemies and lasers<br></li><li> Compete for a high score on the Steam Leaderboards<br></li><li> Full controller support</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152060/header.jpg?t=1704612882",
+    "developers": [
+      "AurumKitsune"
+    ],
+    "publishers": [
+      "AurumKitsune"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Score 100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/2a44cef26aaf6e41b4d0b6f0183a245e71c1cbc0.jpg"
+        },
+        {
+          "name": "Score 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/68b15d78896a11317770428af3c2b52012d36846.jpg"
+        },
+        {
+          "name": "Score 1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/f8567830bbd2c6867d2d0ad74622849ff7c361e2.jpg"
+        },
+        {
+          "name": "Score 500 No Hit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/a131514fbe240e112e1b4ba2b1186ff795c95206.jpg"
+        },
+        {
+          "name": "Score 100 Hardcore",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/40a2bfc86653da3e91aba278162b19c77496857f.jpg"
+        },
+        {
+          "name": "Score 500 Hardcore",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/229ad181ba4ca6fbc63c9a3de17cca1c027503d7.jpg"
+        },
+        {
+          "name": "Max Primary Weapon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/3c353b7e6d614f290fe0c6487f49483bb06c32b6.jpg"
+        },
+        {
+          "name": "Max Secondary Weapons",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/223a04fb4b6f09013fdcd426e857f3ea84be0496.jpg"
+        },
+        {
+          "name": "Max Ship Upgrades",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/3d45c25ab6bf5a9cb4aa38eb18a9810c41cbb62a.jpg"
+        },
+        {
+          "name": "Maxed Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2152060/36ec007ebf8c364a9e674844683be20c1ada4053.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

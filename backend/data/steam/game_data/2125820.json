@@ -1,0 +1,47 @@
+{
+  "2125820": {
+    "name": "Shortcuit",
+    "steam_appid": 2125820,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<u>Note</u>: To compile Arduino scripts, you will need to download and select the Arduino CLI exe file location in the settings menu.<br><br><strong>Shortcuit</strong> is an educational sandbox game to <strong>learn electronics</strong> and <strong>Arduino programming</strong> (C++). The game simulates electronics and the Arduino microcontroller which allow you to create your own projects virtually.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/1ef37e085307110b261f7e5b8a533102.poster.avif?t=1662458726\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/1ef37e085307110b261f7e5b8a533102.webm?t=1662458726\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/1ef37e085307110b261f7e5b8a533102.mp4?t=1662458726\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" > Electronic Components</h2><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/f8ade01984accde6906e502931cead93.avif?t=1662458726\" width=620 height=348 /></span><br><br><ul class=\"bb_ul\"><li>Batteries (1.5V, 3V, 4.5V, 9V)<br></li><li>Lights (5mm LED, Light Bulbs)<br></li><li>Displays (16x2 LCD, 8x8 LED Dot Matrix)<br></li><li>Motors (DC Motor, Mini Servo, TT Gearmotor)<br></li><li>L298N Motor Driver<br></li><li>Passive Buzzer<br></li><li>Logic gate ICs (SN74XX: AND, OR, NOT)<br></li><li>Diode 1N4148<br></li><li>Transistor BC550C<br></li><li>Switches (Pushbutton, Slide Switch)<br></li><li>Resistors (E12 Resistors, Potentiometer)<br></li><li>Breadboards (Small/Mini)<br></li><li>Ultrasonic Distance Sensor<br></li><li>Shortcuit Uno (microcontroller) - Arduino Uno simulation</li></ul><h2 class=\"bb_tag\" >Info Popup + Warning</h2>Read simulated <strong>electrical values</strong> (current, voltage, power, ...), and change component specific values (eg. resistor value). A <strong>warning sign</strong> appears when there’s something wrong with your circuit. You can hover over the warning sign to get a bit more information.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/4fe1a501acc1d291df4385331609953c.avif?t=1662458726\" width=620 height=348 /></span><h2 class=\"bb_tag\" >Code Editor</h2>Program your own scripts in C++ with the in-game Code Editor. It has basic <strong>autocompletion</strong>, an <strong>output window</strong> for code compilation/errors and a <strong>Serial Monitor</strong> for debugging.<br><br>The code editor uses the existing <strong>Arduino CLI software to compile sketches</strong>. You can download this software from the official Arduino website.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/6958ae8c276689a70ddddbc82366e26c.avif?t=1662458726\" width=620 height=348 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/c84c545ac4a41ff227d1f9eb69cce83b.poster.avif?t=1662458726\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/c84c545ac4a41ff227d1f9eb69cce83b.webm?t=1662458726\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/c84c545ac4a41ff227d1f9eb69cce83b.mp4?t=1662458726\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Physics and shapes</h2>Electronics components alone are often not enough for the projects you may want to build. For a lot of projects we need a frame, a housing or just something to interact with. That’s why we’ve added some primitive shapes which can be resized and combined to fit your projects.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/fceb3c63af9928f8ddec758bc3dfda4c.poster.avif?t=1662458726\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/fceb3c63af9928f8ddec758bc3dfda4c.webm?t=1662458726\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/fceb3c63af9928f8ddec758bc3dfda4c.mp4?t=1662458726\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Electronics Simulation</h2>The electronics simulation is based on nodal analysis which allows for realistic electric values and behavior. Our Shortcuit Uno emulates the Arduino AVR architecture allowing it to run real compiled Arduino code.<br><br>Some of the videos have been sped up as the simulation speed can be a bit slower at times and is also quite dependent on the performance of your PC.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/2aa1ee2cfa36a5d04aa54e1a7bd7ad79.poster.avif?t=1662458726\" width=704 height=396 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/2aa1ee2cfa36a5d04aa54e1a7bd7ad79.webm?t=1662458726\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/extras/2aa1ee2cfa36a5d04aa54e1a7bd7ad79.mp4?t=1662458726\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2125820/header.jpg?t=1662458726",
+    "developers": [
+      "KoiJam"
+    ],
+    "publishers": [
+      "N/A"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

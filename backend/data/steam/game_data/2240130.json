@@ -1,0 +1,82 @@
+{
+  "2240130": {
+    "name": "Towering",
+    "steam_appid": 2240130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Towering is a platform game that is inspired by Red Light, Green Light. When the background is red you are frozen in place. When the background is green you can move but most platforms and objects become invisible. The challenge is to study the placement of objects during red and navigate the tower during green by relying on your memory. Watch out for dangerous obstacles and enemies which will cause you to fall down! Can you reach the treasure at the top of the tower?<br />\r\n<br />\r\nThe objective of the game is to climb to the top of the tower in one go. Towering features two modes; normal and hard. Hard mode which has no checkpoints is only unlocked after completing normal mode.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240130/header.jpg?t=1673020816",
+    "developers": [
+      "Eugene Tan Jianpeng"
+    ],
+    "publishers": [
+      "Eugene Tan Jianpeng"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Decent",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2240130/11f5f071f2734f61c60bc7adaa7734c27d006f0a.jpg"
+        },
+        {
+          "name": "Masterful",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2240130/331ad94c2f97be605c99498c73d675d078004858.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

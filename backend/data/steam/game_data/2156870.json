@@ -1,0 +1,74 @@
+{
+  "2156870": {
+    "name": "BROK the InvestiGator - Artbook",
+    "steam_appid": 2156870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "BROK the InvestiGator 官方艺术画册！<br><br>这本画册包含60页的艺术作品（包括独家绘图和图片）以及关于游戏开发的中文见解。<h2 class=\"bb_tag\" >重要提示</h2><br><strong>PDF文件将下载到您的BROK Steam文件夹中。</strong> 您需要打开游戏目录并在那里找到“ARTBOOK”文件夹。<br><br>如果您不确定BROK安装在哪里，请导航到您的Steam库，然后右键点击“BROK the InvestiGator”并选择“属性”。<br>在弹出的窗口中切换到“本地文件”标签，然后按“浏览本地文件...”按钮打开BROK安装的文件夹。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2156870/header.jpg?t=1758977373",
+    "developers": [
+      "COWCAT"
+    ],
+    "publishers": [
+      "COWCAT"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1999,
+      "final": 999,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 19.99",
+      "final_formatted": "¥ 9.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

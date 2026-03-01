@@ -1,0 +1,90 @@
+{
+  "2133300": {
+    "name": "The Entity Code",
+    "steam_appid": 2133300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Entity Code is a sci-fi themed 2D puzzle game with simple but challenging mechanics.<br><br>You are a member of the crew of a spaceship returning from an excavation on a distant planet. But before you can return to Earth you will have to solve the security code that has appeared unexpectedly.<br><br><ul class=\"bb_ul\"><li><br></li><li>Solve puzzles that will test your logical reasoning, in a minimalist environment.<br></li><li>Reveal the story of what happened as you progress through the game.<br></li><li>Push your mind to the limit as you try to get back home.</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133300/header.jpg?t=1671869435",
+    "developers": [
+      "Carlos Arroyo"
+    ],
+    "publishers": [
+      "Carlos Arroyo"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/14d25730c3add517459368db0ae54f4d66656f72.jpg"
+        },
+        {
+          "name": "Switch them",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/45081185e2ea1045feadc2dc374e902ea95b09a0.jpg"
+        },
+        {
+          "name": "Full control",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/5b16c27ec3012abc164710e92efc90271b131987.jpg"
+        },
+        {
+          "name": "Locked!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/28ada58e4a0f0f52bb7b7091073030f112900b50.jpg"
+        },
+        {
+          "name": "Back in time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/33d5714b4e98ffb1782af88b2ed3c53ba8b32fbd.jpg"
+        },
+        {
+          "name": "Return home",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/abf585b03fc99d98e86c4ef598a3884caecc7905.jpg"
+        },
+        {
+          "name": "Badass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2133300/19de94e7b55c68cb1a0e9de3d9cb8fb9abfa4f0e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

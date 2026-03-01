@@ -1,0 +1,94 @@
+{
+  "2209470": {
+    "name": "Interplayer",
+    "steam_appid": 2209470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "One day, your doctor intentionally deletes data from our project. You, an assistant who follows the incompetent doctor, are instructed by him to try to recover the deleted data.<br><br>&quot;Interplayer&quot; is a game in which you write source code by moving the player around, picking up tokens and collecting them. Write source code that achieves the pairs of inputs and corresponding outputs set for each stage. For example, double the numerical value of the input and output it, convert it to an n-decimal number, etc....<br><br><br>For example, output the input value multiplied by 10, etc...<br>Inputs [3, 6, 10] =&gt; Outputs [30, 60, 100]<br><br>Programmers these days have been programming by tapping on their keyboards and typing whatever letters they want. But what if we add constraints? With Interplayer, you program in tokens, and the order and number of times you can write tokens is constrained. How do you achieve the expected input/output pairs within these constraints? Experience a new approach to programming with &quot;Interplayer&quot;.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/extras/b859d4e03a3664c67630f52e24fbec10.avif?t=1683199323\" width=480 height=270 /></span><h2 class=\"bb_tag\" >Dedicated language specifically for this game</h2>The language written in the game is tolerance language, a dedicated programming language created for this game. You will need to understand this unknown language by referring to the in-game references. But don't worry! Because the tolerance language has a highly readable syntax strongly influenced by Python, with only simple functions, and it is easy for programmers to understand them (except for the stack statement!). . For example, if the tokens &quot;var,&quot; &quot;=,&quot; and &quot;1&quot; are present in a stage, you can assign <strong>1</strong> to the variable <strong>var</strong> by writing <strong>var = 1</strong>. Other complex processes can be described in the game by combining various control statements such as &quot;if&quot; and &quot;while&quot;.<h2 class=\"bb_tag\" >Unique stack statement</h2>One of the unique features is the <strong>stack statement</strong> grammar, where <strong>a = 1 + 1</strong>, for example, is written as <strong>1 1 + = a</strong> in the stack statement. In other words, the stack statement complicates the order in this game, which is about the order in which tokens are picked up.",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/header.jpg?t=1683199323",
+    "developers": [
+      "hna"
+    ],
+    "publishers": [
+      "hna"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Welcome to tolerance",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2209470/adf22015458b55930dde26fa61abec8d169407f0.jpg"
+        },
+        {
+          "name": "Too many errors",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2209470/f0b2948deee9bff758dd111ddfbdb398a79283fc.jpg"
+        },
+        {
+          "name": "Good for statement",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2209470/ccf091f9af69b8c17fdf598f756bd8a3118d238d.jpg"
+        },
+        {
+          "name": "Stack-oriented programming",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2209470/8a9181f97b2a81276789eaa3c2edfd2637f35b71.jpg"
+        },
+        {
+          "name": "Repair Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2209470/9cc88938580dc7d7df06db2c4b4805bcd5e8cef5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

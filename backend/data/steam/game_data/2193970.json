@@ -1,0 +1,54 @@
+{
+  "2193970": {
+    "name": "DanceXR纯洁版",
+    "steam_appid": 2193970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DanceXR 是一个角色模型查看器和动作播放器。它支持 PMX(MMD) &amp; XNALara/XPS 模型和 VMD 运动格式。与其他 MMD 播放器不同，DanceXR 几乎可以在任何模型上播放任何动作，而无需任何手动调整或骨骼调整。<br />\r\n<br />\r\n无论模型是否具有 IK 骨骼，是 T 姿势还是 A 姿势，模型和运动都会通过我们独特的运动系统自动调整，以确保最大的兼容性。<br />\r\n<br />\r\n还有大量内置功能可以丰富您对喜爱的角色模型的体验。<br />\r\n* 人物会呼吸，自然地眨眼，甚至可以与你进行眼神交流。<br />\r\n* 多个程序（以编程方式生成的）动作供您在模型上使用。包括走秀、舞蹈和其他一些动作。<br />\r\n* “服装”功能可以修改模型的外观，这可以创建像袜子、乳胶、鱼网等效果。<br />\r\n* “运动接管”可即时修改运动以改变手臂和腿部姿势，并将气垫自行车等配件完美地融入运动中。<br />\r\n仅举几个。每个月度更新中都会添加更多功能。<br />\r\n<br />\r\nDanceXR 以前称为 Dance Viewer VR (DVVR)，多年来一直受到 Patreon 上可爱社区的支持。我们现在将其带到 Steam 以将其介绍给更广泛的受众。要了解有关该项目的更多信息，请点击下面的链接到我们的网站和 YouTube 频道。<br />\r\n<br />\r\n请注意，我们不会在应用程序中提供我们不拥有的任何内容。通过下载此应用程序，您同意您对使用它的内容承担全部责任，并满足所有法律和版权要求。 DanceXR 的开发者不对用户生成的内容负责。",
+    "supported_languages": "英语, 日语, 韩语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193970/header.jpg?t=1672997966",
+    "developers": [
+      "VR Storm Lab"
+    ],
+    "publishers": [
+      "VR Storm Lab"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

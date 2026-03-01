@@ -1,0 +1,70 @@
+{
+  "2216110": {
+    "name": "枪神出击",
+    "steam_appid": 2216110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在Roguelike式的极限生存游戏中，选择不同武器来升级，让每一次战斗都有全新的酣畅淋漓体验",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216110/header_schinese.jpg?t=1675070421",
+    "developers": [
+      "vk"
+    ],
+    "publishers": [
+      "vk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 33,
+      "total_negative": 10,
+      "total_reviews": 43
+    },
+    "type": "game"
+  }
+}

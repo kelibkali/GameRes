@@ -1,0 +1,110 @@
+{
+  "2169300": {
+    "name": "Dizzy Rogues",
+    "steam_appid": 2169300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/52bb07e9a9b4139c345ebe8254a34a22.poster.avif?t=1686624581\" width=102 height=102 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/52bb07e9a9b4139c345ebe8254a34a22.webm?t=1686624581\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/7abf36d1d8249142da22d13a2d41eedf.poster.avif?t=1686624581\" width=114 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/7abf36d1d8249142da22d13a2d41eedf.webm?t=1686624581\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/6b2ed2d6305f64379d907e5f7f600d08.poster.avif?t=1686624581\" width=102 height=105 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/6b2ed2d6305f64379d907e5f7f600d08.webm?t=1686624581\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/6b02724181442dafe9b986d29850d9f3.apng?t=1686624581\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/extras/6b02724181442dafe9b986d29850d9f3.poster.avif?t=1686624581\" class=\"bb_img\" width=132 height=111 /></picture></span><h2 class=\"bb_tag\" >新手指南</h2><ul class=\"bb_ul\"><li>利用转动控制你的武器的位置，不要让它全凭自己操作！<br></li><li>你的武器也是你的盾牌。将敌人的刀剑击退，然后出手致敌。<br></li><li>只有武器的刀刃部分会计算为攻击。<br></li><li>星星碎片不会消失，但你会不小心遗漏它们。确保您捡起它们。<br></li><li>宝箱出现在关卡的结尾。奖励取决于你的最高连击数。<br></li><li>（宝箱星星碎片=最高连击÷2）<br></li><li>石头会降低你的连击计时器，但不要害怕攻击它们来获得优势！<br></li><li>割草会使你的连击计时器再生一点。</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169300/header.jpg?t=1686624581",
+    "developers": [
+      "kumakare"
+    ],
+    "publishers": [
+      "kumakare"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1799,
+      "final": 1799,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 17.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "恶臭针",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/44efbb7e88d9a7bbd876a68a6f05f849de56ceb3.jpg"
+        },
+        {
+          "name": "伪草",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/7d0803a96b454066da2ed4febf5258816510c12a.jpg"
+        },
+        {
+          "name": "生鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/1a9a98216d3c6a3a4fe878e59cb7b6ac5c7f444b.jpg"
+        },
+        {
+          "name": "回头见",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/fc389548fb7ca0df890916cf1f5f937f82ebd8fa.jpg"
+        },
+        {
+          "name": "这些是什么东西？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/54c9fbefabfb8ca67f30a7d46d6350307c8c4d70.jpg"
+        },
+        {
+          "name": "逛店而已",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/a98d677424ca839d90b25cd1e4a729b8024a7225.jpg"
+        },
+        {
+          "name": "没有脚趾",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/967bc88468e9a35133ae96c51637b81455ec26c5.jpg"
+        },
+        {
+          "name": "眩晕",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/3312ae24fc89da45a7b65fed55d2b713945a6023.jpg"
+        },
+        {
+          "name": "解锁兔子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/dc6fce3098d50bf569d152a982d85296f6c13f0b.jpg"
+        },
+        {
+          "name": "解锁猫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2169300/d7c02a7cf5ebc19b38b2f6821068dd1e1b7ec373.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 1,
+      "total_reviews": 12
+    },
+    "type": "game"
+  }
+}

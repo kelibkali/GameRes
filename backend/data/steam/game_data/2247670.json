@@ -1,0 +1,118 @@
+{
+  "2247670": {
+    "name": "Hide and Seek",
+    "steam_appid": 2247670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏的参与者分为两支队伍，一支躲藏，另一支寻找。游戏开始时，躲藏的队伍会有一定的时间来藏匿，而寻找的队伍则在外等待。时间到后，门打开，另一支队伍可以开始寻找。<br><br>躲藏的队伍可以变身为各种物品，并且移动速度较快。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/04c947e509794f2b5cee86be86fd4d72.poster.avif?t=1711738500\" width=600 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/04c947e509794f2b5cee86be86fd4d72.webm?t=1711738500\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/04c947e509794f2b5cee86be86fd4d72.mp4?t=1711738500\" type=\"video/mp4\"></video></span><br>为了增加变身后被发现的难度，地图上散布着各种动态物品，这些物品在每次地图重新加载时都会改变位置。<br><br>寻找的队伍移动缓慢，视野有限。他们无法看透物体，不像另一支队伍。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/b2da4c686813c421388aadfb3c292cd0.poster.avif?t=1711738500\" width=600 height=176 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/b2da4c686813c421388aadfb3c292cd0.webm?t=1711738500\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/extras/b2da4c686813c421388aadfb3c292cd0.mp4?t=1711738500\" type=\"video/mp4\"></video></span><br>他们有一个特殊的手电筒，可以帮助他们寻找其他玩家。<br><br>两支队伍都可以双跳。在橱柜里，门可以打开和关闭，允许你藏匿在里面。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 简体中文, 韩语, 俄语, 土耳其语, 乌克兰语, 日语, 葡萄牙语 - 葡萄牙, 阿拉伯语, 波兰语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247670/header.jpg?t=1711738500",
+    "developers": [
+      "HIDY GAME"
+    ],
+    "publishers": [
+      "HIDY GAME"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 3 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Welcome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/cc3214ad43ab237329d24335e419bd0ab2230eea.jpg"
+        },
+        {
+          "name": "Seek",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/941d382fe04f8f7d9a2cdae54cbb5618fb01b988.jpg"
+        },
+        {
+          "name": "Hide",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/b894a51d6890a91b617c3d3337bd85771f79d449.jpg"
+        },
+        {
+          "name": "The Best Seeker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/7282112458ba149de1d6ea3cf226674f9b197882.jpg"
+        },
+        {
+          "name": "Hiders win!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/dac32dfeb1caa9a888684fd967fb11f0c6ec7a72.jpg"
+        },
+        {
+          "name": "Seekers win!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2247670/bfabb2aef83c76e300f485890986d77c7c3c5f96.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

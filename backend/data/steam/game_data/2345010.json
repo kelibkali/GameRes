@@ -1,0 +1,70 @@
+{
+  "2345010": {
+    "name": "回到农村",
+    "steam_appid": 2345010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "按键的含义，<br />\r\n1: &quot;W&quot;, &quot;A&quot;, &quot;S&quot;, &quot;D&quot; 用于在地面移动角色<br />\r\n2: &quot;T&quot; 键, 用于飞行, 在飞行状态, &quot;E&quot;,&quot;Q&quot; 用于上升和下降, 再次按下 &quot;T&quot; ，会落到地面<br />\r\n3：&quot;R&quot; 建造功能， 在显示出来的 建筑页面，选择需要建造的建造，进行建造<br />\r\n4: 鼠标左键, 是攻击<br />\r\n<br />\r\n游戏模式：<br />\r\n1：自己选择不同的角色， 不同的角色， 对怪物的攻击力， 以及采集的能力有区别<br />\r\n2：会不断的有怪物进攻的你的村庄， 如果你的村庄被怪物攻击了， 那么村庄就不在了<br />\r\n3：会有偷窃者，进入到你的村庄偷窃你的木头和石头， 但是偷窃者不能攻击你，但是你可以攻击偷窃者<br />\r\n4：可以采集木头和石头， 这些都是建造防御塔的材料， <br />\r\n5：防御塔除了会在建造的时候消耗这些材料之外，在进行防御的时候， 也会消耗<br />\r\n6：作为守护自己村庄的奖励， 你的金币会随着守护自己村庄的时间而增加",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345010/header.jpg?t=1766541397",
+    "developers": [
+      "Tangha Games"
+    ],
+    "publishers": [
+      "Tangha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5888,
+      "final": 5888,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.88"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

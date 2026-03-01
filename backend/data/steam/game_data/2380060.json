@@ -1,0 +1,82 @@
+{
+  "2380060": {
+    "name": "穹顶守护者：顾问装备包",
+    "steam_appid": 2380060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "购买《穹顶守护者：顾问装备包》即可解锁一套守护者专属皮肤、一只穹顶宠物，以及额外的音乐曲目。用这些装饰性好物奖励你的顾问，让其在作业的同时也能衣着光鲜，尽显风采！<br><br>《穹顶守护者：顾问装备包》包含以下内容：<br> <ul class=\"bb_ul\"><li>奥术斗篷 - 既可以保暖，又能为你增添一抹神秘氛围。<br></li><li>海龙 - 个头虽然小了点，但它有一副响亮而热情的大嗓门。<br></li><li>两首额外的音乐曲目 - 值得你挖掘和守护！ </li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380060/extras/3e67e50866f2a551d357579a44482b27.avif?t=1757315664\" width=616 height=240 /></span>",
+    "supported_languages": "英语, 意大利语, 日语, 法语, 德语, 西班牙语 - 西班牙, 波兰语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 乌克兰语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 匈牙利语, 挪威语, 土耳其语, 韩语, 罗马尼亚语, 瑞典语, 繁体中文, 保加利亚语, 泰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380060/header_schinese.jpg?t=1757315664",
+    "developers": [
+      "Bippinbits"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1050,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 10.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 1,
+      "total_negative": 2,
+      "total_reviews": 3
+    },
+    "type": "dlc"
+  }
+}

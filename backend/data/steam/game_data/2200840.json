@@ -1,0 +1,42 @@
+{
+  "2200840": {
+    "name": "简单滚动 Demo",
+    "steam_appid": 2200840,
+    "required_age": 0,
+    "is_free": true,
+    "description": "这是【简单滚动】的试玩版。<br />\r\n<br />\r\n游戏包含两个模式——关卡模式和创造模式。试玩版大约包含完全版1/4的内容。<br />\r\n游戏使用ue4引擎开发，游戏操作基于实时的物理模拟和物理破坏效果。<br />\r\n<br />\r\n关卡模式：<br />\r\n试玩版包含4个场景，一共4关，关卡包含十多种机关道具和计时功能，可以挑战最速通关。<br />\r\n<br />\r\n创造模式：<br />\r\n试玩版有4个地图存档栏位。一共4个场景可选，可以自定义地图名称，并且一共有6大类150+的物件机关可供选择。可以任意添加、移除、保存地图。同时还可以玩自己创建的地图，同样具有计时功能。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 葡萄牙语 - 葡萄牙, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200840/header_schinese.jpg?t=1672122731",
+    "developers": [
+      "LY"
+    ],
+    "publishers": [
+      "LY"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2122080": {
+    "name": "最后一秒/Last Second",
+    "steam_appid": 2122080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款带有<strong>轻度肉鸽</strong>的<strong>生存游戏</strong>。玩家需要在15分钟的时间内，面对无穷无尽的敌人，通过走位、技能躲避敌人的包围。在此期间，玩家利用升级来选择随机技能，击败boss进行技能突破，搭配出一套有助于生存至最后一秒的技能路线。当敌人实在过于强大，无法通过关卡时，玩家还可以利用关卡的资源升级天赋，将天赋效果融入到技能当中，从而获得更加强力的效果。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122080/header_schinese.jpg?t=1663570795",
+    "developers": [
+      "ForFun Game Studio"
+    ],
+    "publishers": [
+      "ForFun Game Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

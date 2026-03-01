@@ -1,0 +1,59 @@
+{
+  "2207600": {
+    "name": "Strix STG",
+    "steam_appid": 2207600,
+    "required_age": 0,
+    "is_free": true,
+    "description": "&quot;Strix STG&quot; is a &quot;Communication-Synchronized Bullet-Hell Casual Vertical-Scrolling Shooting-Game&quot;. Let's aim to capture all 5 stages while destroying enemies. You can also choose from 5 levels of difficulty.<br>* Up to stage 2 has been implemented at the start of early access.<br>* There is a possibility that the contents of the stage will be changed until the final version is released.<br>The best feature of this game is the ability to play two-player co-op online. Simple chat with two types of fixed phrases is available, so please use it for role sharing.<br><br>* Currently, there is no save function for play data, so it is not possible to record the score. I may add a save function in the future based on user feedback.<br><br>Method of operation<br><ul class=\"bb_ul\"><li>menu<br>    <ul class=\"bb_ul\">    <li>SHOT key (Z key): Confirm<br>    </li><li>BOMB key (X key): cancel<br>    </li><li>AUTO-SHOT key (C key): Confirm</li></ul></li><li>In-game<br>    <ul class=\"bb_ul\">    <li>SHOT key (Z key): shot<br>    </li><li>BOMB key (X key): bomb<br>    </li><li>AUTO-SHOT key (C key): Shot<br>    </li><li>START key (ESC key): Pause menu (single play only)<br>    </li><li>COMM1 key (A key): Send the message &quot;Leave the small enemy to me!&quot;<br>    (co-op play only)<br>    </li><li>COMM2 key (S key): Send the message &quot;Leave the large enemy to me!&quot;<br>    (co-op play only)<br>    </li></ul></li><li>Common<br>    <ul class=\"bb_ul\">    <li>F4 key : Force quit the application<br>    </li></ul></li></ul><br>This game supports some game controllers. (Only &quot;Real Arcade Pro.V HAYABUSA&quot; has been confirmed to work.) If you have a compatible controller, you can assign any key.<br><br>Powered by &quot;Strix Cloud&quot;. Strix Cloud® is a registered trademark of Soft Gear Co., Ltd. in Japan",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207600/header.jpg?t=1669820638",
+    "developers": [
+      "Strix STG Dev"
+    ],
+    "publishers": [
+      "Strix STG Dev"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

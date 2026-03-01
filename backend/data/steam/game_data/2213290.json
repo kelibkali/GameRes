@@ -1,0 +1,90 @@
+{
+  "2213290": {
+    "name": "Asunder",
+    "steam_appid": 2213290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Basically I wanted to make something like Warlords Battlecry III but without the basebuilding, as I never found that particularly exciting. i.e. you<br><br>Choose on the map where you want to go, and once you're there<br>You hire troops with your gold or select those you already have in your retinue, I believe those that don't enter the map become fully rested.<br>OK then with the troops you enter a map, fulfil the maps objective and then claim the reward and gear and gold.<br>Once a troop member has enough XP they will increase a level, where they become fully healed and stronger, you can equip a member with some gear eg better weapon/armour or charm<br><br>Controlled with the mouse<br>and WASD (QE)<br><br>Each map has an objective, the objective is one of the following<br><ul class=\"bb_ul\"><li>Kill everyone<br></li><li>Peregrination<br></li><li>Fetch<br></li><li>Assassinate<br></li><li>Survive<br></li><li>Collect Stuff<br></li><li>Protection<br></li><li>Destroy<br></li><li>Guide</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/header.jpg?t=1724845209",
+    "developers": [
+      "Zed Zeek"
+    ],
+    "publishers": [
+      "Zed Zeek"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "ACHIEVEMENT_DEMO_FINISHED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/2be15e5feeb1d6b17087ff56219f103d24a04cca.jpg"
+        },
+        {
+          "name": "ACHIEVEMENT_TEDDY_ROOSEVELT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/225145d49476d9c8d971aa4e9a6f3fd2cbf4b019.jpg"
+        },
+        {
+          "name": "ACHIEVEMENT_LUCKY_GUANO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/c5519899031b491aca70222a2421594f4d1073d4.jpg"
+        },
+        {
+          "name": "ACHIEVEMENT_GAS_SNIFFER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/c9717eabcce28ba2d517b0958e99fd057d50aa62.jpg"
+        },
+        {
+          "name": "ACHIEVEMENT_HUMAN_LAMPPOST",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/2b7f1478302a6f8c8ee5b9949c39176c2a5810dc.jpg"
+        },
+        {
+          "name": "ACHIEVEMENT_FOOT_GOO",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213290/f687b2bf30a091397918f12649921e8f0b5b0c12.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

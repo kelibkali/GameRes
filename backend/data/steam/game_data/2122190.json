@@ -1,0 +1,98 @@
+{
+  "2122190": {
+    "name": "从原子到现代",
+    "steam_appid": 2122190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款 科学进化 资源管理，点击类游戏。只需要简单的点击几个按钮就能进行制造工作。<br><br>主要类目有<br><strong>原子</strong><br>氢氦锂铍硼，碳氮氧氟氖等 需要依次解锁，解锁难度逐渐增大，右侧会显示每个原子的作用。<br><br><strong>分子</strong><br>氢气，氧气，臭氧，水，二氧化碳，碳酸钙等<br><br><strong>早期地球</strong><br>氢分子云，太阳，原行星盘，内地核 等 也是一个根据目前了解到的真实情况依次解锁的。<br><br><strong>生命</strong><br>地球逐渐进化，目前开始产生生命 逐渐解锁 海洋，氨基酸，嘧啶，嘌呤，核糖，蓝细胞，人类等<br><br><strong>石器时代</strong><br>逐步解锁木棒，木矛，石斧等，不说多了剧透了都。<br><br><strong>古代文明</strong><br>逐步解锁 木炭，鼓风机，早期熔炼炉，铜剑等<br><br><strong>现代文明</strong><br>逐步解锁  核武器，火箭，基因编辑，电脑，人工智能。<br><br>从制造单个原子开始，到制造现代工具。<br>还可以解锁科技和升级制作工艺 提高生产量，和生产速度。<br><br>bug反馈群967642238",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122190/header.jpg?t=1676252545",
+    "developers": [
+      "Yamate"
+    ],
+    "publishers": [
+      "Yamate"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Atom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/0d5f013d054d82f48275c88055231ab075e82a31.jpg"
+        },
+        {
+          "name": "Molecular",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/d9d20ab495d26b44b3da27a03dc3ec59cebc7a3c.jpg"
+        },
+        {
+          "name": "Primitive Earth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/62567fefbf0744f1bc3b60022074ab684cab8efb.jpg"
+        },
+        {
+          "name": "Stone Age",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/8d1e228cc3df1b1125662a7d24a9620f1f58741c.jpg"
+        },
+        {
+          "name": "Life",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/c877e1af7f1a888836bd3ba1ce41b33d63ab8327.jpg"
+        },
+        {
+          "name": "Ancient Civilization",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/eb49f215e3f01ff0d3187d6cf39123ff6a4e2034.jpg"
+        },
+        {
+          "name": "Modern Civilization",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122190/02a830756a3cb1385d5c222a69234e07032fa9db.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 6,
+      "total_negative": 5,
+      "total_reviews": 11
+    },
+    "type": "game"
+  }
+}

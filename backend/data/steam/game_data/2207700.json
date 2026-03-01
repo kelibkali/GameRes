@@ -1,0 +1,94 @@
+{
+  "2207700": {
+    "name": "Hard Survivor",
+    "steam_appid": 2207700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Hard Survivor - An unusual adventure inspired by classic games from the NES console welcomes you! Explore numerous levels and collect all the coins on your way to victory! Beware of rocket tanks and their dangerous shots, ingenious traps and bottomless abysses that will meet on your way. Collect as many valuables as possible and get to the last level safe and sound. Are you up to the task?<br />\r\n<br />\r\n<br />\r\nPeculiarities:<br />\r\n- Nice graphics<br />\r\n- Achievements<br />\r\n- Nice soundtrack",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207700/header.jpg?t=1674481874",
+    "developers": [
+      "EduCat"
+    ],
+    "publishers": [
+      "Educat"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "1000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/40e3628e8b6c8876835d88445cabc05b8af40e07.jpg"
+        },
+        {
+          "name": "10000 Points",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/08d119e6dbc18299a76787668b95a031557e5b0d.jpg"
+        },
+        {
+          "name": "Complete Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/265295b5255fd1bd78556bb7c537da3e54adb342.jpg"
+        },
+        {
+          "name": "Coin Pickup",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/ddda2e03b78df1c2ceec1b947dd855c685445895.jpg"
+        },
+        {
+          "name": "Complete Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/25a557f4cb02bb6ed46d7a60b8a651c293f22347.jpg"
+        },
+        {
+          "name": "Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2207700/bff5ff0d60dcd98689860010c0c71dccd3c94a09.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

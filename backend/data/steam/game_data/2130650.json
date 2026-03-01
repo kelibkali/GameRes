@@ -1,0 +1,94 @@
+{
+  "2130650": {
+    "name": "城市工人模拟器 City Worker Simulator",
+    "steam_appid": 2130650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这个游戏里，你作为一个平平无常的人，来到了一座城市里，并开展你的生活。你并不富有，也没有掌握很多生活的技能，因此为了生存，你必须在多种工作中选择参加一项工作。<br><br><strong>选择职业</strong><br><br>厨师-每天收入30元，需要做出对应的菜品<br>电脑组装工-每天收入40元，需要组装好一台电脑<br>外卖员-每天收入45元，需要一辆自行车<br>出租车司机-每天收入60元，需要一辆车<br><br><br><strong>下班后赚钱</strong><br><br>银行-把钱存到银行里，每天都会收到利息<br>赛道-赢得一场汽车比赛，并获得最高500元的奖金<br>公园-通过随机事件赚一些钱<br><br><strong>花钱</strong><br><br>服装店-购买各种衣服和裤子<br>餐馆-购买食物来保持健康<br>便利店-购买各种小商品",
+    "supported_languages": "简体中文, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130650/header.jpg?t=1715611020",
+    "developers": [
+      "ZHANG CHENNING"
+    ],
+    "publishers": [
+      "ZHANG CHENNING"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "绿色出行",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/71d7372628c3da6cb3edca8483fc54d4433833c1.jpg"
+        },
+        {
+          "name": "四足行走",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/6cca35281f86e43588d036b860297ff5d6ed393c.jpg"
+        },
+        {
+          "name": "富豪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/6cf2b98126dff208105980b4f7f435faf5e7b58e.jpg"
+        },
+        {
+          "name": "赛车手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/f7c630972bc5a59c79c11d44cb291dc78a157313.jpg"
+        },
+        {
+          "name": "终极赛车手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/71d6491ea9e13fd8defbdf84847280425369a1f7.jpg"
+        },
+        {
+          "name": "饱餐一顿",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/161c10f1626f589a166412f593b7c6f4ed431d59.jpg"
+        },
+        {
+          "name": "水饱",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/b9298b96d68d5e24162e26c989338da91743b29b.jpg"
+        },
+        {
+          "name": "意外收获",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/cf5de6763ceab5a241368b15c58c91c10721740d.jpg"
+        },
+        {
+          "name": "腰缠万贯",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2130650/45a86e5175d49dc2382fa35c0dc37e04d2fa256e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

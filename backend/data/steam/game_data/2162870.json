@@ -1,0 +1,66 @@
+{
+  "2162870": {
+    "name": "FrogJump",
+    "steam_appid": 2162870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个简单的[平台跳跃]游戏，这是我的第一次游戏制作，请谨慎选择。<br><br>玩家扮演一个青蛙，跳出舒适区，找到大海的故事。<br><br><br>你的目标只有向上，向上，再向上，直到跳到小船上。<br><br>游戏玩法：大胆挑战，合理控制自己拖动鼠标的长度和方向，一旦选择失败，回家从新来过。<br><br>【游戏操作：】只需要按住鼠标左键拖动，松开跳跃。鼠标拖动的长度决定跳跃的高度。一旦松开鼠标开始跳跃，将无法改变方向和高度。<br><br>合理拖动鼠标跳跃，可能会引起你的高血压。<br><br>作者本人操作通关约1个小时。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162870/header.jpg?t=1674901671",
+    "developers": [
+      "Individual"
+    ],
+    "publishers": [
+      "Individual"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

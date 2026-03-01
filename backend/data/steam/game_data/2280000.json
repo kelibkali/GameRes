@@ -1,0 +1,111 @@
+{
+  "2280000": {
+    "name": "SQUARE ENIX AI Tech Preview: THE PORTOPIA SERIAL MURDER CASE",
+    "steam_appid": 2280000,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This software is an educational demonstration of Natural Language Processing (NLP), an AI technology, as applied to the adventure game “The Portopia Serial Murder Case” (created by Yuji Horii and first published in Japan in 1983). At the time of the game’s original release, most adventure games were played using a “command input” system, where the player was asked to type in text to decide the actions of their character. Free text input systems like these allowed players to feel a great deal of freedom. However, they did come with one common source of frustration: players knowing what action they wanted to perform but being unable to do so because they could not find the right wording. This problem was caused by the limitations of PC performance and NLP technology of the time.<br>40 years have passed since then, and PC performance has drastically improved, as have the capabilities of NLP technology. Using “The Portopia Serial Murder Case” as a test case, we’d like to show you the capabilities of modern NLP and the impact it can have on adventure games, as well as deepen your understanding of NLP technologies.<h2 class=\"bb_tag\" >Natural Language Processing (NLP)</h2>Natural Language Processing is a technology that allows computers to glean meaning from natural language—the kind of language that we use in daily communication. Deep learning conducted on a large set of text data makes it possible for the system to understand complex text input (NLU) and to generate responses comparable to those written by human beings (NLG).<h2 class=\"bb_tag\" >Natural Language Understanding (NLU)</h2>In order to interact with computers using natural language, the computer needs to understand what its human partner is trying to tell it, regardless of the wording they choose. Natural Language Understanding is an area of NLP research that aims to make computers correctly understand natural language, where the meaning can often be ambiguous. In this tech preview, NLU is used to help the junior detective understand the player's instructions.<h2 class=\"bb_tag\" >Speech To Text (STT) </h2>Speech-to-Text, or Automatic Speech Recognition (ASR), makes it possible to convert voice input to written text. Using this technology, players can give instructions using their own voices rather than a keyboard. Please note that <u>a CUDA-capable GPU and a large amount of VRAM</u> are required for a satisfactory experience.<h2 class=\"bb_tag\" >Natural Language Generation (NLG)</h2>Automatically generating natural text is one of the most important research topics in the NLP field. For example, research is underway on AI engines that can answer questions in place of human operators, as well as AI-powered chatbots, both of which are expected to have a wide variety of applications in the real world. This tech preview originally included a function based on Natural Language Generation technology, where the system would generate natural replies to questions that did not have a pre-written response. However, the NLG function is omitted in this release because there remains a risk of the AI generating unethical replies. We thank you for your understanding. We will consider reintroducing this function as soon as our research succeeds in creating an environment in which players can enjoy the experience with peace of mind.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280000/header.jpg?t=1682262089",
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Partners in Crime-Fighting",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/0bdc82a63fed95fe9b2cdab4539581d711f65ac5.jpg"
+        },
+        {
+          "name": "The Secretary Didn't Do It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/c7a73246eee110a1093c89fe26f3b6d13ce922c4.jpg"
+        },
+        {
+          "name": "The Guard Didn't Do It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/92d2edcac81b07774a4b65b7ddd313b136ef84ba.jpg"
+        },
+        {
+          "name": "The Daughter Didn't Do It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/4195f1dc70b8da8b031b4cefdb8563f817957719.jpg"
+        },
+        {
+          "name": "Just Say No",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/473eb526ece68a76158a066f09152b5b75dd9c21.jpg"
+        },
+        {
+          "name": "The Stripper Didn't Do It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/c07ef55b95bbfda5efa48751267f63830d5d7f72.jpg"
+        },
+        {
+          "name": "First Victim",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/169525076352f181b60c60a4c919f83843785642.jpg"
+        },
+        {
+          "name": "Second Victim",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/6b8d92a4b210769829992692393318d16a4a1868.jpg"
+        },
+        {
+          "name": "Third Victim",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/7ea0ca7a641a0874d3f10ed2ae542532152da012.jpg"
+        },
+        {
+          "name": "Good Cop, Bad Cop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2280000/b3626504c1dd4bda648e0cbbe40dba97462b44f6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

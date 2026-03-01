@@ -1,0 +1,95 @@
+{
+  "2182400": {
+    "name": "喜丧",
+    "steam_appid": 2182400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182400/extras/92703193642c82f727e7315e4a05b37c.avif?t=1745229945\" width=630 height=1092 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182400/extras/e0ac2dea1c104ab92f3041d6e4172d2c.avif?t=1745229945\" width=630 height=1126 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182400/extras/76fefb2c8a1b2d818ced40422b1b44ef.avif?t=1745229945\" width=630 height=874 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182400/extras/17467ad3767d8cf2ed8068886aff10bd.avif?t=1745229945\" width=630 height=1498 /></span>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182400/header_schinese.jpg?t=1745229945",
+    "developers": [
+      "大吉利制作组"
+    ],
+    "publishers": [
+      "Gamera Games",
+      "Gamirror Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 4 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "旧照回忆",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/1616875d8451d8923ad55b645adfa49ebdc50634.jpg"
+        },
+        {
+          "name": "烛光明灭",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/9b67f5aef185ef6a19ad401e3e53cfaec7b6e91e.jpg"
+        },
+        {
+          "name": "时间回廊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/0037d6e6151bebb752ffae01487df39af0b49d45.jpg"
+        },
+        {
+          "name": "甘苦回忆",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/be9ac7414c14f1e116d46c8feaf2bbc529ee60d7.jpg"
+        },
+        {
+          "name": "“孝子贤孙”",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/d6ba9be90cc51b5a312986f5e006d4c0788b5720.jpg"
+        },
+        {
+          "name": "亭亭如盖",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182400/37075ffa37db6aab5c25e5d7b18f094a5ec6b971.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 2751,
+      "total_negative": 107,
+      "total_reviews": 2858
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "2150170": {
+    "name": "Decent Checkers",
+    "steam_appid": 2150170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Key features</h2><ul class=\"bb_ul\"><li>Shared, local and online PvP multiplayer: you can play against a friend in a relaxed atmosphere and have a good time. You can also try playing against a stranger if the game is going to be popular enough!<br></li><li>Full single player PvE matches: <strong>4 supported rulesets</strong> (International, Brazilian, English/US, Russian) and a 3 AI difficulty levels to choose from!<br></li><li>Puzzles: English/US and Russian rulesets, a total of 40 fun puzzles which will help increase your understanding of different rulesets and make you a better Checkers player.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150170/header.jpg?t=1697277500",
+    "developers": [
+      "evbishop"
+    ],
+    "publishers": [
+      "evbishop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150170/2ebf23181373c927ade9807faba369595bd8e324.jpg"
+        },
+        {
+          "name": "Learned English Ruleset",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150170/4b02365dc8771c0159506e8f89f894d2705389b1.jpg"
+        },
+        {
+          "name": "Learned Russian Ruleset",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150170/f83bbd52ac279dc0f4da8bd7092d5e30baf5f2c6.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150170/7076a43ee4dacd0b077bd650e41b4cf5176d60da.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

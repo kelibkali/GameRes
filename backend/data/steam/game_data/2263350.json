@@ -1,0 +1,67 @@
+{
+  "2263350": {
+    "name": "T17",
+    "steam_appid": 2263350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Each team has a maximum of 10 people. When the whole team is ready, wait for the match with another team. Go to the shop to buy skills or items, money received after each battle.<br><br>How shoot<br>Click mouse the point will shoot to. Each skill has a different firing range, if you click too far, you can't shoot.<br><br>Moving<br>W, A, S, D or arrow keys. Some vehicles equipped with fast teleport skill press 0 or space key or double click while the vehicle is running.<br><br>Modes:<br>1. Life and death mode<br>Max time round 30 minute<br>Kill all enemies to win.<br><br>2. Resurrection Mode<br>Max time round 30 minute<br>Revival time:  15s<br>One kill - one score.<br><br>3. Ghost mode<br>Max time round 30 minute<br>When entering battle, the system will count down for 5 seconds and then 1 user transforms into a ghost to fight all the other users. Ghost changes shape, increases HP, increases strength, adds fast teleport skill.<br>Enjoy!<br><br><br>*****************************<br><strong>Game fun and can custom game yourself through 5 steps setup:</strong><br>1\tafter install game from Steam, you close it.<br>2\tinstall mySQL, create default username=hoangkien, password=kkkkkk<br>then import file backup.sql at Steam folder, a default target schema is mydb.<br>3\trun AdobeAIR.exe at Steam folder.<br><br>4\t<strong>Setup server game:</strong><br>4.1\t you will need to customize server\\server\\extensions\\T13\\config\\database.properties file to access MySQL database.  Edit this file with any text editor, and choose a username/password for a database user that has DDL privileges.<br>default: database.username=hoangkien<br>database.password=kkkkkk<br>4.2\tstart server game, run file server\\Start_ElectroServer_5_4_1.exe<br>4.3\trun file server\\ES5Admin\\ES5Admin.exe to edit server. user/pass is administrator/password.<br>Configure Gateway Listener (default host=&quot;192.168.160.131&quot; port=&quot;9899&quot;)<br>you need to use a valid IP address or hostname for each listener you need to use a valid IP address or hostname for each listener.<br>4.4\tRestart ElectroServer!<br>4.5\tEdit a settings.xml file that is read by a client to get the IP and port for connecting with the server. <br><br>5\tPlay game multiplayer !",
+    "supported_languages": "英语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263350/header.jpg?t=1673989817",
+    "developers": [
+      "ArtHand"
+    ],
+    "publishers": [
+      "ArtHand"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

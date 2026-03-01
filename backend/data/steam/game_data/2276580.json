@@ -1,0 +1,83 @@
+{
+  "2276580": {
+    "name": "Beef Jerky",
+    "steam_appid": 2276580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": null,
+    "developers": [
+      "cab-k"
+    ],
+    "publishers": [
+      "cab-k"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "No Mercy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2276580/702ac07b6a1ee9fc94b6d1dcb048f7bc0efb9df1.jpg"
+        },
+        {
+          "name": "The Gyre",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2276580/f4d8e93fd174033c44e1e9f7d80fa8cd04029e53.jpg"
+        },
+        {
+          "name": "Amiable Guy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2276580/0b63914db3fff0f49baaa5ac8232083c6da2ea80.jpg"
+        },
+        {
+          "name": "Cool and Collected",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2276580/9fed60cb2b42eaa59783a9e6a1008133dbad1f6f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

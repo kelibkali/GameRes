@@ -1,0 +1,62 @@
+{
+  "2381790": {
+    "name": "AirBorne Sea Demo",
+    "steam_appid": 2381790,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语, 俄语, 法语, 德语, 西班牙语 - 西班牙, 匈牙利语, 日语, 葡萄牙语 - 巴西, 土耳其语, 加泰罗尼亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381790/header.jpg?t=1724214043",
+    "developers": [
+      "WerFEST Software"
+    ],
+    "publishers": [
+      "WerFEST Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 61,
+        "description": "可用 HDR"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

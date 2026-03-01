@@ -1,0 +1,100 @@
+{
+  "2212400": {
+    "name": "Gemion Function",
+    "steam_appid": 2212400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >FREE PLAYTEST INFORMATION:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >100% free to play the game in the playtest</p></li><li><p class=\"bb_paragraph\" >Sign-up to register to play a trial version of the game</p></li><li><p class=\"bb_paragraph\" >Offline modes will be available with a selected portion of the characters</p></li><li><p class=\"bb_paragraph\" >Playtests will only be available for select days; follow our social media sites for the latest updates</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Gemion Function is a fast-paced fighting game that combines a hectic 4-player battle system along with the classic motion input control system of traditional 2D fighting games.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >8 characters each with their own special moves, combos, a &quot;Unique Movement&quot; mechanic that varies for each character (roll canceling, air dash, flight, teleport, special stances, and more). More characters to be added over time</p></li><li><p class=\"bb_paragraph\" >Offline modes of:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Versus mode vs AI</p></li><li><p class=\"bb_paragraph\" >Versus mode vs Human (in Early Access currently, the 2nd player needs to use keyboard controls)</p></li><li><p class=\"bb_paragraph\" >20 Combo Trials for 7 of the playable characters</p></li></ul></li><li><p class=\"bb_paragraph\" >Team battle system:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Supporting up to 4 players (1v1, 2v2, or even 1v2)</p></li><li><p class=\"bb_paragraph\" >Each team selects a Gem to help aid them. There are currently 4 Gems:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Havoc Gem = high damage</p></li><li><p class=\"bb_paragraph\" >Gravity Gem = strong control</p></li><li><p class=\"bb_paragraph\" >Aegis Gem = anti-projectile</p></li><li><p class=\"bb_paragraph\" >Cortex Gem = Super meter and throw mix-ups</p></li></ul></li></ul></li><li><p class=\"bb_paragraph\" >Smooth online play with rollback netcode via integration with the &quot;GGPO Rollback Network SDK&quot;</p></li><li><p class=\"bb_paragraph\" >Online lobby functionality with Steam API supporting actions such as:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Creating public and private lobbies</p></li><li><p class=\"bb_paragraph\" >Sending and accepting invites from Steam chat</p></li><li><p class=\"bb_paragraph\" >Searching for public lobbies</p></li></ul></li><li><p class=\"bb_paragraph\" >Resource management with a shared team super meter for universal actions such as EX Special Moves (aka enhanced moves) and Burst (aka combo breakers)</p></li><li><p class=\"bb_paragraph\" >Classic control scheme with inputs for special moves for quarter-circles, half-circles, dragon punch, and more</p></li><li><p class=\"bb_paragraph\" >End-of-game statistics showing the player(s) who scored the best in 14 different categories (including most damage, most KO's, most Parries, least damage taken, most EX moves used, and more)</p></li><li><p class=\"bb_paragraph\" >6 stages using 2.5D graphics with 3D models for characters and projectiles on a 2D fighting plane, powered by Unreal Engine. More stages will also be added over time</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2212400/adc4511a244c071dcd988d3e2045523426b09309/header.jpg?t=1771534153",
+    "developers": [
+      "Nagooyen"
+    ],
+    "publishers": [
+      "Nagooyen"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 8 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

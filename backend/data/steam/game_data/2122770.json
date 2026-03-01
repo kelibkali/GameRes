@@ -1,0 +1,82 @@
+{
+  "2122770": {
+    "name": "Kings and Catapults",
+    "steam_appid": 2122770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A 2 player turn-based strategy game with hack n slash element in a fantasy setting.<br />\r\n Players secretly set up their pieces and terrain tiles on their half of the 8x8 battleboard and once both players are ready play commences. Pieces move and attack in a fashion similar to Chess, white moves first  then black while other pieces impede your movement. Pieces capture other pieces by moving to occupy the enemy square and removing the enemy piece. Capturing is always the end of your turn. Whoever captures the opposing King first wins however there is no check as in Chess.<br />\r\nTiles<br />\r\nMountains x 4 (red)<br />\r\nThis tile is impassable to all units except Dragons. Only Crossbowman may attack Dragons that are on mountain tiles. Players may not have more than two contiguous mountains. To prevent mountains from being built into impassable walls.<br />\r\nWater x 2 (blue)<br />\r\nWater stops a unit’s movement once they enter it. (That unit can not be moved next turn and must wait until that turn is passed before it moves again.optional) Trebuchets, Catapults, Crossbowman can not attack while they are in this tile.<br />\r\nForest x 6 (green)<br />\r\nA forest tile diminishes a unit’s maximum range by one upon entering it. Catapult shot cannot penetrate forest tiles.<br />\r\nFortress x 1<br />\r\nThe King begins the game in the Fortress but once the Fortress is attacked and “ruined” the King is free to move.<br />\r\nPieces<br />\r\nRank    Piece                    Move                             Special                                             .<br />\r\nI           Rabble                   1          One block ranged ability that &quot;ruins&quot; home fortress.<br />\r\nII          Spearmen              1         *Blocks Cavalry.                                    <br />\r\nIII         Crossbowman        1         Ranged attack one block radius.<br />\r\nIV         Light Horse            3         Cavalry  <br />\r\nV          Heavy Horse          2         Cavalry          <br />\r\nVI         Elephant                1          Cavalry        <br />\r\nVII        Catapult                 1         Two square range line-of-sight.    <br />\r\nVIII       Trebuchet              1         Three square range in the direction it was last moving.<br />\r\nIX         Dragon                  4          *Blocked by Forest, Fortress, and Trebuchet.<br />\r\nX          King                       2          Can capture or be captured by any piece but suffers<br />\r\n                                                        no terrain penalties.    <br />\r\nRanged units can capture normally by occupying enemy square or using their ranged ability. *Blocked units can’t capture indicated pieces.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/header.jpg?t=1662986173",
+    "developers": [
+      "Kings and Catapults"
+    ],
+    "publishers": [
+      "Kings and Catapults"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

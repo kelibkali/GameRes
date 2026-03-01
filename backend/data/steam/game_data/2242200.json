@@ -1,0 +1,106 @@
+{
+  "2242200": {
+    "name": "复古卡丁车",
+    "steam_appid": 2242200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "复古卡丁车是一款街机风格的离线和在线赛车游戏，你可以在撞击模式中把你的敌人砸成小块，主要目标是通过撞击尽可能多的汽车来摧毁它们，你可以自己添加华丽的背景音乐，同时享受风格化的RetroWave赛道的别致景色，或玩标准的赛车模式，如圆圈或计时骑行。<br />\r\n游戏类型：赛车<br />\r\n游戏风格：RetroWave<br />\r\n游戏模式：循环赛、计时赛、碰撞赛（玩家互相摧毁对方汽车的模式）。",
+    "supported_languages": "英语, 俄语, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2242200/header.jpg?t=1696471482",
+    "developers": [
+      "FLASHBang"
+    ],
+    "publishers": [
+      "FLASHBang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 9 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "初学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/269959289c666427bfbb12c0810834bb6a8187ab.jpg"
+        },
+        {
+          "name": "杀手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/b42ac264769f21f173698670de317251f283614e.jpg"
+        },
+        {
+          "name": "歼灭者手推车",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/7fb9562a5b7817de4a50cdaef2b8e0c761f61f78.jpg"
+        },
+        {
+          "name": "初学者的发起人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/36e171cccf19bee2d4bf03574fd04d970f34c4a2.jpg"
+        },
+        {
+          "name": "垃圾箱",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/c07cf2bd7bfb83de3d41c8adb9b4e74d618a15a1.jpg"
+        },
+        {
+          "name": "地狱的司机",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2242200/99d3c4a1aa755b39f1a655ae012729a5c0765cc6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

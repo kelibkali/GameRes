@@ -1,0 +1,82 @@
+{
+  "2179260": {
+    "name": "Simple Snooker",
+    "steam_appid": 2179260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个双人对战斯诺克台球游戏。<br />\r\n可使用PC桌面端或VR设备游玩，且支持PC和VR互联。<br />\r\n游戏中可创建你自己的游戏主机或加入其他人的房间。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179260/header.jpg?t=1703414040",
+    "developers": [
+      "Enamel Game"
+    ],
+    "publishers": [
+      "Enamel Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 9 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2261500": {
+    "name": "Shoot! VR",
+    "steam_appid": 2261500,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Shoot! VR是一款第一人称射击模拟游戏。该游戏模拟了室内射击场的环境。游戏有不同的模式，并提供不同武器的选择。<br />\r\n<br />\r\n在时间模式中，玩家试图在时间限制内获得尽可能高的分数。场景中会产生随机目标。玩家必须在倒计时期间尽可能多地射击目标，以获得更高的分数。当玩家投篮时，在他/她面前的一侧有一个虚拟标志，显示所获得的分数和剩余时间，以提醒玩家。一旦时间到了，玩家就会退出游戏，页面就会显示分数。<br />\r\n<br />\r\n在关卡模式中，关卡的难度会随着时间的推移从简单变为困难。每一关都有一个预设分数，玩家必须在倒计时结束前达到大于或等于预设分数的分数才能进入下一关。随着玩家在关卡中的进展，难度变得越来越高。关卡的难度是由目标消失的速度和进入下一关必须达到的分数决定的。如果玩家在时间结束前获得的分数低于预定的分数，游戏就结束了，虚拟屏幕（面板）将显示玩家获得的最终分数。<br />\r\n<br />\r\n在训练模式中，玩家可以用不同的武器自由射击。该模式是玩家进入场景时的默认模式，即玩家不选择以时间或关卡模式开始游戏。玩家没有时间或分数限制，他们可以自由拍摄。玩家还可以选择他们想要的难度，这意味着目标出现和消失的时间间隔不同。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261500/header.jpg?t=1673273783",
+    "developers": [
+      "Bingqian SHU",
+      "Chenxin LI"
+    ],
+    "publishers": [
+      "Bingqian SHU"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "2177200": {
+    "name": "Mission In Space",
+    "steam_appid": 2177200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >STORY:</h2><br>2d space shooter with 6 levels. Player controls ship which have missiles and rockets. Every level player need avoid and destroy enemy ships which some have weapons. Also need avoid or shoot asteroid waves. End of every level has big boss who need to be defeated to finish level. Player has 3 lives at every level to survive.<h2 class=\"bb_tag\" >FEATURES:</h2>- 6 levels<br>- Enemies which fly and shoots<br>- Asteroid waves <br>- Big boss in end of every level<br>- Steam achievements<br>- 3 lives at every level",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/header.jpg?t=1765101384",
+    "developers": [
+      "Mixtor",
+      "Tero Lunkka"
+    ],
+    "publishers": [
+      "Tero Lunkka"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Play level 1 30 seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/c3eb61d7e1571284ee53b667dff5f4995ffafba4.jpg"
+        },
+        {
+          "name": "Play level 2 30 seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/59aff81c65dc84aa423825c1652e8a56c3175a7b.jpg"
+        },
+        {
+          "name": "Play level 3 30seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/43e536044dd075c1fd0c52908a7c39d08ea69593.jpg"
+        },
+        {
+          "name": "Play level 4 30 seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/147f4b191f2e6bb253b4bd3b7ae0c372df21b708.jpg"
+        },
+        {
+          "name": "Play level 5 30 seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/60342b245b7df6c0ba59d301468f7001da83038b.jpg"
+        },
+        {
+          "name": "Play level 6 30 seconds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2177200/6d31056697c5f03a617e3a4325bf2565875bcd10.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

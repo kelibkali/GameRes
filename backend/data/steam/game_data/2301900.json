@@ -1,0 +1,82 @@
+{
+  "2301900": {
+    "name": "Lost with you",
+    "steam_appid": 2301900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >关于这个游戏</h2><br><strong>和她一起生存！</strong><br><br>你经历了一次不幸的飞机失事。<br>幸运的是，你活了下来，但最终被困在一个荒岛上。<br>但仍有希望。因为你并不孤单<br>你能和她一起生存并逃离荒岛吗？<h2 class=\"bb_tag\" >生存</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301900/extras/d6cfad0cfc162583cf26b0e643b0df89.avif?t=1709959637\" width=400 height=94 /></span><br><br>你必须管理你的健康、体力、饥饿和口渴。当你的生命值达到 0 时，游戏就结束了。<h2 class=\"bb_tag\" >选择</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301900/extras/Selection.PNG?t=1709959637\" /></span><br><br>在对话过程中，您将获得选项。一次选择不会带来很大的改变，但你的名声会逐渐改变。<h2 class=\"bb_tag\" >小游戏</h2><br>你的生存技能将受到考验。准备了几个小游戏，你越熟练，你就越能生存。",
+    "supported_languages": "英语, 韩语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301900/header.jpg?t=1709959637",
+    "developers": [
+      "JJGames"
+    ],
+    "publishers": [
+      "JJGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 3 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Home Sweet Home",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2301900/f11000d5df764043c5fcc4dd5e2ffaaec5d0e4f3.jpg"
+        },
+        {
+          "name": "Sailor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2301900/a317cd24fd3472186fb98ba8881792b2c53a0ac8.jpg"
+        },
+        {
+          "name": "Light",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2301900/4da783d16866803a0cb8f16a5243494e74581600.jpg"
+        },
+        {
+          "name": "Survival Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2301900/eb61a2526f54358379e9445829de58990040400f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

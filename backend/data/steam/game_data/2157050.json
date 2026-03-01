@@ -1,0 +1,78 @@
+{
+  "2157050": {
+    "name": "Sacred Ember",
+    "steam_appid": 2157050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sacred Ember is currently in early development stages and is focusing on fighter jet gameplay. The fighter jet gameplay aims to have realistic flight models similar to flight simulators, but with controls that are easy enough for casual players to pick up and enjoy. For now, the game will focus on the PC platform, and mouse and keyboard controls.<br><br><strong>CURRENTLY PLANNED</strong><br><br>• Adding more fighter jets (SU-57, J-20, HAL AMCA), player progression, customization, and upgrade systems.<br><br>• Improving visual effects, such as explosions, visually damaged aircraft. Fine tuning flight model, adding damage attribute to flight model.<br><br>• Adding killfeed, scoreboard, hitmarkers, and other typical multiplayer features such intermission lobby and text/voice chat.<br><br>• Cockpit HUD, fox two missiles, and radar systems.<br><br>• Loot crate system to unlock vehicle skins.<br><br>• Expanding on the Options Menu, adding keybinding, resolution scale, and other typical options i.e. FPS Limit, Anti-Aliasing, etc. and general performance improvements.<br><br><strong>CURRENT FEATURES</strong><br><br>• Online fighter jet free-for-all matches. Multiplayer is done via peer-to-peer Steam Sessions. You can create your own sessions or join others. There are no dedicated servers<br><br>• F-22 Fighter jet with realistic aircraft flight physics.<br><br>• Cannon weapon system only, no missiles yet.<br><br>• Helmet HUD only. No cockpit HUD yet.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157050/header.jpg?t=1670375760",
+    "developers": [
+      "Antares Development"
+    ],
+    "publishers": [
+      "Antares Development"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

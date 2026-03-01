@@ -1,0 +1,138 @@
+{
+  "2219240": {
+    "name": "Sisypush",
+    "steam_appid": 2219240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sisypush is a 1-bit puzzle game inspired by Sokoban games. Push rocks and other objects to clear the path to the final goal in each level!<br><br>Play as Sisyphus from Ancient Greek mythology, who got punished to push a rock for eternity in the underworld after having cheated Death twice. While this game does not go on for eternity, you can play over 70 different levels with varying difficulties, each level having the goal of pushing the white rock into the goal tile.<br><br>Contrary to many other Sokoban games, the objective in every Sisypush level is to bring just one special rock to the target tile. Additional mechanics such as larger rocks, rivers, or ice will present a challenge in many levels.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219240/extras/f01206482e142de1fbf5940facecf78b.poster.avif?t=1745518129\" width=600 height=106 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219240/extras/f01206482e142de1fbf5940facecf78b.webm?t=1745518129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219240/extras/f01206482e142de1fbf5940facecf78b.mp4?t=1745518129\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Over 70 levels, split up into 5 worlds<br></li><li> A new game mechanic is introduced in each world<br></li><li> A map-like level selection with branching paths<br></li><li> Complete enough levels to unlock the gate to the next world<br></li><li> Unlimited Undos<br></li><li> Easy to learn<br></li><li> Full controller support<br></li><li> Minimalistic 1-bit art style<br></li><li> 20 achievements.<br></li><li> Optionally, you can try to optimize your route in each level and try to achieve the best rating.</li></ul><h2 class=\"bb_tag\" >Accessibility</h2><ul class=\"bb_ul\"><li>Remappable Controls<br><ul class=\"bb_ul\"><li>Bind any and as many keys or controller buttons to the in-game controls</li></ul></li><li>TTS (Text-to-Speech) support (blind accessible):<br><ul class=\"bb_ul\"><li>Notice: Requires usable voices installed on your system (SAPI voices). Unfortunately the game cannot communicate with screen readers.<br></li><li>Players who are vision impaired can activate TTS by pressing F1 at the start of the game (or 'Select' on a gamepad).<br></li><li>UI elements (including the level selection) are narrated and can be navigated using keys or a controller.<br></li><li>In a level, the TTS Object Narrator acts as a seperate &quot;camera&quot; that can move independently of the player and can describe all tiles. It narrates the tile's coordinates and what is on the tile.<br></li><li>The levels do not have any time limit. So you can explore each level at your own pace. It might still be beneficial if you have decent spatial imagination.<br></li><li>A help section accessible from the main menu explains all controls and in-game mechanics.<br></li><li>Settings to change voice, speed, pitch, and volume of the text-to-speech functionality.</li></ul></li><li>Audio volume controls (change the volumes of music, sound effects, and ambience sounds independently)<br></li><li>Turn off screen shake (level transitions will still be enabled though)<br></li><li>Turn off vibration (for gamepads)</li></ul><h2 class=\"bb_tag\" >This game is for you if:</h2><ul class=\"bb_ul\"><li> You like puzzle games.<br></li><li> You don't mind short games.<br><ul class=\"bb_ul\"><li>If you don't have much Sokoban experience, I estimate it will take 4-5 hours to complete every level. <br></li><li>Experienced players will probably be able to complete the game in 2-3 hours.</li></ul></li><li> You like minimalist art.<br></li><li> If you enjoy accessibility features such as text-to-speech support.</li></ul><br>Please consider wishlisting and following the game! :)<br><br>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219240/header.jpg?t=1745518129",
+    "developers": [
+      "Centi Games"
+    ],
+    "publishers": [
+      "Centi Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 71,
+        "description": "朗读游戏菜单"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "Thank you!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/60414297ddce174e40f9a5850d77aa4cb06039ae.jpg"
+        },
+        {
+          "name": "Introduction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/382d637ed63746c5b6388ba4797cd4ef3ed64ed6.jpg"
+        },
+        {
+          "name": "300",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/dee639f42e7741d0ac270f2abc8a9829a8e82237.jpg"
+        },
+        {
+          "name": "Rock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/e9b12181125e74270dbe74838486ed852a9fffdd.jpg"
+        },
+        {
+          "name": "100%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/48a165293cf6815a0a4498ff301767108ad1d075.jpg"
+        },
+        {
+          "name": "Done",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/d7ba96712325942bce67544c634c26c5227d2e7c.jpg"
+        },
+        {
+          "name": "Acheron",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/548223bcfe2628aff1e2bc0b0c456297f46f4db8.jpg"
+        },
+        {
+          "name": "Acheron Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/64eecbd688368f9de49a85da8f860f2c59bfe844.jpg"
+        },
+        {
+          "name": "Styx",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/1f2b6b22250e29a63031cde054966f2f2c9b66ea.jpg"
+        },
+        {
+          "name": "Styx Hero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219240/0ee1860caf9c10b454f00905b9795de4ab3bb53e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

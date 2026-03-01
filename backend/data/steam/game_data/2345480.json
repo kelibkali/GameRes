@@ -1,0 +1,78 @@
+{
+  "2345480": {
+    "name": "异星生存",
+    "steam_appid": 2345480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是个2d开放世界的生存制作游戏，偏向于闲置自动化游戏，不需要到处跑地图，不困难，只要有时间人人能通关，不会死。<br>你漂泊在太空中，随机降落在一个星球上，通过收集材料，生存下去，发展文明科技，征服更多星球。<br><br><ul class=\"bb_ul\"><li>前期制作原始工具，然后解锁电力，开始自动化生产。<br></li><li>拥有昼夜系统，你需要搭建火堆，或者照明灯应对晚上。<br></li><li>拥有饥饿系统，你需要收集食物。<br></li><li>能够钓鱼，砍树，挖矿，猎杀，工业自动化<br></li><li>拥有洞穴可以找到硫磺，硝石制作火药<br></li><li>多星球地图穿梭，星球间资源采集和资源运输<br></li><li>拥有怪兽会攻击你的建筑物</li></ul>qq群967642238",
+    "supported_languages": "英语, 简体中文, 法语, 德语, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345480/header_schinese.jpg?t=1734578875",
+    "developers": [
+      "Yamate"
+    ],
+    "publishers": [
+      "Yamate"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "入门",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2345480/ee316f2b181c75caf2026443e79a1d9ace3651e2.jpg"
+        },
+        {
+          "name": "通关简单模式",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2345480/bbdf54daa2cf87908df762e9e51a46968d6ce0bc.jpg"
+        },
+        {
+          "name": "通关困难模式",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2345480/576d9b09f45fc42798707c45a7bffaf7f9ab09f4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

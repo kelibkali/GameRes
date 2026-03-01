@@ -1,0 +1,94 @@
+{
+  "2361850": {
+    "name": "KARTMania",
+    "steam_appid": 2361850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Overview</h2><br>&quot;KARTmania&quot; is a realistic racing kart game.<br>Setting changes such as seat position and sprocket length,<br>Let's capture the circuit course with driving technique!<h2 class=\"bb_tag\" > Play flow</h2><br>There are two modes to choose from: a race mode in which 6 karts compete for ranking, and a time attack mode in which the fastest time is competed.<br>If you win the podium in race mode, the number of courses you can choose for races and time attacks will increase.<br>In time attack mode, you will run alone and aim to update the fastest time, but the current fastest time is<br>Since it is displayed as a ghost, you can enjoy the excitement of the race.<br>You can also see the world ranking on the leaderboard!<br>Change the settings to adjust to the best machine and aim for the fastest time!",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361850/header.jpg?t=1682586267",
+    "developers": [
+      "codeArts K.K."
+    ],
+    "publishers": [
+      "codeArts K.K."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "First time podium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2361850/2abac4bc4891503d021f8e559ef3f8c04b02c596.jpg"
+        },
+        {
+          "name": "Podium at every course",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2361850/af674fbe9b1ffd70289c8382d12e7c2a449d041e.jpg"
+        },
+        {
+          "name": "1st place in all courses",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2361850/bece8c45015144ef998b8239a461bd0d45953ba7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

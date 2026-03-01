@@ -1,0 +1,118 @@
+{
+  "2403680": {
+    "name": "Lexicon",
+    "steam_appid": 2403680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Drag letters to swap and create words. Make longer words for higher scores! The bonus word scores 10X! Form interlocked words for multiple-word bonuses.<br />\r\n<br />\r\nClear the level (use every letter) for additional bonuses.  Levels are built from scrambled random words so every tile could be used!<br />\r\n<br />\r\nBeat your own high score for achievements. Move up the leaderboard!<br />\r\n<br />\r\nThe 12000+ word dictionary can be extended with a custom bonus word list. Create your own lists for holidays, lessons, reading challenges!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403680/header.jpg?t=1737752004",
+    "developers": [
+      "Iowa Software Design"
+    ],
+    "publishers": [
+      "Iowa Software Design"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Finished Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/dcb4d451eae3e29eb7c08e4b51640accafa732c9.jpg"
+        },
+        {
+          "name": "Cleared Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/6c596173455993c6e56d8023a97120f0eda44f8d.jpg"
+        },
+        {
+          "name": "Cleared Two Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/3815481816b9cb75fe9495fef75dfe8bf52d4b2e.jpg"
+        },
+        {
+          "name": "Cleared Five Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/2d33b7542036e28c0f01e299f972306caea1fae5.jpg"
+        },
+        {
+          "name": "Cleared Ten Levels",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/65fbabded23197a05606ad091a2ccf2393426383.jpg"
+        },
+        {
+          "name": "Scored 1200",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/2909520687bd5ca7c6625b39f299858e1eb0c8ed.jpg"
+        },
+        {
+          "name": "Scored 2400",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/f647b9d41cf1b1341b8dae4774f7332d6cfc8272.jpg"
+        },
+        {
+          "name": "Scored 5000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/7e9522bf7147f2b4c1e21e7f9ab2f6613b321dcd.jpg"
+        },
+        {
+          "name": "Bonus list complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/c58b48f4836ed05941620f951db79224d1669fa8.jpg"
+        },
+        {
+          "name": "Bonus word",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403680/7d09143736577d2d99901b1cc334c601cafc1da3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

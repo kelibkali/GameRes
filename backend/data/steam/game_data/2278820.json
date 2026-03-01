@@ -1,0 +1,90 @@
+{
+  "2278820": {
+    "name": "Archery Club",
+    "steam_appid": 2278820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "快来踏上成为箭术冠军的道路吧！每场比赛中，你都将玩到3种游戏模式中的至少2种：<br />\r\n<br />\r\n短弓模式——耗时只有30秒的快速轮次，考验你的反射神经以及快速瞄准技巧。<br />\r\n<br />\r\n长弓模式——耗时更长的轮次，每位玩家都有三次射箭机会。每轮射箭后，靶子的距离都将增加，因此必须考虑重力和风的影响！<br />\r\n<br />\r\n复合弓模式——更加注重策略的轮次，你必须自行决定要射哪些靶子。得分更高的靶子往往更加难以射中，需要谨慎判断！<br />\r\n<br />\r\n每场比赛均为三局两胜，各个游戏模式的比赛顺序随机决定。玩家必须熟练掌握所有模式，才能不断获胜并赢得更高排名！<br />\r\n<br />\r\n通过提升技巧以及赢得和其他玩家的比赛，你可以解锁新的弓箭组件。使用这些组件可进一步提升你的胜率。密切注意你使用的弓箭的数据，活用各种可解锁的升级组件强化各项数据。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 荷兰语, 芬兰语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278820/header.jpg?t=1736932090",
+    "developers": [
+      "BoomBit"
+    ],
+    "publishers": [
+      "BoomBit"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

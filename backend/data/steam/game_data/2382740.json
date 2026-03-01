@@ -1,0 +1,66 @@
+{
+  "2382740": {
+    "name": "Chrono Crystal - Hubert DLC",
+    "steam_appid": 2382740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "获取该DLC后，在游戏内可启用新英雄：休伯特。<br />\r\n额外附赠5000宝石。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382740/header_schinese.jpg?t=1685587245",
+    "developers": [
+      "Lanqing Games"
+    ],
+    "publishers": [
+      "Lanqing Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

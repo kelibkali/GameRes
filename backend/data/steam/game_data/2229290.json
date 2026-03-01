@@ -1,0 +1,70 @@
+{
+  "2229290": {
+    "name": "山的桃源乡，海的乌托邦游戏制作源文件库",
+    "steam_appid": 2229290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本源文件合集包含 FBX 格式和 MAX 格式（3ds Max 2020）<br>MAX 文件：材质依赖于 3ds Max 的材质系统。提供完整的材质渲染设置。<br>FBX 文件：只包含模型本体，材质不保证可以使用。<br>注：部分模型依赖 Quad Chamfer 插件。请参考：<br>注：请务必明确自己可以使用相应的软件和格式。<h2 class=\"bb_tag\" >特点</h2>MAX 文件保留了制作过程，方便改动。<br>本模库文件中，不包含其他公有模型库内容。（如免费植物库，环境库等）请自行下载。<br>渲染器可使用 Corona 5 或 V-Ray 5，及以上版本渲染。<br>模型文件可随意使用在任何领域的商业，或非商业，创作及二次创作中。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229290/header.jpg?t=1729691631",
+    "developers": [
+      "Magenta Factory"
+    ],
+    "publishers": [
+      "Magenta Factory"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "dlc"
+  }
+}

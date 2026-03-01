@@ -1,0 +1,82 @@
+{
+  "2137140": {
+    "name": "GameGuru - CineGuru",
+    "steam_appid": 2137140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137140/extras/54abc799debae3c7203a4482d2299de0.avif?t=1691069386\" width=230 height=86 /></span><br><br><strong>Cine|Guru</strong> is a revolutionary asset and script pack that gives you the tools to create your own in-game cinematics and scripted sequences for GameGuru games. From fully-controllable cameras to actors that move, perform and speak according to your instructions. Cine|Guru gives you the power to create stunning story sequences, all without barely touching any code.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Cameras that  Pan, tilt and roll<br></li><li>     Move in any direction<br></li><li>     Smoothly fly along complex nodal paths you create<br></li><li>     Zoom in or out<br></li><li>     Utilise Perlin noise-based camera shake, available on command, helping you simulate handheld moves or emphasise big impacts<br></li><li>     Track any entity in your level<br></li><li>     Change your camera's subject during a shot (up to 30 times per shot!)</li></ul><br><strong>Actors that:</strong><br><br> <ul class=\"bb_ul\"><li> Move to their marks and hit them every time!<br></li><li>     Animate and talk according to text files you create<br></li><li>     Teleport or vanish on command<br></li><li>     Switch back into NPCs and enemies after your cinematic is done*</li></ul><br><strong>Triggers that:</strong><br><br><ul class=\"bb_ul\"><li>     Trigger a cinematic from a zone<br></li><li>     Trigger a cinematic from an entity e.g. a switch<br></li><li>     Display static sprites on screen<br></li><li>     Loop image sequences on screen<br></li><li>     Play or loop a sound effect right on cue<br></li><li>     Trigger any entity based on what camera is activated</li></ul><br><strong>Plus:</strong><br><br>    <ul class=\"bb_ul\"><li> Brand new vector library to enable smooth camera movements<br></li><li>     Music volume commands to raise and lower music when actors are speaking<br></li><li>     Subtitles, which can be called in line by line as your actors speak<br></li><li>     Rolling credits<br></li><li>     Fade in and fade out to black<br></li><li>     A comprehensive 49-page instruction manual packed with examples and detailed explanations on every function<br></li><li>     3 x example fpm so you can see how various system work first-hand </li></ul><br>* some super basic lua scripting required for this<br><br>A collaboration between coding genius AmenMoses and award-winning filmmaker Avenging Eagle. With Cine|Guru we set out to create a pack, crammed with features, that is simple enough for anyone to use, from seasoned film makers looking to direct engaging machinima cinematics, to beginners simply wanting to place a security camera in their level. Behind the frankly mind-boggling maths was a desire to create a set of tools to enable anyone, of any skill level, to create and do as much of that creation right in the editor as possible.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137140/header.jpg?t=1691069386",
+    "developers": [
+      "Tanner Productions"
+    ],
+    "publishers": [
+      "TheGameCreators"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

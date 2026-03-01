@@ -1,0 +1,63 @@
+{
+  "2241100": {
+    "name": "Feudums Demo",
+    "steam_appid": 2241100,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Welcome to the playable demo of Feudums, a game <strong>currently in development</strong>. Remember, this is a free <strong>PRE-early access version</strong> of the game. You can always find the latest demo on our web page, but for those afraid to download a game from an unknown, we wanted to provide the opportunity to do it inside Steam. <br><br>Our demos are always updated as new milestone builds are completed or we have quality of life (QoL) improvements to add. We always invite the community to play our game and give us any feedback you have afterwards. We love to hear from our players!  <br><br>Just remember, we are <strong>PRE-early access</strong>: much of the game is not yet available as we continue to plug away on development. This is more like a minimum viable product so you can have a first impression and tell us whether we're on the right track. While we do our best to ship stable previews, don’t be surprised if you find a few bugs. If you are unlucky enough to find one, please make sure to report it so we can fix it for our next update! <br><br>If pre-beta games are not your cup of tea, that is completely fine. Please bear with us until we ship a more or less feature-complete public beta.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2241100/header.jpg?t=1702681852",
+    "developers": [
+      "Kalamona Studios",
+      "Matyas Suranyi"
+    ],
+    "publishers": [
+      "Kalamona Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

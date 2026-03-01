@@ -1,0 +1,82 @@
+{
+  "2187190": {
+    "name": "Poly Shoot",
+    "steam_appid": 2187190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款简单的FPS游戏。<br>在彩色几何体的进攻下存活并击碎它们！<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187190/extras/f1716095c39b759f61da81e59b88126a.avif?t=1668759612\" width=640 height=360 /></span><br>在战斗中变强并获得新的武器和技能。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187190/extras/ca85466363ff26d1a798dadd75a7d164.avif?t=1668759612\" width=640 height=360 /></span><br>灵活运用各种武器和能力，以应对各种各样的目标。<br>当心别被撞上了。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187190/header_schinese.jpg?t=1668759612",
+    "developers": [
+      "2drp"
+    ],
+    "publishers": [
+      "2drp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "胜利!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/644cb111b6a753088d8319812282c854682b31df.jpg"
+        },
+        {
+          "name": "彻底击溃!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/120594f1515a999e14d7631134eb13ecbe1aaf97.jpg"
+        },
+        {
+          "name": "过热!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/9ce779b1ec986e78bf917405267186b4e4910807.jpg"
+        },
+        {
+          "name": "放松",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/f17a3235bc54ec2cdac6a5ea17fd06e8ddb909bc.jpg"
+        },
+        {
+          "name": "压倒性",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/9b7f7e375083f1669c58262962af8f52eb2ad2e1.jpg"
+        },
+        {
+          "name": "势如破竹!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2187190/896ac7aba9302d2efb9e1c13d6d028d10e46909f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

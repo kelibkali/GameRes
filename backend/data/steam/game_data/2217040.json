@@ -1,0 +1,63 @@
+{
+  "2217040": {
+    "name": "Far Dawn",
+    "steam_appid": 2217040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><i>A centuries-long peaceful coexistence within the Grand Principality of Timnuzyma is brought to an abrupt end by a political turmoil that escalates into an all-out open conflict between the two ethnic groups of the multinational state: the Daywalkers and the Nightstalkers.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>No hope of peace looms in the horizon, as the self-righteous wage war, the innocent pay the price, and old hatreds and resurfaced historical claims swing the swords, march the troops and put villages to the torch.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Only one question remains: will you fight for the freedom of your nation — or for the integrity of the realm?</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>The night is dark before the dawn — and the dawn is far.</i></strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > — C L A S S I C   R T S — </h2><p class=\"bb_paragraph\" ><strong>The visual material presented in the screenshots is from an early version of the game. The visual style is experiencing a thorough overhaul during winter 2025–2026.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Far Dawn</strong> brings us back to the look and feel of the peak era of real-time strategy (RTS) games, set in a Gothic-toned dark fantasy world.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >While strongly drawing inspiration from the real-time strategy classics of the mid-to-late 90s, Far Dawn also smooths out many rough edges by employing a number of modern innovations in gameplay.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Among other features the essentials of Far Dawn are as follows:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Crisp, pixel-sharp 2D graphics and grid-based gameplay for uncompromised visual clarity, best possible readability of the battlefield situation and unfalteringly precise control over one's army at all times.</p></li><li><p class=\"bb_paragraph\" >Minimizing click-frantic, hotkey-heavy micromanagement: all building construction and unit production is handled via the user interface, instead of micromanage-dependent worker units. Resource gathering also operates autonomously in stationary buildings while still being subject to economic sabotage from one's enemy.</p></li><li><p class=\"bb_paragraph\" >No heroes or strong special units at the center of gameplay dominating the battlefield, as was the pattern in RPG-RTSes popular from early 2000s onwards. Combatants in Far Dawn maneuver and do combat in amassed numbers, instead of requiring to be individually guided one by one. In a similar fashion, most so-called caster units, which possess usable abilities, utilize them automatically on the battlefield depending on the situation, minimizing the need to individually order caster units around while encouraging having more of them at one's disposal at the same time.</p></li><li><p class=\"bb_paragraph\" >Despite encouraging players to amass larger armies compared to some other, micromanagement-heavy RTSes, Far Dawn is still not a numbers but a strategy game: careful consideration is required when composing one's fighting force against their foe, for each unit type and their combinations thereof are likewise vulnerable to certain counter-combinations. Wrong combination of troops in a wrong place at the wrong time is sure to spell defeat.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > — D E V E L O P M E N T   R O A D M A P — </h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Far Dawn</strong> will feature two single-player campaigns -- one for each of the differing factions -- with branching storylines and a number of alternative endings.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Online multiplayer will likewise be supported. The game will also provide tools to craft your own custom maps -- all up to script-driven scenarios composed into custom campaigns.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game runs on a custom engine written in <strong>Rust</strong> and utilizing <strong>SDL2</strong>. While this approach may require more time than using a proprietary third-party engine, as is common nowadays, it ensures complete control over technical implementation and gameplay performance, and secures the developer's independence from any peculiarities and &quot;undocumented features&quot; that third-party engines tend to bring with them.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Far Dawn</strong> is a solo developer effort, so it takes a relatively long time to push features and assets into production. With all this said, the development is progressing at a steady pace.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Be sure to wishlist and follow the development!</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217040/header.jpg?t=1764345768",
+    "developers": [
+      "Wolvenpit Studio"
+    ],
+    "publishers": [
+      "Wolvenpit Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

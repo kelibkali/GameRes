@@ -1,0 +1,94 @@
+{
+  "2208960": {
+    "name": "Gravity",
+    "steam_appid": 2208960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>在超过 80 个基于物理的谜题中测试你的思维与创造力。</strong></p><p class=\"bb_paragraph\" >通过在开启重力前放置可移动物体，帮助红球到达出口。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/dccf3d32800e34bf541c60aa2c5db3de.poster.avif?t=1761593069\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/dccf3d32800e34bf541c60aa2c5db3de.webm?t=1761593069\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/dccf3d32800e34bf541c60aa2c5db3de.mp4?t=1761593069\" type=\"video/mp4\"></video></span><strong>黄色</strong> - 可以移动，受重力影响           <strong>橙色</strong> -可移动，不受重力影响</p><p class=\"bb_paragraph\" ><strong>绿色</strong> - 无法移动，受重力影响           <strong>粉色</strong> - 可以移动，受反重力影响（向上移动）</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/2f8da367504ada187cf7f5d0a5d6fab4.poster.avif?t=1761593069\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/2f8da367504ada187cf7f5d0a5d6fab4.webm?t=1761593069\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/extras/2f8da367504ada187cf7f5d0a5d6fab4.mp4?t=1761593069\" type=\"video/mp4\"></video></span>通过多种方式完成每个关卡，让您的创造力大放异彩！</p>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208960/header_schinese.jpg?t=1761593069",
+    "developers": [
+      "Tiny Castle Games"
+    ],
+    "publishers": [
+      "Tiny Castle Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "重力大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2208960/9bddd97a521a721ba40e6c9f370769dde0e3d142.jpg"
+        },
+        {
+          "name": "重力专家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2208960/7c2834178b3cf5ce239a6bf582fc3640af120c5e.jpg"
+        },
+        {
+          "name": "撞墙",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2208960/43c12045c0eee1aa6cdaca862d29294617ab41e5.jpg"
+        },
+        {
+          "name": "触及天花板",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2208960/a473321bc99f91e337df548c93ec39b81246ef50.jpg"
+        },
+        {
+          "name": "慢慢来",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2208960/610e883ed02536ecc48155d32f606c79b5703809.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

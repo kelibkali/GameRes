@@ -1,0 +1,78 @@
+{
+  "2215460": {
+    "name": "Efpiyes",
+    "steam_appid": 2215460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Efpiyes was inspired by the venerable shooters of the 90s: an era of straightforward, fast-paced action, LAN parties and creative tools you didn't need a gamedev degree to use. It's about fun with friends and running, jumping, shooting mayhem.<h2 class=\"bb_tag\" >Multiplayer</h2><br>Host and join games over Steam. Choose good old-fashioned Deathmatch or change it up with some King of the Hill or Tag.<br>Game Modes Currently Implemented:<br><ul class=\"bb_ul\"><li> Deathmatch: Kill other players. Player with highest kills minus deaths wins.<br></li><li> King of the Hill: Occupy the hill and fight off other players. Player with most time on the hill wins.<br></li><li> Tag: First player to die becomes It. Whoever is killed by the It player becomes It. Player who spends the least time It wins.<br></li><li> Anti-Tag: First player to get a kill becomes it. Whoever kills the It player becomes It. Player who spends the most time It wins.<br></li><li> Steal the Bacon: A ball spawns somewhere on the map. The ball can be picked up and will be dropped when you die. Player with the most time carrying the ball wins.<br></li><li> Grim Piñata: Same as Steal the Bacon, but more balls keep spawning over time. Each ball carried counts additively towards your time.</li></ul><h2 class=\"bb_tag\" >Bots</h2><br>Add bots to your game for solo practice or to add extra spice to multiplayer games. The bots know how to play all game modes, and can be adjusted to a wide range of difficulty levels.<h2 class=\"bb_tag\" >Map Editor</h2><br>Design your own maps with the built-in map editor and share them with your friends. Maps are voxel-based for simple, intuitive editing.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215460/header.jpg?t=1675026634",
+    "developers": [
+      "Karl John Goebel"
+    ],
+    "publishers": [
+      "Karl John Goebel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

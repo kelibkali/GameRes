@@ -1,0 +1,74 @@
+{
+  "2318750": {
+    "name": "出海超人 - DLC A",
+    "steam_appid": 2318750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "永久增加经验值获得和离线收入.<br />\r\n另外还有一次性的珍贵礼物.<br />\r\n<br />\r\n详情：<br />\r\n离线工作效率,经验提升15%<br />\r\n(可与其他DLC叠加)<br />\r\n高级访客 X 1(一次性)",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318750/header_schinese.jpg?t=1676683535",
+    "developers": [
+      "ST Studio"
+    ],
+    "publishers": [
+      "ST Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

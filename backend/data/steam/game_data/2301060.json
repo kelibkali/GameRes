@@ -1,0 +1,64 @@
+{
+  "2301060": {
+    "name": "Hand2Hand",
+    "steam_appid": 2301060,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >The Hand2Hand project is a fighting game... OF HANDS !<br>Use everyday object in everyday places out of boredom in epic battles between... yourself. <br>Each item represents the weapon and the character using it ; we let the imagination go wild so everything is more epic.<br>☼ 5 classes<br>☼ 3 levels of AI<br>☼ 3 maps<br>☼ Local 1v1<br>☼ Homemade musics &amp; graphics<br>☼ Pixel perfect hitboxes</p><p class=\"bb_paragraph\" ><i>The game is currently in development, and a bunch of features are yet to come.</i><br><i>Nonetheless, we are happy to leave the community a playable version which will evolve during the following years !</i></p><h2 class=\"bb_tag\" >Debug</h2><p class=\"bb_paragraph\" ><i>They can be changed in the data file</i></p><p class=\"bb_paragraph\" >Toggle debug display - <strong>Shift+D</strong><br>Heal both players - <strong>Shift+2</strong><br>Change player 1 class - <strong>Shift+3</strong><br>Change player 1 stance - <strong>Control+3</strong> <br>Toggle player 1 AI - <strong>Shift+V</strong><br>Change player 2 class - <strong>Shift+4</strong><br>Change player 2 stance - <strong>Control+4</strong> <br>Toggle player 2 AI - <strong>Shift+B</strong><br>Toggle slowmo - <strong>Shift+5</strong><br>Toggle FPS display - <strong>Shift+0</strong><br>Screenshot - <strong>Shift+F</strong></p><h2 class=\"bb_tag\" >Current status</h2><p class=\"bb_paragraph\" >☼ Hand2Hand still has a long road ahead. Everything before the 1.0 will be free. In other terms the last version before the 1.0 is free but discontinued.<br>☼ Some sounds are still &quot;borrowed&quot; from other games, they are placeholders so don't ninja me with lawyers yet ; I will replace them soon enough and well before any penny comes to my pocket from Hand2Hand.<br>☼ Here bellow are the current milestones. Don't take them literally, as the development could change the order in practice.</p><h2 class=\"bb_tag\" >Demo/prototype =Done=</h2><p class=\"bb_paragraph\" >► 3 total classes<br>► Basic AI<br>► Solo map &amp; class selection<br>► Basic interface<br>► Class gallery<br>► Combos<br>► In game interface<br>► 2 maps</p><h2 class=\"bb_tag\" >Pre Alpha =Done=</h2><p class=\"bb_paragraph\" >► Integrated mouse<br>► Option save<br>► Resolution settings<br>► 4 total classes<br>► Improved AI<br>► 3rd map<br>► Debug mode setting<br>► Control settings &amp; save<br>► 5th class<br>► Fixed in-game controllers<br>► Pause system<br>► In game timer<br>► Player vs Player selection screen<br>► Basic tutorial<br>► Dodge</p><h2 class=\"bb_tag\" >Alpha ======</h2><p class=\"bb_paragraph\" >► Reforge &amp; juice all current animations<br>► Parry<br>► Round system<br>► Multichannel sound <br><strong>== [We are here !] ==</strong><br>► Combo display in class gallery<br>► Basic solo mode (1 vs many bots)<br>► Improved interface with fully integrated mouse &amp; controller<br>► Training mode<br>► 6-7 total classes<br>► Back-end optimization (animation compression and loading)<br>► Special attacks<br>► Replace placeholders by homemade sounds<br>► Multi layer &amp; animated backgrounds <br>► 4th map<br>► Zoom levels<br>► Knocked/falling system<br>► Editor tool for animations &amp; classes</p><h2 class=\"bb_tag\" >Beta ======</h2><p class=\"bb_paragraph\" >► Basic online mode<br>► ~10 classes<br>► 4 player local<br>► Advanced solo mode<br>► Basic story mode<br>► Advanced AI<br>► Advanced tutorial</p><h2 class=\"bb_tag\" >1.0 ======</h2><p class=\"bb_paragraph\" >► Advanced online mode (match-making)<br>► Ranked<br>► Advanced story mode<br>► ~15 total classes<br>► Colorblind &amp; accessibility support</p><h2 class=\"bb_tag\" >And then ? ======</h2><p class=\"bb_paragraph\" >► 40+ classes<br>► Large scale battle mode (100+ hands)<br>► Epic story mode<br>► 30+ maps</p><p class=\"bb_paragraph\" ><i>Starting from here, the game will be extended through new classes, maps and story mode arcs. No DLCs are planned, even in the long run, so you would have a game with constantly new free updates !</i></p>",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301060/f26c18e005a6887c4aec9528d2cdea30240335eb/header.jpg?t=1742121963",
+    "developers": [
+      "FlameofChange",
+      "Nemerod (support)"
+    ],
+    "publishers": [
+      "Fourthborn Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "2346660": {
+    "name": "DFHack - Dwarf Fortress Modding Engine",
+    "steam_appid": 2346660,
+    "required_age": 0,
+    "is_free": true,
+    "description": "DFHack is an add-on for Dwarf Fortress (search for it here on Steam!) that enables mods and tools to significantly extend the game. The default DFHack distribution contains a wide variety of these tools, including bugfixes, interface improvements, automation agents, design blueprints, modding building blocks, and more. Third-party tools (e.g. mods downloaded from Dwarf Fortress Steam Workshop or the forums) can also seamlessly integrate with the DFHack framework and extend the game far beyond what can be done by just modding the raws.<br><br><strong>DFHack’s mission</strong> is to provide tools and interfaces for players and modders to:<br><br><ul class=\"bb_ul\"><li> expand the bounds of what is possible in Dwarf Fortress<br></li><li> reduce the impact of game bugs<br></li><li> give the player more agency and control over the game<br></li><li> provide alternatives to toilsome or frustrating aspects of gameplay<br></li><li> <strong>make the game more fun</strong></li></ul><br><strong>Our online Quickstart Guide</strong> (see the &quot;View the website&quot; link in the sidebar) will help you get up to speed with how to use DFHack. It's also available in-game via the <strong>quickstart-guide</strong> command.<br><br><strong>The best way to make feature requests or report problems</strong> is to open an Issue on our GitHub issue tracker (see the &quot;Stats&quot; link in the sidebar).<br><br>When reporting problems, links to your zipped, uploaded savegame and mods are immensely helpful, and issues with attached savegames and mods get fixed faster. We need a zip of your mods because we can't load your savegame without them.<br><br>DFHack installs directly into your Dwarf Fortress directory, so <strong>be sure to install it to the same Steam library and drive as Dwarf Fortress.</strong> If you are on Linux, both games must also have the same &quot;Compatibility&quot; setting (e.g. &quot;Steam Linux Runtime 1.0 (scout)&quot;).<br><br><strong>It is not a problem if you already have DFHack manually installed and are switching to Steam.</strong> You can subscribe to the Steam version and it will absorb the installed files. Your saved DFHack configuration in the dfhack-config directory is safe. No additional steps are necessary.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346660/header.jpg?t=1724254006",
+    "developers": [
+      "The DFHack Team"
+    ],
+    "publishers": [
+      "The DFHack Team"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "2286080": {
+    "name": "SparkleWand Puzzle",
+    "steam_appid": 2286080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "独特的益智游戏！<br />\r\n起初看似简单的休闲游戏，但仍会挑战您。<br />\r\n测试你的技能和感知力，并尝试实现棘手的镜头。<br />\r\n老少皆宜的乐趣！<br />\r\n<br />\r\n您可以通过使用光束作为引导来瞄准魔杖来精确地击中气泡。<br />\r\n<br />\r\n您只能击中未结晶的气泡<br />\r\n（不在六边形内）<br />\r\n<br />\r\n  除了一个例外，如果气泡变得孤立<br />\r\n  （不靠近其他结晶气泡，也不在中心区域）在这种情况下<br />\r\n你可以击中气泡并发生去结晶<br />\r\n<br />\r\n中心区域的气泡总是会结晶。<br />\r\n<br />\r\n匹配 3 个或更多相同颜色的泡泡使它们爆裂<br />\r\n<br />\r\n  如果气泡碰到结晶气泡，如果没有配色，它也会结晶。<br />\r\n<br />\r\n如果结晶气泡到达玩家角色可以移动的区域<br />\r\n然后游戏结束",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286080/header.jpg?t=1683799762",
+    "developers": [
+      "Ilias Giouroukis"
+    ],
+    "publishers": [
+      " Ilias Giouroukis"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

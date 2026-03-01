@@ -1,0 +1,110 @@
+{
+  "2333240": {
+    "name": "Logic Town",
+    "steam_appid": 2333240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >🧩 《逻辑小镇》是一款轻松的休闲益智游戏，基于爱因斯坦谜题（又称斑马谜题）。在每个谜题中，你需要根据线索仔细排除选项，直到找到真相！</p><p class=\"bb_paragraph\" >🔁 通过程序化生成的谜题和解答，游戏保证提供无尽的富有挑战性的逻辑谜题，无需猜测即可解答。</p><p class=\"bb_paragraph\" >🏆 完成故事模式后，进入自由模式，与其他玩家竞争最快解答时间。或者调整自定义谜题生成器的参数，创造属于你自己的谜题配方。</p><p class=\"bb_paragraph\" >🐰 逻辑小镇的动物们需要你的帮助！解开谜题，帮它们重新装饰吧！</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333240/header.jpg?t=1751373620",
+    "developers": [
+      "Mark Ffrench"
+    ],
+    "publishers": [
+      "Divide The Plunder"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 11 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Punch your ticket",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/972ca3d7be8e95505e10dbbf86894c206a5b8749.jpg"
+        },
+        {
+          "name": "Bean Counter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/9952383df288d794e9ed443f05f9dc9dcde3b9db.jpg"
+        },
+        {
+          "name": "A Walk in the Park",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/5acb55414f4679ba89319d3f631c9bdf5a6fd265.jpg"
+        },
+        {
+          "name": "Brick by brick",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/1669d5fc91567407a41bdcdc68b58bd1de401d4f.jpg"
+        },
+        {
+          "name": "Have your cake and eat it",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/f60dba0ce28e81424de4b378c0e6a40783a8ee73.jpg"
+        },
+        {
+          "name": "Puzzleton Punch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/aba06dca390537bb428c0d7df99a6949ed401c60.jpg"
+        },
+        {
+          "name": "Reservation confirmed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/ce1fb07eb933b5759adb2ad5c6b7645be0a5905b.jpg"
+        },
+        {
+          "name": "Stop and smell the roses",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/9f0e02218c34a95d34629eb958aafc40f8eac8c1.jpg"
+        },
+        {
+          "name": "Wide Berth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/369620323396f794875e05e650450e888d726a0c.jpg"
+        },
+        {
+          "name": "Hook, Line and Sinker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2333240/661127a1e896d8ed32c2564fcace16b4110bd507.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 11,
+      "total_negative": 4,
+      "total_reviews": 15
+    },
+    "type": "game"
+  }
+}

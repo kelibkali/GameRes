@@ -1,0 +1,75 @@
+{
+  "2334670": {
+    "name": "Battle Tea",
+    "steam_appid": 2334670,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>Battle Tea</strong> is a simple yet competitive word game where you fight against your friends until there's only one man standing. Play up to 8 players, or find people to play online. <i>Are you tea master you may think your are?</i><h2 class=\"bb_tag\" >How it works</h2>By turns, each player must find a word that contains a certain 3-letter key quickly. Additionally, if the word meets certain criteria, you can attack the rest of players or heal yourself (or both at the same time). Each words is valued by their letters, rarer letters have bigger values than common ones, ranging from 1 to 10.<h2 class=\"bb_tag\" >Available in various languages</h2>The game uses a <i>teapack</i> system, those are the actual languages you can play with.<br><strong>As of writting this, the game includes as vanilla the following languages:</strong><br>English, Spanish, French, Portuguese and Russian.<br>We are currently planning to add more in the future!<br>Furthermore, you can create your own custom teapacks using a .json file",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334670/header.jpg?t=1760631367",
+    "developers": [
+      "AntikoreDev"
+    ],
+    "publishers": [
+      "AntikoreDev"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

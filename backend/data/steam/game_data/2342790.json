@@ -1,0 +1,78 @@
+{
+  "2342790": {
+    "name": "The Wreck - Supporter Pack DLC",
+    "steam_appid": 2342790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "如果您喜欢《The Wreck》，您可以通过购买这个支持者包来支持我们！<br />\r\n<br />\r\n这个包包括：<br />\r\n<br />\r\n- 一个数字开发手册（介于艺术画册和开发人员日志之间）。这个文件将会向您介绍游戏的起源，第一份原型，人物和更多内容！<br />\r\n- 5个桌面壁纸，可以个性化您的电脑<br />\r\n- 5个手机壁纸，可以美化您的手机<br />\r\n<br />\r\n我们希望您会喜欢它们！您可以在此处找到这些文件：common\\The Wreck\\The Wreck - Supporter Edition",
+    "supported_languages": "英语<strong>*</strong>, 法语, 德语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2342790/header.jpg?t=1678809710",
+    "developers": [
+      "The Pixel Hunt"
+    ],
+    "publishers": [
+      "The Pixel Hunt"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

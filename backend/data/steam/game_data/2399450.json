@@ -1,0 +1,66 @@
+{
+  "2399450": {
+    "name": "Frosthaven: Official Companion",
+    "steam_appid": 2399450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Frosthaven Companion is a companion application meant to lower the setup time and maintenance while playing Frosthaven. Some of its key features are:<br />\r\n- Create multiple parties to maintain the state of multiple campaigns at once.<br />\r\n- Allow for multiple devices to synchronize at the same time, allowing remote play, or everyone around the table to see all stats without sharing their device.<br />\r\n- Choose which scenario the group wants to play, and the application will automatically set up all the monster stats, monster ability decks, and loot deck for that scenario.<br />\r\n- Mark each scenario as started or completed, and track your progress.<br />\r\n- The application supports opening sections in a scenario. Doing so will automatically instantiate the monsters (normal &amp; elite) in that section.<br />\r\n- At any point you can draw from the Monster or Ally Attack Modifier deck, or from an extra Boss deck.<br />\r\n- Input the initiative of your heroes and draw Monster Ability cards for each of the monsters. Heroes and enemies will automatically be sorted by initiative, and the ability cards of each monster drawn and revealed.<br />\r\n- Support for auto calculations of move and attack values on Monster Ability Cards.<br />\r\n- Maintains the hp, xp, loot, and the various conditions of each of your heroes and monsters easily.<br />\r\n- Create Summons from your Hero, and track their various statistics.<br />\r\n- Create NPCs and set their name and hp, as well as their conditions. You can also input their initiative or snooze them.<br />\r\n- Maintains the status of the 6 Elements.<br />\r\n- Stop at any point, and resume your session in the state it was when you left.<br />\r\n- Undo or redo any actions between each round.<br />\r\n- If you do not want to input player initiatives, you can disable player initiative or even hide players.<br />\r\n- If you do not want to play a pre-made scenario, create your own custom session by adding any monsters from the game.<br />\r\n- The app takes into account the majority of the scenario and sections special cards and hp for monsters.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399450/header.jpg?t=1685965603",
+    "developers": [
+      "Lucky Duck Games"
+    ],
+    "publishers": [
+      "Lucky Duck Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

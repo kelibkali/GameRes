@@ -1,0 +1,63 @@
+{
+  "2258040": {
+    "name": "World of Turtle",
+    "steam_appid": 2258040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>World of Turtle</strong> is a thrilling and quirky puzzle game that will take you on a wild ride through 100 levels of turtle adventure.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Prepare to face collapsing grounds, slippery ice, and encounter a variety of wacky creatures such as penguins to kick and gorillas to dodge. Your mission is to guide Babo Turtle through each level, collecting all the delicious fruits along the way and ultimately reaching the helicopter landing zone for a triumphant escape.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Controls:</strong></p><p class=\"bb_paragraph\" >Play the game using either a keyboard or a gamepad for maximum comfort and convenience.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2258040/extras/153fc1cb3fcc050e8b7a1f0ddd518335.avif?t=1741513940\" width=470 height=314 /></span></p><p class=\"bb_paragraph\" ><strong>Background</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >World of Turtle is a passion project that originated from my early coding days. It began as a simple game with ASCII graphics programmed in Basic. Over time, it evolved with improved sound and graphics, and a few years ago, it was even ported to Flash, allowing for expanded features and a total of 100 levels. Now, I'm thrilled to announce that the game is undergoing a complete remake using TypeScript and WebGL, and it's making its debut on Steam.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2258040/extras/dc24ca5dfb72495ff01bd00353ec0d2c.avif?t=1741513940\" width=436 height=288 /></span></p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >- Embark on a challenging journey through 100 levels across 10 distinct stages, each with its own unique obstacles and surprises.</p><p class=\"bb_paragraph\" >- Encounter breakable blocks, ice blocks, transporting turtles, rolling carpets, crocodiles, penguins, and gorillas as you navigate the captivating world.</p><p class=\"bb_paragraph\" >- Your progress is automatically saved, so you can pick up where you left off whenever you want.</p><p class=\"bb_paragraph\" >- Gain 5 passes to skip levels, but don't worry—you can earn them back by replaying and conquering the levels you skipped.</p><p class=\"bb_paragraph\" >- Immerse yourself in the game's delightful soundtrack with one dedicated song per stage. Unlock the Jukebox to replay the songs at your leisure.</p><p class=\"bb_paragraph\" >- Enjoy seamless gameplay with gamepad support, ensuring a smooth and immersive experience.</p><p class=\"bb_paragraph\" >- Compatible with both AZERTY and QWERTY/Z keyboards, accommodating players worldwide.</p><p class=\"bb_paragraph\" >- Stay tuned for an upcoming walkthrough, offering helpful tips and strategies to conquer even the trickiest levels.</p><p class=\"bb_paragraph\" >- Discover exciting surprises and bonuses awaiting you at the end of your turtle-filled journey.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Languages:</strong></p><p class=\"bb_paragraph\" >Choose from multiple language options, including Korean, French, and English, to fully enjoy the game in your preferred language.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With World of Turtle, get ready to embark on an unforgettable adventure filled with clever puzzles, whimsical characters, and hours of delightful gameplay. Are you up for the challenge?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Developer Notes:</p><p class=\"bb_paragraph\" >This is originally a web game was made in HTML5 using JavaScript, WebGL, React. It  was ported using NWJS.</p><p class=\"bb_paragraph\" >The demo is still available online in sites like Newgrounds.</p>",
+    "supported_languages": "英语, 法语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2258040/header.jpg?t=1741513940",
+    "developers": [
+      "Jack Le Hamster",
+      "Vincent Le Quang"
+    ],
+    "publishers": [
+      "Dobuki Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

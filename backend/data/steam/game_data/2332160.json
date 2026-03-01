@@ -1,0 +1,61 @@
+{
+  "2332160": {
+    "name": "GPU Terrain Painter",
+    "steam_appid": 2332160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Unleash your creativity and paint realistic terrains in just a few minutes !<br><br>Terrain Painter is an interactive, GPU-accelerated terrain painting software that allows you <br>to design stunning landscapes in real-time !<br><br>Each brush literally &quot;paints&quot; the selected matter (rock, lava, sand, water, ..) on ground to get an immediate realistic result !<br><br>With features such as rain, erosion, volcanic eruptions, each brush stroke adds a new layer of realism, from sand dunes to raging rivers !<br><br>Designing custom environments that look and feel real has never been easier !<br><br><strong>Features</strong><br>• Interactive painting of natural terrains !<br>• Physical brushes (sand, lava, water)<br>• Classic brushes (raise, dig, smooth, smudge, ..)<br>• Multi-layers, merges layers<br>• Interactive simulation<br>• Advanced lava simulation<br>• Erosion, matter transport <br>• HD rendering<br>• GPU accelerated (OpenGL 4.6)<br>• Native seamless tiling !<br>• Textures UV édition<br>• Export to UHD 8K !<br>• 8/16/32 bits PNG import/export <br>• Export of diffuse, height, normal, metallic and uv maps<br>• Export of complete terrain mesh/scene in OBJ, ASE and FBX<br><br><strong>Useful shortcuts</strong><br>• <strong>Mouse Middle</strong> Pan View<br>• <strong>Alt+Middle</strong> Rotate View<br>• <strong>Ctrl+Scroll</strong> Changes Brush Layer<br>• <strong>Shift+Scroll</strong> Changes Brush Strength<br>• <strong>Alt+Scroll</strong> Changes Brush Size<br>• <strong>Ctrl+B</strong> Change Brush Shape<br>• <strong>Ctrl+G</strong> Draw Cursor<br>• <strong>Ctrl+E</strong> Objects Selection<br>• <strong>Break</strong> Play/Pause Simulation<br>• <strong>+-</strong> Changes Simulation Speed<br>• <strong>*/</strong> Multiply/Divide Layer Height<br>• <strong>Ctrl+U</strong> Show Color Dialog<br>• <strong>Ctrl+I</strong> Inverse Layer (height)<br>• <strong>Space</strong> Convert Layer to Ground<br>• <strong>Shift+Space</strong> Merge to Lower Layer<br>• <strong>Shift+B</strong> Blur Layer<br>• <strong>Shift+N</strong> Sharpen Layer<br>• <strong>T</strong> Top View<br>• <strong>P</strong> Perspective View<br>• <strong>C</strong> Center View on Cursor<br>• <strong>N</strong> Normal Map View<br>• <strong>W</strong> WireFrame View",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2332160/header.jpg?t=1736599178",
+    "developers": [
+      "François Sahy"
+    ],
+    "publishers": [
+      "François Sahy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 24 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "2375020": {
+    "name": "HexBat",
+    "steam_appid": 2375020,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This is a 2 player turn-based strategy game. Think chess meets turn-based RPGs.<br />\r\n<br />\r\nEach player's team is made up of one character from each of these positions:<br />\r\n-Forward (Tank) - Usually has high health and damage while also being the slowest character.<br />\r\n-Flex (DPS) - Is flexible with how each character plays but is usually the fastest character.<br />\r\n-Support (Healer) - Has support abilities that enable other characters.<br />\r\n<br />\r\nCharacters take turns depending on their speed and generate Action Points at the start of each of their turns.<br />\r\n<br />\r\nAction Points (AP) are used for either Actions (Attacks / Healing) or Moving (1 AP per tile).<br />\r\nAny unspent Action Points are carried over to the character's next turn up to a maximum of 6 AP.<br />\r\n<br />\r\nHex Grids consist of up to a maximum of 25 tiles of Five different types:<br />\r\n-Spawn: Spawn point for a Character (turns into a grass tile during game).<br />\r\n-Grass: Basic tile with no direct effects.<br />\r\n-Mud: Costs an additional AP to traverse.<br />\r\n-Molten: Take 10 Damage at the end of Character's turn.<br />\r\n-Corrupt: Doubles all Damage Character receives.<br />\r\n<br />\r\nYou can create your own custom Hex Grids with the in-game editor.<br />\r\n<br />\r\nVictory Condition:<br />\r\nFirst player to kill 2 characters of the Opponent's team.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2375020/header.jpg?t=1686334084",
+    "developers": [
+      "Rienovie"
+    ],
+    "publishers": [
+      "Rienovie"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

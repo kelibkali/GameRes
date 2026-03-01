@@ -1,0 +1,72 @@
+{
+  "2268970": {
+    "name": "Underworld Idle - Extra Tokens",
+    "steam_appid": 2268970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Extra Tokens is a special offer in the form of DLC for the game Underworld Idle.<br />\r\n<br />\r\nWith the purchase of this DLC you will receive:<br />\r\n5000 tokens<br />\r\nx2 tokens when searching in the junkyard",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268970/header.jpg?t=1673020083",
+    "developers": [
+      "Aleksandr Golovkin"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 13600,
+      "final": 13600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 136.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

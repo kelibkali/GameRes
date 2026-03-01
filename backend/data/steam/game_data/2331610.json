@@ -1,0 +1,74 @@
+{
+  "2331610": {
+    "name": "AI萌娘",
+    "steam_appid": 2331610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>查看更多演示视频 </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >软件介绍</h2><p class=\"bb_paragraph\" >AI萌娘(ChatWaifu)是一款完全本地部署的AI语音桌宠，无需联网，私密畅玩。支持一键下载各种最新AI大语言模型，支持N显卡GPU加速推理，即使在纯CPU的低端电脑上也能快速响应；内置完全本地部署的毫秒级语音朗读引擎无需联网，且支持GPTSoVITS2的3秒音色克隆，支持创意工坊下载和分享各种角色音色。她甚至还支持自动调用工具来实现联网、报新闻、查天气、操作电脑，支持创意工坊，充满无限可能！ </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >完全本地部署的AI语音桌宠，无需联网，私密畅玩</p></li><li><p class=\"bb_paragraph\" >支持一键从创意工坊或AI模型库导入各种最新的主流AI大语言模型，完全本地运行，无额外费用</p></li><li><p class=\"bb_paragraph\" >支持使用Nvidia等显卡甚至是CPU来快速聊天，即使在低端电脑上也能快速响应</p></li><li><p class=\"bb_paragraph\" >内置毫秒级实时语音引擎来实现语音聊天，支持语音唤醒和语音命令，完全本地运行，无额外费用</p></li><li><p class=\"bb_paragraph\" >支持GPT-SoVITS2高质量语音聊天，秒级流畅响应，支持3秒语音克隆，支持从创意工坊一键下载和分享各种音色，完全本地运行，无额外费用</p></li><li><p class=\"bb_paragraph\" >支持直接导入MMD等3D模型角色，无需转换</p></li><li><p class=\"bb_paragraph\" >支持自定义服装和AI自动换装</p></li><li><p class=\"bb_paragraph\" >支持自定义动作姿势和AI自由切换</p></li><li><p class=\"bb_paragraph\" >支持大语言模型Function-Call，能本地自动调用工具来辅助完成信息查询和执行脚本任务，极大扩展AI的能力，不仅能聊天还能帮您处理事务 </p></li><li><p class=\"bb_paragraph\" >支持自定义工具来从网络查询天气或新闻等任何信息，甚至还支持执行JavaScript脚本，为AI提供无限扩展可能</p></li><li><p class=\"bb_paragraph\" >深度优化的三渲二引擎，出色的二次元动漫风格化渲染效果</p></li><li><p class=\"bb_paragraph\" >支持创意工坊</p></li><li><p class=\"bb_paragraph\" >支持多国语言界面</p></li><li><p class=\"bb_paragraph\" >深度优化资源占用低</p></li><li><p class=\"bb_paragraph\" >可以和其他游戏，软件或动态壁纸一起使用</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/header.jpg?t=1740796459",
+    "developers": [
+      "XDesktopSoft"
+    ],
+    "publishers": [
+      "XDesktopSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 17,
+      "total_negative": 17,
+      "total_reviews": 34
+    },
+    "type": "game"
+  }
+}

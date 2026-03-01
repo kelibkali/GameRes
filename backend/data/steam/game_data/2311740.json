@@ -1,0 +1,63 @@
+{
+  "2311740": {
+    "name": "Ugano-Game Demo",
+    "steam_appid": 2311740,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This demo is intended solely for testing purposes and does not include final content such as the story mode, nor does it represent the full version of the game.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311740/header.jpg?t=1721716895",
+    "developers": [
+      "Vlatko Dojchinoski",
+      "Jens Krückel"
+    ],
+    "publishers": [
+      "Jens Krückel"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

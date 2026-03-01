@@ -1,0 +1,86 @@
+{
+  "2194120": {
+    "name": "山河伏妖录-山河苍生",
+    "steam_appid": 2194120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "新可用角色：<br />\r\n孟钟：<br />\r\n背景：风流的画匠，所绘之物皆栩栩如生，似要破图而出。<br />\r\n技能：绘影：战斗开始召唤一张山河图，使用技能可以描绘一个敌方目标，每描绘一个不同妖兽，永久加强山河图。<br />\r\n<br />\r\n木柯：<br />\r\n背景：中年的汉子，一副农民打扮，但从未有人见过其何时耕种过。<br />\r\n技能：地脉（被动）：降低建筑所需的威望和灵气1点。<br />\r\n<br />\r\n新门派和武功：<br />\r\n朱色堂<br />\r\n星曜会下属四堂之一，以修复天道为己任。<br />\r\n<br />\r\n怒焰（被动）：受到攻击时对来源叠加5层点燃。<br />\r\n<br />\r\n天火：每回合对所有敌方单位叠加5点点燃。<br />\r\n<br />\r\n饮火：将所有敌方单位的点燃效果移至自身，并在当回合增加等量攻击力。<br />\r\n<br />\r\n火种：目标每层点燃效果受到1点阳性伤害，若火种击败目标，则叠加点燃时额外增加1层。<br />\r\n----------<br />\r\n白骨洞<br />\r\n人迹罕至的山洞，鬼气森森令人不寒而栗。<br />\r\n<br />\r\n勾魂（被动）：战斗开始时叠加魂魄，每次战斗胜利后提升1点。<br />\r\n<br />\r\n恶念：为目标叠加3层恶念，增加目标受到的伤害20%，受到伤害移除1层。<br />\r\n<br />\r\n凶地（被动）：每回合对所有单位造成体力最大值10%的阴性伤害。<br />\r\n<br />\r\n阴魂不散：消耗所有魂魄召唤一个阴魂，根据消耗的魂魄总量决定阴魂的能力。<br />\r\n----------<br />\r\n飞剑门<br />\r\n女侠东方寒创立的门派，剑法之快堪称一绝。<br />\r\n<br />\r\n阴阳剑：造成2次普通攻击，每次造成攻击50%的阴性和阳性伤害。<br />\r\n<br />\r\n三星剑：顺序使出三招剑法。<br />\r\n<br />\r\n踏波诀（被动）：每次普通攻击提升1点速度。<br />\r\n<br />\r\n快剑：造成普通攻击，造成相当于当前50%速度值的物理伤害，使用后下回合眩晕一回合。<br />\r\n----------<br />\r\n甘泉寺<br />\r\n山间的小庙，只有一名小僧打扫，却也不甚破败。<br />\r\n<br />\r\n拈花指：对目标叠加1层顿悟，5层后造成5倍攻击力的阳性伤害，清除所有顿悟。<br />\r\n<br />\r\n七步生莲（被动）：开战时叠加7层莲花，每层在攻击敌人时造成7点阳性伤害。<br />\r\n<br />\r\n梦象功：下回合增加自身50%伤害。<br />\r\n<br />\r\n唯我独尊：降低场上所有友方单位50%攻击力并转移给自身，持续1回合。",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194120/header.jpg?t=1666576827",
+    "developers": [
+      "SilverBlade"
+    ],
+    "publishers": [
+      "SilverBlade"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

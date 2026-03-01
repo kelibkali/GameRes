@@ -1,0 +1,106 @@
+{
+  "2167800": {
+    "name": "赛博地下城",
+    "steam_appid": 2167800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个赛博朋克风格的角色扮演游戏。玩家不需要大量的操作，只需要思考一些策略就能完成胜利。<br />\r\n<br />\r\n游戏共有6个职业可供玩家选择。<br />\r\n分别是刀锋，魔能，医师，追猎，毒师，圣骑。<br />\r\n每个职业有不同的特色。<br />\r\n刀锋：擅长近战和群体攻击。<br />\r\n魔能：远程，爆发性群体攻击职业。<br />\r\n医师：强大的恢复能力，团队作战中能发挥出优秀的能力。<br />\r\n追猎：高爆发远程攻击职业。<br />\r\n毒师：强大的群体攻击职业。<br />\r\n圣骑：强大的恢复能力，适合团队作战。<br />\r\n<br />\r\n游戏中有三种不同的任务。<br />\r\n每种任务可以选择不同的难度。<br />\r\n每种任务完成胜利后可以获得不同的奖励。<br />\r\n<br />\r\n打造系统。<br />\r\n在任务中获得的道具，可以用于铸造不同的装备。<br />\r\n有概率获得传奇装备。<br />\r\n<br />\r\n游戏特色：<br />\r\n每个职业拥有8个技能。但玩家只可以选择4种技能来使用。这就要求玩家根据战斗的需要搭配不同的技能。<br />\r\n每个职业都拥有一个变身技能，可以使自身变的更强大。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167800/header.jpg?t=1665742347",
+    "developers": [
+      "okyakusama"
+    ],
+    "publishers": [
+      "okyakusama"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 480,
+      "discount_percent": 60,
+      "initial_formatted": "¥ 12.00",
+      "final_formatted": "¥ 4.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 36,
+      "highlighted": [
+        {
+          "name": "传奇装备",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/837258ff84ec5ffeba8f727da56d8f20cc99e5ed.jpg"
+        },
+        {
+          "name": "传奇套装",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/63f5625042480c9cfbc85578f29c2492478c6cc6.jpg"
+        },
+        {
+          "name": "幻化之境",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/0bdbc83d0147b6d63fc4117539f8ee70291f5d5e.jpg"
+        },
+        {
+          "name": "铸造",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/344614c4bdf7187182cc4dae6fd1d888de261108.jpg"
+        },
+        {
+          "name": "铸造武器",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/9e1012279de197a35957a90eaee6fed729fc979d.jpg"
+        },
+        {
+          "name": "铸造衣服",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/8713732eaf3235460c7fdd10dd3f1f5c9b0de20a.jpg"
+        },
+        {
+          "name": "铸造腰带",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/dde6ff45ad158f937de5fbd34111022fcf08fc3f.jpg"
+        },
+        {
+          "name": "铸造头盔",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/fc585ec51c4b2c20da0708272831c30d8845b77e.jpg"
+        },
+        {
+          "name": "铸造裤子",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/03e1c4484865eeda9db0ced0c21c54e5a897fcc8.jpg"
+        },
+        {
+          "name": "铸造项链",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2167800/ffb6f188bdb6e4c6f06ff5cb6623e7c130c96c53.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 0,
+      "total_negative": 4,
+      "total_reviews": 4
+    },
+    "type": "game"
+  }
+}

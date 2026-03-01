@@ -1,0 +1,66 @@
+{
+  "2189000": {
+    "name": "BoomSheets",
+    "steam_appid": 2189000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>BoomSheets™</strong> is a tool designed for indie gamedevs, engine programmers, content creators, and even seasoned game developers looking for a simple tool to create animations. Equipped with a magic wand tool, image atlas compression, and user-defined &quot;attributes&quot; to read as custom code, <strong>BoomSheets™</strong> is both easy to learn and easy to master!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The (.ani) exported file is a human-friendly and readable document format for 2D animations referencing a source texture (aka atlas or &quot;spritesheet&quot;). These documents can be edited by hand which is useful for community-driven content and is already used by the <strong>Blast Game Engine™</strong>. Unlike other animation programs that overwhelm the user with proprietary file formats, too many buttons, and a steep learning curve,<strong> BoomSheets™</strong> is the ultimate tool for a free-to-use file format that lets you focus entirely on animating and integrating swiftly into your game!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>BoomSheets™</strong> also comes with configurable programmer-friendly options like streaming your animation directly to your game or custom game engine to see instant updates!  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >What's not to love? Start with <strong>BoomSheets™</strong> and start making your animations today! </p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189000/header.jpg?t=1765838506",
+    "developers": [
+      "James King"
+    ],
+    "publishers": [
+      "ProtoComplete"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

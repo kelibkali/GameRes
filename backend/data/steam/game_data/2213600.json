@@ -1,0 +1,66 @@
+{
+  "2213600": {
+    "name": "Medusa",
+    "steam_appid": 2213600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Help Medusa find a foregone creature called the Ancient Sludge. In this classic-style Metroidvania you will explore eight unique regions, find items with unique abilities and learn to cast various spells. Each location contains a unique set of enemies. Completing the game at 100% should take at least 5hours.<br><br>Example of a map system:<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/86328c915b8b79623bb71a499d1a6621.poster.avif?t=1669747060\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/86328c915b8b79623bb71a499d1a6621.webm?t=1669747060\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/86328c915b8b79623bb71a499d1a6621.mp4?t=1669747060\" type=\"video/mp4\"></video></span><br><br><br>Example of gameplay:<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/5f900369c0cf14e87ef6bfdb44881511.poster.avif?t=1669747060\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/5f900369c0cf14e87ef6bfdb44881511.webm?t=1669747060\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/extras/5f900369c0cf14e87ef6bfdb44881511.mp4?t=1669747060\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213600/header.jpg?t=1669747060",
+    "developers": [
+      "radgu8"
+    ],
+    "publishers": [
+      "radgu8"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

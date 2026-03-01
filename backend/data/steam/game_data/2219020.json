@@ -1,0 +1,110 @@
+{
+  "2219020": {
+    "name": "SOCCER BOARD",
+    "steam_appid": 2219020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Soccer Board - is a turn-based board game. Football based game for one player. Move around the board, pass the ball, score goals and don't let your opponent take the ball.<br />\r\neach player on the board has a certain amount of movement and distance to kick the ball, so you must use tactics to score goals and win matches.<br />\r\nPlay soccer on a board in this tactical movement game.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219020/header.jpg?t=1683825786",
+    "developers": [
+      "Bruno Esteves"
+    ],
+    "publishers": [
+      "Bruno Esteves"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "First victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/5097c683fe047fc4a5971ba20c9af42c97f862f4.jpg"
+        },
+        {
+          "name": "long kick",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/22b71a93b1b5f0a2668210bdc3006cba43373147.jpg"
+        },
+        {
+          "name": "Goalkeeper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/e5ba19637422ae40bdc80a26e77726c8f9a5db78.jpg"
+        },
+        {
+          "name": "10 x 11",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/644f27989d27e036ca4745ec318a22d346565a44.jpg"
+        },
+        {
+          "name": "10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/945e3959c4aa7233b582b2f423c6e7bf6f2f1f2f.jpg"
+        },
+        {
+          "name": "Run a lot",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/5c589e916f2b65d189fd5e6bead90104fea0f8f4.jpg"
+        },
+        {
+          "name": "15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/0d893ea1e80647c1784132963f699a72b1d3ebd7.jpg"
+        },
+        {
+          "name": "20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/20cc7ec424a251bd0976a723a15e93d511cb0980.jpg"
+        },
+        {
+          "name": "Star collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/76deabc676f98e5e514383c124b17682056eafd2.jpg"
+        },
+        {
+          "name": "Fireball",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2219020/5ac63a635a37f660e6d713c6fcfe3cf787e470f4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

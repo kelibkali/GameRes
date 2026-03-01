@@ -1,0 +1,54 @@
+{
+  "2129600": {
+    "name": "The Bird",
+    "steam_appid": 2129600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a simulation where you control a Parrot with the keyboard. You can walk on the ground, fly in the air and dive into the water. Fly around with the bird and discover different Islands in a large landscape.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/header.jpg?t=1663314830",
+    "developers": [
+      "Nevsram"
+    ],
+    "publishers": [
+      "Nevsram"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

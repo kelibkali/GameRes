@@ -1,0 +1,82 @@
+{
+  "2151450": {
+    "name": "Quack my Duck",
+    "steam_appid": 2151450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151450/extras/58a0396eaeb573148ca6b0a5d581f132.webp?t=1745944526\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151450/extras/58a0396eaeb573148ca6b0a5d581f132.poster.avif?t=1745944526\" class=\"bb_img\" width=620 height=453 /></picture></span><br><br>Get ready to go on an exciting adventure in search of pretty ducks in an amazing city! Find all the hidden ducks in this colorful game, and restore peace to the city. <br><br>Game Features:<br><br>A wide variety of different ducks to find<br>Unique art style<br>Simple yet memorable storyline<br><br>Good Duck!<br><br><i>trailer music:<br>Sneaky Snitch by Kevin MacLeod <br>Creative Commons — Attribution 3.0 Unported — CC BY 3.0</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151450/header.jpg?t=1745944526",
+    "developers": [
+      "Clirgo Games"
+    ],
+    "publishers": [
+      "Clirgo Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 12 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

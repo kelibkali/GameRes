@@ -1,0 +1,102 @@
+{
+  "2243070": {
+    "name": "Kodama Battles",
+    "steam_appid": 2243070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243070/extras/8233143c2e9078b2bb793256a8cca084.poster.avif?t=1767781036\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243070/extras/8233143c2e9078b2bb793256a8cca084.webm?t=1767781036\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243070/extras/8233143c2e9078b2bb793256a8cca084.mp4?t=1767781036\" type=\"video/mp4\"></video></span><br>Kodama Battles 是一个单人自动战棋/自走棋游戏，具有流派混合元素，游戏背景轻松愉快。<br><br><ul class=\"bb_ul\"><li><strong>打造你的团队：</strong> 收集、布置和升级木灵，构建强大的团队。木灵有三个等级（一星、二星、三星）。许多木灵还有最终等级，可以与另一个木灵融合，创造出巨型木灵。<br><br></li><li><strong>双重战场：</strong> 每场战斗中，团队被分为进攻小队和防守小队。需要谨慎的团队管理，在有效进攻的同时留下足够的防守以求生存。<br><br></li><li><strong>独特能力：</strong> 大多数木灵具有一种直接但具有影响力的能力。巨型木灵具有改变游戏的能力。<br><br></li><li><strong>连击：</strong> 富有影响力和多样化的能力导致了许多协同作用和克制。尝试不同的玩法以发现新的方法。<br><br></li><li><strong>难度递增：</strong> 在完成一次运行后解锁新的难度。第一个难度适合任何人。但需要仔细的团队管理和位置安排才能战胜更高的难度。<br><br></li><li><strong>玩法定义路径：</strong> 所选择的路径将带来进一步的自定义（修改掉落率，添加定位选项……），并将在每次运行中导致独特的构建。<br><br></li><li><strong>宁静策略：</strong> 月光照耀下的森林平静宜人，非常适合放松和制定策略。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 印度尼西亚语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243070/header.jpg?t=1767781036",
+    "developers": [
+      "VicWaku"
+    ],
+    "publishers": [
+      "VicWaku"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4600,
+      "final": 4600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 46.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "Welcome to Kodama Battles!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/814f22ef388852d2b44a12bfa9d6d6d5262c01ca.jpg"
+        },
+        {
+          "name": "First teachings",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/d9d542bbe66fc458859864aa44958a1795f14a4d.jpg"
+        },
+        {
+          "name": "Big Boi",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/de7232aa29d5c2ccf0eeab62a7750dc276b77e01.jpg"
+        },
+        {
+          "name": "Yolo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/d226702d281a0b40709cda4c609f4cadda99f38a.jpg"
+        },
+        {
+          "name": "All over the place",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/6a6907534287a9088969a55833f92b7e0ecda3c0.jpg"
+        },
+        {
+          "name": "Progress is made",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/6580c23e53cc426c6ec9e0ebe19810f9a42d3505.jpg"
+        },
+        {
+          "name": "Beyond normal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/2657c2c4fd6a3220bfef266dfcfb8c9107df7eb8.jpg"
+        },
+        {
+          "name": "Finally",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/b07ab6a6c42aad7a120adcedae206d8bd4277e65.jpg"
+        },
+        {
+          "name": "Now what?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/7b24f2da95997a5ba03a0cb512e99fd3dedbae89.jpg"
+        },
+        {
+          "name": "10 steps closer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2243070/6efad2e3e1c952d1b406b5ae6103f5e9c3d2ae78.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

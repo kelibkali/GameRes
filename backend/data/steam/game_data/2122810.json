@@ -1,0 +1,110 @@
+{
+  "2122810": {
+    "name": "Alpaclands",
+    "steam_appid": 2122810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122810/extras/0d2bb344bc577c2420e345b8eb7ec103.avif?t=1666292424\" width=616 height=98 /></span><br>Alpaclands —这是创造不寻常景观的一种放松策略。您必须在灰色的小岛上放置多色植物，逐渐让这些岛屿恢复美丽的颜色。通过放置植物，你得分。 这些点让您可以放置更多植物，并用可爱的羊驼填充岛屿。<br>游戏是为放松而设计的。 你不需要在任何地方着急，随时可以分心，考虑工作的结果，冷静地考虑下一步。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122810/extras/b0373d35dbce8cdc6d36104cfef17762.poster.avif?t=1666292424\" width=616 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122810/extras/b0373d35dbce8cdc6d36104cfef17762.webm?t=1666292424\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122810/extras/b0373d35dbce8cdc6d36104cfef17762.mp4?t=1666292424\" type=\"video/mp4\"></video></span><br>通过收集积分，您可以获得硬币，您可以为此打开新类型的植物。<br>这将使您能够以更多种类填充岛屿！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122810/header.jpg?t=1666292424",
+    "developers": [
+      "LostVolBytes"
+    ],
+    "publishers": [
+      "LostVolBytes"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "First plants",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/7fe2449535f0710f1a8f9f496a35699b27023b85.jpg"
+        },
+        {
+          "name": "More plants",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/0e51530a9a36cfab76d39d7152113162f5e12a1e.jpg"
+        },
+        {
+          "name": "Even more plants",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/d6ce47e2011b77980f296690bb3d03218a6b4d0b.jpg"
+        },
+        {
+          "name": "Plant expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/ce8bb03d126d3e486a5302d9012f3889cdbd96e9.jpg"
+        },
+        {
+          "name": "Alpacas expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/240feac0a2444fb69333a39b04a36f2ae317d2d1.jpg"
+        },
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/6e42f7d8eb49b45dc3f5f5e7a8f0cac12cbf2b3b.jpg"
+        },
+        {
+          "name": "Learner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/7977c06c8ab9ad6f2351f28f0ad5e9a8ca8b6aee.jpg"
+        },
+        {
+          "name": "Advanced",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/831dfee14f14b76a41920dbdf18cef9fc6fc90a1.jpg"
+        },
+        {
+          "name": "Professional",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/c2c9b79e0822a78612224b13f3c0cbc569de8dd0.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2122810/0f91dbcb9df7c5204c9e94e491a5e7faec7bc51a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

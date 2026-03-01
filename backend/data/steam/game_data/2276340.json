@@ -1,0 +1,54 @@
+{
+  "2276340": {
+    "name": "Binarion",
+    "steam_appid": 2276340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Binarion is a mini game, a numeric puzzle with new and original concept.<br />\r\nYou are presented with delta grid in which each tile is a bit (semi-product) of the multiplication of two binary numbers.<br />\r\nBits of binary number A are the most left edge tiles of the grid, while bits of binary number B are most right edge tiles of the grid. Top is lowest bit times lowest bit.<br />\r\nYour goal is to click on most left and most right tiles to set or clear them. All inner tiles of the grid will be automatically adjusted and you do not need to click on them.<br />\r\nAs a help, on the right of the grid you see row sum pattern. The pattern tells you how many enabled bits (semi-products) need to be in particular row of the grid if the grid is to be correctly filled and reveal primes.<br />\r\nWhile the grid is wrong or unfilled, for each row you will see red number that tell you how much set bits this row is missing. If this indicator is negative, it means you have excess amount of set bits. Because factors are always primes there is always only one correct solution of entire grid, plus left to right mirror of it.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/header.jpg?t=1679645443",
+    "developers": [
+      "Radivoj Radivojevic"
+    ],
+    "publishers": [
+      "Radivoj Radivojevic"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

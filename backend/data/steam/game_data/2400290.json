@@ -1,0 +1,106 @@
+{
+  "2400290": {
+    "name": "富甲天下2",
+    "steam_appid": 2400290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >经典三国大富翁游戏，老玩家回味纪念版。 </h2><br>有四位主公可供选择，分别是刘备、曹操、孙权及董卓。这四个角色各自拥有不同的属性，最多可采四人同玩，谁先占领所有的城池便可一统天下。<br><br>可选的战斗模式仍是富甲天下系列经典的「单挑」、「野战」及「攻城」。<br><br>城池经营增加了「建物」设计，如「市集」可提高税金收入、「护城河」可以增加城池的防御力、「粮仓」可加快人口成长、「练兵场」可训练士兵，「兵营」可进行征兵，「书院」可增加驻城武将的智力。<br><br>游戏中有许多有趣的计谋，像是使敌方主公原地停留一次的「故步自封」、引诱对手走到您指定的地方的「调虎离山」、破坏敌方城中的一项建设的「过河拆桥」、将对手的武将挖角过来的「欲擒故纵」等，这些计谋可在锦囊铺中买到或由随机事件获得。<br><br>新增的有趣及特殊的场景包括了赌场、聚贤庄、医馆等。如果爱将的智商不够，还可以到经阁买经书以增加智力。",
+    "supported_languages": "繁体中文<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400290/header.jpg?t=1695019118",
+    "developers": [
+      "T-Time Technology CO., LTD."
+    ],
+    "publishers": [
+      "T-Time Technology CO., LTD."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "黃巾之亂",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2400290/809f4f3d42d785b3c0876e37e38f4c6f76cfcf27.jpg"
+        },
+        {
+          "name": "群雄割據",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2400290/074ab3e843dcbd1b0f93572725adeeedbc232f50.jpg"
+        },
+        {
+          "name": "一統中原",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2400290/bc58c7405efa461c728c7fb502d13a191386d2a8.jpg"
+        },
+        {
+          "name": "富甲天下",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2400290/ab4717802f78fed188d5429b414e8288e14279f2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 21,
+      "total_negative": 0,
+      "total_reviews": 21
+    },
+    "type": "game"
+  }
+}

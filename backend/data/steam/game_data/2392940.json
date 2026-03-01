@@ -1,0 +1,83 @@
+{
+  "2392940": {
+    "name": "Ash of Gods: The Way Digital Art Book",
+    "steam_appid": 2392940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "获取由剧情驱动的回合制策略卡牌游戏，战斗场景均为手工打造的游戏。豪华版包含原声带和数字设定集！",
+    "supported_languages": "英语<strong>*</strong>, 俄语, 法语, 德语, 西班牙语 - 西班牙, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2392940/header_schinese.jpg?t=1682669562",
+    "developers": [
+      "AurumDust"
+    ],
+    "publishers": [
+      "AurumDust",
+      "Game Seer Ventures"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 990,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 33.00",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

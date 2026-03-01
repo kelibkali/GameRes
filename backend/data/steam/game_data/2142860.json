@@ -1,0 +1,86 @@
+{
+  "2142860": {
+    "name": "Neuro Horror",
+    "steam_appid": 2142860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Psychological horror in format of a visual novel, created using a neural network.</h2><br><br>The game is a text horror quest in which player is shown a story, by displaying text on the screen, accompanied by images, musical and sound environments.<br><br>The player can influence course of the game's history by answering simple questions.<h2 class=\"bb_tag\" >Meet the main characters of the story:</h2><br><br><strong>King</strong> - A brave and courageous hero who declared war on the Big Eye.<br><strong>A guy named Bumble</strong> - One of the king's friends, an explorer of other worlds.<br><strong>Mack</strong> - Lover of astral adventures. Almost died as a result of a psychological experiment with coins.<br><br>As they adventure, they encounter life, death, and borderline states.",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142860/header.jpg?t=1692637168",
+    "developers": [
+      "AK Studio"
+    ],
+    "publishers": [
+      "AK Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Book of Winds",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2142860/2b0ce16d363737c6078d77fbad12bd9126786c10.jpg"
+        },
+        {
+          "name": "Awareness",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2142860/dde1fda476ab7d4165fb38db62529b626cf497cf.jpg"
+        },
+        {
+          "name": "Stroll before battle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2142860/07c246b8ba1ba2349d908919813b9ea715efcb73.jpg"
+        },
+        {
+          "name": "New way",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2142860/ad3bd4e7913e2d8596a597d9285c79acbd38a5e5.jpg"
+        },
+        {
+          "name": "You win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2142860/495a1f74df84a887bb49c625c657313c09e782a2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

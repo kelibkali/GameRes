@@ -1,0 +1,94 @@
+{
+  "2244910": {
+    "name": "Squirrel University Simulator Demo",
+    "steam_appid": 2244910,
+    "required_age": 0,
+    "is_free": true,
+    "description": "松鼠大學模擬器是一款3d rpg類型的遊戲，以第三人稱角度遊玩，<br />\r\n可以參考待辦事項來解任務，最終任務是拿到畢業證書，場景如有雷同純屬巧合，但大部分的建築都只是裝飾而已。<br />\r\n<br />\r\n操作：<br />\r\nwasd: 移動<br />\r\ne: 互動<br />\r\nq: 結束互動<br />\r\nf: 打開背包<br />\r\nz: 待辦事項<br />\r\nesc: 選單<br />\r\n<br />\r\n商店系統和升級系統：<br />\r\n解任務可以拿到錢，可以拿來購買商品或是升級武器，你也可以販售手上的物品。<br />\r\n<br />\r\n腳踏車：<br />\r\n你可以在校園內騎腳踏車，但是請停在停車格內，不然會被拖吊走。",
+    "supported_languages": "英语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244910/header.jpg?t=1670909297",
+    "developers": [
+      "IvanHu"
+    ],
+    "publishers": [
+      "SquirrelUniversity"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "gpa: F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/f166fcea15feed090e39c7456b5be729948b3e19.jpg"
+        },
+        {
+          "name": "gpa: C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/3e4b0e1ecc379f2f3c6451647ab7256dc42b6992.jpg"
+        },
+        {
+          "name": "gpa: B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/2e3056b88d05b0d90e464a5f517fb0aac253330e.jpg"
+        },
+        {
+          "name": "gpa: A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/dbf70a149f1e291adee0274dc75f986d959f6501.jpg"
+        },
+        {
+          "name": "亂停車啊",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/1d51bcd7b8d9cb6dd3e5a92ec6a0c9110b2648ee.jpg"
+        },
+        {
+          "name": "危險駕駛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/d043b1c2d15bab90cf930491137fe79fe1b4f059.jpg"
+        },
+        {
+          "name": "你太快了吧",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/675f751abe5e2a58e90d7c0336eb253911d739ff.jpg"
+        },
+        {
+          "name": "鯊鯊！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/d31828b5ec28237b770fd4451daed344056b1df2.jpg"
+        },
+        {
+          "name": "早八體育課",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/f4101670b1313d286306e8b0ffe4b201c44caaf5.jpg"
+        },
+        {
+          "name": "這裡風好大",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244910/497957c8019c1091751ffdabcf89ba46efeae9ea.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

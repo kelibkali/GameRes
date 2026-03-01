@@ -1,0 +1,94 @@
+{
+  "2171530": {
+    "name": "Step By Step Hero",
+    "steam_appid": 2171530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A Walking Simulator Adventure in a randomized world where every step counts!<br />\r\n<br />\r\n- Mind your steps! Your steps decrease as you go: make sure you grab stepping flowers and other items so you don't run out!<br />\r\n<br />\r\n- Explore the world of Omrand made of five distinct biomes!<br />\r\n<br />\r\n- Increase your Heart Points to defeat evil creatures and face your ultimate foe: the Heart of the Corruption!<br />\r\n<br />\r\n- Meet friendly NPCs that can help you on your travels!<br />\r\n<br />\r\n- Gather Coins to buy items and various things!<br />\r\n<br />\r\n- Discover secrets and take on side quests!",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171530/header.jpg?t=1666599474",
+    "developers": [
+      "PixelSlop"
+    ],
+    "publishers": [
+      "PixelSlop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Coins, coins, coins!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2171530/9e05e70ea63bccc6200b97b077613f3638745f97.jpg"
+        },
+        {
+          "name": "Plague of the critters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2171530/bb88fc4cb74a8b2e5c1a5e76243fd8c35b3cad6f.jpg"
+        },
+        {
+          "name": "Gems hunter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2171530/9e23afe81a3f62cd7512c17e0f45296676f6e129.jpg"
+        },
+        {
+          "name": "Shepherd",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2171530/62cb79dbaebbfde0ecb9351287a27396819523af.jpg"
+        },
+        {
+          "name": "Hero!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2171530/c9b6f26942254105ff85e7b5716c58949cc3b449.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

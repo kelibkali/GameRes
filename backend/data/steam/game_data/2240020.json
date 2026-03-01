@@ -1,0 +1,50 @@
+{
+  "2240020": {
+    "name": "模拟足球 Demo",
+    "steam_appid": 2240020,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240020/db219e95d848876bc48da28bde99431596e552fc/header.jpg?t=1771842075",
+    "developers": [
+      "初稿"
+    ],
+    "publishers": [
+      "初稿"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

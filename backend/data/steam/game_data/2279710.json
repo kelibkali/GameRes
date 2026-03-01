@@ -1,0 +1,118 @@
+{
+  "2279710": {
+    "name": "Logicats",
+    "steam_appid": 2279710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>逻辑猫</strong><br><br>这是一款专为从未编码过的初学者设计的编程游戏。目标是通过阅读代码练习并理解基本编程概念。<br><br>该游戏采用友好的界面设计，使学习体验更有趣，帮助玩家更好地理解抽象概念。<br><br>它是一种有效的教育工具，可用于补充编程学习，因为初学者通过实践介绍抽象概念比通过复杂的文字更容易理解。这将导致一个<i>&quot;eureka&quot;</i>的时刻，并对学习产生更大的影响。<br><br><br><strong>指令列表</strong><br><br><strong>Repeat (重复):</strong> 允许多次重复执行一组指令，直到满足某个条件。在每次执行后检查条件。<br><br><strong>If (如果):</strong> 允许在条件为真时执行一组指令。如果条件为假，则不执行该组指令。<br><br><strong>If Else (如果否则):</strong> 允许在条件为真时执行一组指令，如果条件为假，则执行另一组指令。<br><br><strong>Else If (否则如果):</strong> 允许按顺序检查多个指令组，以确定应该执行哪个指令组。如果第一个条件为假，则检查下一个条件，以此类推，直到条件为真。<br><br><strong>While (当):</strong> 允许在条件为真时多次重复执行一组指令。在每次重复执行前检查条件。<br><br><strong>If Not (如果不是):</strong> 允许在条件为假时执行一组指令。如果条件为真，则不执行该组指令。<br><br><strong>While Not (当不是):</strong> 允许在条件为假时多次重复执行一组指令。在每次重复执行前检查条件。<br><br><strong>Function (函数):</strong> 允许将一组指令分组成一个逻辑单元，可以从程序的其他位置调用该函数。函数允许将代码分成独立且明确定义的部分。",
+    "supported_languages": "英语, 葡萄牙语 - 巴西, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 日语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/header.jpg?t=1683894270",
+    "developers": [
+      "Fernando Araujo"
+    ],
+    "publishers": [
+      "INK EYE Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "CURIOUS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/30bc1cfbaedffc6d0879d563723d57e3979c2284.jpg"
+        },
+        {
+          "name": "REPEAT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/1aaf4bd7d209dc2f0200c45696b71592e503e149.jpg"
+        },
+        {
+          "name": "IF",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/00036ba71dc856aff07ff4f95bde180f7d0ef4f8.jpg"
+        },
+        {
+          "name": "ELSE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/a279eac68f2ddb1f93e5385e9250bb0bb1a435bb.jpg"
+        },
+        {
+          "name": "ELSE IF",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/10f802d666e6b6488c9b4130db385d2c105b4ac0.jpg"
+        },
+        {
+          "name": "WHILE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/8c70b0e5666b00e7f94cfa52adf7730775ce45b3.jpg"
+        },
+        {
+          "name": "IF NOT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/f11a8fb8405ffd3ad3697cc29a95bc5e357ff826.jpg"
+        },
+        {
+          "name": "WHILE NOT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/2cade2f28c44f977f83a849266be274ee39dc468.jpg"
+        },
+        {
+          "name": "FUNCTION",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/7ae879d02ab88e87456763c7fbd39b75e75b73d0.jpg"
+        },
+        {
+          "name": "CONGRATULATIONS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2279710/41079c3e54a52bbea972f3ac994bfeeaed672a41.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

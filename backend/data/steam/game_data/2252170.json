@@ -1,0 +1,94 @@
+{
+  "2252170": {
+    "name": "World Soccer Kid",
+    "steam_appid": 2252170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "只需移动Soccer Kid，用头顶球即可。<br />\r\n但是顶球时，如果球离头部中央越远，球弹跳的距离会更远，所以想要连续成功多次并非那么容易。<br />\r\n适用这种简单规则的模式准备了4种。<br />\r\n记录抛球次数的基本模式；抛着球向前移动时记录奔跑距离的赛跑模式；与对方比赛抛球持续时间的双人对战模式；还有与对方合作，记录抛球次数的双人协作模式。<br />\r\n请努力练习，成为世界上最棒的Soccer Kid！<br />\r\n<br />\r\n进行本地多人游戏时<br />\r\n(游戏手柄)<br />\r\n玩家1:A按钮 - 转换方向，B按钮 - 跳跃<br />\r\n玩家2:A按钮 - 转换方向，B按钮 - 跳跃<br />\r\n<br />\r\n(键盘)<br />\r\n玩家1:S - 转换方向，W or A or D - 跳跃<br />\r\n玩家1:K - 转换方向 I or J or L - 跳跃",
+    "supported_languages": "英语, 法语, 日语, 简体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252170/header.jpg?t=1672993140",
+    "developers": [
+      "Game Museum"
+    ],
+    "publishers": [
+      "Game Museum"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

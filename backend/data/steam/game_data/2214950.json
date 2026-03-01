@@ -1,0 +1,92 @@
+{
+  "2214950": {
+    "name": "躲猫猫",
+    "steam_appid": 2214950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >猫猫与鼠鼠的欢乐追逐战！</p>",
+    "supported_languages": "简体中文, 英语, 西班牙语 - 西班牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/2bd2e2a32bec9ab763e8ba6ddbcc7597dfc10a34/header.jpg?t=1755941087",
+    "developers": [
+      "undownsidable"
+    ],
+    "publishers": [
+      "undownsidable"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 540,
+      "final": 540,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 5.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 15,
+      "total_negative": 0,
+      "total_reviews": 15
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "2165890": {
+    "name": "Watamari Part1 - A Match Made in Heaven - Kemomimi Patch",
+    "steam_appid": 2165890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "可以给在百合作品《天作之合的我们1》里登场的主角们戴上兽耳。<br />\r\n<br />\r\n意义？不需要。只要可爱就行。<br />\r\n虽然剧情一点都没变，但角色们可爱了呀。<br />\r\n<br />\r\n<br />\r\n本商品需要提前购买《天作之合的我们1》。<br />\r\n<br />\r\n■安装方法<br />\r\n将下载好的root.pfs.199放入游戏目录下，注意放到和watamari.exe在同一层的文件夹，启动游戏后请确认游戏角色们是否有戴上兽耳。<br />\r\n<br />\r\n■关闭兽耳模式的方法<br />\r\n请通过Steam移除本补丁，比如检查文件完整性等。<br />\r\n<br />\r\n若想通过手动改名来屏蔽补丁，请注意不要改名或删除root.pfs.199以外的任何文件，否则会导致游戏无法正常启动。<br />\r\n如果不清楚如何恢复，请重新下载一遍游戏。<br />\r\n<br />\r\n※兽耳模式只会对游戏里的主要角色生效（影子除外），包括立绘和过场CG图。<br />\r\n<br />\r\n动画和游戏标题界面等都不会有变化。<br />\r\n请把这个补丁当作是我们的一次调皮吧。",
+    "supported_languages": "英语, 日语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165890/header_schinese.jpg?t=1753082532",
+    "developers": [
+      "Kuro Irodoru Yomiji"
+    ],
+    "publishers": [
+      "Sekai Project"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

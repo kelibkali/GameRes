@@ -1,0 +1,122 @@
+{
+  "2150800": {
+    "name": "Ninja Scroller",
+    "steam_appid": 2150800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >As the legend says: &quot;To own the scrolls is to own the shadow and to cheat death.&quot;</p><h2 class=\"bb_tag\" >Description</h2><p class=\"bb_paragraph\" >Ninja Scroller is an <strong>action runner</strong>, that is to say that we start from the constraints of a runner, then we add action game elements.</p><p class=\"bb_paragraph\" >You have to collect the <strong>100</strong> Shadow <strong>Scrolls</strong> and defeat the Guardians, <strong>Ninjas</strong> and <strong>Wolves</strong>, within the <strong>time limit</strong>.</p><p class=\"bb_paragraph\" >If you are hit and the number of Scrolls collected is greater than or equal to the cost of a <strong>Smoke Bomb</strong>, then a Smoke Bomb is launched, you survive! Used scrolls will need to be collected again. The cost of a Smoke Bomb depends on the difficulty level.</p><p class=\"bb_paragraph\" >What would be a good <strong>USP</strong> for an action oriented runner?<br><strong>Stop running</strong>! It allows you to break the rhythm, catch your breath and analyze the situation.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>If <strong>you lose</strong> it's always <strong>your fault</strong>.</li><li>Use <strong>intelligence</strong>, <strong>reflexes</strong> and <strong>stamina</strong>.</li><li><strong>7 levels</strong> of <strong>intense</strong> and <strong>epic</strong> difficulty.</li><li>More than <strong>55 achievements</strong>.</li><li>At least <strong>4h</strong> to complete the game at <strong>100%</strong>.</li></ul><p class=\"bb_paragraph\" ><strong>The first</strong> Steam <strong>player</strong> to <strong>complete 100%</strong> did so by:<br><strong>24242 seconds</strong> or <strong>6 hours 44 minutes</strong> and <strong>2 seconds</strong>.<br>As for <strong>the other</strong> players, <strong>none</strong> have <strong>passed</strong> the <strong>third level</strong> :)</p><h2 class=\"bb_tag\" >Designer's notes</h2><p class=\"bb_paragraph\" >The estimated time to finish the game is the time it <strong>takes me</strong> to <strong>finish</strong> it <strong>100%</strong>.<br>So it will <strong>take you</strong> at least <strong>twice as long</strong>.<br>For the content of my games, I always prioritize <strong>quality over quantity</strong>.</p>",
+    "supported_languages": "英语, 法语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150800/header.jpg?t=1737135449",
+    "developers": [
+      "Mars Touch Studio"
+    ],
+    "publishers": [
+      "Mars Touch Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 55,
+      "highlighted": [
+        {
+          "name": "Never give up!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/36c5ec1840d06d32b6fab14142eacbf1b95320e2.jpg"
+        },
+        {
+          "name": "It's just a warm-up",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/1b35f3a3dbe7b50ee3cdc24a575725a02cd6111e.jpg"
+        },
+        {
+          "name": "Ready for the test",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/561066c40f7f25aee6c4729b2fb55deaa6d32917.jpg"
+        },
+        {
+          "name": "Passed test",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/e8378b1eb08c7c668b83855d803fd243cefcfeb5.jpg"
+        },
+        {
+          "name": "I am a Ninja now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/2dcd8387e1ca4f020bfe5cf9fa89e8275f80f7e6.jpg"
+        },
+        {
+          "name": "I am a Master now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/59ad13c98846e0ac16a5b38fd69a7fff28c27a46.jpg"
+        },
+        {
+          "name": "Step into the shadows",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/01da1daf04f269aacd1f29f2f9158985d0b7c784.jpg"
+        },
+        {
+          "name": "Become a Legend",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/ea7de6b0729060747235ee7d61e37fcfec1ad996.jpg"
+        },
+        {
+          "name": "Ninja Bolt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/61edcbca8c6cdccc40beff6f3dfc70da617857e7.jpg"
+        },
+        {
+          "name": "The first but not last",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2150800/8d6d058518fabaf798fed59fdac2097c67cd13e1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

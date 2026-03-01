@@ -1,0 +1,94 @@
+{
+  "2403370": {
+    "name": "|][-@I7 in vitro #デッド・インヴィトロ",
+    "steam_appid": 2403370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "■Outline<br>Target Age All ages<br>Game Genre Bullet Hell Shooter<br>Duration 30 min.<br><br>■Controls<br>From INPUT, you can switch to the setting for external adjustment key assignment.<br>[keyboard].<br>Z : OK<br>X : Back<br><br>Cross key : Movement of the unit (8 directions)<br>Z : Shot / Lock shot(press and hold to Lock Shot)<br>X : Mystery(Bomb)<br>C : Full auto shot<br>esc : Force quit<br><br>[Controller (PS4 Controller)]<br>Joystick button 0 (0 button): OK<br>Joystick button 1 (X button): Back<br><br>L stick : Move your ship (8 directions)<br>Joystick button 2 (0): Shot / Lock shot (press and hold for lock shot)<br>Joystick button 5 (R1 button): Mystery(Bomb)<br>Joystick button 3 (△ button): Full auto shot<br>Joystick button 9 (Option button): Forced exit<br><br>■Game Rules<br>[Basic rules]<br>Defeat the boss that appears at the end of the stage so that your LIFE does not reach 0. If you are hit by enemy bullets, your LIFE will decrease by 1, and when your LIFE reaches 0, the game is over.<br><br>[Rank System]<br>The RANK changes depending on your actions during the game, and the difficulty level changes significantly. The higher the RANK, the higher the score. The game also changes when certain other conditions are met.<br><br>Mystery activation: +1<br>Mystery triggered while Mystery is triggered: +1<br>Mystery ends: -1<br>Mystery hit: -1<br><br>Acknowledgments<br>The following software and materials were used in the production of this work.<br>0Software<br>Unity 2021.3.16f1<br><br>BGM<br>Kazuchi<br>ISAo<br>Light Canvas <br>MAKOOTO<br>MoppySound<br>PeriTune<br><br>SE<br>OSA Company<br>SHIKUMI DESIGN Inc.<br>Sound Effect Labo.<br><br>Producers<br>Circle name<br>Cupro Laboratory<br><br>Member<br>Cupro <br><br>■Precautions<br>1) The creator shall not be held liable for any damage or obstacle caused by this work.<br><br>2) Unauthorized reproduction or unauthorized commercial use of this work is prohibited.<br><br>3) Uploading of play videos and publication of derivative works are allowed within the bounds of common sense. Please contact us in case of commercial use.<br><br>■Production Time<br>12 months",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403370/header.jpg?t=1686641168",
+    "developers": [
+      "きゅぷら研究室"
+    ],
+    "publishers": [
+      "きゅぷら研究室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "First Launch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/861cd901eeff521bbb4d04a960ec95de9d85b8c0.jpg"
+        },
+        {
+          "name": "Primitive System",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/f559e142813ec390a80a44570fd62ce0a2c1ff37.jpg"
+        },
+        {
+          "name": "Supernatural Staemystem",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/fe2f4bc8d0e77bfb3a667bc5e98c5b963627144a.jpg"
+        },
+        {
+          "name": "Logical System",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/fab20384099030d9c5bf896b5884013e78142327.jpg"
+        },
+        {
+          "name": "Changing System",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/40137e8238af2b351762324e18d61f04e64d5b7f.jpg"
+        },
+        {
+          "name": "Universal System",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/0030d9f7fd5d4e6fbff2691df6be68b0a2de20dc.jpg"
+        },
+        {
+          "name": "Max Rank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/59019bc4406ba96b564152820c33acc1d8d47eb7.jpg"
+        },
+        {
+          "name": "The Experiment",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2403370/ad7e3f2cab8075319eb99923b7c7c30735fa8ab9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

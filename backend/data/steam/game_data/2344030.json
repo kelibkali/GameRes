@@ -1,0 +1,82 @@
+{
+  "2344030": {
+    "name": "EasyMMD",
+    "steam_appid": 2344030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>新版本新增导入mixamo动画的功能</strong><h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>EasyMMD能做些什么？</strong></h2></h2><ul class=\"bb_ul\"><li><strong>简易的MMD播放器</strong></li></ul>提供二次元和偏写实两种风格，导入模型后自动适配材质，添加动作即可播放MMD动画。<br><ul class=\"bb_ul\"><li><strong>便捷的MMD创作工具</strong></li></ul>提供材质修改器，光照编辑等实用工具。渲染系统支持光影效果，场景渲染也能轻松搞定。可输出成高清视频格式。<br><ul class=\"bb_ul\"><li><strong>多功能的创意工坊</strong></li></ul>创意工坊除了包括模型、动作、镜头文件的分享下载以外，还有将整个舞蹈工程打包分享的功能。<br><ul class=\"bb_ul\"><li><strong>在VR设备上观看MMD舞蹈。</strong></li></ul>支持VR串流，可在头显上获得全新的MMD观看体验。除了传统的VR操控模式外（视觉拉近，旋转），还可把模型抓取到手中的底座上，宛如可动手办在你眼前舞动。<br><ul class=\"bb_ul\"><li><strong>在桌面上播放MMD舞蹈。</strong></li></ul>包含桌面模式，可让你的角色在桌面上跳舞。<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>特色</strong></h2></h2><ul class=\"bb_ul\"><li>支持多种格式模型（PMX/PMD VRM FBX/OBJ GLTF/GLB）和动作（VMD）直接导入，无需转换</li></ul><ul class=\"bb_ul\"><li>支持创意工坊</li></ul><ul class=\"bb_ul\"><li>VR串流</li></ul><ul class=\"bb_ul\"><li>两种风格的渲染预设(动漫/半写实)</li></ul><ul class=\"bb_ul\"><li>可保存成场景卡，方便在VR模式中切换</li></ul><ul class=\"bb_ul\"><li>提供简易位置/光照编辑工具，可进行简单创作</li></ul><ul class=\"bb_ul\"><li>支持材质修改</li></ul><ul class=\"bb_ul\"><li>交互模式，可以和您喜欢的角色摸头贴贴</li></ul><h2 class=\"bb_tag\" ><strong>更多操作介绍和展示视频：</strong></h2>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/header_schinese.jpg?t=1703762453",
+    "developers": [
+      "Megu Studio"
+    ],
+    "publishers": [
+      "Megu Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 12,
+      "total_negative": 0,
+      "total_reviews": 12
+    },
+    "type": "game"
+  }
+}

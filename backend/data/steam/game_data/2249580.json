@@ -1,0 +1,90 @@
+{
+  "2249580": {
+    "name": "整蛊骰子 prank of dice",
+    "steam_appid": 2249580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏说明：<br />\r\n     这是一款休闲策略游戏，游戏推进类似传统大富翁，采用回合制投掷骰子的方式进行游戏。<br />\r\n     游戏支持单人，本地多人，本地组队三种游戏方式，通过使用游戏中的各种策略元素使得对手血量清零而获得游戏胜利。游戏可支持1-6人游戏，支持与机器人进行对战。本游戏包含多张游戏地图，玩家可以在开始游戏之前进行地图选择，同时也可以根据需要调整不同的游戏参数(如玩家人数，血量，阵营，伤害刷新回合，操作时间等等)。<br />\r\n     游戏通过在商店购买卡牌或获得刷新的道具，使用卡牌和骰子限制和整蛊对手，从而获得游戏主动权并获得最后胜利。<br />\r\n     游戏初始时每个角色具有一定的血量(可在游戏参数中进行配置)和蓝量(用于使用卡牌和功能骰子)，以及获得相同的起始卡牌，通过投掷色子决定移动步数，在路过/停留地块时，会根据地块的类型激活不同的地块效果。通过合理利用手上的卡牌和骰子进行策略博弈来战胜其他玩家。游戏过程中会定期刷新不同的物品，停留在物品所在的地块会自动获得物品效果。随着游戏进程的推进，游戏伤害加成会不断提高，游戏角色受到伤害与伤害加成挂钩，当玩家血量降为0，则玩家角色消失，当场上玩家阵营数量剩余为1时，剩余的阵营玩家获胜，游戏结束。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2249580/header.jpg?t=1682133708",
+    "developers": [
+      "闲俞工作室"
+    ],
+    "publishers": [
+      "闲俞工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

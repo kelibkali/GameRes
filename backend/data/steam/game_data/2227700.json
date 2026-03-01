@@ -1,0 +1,86 @@
+{
+  "2227700": {
+    "name": "AstroDrop",
+    "steam_appid": 2227700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "AstroDrop is a 2D platformer about an astronaut, called Astro, who is lost in space and wants to drop all the way back to Earth. The platform layout is meant to challenge the player by testing their memory, skill and patience.<h2 class=\"bb_tag\" > Gameplay</h2><br>-You can jump and air strafe.<br>-There is fall damage and when you die you go back to the beginning of the level.<br>-As you progress downwards, the gravity scale changes (fall damage becomes more punishing, you run faster and slide faster).<br>-There are flying objects that can end your attempts such as asteroids or birds.<br>-Additionally, there are parts of the terrain that can also kill you such as spikes, falling spikes and lava.<br>-There is only 1 checkpoint per level, and it is the start of that level.<br>-Every death and checkpoint are auto-saved.<br>-Overall, the gameplay is punishing but satisfying.<br>-This game is meant for gamers who want to challenge themselves.<br><br>AstroDrop was designed to be one of the hardest video games ever made.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/header.jpg?t=1725561843",
+    "developers": [
+      "Cosmin Suna"
+    ],
+    "publishers": [
+      "Kozmic Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Astro Drops From Space!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227700/6326a717c76a3396d00404a3360027ba0458c440.jpg"
+        },
+        {
+          "name": "Astro Drops From The Sky!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227700/ae510fc122f116235e84315e65cc28a79500a7fc.jpg"
+        },
+        {
+          "name": "Astro Drops From Mountains!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227700/70641bdaf0e263818f23d8c36cf4611eca532a7c.jpg"
+        },
+        {
+          "name": "Astro Drops Home!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227700/ca2445fbb36711ff890056ecc36d45ca4a89e234.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "2396700": {
+    "name": "I Made Myself An AI Demo",
+    "steam_appid": 2396700,
+    "required_age": 0,
+    "is_free": true,
+    "description": "I Made Myself An AI is a puzzle game about thermodynamics, where you build circuits to generate power, and then build fans and heatsinks to keep those circuits cool and stable.<br><br><strong>This demo contains the first 22 levels of the full game, and teaches the basics of how to play.</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/307dbc438baa522432386c297f69a8cc.poster.avif?t=1721949754\" width=618 height=74 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/307dbc438baa522432386c297f69a8cc.webm?t=1721949754\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/307dbc438baa522432386c297f69a8cc.mp4?t=1721949754\" type=\"video/mp4\"></video></span><br><br>Attach a generator to a socket block to start generating power. Active generators heat up, and if they overheat, they melt, refunding your budget but breaking the circuit. Redistributing this heat to fans allows you to cool circuits, creating stable solutions for each puzzle. Trial and error are encouraged, as you develop patterns for creating blocks of power.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/bf0ee24b16ca4ae8804a54b722a5f1f5.poster.avif?t=1721949754\" width=618 height=206 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/bf0ee24b16ca4ae8804a54b722a5f1f5.webm?t=1721949754\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/extras/bf0ee24b16ca4ae8804a54b722a5f1f5.mp4?t=1721949754\" type=\"video/mp4\"></video></span><br><br>I Made Myself An AI is a fairly relaxed game, and doesn't expect you to create the perfect solution to every problem. Instead, learn patterns to solve problems, come back to challenging puzzles when you get stuck, only strive for bonus stars when you want to, and enjoy your time playing with an active heat simulation.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396700/header.jpg?t=1721949754",
+    "developers": [
+      "Draih"
+    ],
+    "publishers": [
+      "Draih"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

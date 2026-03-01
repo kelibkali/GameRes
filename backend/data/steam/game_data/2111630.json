@@ -1,0 +1,102 @@
+{
+  "2111630": {
+    "name": "JR EAST Train Simulator",
+    "steam_appid": 2111630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "开发火车驾驶模拟器经验丰富的音乐馆和JR东日本强强联手，让您可以在家体验JR东日本训练列车驾驶员工作用的正规模拟器。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>JR东日本的铁路实拍高清影像让您身临其境体验列车驾驶员的感觉。</li></ul><ul class=\"bb_ul\"><li>模拟器收录的音效都使用了JR东日本的实际车辆和线路，专业列车驾驶员训练时都觉得很自然</li></ul><ul class=\"bb_ul\"><li>仪表盘上的速度计也和实际车辆相同，如实显示驾驶操作和运行速度。还会根据模拟驾驶的车辆型号，切换成相应的音效和仪表盘。</li></ul><h2 class=\"bb_tag\" >基础包包含的区段和车辆</h2><ul class=\"bb_ul\"><li>京滨东北线·根岸线　南行　大宫-大船　 　　81.2km（40站） E233系1000番代<br></li><li>东海道线　　　　　　　下行　东京-品川*　　　6.8km（3站）　 E233系3000番代<br></li><li>中央线快速电车　　　　上行　高尾-八王子*　　5.7km（3站） 　E233系0番代<br></li><li>大糸线　　　　　　　　下行　松本-梓桥*　　　5.2km（5站） 　211系<br></li><li>仙石线　　　　　　　　下行　青叶通 - 久住竹*  4.0km（6站） 　205系3100番代<br></li><li>信越本线 　　　  　　　下行　直江津-土佐浜* 　9.4km（4站） 　E129系<br></li><li>八户线　　　　　　　　下行　八户 - 小中野*　  7.3 km (4 站) 　 KihaE130系500番代</li></ul>* 购买相应扩展包（DLC）可以体验驾驶东海道线，中央线快速电车，大糸线，仙石线，信越本线，八户线的全部区段。",
+    "supported_languages": "日语<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111630/header.jpg?t=1766455829",
+    "developers": [
+      "ONGAKUKAN Co.,Ltd."
+    ],
+    "publishers": [
+      "East Japan Railway Company"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 16099,
+      "final": 16099,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 160.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 129,
+      "highlighted": [
+        {
+          "name": "Keihin-Tohoku Negishi Line 0cm stop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/f9ee8aab6750414ad78972e99d208fb31e5404b1.jpg"
+        },
+        {
+          "name": "Keihin-Tohoku Negishi Line Line stopping point expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/ca240d9bc9639ee028ca551de84f0c134caf259f.jpg"
+        },
+        {
+          "name": "Keihin-Tohoku Negishi Line arrival on time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/bd6494b517b67c59671a45bc136ddc1fc2b166d4.jpg"
+        },
+        {
+          "name": "Keihin-Tohoku Negishi Line punctuality expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/00c5863e0f812a405d6dd25b99d3b9cb553f956d.jpg"
+        },
+        {
+          "name": "Tokaido Line 0cm stop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/bb02d300849e08a258ea367d21de4dc9158ed7be.jpg"
+        },
+        {
+          "name": "Tokaido Line stopping point expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/c28c40f7133970d8c190a1511066c0409b48225a.jpg"
+        },
+        {
+          "name": "Tokaido Line arrival on time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/9f77257838f8a7a6a111078286a886471fedd953.jpg"
+        },
+        {
+          "name": "Tokaido Line punctuality expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/c2d6c4fd8a167aa8c63c2ea63e15489adefd2638.jpg"
+        },
+        {
+          "name": "Chuo Line Rapid Service 0cm stop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/4c9d76b87ae8832dfab47ee473768a2c050b9b8d.jpg"
+        },
+        {
+          "name": "Chuo Line Rapid Service stopping point expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2111630/25ed106d6d57c747d6c936d74ce83ab6d8a86274.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 65,
+      "total_negative": 26,
+      "total_reviews": 91
+    },
+    "type": "game"
+  }
+}

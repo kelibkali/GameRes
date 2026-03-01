@@ -1,0 +1,51 @@
+{
+  "2128670": {
+    "name": "Twitch Place",
+    "steam_appid": 2128670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;Game&quot; like /r place where people place pixels but with twitch integration - you can connect to any twitch chat which the game will listen to, drawing based on users typing commands in chat. Twitch chatters can then create images together. Game is intended for twitch streamers. You can choose from different sizes of canvas based on number of people watching your stream. The game has no end or progression on its own it's up to you what you want to draw with your chat.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/header.jpg?t=1699125809",
+    "developers": [
+      "canyonboss"
+    ],
+    "publishers": [
+      "canyonboss"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

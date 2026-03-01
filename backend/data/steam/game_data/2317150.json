@@ -1,0 +1,48 @@
+{
+  "2317150": {
+    "name": "Monado Hand Tracking",
+    "steam_appid": 2317150,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Monado's &quot;Mercury&quot; hand tracking</h2><br>The optical hand tracking software that this driver uses was developed by Collabora as part of the Monado open-source project.<br><br>We noticed that there was a huge segment of people with Valve Indices on Windows but no hand tracking, so we decided to publish this SteamVR driver so that people with Valve Index can use optical hand tracking without extra hardware!<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> Full-fidelity optical hand tracking on just the Index front cameras. Curl, splay and 6dof hand pose are available.<br></li><li> Gesture-toggleable far ray interaction for easy interaction with menus<br></li><li> Gesture control for A, B, trigger and some thumbstick axes. VRChat is playable but not quite nice as-is.</li></ul><h2 class=\"bb_tag\" >Some basic tips</h2><ul class=\"bb_ul\"><li> Get lots of light in your room, or mount a light on the front of your Index! <br></li><li> Very unfortunately, the Index front cameras don't have the widest field of view and don't point far down enough. This means that there's a limited tracking range in front of you where hand tracking will work. Hands too far down, too far to the side, or too close to the cameras won't be trackable, so be mindful of where your hands are!</li></ul><h2 class=\"bb_tag\" >This is free and open source software!</h2><br>Code contributions, ideas and suggestions are very welcome! You can find links to our Discord server, GitHub page and issues page on the sidebar.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2317150/header.jpg?t=1678460655",
+    "developers": [
+      "Collabora, Ltd.",
+      "Moshi Turner",
+      "danwillm"
+    ],
+    "publishers": [
+      "Moshi Turner"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

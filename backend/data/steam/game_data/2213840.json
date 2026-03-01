@@ -1,0 +1,107 @@
+{
+  "2213840": {
+    "name": "Wraithbinder Demo",
+    "steam_appid": 2213840,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213840/extras/e0d168718e4b8a742266293a8a6b440f.poster.avif?t=1749261220\" width=756 height=316 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213840/extras/e0d168718e4b8a742266293a8a6b440f.webm?t=1749261220\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213840/extras/e0d168718e4b8a742266293a8a6b440f.mp4?t=1749261220\" type=\"video/mp4\"></video></span><br><br>Wraithbinder is an action roguelike RPG with metroidvania-like worlds. Each run you build a different sequence of weapons, abilities and relics. Keep your armor, stats and gold across runs. Play offline solo. Online co-op coming soon.<br><br>Each run you play through a randomly-generated dungeon crawl while building a new sequence of weapons and abilities. When you discover a new ability you get to choose between multiple, allowing you to craft your experience. New abilities will unlock previously inaccessible areas in a Metroidvania-like fashion.<br><br>The limitations of the demo version are:<ul class=\"bb_ul\"><li> 1 character<br></li><li> 1 relic per chest<br></li><li> 1 maximum pip per attribute power-up<br></li><li> Cannot equip or sell armor other than the first pieces you find</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 西班牙语 - 拉丁美洲<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213840/08011ff8462d8ec865b417df7b3377f7d5a5f503/header.jpg?t=1749261220",
+    "developers": [
+      "Wizard Fu"
+    ],
+    "publishers": [
+      "Wizard Fu",
+      "Double Eleven"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 1 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Ye Bested the Act I Boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213840/07c5f8d76a68a71c7cea91321693d5006c9ac485.jpg"
+        },
+        {
+          "name": "Ye Swooned",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213840/07c5f8d76a68a71c7cea91321693d5006c9ac485.jpg"
+        },
+        {
+          "name": "Ye Bested a Miniboss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213840/07c5f8d76a68a71c7cea91321693d5006c9ac485.jpg"
+        },
+        {
+          "name": "Ye Found a Secret Berth",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213840/07c5f8d76a68a71c7cea91321693d5006c9ac485.jpg"
+        },
+        {
+          "name": "Ye Cleared a Deck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2213840/07c5f8d76a68a71c7cea91321693d5006c9ac485.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

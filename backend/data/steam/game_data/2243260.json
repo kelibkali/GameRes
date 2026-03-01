@@ -1,0 +1,74 @@
+{
+  "2243260": {
+    "name": "PeopleWillMoney",
+    "steam_appid": 2243260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这个游戏是通过建造设施和让人们工作来赚钱和增加资产。<br>游戏结束时，拥有最多资产的玩家获胜。<h2 class=\"bb_tag\" >・事件</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243260/extras/6aaea835f0debb3329ec1e43440cb312.avif?t=1680103008\" width=568 height=320 /></span><br>发生在每个回合的开始。<br>它们可以是各种类型的，如获得金钱或人员，或摧毁你所建造的设施。<br>其中一些可以帮助你升级你的设施并获得更高的利润。<h2 class=\"bb_tag\" >・设施1</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243260/extras/502f389e2fd8c35727ebdb526847659b.avif?t=1680103008\" width=568 height=320 /></span><br>设施通过让人们工作而获利。<br>利润率因设施而异。<br>一些设施的利润率低，但有特殊效果。<h2 class=\"bb_tag\" >・设施 2</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243260/extras/d675023d5b0e65e76436177276b4f302.avif?t=1680103008\" width=568 height=320 /></span><br>实验室不盈利，但会产生 &quot;研究成果&quot;，在游戏结束时被记录为资产。<br>只有拥有的&quot;研究成果&quot;数量对其他玩家不可见。<br>有可能让其他玩家觉得你的资产很少，而事实上...<h2 class=\"bb_tag\" >・政策</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243260/extras/72788f9817007229cba2137cd1cc8e3e.avif?t=1680103008\" width=568 height=320 /></span><br>你可以直接干扰其他玩家。<br>你可以从其他玩家手中夺取人或钱，或阻止其他玩家的干涉。<br>其他的则是提高事件的有效性，增加设施的价值或产生研究成果。<br><br>毫不夸张地说，政策的好坏可以决定你的输赢。<br>然而，你需要一定数额的资金来购买政策",
+    "supported_languages": "英语, 法语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243260/header.jpg?t=1680103008",
+    "developers": [
+      "毛ナカガワ"
+    ],
+    "publishers": [
+      "毛ナカガワ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

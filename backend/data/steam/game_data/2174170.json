@@ -1,0 +1,54 @@
+{
+  "2174170": {
+    "name": "VInput",
+    "steam_appid": 2174170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "VInput是一个用于将数据发送到VTubeStudio的插件。支持手柄控制器，赛车方向盘，支持时间数据，硬件监控数据以及自定义公式。<br><br><strong>控制器</strong><br>支持常规手柄的全按键检测，经过检测的设备有(XBox手柄，PS5手柄)<br>注：Nintendo switch手柄是特殊的，需要在steam进行按键映射才能使用。<br>支持常见的赛车方向盘。<br><br><strong>时间数据</strong><br>支持年月日时分秒，毫秒，星期以及更多细分的时间数据。<br><br><strong>硬件监控数据</strong><br>支持主板、CPU、显卡、硬盘等硬件设备的占用率、频率、温度等数据。<br><br><strong>自定义公式</strong><br>对于复杂的需求，比如精细的控制手柄上手指的位置等，可以使用自定义公式功能将已有的数据进行计算输出。<br>公式本身的输出也可以被其他公式用作输入。<br>由于公式本质是使用Lua语言的脚本，所以，除了算式之外，也可以写复杂的判断逻辑。<br><br>QQ交流群:751202335 入群密码:123<br><br><i>不包含视频中的模型</i>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/header.jpg?t=1674996516",
+    "developers": [
+      "宵夜97"
+    ],
+    "publishers": [
+      "宵夜97"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

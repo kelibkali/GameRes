@@ -1,0 +1,87 @@
+{
+  "2312270": {
+    "name": "Collect Call",
+    "steam_appid": 2312270,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Collect Call is a puzzle platformer game. You might work through the puzzles on your own, or you might talk to other characters to piece together a mystery.<h2 class=\"bb_tag\" >Features</h2><br><strong>Gameplay</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312270/extras/12e833dc58acefb43faf06f4fa46b3a6.poster.avif?t=1716165401\" width=426 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312270/extras/12e833dc58acefb43faf06f4fa46b3a6.webm?t=1716165401\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312270/extras/12e833dc58acefb43faf06f4fa46b3a6.mp4?t=1716165401\" type=\"video/mp4\"></video></span><br>Puzzles gradually introduce new mechanics so you learn at a comfortable pace with intuitive elements, including levers, buttons, physics objects, bridges, and more. <br><br>The game also includes a story told through dialogue with other characters and lore hints hidden in the levels. Your dialogue choices do matter.<br><br><strong>Steam Deck</strong><br>Works fine on my Steam Deck. The game runs natively on Linux and Windows, controllers are detected automatically, and it will use 800p by default. My Steam Deck gets about two-thousand fps with vsync and the frame-rate limit turned off.<br><br><strong>Graphics &amp; Performance</strong><br>The game may use pixel art, but there are still graphical options to configure. The game supports most common resolutions all the way up to 8K. You can also toggle v-sync or set a frame rate limit.<br><br><strong>Modding &amp; Steam Workshop</strong><br>Collect Call can play custom levels from the Steam Workshop. Custom levels can include custom dialogue, puzzle elements, graphics, and more. Levels can even be chained in a sequence for a custom campaign just like the included one. Custom levels can also be installed manually.<br><br><strong>You will need map editing software to make your own levels. I used Tiled and suggest you do the same, it is free and open-source. You should also format your levels similar to the included ones for compatibility.</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312270/header.jpg?t=1716165401",
+    "developers": [
+      "sudologic"
+    ],
+    "publishers": [
+      "sudologic"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 5 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Lucky Guess",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2312270/50fb249539279a9fcf90ddd3f7f7c77736cdaa3e.jpg"
+        },
+        {
+          "name": "Ending 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2312270/41e901f7d1b46c8738f8441b2d51280aab69b98c.jpg"
+        },
+        {
+          "name": "Ending 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2312270/7094e8a366280363a7e70445d51186d044b0a445.jpg"
+        },
+        {
+          "name": "Nice throw!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2312270/e9978ce0a33a4899770c925399dcbad82c4dda28.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

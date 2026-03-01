@@ -1,0 +1,62 @@
+{
+  "2351320": {
+    "name": "Wallpaper Cloud",
+    "steam_appid": 2351320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "多功能动态壁纸工具,设置多样化壁纸在您的桌面!<h2 class=\"bb_tag\" >可交互专业web壁纸:创意无限!</h2><ul class=\"bb_ul\"><li>支持最新的web前端技术框架,支持本地html网络化</li><li>自由使用您熟悉的第三方前端开发工具链进行web壁纸制作</li><li>通过内置的api接口,实现web壁纸与本地操作系统交互:<ul class=\"bb_ul\"><li>在html中直接调用打开本地应用,系统开关机,调整音量等</li><li>在html中直接获取操作系统资源信息,如cpu,ram使用率,当前系统音量,网络流量信息,实时声音频谱等</li></ul></li><li>通过以上接口与html动效,动画,事件,进行深度融合,您可制作出携带功能性的web壁纸,如与壁纸ui融合的应用收纳栏,系统资源展示,实时声音频谱等</li></ul><h2 class=\"bb_tag\" >多屏幕与缩放支持</h2><ul class=\"bb_ul\"><li>支持多屏幕,DPI缩放</li><li>可为每个屏幕单独设置相同或不同壁纸</li></ul><h2 class=\"bb_tag\" >分享与下载</h2><ul class=\"bb_ul\"><li>通过内置工具分享您的壁纸</li><li>通过内置工具浏览并下载您喜欢的壁纸</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2351320/header.jpg?t=1713557385",
+    "developers": [
+      "Wallpaper Cloud Team"
+    ],
+    "publishers": [
+      "Wallpaper Cloud Team"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

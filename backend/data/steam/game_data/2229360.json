@@ -1,0 +1,43 @@
+{
+  "2229360": {
+    "name": "XBLAH's Modding Tool",
+    "steam_appid": 2229360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "XBLAH's Modding Tool was built to improve Valve games modders' productivity and quality of life. <br><br>A fantastic tool for creating and running mods. it's an extremely useful tool for all mappers and modders for Goldsrc and Source that puts an emphasis on making several tasks easier and streamlined so that you spend less time with trial and error and more time finishing the project of your dreams.<br><br>Automate the process of creating blank GoldSRC and Source mods. Easily create new chapters, with chapter images and chapter backgrounds, automatically install Hammer++, edit soundscapes, and much more. All of that in a single intuitive tool, with no scripting knowledge required. Create your mod, launch hammer, and that's it.<h2 class=\"bb_tag\" >General features</h2><ul class=\"bb_ul\"><li>List all the Source and Goldsrc games and mods, play them and edit them.</li></ul><h2 class=\"bb_tag\" >Modding features</h2><ul class=\"bb_ul\"><li>Create a mod based on Goldsrc, Source 1 or Source 2 (Alpha) games.<br></li><li>Create a mod based on Mapbase with Thexa4's PBR support.<br></li><li>Run mods from any game in fullscreen, windowed or VR mode (Source 2) directly from the tool.<br></li><li>Create custom launch presets.<br></li><li>Link to the mod install folder.<br></li><li>Clean the mod folder for release.<br></li><li>Edit the game info.<br></li><li>Edit the chapters and create images and backgrounds for them. (Source 1)<br></li><li>Choose the starting map and the training map (Goldsrc)<br></li><li>Edit the game menu. (Goldsrc and Source 1)<br></li><li>Manage the content mounted. (Source 1)<br></li><li>Explore all the mounted files. (Source 1)<br></li><li>Explore the files in the mod folder. (Goldsrc and Source 2)<br></li><li>Copy only the assets used by a VMF to a /custom/ folder. (Source 1 - Beta)<br></li><li>Delete mods.<br></li><li>Automatically installs Mapbase. (Source 1)</li></ul><h2 class=\"bb_tag\" >Level Design features</h2><ul class=\"bb_ul\"><li>Run maps directly from the BSP/VPK.<br></li><li>Run Jack with auto-generated configuration (Goldsrc)<br></li><li>Run Hammer++ with auto-generated configuration. (Source 1)<br></li><li>Run Hammer++ with auto-generated configuration for Mapbase.<br></li><li>Decompile maps. (Goldsrc and Source 1)<br></li><li>Generate buildings procedurally (Source 1)</li></ul><h2 class=\"bb_tag\" >Modeling features</h2><ul class=\"bb_ul\"><li>Link to HLMV. (Goldsrc and Source 1)<br></li><li>Run Hammer++ with auto-generated configuration for Propper. (Source 1)<br></li><li>Convert VMF to MDL using Propper. (Source 1)<br></li><li>Link to Crowbar. (Source 1)</li></ul><h2 class=\"bb_tag\" >Material Design features</h2><ul class=\"bb_ul\"><li>Create UnlitGeneric, VertexLitGeneric and LightmappedGeneric materials. (Source 1)<br></li><li>Create Skyboxes and preview them (Goldsrc and Source 1)<br></li><li>Get the ideal colors for light_environments and env_fog_controllers (Goldsrc and Source 1)<br></li><li>Materials saved under materials/models will automatically have the parameter 'model 1'</li></ul><h2 class=\"bb_tag\" >Particles features</h2><ul class=\"bb_ul\"><li>Auto-generate a particle manifest based on what's used in a VMF. (Source 1)</li></ul><h2 class=\"bb_tag\" >Animations features</h2><ul class=\"bb_ul\"><li>Run Faceposer with auto-generated configuration and fixed icons. (Source 1)</li></ul><h2 class=\"bb_tag\" >Sounds features</h2><ul class=\"bb_ul\"><li>Create and preview soundscapes (Source 1)<br></li><li>Auto-generate a soundscape manifest based on what's mounted in the mod. (Source 1)</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229360/header.jpg?t=1670969758",
+    "developers": [
+      "XBLAH"
+    ],
+    "publishers": [
+      "XBLAH"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

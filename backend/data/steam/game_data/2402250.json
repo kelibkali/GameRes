@@ -1,0 +1,61 @@
+{
+  "2402250": {
+    "name": "The Art of Layers of Fear",
+    "steam_appid": 2402250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这本官方数字画册将带你进入游戏中令人不安的现实世界。<br />\r\n<br />\r\n你将透过这本画册中的精美插图和概念艺术，探索游戏中登场界。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402250/header.jpg?t=1686844967",
+    "developers": [
+      "Bloober Team",
+      "Anshar Studios"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

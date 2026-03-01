@@ -1,0 +1,51 @@
+{
+  "2238890": {
+    "name": "DancingSim",
+    "steam_appid": 2238890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DancingSim是一款观赏虚拟角色跳舞的小工具，内置角色、服装、动画资源以及可调试的场景。支持创意工坊，可导入角色、动画、背景音乐。<h2 class=\"bb_tag\" >特性</h2><br>- 精美写实、富有设计感的女角色Mia，其毛发、服饰、关键部位均具备物理模拟；<br><br>- 内置资源：换装、换动画、换场景；<br><br>- 支持导入GLTF、GLB格式文件，替换角色模型，使用内置动画让您喜欢的任何角色立即动起来！当然， 也可导入您自己创建的动画；<br><br>- 已支持对部分场景对象进行修改，例如，您可以修改角色的位置、光照的强度色值位置、大气雾，以调试出不同的场景氛围；<br><br>- 导入背景音乐，让角色的舞蹈更生动、或更具有戏剧性。支持数种音频格式：mp3, wav, flac；<br><br>- 已接入steam创意工坊，内置模组的上传、管理界面。<br><br>更多特性，敬请期待。",
+    "supported_languages": "简体中文, 英语, 俄语, 日语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/header.jpg?t=1679007175",
+    "developers": [
+      "MetaDancer"
+    ],
+    "publishers": [
+      "NIJICO"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 12,
+      "total_negative": 14,
+      "total_reviews": 26
+    },
+    "type": "game"
+  }
+}

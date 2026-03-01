@@ -1,0 +1,79 @@
+{
+  "2263700": {
+    "name": "Manabaz",
+    "steam_appid": 2263700,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Minimalist Arena Brawler</h2>Each side has a warrior and an archer. Kill your enemies to win.<h2 class=\"bb_tag\" >Intelligent Bots</h2>Bots are using <strong>neural networks</strong>. They are trained with <i>Proximal Policy Optimization (PPO)</i>.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Local-Multiplayer up to 4 players<br></li><li>Can also <strong>play alone</strong> with a bot teammate<br></li><li>Play with keyboard/mouse<br></li><li>Or play with a controller</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263700/header.jpg?t=1689148891",
+    "developers": [
+      "Alper Sekerci"
+    ],
+    "publishers": [
+      "Alper Sekerci"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "2304740": {
+    "name": "Flip That Coin!",
+    "steam_appid": 2304740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>抛硬币!</strong> 这是一款可以抛出很多硬币的游戏。点击硬币得分！如果你觉得手腕疼了，完全可以使用自动点击器，不用不好意思.<br><br>你可以在每个已经解锁的游戏模式下开始游戏，但是你需要逐个解锁新的硬币。如果点击中了，你解锁的每个硬币都会给你更多的分，但它生成的几率比较低。每轮游戏会持续30秒，时间结束时，这一轮收集的所有分数会转换为可以购买新硬币的总分数。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304740/extras/7283f2edb778c6922a711fa274a4f8c4.poster.avif?t=1689686967\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304740/extras/7283f2edb778c6922a711fa274a4f8c4.webm?t=1689686967\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304740/extras/7283f2edb778c6922a711fa274a4f8c4.mp4?t=1689686967\" type=\"video/mp4\"></video></span><br><br><strong>只需一美元，你就可以获得：</strong><br><ul class=\"bb_ul\"><li> 7种游戏模式，从常规抛硬币，到同时抛3个硬币</li></ul><ul class=\"bb_ul\"><li> 每种游戏模式都有加成和减成。</li></ul><ul class=\"bb_ul\"><li> 总共可以抛9个硬币。可以解锁8种硬币。</li></ul><ul class=\"bb_ul\"><li> 选择手动抛硬币或者自动抛硬币。</li></ul><ul class=\"bb_ul\"><li> 如果你能找到以毫秒的速度抛硬币的方法，放心吧，我是不会指责你的。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 日语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304740/header.jpg?t=1689686967",
+    "developers": [
+      "Simon Eftestol"
+    ],
+    "publishers": [
+      "Simon Eftestol"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Normal mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Double Mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Tripple Mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Big Mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Small mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Basic mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "Random mode 3 STARS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/86b56a6b329cd90439e1419d4d0a341a524b805a.jpg"
+        },
+        {
+          "name": "CRYSTAL COIN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/8a1d6b2539bde18963a1aa747910976e94e8f069.jpg"
+        },
+        {
+          "name": "BAG COIN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/5ef4ec3f92fea45f98b9d07683e8efcf71549262.jpg"
+        },
+        {
+          "name": "STAR COIN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304740/58419e09ccca92448a2840aeeabe455569cfe326.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

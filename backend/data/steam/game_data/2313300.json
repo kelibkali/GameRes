@@ -1,0 +1,53 @@
+{
+  "2313300": {
+    "name": "3DMark Solar Bay",
+    "steam_appid": 2313300,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>关于Solar Bay </strong><br><br>3DMark Solar Bay测试了Windows和Android设备在光线追踪游戏中的表现。结果可以在平台之间进行比较。Solar Bay压力测试显示随着游戏时间的延长其性能如何变化。 <br><br>实时光线追踪为游戏中的画面带来了新的真实感。Solar Bay使用Vulkan 1.1光线追踪，在运行Android或Windows的设备上生成真实的实时反射。 <br><br>Solar Bay光线追踪的工作负载在三个阶段增加，每个区段线性增加100%。在PC上，Solar Bay是我们更重量级的光线追踪基准测试Port Royal和Speed Way的补充。有了三个光线追踪基准测试和光线追踪特性测试，3DMark涵盖了广泛的光线追踪工作负载，使它成为衡量PC的光线追踪性能尺度的一个很好的方法。 <br><br><strong>Solar Bay压力测试 </strong><br><br>Solar Bay压力测试是一项时间更长的测试，表明设备在长时间的光线追踪游戏中将如何表现。它的设计是为了反映更长时间的光线追踪游戏，并在20分钟的循环中运行Solar Bay的工作负载。 <br><br>压力测试的主要结果不是产生一个分数，而是一张图表，向您显示设备在测试期间的性能变化情况。这张图表可以帮助您了解设备在重度使用期间如何管理性能和热量。",
+    "supported_languages": "英语, 德语, 简体中文, 俄语, 西班牙语 - 西班牙, 日语, 韩语, 繁体中文, 波兰语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313300/fd4ced3c88864f6828a38c93ea627712fa56af78/header.jpg?t=1756111867",
+    "developers": [
+      "UL Solutions"
+    ],
+    "publishers": [],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 8 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    },
+    "type": "dlc"
+  }
+}

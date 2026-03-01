@@ -1,0 +1,66 @@
+{
+  "2292280": {
+    "name": "Mabus 3000",
+    "steam_appid": 2292280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Mabus 3000</strong> is an arcade shooter game with a limited number of lives. The player controls a single ship in an arena of increasingly difficult enemies and levels in the spirit of classic arcade games like Space Invaders and Galaga.<br><br><strong>Gameplay</strong><br>A shield-orb forms in the center of the arena, slowly building out arms of blocks that try to reach to one of the arena's six axis points. Each of the arena axis points periodically offers a weapon power-up. Destroy the block arms to keep the arena clear and maintain access to the weapon power-ups. Each level resets the arena and the shield-orb.<br><br>Every block of the shield-orb arm can spawn enemies: drones, mini shields, mines and turrets. When one of these blocks has a spawned enemy attached to it, the block cannot be destroyed. Clear the attached enemy to destroy the block. Destroying blocks and enemies gives the player points. The points can be multiplied by chaining which enemies are targeted. Each level lasts for one minute and with each level the enemy difficulty and pace of play increases.<br><br>The player ship has only five lives. Different enemies can cause higher damage to the player. The game ends with the destruction of the player ship.<br><br><strong>Three Weapon Types:</strong><br><ul class=\"bb_ul\"><li>Bullets (red)<br></li><li>RPGs (green)<br></li><li>Lasers (blue)</li></ul><br>Each weapon can be changed, or powered-up by collecting one of the color-coded orbs that randomly appear at one of the arena's axis points. The weapon power-ups only last a limited time, so beware! And, remember, watch those arena axis points because they can get closed off by any one of the shield-orb arms! Without a weapon power-up, gameplay becomes much more difficult.<br><br><strong>Bosses:</strong><br>When the player clears the shield-orb of all blocks, or the shield-orb blocks all six arena axis points, or the level timer runs out, the shield-orb will form into a boss enemy. Defeat the boss and the level will have been successfully cleared. A new level will begin. What will be your high score!<br><br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li>Arena Shooter<br></li><li>Bullet hell<br></li><li>Random generation<br></li><li>Non-modal<br></li><li>Shoot n' dash gameplay<br></li><li>Single-player</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292280/header.jpg?t=1681585389",
+    "developers": [
+      "Fancy Donkey LLC"
+    ],
+    "publishers": [
+      "Fancy Donkey LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

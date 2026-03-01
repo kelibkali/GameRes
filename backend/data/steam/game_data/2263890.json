@@ -1,0 +1,82 @@
+{
+  "2263890": {
+    "name": "Dragon Call - Dragon Tower",
+    "steam_appid": 2263890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "每隔5层有50%的几率会掉落一张卡牌。<br />\r\n1.暴虐霸王龙<br />\r\n2.雏龙<br />\r\n3.火龙幼崽<br />\r\n4.龙鳞护卫<br />\r\n5.火龙王·炎翼<br />\r\n6.盗伶龙<br />\r\n7.霜龙王·冰爪<br />\r\n8.剑龙<br />\r\n9.“龙骑士”<br />\r\n10.小滑头·锐眼",
+    "supported_languages": "简体中文<strong>*</strong>, 英语, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263890/header.jpg?t=1673426175",
+    "developers": [
+      "organelemonhouse"
+    ],
+    "publishers": [
+      "organelemonhouse"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

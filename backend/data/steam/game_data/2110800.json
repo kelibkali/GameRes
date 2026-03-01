@@ -1,0 +1,56 @@
+{
+  "2110800": {
+    "name": "Justin Wack and the Big Time Hack - Official Walkthrough Chart",
+    "steam_appid": 2110800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fellow adventurer,<br />\r\n<br />\r\nThis Official Walkthrough Chart guides you through all the puzzles in all three acts of the game. It's also the actual chart that I have been using to keep track of puzzles, the triggering of cutscenes and whatnot during the actual development of the game. I think of it as a mixture of a puzzle dependency graph and a walkthrough.<br />\r\n<br />\r\nTo keep the chart reasonably short, it assumes you explore every scene and pick up everything that isn't nailed to the wall (but we all do that anyway, right) 🙂<br />\r\nShould you find a bug in the chart, ping me over at www.warmkitten.com/discord 👊<br />\r\n<br />\r\nBonus: This chart also contains the secret code to enable Box Mode.<br />\r\n<br />\r\nThe chart comes in the form of a PDF file allowing infinite zooming and text searching.<br />\r\n<br />\r\n➡️Note: The file &quot;JustinChart.pdf&quot; will be placed in the game's install directory. To locate your install directory - right click the game in your Library-&gt;Properties-&gt;Local Files-&gt;Browse 👍<br />\r\n<br />\r\nEnjoy!<br />\r\n/Pontus",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2110800/header.jpg?t=1667856505",
+    "developers": [
+      "Warm Kitten"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

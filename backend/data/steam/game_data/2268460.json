@@ -1,0 +1,58 @@
+{
+  "2268460": {
+    "name": "Dark Shrine",
+    "steam_appid": 2268460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Dark Shrine</strong> is a short horror game set in a japanese shrine. <br>The map design was inspired by the actual place in Kyoto, Fushimi Inari Shrine.<br><br>You are stuck in a shrine covered with dark, you have to find the way out watching out for the ghost.<br>Offer 3 bells to the alter, disable the barrier and escape.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268460/header.jpg?t=1674053234",
+    "developers": [
+      "ciel45"
+    ],
+    "publishers": [
+      "ciel45"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

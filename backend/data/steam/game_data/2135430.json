@@ -1,0 +1,70 @@
+{
+  "2135430": {
+    "name": "英雄黄昏 - 扩展包",
+    "steam_appid": 2135430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "该DLC是游戏的扩展内容，仍在持续更新中，目前包含的内容有：<br><br><strong><h2 class=\"bb_tag\" >送福利：【全套圣段技】</h2></strong><br><strong>简介</strong>：赠送全套圣段技能和200点熟练度，圣段技能自动存入传家宝库，下次开局即可取用，如果后面出新的圣段技能，会自动填补进去。<br><br><strong><h2 class=\"bb_tag\" >地图扩展：【倭国、高丽、夷洲】</h2></strong><br><strong>简介</strong>：创角时可勾选【地图扩展】，进入剧本后地图会扩展变大，新增倭国、高丽、夷洲等8座城池，同时还有这些阵营的历史名将登场。<br><br><strong><h2 class=\"bb_tag\" >新剧本：【王朝乱斗】</h2></strong><br><strong>简介</strong>：该剧本共有10个阵营：秦、汉、蜀、魏、吴、晋、唐、宋、梁山、明，每个阵营各占4个城池，上演巅峰对决。<br><br><strong><h2 class=\"bb_tag\" >新伟业：【匡扶汉室】</h2></strong><br><strong>入口</strong>：在卧龙出山、刘备入蜀、南蛮征伐假想剧本中可选。<br><strong>简介</strong>：拥立汉献帝刘协称帝，恢复东汉江山。完成后，以后刘协被霸主阵营挟持，将会秘密授予你[衣带诏]。<br><br><strong><h2 class=\"bb_tag\" >新伟业：【炼金方士】</h2></strong><br><strong>简介</strong>：选择该伟业获得[炼丹炉]，可将背包中的装备或技能放入炼丹炉炼出丹药；或者重铸技能；或者把武将放入炼丹炉中修炼，可使其成神或成魔或变成丹药。完成该伟业可在名望商店买到炼丹炉。<br><br><strong><h2 class=\"bb_tag\" >新玩法：【兵种试炼】</h2></strong><br><strong>入口</strong>：点击城池设施兵营 → 任选一个兵种 → 点击兵种试炼。<br><strong>简介</strong>：这是一种Roguelike弹幕塔防玩法，在短短的6分钟时间内，能体验到子弹乱飞和割草爽感，最后根据结果获得相应的兵种或兵符碎片。<br><strong>背景</strong>：该玩法是我上一款未发布的塔防游戏，2017年做了一年多，如今植入本游戏中，与兵种系统结合，丰富了游戏的局外玩法。<br><br><strong><h2 class=\"bb_tag\" >新结局：【王朝终结者】</h2></strong><br><strong>入口</strong>：一统天下后，可选择该结局，届时秦、汉、唐、宋、梁山、明，六大阵营强势登场，能否抵御其联手进攻。<br><strong>注意</strong>：伟业选了大秦帝国这类，或者选了王朝乱斗剧本，该结局不可用，因为某个阵营已经登场过了。<br><br><strong><h2 class=\"bb_tag\" >新功能：【阵营秘技】</h2></strong><br><strong>阵营秘技</strong>：所有阵营在自身创建后的第1/2/4/6/8/10年时分别可以学到1个秘技，每次从随机的3个秘技中任选1个。<br><br><strong><h2 class=\"bb_tag\" >护肝养生：降低终极追求所需条件</h2></strong><br><strong>传家宝</strong>：一统天下时完成伟业时，只需4项（原需6项）功评项排首位，可额外再选择1件（共2件）装备或技能放入传家宝库，并累积1点传家宝运。<br><strong>圣段技能</strong>：合成圣段技能消耗熟练度降低40%。<br><strong>阵法精通度</strong>：可传承50%历史最高的阵法精通度到新的开局。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135430/header.jpg?t=1710071455",
+    "developers": [
+      "三国迷.隐隐狗"
+    ],
+    "publishers": [
+      "三国迷.隐隐狗"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 147,
+      "total_negative": 4,
+      "total_reviews": 151
+    },
+    "type": "dlc"
+  }
+}

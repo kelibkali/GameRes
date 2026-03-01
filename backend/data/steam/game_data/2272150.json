@@ -1,0 +1,94 @@
+{
+  "2272150": {
+    "name": "Eightrun",
+    "steam_appid": 2272150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Eightrun is an intense, minimalist game of fast reflexes, in which the player tries to dodge patterns of obstacles while moving down an endless, octagonal tunnel.<br />\r\n<br />\r\nThe rules are simple: the player moves a triangle clockwise and counterclockwise as it continually accelerates down the winding tunnel, which is marked with a grid. Randomized patterns appear in that grid and if the triangle collides head first with one of the filled in grid cells then that run ends. The further you got, the higher your score. But understanding the patterns that the game throws at you and building up the muscle memory to react quickly enough to get through them is intended to be a tough challenge. At first it may seem almost impossible to survive more than a few seconds, but with practice those seconds turn into minutes spent in a focused flow state.<br />\r\n<br />\r\nThere are 8 different stages, differing in the way the patterns of obstacles are generated, how fast the tunnel moves and how fast it accelerates. Online leaderboards for each stage allow you to compete with scores from your friends.<br />\r\n<br />\r\nThere are options to allow for toning down how intense the visuals are. There is also an option for practicing on a slower speed.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272150/header.jpg?t=1680173711",
+    "developers": [
+      "Present Abstract Limited"
+    ],
+    "publishers": [
+      "Present Abstract Limited"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Got The Hang Of It",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2272150/02eb9372bb352f1a9ea273ebab532be28076d227.jpg"
+        },
+        {
+          "name": "In The Groove",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2272150/19bc36ad48ab36c3d6de924ae156d928a3937878.jpg"
+        },
+        {
+          "name": "Nimble",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2272150/9cde3158115d5cec8c406761a7519efc2268209f.jpg"
+        },
+        {
+          "name": "Seeing In Slow Motion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2272150/2ed536a51b988acf87a23f727d0279c9c82fbeb7.jpg"
+        },
+        {
+          "name": "Consistency",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2272150/3554bd62a294962e225c2362ea60102df11b7d69.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

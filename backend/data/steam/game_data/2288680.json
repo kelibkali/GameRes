@@ -1,0 +1,122 @@
+{
+  "2288680": {
+    "name": "From the Depths - Gone to Sea characters",
+    "steam_appid": 2288680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Summary</h2>The second character content pack for From the Depths.<br><br>This contains four characters:<br>Sea Captain<br>Diver<br>Sailor 1<br>Sailor 2<br>Yes these are from the unity asset store and heavily modified to work within the FTD framework.<br>Why use middleware?  No one at BrilliantSkies is a fully fledged character modeller, the people that make these are.  There isn't a point in reinventing a wheel badly.  We just want players to be able to use interesting models on their ships and to change their avatar if they want to.<br>And more importantly.....<br><strong>Once you own ONE of the character packs you can import your own.  Documentation to follow soon.</strong><br>A few more goodies will get added to this package in the coming weeks.<br><br>We'll be adding more models of different types in other packs so look out for those if these aren't your cup of tea.<h2 class=\"bb_tag\" >What can I do with this?</h2><ul class=\"bb_ul\"><li>Change the avatar from rambot to another character model.  You can find this in the customisation &quot;Z&quot; UI under the avatar tab.  This also applies in multiplayer.<br></li><li>Place a special 'animation block'  and select from any of your acquired or added models there.  An animation can then be set that the character will use.<br></li><li>Manipulate animation blocks with breadboard functions to get fine control over the animation or switch between different movements and presets.<br></li><li>Purchasing a character DLC adds more animations to the animation block.<br></li><li>Purchasing a character DLC unlocks more voices to use in breadboards for adding another element in bringing your creations to life.</li></ul><h2 class=\"bb_tag\" >Why is this cheaper than Steel Striders anime pack?</h2><ul class=\"bb_ul\"><li>You can't manipulate the faces of these models like you could with the anime ones.</li></ul><h2 class=\"bb_tag\" >Why would I want this?</h2><ul class=\"bb_ul\"><li> Taking pictures, roleplaying.<br></li><li> Populating your ships with more characters.<br></li><li> Memes.<br></li><li> You'd like to use a different avatar.</li></ul><h2 class=\"bb_tag\" >What this is not.</h2><ul class=\"bb_ul\"><li> Absolutely perfect models:  They run, walk, swim etc but still move like rambot did.  Player weapons are sized to the model scale but are not held correctly.<br></li><li> Something that will hugely change gameplay. (Outside of additional customisation.)</li></ul><br>We can develop this further, add animations you want (check mixamo and let us know), there will be a channel setup in the official discord for it.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288680/header.jpg?t=1698929093",
+    "developers": [
+      "Brilliant Skies Ltd."
+    ],
+    "publishers": [
+      "Brilliant Skies Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 29,
+        "description": "Steam 集换式卡牌"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

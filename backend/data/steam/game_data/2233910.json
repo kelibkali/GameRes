@@ -1,0 +1,74 @@
+{
+  "2233910": {
+    "name": "Invasion - Unlockable-Hats-Pack",
+    "steam_appid": 2233910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>DISCLAIMER:</strong> These DLCs were created for educational purposes, as I wanted to learn how to publish a multiplayer game on Steam and how to create DLC. They were made for my viewers to support me and shouldn't be taken too seriously.<br><br>Unlock 4 hats by finishing the challenges added in this DLC and get 15.000 gold to buy your first skin variations.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Unlockable-Hats-Content</strong></p><p class=\"bb_paragraph\" >Haybale: Survive an Invasion on peasant difficulty without dying</p><p class=\"bb_paragraph\" >Flowerpot: Survive an Invasion on citizen difficulty without dying</p><p class=\"bb_paragraph\" >Little Companion: Survive an Invasion on knight difficulty without dying</p><p class=\"bb_paragraph\" >Crown: Survive an Invasion on king difficulty without dying</p><p class=\"bb_paragraph\" >15.000 Gold</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Note: This DLC is not refundable because of the consumable Gold and the cosmetics (Hats) need to be unlocked by finishing the quest asociated with the cosmetic item.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233910/header.jpg?t=1746012618",
+    "developers": [
+      "LionDev"
+    ],
+    "publishers": [
+      "LionDev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

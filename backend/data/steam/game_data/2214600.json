@@ -1,0 +1,98 @@
+{
+  "2214600": {
+    "name": "DCS: Black Shark 3",
+    "steam_appid": 2214600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "DCS: &quot;黑鲨&quot;3是著名的&quot;黑鲨&quot;和&quot;黑鲨&quot;2项目的进一步发展，这两个项目是专门针对俄罗斯Ka-50武装直升机的模拟。<br />\r\n<br />\r\nKa-50是世界上唯一的单座共轴双桨武装直升机。它可以有效地执行反坦克任务、提供近距离空中支援，并用多种武器攻击战场上的点目标。<br />\r\n<br />\r\n&quot;黑鲨&quot;3版本实现了新的功能，如：“针”空对空导弹，大大扩展了其空对空能力；以及一个新的防御系统，可以探测到向本机发射的导弹。此外，在DCS中首次实现了惯性导航系统（INS）的物理模型，其所有功能包括：飞行前对准、漂移误差累积以及根据预设固定点进行修正的能力。<br />\r\n<br />\r\n主要特点：<br />\r\n<br />\r\n    空对空导弹“针”<br />\r\n    导弹防御预警系统<br />\r\n    惯性导航系统（INS）的详细模型<br />\r\n    使用现代技术创建的全新3D模型<br />\r\n    具有6自由度的详细3D驾驶舱<br />\r\n    精确模拟双旋翼共轴式直升机特性的专业飞行模型<br />\r\n    深入研究直升机系统和设备：瞄准和导航系统、武器控制系统、发动机、无线电设备、驾驶舱仪表、燃油、电气和液压系统。<br />\r\n    直升机的所有标准武器均已实装，包括：“旋风”反坦克导弹、火箭弹、炸弹和内置机炮",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214600/header.jpg?t=1727190326",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 49000,
+      "final": 49000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 490.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 17,
+      "total_negative": 1,
+      "total_reviews": 18
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "2117170": {
+    "name": "Kardun",
+    "steam_appid": 2117170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2117170/extras/warning.PNG?t=1662019331\" /></span><h2 class=\"bb_tag\" >Kardun</h2>Kardun is an experimental, up to 36 button menu only, combat game.<h2 class=\"bb_tag\" >Gameplay</h2>The core of the gameplay is the combat, in which you fight against a foe by choosing the moves both for yourself and the foe. In short:<br><br><br><ul class=\"bb_ul\"><li> You and your foe have up to six moves<br></li><li> Moves have to be charged before use<br></li><li> Once charged, moves have to be used<br></li><li> Using moves charges other moves <br></li><li> Defeating a foe allows taking its moves</li></ul><h2 class=\"bb_tag\" >Visuals</h2>The game can only be interacted with using menu screens of visual buttons. <br>Progress bars and text are its primary ingredients. The visuals can be altered using the following features:<br><br><ul class=\"bb_ul\"><li> A number of distinct color palettes <br></li><li> Screen filter with 8 tune-able parameters</li></ul><br>The game is best played pretending you have never seen a video game before.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2117170/header.jpg?t=1662019331",
+    "developers": [
+      "Rokas"
+    ],
+    "publishers": [
+      "Rokas"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2117170/ed7a3afb5f45f819228bd25792739350496bc16d.jpg"
+        },
+        {
+          "name": "Reliant",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2117170/ad87b5ee548babdf794f668ef1dda293eb519990.jpg"
+        },
+        {
+          "name": "Universal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2117170/72ee729f4cbc6993234c066f07e723b3a9af3ae4.jpg"
+        },
+        {
+          "name": "Variety",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2117170/aa68b817c6c8b8c5e73b5cb8ac0384e111aa500e.jpg"
+        },
+        {
+          "name": "Marathon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2117170/d832fb2c28d517e11fa765b4d352b2886e4a99c5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

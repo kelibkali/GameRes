@@ -1,0 +1,54 @@
+{
+  "2370570": {
+    "name": "Standable: Full Body Estimation",
+    "steam_appid": 2370570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><i>Standable Full Body Estimation</i> is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions or other FBT tracking devices. Using the continuous positional data from any VR headset / HMD, Standable FBE can emulate the general movement of an 11-point tracking solution.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Quick Calibration:</strong> Spend less time setting up and more time immersed in VR.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Tracking:</strong> Estimates 8 additional points to mimic a full 11-point tracking system.</p></li><li><p class=\"bb_paragraph\" ><strong>Natural Leg Movement:</strong> Seamlessly integrates with 3-point tracking (or more with mixed tracking!) for fluid body motion.</p></li><li><p class=\"bb_paragraph\" ><strong>Versatile Poses:</strong> Lay down in any direction (stomach, back, sides) and transition smoothly between standing and laying positions.</p></li><li><p class=\"bb_paragraph\" ><strong>Enhanced Elbow Estimation:</strong> Improved elbow angles for natural arm movements.</p></li><li><p class=\"bb_paragraph\" ><strong>SteamVR Compatibility:</strong> Works with any SteamVR app supporting full body tracking.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Slick User Interface</h2><p class=\"bb_paragraph\" >Personalize your Standable experience with a fresh and intuitive UI.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Pose Adjustment Sliders:</strong> Fine-tune your sit/lay poses.</p></li><li><p class=\"bb_paragraph\" ><strong>Hip Movement Control:</strong> Adjustable hip sway and counterbalance.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Tracker Management:</strong> Enable/disable trackers on the fly.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Advanced Estimation Options</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Seat Estimation:</strong> Automatically blend into a seated pose on various surfaces.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Chest Estimation:</strong> Dynamic chest movement based on hand proximity.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Mixed Tracking</h2><p class=\"bb_paragraph\" >Combine Standable with real FBT devices for the best of both worlds.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fill in the Gaps:</strong> Use Standable to fill in tracking gaps where hardware trackers are absent.</p></li><li><p class=\"bb_paragraph\" ><strong>Fallback Triggers:</strong> Smoothly transition between FBT and Standable when trackers get occluded or run out of battery.</p></li><li><p class=\"bb_paragraph\" ><strong>Tracker Data Smoothing:</strong> Basic interpolation for smooth tracking (more advanced methods coming soon).</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Quick Consistent Calibration</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Alignment Options:</strong> Align Standable skeleton to your avatar for consistent calibration.</p></li><li><p class=\"bb_paragraph\" ><strong>Pencil Pose:</strong> Quick calibration for mixed tracking setups.</p></li><li><p class=\"bb_paragraph\" ><strong>Smart Offsets:</strong> Ensure consistent mixed tracking calibration.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Join the Community</strong></p><p class=\"bb_paragraph\" >For technical support and to connect with the community, join the Official Standable Discord!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/header.jpg?t=1765566035",
+    "developers": [
+      "Standable"
+    ],
+    "publishers": [
+      "Standable"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 18,
+      "total_negative": 1,
+      "total_reviews": 19
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "2227490": {
+    "name": "CodingPack",
+    "steam_appid": 2227490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《CodingPack代码包裹》是一款单人益智解谜游戏。你需要移动包裹到正确的位置，但只能通过提前设置好的移动指令。每个关卡的指令数量是有限的，所以你需要通过逻辑推理来预测你的命令会带来什么样的结果。随着你深入关卡，会有更多的机制供你去探索。<br />\r\n<br />\r\n游戏包含45个手工制作的关卡。它们围绕着核心机制，各自有着不同的创意，需要玩家理解并掌握游戏的规则来寻找到正确的答案。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227490/header.jpg?t=1671961234",
+    "developers": [
+      "Lemon"
+    ],
+    "publishers": [
+      "Lemon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "重定向",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227490/f582459681f84b437ef37709d4ad8a4a74d48ac3.jpg"
+        },
+        {
+          "name": "重启",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227490/29ddc16ec9d1959a4c391d072205324b222fc3ad.jpg"
+        },
+        {
+          "name": "离线",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227490/5341b56bb584f0d422289ab86e41de4204e48a37.jpg"
+        },
+        {
+          "name": "退休快乐！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2227490/ce2e0611cb4f69112b552f3e934d81336b120038.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

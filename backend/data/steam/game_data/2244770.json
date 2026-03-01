@@ -1,0 +1,90 @@
+{
+  "2244770": {
+    "name": "Stonga Bird",
+    "steam_appid": 2244770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Stonga Bird is a score attack game about an irradiated bird who has a hard time staying in the air. Time your little &quot;hops&quot; to dodge the industrial pipes to prevent death.<br />\r\n<br />\r\nYour bird is very fragile and will explode upon contact with anything but the clear air. You have to avoid all obstacles and reach as high of a score as possible to brag to your friends.<br />\r\n<br />\r\nThis is a portrait-mode windowed game which was designed to be played with a mouse.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244770/header.jpg?t=1745417316",
+    "developers": [
+      "Stonga"
+    ],
+    "publishers": [
+      "Stonga"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 77,
+        "description": "可以仅用触控"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Highscore",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244770/2e43a1b8d88a2c2333be66a589a19f37acf50387.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

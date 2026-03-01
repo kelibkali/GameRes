@@ -1,0 +1,62 @@
+{
+  "2196410": {
+    "name": "简单滚动",
+    "steam_appid": 2196410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个滚球类游戏。游戏包含两个模式——关卡模式和创造模式。<br />\r\n游戏使用ue4引擎开发，游戏操作基于实时的物理模拟和物理破坏效果。<br />\r\n<br />\r\n关卡模式：<br />\r\n关卡模式包含4个场景，一共16关，每一关都有一个奖杯，16关全部挑战并拿到16个奖杯即可解锁第17个奖励关。关卡模式有十多种机关道具和计时功能，可以挑战最速通关。<br />\r\n<br />\r\n创造模式：<br />\r\n创造模式有24个地图存档栏位（后续可更新更多）。一共4个场景可选（后续可更新更多），可以自定义地图名称，并且一共有6大类150+的物件机关可供选择。可以任意添加、移除、保存地图，也可以分享地图。同时还可以玩自己创建的地图，同样具有计时功能。<br />\r\n如何分享地图：将别人的地图存档文件复制到自己的游戏存档目录即可。<br />\r\n   存档文件目录：C:\\Users\\用户名\\AppData\\Local\\SimpleRolling\\Saved\\SaveGames\\ all-maps.sav",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 简体中文, 葡萄牙语 - 葡萄牙, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196410/header_schinese.jpg?t=1681703918",
+    "developers": [
+      "LY"
+    ],
+    "publishers": [
+      "LY"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

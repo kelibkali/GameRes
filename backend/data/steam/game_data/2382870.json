@@ -1,0 +1,62 @@
+{
+  "2382870": {
+    "name": "Elevator",
+    "steam_appid": 2382870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You have accidentally been trapped inside an apartment. Within the apartment, you can explore various rooms and furniture by left-clicking on them (furniture that can be explored will emit a green light). Through exploration, you can discover what items are inside each furniture. You can collect these items in your inventory and use them by right-clicking on them, or try combining them in the crafting tab located in the bottom right corner of the screen to create higher-tier items. To craft, left-click on the items in your inventory, set the desired quantity, and press the craft button.<br />\r\n<br />\r\nHigher-tier items will be more useful in helping you survive and may even become key items in your escape from the apartment.<br />\r\n<br />\r\nHowever, please note that there is a ghost lurking within the apartment. The ghost roams around the apartment and occasionally attacks the player. Since the ghost is invisible, the player must rely on sound to locate its position.<br />\r\n<br />\r\nThere is one working elevator within the apartment that is always functional and has no fuse or mechanical issues. The player can use the elevator to travel to various floors, but the ghost can also use it. If the ghost is in the elevator, the elevator will turn red, so be aware of this.<br />\r\n<br />\r\nLastly, there is not only one way to escape, so try various methods and experiment to successfully escape.",
+    "supported_languages": "英语, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/header.jpg?t=1682424260",
+    "developers": [
+      "RABBIT"
+    ],
+    "publishers": [
+      "RABBIT"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

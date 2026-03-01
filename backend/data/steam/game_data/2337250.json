@@ -1,0 +1,67 @@
+{
+  "2337250": {
+    "name": "The Nine’s Showdown",
+    "steam_appid": 2337250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Inspired by the board game &quot;Coup&quot; and incorporating elements of poker card games and Mahjong, &quot;The Nine's Showdown&quot; is a unique blend of strategy and bluffing. With &quot;Classic Mode&quot;, as well as the added excitement of &quot;Fraud Mode&quot; and &quot;Madness Mode&quot;, this game promises an unforgettable gaming experience.<h2 class=\"bb_tag\" >Basic Game Rules (Classic Mode)</h2>At the beginning of each round, players draw 4 cards and receive 5 hearts and 2 coins. The first player then begins their turn, and each player in turn draws a card and chooses one of the common actions listed below.<br><br><br><strong>Common Actions:</strong><br><ul class=\"bb_ul\"><li>Gain 2 coins<br></li><li>Gain 3 coins (Might be <i>Intercepted</i>)<br></li><li><i>Strike</i>: Spend 5 coins and let a player lose 1 heart<br></li><li><i>HOOLA</i><br></li><li>Use a card ability (Claim having the card)</li></ul><br><strong>Card Abilities:</strong><br><ul class=\"bb_ul\"><li>Draw 1 card, gain 1 coin, regain 1 heart.<br></li><li><i>Snatch</i>: Take away 2 coins from a target player.<br></li><li><i>Attack</i>: Spend 3 coins and make a player lose 1 heart.<br></li><li><i>Reverse</i>: Flip the turn direction.<br></li><li><i>Pick</i>: Let the target player be the next to play.<br></li><li><i>Roll 6</i>: Roll a 6-sided die. If the point is 6, gain 6 coins.<br></li><li><i>Roll 8</i>: Roll a 8-sided die. Gain as many coins as the result.<br></li><li>Let all players' coin return to 0 and draw 1 card.</li></ul><br>Players have to discard cards to keep exactly 4 cards in hand.<br>Players have up to 7 hearts and 9 coins.<br>Whenever players are challenged, their hand is checked. If they don't have the card, they lose 1 heart.<br>Players are out when they lose all of their heart.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2337250/header.jpg?t=1750944738",
+    "developers": [
+      "SixfoldPower"
+    ],
+    "publishers": [
+      "SixfoldPower"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

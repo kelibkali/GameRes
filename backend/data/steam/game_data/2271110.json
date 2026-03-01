@@ -1,0 +1,146 @@
+{
+  "2271110": {
+    "name": "RogueViz Collection",
+    "steam_appid": 2271110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>RogueViz</strong> is a non-Euclidean geometry engine, originally designed for HyperRogue. While the setting of HyperRogue has proven to be extremely universal -- ascending from the original mind-bending 2D puzzle roguelike gameplay to experimental modes like 3D racing or first-person shooter -- some ideas still did not fit its world. Such games are included here! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The games in this collection are of various genres, but all of them are experiments on how non-Euclidean geometry can be used to create engaging gameplay. Note that we use &quot;non-Euclidean&quot; in the mathematical meaning of &quot;curved space&quot;, which is more mind-bending than the mainstream meaning! The following games are included: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Bringris</strong>: A 3D falling block puzzle game. No keys to rotate the pieces horizontally because the space is non-Euclidean (and thus it is not needed); no keys to rotate the pieces vertically because the space is anisotropic (and thus it is not needed)! </p></li><li><p class=\"bb_paragraph\" > <strong>Nil Rider</strong>; A racing game in Nil geometry. Have you seen these impossible staircases? In Nil Rider, you can ride them to gain more and more speed. Great both on the computer screen and in VR! </p></li><li><p class=\"bb_paragraph\" > <strong>Relative Hell</strong>. Abandon all hope of going faster than light! This game lets you have some fun with de Sitter and anti-de Sitter geometries. The anti-de Sitter game is a multidirectional shooter, and the de Sitter game is a bullet hell. </p></li><li><p class=\"bb_paragraph\" ><strong>Seuphorica: </strong>a solitaire deckbuilder where you create a crossword. Originally designed for the Euclidean square grid, but the RogueViz version lets you see what non-Euclidean crosswords would look like!</p></li></ul><p class=\"bb_paragraph\" >The three first games above are currently the only games specially designed for their respective geometries (H2xR, Nil, and (anti) de Sitter). The collection also includes<strong> </strong> smaller games and demos.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271110/header.jpg?t=1756277950",
+    "developers": [
+      "Zeno Rogue"
+    ],
+    "publishers": [
+      "Zeno Rogue"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 8 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 31,
+      "highlighted": [
+        {
+          "name": "Four at once",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/e891507e9e2651cf65a15c0b9885b9c1d88b58b3.jpg"
+        },
+        {
+          "name": "B-Shift",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/af2b29d92e5e5362194a3bc30b877e031068aecd.jpg"
+        },
+        {
+          "name": "Welcome to Nil Rider",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/37f3f22d89b2dafc4defc9d6fad15f04fbe7099c.jpg"
+        },
+        {
+          "name": "Trying to be horizontal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/37f3f22d89b2dafc4defc9d6fad15f04fbe7099c.jpg"
+        },
+        {
+          "name": "A Long Track",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/1ab44a72fa522a53d0c4022c0f222e7cc8789842.jpg"
+        },
+        {
+          "name": "Stopping after a Long Track",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/1ab44a72fa522a53d0c4022c0f222e7cc8789842.jpg"
+        },
+        {
+          "name": "Long Track Left",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/1ab44a72fa522a53d0c4022c0f222e7cc8789842.jpg"
+        },
+        {
+          "name": "Roads are Geodesics",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/d89b050ea5a52aa6b575ae95e57de6b77679086f.jpg"
+        },
+        {
+          "name": "Helical Geodesic",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/ccea092a50d42b93d7a643f19f904ff078c5d9dd.jpg"
+        },
+        {
+          "name": "Heisenberg Zero",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2271110/ac49f6a62786b2fa740da0c05053071555a357fa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "2198950": {
+    "name": "UDONGEIN X - Seiran",
+    "steam_appid": 2198950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Add Seiran as a playable character to UDONGEIN X, along with her own story.",
+    "supported_languages": "英语, 日语, 简体中文, 俄语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198950/header.jpg?t=1668696167",
+    "developers": [
+      "Bar Holographic Otaku"
+    ],
+    "publishers": [
+      "Bar Holographic Otaku"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "dlc"
+  }
+}

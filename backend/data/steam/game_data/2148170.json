@@ -1,0 +1,110 @@
+{
+  "2148170": {
+    "name": "Murtop",
+    "steam_appid": 2148170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Murtop 是一款充满动作元素的快节奏街机游戏，仿佛直接取自 80 年代，Dig Dug 与 Bomberman 的邂逅。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2148170/extras/55c7937bf0573281f1417ffa8ade771e.poster.avif?t=1734087298\" width=400 height=514 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2148170/extras/55c7937bf0573281f1417ffa8ade771e.webm?t=1734087298\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2148170/extras/55c7937bf0573281f1417ffa8ade771e.mp4?t=1734087298\" type=\"video/mp4\"></video></span><br><br>帮助穆尔蒂用她的炸弹大便技能，从饥饿的鼹鼠的入侵中拯救世界！<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2148170/extras/d8eba47d1d0ec44f15bd09831ee36393.avif?t=1734087298\" width=600 height=192 /></span><br><br><strong>游戏特色：</strong><br><br><ul class=\"bb_ul\"><li>256 个限时单屏关卡……还有杀戮画面！ 让我们看看你是否能做到。<br></li><li>每 5 个阶段奖励阶段...以及一个秘密奖励阶段！<br></li><li>5 首快节奏的芯片音乐曲目。<br></li><li>在线和本地高分排行榜。<br></li><li>优化用于街机柜机。<br></li><li>很多很多的爆炸！</li></ul><br><strong>技术细节：</strong><br><br><ul class=\"bb_ul\"><li>带有漂亮边框的垂直屏幕填补了空白。<br></li><li>16 种调色板。<br></li><li>像素完美缩放。<br></li><li>CRT 滤光片。<br></li><li>吸引模式（就像旧的街机一样）。<br></li><li>TATE 模式（旋转屏幕来玩游戏）。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙, 日语, 加泰罗尼亚语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2148170/header.jpg?t=1734087298",
+    "developers": [
+      "hiulit"
+    ],
+    "publishers": [
+      "Flynn's Arcade"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "2 in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/366d6419476ec6f88331f5395341af5ec09f9633.jpg"
+        },
+        {
+          "name": "3 in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/d5b167831af6de47943e4f80ad357943ca7ef80e.jpg"
+        },
+        {
+          "name": "4 in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/f990d15fedc5ae7f571a2bae812f39b6d0bf6d78.jpg"
+        },
+        {
+          "name": "5 in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/d7dba4ec42058dd65903d6a14a3e8f0fce3b17b5.jpg"
+        },
+        {
+          "name": "6 in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/98a2ef8a56d4c4ed1ca40b6a9e78ae603c69c6b6.jpg"
+        },
+        {
+          "name": "Dig master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/7070749e489244d5f70e4e3ff9d1f8847efe91a7.jpg"
+        },
+        {
+          "name": "All in a row",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/b4c00a82649e406da9e9e985148f89770e704497.jpg"
+        },
+        {
+          "name": "In the nick of time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/ba41f932d4e2b06a3e620cc45bd187af91e962d6.jpg"
+        },
+        {
+          "name": "Grand finale",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/9dad9bf4bd2a489f550d43fc04b2ee766a6fb383.jpg"
+        },
+        {
+          "name": "Vengeance",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2148170/2b9a262d226021ac0fdaaddb147e74ff0a12ba33.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

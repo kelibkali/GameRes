@@ -1,0 +1,53 @@
+{
+  "2377030": {
+    "name": "rTexPacker",
+    "steam_appid": 2377030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>A simple and easy-to-use textures packer and font atlas generator.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377030/extras/fe54e8e41dd3b8cd66a035a22fed122f.avif?t=1764323702\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>rTexPacker</strong> is a powerful tool to package sprites or fonts into an atlas, to improve drawing performance on games.</p><p class=\"bb_paragraph\" >Multiple images can be automatically organized (packed) into a single bigger image, as well as the multiple text characters of a font required by a game. </p><p class=\"bb_paragraph\" >Packaging method can be configured with several option like packaging algorithm, padding and spacing between image.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With <strong>rTexPacker</strong> you can easely package sprites and export atlas information in multiple formats (XML, JSON, CODE...).</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377030/extras/f688c9d22623cc76b78ecf02bebc4b91.avif?t=1764323702\" width=774 height=70 /></span></h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Package sprites and font glyphs into an atlas</p></li><li><p class=\"bb_paragraph\" >Configure packing algorithms, heuristics and manual placement</p></li><li><p class=\"bb_paragraph\" >Setup sprite padding, spacing, trimming and alpha-slicing</p></li><li><p class=\"bb_paragraph\" >Per-sprite tools: pivot, collider and tag editing</p></li><li><p class=\"bb_paragraph\" >Support relative paths and prepend-folder nameId export option</p></li><li><p class=\"bb_paragraph\" >Font generation options: Size, SDF, fixed height and monospace</p></li><li><p class=\"bb_paragraph\" >Import custom Unicode charset from UTF-8 file</p></li><li><p class=\"bb_paragraph\" >Export missing glyphs automatically</p></li><li><p class=\"bb_paragraph\" >Unicode charset duplicates removed automatically</p></li><li><p class=\"bb_paragraph\" >Load sprites with multi-file selection dialog</p></li><li><p class=\"bb_paragraph\" >Load sprites from multiple image formats: .png, .qoi, .tga, .jpg</p></li><li><p class=\"bb_paragraph\" >Load sprites from font files: .ttf, .otf</p></li><li><p class=\"bb_paragraph\" >Atlas visualization: Zoom, Pan, Grid, Background and Fill</p></li><li><p class=\"bb_paragraph\" >Multiple UI styles: Amber, Genesis and more</p></li><li><p class=\"bb_paragraph\" >New welcome/help windows and improved UI performance</p></li><li><p class=\"bb_paragraph\" >Load/Save portable self-contained .rtp project (compressed by default)</p></li><li><p class=\"bb_paragraph\" >Auto-save config on web platform</p></li><li><p class=\"bb_paragraph\" >Config file renamed: rtexpacker.ini</p></li><li><p class=\"bb_paragraph\" >Export atlas descriptor as: .rtpa, .rtpb, .json, .xml and code (.h)</p></li><li><p class=\"bb_paragraph\" >Export atlas image as: .png, .qoi, .dds and .raw</p></li><li><p class=\"bb_paragraph\" >Export atlas descriptor as PNG binary chunk: rTPb</p></li><li><p class=\"bb_paragraph\" >Command-line support: batch packing, slicing, tags and monospace</p></li><li><p class=\"bb_paragraph\" >Report unpacked sprites and improved rTPb export from CLI</p></li><li><p class=\"bb_paragraph\" >Maximum atlas size up to 16384×16384 pixels</p></li><li><p class=\"bb_paragraph\" >Completely portable (single-file, no dependencies)</p></li><li><p class=\"bb_paragraph\" >Cross-platform support: Windows and macOS (Intel + ARM)</p></li><li><p class=\"bb_paragraph\" >Updated to latest raylib 5.6-dev, raygui 4.5-dev and rini 3.0-dev</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377030/extras/32dfb3a717decbb1c58dbc6023511630.avif?t=1764323702\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" ><strong>rTexPacker</strong> is handmade software, it has been meticulously developed using the C programming language, with great attention put on every line of code written. This approach usually results in highly optimized and efficient code, but it is also more time-consuming and require a higher level of technical skills. The result is great performance and small memory footprint.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377030/header.jpg?t=1764323702",
+    "developers": [
+      "raylib technologies"
+    ],
+    "publishers": [
+      "raylib technologies"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 25 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

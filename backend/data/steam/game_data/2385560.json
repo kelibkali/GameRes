@@ -1,0 +1,110 @@
+{
+  "2385560": {
+    "name": "Shadow Prisoner",
+    "steam_appid": 2385560,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >&quot;Shadow Prisoner&quot; is a 2D fighting game with simple controls that allow you to perform exhilarating combos.</p><p class=\"bb_paragraph\" >You can play with 25 characters (9 will be added for free, and one is a collaboration character that will be paid DLC).</p><p class=\"bb_paragraph\" >Even if you have no experience with fighting games, you can use the simple mode to play like an experienced fighting gamer just by repeatedly pressing buttons.</p><p class=\"bb_paragraph\" >There are story mode and survival mode for single player, and versus mode and network mode for competitive play.</p><p class=\"bb_paragraph\" >Network mode has a zero-latency netcode that supports rollback.</p><p class=\"bb_paragraph\" >If you are playing in Japan, you can play with the same input sensation as if you were playing next to someone in Japan.</p><p class=\"bb_paragraph\" ><strong><u>Currently available is the main game and the additional non-combo game April Liars.</u></strong></p><p class=\"bb_paragraph\" >In addition, Epsilon mode, a fighting action game where you shoot each other with a barrage of bullets, exclusive to the Steam version, will be added.</p>",
+    "supported_languages": "英语, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385560/header.jpg?t=1771140416",
+    "developers": [
+      "Kizawaya"
+    ],
+    "publishers": [
+      "Kizawaya"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Story Mode Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2385560/01200d27709421665aed81cfbdeab547f1f9670d.jpg"
+        },
+        {
+          "name": "All",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2385560/01200d27709421665aed81cfbdeab547f1f9670d.jpg"
+        },
+        {
+          "name": "Story Mode Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2385560/01200d27709421665aed81cfbdeab547f1f9670d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

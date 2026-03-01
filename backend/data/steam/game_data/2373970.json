@@ -1,0 +1,71 @@
+{
+  "2373970": {
+    "name": "Indie Game Farmer",
+    "steam_appid": 2373970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a farm simulation game, players grow crops, sell crops in exchange for gold, through the gold can buy seeds, and cover daily expenses, when the gold income is enough, players can buy a set of computers to realize their dream of independent games.",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373970/header.jpg?t=1746640509",
+    "developers": [
+      "liangxiegame"
+    ],
+    "publishers": [
+      "liangxiegame"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "2026 年"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

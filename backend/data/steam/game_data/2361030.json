@@ -1,0 +1,82 @@
+{
+  "2361030": {
+    "name": "Time Limit Harvest（タイムリミットハーベスト）",
+    "steam_appid": 2361030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;Time Limit Harvest&quot; is a game in which the goal is to grow and sell crops within a time limit and earn as much profit as possible.<br />\r\nAs you level up, you can acquire tools and crop seeds.<br />\r\nYou can extend the time limit by spending the money you earn.<br />\r\nMouse, keyboard, and controller are supported.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361030/header.jpg?t=1682688410",
+    "developers": [
+      "DismayChildFish"
+    ],
+    "publishers": [
+      "DismayChildFish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Millionaire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2361030/c2374e6add9837fcd614fae5a9807d97e9435249.jpg"
+        },
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2361030/0bba57e49afe86312b7055cb27dee3abe33ea906.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

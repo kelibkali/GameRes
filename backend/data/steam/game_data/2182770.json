@@ -1,0 +1,118 @@
+{
+  "2182770": {
+    "name": "Escape From Zombies",
+    "steam_appid": 2182770,
+    "required_age": "18",
+    "is_free": false,
+    "description": "Escape From Zombies is played alone or cooperatively, on a map where the player(s) must repel waves of zombies through each level. It should be noted that the game does not end until all players are dead, the main goal is to beat the record of survived round.<br><br><i>The game is currently in Pre Alpha, and still in development</i><br><br>The player earns points by inflicting damage on zombies, killing them or reanimating a fallen teammate. It is also possible to lose points by falling to the ground. With the points, it is possible to make various purchases (weapons, equipment...), to clear certain obstacles preventing free movement inside the map, or to perform certain actions (activate traps, teleporters...), and even to acquire new weapons. ), and even acquire &quot;Assets&quot;, materialized by drink dispensers of different colors, such as the Mastodon which allows you to receive 5 shots instead of 2 before falling to the ground, Double-Shot which increases the rate of fire of automatic weapons by 25%, Pass-Pass which halves the reloading time as well as Rapid Reanimation which halves the time needed to heal a player who has been eliminated by zombies.<br><br>In addition, some zombies drop bonuses in the form of a golden object surrounded by a green halo. The bonuses are as follows: Instant death (Insta-kill), it comes in the form of a skull and lasts 30 seconds. It allows you to kill your opponents with a single blow from any weapon. Nuke kills all zombies on the map Max ammo instantly fills the ammo and grenade supply of living players Double points lasts 30 seconds and doubles the points received by wounding or killing zombies and rebuilding barricades.<br><br>It is possible to have more than four assets at the same time, and the player will lose them if he falls down. Once reanimated, he will keep his weapons. If unfortunately no one comes to revive him before a given time, he will disappear from the map and will only reappear in the next round (provided that the other players survive the current one...), without trumps or weapons. The game ends when all players are down.",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2182770/header.jpg?t=1667934934",
+    "developers": [
+      "BiKouZ"
+    ],
+    "publishers": [
+      "PINAL AGENCY"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "50 ZOMBIES KILLED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/e634183306545e270456d7826de64ef54b97b78f.jpg"
+        },
+        {
+          "name": "150 ZOMBIES KILLED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/120e2950f2928cf5bad95d020bba077c3ef70d4a.jpg"
+        },
+        {
+          "name": "10 ROUNDS SURVIVED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/2cc3ce7b3dd0e46e0c520cb1a8d8ac5a72378241.jpg"
+        },
+        {
+          "name": "15 ROUNDS SURVIVED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/c0e49b74569cea768c4148276effb1d183b2f264.jpg"
+        },
+        {
+          "name": "500 ZOMBIES KILLED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/d37e78a73098fa55fcdde0a946972c3d8fca8b7c.jpg"
+        },
+        {
+          "name": "1500 ZOMBIES KILLED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2182770/5547a7332ded4fbd93a1354f902237ab7ca2a295.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

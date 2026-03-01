@@ -1,0 +1,50 @@
+{
+  "2304870": {
+    "name": "the wassie games Demo",
+    "steam_appid": 2304870,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304870/header.jpg?t=1680726845",
+    "developers": [
+      "studio mashed"
+    ],
+    "publishers": [
+      "studio mashed"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "one smol step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2304870/27bf89a8b3e678ebd59a96044c3a9f167a9477ac.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

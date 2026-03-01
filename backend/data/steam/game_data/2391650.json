@@ -1,0 +1,130 @@
+{
+  "2391650": {
+    "name": "Monarchy",
+    "steam_appid": 2391650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这款2D横向卷轴策略游戏中释放你的策略天赋——你必须建立基地、管理资源、探索神秘森林并征服敌人。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/extras/692d265dff06ec7a298a6388781538c4.poster.avif?t=1730909330\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/extras/692d265dff06ec7a298a6388781538c4.webm?t=1730909330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/extras/692d265dff06ec7a298a6388781538c4.mp4?t=1730909330\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li> 打造一支将会一直追随你并听你号令的军队！<br></li><li> 在每个夜晚保卫你的基地。<br></li><li> 体验攻城机制，对抗攻城专用的冲撞车、攻城塔和投石车。<br></li><li> 探索神秘的森林并揭开其中的秘密。<br></li><li> 对你的王国进行微管理，例如取消特定工作和进行狩猎。<br></li><li> 通过本地分屏合作与亲朋好友一起游玩。<br></li><li> 经历春夏秋冬的季节更替。</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/extras/ec36565ab1feab2be431ec1497629832.avif?t=1730909330\" width=600 height=338 /></span>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 巴西, 繁体中文, 荷兰语, 希腊语, 葡萄牙语 - 葡萄牙, 俄语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2391650/header.jpg?t=1730909330",
+    "developers": [
+      "Brain Seal Ltd"
+    ],
+    "publishers": [
+      "Brain Seal Ltd"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 25,
+      "highlighted": [
+        {
+          "name": "First Night",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/0752bbccd8844d073adda87082e7e832d2331c8e.jpg"
+        },
+        {
+          "name": "Deer Trap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/584b5a052d684ce384c5680abd9003693fffaedd.jpg"
+        },
+        {
+          "name": "Bunny Trap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/565cfb3e6438a50983f41487b5df4618427938de.jpg"
+        },
+        {
+          "name": "Bandit Cave",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/a1a93b984cfb37897f8853673775dfe14aa46303.jpg"
+        },
+        {
+          "name": "Bandit Trap",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/392c6f28ea85c019741594e7261a23271fc1fe22.jpg"
+        },
+        {
+          "name": "Bandit Land",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/ebd84cbb145eb207caf80b0d5a8a2b927a5c244f.jpg"
+        },
+        {
+          "name": "The Siege",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/260f324e7424b03845a1eaf941759bcd7546fbd7.jpg"
+        },
+        {
+          "name": "Winter Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/e17140aa6f7cb54a8f119367a2e8e7aba023eb27.jpg"
+        },
+        {
+          "name": "Full Moon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/b073d7e4b74388230bcaa4ca299995d14635e245.jpg"
+        },
+        {
+          "name": "Horse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2391650/90f836db5048d0358e9df586e42681bcb8fbb0c7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "2353830": {
+    "name": "L-ROOM",
+    "steam_appid": 2353830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Let's build the routes that connect the platforms. </strong><br><br>This is a first-person puzzle game where you have to understand the algorithm and select the correct nodes.<br>Think carefully with a drone as a companion.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353830/extras/Introduce.GIF?t=1717034857\" /></span><br><br>L-ROOM is a puzzle game where you build a route from a starting platform to a platform with the Teleporter to get to the next room.<br>Build the correct route in the unique hologram displayed by the drone.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353830/extras/b252e12f605644f0a0397b733e83dce9.avif?t=1717034857\" width=600 height=200 /></span><h2 class=\"bb_tag\" >Node-based program for building routes</h2>Shown inside the hologram is a node-based program consisting of several pages.<br><ul class=\"bb_ul\"><li>The &quot;Seed&quot; page that sets the initial node list.<br></li><li>The &quot;Branch&quot; page that defines how node will change.<br></li><li>The &quot;Generation&quot; page that determines how many times to grow the node list.<br></li><li>The &quot;Tree&quot; page to browse the built results.</li></ul>Fix empty or incorrect nodes in the node list on the &quot;Seed&quot; and &quot;Branch&quot; pages.<br>You can view the build results on the &quot;Tree&quot; page at always.<br>There is no time limit or number of revisions allowed. You can repeat trial and error as many times as you like until you build the correct route.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353830/extras/82d5734496eafba344912e805921e211.avif?t=1717034857\" width=600 height=333 /></span><h2 class=\"bb_tag\" >Node types</h2>The route is deployed in 3D space.<br>6 types of nodes for going straight:<br><ul class=\"bb_ul\"><li>X+ and X-<br></li><li>Y+ and Y-<br></li><li>Z+ and Z-</li></ul>in addition, there are 24 types of nodes for turning and 10 types for &quot;Generation&quot; page.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353830/extras/27533eaf990eb94788853161a502e52c.avif?t=1717034857\" width=600 height=250 /></span><h2 class=\"bb_tag\" >If you can build the correct route</h2>Once you have built the correct route, use the Floater to move to the platform with the Teleporter.<br>You enter the Teleporter will transition to the next room.<br>Please try to escape from all rooms!<h2 class=\"bb_tag\" >Other features</h2><ul class=\"bb_ul\"><li>UI with only symbols and numbers.<br></li><li>Full controller support.<br></li><li>Steam cloud save.</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 日语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 印度尼西亚语<strong>*</strong>, 乌克兰语<strong>*</strong>, 荷兰语<strong>*</strong>, 希腊语<strong>*</strong>, 瑞典语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 泰语<strong>*</strong>, 捷克语<strong>*</strong>, 丹麦语<strong>*</strong>, 土耳其语<strong>*</strong>, 挪威语<strong>*</strong>, 匈牙利语<strong>*</strong>, 芬兰语<strong>*</strong>, 保加利亚语<strong>*</strong>, 越南语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 波兰语<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 韩语<strong>*</strong>, 冰岛语<strong>*</strong>, 爱尔兰语<strong>*</strong>, 阿塞拜疆语<strong>*</strong>, 阿萨姆语<strong>*</strong>, 南非语<strong>*</strong>, 阿姆哈拉语<strong>*</strong>, 阿尔巴尼亚语<strong>*</strong>, 亚美尼亚语<strong>*</strong>, 伊博语<strong>*</strong>, 维吾尔语<strong>*</strong>, 威尔士语<strong>*</strong>, 沃洛夫语<strong>*</strong>, 乌兹别克语<strong>*</strong>, 乌尔都语<strong>*</strong>, 爱沙尼亚语<strong>*</strong>, 奥迪亚语<strong>*</strong>, 哈萨克语<strong>*</strong>, 加泰罗尼亚语<strong>*</strong>, 卡纳达语<strong>*</strong>, 加利西亚语<strong>*</strong>, 基切语<strong>*</strong>, 吉尔吉斯语<strong>*</strong>, 高棉语<strong>*</strong>, 克罗地亚语<strong>*</strong>, 古吉拉特语<strong>*</strong>, 盖丘亚语<strong>*</strong>, 科萨语<strong>*</strong>, 孔卡尼语<strong>*</strong>, 信德语<strong>*</strong>, 僧伽罗语<strong>*</strong>, 格鲁吉亚语<strong>*</strong>, 苏格兰语<strong>*</strong>, 斯洛伐克语<strong>*</strong>, 斯洛文尼亚语<strong>*</strong>, 斯瓦希里语<strong>*</strong>, 祖鲁语<strong>*</strong>, 塞尔维亚语<strong>*</strong>, 索托语<strong>*</strong>, 索拉尼语<strong>*</strong>, 塔吉克语<strong>*</strong>, 鞑靼语<strong>*</strong>, 泰米尔语<strong>*</strong>, 达利语<strong>*</strong>, 切诺基语<strong>*</strong>, 茨瓦纳语<strong>*</strong>, 提格里尼亚语<strong>*</strong>, 泰卢固语<strong>*</strong>, 土库曼语<strong>*</strong>, 尼泊尔语<strong>*</strong>, 豪萨语<strong>*</strong>, 巴斯克语<strong>*</strong>, 瓦伦西亚语<strong>*</strong>, 旁遮普语（古尔穆基语）<strong>*</strong>, 旁遮普语（沙穆基语）<strong>*</strong>, 印地语<strong>*</strong>, 菲律宾语<strong>*</strong>, 希伯来语<strong>*</strong>, 白俄罗斯语<strong>*</strong>, 孟加拉语<strong>*</strong>, 波斯语<strong>*</strong>, 波斯尼亚语<strong>*</strong>, 毛利语<strong>*</strong>, 马其顿语<strong>*</strong>, 马拉雅拉姆语<strong>*</strong>, 马拉地语<strong>*</strong>, 马耳他语<strong>*</strong>, 马来语<strong>*</strong>, 蒙古语<strong>*</strong>, 约鲁巴语<strong>*</strong>, 拉脱维亚语<strong>*</strong>, 立陶宛语<strong>*</strong>, 卢森堡语<strong>*</strong>, 基尼亚卢旺达语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353830/header.jpg?t=1717034857",
+    "developers": [
+      "Y-Square Games G.K."
+    ],
+    "publishers": [
+      "Y-Square Games G.K."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Escape from first room",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353830/99185fc0c106117465681728f83f8273e969bd29.jpg"
+        },
+        {
+          "name": "Escape from all rooms",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353830/6d4150142e284c90602b0c983a43ec0d3c85b37c.jpg"
+        },
+        {
+          "name": "Solved 10 floor puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353830/33139296986bf9464db2c8952eaa3cea5614a395.jpg"
+        },
+        {
+          "name": "Solved All floor puzzles",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2353830/d39720e599f5171cf7e0b3f53153d469c1b9ad3a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

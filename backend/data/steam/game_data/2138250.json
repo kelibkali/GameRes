@@ -1,0 +1,42 @@
+{
+  "2138250": {
+    "name": "MELIGO Creator",
+    "steam_appid": 2138250,
+    "required_age": 0,
+    "is_free": true,
+    "description": "# MELIGO Creator v1.0 What has changed<br />\r\n<br />\r\n● Improve the quality of motion capture<br />\r\n- Head mode: Improving the bending or turning of the body or neck during use<br />\r\n- Half-body mode: Improvement of clapping areas<br />\r\n- Full body mode: Improve heel lift or some unnatural behavior<br />\r\n- Mollisen Animation Quality Improvement<br />\r\n- The calibration stage was divided into three, and more natural finger movements were implemented.<br />\r\n<br />\r\n● Improvement of calibration<br />\r\n- I changed it to tracker automatic recognition except for the complicated tracker allocation.<br />\r\n- However, it must be worn in the correct position to track the worn area.<br />\r\n- Save calibration data<br />\r\n- The data is saved by one calibration of the head/half/body mode.<br />\r\n- If you have stored data, you can easily change the mode.<br />\r\n- Even if you re-run the program, you can use the previous data right away.<br />\r\n- However, if the room setting of the SteamVR is wrong or there is a change in the equipment, please recalibrate it.<br />\r\n<br />\r\n● UI/UX improvement<br />\r\n- Improved uncomfortable and complex UI and UX.<br />\r\n- It is saved immediately so that the stored data is not lost.<br />\r\n<br />\r\n● ● Spout2Capture 지원<br />\r\n- Available on OBS and Africa Freakshot.<br />\r\n<br />\r\n● Update Convenience Features<br />\r\n- Added 2D image prefab functionality<br />\r\n- Add character position, size, and angle adjustment<br />\r\n- Add a background shortcut (key hooking)<br />\r\n- Adding volume control<br />\r\n- Add resolution control<br />\r\n- Add automatic login<br />\r\n- Added full body mode lower body lock",
+    "supported_languages": "韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138250/header.jpg?t=1750122029",
+    "developers": [
+      "FeeltheSame, Inc."
+    ],
+    "publishers": [
+      "FeeltheSame, Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 6 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

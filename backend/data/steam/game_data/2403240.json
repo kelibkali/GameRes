@@ -1,0 +1,59 @@
+{
+  "2403240": {
+    "name": "话·事人",
+    "steam_appid": 2403240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "作为“话事人”在这个游戏里，你将穿越到一个个经典的谈判事件现场，成为那个至关重要的谈判员。利用你的话术，说服固执的AI放弃他们的想法。<br><br><strong>成为“话事人”</strong><br><ul class=\"bb_ul\"><li>面对AI扮演的关键角色，拿起自己你的键盘和智慧，说服对方。<br></li><li>面对一个顽固的“对方辩手”，你是一个至关重要的谈判官。<br></li><li>面对一个沉默的“质问对象”，你是一个机智的审问员。<br></li><li>精心调配的AI大语言模型，扮演强大的“谈判辩手”和“质问对象”</li></ul><br><strong>耳熟能详的谈判事件</strong><br><ul class=\"bb_ul\"><li>那个胖子曾经叫嚣着“打死我也不说！” ，然后，被你说服了... <br></li><li>鸡无命来到你的客栈行凶，你能用三寸不烂之舌，让他自戕...<br></li><li>如果“圣僧”非得要走，你这个女儿国国王，该如何将他挽留...<br></li><li>3T星外星人来毁灭地球，你是联合政府派出的唯一的谈判官，加油...</li></ul>…<br><br><strong>创新的AI玩法让你欲罢不能</strong><br><ul class=\"bb_ul\"><li>所有事件中，你的对手的话术策略，都不是开发者预设的有限的文字，而是由强大的大语言模型驱动的真正AI谈判对手。<br></li><li>所有事件中的美术资源都是由最新的绘图AI工具生成。</li></ul><br><strong>我们如何在这个游戏中使用人工智能？</strong><br>这款游戏是我们创新的“人工智能实验游戏”，旨在娱乐的同时展示各种许可人工智能服务的功能，如 ChatGPT、MidJourney 和 Minimax。这个免费演示包括三个级别，每个级别都有不同的辩论主题。挑战在于说服你的人工智能对手在回合数（时钟）用完之前接受你的观点。<br><br>目前，我们要求演示测试人员使用简体中文作为主要语言。<br><br>以下是游戏机制的简要概述：<br>1. 你与一个由 ChatGPT 驱动的 AI 角色（称为“对手”）进行辩论。对话是通过输入你认为会动摇对手立场的论点来引导的。竞争对手的响应由一组预定义的参数决定。<br>2. AI Rival 将回复 AI 服务器生成的反驳论点。通常，这些角色很难说服。<br>3. 然后，游戏将 AI 对手的响应转发给另一个 AI 实体，称为“法官”。<br>4. 裁判评估对手的反应，并告知对手是“确信”还是“尚未”。<br>5. 如果评委认为对手“确信”，您将收到“任务完成”的通知。如果没有，与AI Rival的争论仍在继续。<br><br>值得注意的是，人工智能，无论是对手还是法官，都不是完美的。有时，它们的逻辑可能看起来不对劲，这反映了大型语言模型（LLM）的起步阶段。这就是我们推出这个免费演示版本并计划进行封闭式 Alpha 测试的原因。我们相信，耐心是关键，因为我们要度过这个激动人心的人工智能发展阶段。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403240/header_schinese.jpg?t=1704969933",
+    "developers": [
+      "Brain Arc Games"
+    ],
+    "publishers": [
+      "Brain Arc Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

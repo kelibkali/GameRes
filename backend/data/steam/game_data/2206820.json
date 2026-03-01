@@ -1,0 +1,118 @@
+{
+  "2206820": {
+    "name": "Tokyo Pinball",
+    "steam_appid": 2206820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A game designed to introduce the fun of pinball.<br>Whether you have never played pinball before or not, I hope you will enjoy playing it!<h2 class=\"bb_tag\" >🔰 Let's Play Pinball</h2>To make it easier for beginners to play, automatic slow motion, stamina-based kickback, and nudging are implemented. Tokyo Pinball is a good place to start if you have never played pinball.<h2 class=\"bb_tag\" >🎲 Features</h2>The game implements the following features that are familiar to pinball players. <br>Such as Jackpot, Nudging, Kickback, Extra Ball, Hold Bonus, Hurry Up, Score Multipliers, Ball Saver and Game End Bonus<h2 class=\"bb_tag\" >🙋 FAQ</h2><br><strong>Do you have multi-balls?</strong><br>No. I have tested multiball several times and decided that it is not suitable for this game for the following reasons:<br><ul class=\"bb_ul\"><li>the incompatibility of top view 2D pixel art and multiball.<br></li><li>frequently switch display layers (inside buildings) in the playfield.<br></li><li>slow motion and pauses occur when the player does not intend to.<br></li><li>narrow margins of the playfield designed for speedy single-ball play.</li></ul><br><strong>Are there multiple levels?</strong><br>No. I believe it is more important for players to play one level repeatedly and feel that their play improves than having multiple levels in this game. If additional levels are implemented, they will be sequels.<br><br><strong>My controller is not responding!</strong><br>Only XInput controllers are supported; you can play with other controllers by emulating keyboard input with a Steam client or other software.<br><br><strong>Do you have any information about the game rules or terms of use?</strong><br>Please check the &quot;README&quot; and &quot;GAMERULE&quot; files in the installation folder, or refer to the &quot;View the quick reference&quot; and &quot;View the manual&quot; on the store page.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/header.jpg?t=1687774209",
+    "developers": [
+      "Rikiya Minami"
+    ],
+    "publishers": [
+      "Rikiya Minami"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "TATE Mania",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/7cef6b7bc212176eaacafe5df8998d9eab9b7fe2.jpg"
+        },
+        {
+          "name": "The Sound of Dopamine!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/7b65d9fad5c1e728a5973fc42c2311b76b8177ba.jpg"
+        },
+        {
+          "name": "Thirsty Throat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/e2f84a7682e554891fac83908fb9f80891fb767e.jpg"
+        },
+        {
+          "name": "BEEP...? It's PIPO!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/dfc455a26400f392ff16d0162fa296e74b3d2981.jpg"
+        },
+        {
+          "name": "Remember the Heart of a Gamer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/0fab68070bf015dc9bdfe219954beb4bf65ffbe1.jpg"
+        },
+        {
+          "name": "Loop the Loop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/624ce7df6ac37e70e863ad516a7edbde56e44949.jpg"
+        },
+        {
+          "name": "Welcome to the World of Pinball!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/1cd116ef462276e7898d71282c6e935f9f8a0391.jpg"
+        },
+        {
+          "name": "Graduation from Beginner!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/44e56a234b6cb8e5548dfce3941d76ebfb2fc50a.jpg"
+        },
+        {
+          "name": "Pinball Wizard!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2206820/d2287232e24ee6d44422ae105adf889484a61f83.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

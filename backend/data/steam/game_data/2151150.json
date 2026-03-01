@@ -1,0 +1,110 @@
+{
+  "2151150": {
+    "name": "Run Foxy, Run!",
+    "steam_appid": 2151150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你的狐狸朋友被偷猎者抓住并关在笼子里。 然而，姜设法逃脱了。 现在他来到营地营救其他人。 您必须通过一系列测试才能释放您的朋友。 为此，请抓住携带奶酪的乌鸦。 收集到适量后，她会从他们那里拿走笼子的钥匙。 通过释放你所有的朋友，你可以获得无尽的挑战。 选择您的游戏风格，克服障碍并创造高分。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 简体中文, 韩语, 波兰语, 俄语, 乌克兰语, 日语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151150/header.jpg?t=1668670088",
+    "developers": [
+      "Victor Klepikov"
+    ],
+    "publishers": [
+      "vk-game.studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Set Free Leader",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/4955db2dfa188c02526e51c27f61811a29a6daa4.jpg"
+        },
+        {
+          "name": "Set Free Snowball",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/57d4fca0e8ef2cc720105e14986a81241814c035.jpg"
+        },
+        {
+          "name": "Set Free Eared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/7e811a990e3717c6c6f7fbce8ee2c018c0086277.jpg"
+        },
+        {
+          "name": "Set Free Midnight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/1329101130ce21c9315d8a9a8a1820ad76412428.jpg"
+        },
+        {
+          "name": "Set Free Archie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/511ff8a0af88590d3b33a03b50bc1a76d04485c8.jpg"
+        },
+        {
+          "name": "Highscore 512!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/a0ba390d5511660d7ab415fae25632f43c02a612.jpg"
+        },
+        {
+          "name": "Highscore 768!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/1818c7e78d7133386a1b8fbf2f6213bbe43a6fc5.jpg"
+        },
+        {
+          "name": "Highscore 1024!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2151150/3f7d4897c4437b2c47dceeabd5eddffd63d7fb0d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

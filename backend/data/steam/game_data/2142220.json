@@ -1,0 +1,66 @@
+{
+  "2142220": {
+    "name": "VR 御龙战士",
+    "steam_appid": 2142220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《VR Dragon Flight》中玩家将扮演一名御龙战士，驾驭着飞龙在空中翱翔。<br />\r\n<br />\r\n玩家可以自由控制飞行的方向和速度。<br />\r\n<br />\r\n体验飞跃在云层中的畅快感。<br />\r\n<br />\r\n随时停靠欣赏好看的美景。<br />\r\n<br />\r\n游戏操作<br />\r\n左手柄滑轮控制速度<br />\r\n右手边滑轮控制方向",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142220/header.jpg?t=1666874789",
+    "developers": [
+      "DragonWorkshop"
+    ],
+    "publishers": [
+      "DragonWorkshop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

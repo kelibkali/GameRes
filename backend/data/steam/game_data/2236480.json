@@ -1,0 +1,62 @@
+{
+  "2236480": {
+    "name": "僵尸（THE JIANG SHI）",
+    "steam_appid": 2236480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款基于中国民间传说僵尸为背景的个人独立开发游戏。<br />\r\n目前处于边测试边开发状态，虽然开发路上无比艰难，但我相信持续的更新能让这游戏慢慢变得丰富有意思起来。<br />\r\n不忘初心，让大家一起见证这款游戏的成长吧！<br />\r\n《僵尸》官方QQ群：383776161    B站UP : 谭浩翔",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236480/header.jpg?t=1748729251",
+    "developers": [
+      "谭浩翔"
+    ],
+    "publishers": [
+      "谭浩翔"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 13,
+      "total_negative": 9,
+      "total_reviews": 22
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "2217450": {
+    "name": "Stellar Echoes",
+    "steam_appid": 2217450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Stellar Echoes 是我们初期在EA期发行的测试版本，主要展示了宇宙飞船的搭建，在HDRP渲染管线下的材质、灯光等表现效果，简单的星球任务模式下测试了HDRP渲染管线的帧率上限，可能存在一些兼容性问题，向大家说一声“抱歉”。最近发生了一件很糟糕的事情，想了很久，决定还是要告诉大家，2023年7月份，HDRP版本的所有游戏数据被破坏删除了，已经无法找回，直接导致HDRP版本无继续更新，也给SE的URP版本开发工作带来了很多很多困难。看到全世界的朋友仍然在继续购买我们的游戏，我不得不说出这个坏消息，请大家谨慎购买这个版本，因为这个坏消息意味着我需要花更多的时间来重新制作，此时我和你们的心情是一样的沉重。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 俄语, 日语, 泰语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217450/header.jpg?t=1704162971",
+    "developers": [
+      "Li Yin"
+    ],
+    "publishers": [
+      "Li Yin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "初见小鲤",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/e9d6847691bd3d7ec13c37f9b359ac0dd6f49fbe.jpg"
+        },
+        {
+          "name": "表情包",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/7e791a16328127c79d60d83e46e13cfba3a6bc71.jpg"
+        },
+        {
+          "name": "驾驶射击",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/9c6c0c945190c1a0bb96702dba974945ee4aa794.jpg"
+        },
+        {
+          "name": "手办收集",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/58c2bcc99cfbd4bfb8ecc68da1c3cd84278653ed.jpg"
+        },
+        {
+          "name": "跳跳跳",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/96cadfa0d91afe97e5a0aed7d7ac99caf250cf16.jpg"
+        },
+        {
+          "name": "角斗场之王",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/eaef445ead1ad439e2ef87a3b18a4515703dd0bb.jpg"
+        },
+        {
+          "name": "buff加满",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/7d1b7ae361e7340e89cb944fab4c9424d2b6e72e.jpg"
+        },
+        {
+          "name": "抓不到我",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/08038092995ece26dff9de3192bcb1a05952a5ae.jpg"
+        },
+        {
+          "name": "陷阱大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/ab5e3f430aeb3d6f458fe27f7e0ca804378cb5cc.jpg"
+        },
+        {
+          "name": "近战高手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2217450/fc98c307ba33dfa3443672b380f8013e5029ae51.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 0,
+      "total_reviews": 11
+    },
+    "type": "game"
+  }
+}

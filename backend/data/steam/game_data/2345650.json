@@ -1,0 +1,70 @@
+{
+  "2345650": {
+    "name": "DSX+ (Virtual DualSense, BT Audio/Haptics) DLC",
+    "steam_appid": 2345650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Bring full DualSense support to your PC games.</strong></h2><p class=\"bb_paragraph\" >This DLC unlocks the Virtual DualSense feature in DSX, letting you use a virtual PlayStation controller for games that recognize the official hardware. It bridges the gap between console and PC by sending trigger, light, and rumble data to your real controller, whether it’s wired or wireless.</p><h2 class=\"bb_tag\" ><strong>Unlock Bluetooth Audio and Haptic Feedback</strong></h2><p class=\"bb_paragraph\" >We’ve been building toward this moment, and it’s finally coming together. Imagine feeling every pulse, hearing your game’s world surround you, and experiencing true immersion on PC. The combination of the virtual DualSense device and Bluetooth Audio with Haptics pushes the experience further than ever before. It’s seamless, it’s powerful.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Haptic feedback and audio passthrough from the virtual DualSense are currently in development and will arrive in a future update.</strong></p><h2 class=\"bb_tag\" ><strong>What’s Included</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Virtual DualSense emulation for native PlayStation controller support</p></li><li><p class=\"bb_paragraph\" >Use <strong>Audio and Haptic Feedback via BLUETOOTH</strong> for the DualSense and DualSense Edge Controllers</p></li><li><p class=\"bb_paragraph\" >Adaptive triggers that respond to in-game actions</p></li><li><p class=\"bb_paragraph\" >Lighting control for the light bar, player indicators, and mute LED</p></li><li><p class=\"bb_paragraph\" >Standard rumble feedback over both wired and wireless connections</p></li><li><p class=\"bb_paragraph\" >Options to adjust deadzones, remap buttons, and fine-tune motion and touchpad settings</p></li></ul><h2 class=\"bb_tag\" ><strong>Activation Help</strong></h2><p class=\"bb_paragraph\" >If you bought the DLC and it’s still locked, try the <strong>Sync</strong> button to refresh your ownership with Steam.<br>In DSX v3.1 and newer, the button is located under <strong>Virtual Device Options → Virtual DualSense tab</strong> or on the <strong>Home page</strong>.</p><h2 class=\"bb_tag\" ><strong>Why a DLC?</strong></h2><p class=\"bb_paragraph\" >This feature exists through a partnership with <strong>Nefarius Software Solutions e.U.</strong>, the team behind the virtual controller driver that powers it. The DLC structure helps support their licensed technology and years of research and development. You’re not just paying for a toggle; you’re helping fund the work that makes it possible.</p><h2 class=\"bb_tag\" ><strong>Looking Ahead</strong></h2><p class=\"bb_paragraph\" ><strong>DSX+</strong> is in active development. All current DLC owners will be upgraded automatically to the following planned features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Ability to run DSX without Steam</p></li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 阿拉伯语, 保加利亚语, 丹麦语, 荷兰语, 芬兰语, 匈牙利语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 希腊语, 日语, 葡萄牙语 - 葡萄牙, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345650/ca3a6051314265f8e63cebb5324eb4fd24715db8/header.jpg?t=1763110607",
+    "developers": [
+      "Nefarius Software Solutions e.U."
+    ],
+    "publishers": [
+      "Paliverse"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 10 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Negative",
+      "total_positive": 6,
+      "total_negative": 29,
+      "total_reviews": 35
+    },
+    "type": "dlc"
+  }
+}

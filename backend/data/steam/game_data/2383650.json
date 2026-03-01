@@ -1,0 +1,74 @@
+{
+  "2383650": {
+    "name": "Queen of Dark",
+    "steam_appid": 2383650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>VERSION 0.400</strong></h2><p class=\"bb_paragraph\" >- Added arena mode (beta)</p><p class=\"bb_paragraph\" >- Improved movement system</p><p class=\"bb_paragraph\" >- Improved combat system</p><p class=\"bb_paragraph\" >- Improvements and changes to animations</p><p class=\"bb_paragraph\" >- Improvements to transitions between animations</p><p class=\"bb_paragraph\" >- Greater sense of weight depending on equipment</p><p class=\"bb_paragraph\" >- Improved AI in combat</p><p class=\"bb_paragraph\" >- Added special attacks for certain weapons (L2 + R2 Hold)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>VERSION 0.300</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Improved graphics</p></li><li><p class=\"bb_paragraph\" >Better performance</p></li><li><p class=\"bb_paragraph\" >Change from open world to interconnected linear world</p></li><li><p class=\"bb_paragraph\" >Linear difficulty progression</p></li><li><p class=\"bb_paragraph\" >Improvements in combat, mobility, etc.</p></li><li><p class=\"bb_paragraph\" >New enemies</p></li><li><p class=\"bb_paragraph\" >Mobility affected by equipment weight</p></li><li><p class=\"bb_paragraph\" >Combat based on evasion, blocking and deflection</p></li><li><p class=\"bb_paragraph\" >Improvements in enemy reactions</p></li></ul><h2 class=\"bb_tag\" ><strong>WORLD</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Explore the realm of Arzamor and the challenges offered by the lands without a king, where enemies can be found around every corner, and territories are disputed daily by different foes.</p></li><li><p class=\"bb_paragraph\" >Travel the world freely, discover its secrets and history.</p></li><li><p class=\"bb_paragraph\" >Forge your weapons with materials found along the way, and use them wisely depending on the enemy you face.</p></li><li><p class=\"bb_paragraph\" >Take advantage of the environment, set traps, and prepare each battle with intelligence and cunning.</p></li><li><p class=\"bb_paragraph\" >The day/night cycle and various weather changes will influence the world around you.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>COMBAT</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Enjoy melee combat where the precision of each strike, reflexes, and choice of equipment will make a difference.</p></li><li><p class=\"bb_paragraph\" >Long-range combat with weapons like bows, crossbows, or magic projectiles allows you to attack from a distance.</p></li><li><p class=\"bb_paragraph\" >Traps provide the combat with a strategic component.</p></li><li><p class=\"bb_paragraph\" >Area attacks will be very useful for taking out large groups of enemies at once.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>AI</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Each enemy has the same advantages/disadvantages as the player, humanoid enemies can also use items and set traps.</p></li><li><p class=\"bb_paragraph\" >The difficulty of each enemy is linked to their level and 5 parameters that configure their character, so regardless of their level, we can encounter enemies with low levels but great combat skills, and on the other hand, high-level enemies with low AI parameters that make the enemy not dodge blows, not maintain their guard, or not attack with the same frequency, giving each combat a unique challenge.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>PROGRESSION</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The initial version of Early Access consists of 100 levels of progression.</p></li><li><p class=\"bb_paragraph\" >Runes allow us to improve player statistics such as health.</p></li><li><p class=\"bb_paragraph\" >The 5 classes provide unique attributes that can be combined with each other and are the basis for creating oriented builds.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>MISSIONS</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The mission system will always provide objectives for those who do not wish to explore and prefer to focus on combat and progression.</p></li><li><p class=\"bb_paragraph\" >World events provide players with the opportunity to experience unique battles and obtain random loot.</p></li><li><p class=\"bb_paragraph\" >Combat arenas provide quick challenges and a controlled environment.</p></li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383650/header.jpg?t=1771532394",
+    "developers": [
+      "Omega Creations"
+    ],
+    "publishers": [
+      "Omega Creations"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 3 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

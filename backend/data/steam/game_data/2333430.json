@@ -1,0 +1,82 @@
+{
+  "2333430": {
+    "name": "Running Guys",
+    "steam_appid": 2333430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Running Guys</strong> is a very small <strong>running game</strong> where a police officer chases a thief.<br><br>This game was developed in two weeks almost 10 years ago and revived recently (as many children enjoyed it at a science fair).<br><br>There is only one level (you should give it a chance :P), but we will rework this game in a few weeks to make it with Unreal Engine (mainly to test exports on different platforms).<br><br>You should definitely grab it now, as it has a low price :P<br><br><br>Little tip, when you just hit the ground after a jump or a fall, do a roll!",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/header.jpg?t=1716040041",
+    "developers": [
+      "Cats & Foxes"
+    ],
+    "publishers": [
+      "Cats & Foxes"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

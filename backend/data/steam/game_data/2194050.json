@@ -1,0 +1,110 @@
+{
+  "2194050": {
+    "name": "Summoner'sSurvival",
+    "steam_appid": 2194050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款聚集同伴作战的生存射击游戏。玩家只需执行移动键，然后同伴会把你的敌人踢到路边。<br />\r\n解锁成就并增加更多的同伴！你的军团数量越多，它就越强大。<br />\r\n用大量的同伴和子弹包围它！......或者时不时地逃跑也是至关重要的。<br />\r\n重复阶段，收集金币，支付金币以加强球员，并增加更多的跟随。然后，清除阶段!",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194050/header.jpg?t=1735952602",
+    "developers": [
+      "SsSProject"
+    ],
+    "publishers": [
+      "SsSProject"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "Phantom",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/54467428574a93c03f0c6da70d21ce47c6940c67.jpg"
+        },
+        {
+          "name": "Soldier",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/0f2d5a68352df6f3d1051e0b7b31b10648f3f84f.jpg"
+        },
+        {
+          "name": "Savage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/9a7c1cb39db024d27628a00df42da7a3c528e92b.jpg"
+        },
+        {
+          "name": "Shielder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/f50d93c006e909939a9f0b2dcfff7e3954189497.jpg"
+        },
+        {
+          "name": "Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/f220473e038d3ac3e2ba54e0ff62e5c1b662f92e.jpg"
+        },
+        {
+          "name": "Harvester",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/cf29553665fab218592516a113c0381e8ece9e62.jpg"
+        },
+        {
+          "name": "Disease",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/c4db50ab082bbb4dc9a16eb82f5d0d4838c4d404.jpg"
+        },
+        {
+          "name": "Scout",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/dba74d9483470991704b1c54b8acff64fb1adcc8.jpg"
+        },
+        {
+          "name": "Barrage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/ff58b92585fdc64a8ffab772367c2ee4e14f2716.jpg"
+        },
+        {
+          "name": "Wizard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2194050/363df49628b10ac2fca2ce79653190a6b83ca244.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

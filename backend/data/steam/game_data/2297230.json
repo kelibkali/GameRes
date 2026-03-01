@@ -1,0 +1,118 @@
+{
+  "2297230": {
+    "name": "SETTRIS",
+    "steam_appid": 2297230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >◆游戏内容</h2>SETTRIS是一种积木式的拼图游戏，玩家要把各种形状的棋子放入拼图板的空方格中，填满所有空方格才能通关。旋转和翻转棋子，组合棋子，并将它们放置好。 有时，你可能需要尝试一种新的方法来解决这个谜题，比如移除所有的碎片。<br>没有时间限制，所以你可以慢慢地玩这个游戏。<h2 class=\"bb_tag\" >◆两种游戏模式!</h2><ul class=\"bb_ul\"><li><strong>关卡模式</strong><br>填满关卡上显示的所有方块即可通关。<br>困难程度随着每个阶段的等级而增加。<br></li><li><strong>时间攻击模式</strong><br>玩家在此模式下竞争，看他们能在限定的时间内解决多少块方块。<br>分发的方块是为了填满拼图板上的所有空方格。<br>出现的棋子数量根据阶段的不同而变化，棋子的数量随着难度等级的提高而增加。</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 简体中文, 繁体中文, 日语, 法语, 意大利语, 德语, 西班牙语 - 拉丁美洲, 泰语, 葡萄牙语 - 巴西, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2297230/header.jpg?t=1770960777",
+    "developers": [
+      "Zoo Corporation"
+    ],
+    "publishers": [
+      "Zoo Corporation"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 750,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 7.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "欢迎来到SETTRIS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/a286438f02000c0d035a839023a1632cff0a6db1.jpg"
+        },
+        {
+          "name": "拼图初学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/d38bba7eaf8be8f3ee157812abe6f01fdab79c22.jpg"
+        },
+        {
+          "name": "拼图中级者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/0c04f8a6cd19b7e92b040938e0deef896568c8a6.jpg"
+        },
+        {
+          "name": "拼图进阶者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/31670af2e1bfc4593031252a3937cd4829e1d998.jpg"
+        },
+        {
+          "name": "拼图超级者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/4a7653813f21854b86585ef541331afe3e4bd2cc.jpg"
+        },
+        {
+          "name": "拼图大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/0c663d34b75aa4af9563a5b2349dd69f8bbc6fd7.jpg"
+        },
+        {
+          "name": "一步到位",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/8978ee425cb200f46848948b4ae4ab8033cce3f1.jpg"
+        },
+        {
+          "name": "3块拼图通过",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/25d0862c6b7c45041ecd3c4b493056ca7d3f263c.jpg"
+        },
+        {
+          "name": "4块拼图通过",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/41b12d8ea1004fd47afbac9412fed68e143d03c9.jpg"
+        },
+        {
+          "name": "5块拼图通过",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2297230/635f2886059efedb8f160c8e578a247f0b24eaba.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

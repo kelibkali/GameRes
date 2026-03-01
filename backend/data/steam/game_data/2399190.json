@@ -1,0 +1,74 @@
+{
+  "2399190": {
+    "name": "星际探索",
+    "steam_appid": 2399190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《星际探索》是一款集齐宇宙探索、飞行驾驶、动作解谜、枪战射击于一体的第三人称单机游戏，游戏采用虚幻5引擎开发，茫茫宇宙中，驾驶属于你的飞船来开启这场扣人心弦的征程吧。<br />\r\n个人独立游戏开发制作不易，顶着受到网暴的同时，还要调整心态进行游戏设计，虽然艰难，且不讨好各路诸侯，各种圈钱、漫骂声袭来，但我还是应声抗了下来，只为了心中那个飞天梦，想着势必要将这个梦想完成，虽然游戏上架时出了一个小插曲，恶性bug无法打包（看过我B站视频的小伙伴都应该了解 那时心态真是崩了），为了取舍删除了母舰的大量NPC互动，不过没关系，后续我会在确保没BUG的同时陆续添加进去，虽然目前只有了Roguelike游戏模式算是完整的（第三人称机甲射击卡牌肉鸽），但我这游戏的世界观与拓展性也还不错，后续我将会陆续添加各种经典与非经典玩法进去滴~~<br />\r\n现在，我也很期待大家与我沟通，如有想法与建议反馈，欢迎各位宇航员进行加入《星际探索》官方QQ群进行交流与探讨：752209909",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399190/header.jpg?t=1748729223",
+    "developers": [
+      "谭浩翔"
+    ],
+    "publishers": [
+      "谭浩翔"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 7,
+      "total_negative": 7,
+      "total_reviews": 14
+    },
+    "type": "game"
+  }
+}

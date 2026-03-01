@@ -1,0 +1,74 @@
+{
+  "2218570": {
+    "name": "星际工厂2",
+    "steam_appid": 2218570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款基于文字和2d拖拽方式进行建造。资源开采与制作的工厂游戏。<br><br><strong>特点</strong><br><ul class=\"bb_ul\"><li>没有复杂3d图像渲染，比较安静。<br></li><li>拥有蓝图系统 从开采资源 到最终的星际资源开采运输 不断解锁新的科技蓝图。<br></li><li>除了没有传送带之外，这款游戏内容算是比较全面的了。<br></li><li>物品都是常见的比如铜矿，电路板，芯片，钛金属，核能，航空航天等还有很多。<br></li><li>加入了虫子生物类，需要制作武器将它消灭才能扩展你的版图。<br></li><li>不是纯挂机游戏，可能需要多花点时间操作。</li></ul>",
+    "supported_languages": "英语, 简体中文, 德语, 法语, 意大利语, 西班牙语 - 西班牙, 俄语, 日语, 荷兰语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218570/header_schinese.jpg?t=1676376459",
+    "developers": [
+      "Yamate"
+    ],
+    "publishers": [
+      "Yamate"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 600,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 12.00",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "technology center",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218570/951481275e0975af1f3c689c43176473971b3cfd.jpg"
+        },
+        {
+          "name": "Game clearance logo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2218570/615c7d417afa60422d4de19feaa51830e0507a8d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "2196280": {
+    "name": "查理公馆事件簿",
+    "steam_appid": 2196280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个简短的介绍，如果你不想看也没关系。<br />\r\n<br />\r\n《查理公馆事件簿》是一款微恐怖、微解密的线性流程游戏，游戏时长可能会比较短，但丝毫不影响游戏体验。<br />\r\n一只猴头工作室目前只有一人，也就是说这是一款纯纯纯个人独立游戏，从最开始的插件到美术。<br />\r\n玩家们将化身侦探，深入到秘密的公馆里，破解传说中的惊天密案。<br />\r\n包括阁楼半夜的哭声、房客离奇的死亡等等。<br />\r\n游戏还包含了几种解密游戏供大家探索，即使你不想解密，游戏里也潜藏了各种卡片供玩家收集。<br />\r\n<br />\r\n希望大家喜欢~<br />\r\n<br />\r\n另外，感谢评选组黑妖大大的建议，这边已经做了修改哈<br />\r\n1、界面逻辑的问题，现已可以上下选择并用鼠标点击<br />\r\n2、配音重叠，现已加入延迟项，快速点击不会影响配音<br />\r\n3、传送点不明显，现已加入红色箭头，大家可以放心的做任务啦<br />\r\n4、任务目标不明确，已经增加了部分对话，强化任务目标<br />\r\n5、选项分歧会直接死亡，现已加入进度回溯，选错会到上一个存档点<br />\r\n6、部分图层层级问题也已调整<br />\r\n（欢迎大家过来玩耍，多提建议哈）<br />\r\n<br />\r\n<br />\r\n12月12日更新<br />\r\n（修复拼图通关后的卡存档问题）<br />\r\n感谢967指正此问题，已修改哈",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196280/header.jpg?t=1670828106",
+    "developers": [
+      "一只猴头工作室"
+    ],
+    "publishers": [
+      "一只猴头工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

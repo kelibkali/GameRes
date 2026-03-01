@@ -1,0 +1,106 @@
+{
+  "2262930": {
+    "name": "Bombe",
+    "steam_appid": 2262930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "扫雷，但您只能解决每种情况一次。<br><ul class=\"bb_ul\"><li>根据棋盘上的线索生成的区域（由线连接的数字气泡）<br></li><li>规则作用于区域以标记炸弹、清除方块或创建新区域<br></li><li>一个检查器会告诉你你的规则在形式上是否正确<br></li><li>规则永远自动应用，解决你之前解决的情况<br></li><li>只有艰难的情况才会出现。<br></li><li>提示系统可以标记可确定的方块并从棋盘上删除所有不需要的区域。<br></li><li>可以使用规则隐藏或丢弃区域<br></li><li>数以千计的关卡可玩，无需猜测即可解决。</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 法语, 日语, 波兰语, 德语, 荷兰语, 丹麦语, 俄语, 瑞典语, 韩语, 葡萄牙语 - 巴西, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/header.jpg?t=1715417627",
+    "developers": [
+      "Charlie Brej"
+    ],
+    "publishers": [
+      "Charlie Brej"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 6 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 27,
+      "highlighted": [
+        {
+          "name": "2000 HEXAGON levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/a33f44514465c1d8d781f871e00fcc0683cb55fd.jpg"
+        },
+        {
+          "name": "3000 HEXAGON levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/2ef3aafb175d1483e474669912489ba370d08f90.jpg"
+        },
+        {
+          "name": "4000 HEXAGON levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/7722323740c97d370da0f6af1cdbcf0072192eed.jpg"
+        },
+        {
+          "name": "5000 HEXAGON levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/0f972d04698e5bb97e4bd44a449a23275e05a0e3.jpg"
+        },
+        {
+          "name": "5500 HEXAGON levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/1df48746a9ca3e52e90337c201014bf7a7ec5458.jpg"
+        },
+        {
+          "name": "2000 SQUARE levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/468fb9c16b86bdbe84e28fd159323c9880e8bc98.jpg"
+        },
+        {
+          "name": "3000 SQUARE levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/d27379ca2e29184563071568c34c85182bc3232d.jpg"
+        },
+        {
+          "name": "4000 SQUARE levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/12981cd4ad0b4c5cdb4d191693d9de5126532879.jpg"
+        },
+        {
+          "name": "5000 SQUARE levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/98992384e514e97c372e9f1d65a4e1a72b843975.jpg"
+        },
+        {
+          "name": "5500 SQUARE levels cleared",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2262930/e30745bda5498ba10aae0c8d966c82862aad01cf.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 0,
+      "total_reviews": 13
+    },
+    "type": "game"
+  }
+}

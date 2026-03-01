@@ -1,0 +1,55 @@
+{
+  "2123750": {
+    "name": "AppGameKit Classic - The Animation Sheet Editor",
+    "steam_appid": 2123750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Animation Sheet Editor (AnimShed) is a dedicated, easy to use and powerful sprite sheet packer, allowing you to quickly compress a number of single images into one sprite sheet. <br><br>AnimShed is for anyone developing 2D animated games and is geared towards developing with both AppGameKit Classic and AppGameKit Studio by TheGameCreators. AnimShed has specific copy and paste functions so you can insert the code directly into your AppGameKit software proejcts. This doesn't stop you using the simple and quick interface to create sprite sheets for other game creating software. Automation, ease of use and time-saving features are the top features of AnimShed, as many of the features that you would usually have to manually do with other packages are automated or very easy to implement. You can very easily adjust the size of the sprite sheet at any stage to take into account the size of sprites, adding/deleting and moving sprites, as well as other actions. <br><br><strong> FEATURES</strong><br><br><ul class=\"bb_ul\"><li> Load up to 500 2D sprites from any folder via the built-in browser<br></li><li> Create up to 200 animations for your game code<br></li><li> Extract up to 500 sprites easily from a sprite sheet file for use in AnimShed in seconds<br></li><li> AnimShed comes supplied (from 'The Game Company') with 66 sprites to help you familiarise yourself with AnimShed<br></li><li> Uses mainly mouse-only controls, so no typing in column numbers and so on<br></li><li> AnimShed adjusts the Sprite Sheet size automatically on most actions<br></li><li> Arrange your sprites within AnimShed just by dragging<br></li><li> Select groups of animations just by drawing on screen with the mouse<br></li><li> Embedded help documentation with interactive search system<br></li><li> Automatically adjusts animation groups when editing groups<br></li><li> Saves sprite sheet and animation details for 5 folder locations<br></li><li> Delete sprites from the sprite sheet and still leaves the original file intact<br></li><li> Create any size of transparent or solid border on all your sprites<br></li><li> Displays constant sprite and group info for reference</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123750/header.jpg?t=1717091659",
+    "developers": [
+      "FuzzyVisions"
+    ],
+    "publishers": [
+      "TheGameCreators"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

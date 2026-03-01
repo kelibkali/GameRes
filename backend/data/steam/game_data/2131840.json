@@ -1,0 +1,90 @@
+{
+  "2131840": {
+    "name": "Thelos",
+    "steam_appid": 2131840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >This is a 3D Platformer game in which the goal is to get to the top!</h2><br>In this game you will have multiple abilities which you can use to advance upward. Your main ability is to place two crystals and pull towards them, however you cannot place them on any surface. You will also be using jumping and dashing to avoid obstacles and advance upward, you will be able<br>to gather rewards which will unlock your ability to perform a very strong jump in a target direction.<br><br>Your opposition will be made up of two sentries: one which will be trying to shoot you down derail you from your progress, and the other one will teleport you to its target receiver if you stay within its range long enough. There will be also mines which if you touch will explode and push you away from the platform, and traps that are designed to make you fall.<br>Last but not least, there will be dragons which will chase you down as soon as you are near them and will attempt to push you away and down to fall, and prevent you from progressing upwards. There are ways in which you can reset some of your abilities which you need to explore so you can do you your best performance in expertly avoiding the opposition and advancing swiftly and accurately without skipping a beat.",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131840/header.jpg?t=1674838810",
+    "developers": [
+      "Stefan Videv"
+    ],
+    "publishers": [
+      "Stefan Videv"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Complete The Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2131840/ff7f0b3f0cc67b705a2b54365f068469231266b9.jpg"
+        },
+        {
+          "name": "Reached 25% to the top",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2131840/7bb803b0c6bb28aa17bbe22720a2e5923ba27b42.jpg"
+        },
+        {
+          "name": "Reached 50% to the top",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2131840/f5d5f68aa07d7f7614edd8310405fd3c07800354.jpg"
+        },
+        {
+          "name": "Reached 75% to the top",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2131840/1d858ac648f1cf9bc4e32bbf07dde53b3cb3bcc0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

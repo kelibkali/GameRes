@@ -1,0 +1,78 @@
+{
+  "2233860": {
+    "name": "タイピングで愛を伝えよ",
+    "steam_appid": 2233860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is for Japanese only.<br />\r\nタイピングで愛を伝えよ is a typing game for Japanese.<br />\r\nPlayers must type love related words as quickly and accurately as possible.<br />\r\nEven if you are not good at typing, you can have fun practicing with this game.",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233860/header.jpg?t=1672931117",
+    "developers": [
+      "INORK Game"
+    ],
+    "publishers": [
+      "INORK Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "スコア600",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2233860/c0b3ffbaaf5ddc3fefbfbedb0bacdd60ffe93130.jpg"
+        },
+        {
+          "name": "間違えはありません",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2233860/446db43a1cbe336cd9d3590cec369ae2430f7727.jpg"
+        },
+        {
+          "name": "私のスコアを見ろ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2233860/358aeddfb5e5480a44a9c5bc68f5f5f3f6a815f3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

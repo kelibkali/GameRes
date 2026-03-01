@@ -1,0 +1,82 @@
+{
+  "2335190": {
+    "name": "Missing Critters",
+    "steam_appid": 2335190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在美丽精细的卡通场景中寻找隐藏的可爱生物，享受愉快的探险之旅。让舒缓的低保真声音带你进入一个平静的专注状态，以自己的节奏探索每个关卡，没有时间限制或约束。在解压和远离一天的压力的同时享受寻找所有缺失角色的刺激和满足感。准备好一个独特而迷人的体验，让你回味无穷。",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335190/header.jpg?t=1684974796",
+    "developers": [
+      "Lo-Find Studios"
+    ],
+    "publishers": [
+      "Lo-Find Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Learning to Crawl",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335190/fc8b3bff8331bff2538e060690e46a95650ce77b.jpg"
+        },
+        {
+          "name": "Found Them All",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335190/7f51b2eeea5f2c31814462bf442edebf4e070f52.jpg"
+        },
+        {
+          "name": "Fearless Finder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335190/82d5494d9f5bde0061c4eb757e51c8f37ea4c349.jpg"
+        },
+        {
+          "name": "Recurring Repetition",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335190/09d1850e352b8f943bafe1e7c163aaf38c1c2725.jpg"
+        },
+        {
+          "name": "Hat-trick!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2335190/f683f3f5f4b3be2ab4a0896d42a0964a5979ffd1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

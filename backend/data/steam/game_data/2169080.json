@@ -1,0 +1,42 @@
+{
+  "2169080": {
+    "name": "光 Demo",
+    "steam_appid": 2169080,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>试用版长度</strong><br>游戏一共分为十二个部分，试用版将会放置第一个部分供玩家体验。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169080/header.jpg?t=1690360197",
+    "developers": [
+      "individual"
+    ],
+    "publishers": [
+      "individual"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

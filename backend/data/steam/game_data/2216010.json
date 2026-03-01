@@ -1,0 +1,94 @@
+{
+  "2216010": {
+    "name": "Winter",
+    "steam_appid": 2216010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Winter</strong> — 是一款中世纪背景的动作冒险第三人称游戏，具有激烈的游戏玩法和令人兴奋的战斗系统，可让您使用不同的组合动作、技巧和特殊攻击。 一路上，你会遇到一些生物，它们会挑战你战斗并试图获得你的力量。 跟随你的命运，让故事告诉你第一场雪是如何落下的。<br>与恶魔战斗，克服障碍，完成故事。<br><br><ul class=\"bb_ul\"><li>風格化設計<br></li><li>音樂伴奏<br></li><li>響應式控制</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216010/header.jpg?t=1669880791",
+    "developers": [
+      "Artem Lavrenyuk"
+    ],
+    "publishers": [
+      "Artem Lavrenyuk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Winter is Coming...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2216010/6bc36353a9d5745c619c7f4fe188b89af29c168d.jpg"
+        },
+        {
+          "name": "That's the way",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2216010/c39448b7b36987bd7aa01ef8c2a355c0f8b14567.jpg"
+        },
+        {
+          "name": "Dragonborn",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2216010/c8cceb3bb3a216e19ce3848736d1f99e57b1da74.jpg"
+        },
+        {
+          "name": "Rock Storm",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2216010/efd7690618968780b03a7f1f33b01fcd1747618d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

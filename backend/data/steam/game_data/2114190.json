@@ -1,0 +1,70 @@
+{
+  "2114190": {
+    "name": "星际王八传奇",
+    "steam_appid": 2114190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "宇宙陷入了战争之中，而你只是一只王八。你会做出什么样的抉择：是夹缝求生，苟延残喘；还是纵横披靡，大杀四方？你还能坚持你的本心吗？<br><br>这是一个看海类型的游戏，它模拟了一个荒诞而现实的宇宙，宇宙中的一切都是由 AI 控制的，玩家只是一个观察者。在游戏中，玩家可以移动视野、放缩和旋转画面、调整时间的流逝速度、查看物体的详细信息，但是却不能对游戏的进程做出改变。<br><br>宇宙中有六个势力：银河公社、监护委员会、星海集团、第二帝国、一般联盟和超空间僵尸。它们处于战争之中。每个势力利用能量修建建筑：船坞、炮塔、反应堆和指挥中心。船坞能生成飞船，炮塔能发射炮弹，反应堆能制造能量，指挥中心能扩大疆域。<br><br>游戏中有人物系统。每个建筑和飞船上都有相应的职位：船坞上有造船师傅，炮塔上有炮手，反应堆上有发电师傅，指挥中心上有将军。随着建筑或飞船的创建和毁灭，人们会升职、降职甚至死亡。在游戏结束时，会将生平最为丰富的 5 个人物的经历汇总为一份名人履历表。<br><br>在游戏开始时会生成一只属于中立阵营的旅行王八，它不会试图攻击任何对象。王八穿行于宇宙之中，见证势力的兴盛和衰亡，和不同职业的人交朋友。在游戏结束时，会将这只王八在旅行中的所见所闻汇总为一篇王八日记。<br><strong><br>注意：上文提到的 “名人履历表” 和 “王八日记” 只会以 txt 的格式生成在游戏文件夹中，需要玩家手动打开查看。</strong><br><br>游戏中，在某个势力取得胜利时会播放音乐：银河公社胜利时播放人民军队忠于党，监护委员会胜利时播放祝酒歌，星海集团胜利时播放 Marching Through Georgia，第二帝国胜利时播放李中堂乐，一般联盟胜利时播放 Battle Hynm of Republic，超空间僵尸胜利时播放 It's a Burning Memory。<br><br>这是我之前制作的游戏 “太空战斗模拟器” （在 itch.io 上发布了）的重制版。在之后的更新中我的计划是：增加船只和炮塔的种类，添加新的武器和伤害效果。<br><br>这个游戏是我用 c++ 跟 windows api 制作的，并没有使用现成的游戏引擎。所有的字体、贴图和音乐都是我自己制作的。",
+    "supported_languages": "简体中文<strong>*</strong>, 英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114190/header_schinese.jpg?t=1662102250",
+    "developers": [
+      "HappyHorse Studio"
+    ],
+    "publishers": [
+      "HappyHorse Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

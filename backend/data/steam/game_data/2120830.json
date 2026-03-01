@@ -1,0 +1,94 @@
+{
+  "2120830": {
+    "name": "Mortal Dark",
+    "steam_appid": 2120830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Mortal Dark is a first person action-adventure retro game where you have to fight and solve some puzzles in order to survive and escape from a twisted world.<h2 class=\"bb_tag\" >Survive</h2>Do you think is easy to stay alive?! Not really, especially when you are surrounded by hungry creatures and the ammo is limited.<h2 class=\"bb_tag\" >Explore</h2>Explore the world in order to unlock new areas and find clues that will help you solve the puzzles, but be careful, many thinks lurks inside the dark.<h2 class=\"bb_tag\" >Puzzles</h2>Around the world you will find puzzles, even though are simple, solving them might be difficult when you are chased.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120830/header.jpg?t=1689763900",
+    "developers": [
+      "Marius Popa"
+    ],
+    "publishers": [
+      "Marius Popa"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Escape",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/b18f96398fb3f2243d035b94dab103afc3d889a7.jpg"
+        },
+        {
+          "name": "A little helper",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/273419c27f85bb1c4420946a3d474a5e2acc286d.jpg"
+        },
+        {
+          "name": "Dead creature",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/986d1a61e90e331ca14195bd49d9d03d57c11bb9.jpg"
+        },
+        {
+          "name": "Hot path",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/ec6c00d309c9b1b33d6e85dd5ee423affbf645a4.jpg"
+        },
+        {
+          "name": "Creature slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/1fdc62d090928c26f01c8e2d0dd8a9f47d3d9521.jpg"
+        },
+        {
+          "name": "Big Boy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2120830/7006981e49577c40d98c5944d3f4ea8d1da48063.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

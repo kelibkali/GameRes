@@ -1,0 +1,82 @@
+{
+  "2359720": {
+    "name": "手办工坊",
+    "steam_appid": 2359720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><h2 class=\"bb_tag\" >手办工坊能做些什么</h2></strong><br>这是一个手办制作模拟器，通过导入动作文件截取姿势来模拟制作手办，可自定义材质和表情，还有几个有趣的场景可供摄影。<br>若然你想感受一下喜爱的动漫角色手办布满房间的感觉，或者想体验一下手办摄影的乐趣，这里都能实现你的愿望。<br><br><strong><h2 class=\"bb_tag\" >制作过程</h2></strong><br><ul class=\"bb_ul\"><li>你需要准备你想制作角色的MMD模型文件(PMX,PMD格式),还需要一个动作文件(VMD格式)。</li></ul><ul class=\"bb_ul\"><li>导入模型和动作后，软件会预计算每一帧的形态并截取，通过幻灯片的形式展示出来，你从其中挑选一个姿势，作为手办的形态。亦可按普通播放动作的操作逐帧选取。</li></ul><ul class=\"bb_ul\"><li>添加底座：自定义底座颜色、透明度和花纹</li></ul><ul class=\"bb_ul\"><li>自定义表情</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/024850db1d7b86bd111d7461cd638d93.poster.avif?t=1684662732\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/024850db1d7b86bd111d7461cd638d93.webm?t=1684662732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/024850db1d7b86bd111d7461cd638d93.mp4?t=1684662732\" type=\"video/mp4\"></video></span><br><ul class=\"bb_ul\"><li>生成手办，拖动到你的展览柜中</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/733e4fd2d3becd72be4f3d08241ee2e7.poster.avif?t=1684662732\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/733e4fd2d3becd72be4f3d08241ee2e7.webm?t=1684662732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/extras/733e4fd2d3becd72be4f3d08241ee2e7.mp4?t=1684662732\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>特性</strong></h2></h2></h2><ul class=\"bb_ul\"><li>支持PMX、PMD格式的模型文件和VMD格式的动作数据</li></ul><ul class=\"bb_ul\"><li>支持VRM格式的模型</li></ul><ul class=\"bb_ul\"><li>支持人形模型（普遍二次元角色，奥特曼，丘丘人等等），部分高达</li></ul><ul class=\"bb_ul\"><li>默认动漫写实混合渲染系统，导入模型自动适配贴图和光照参数，无需设置</li></ul><ul class=\"bb_ul\"><li>拥有学校寝室和公寓两个场景，已设置好展示机位，供你收藏手办</li></ul><ul class=\"bb_ul\"><li>可自定义表情</li></ul><ul class=\"bb_ul\"><li>可修改材质</li></ul><ul class=\"bb_ul\"><li>支持创意工坊</li></ul><ul class=\"bb_ul\"><li>拥有电脑机箱和痛车两个摄影场景</li></ul>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2359720/header_schinese.jpg?t=1684662732",
+    "developers": [
+      "Megu Studio"
+    ],
+    "publishers": [
+      "Megu Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 5,
+      "total_negative": 2,
+      "total_reviews": 7
+    },
+    "type": "game"
+  }
+}

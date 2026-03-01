@@ -1,0 +1,74 @@
+{
+  "2157910": {
+    "name": "Technophobia: Dead Metal Tournament",
+    "steam_appid": 2157910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Robots smash each other to pieces in hand to hand combat.</h2><br>This is a 3d fighting game that is 2d in principle. It has a one player mode, two player mode, tournament mode and single fight mode. This is an indie mini game. Gameplay testers have said it plays like a fighting game from the 90's and makes them feel nostalgic. perform special moves and combos with carefully timed button an directional inputs. The move display widget now displays input for both gamepad and keyboard.<br><br>The game uses an interrupt based system, meaning you have to put in your inputs in time with the animations.<br><br><u><h2 class=\"bb_tag\" >Control pad controls.</h2></u><br><br>Left and right directional buttons move forwards and back.<br>Down is crouch.<br>Up Is Jump<br>Left button is quick punch.<br>Top button is heavy punch.<br>Right button is heavy kick.<br>Bottom button is quick kick.<h2 class=\"bb_tag\" ><u>Keyboard Controls </u></h2><br>Left and right directional buttons move forwards and back.<br>Down/ S key is crouch.<br>Up/ W/ spacebar Is Jump<br>A/ S moves forwards and Backwards<br><br>4/J is quick punch.<br>8/I is heavy punch.<br>6/L is heavy kick.<br>2/K is quick kick.<br><br>The year is 2194. Corporations have barely established colonies on Mars yet they're already on the brink of war. Meanwhile a lot of their robots end up in a remote scrapyard. The owner puts on an event called &quot;Dead Metal Tournament&quot; to make a few extra trillions. But not all of the robots here are refuse. They range from old scrap that refuses to die all the way up to cutting edge combat prototypes being tested in cyberspace.<br><br>The game is a prequel to a book called Technophobia: Operation Dead Circuit, available on Amazon. This game and the book poke fun at corporate shenanigans and if you play this game and read the book you will notice the lies and propaganda within the lore.<br><br>For nostalgic reasons the terminal emulator I used whilst developing the game has been left in there. Some of the codes left in there can be used as &quot;cheats&quot;. I got carried away at one point and gave the terminal a personality. Certain inputs will return emotional responses. You can unlock costumes by playing the tournament. The boss &quot;SA-Zero Killdozer&quot; can be unlocked. Hopefully I will be able to add secret characters for you to fight and unlock soon.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157910/header.jpg?t=1673428234",
+    "developers": [
+      "Reuben Stern"
+    ],
+    "publishers": [
+      "Reuben Stern"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
