@@ -1,0 +1,87 @@
+{
+  "2018030": {
+    "name": "Space Rescue",
+    "steam_appid": 2018030,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>这款游戏出自由机核网在2022年举办的GameJam——BOOOM。</strong><h2 class=\"bb_tag\" >关于这款游戏</h2>玩家将驾驶一艘小小的飞船，潜入敌方的藏宝迷宫，在浩瀚的太空中左翔右绕，避开重重障碍，最终把散落在各处的能源尖晶运送回美丽的母星。<br>作为一款休闲益智的动作游戏，《Space Rescue》操作起来并不复杂，只需控制左右方向+灵活切换能源尖晶赋予飞船的几种技能。但值得注意的是，驾驶飞船可不像在地面上开车———你自以为良好的方向感，在太空里可能未必那么好使～<br>祝大家早日取回珍贵的尖晶！<h2 class=\"bb_tag\" >开发者的话</h2>感谢大家对我们游戏的支持。这个作品是我们在工作之余参加的一场Game Jam中诞生的，由于水平有限，游戏本身有许多不足。不过在一些朋友的建议下，我们还是决定把这个游戏以免费的形式放到Steam上来让更多的玩家能够玩到我们的游戏。<br>目前我们也正在用业余时间制作一款解谜游戏《Line Time》，预计之后也会登录Steam平台，感兴趣的各位玩家可以在机核网或Itch.io搜索对应的名字体验到最早期的Demo。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2018030/extras/5ce5080dd090a3ee75b56791460b2b01.avif?t=1655707870\" width=440 height=254 /></span><br>不过由于开发人员以及开发时间有限，目前进展十分缓慢，希望后续能够顺利开发完成。<br>最后再次感谢大家喜欢、支持我们的游戏~",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2018030/header.jpg?t=1655707870",
+    "developers": [
+      "FaMo4&FaMo5"
+    ],
+    "publishers": [
+      "FaMo4&FaMo5"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "黄色尖晶石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2018030/ebae20fcc8911eaf5cce61408685d2746dc98eaa.jpg"
+        },
+        {
+          "name": "蓝色尖晶石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2018030/8feac7c2bb19cbb0c3d30c898a84f0fc3e3b5c57.jpg"
+        },
+        {
+          "name": "红色尖晶石",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2018030/fdf7fef187db334e2af37ebfb8054562a69c8bd1.jpg"
+        },
+        {
+          "name": "走向未来",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2018030/79c1c6e5d3f5917c59b44ac7f2b2648cbf425d3b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

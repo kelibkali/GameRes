@@ -1,0 +1,59 @@
+{
+  "2079120": {
+    "name": "Warudo",
+    "steam_appid": 2079120,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2079120/extras/90717aa51e5838a249199586e4d3dc59.avif?t=1770284443\" width=360 height=111 /></span><br><br><strong>唤醒你的虚拟潜能——欢迎来到极高可玩性与自由度的 3D 虚拟直播软件：Warudo。</strong><br><br><ul class=\"bb_ul\"><li> 个人使用 100% 免费。^<br></li><li> 使用摄像头 / iPhone 进行面部捕捉（ARKit）和手部捕捉。<br></li><li> 使用动作捕捉服、VR 追踪器或任何兼容 VMC 协议的软件进行全身动作捕捉。<br></li><li> 兼容 VRM、VRChat 及任何具有人形骨架的角色模型。非 VRM 模型需要在 Unity 中进行一次性导出（请参见使用手册）。<br></li><li> 完全可自定义的表情系统。<br></li><li> 自由从外部导入 3D 道具、环境、粒子效果等。<br></li><li> 原生集成主流直播平台：哔哩哔哩、Twitch、YouTube。<br></li><li> 让观众与你的角色互动：投掷道具、生成贴纸和粒子效果、发射水流等。<br></li><li> 可编程蓝图系统，让你随心自定义从动作捕捉到观众交互的任何内容。<br></li><li> 用 MIDI、Stream Deck 甚至 WebSocket 消息来控制蓝图。<br></li><li> 为开发人员提供 C# SDK，开发你期望的功能！<br></li><li> ……这个列表太短，写不下了。_(:3 」∠)_</li></ul><br>请注意，宣传视频和图片中使用的素材并不一定包含在软件中。<br><br>^ 我们将&quot;个人使用&quot;定义为：<br><ul class=\"bb_ul\"><li> 直播平台的账号以及 VTuber 模型版权属于使用者本人<strong>并且</strong><br></li><li> 直播是个人行为，不属于任何与第三方签订的合同范围内（和直播平台直接签约除外）。</li></ul><br>如果你想商业使用 Warudo，请发送邮件到 info@warudo.app 联系我们。",
+    "supported_languages": "英语, 简体中文, 日语, 韩语, 俄语, 西班牙语 - 拉丁美洲, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2079120/header.jpg?t=1770284443",
+    "developers": [
+      "Hakuya Labs"
+    ],
+    "publishers": [
+      "Hakuya Labs"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

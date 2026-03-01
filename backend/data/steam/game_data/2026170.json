@@ -1,0 +1,78 @@
+{
+  "2026170": {
+    "name": "L-Racers",
+    "steam_appid": 2026170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "L-Racers is a minimalistic, retro, 1980s arcade-style old school game where you go head-to-head against another player (CPU or human) and be the last racer alive.<br />\r\n<br />\r\nUse your keyboard or an XInput-compatible gamepad, grab a friend and play like it's 1985!<br />\r\n<br />\r\nAvailable game modes include: Single player versus CPU, 2-Player local PvP sharing the same keyboard, or both using gamepads, and Local Area Network play. <br />\r\n<br />\r\nAs of version 2.0, L-RACERS now have SPECIAL POWERS, including stopping on a dime, dashing at double speed, or laying explosive bombs for your opponent!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026170/header.jpg?t=1718127439",
+    "developers": [
+      "Pole Pig Productions"
+    ],
+    "publishers": [
+      "Pole Pig Productions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

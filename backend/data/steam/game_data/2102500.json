@@ -1,0 +1,107 @@
+{
+  "2102500": {
+    "name": "Blacksmith Weapon Merchant",
+    "steam_appid": 2102500,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >收集资源</h2>一个小的点击游戏，你需要从树木、岩石和潜水员的矿物中收集资源，为你的客户制作不同的武器。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/extras/e0abde106ff6a3ba595243dbdd50ba2f.poster.avif?t=1745408010\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/extras/e0abde106ff6a3ba595243dbdd50ba2f.webm?t=1745408010\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >客户和食谱</h2>每个客户都有其时间限制，如果超过就会离开，如果有三个客户离开，你就会失去游戏。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/extras/6ceedc3369c1bba4a7b50f4d39e901a3.poster.avif?t=1745408010\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/extras/6ceedc3369c1bba4a7b50f4d39e901a3.webm?t=1745408010\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/extras/6ceedc3369c1bba4a7b50f4d39e901a3.mp4?t=1745408010\" type=\"video/mp4\"></video></span><br>每个配方将为你的分数增加一分，在游戏结束时，你的分数将被上传到Steam排行榜上，这样你就可以在全世界范围内竞争。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 日语, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 土耳其语, 越南语, 加泰罗尼亚语, 加利西亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102500/header.jpg?t=1745408010",
+    "developers": [
+      "guilemus"
+    ],
+    "publishers": [
+      "guilemus"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "正宗的铁匠",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/b3129c9918595baf3de5d4a517cedff5f8c9c907.jpg"
+        },
+        {
+          "name": "婴儿期的步骤",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/787762280de94d6c62355202b32123e0e0f11ee3.jpg"
+        },
+        {
+          "name": "开始工作",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/1bff1139cf7e5dc3f468ca3ef12b5e2dc2783af4.jpg"
+        },
+        {
+          "name": "像专业人士一样",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/10cac5a4a5b7981fbcf3ee9e2054c38532cdbb5b.jpg"
+        },
+        {
+          "name": "多语言",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/6f2c4b50b1f16ead7bf35c42044624872a00c7eb.jpg"
+        },
+        {
+          "name": "第一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2102500/fe79e2b50e8c4f7dada99cefd652fce10752cdb9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

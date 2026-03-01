@@ -1,0 +1,78 @@
+{
+  "2052360": {
+    "name": "你已经猜到结局了吗-创作者扩展与音乐原声",
+    "steam_appid": 2052360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>《创作者扩展与音乐原声》</strong>是游戏<strong>《你已经猜到结局了吗》</strong>的可下载扩展内容。<br>包含目前游戏内使用的原创曲目（ogg格式），创作者头像与创作者徽章。<br>创作者头像与徽章可以在游戏内的海龟汤工坊里面进行更换，提供更多个性化的选择。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052360/extras/7455ab55d789bf626c66caa1a76d30eb.avif?t=1667812997\" width=207 height=301 /></span><br>如果后面还会增加曲目，徽章和头像，则只会直接在本DLC内进行添加和更新，不再新增DLC来销售以上项目。请放心购买。<br><br><br>DLC包含资源的目录结构如下：<br>├─Mark<br>│      m1.png<br>│      m2.png<br>│      m3.png<br>│      m4.png<br>│      m5.png<br>│      m6.png<br>│      m7.png<br>│      m8.png<br>│<br>├─Music<br>│      凭阑悬竹.ogg<br>│      向日葵之邀.ogg<br>│      小蓝好听曲.ogg<br>│      小黄垂钓曲.ogg<br>│      小黄早安曲(循环).ogg<br>│      小黄早安曲.ogg<br>│      序幕.ogg<br>│      细思恐极.ogg<br>│      胧夜无眠.ogg<br>│      静夜来访.ogg<br>│      朝思暮想.ogg<br>│      扉外三千.ogg<br>│<br>└─Portrait<br>        p1.png<br>        p2.png<br>        p3.png<br>        p4.png<br>        p5.png<br>        p6.png<br>        p7.png<br>        p8.png<br>        pp1.png<br>        pp2.png<br>        pp3.png<br>        pp4.png<br>        pp5.png<br>        pp6.png<br>        pp7.png<br>        pp8.png<br><br>======Staff========<br>设计：雅虎<br>美术：二歪，阿纪<br>作曲/编曲：窦梵真<br><br>======附注========<br>音乐内容仅限单人收藏使用。<br>不能上传至视频或者音乐平台，以及用于商业目的再创作中。",
+    "supported_languages": "简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052360/header.jpg?t=1667812997",
+    "developers": [
+      "橘音"
+    ],
+    "publishers": [
+      "橘音"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 900,
+      "final": 900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 9,
+      "total_negative": 0,
+      "total_reviews": 9
+    },
+    "type": "dlc"
+  }
+}

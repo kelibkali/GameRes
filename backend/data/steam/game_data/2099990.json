@@ -1,0 +1,51 @@
+{
+  "2099990": {
+    "name": "合你个鬼",
+    "steam_appid": 2099990,
+    "required_age": 0,
+    "is_free": true,
+    "description": "这是一款古老有趣的合并类型游戏<br />\r\n玩家需要将3个外形一致的墓碑（或者僵尸）合并成一个更高级的墓碑<br />\r\n当棋盘上所有的格子都被放满则游戏结束，并根据积分获得金币奖励<br />\r\n如果遇到困难无法合并，可以尝试使用圆形的万能合并，又或者使用炸弹。<br />\r\n<br />\r\n目前游戏是作为一款免费产品提供给粉丝们。因此游戏中购买金币的选项是无限打开的（作弊）如果对于游戏难度感到困惑，可以直接在游戏中免费购买金币，然后用金币购买道具通关。<br />\r\n<br />\r\n另外我们还保留了一些游戏的‘后门’<br />\r\n1、在游戏的棋盘中使用鼠标右键则可以直接升级鼠标指向的物件<br />\r\n2、按下小键盘1，再按下鼠标左键则自动生成一只僵尸<br />\r\n3、按下小键盘2，再按下鼠标左键则会炸毁鼠标指向的物件<br />\r\n4、按下键盘L键，则会删除棋盘上的所有内容<br />\r\n<br />\r\n你也可以尝试使用这一系列命令构造一个‘有趣的’关卡。<br />\r\n<br />\r\n<br />\r\n十年前我们就在尝试制作独立游戏，可惜当时环境较差，盗版猖獗，游戏出来以后很快越狱版，免费版就铺天盖地。所以游戏也就死了。<br />\r\n十年后，经历了很多事情后，游戏又重见天日，为了回馈当年坚持支持我们的朋友，也为了让尘封的往事留下足迹，特推出本游戏纪念版，纯粹为了纪念。对本游戏提出的意见都会考虑进后续的复刻产品中。<br />\r\n本游戏使用unity3d 3.5.6开发，并且使用了ngui以及uscript插件可视化编程编写，现在插件已经消失不见，本作也是该插件的绝唱了。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099990/header.jpg?t=1730077745",
+    "developers": [
+      "Magic Cat"
+    ],
+    "publishers": [
+      "Magic Cat"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

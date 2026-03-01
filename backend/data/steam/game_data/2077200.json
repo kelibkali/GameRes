@@ -1,0 +1,82 @@
+{
+  "2077200": {
+    "name": "3D Chess Q14",
+    "steam_appid": 2077200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>2D / 3D Chess Game with new figures and various boards.</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play on boards with 5x5 to 16x16 fields.</p></li><li><p class=\"bb_paragraph\" >3 new Figures: Wizard, Gamma and Keeper</p></li><li><p class=\"bb_paragraph\" >100+ play modes: Single Layer, 3D Stacked Game, Random Attack Games, and Tower Challenge. Play chess or antichess.</p></li><li><p class=\"bb_paragraph\" >3D and 2D views.</p></li><li><p class=\"bb_paragraph\" >Level Editor and Community Presets.</p></li><li><p class=\"bb_paragraph\" >Play on one computer, online with your friends or against the AI.</p></li><li><p class=\"bb_paragraph\" >Optional Anti-Chess mode for all single-level games</p></li><li><p class=\"bb_paragraph\" >3D Stacked: Play on several levels: Each hit figure will be your trophy on the next level. Since a level is done (check or draw), the game continues on the next level.</p></li><li><p class=\"bb_paragraph\" >Tower Mode: Play several sized games. The best player wins.</p></li><li><p class=\"bb_paragraph\" >Online: Play against other users online.</p></li><li><p class=\"bb_paragraph\" >Quick Game: Attach to online games.</p></li><li><p class=\"bb_paragraph\" >Snapshots: Create a game snapshot and resume any time.</p></li><li><p class=\"bb_paragraph\" >Switch between different visualizations. Board Style, Darkmode, Fullsized Windows, hint fields</p></li><li><p class=\"bb_paragraph\" >Dynamic Skins</p></li><li><p class=\"bb_paragraph\" >Easy distribution of game sets between users.</p></li><li><p class=\"bb_paragraph\" >Optimized for FullHD+ displays.</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2077200/header.jpg?t=1748971015",
+    "developers": [
+      "squaregate.at"
+    ],
+    "publishers": [
+      "squaregate.at"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1980,
+      "final": 1980,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

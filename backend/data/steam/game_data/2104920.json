@@ -1,0 +1,186 @@
+{
+  "2104920": {
+    "name": "GeneRally 2",
+    "steam_appid": 2104920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>GeneRally 2 is a friendly top-down arcade racing game - with an easy-to-use, built-in track editor.</strong> GeneRally 2 is the sequel to the 2002 classic, GeneRally - one of the most played arcade racing games of all time! Have fun racing alone against computer-controlled opponents; with your friends in &quot;no split-screen necessary&quot; couch PvP; online with players from around the world; or try your hand at creating tracks and sharing them with the community!</p><p class=\"bb_paragraph\" >GeneRally 2 is on the home stretch of Early Access - and will soon be reaching v1.0. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104920/extras/e4f2aaab4ee45bc32fa95c9f1f07198c.poster.avif?t=1767299069\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104920/extras/e4f2aaab4ee45bc32fa95c9f1f07198c.webm?t=1767299069\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104920/extras/e4f2aaab4ee45bc32fa95c9f1f07198c.mp4?t=1767299069\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Top-down arcade racing game fun!</strong> The gameplay is easy to pick up, but with plenty of room for mastery.</p></li><li><p class=\"bb_paragraph\" ><strong>Race online or offline - with friends, or against computer-controlled opponents!</strong> With online multiplayer, you can race with GeneRally 2 players from all over the world - but you can also gather up to 7 friends and play in no-splitscreen-necessary couch co-op!</p></li><li><p class=\"bb_paragraph\" ><strong>10 unique cars.</strong> Rally, Single-Seater, Stock Car, Monster Truck, GT - you name it! Each car has its own performance characteristics and unique handling model. And more cars are being added on a regular basis!</p></li><li><p class=\"bb_paragraph\" ><strong>Over 1000 tracks (and counting)...</strong> Our community has produced over a thousand tracks to date, and more are being created every day and uploaded to Steam Workshop. If that's not enough, create your own tracks, or import and race any of the tens of thousands that were created for GeneRally 1!</p></li><li><p class=\"bb_paragraph\" ><strong>Build your own tracks.</strong> Using our built-in track editor, making the racing circuits of your dreams couldn't be easier! No special knowledge required. Join our track-making community and share your creations with the world.</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 芬兰语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 土耳其语<strong>*</strong>, 法语<strong>*</strong>, 俄语<strong>*</strong>, 波兰语<strong>*</strong>, 日语<strong>*</strong>, 意大利语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104920/3d6b932d554ce660dc0dd28b6790a21ee9691dab/header.jpg?t=1767299069",
+    "developers": [
+      "Curious Chicken Games"
+    ],
+    "publishers": [
+      "Curious Chicken Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      },
+      {
+        "id": 63,
+        "description": "Steam 时间轴"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "Would One Win One, Juan?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/51736f5d3e38c9170d4ede844e10a8c505e51bfa.jpg"
+        },
+        {
+          "name": "The Track is My Canvas",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/258b57ebad78a0b74a65df79816bb0d22e7643c6.jpg"
+        },
+        {
+          "name": "Work, Dedication and Competence",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/9b05a0b9fdcefd9bdcad5deb7cfb297ea6e01ad7.jpg"
+        },
+        {
+          "name": "Just Leave Me Alone, I Know What to Do",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/6d5f97f862abfbc1ae9c2210060fb3340932d000.jpg"
+        },
+        {
+          "name": "To Finish First, First You Have To Finish",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/1eaf5462ef24043221523a6c3c377dd76511d0b3.jpg"
+        },
+        {
+          "name": "Not Finished Yet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/e6c0019b2aa8bdc9b6c0bf979c48c5d871073181.jpg"
+        },
+        {
+          "name": "Nearly Finished",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/5635b9c9587a1b1be792251b95be2778899d43f5.jpg"
+        },
+        {
+          "name": "Totally Finished",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/8689a9b7bbd762a493e8e2304390f812dbbb65ee.jpg"
+        },
+        {
+          "name": "Box, box, box",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/de0a5934bfa07e68338d8b38277dbe43c19b4eab.jpg"
+        },
+        {
+          "name": "Stop-and-go",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2104920/54edccba6eef9c9ee25b73bf28faa8dd63d38c8b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

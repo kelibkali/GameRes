@@ -1,0 +1,43 @@
+{
+  "2087930": {
+    "name": "NoiseBox.噪音盒子 Demo",
+    "steam_appid": 2087930,
+    "required_age": 0,
+    "is_free": true,
+    "description": "噪音盒子的试用版，<strong>仅</strong>保持和完整版相同的<strong>功能</strong>，和必要的基础资源。不会随着版本的资源更新而迭代，但是功能会保持同步。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2087930/header.jpg?t=1728638042",
+    "developers": [
+      "h.Nose",
+      "普朗克噪音"
+    ],
+    "publishers": [
+      "h.Nosie"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

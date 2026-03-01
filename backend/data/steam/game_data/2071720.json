@@ -1,0 +1,79 @@
+{
+  "2071720": {
+    "name": "Dawn vs Dusk",
+    "steam_appid": 2071720,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >8/12/2025<br>There has been litany of improvements made to the game so far. In addition to setting up the private API to manage cross-play matchmaking, I have been completely rebuilding the game to incorporate many more components and streamline action using Unreal's Gameplay Ability System. <br><br>I'm hoping to do a release in the coming weeks, in Alpha. All the improvements I've incorporated are building the groundwork for swift character development when ready. <br><br>ALPHA TODOS:<br>Finish GAS based basic attack system.<br>Incorporate IK and advanced Animations on the Sheriff character.<br>Rebuild the Card System using GAS.<br>Updated map and other visuals.<br>Build the character leveling and GAS based ability system. <br><br>BETA TODOS:<br>Server Stress Testing.<br>Build Character Bots for offline play.<br>Complete Steam/Epic/PC Matchmaking on Dedicated Servers.<br>Player accounts for game stats on official website.<br>6 complete characters.<br>Deck Builder.<br><br>RELEASE TODOS:<br>10 Complete Characters.<br>Character customizing.<br>Map creatures and events.<br>Console Feasibility Study.<br><br>POST-RELEASE:<br>Single player character DLCs (story driven).<br>More maps,<br>More characters,<br>More gamemodes!<br><br><br><br>5/16/25</p><p class=\"bb_paragraph\" >Well its been two years without much development since I was working two jobs and have a family to look after. I was laid off a couple months ago due to the tariff war and now I'm back on the game development.<br><br>The original alpha could never be competitive because it was self hosted. That was always a glaring problem. I am currently building an website and API to handle player accounts and matchmaking using dedicated servers. You can check out the &quot;coming soon&quot; website at the website listed to the right in &quot;Visit the Website,&quot; there you can subscribe for promotional updates. <br><br>I am a software engineer and this is the first fully featured online game I have made. I am working solo and I have zero budget. Adding characters, special abilities, a card deck maker, a character customizer, custom banners, and cross-play are all on the agenda. But I'm starting at the backend bottom and working back up to the game state where I'm building Unreal blueprints in C++ to handle the API authentication and other calls. <br><br><br>(5/22/23 - First released version has some glaring bugs! I'm sorry but some sound effects are not being heard on all clients, and some bugs with point capture are present)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Dawn vs Dusk is a 3v3, PvPvE, asymmetric, hard-point capture, styled, brawler.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Featuring Unreal Engine 5 and Paragon assets, this game is a re-imagining of what that franchise could have been. There are no lanes, there are no towers to destroy; only three capture pads. </p><p class=\"bb_paragraph\" >When a team captures a pad they get Gold points to spend on card upgrades. Cards change the game by giving health, mana, or damage boosts. Each player receives 5 lives with no respawn timer, so play smart! Last team standing wins!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >As of today, May 22, 2023 the game is still a baby. Please be patient as I work solo to build and update this game. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Early access, pre-alpha gameplay is not representative of the finished product, but comments and constructive criticism are welcome.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071720/header.jpg?t=1758644572",
+    "developers": [
+      "Arthur Spears"
+    ],
+    "publishers": [
+      "Self"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

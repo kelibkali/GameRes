@@ -1,0 +1,66 @@
+{
+  "2092000": {
+    "name": "Calamity Sanctuary",
+    "steam_appid": 2092000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Calamity Sanctuary is a roguelite action rpg with deckbuilding elements. Build your deck, acquire powerful daemons and fight your way in realtime for a chance get to safety before the prophesied Calamity strikes.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li> <i>Realtime deckbuilder</i>: Unlike most deckbuilders, battles in Calamity Sanctuary are in realtime. You’ll have to think fast and know your deck like the palm of your hand if you want to be effective in combat.<br></li><li> <i>Acquire Powerful Daemons</i>: Daemons grant you various passive abilities, but simply acquiring them is not enough. You’ll have to find them a place in your Pacifing Grid if you want to reap the benefits they provide<br></li><li> <i>Explore the Galaxy</i>: The path towards the Calamity Sanctuary will take you through various planets, each with their own set of challenges. Choose which path to take depending on your current strengths and weaknesses.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092000/header.jpg?t=1722611103",
+    "developers": [
+      "Gregory Fournier"
+    ],
+    "publishers": [
+      "Gregory Fournier"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "2055400": {
+    "name": "Knights Together",
+    "steam_appid": 2055400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Knights Together is a minimalist puzzle game inspired by the chess piece knight. Although it's inspired by chess, it requires no knowledge of chess to play! Simply move your knights around the board and make sure they come together. The points a knight can move are highlighted leaving you only the necessary calculations.</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055400/extras/91db838504b0ddd5e14909d6bae876cd.avif?t=1762863908\" width=482 height=476 /></span></p><p class=\"bb_paragraph\" >The game also features some light RPG elements such as summoning, teleportation with portals, destruction of walls and more!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055400/extras/67a92766a249d47babcdd0659eadc508.avif?t=1762863908\" width=256 height=254 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055400/extras/7fc584919ce305181e2d1a1b7f8844ab.avif?t=1762863908\" width=256 height=256 /></span></p><p class=\"bb_paragraph\" >The levels are designed to be finished using certain number of moves. There are a lot of power ups on the board to increase your allocated moves. Also many levels can be solved using different methods and fewer than given moves.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055400/7f618e20a2253acca7999438c4adc0f2b5e032db/header.jpg?t=1762863908",
+    "developers": [
+      "DDoubleDD"
+    ],
+    "publishers": [
+      "DDoubleDD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 374,
+      "discount_percent": 66,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.74"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 11 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Newbie Solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/d4ee9730dfce78af3f02898d0e9742b5fe16801e.jpg"
+        },
+        {
+          "name": "Solver 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/b1f1b59e0fa8645be053a62285496d5947546edc.jpg"
+        },
+        {
+          "name": "Solver 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/e44bbe74833310d44708d8caf2f12323ff0352a0.jpg"
+        },
+        {
+          "name": "Solver 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/f12c235499528d5096e31b7acb86da322bb53d5d.jpg"
+        },
+        {
+          "name": "Solver 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/a70f200a314994e3a2c2c0c86ad935c3fa1055cf.jpg"
+        },
+        {
+          "name": "Solver 25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/e70939a3bcb2079b7a7c92b9aabc42fc0b3b2710.jpg"
+        },
+        {
+          "name": "Solver 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/bba61d3e1982f842357360db123215467fa7539d.jpg"
+        },
+        {
+          "name": "Solver 35",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/34a67a983f5d771e7fc11463388952c4928879a1.jpg"
+        },
+        {
+          "name": "Solver 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/f9ed80aecf013eb3fb58554e658b10543e82e392.jpg"
+        },
+        {
+          "name": "Master Solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2055400/f022c424ce56e575007f61d1151649292731f104.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

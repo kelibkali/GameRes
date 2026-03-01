@@ -1,0 +1,58 @@
+{
+  "2056820": {
+    "name": "拾穗方块 - 西服方块",
+    "steam_appid": 2056820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "此新增内容含有以下内容：<br />\r\n<br />\r\n一个新的角色模型，会自动替换游戏中原始的方块。<br />\r\n<br />\r\n*为你操控的角色穿上一套西服，现在他看起来更像人了！<br />\r\n*需拥有《拾穗方块》本体才可使用。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2056820/header_schinese.jpg?t=1659353527",
+    "developers": [
+      "猎人飞驰"
+    ],
+    "publishers": [
+      "猎人飞驰"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

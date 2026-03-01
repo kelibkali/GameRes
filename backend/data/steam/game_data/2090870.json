@@ -1,0 +1,42 @@
+{
+  "2090870": {
+    "name": "MMO Starter Kit Demo",
+    "steam_appid": 2090870,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This is a demo of a product for game developers. It's a full remaster of the MMO Starter Kit that came out back in 2014, at the dawn of UE4.<br><br>The project was rewritten from scratch in 2022 for a more modern approach to most systems. It's done almost entirely in Blueprints and relies heavily on Components, Interfaces and Event Dispatchers for architecture. A lot of the effort went into avoiding circular dependencies in Blueprints, which I hope will help avoid many problems that often plague pure Blueprint projects.<br>Some small part of the project is written in C++, but it's not the part that you'll ever have to go into. As a developer, you're free to never go into C++.<h2 class=\"bb_tag\" >Key features of the project</h2><ul class=\"bb_ul\"><li>Gameplay entirely in UE5 with Unreal acting as an authoritative server.<br></li><li>A Persistence Server written in C# - it takes on a few roles, such as relaying messages (whispers, shouts) and entities (guilds, parties) between game servers &amp; clients, ensures persistence (saves/retrieves characters from DB), login, etc,.. and in the future it will be used to host Auction Houses.<br></li><li>If you're not overly familiar with C#, the Persistence Server is structured in a way that you don't have to worry about its underlying mechanics. All you have to do is write simple scripts on top of a solid foundation. A basic C# knowledge is sufficient to extend the Kit's functionality, if you need to squeeze more from the Persistence Server. However, you don't have to touch it at all, as long as you work on gameplay in UE5.<br></li><li>Two database systems for you to choose from: MySQL and Sqlite, both preconfigured. Sqlite works out of the box, no setup is necessary. Switch over to MySQL later in development when database speed starts to matter.<br></li><li>Two login systems: one is login/password-based, another Steam-based. Test your game with simple logins/passwords, start using Steam login after you're ready to deploy a first serious demo.<br></li><li>Steam integration and a thorough guide, including the sometimes difficult steps, such as building, deployment and depot management.<br></li><li>Enhanced Input System.</li></ul><h2 class=\"bb_tag\" >Gameplay features</h2><ul class=\"bb_ul\"><li>Three gameplay control schemes: First Person, Third Person (over the shoulder) and Top Down. Switch between them using F5-F6-F7 keys in the demo.<br></li><li>Two combat modes: target-based and non-target. Non-target automatically works with First Person and Third Person. Target-based works with Top Down.<br></li><li>Most assets are loaded asynchronously and on demand, the implication being that your game can have thousands of items or mobs, but only the ones needed will be loaded into memory and there will be no hiccups in a crowded scenario. These assets will be unloaded from memory as soon as they become unnecessary.<br></li><li>Inventory. The Kit was made with flexibility in mind. Even though you get a grid based inventory by default, but it's just a special implementation of a parent class. Inherit from the same parent class and create your own logic for the inventory. The documentation will explain it in more details.<br></li><li>Equipment. As an example, you'll have three slots: Head, Right Hand and Left Hand. Add more, depending on your game's needs.<br></li><li>Appearance system. Have you ever played WoW and got impressed by the transmog system or the numerous toys that turn your character into other creatures? I have. The Kit's appearance systems will allow you to write logic that will make your characters look any way you want.<br></li><li>Two example races: Human &amp; Mannequin, both races sharing the same skeleton. The human (there's both male &amp; female) meshes have dozens of morph targets, which will allow creating a facial and body character editor later on. The meshes are quite detailed. Animation IK retargeters are provided. If you have animations that work well on a Mannequin, they'll likely work well on the human characters, too.<br></li><li>Basic stats, which you can extend. Two example classes. For a classless system, simply ignore the classes in your game logic.<br></li><li>A powerful Ability System that's easy to understand and expand. Not the UE5's Ability Component System, while it's still buggy. The Kit may switch to it later on.<br></li><li>Mobs with with three reaction types: friendly, neutral and hostile. Basic AI that pursues the player and fights. Mob stats system. Mobs respawn after death.<br></li><li>World containers, lootable of course.<br></li><li>World usable objects.<br></li><li>Player chat.</li></ul><br>And much more to come..! The kit is being actively developed. <br><br>You can hop on the Discord server and vote on features that you think should be implemented next. Or ask for help if you get stuck.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090870/header.jpg?t=1672860209",
+    "developers": [
+      "CodeSpartan"
+    ],
+    "publishers": [
+      "CodeSpartan"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

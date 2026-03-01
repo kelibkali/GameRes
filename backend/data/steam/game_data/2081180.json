@@ -1,0 +1,110 @@
+{
+  "2081180": {
+    "name": "SquishCraft",
+    "steam_appid": 2081180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "SquishCraft is a puzzle game where you push and squish blocks.<br />\r\n<br />\r\nSolve over 60 puzzle levels.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081180/header.jpg?t=1720766314",
+    "developers": [
+      "bcat112a"
+    ],
+    "publishers": [
+      "bcat112a"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2800,
+      "final": 2800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 28.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Perfect World 0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/36e9f4af8baa5766c01eaf8f1dc8c42e87cf6f6a.jpg"
+        },
+        {
+          "name": " \tPerfect World 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/f16d54b477a7d5a8c98c8b14c244eceb70eb1069.jpg"
+        },
+        {
+          "name": " \tPerfect World 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/ec15199a696d5fc5e93a0a1f5ffd650802cc6246.jpg"
+        },
+        {
+          "name": "Perfect World 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/6134fdca5af1fa149964c2e2ae169fa342a20da5.jpg"
+        },
+        {
+          "name": " \tPerfect World 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/a5708fe7f2cbe99b15992bfb48cffec4a76e2e6b.jpg"
+        },
+        {
+          "name": " \tPerfect World 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/2110e0c0804778316a6d98dfef1edb4bfe7a81be.jpg"
+        },
+        {
+          "name": "ANY%",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/2ad5b390d331745a20cf8b4cca1039721f4408e8.jpg"
+        },
+        {
+          "name": "Secret World Found",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/c7f3b18b5646a5d9aef9c4a1bddd36a8c7bb93c1.jpg"
+        },
+        {
+          "name": "NashiSafety",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/373574307372be54ff92869a0f3b0f60698b147f.jpg"
+        },
+        {
+          "name": "Chess Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2081180/a3131da88048bcb9e6c59ab94185ea2906126e22.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 18,
+      "total_negative": 2,
+      "total_reviews": 20
+    },
+    "type": "game"
+  }
+}

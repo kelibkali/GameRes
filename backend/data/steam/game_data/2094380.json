@@ -1,0 +1,126 @@
+{
+  "2094380": {
+    "name": "Chai",
+    "steam_appid": 2094380,
+    "required_age": 0,
+    "is_free": false,
+    "description": "In <strong>Chai</strong>, you will step into the shoes of a tea merchant, combining tea flavors to make a perfect blend. Specializing in either rooibos, green, oolong, black or white tea, you will buy and collect ingredients to fulfill your customers’ orders.<br><br>Each turn you can choose to either visit the tea market, the pantry or to reserve a customer and use an ability.<br><br><strong>Visiting the tea market</strong><br>There are 6 different tea flavor tiles. Mint, Jasmine, Lemon, Ginger, Berries and Lavender.<br>When you choose this action you will gain a gold coin with the value of three.<br>Spent at least one coin on the market to purchase tea flavor tiles. But you can only have 12 of them stored in your tea house!<br>If the flavor tile is touching tiles of the same type these tiles are also taken (only vertically or horizontally). <br>Think strategically! After each purchase the remaining flavor tiles will slide to the left. <br>After the turn the market will get refilled.<br><br><strong>Visiting the pantry</strong><br>The pantry offers you Milk, Honey, Vanilla, Chai Spices and Sugar to refine your tea orders. <br>If you choose this action you can pick up to three items that are currently available, or/and blindly draw a random tile from the pantry bag.<br>If your tea house has more than six pantry items you will have to discard them down to this number. <br>After the turn the pantry will be replenished.<br><br><strong>Reserving a customer and using an ability card</strong><br>Do you have a customer order from the visible customer pool in mind that you would like to take on and don’t lack many ingredients to fulfill it? Maybe choosing to reserve this customer would be a good choice! You can also reserve a customer blindly from the deck. Either way, up to three customer orders can be reserved for your tea house.<br>After reserving a customer you may choose to use one of the ability actions. For example, to take one pantry item from the pantry for free. <br><br>At the end of one of these actions you may fulfill one customer order from the customer pool or from the orders you reserved. Check what ingredients they want and use your tea house stock to fulfill it! If your tea house specialization doesn’t match the customer orders color (e.g Rooibos = Red but you are specialized in Oolong = Blue) you maybe need to buy a tea token from one of your opponents with this color to fulfill it. <br><br>The game ends when 5 rounds have been completed.<br>Add your money and points from completed customer orders to determine the best tea merchant!",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094380/header.jpg?t=1671450742",
+    "developers": [
+      "DIGIDICED"
+    ],
+    "publishers": [
+      "DIGIDICED"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 32,
+        "description": "Steam 回合通知"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Noob",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/fa30d28616fb98589f861c630b6bf97074a834b5.jpg"
+        },
+        {
+          "name": "David and Goliath",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/31db2614f99789326288a37266371d3b5590ebdf.jpg"
+        },
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/6d12f0ee7fdc74d8aa2b23a05d43746ca87fc768.jpg"
+        },
+        {
+          "name": "Bargain Jokey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/edeae0598f6b241436b36a89cdd456dbe2cd27ef.jpg"
+        },
+        {
+          "name": "Good Deal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/ef6ba776ec9ea85c6e9a6e52925d10973eeb8d19.jpg"
+        },
+        {
+          "name": "Sold Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/f4aed8ab22e4fbc99ec8620939e46a4a56b7f085.jpg"
+        },
+        {
+          "name": "Tea Merchant Pro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2094380/033edec50a13913b18c3246a4fd0abee71a0c214.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

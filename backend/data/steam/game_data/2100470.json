@@ -1,0 +1,62 @@
+{
+  "2100470": {
+    "name": "Delivering Letters",
+    "steam_appid": 2100470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a game about postman who has to deliver last 10 letters.<br />\r\n<br />\r\nThis game is primarily a &quot;walking simulator&quot; genre you only have to click on mailbox and dont get caught by the enemy.<br />\r\n<br />\r\nMy idea of the game was to make a small &quot;Party horror game&quot; where you can watch your friends play and compete who can beat the game in better time, but you can also play alone, it's inspired by a game in which you have to collect 8 pages, but instead you are delivering 10 letters which are randomly chosen from 50 overall. Every house has a number and when you click on tab on your keyboard it shows you current letter with the house number and the house numbers are shown on the map. (press m on the keyboard) After you deliver 10 letters, you also have to leave the area to win the game.<br />\r\n<br />\r\nControlls - Movement - WSAD<br />\r\n                  Current letter - TAB<br />\r\n                  Map - M<br />\r\n                  Deliver letter - left mouse button (aim on mailbox)<br />\r\n                  Sprint - Shift",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100470/header.jpg?t=1704928996",
+    "developers": [
+      "V.A.H"
+    ],
+    "publishers": [
+      "V.A.H"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "2101370": {
+    "name": "Sylvarcon 2049: Chain of Custody",
+    "steam_appid": 2101370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Sylvarcon 2049 – Legacy Edition</strong></p><p class=\"bb_paragraph\" ><i>Sylvarcon 2049</i> is a cyberpunk, story-driven cybersecurity experience that sits halfway between a game, a cyber range and a training platform. Instead of pretending to hack, you work with <strong>real tools, real virtual machines and real forensic workflows</strong> to investigate incidents, break into systems and uncover the truth behind the Lazarus System.</p><h2 class=\"bb_tag\" >The Lazarus Era</h2><p class=\"bb_paragraph\" >The year is 2049. After a series of devastating pandemics in the 2020s, the world has changed forever. Millions die with every new wave of mutated viruses. Under permanent “emergency laws”, economies collapse, governments fall, and are quietly replaced by pharmaceutical megacorporations — the only entities capable of controlling the strains… and the citizens.</p><p class=\"bb_paragraph\" >To keep “order” inside quarantined smart-cities, the <strong>Lazarus System</strong> is deployed: a global infrastructure that scores and classifies every person, deciding who is “worthy” of vaccines and who gets left outside the wall. Its algorithms don’t just protect people — they protect the new status quo.</p><h2 class=\"bb_tag\" >Two perspectives on the same conspiracy</h2><p class=\"bb_paragraph\" >You will follow the story through two key characters:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Claire</strong> – a seasoned <strong>digital forensics analyst</strong> who wants to uncover what really happened to her mother and how Lazarus is manipulating the data.</p></li><li><p class=\"bb_paragraph\" ><strong>Ethan</strong> – an experienced <strong>hacker</strong> determined to understand why his brother was killed and what Lazarus is hiding behind its “health” algorithms.</p></li></ul><p class=\"bb_paragraph\" >Each path looks at the same universe from a different angle, combining narrative choices with hands-on technical challenges.</p><h2 class=\"bb_tag\" >Real environments, real techniques</h2><p class=\"bb_paragraph\" >Sylvarcon 2049 is built around <strong>realistic forensic and hacking challenges</strong>, not scripted mini-games:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Work against <strong>real virtual machines</strong> and real services.</p></li><li><p class=\"bb_paragraph\" >Analyze <strong>PCAPs, logs, memory dumps, disk images and live systems</strong>.</p></li><li><p class=\"bb_paragraph\" >Apply techniques that map directly to <strong>digital forensics, incident response, offensive security and threat hunting</strong>.</p></li></ul><p class=\"bb_paragraph\" >If you are only looking for a “press buttons to feel like a hacker” game, Sylvarcon 2049 might feel frustrating. <br>If, however, you want to understand how hacking, forensics and modern investigations actually work, Sylvarcon 2049 is designed to be a gateway into that world.</p><h2 class=\"bb_tag\" >Legacy status and the future of Sylvarcon</h2><p class=\"bb_paragraph\" >This <strong>Steam build is now a legacy version</strong>. Over time, the original Unity client and its backend infrastructure became technically obsolete, and the project was <strong>retired and effectively closed on Steam in 2023</strong>.</p><p class=\"bb_paragraph\" >The Sylvarcon universe, however, is <strong>not dead</strong>. It is being <strong>relaunched in a new standalone web-based platform</strong>, with:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A <strong>revamped visual style</strong> inspired by <strong>manga / anime</strong>.</p></li><li><p class=\"bb_paragraph\" >A <strong>brand-new set of challenges</strong> – not just recycled content, but entirely new material.</p></li><li><p class=\"bb_paragraph\" >A redesigned <strong>flag and guidance model</strong>, keeping the depth of real investigations while making the experience clearer.</p></li><li><p class=\"bb_paragraph\" ><strong>Localization in more than 8 languages</strong>, opening Sylvarcon to a much wider audience.</p></li><li><p class=\"bb_paragraph\" >The option to obtain a <strong>skills certificate</strong> mapped to real-world cybersecurity competencies.</p></li><li><p class=\"bb_paragraph\" >And for <strong>owners of the legacy Steam version</strong>, access to the <strong>full premium package</strong> of the new platform once ownership is verified through Steam.</p></li></ul><p class=\"bb_paragraph\" >You can follow the reboot and news about the new experience our new web site. </p><p class=\"bb_paragraph\" >We have also released the <strong>legacy challenge write-ups</strong> from this original Steam edition (solutions, methodology and techniques) for those who want to study or archive the old missions in our github respository </p>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 简体中文<strong>*</strong>, 韩语<strong>*</strong>, 日语<strong>*</strong>, 阿拉伯语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101370/dee2aa0443d8b30cc282d029bf126b26aa9f7826/header.jpg?t=1763906170",
+    "developers": [
+      "Sylvarcon2049"
+    ],
+    "publishers": [
+      "Sylvarcon2049"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Become a Hacker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/99e9b3276c4b293837c70da4e4e09663277fb656.jpg"
+        },
+        {
+          "name": "Become an Analyst",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/417254d0bf2551ff2f0ff102d34ac674b9c3b51c.jpg"
+        },
+        {
+          "name": "I know Kung Fu.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/5e131b65c51ff56f23f0a6217f28f588359ea496.jpg"
+        },
+        {
+          "name": "You have become a Hacker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/18c8f405d6e02a0ebd53b032e7096a64b3988f78.jpg"
+        },
+        {
+          "name": "You have become an Analyst",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/4ea682e21806498467e0f06e06fb43b89d0d3b91.jpg"
+        },
+        {
+          "name": "You are a Hacking Guru",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/5e8e7b2b60d6167933dc819b3ceeeb1e354c91fd.jpg"
+        },
+        {
+          "name": "You are a Forensic Analysis Guru",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/f8261ca88d793f71e7933d8ed0767a545a5ae123.jpg"
+        },
+        {
+          "name": "You have become 31337",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/2aa19ce86d6cf68ed068c750245962cae0dcb74b.jpg"
+        },
+        {
+          "name": "You are the new Holmes",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/f19d3357556cdf8d6cb6e1d1596cc3430914f1e7.jpg"
+        },
+        {
+          "name": "You didn't know you were ZeroCool",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2101370/3800797f41ddff3403f7457c4e6f0ff72027b4bb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

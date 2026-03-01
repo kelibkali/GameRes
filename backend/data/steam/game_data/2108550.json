@@ -1,0 +1,57 @@
+{
+  "2108550": {
+    "name": "Inochi Creator",
+    "steam_appid": 2108550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Inochi Creator 是一个为游戏开发和虚拟直播设计的二维美术建模软件。在 Inochi Creator 中，你可以让绘画或者视觉小说中的立绘动起来。之后，您既可以导出视频来在网络上分享，也可以导出我们的 INP 数据交换格式来给游戏或虚拟直播使用。<br><br>Inochi Creator 完全开源，且我们免费的软件开发套件是以 BSD 2-Clause 协议发布的。所以，您可以在您的游戏和各类多媒体项目中自由使用您在软件中的创作，无需担心任何协议上的限制！</p>",
+    "supported_languages": "英语, 德语, 丹麦语, 日语, 简体中文, 繁体中文, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 意大利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2108550/header.jpg?t=1727731073",
+    "developers": [
+      "Inochi2D Project"
+    ],
+    "publishers": [
+      "Kitsunebi Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 30 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

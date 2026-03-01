@@ -1,0 +1,102 @@
+{
+  "2062660": {
+    "name": "赛博漂移",
+    "steam_appid": 2062660,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >游戏玩法</h2><br><ul class=\"bb_ul\"><li>选择赛道，开始漂移，1-3分钟的漂移体验，反复挑战自己的最快纪录。<h2 class=\"bb_tag\" >游戏特色</h2><br><ul class=\"bb_ul\"><li>特色图形。<br></li><li>支持导入本地音乐、本地贴花图片。<br></li><li>8张地图、5辆汽车、30+首音乐。<br></li><li>Steam成就、Steam排行榜、Steam云支持。</li></ul></li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 波兰语, 简体中文, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062660/header_schinese.jpg?t=1682852108",
+    "developers": [
+      "Meng Games"
+    ],
+    "publishers": [
+      "Meng Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 1100,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "5 Laps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2062660/9f4891eae5ae20a33860a9bdc681b734a2832ed4.jpg"
+        },
+        {
+          "name": "10 Laps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2062660/c42c227b542b032cd38a80a54e2c174f932b1222.jpg"
+        },
+        {
+          "name": "20 Laps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2062660/3b6d5542aa7abb4fa5f30c29589adecc4fe5cfce.jpg"
+        },
+        {
+          "name": "30 Laps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2062660/c48fba2cd9c4097de894260cc3f5643ca35ffd7a.jpg"
+        },
+        {
+          "name": "50 Laps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2062660/55a58886e476b8a3d8d84f0b1eeb5f50a58480d3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

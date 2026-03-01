@@ -1,0 +1,74 @@
+{
+  "2099540": {
+    "name": "Biters & Bullets Demo",
+    "steam_appid": 2099540,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语<strong>*</strong>, 日语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2099540/header_schinese.jpg?t=1661963588",
+    "developers": [
+      "Night Owls"
+    ],
+    "publishers": [
+      "Night Owls"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "KA-BOOM",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2099540/a3f9f2f7c03c96ee171f8f68cf6cc3dd2d9facf3.jpg"
+        },
+        {
+          "name": "Another One Bites the Crust",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2099540/aa49d2b1510b2e7e62cbb5a34673629bac169d90.jpg"
+        },
+        {
+          "name": "Graveyard Shift",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2099540/de153adbe7773173d8fcdfd8804996a82f19bcb5.jpg"
+        },
+        {
+          "name": "Stepping on Stones",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2099540/c873691cfb549ce2846c64bf01693cd0c5efc7f5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

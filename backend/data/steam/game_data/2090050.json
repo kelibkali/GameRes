@@ -1,0 +1,110 @@
+{
+  "2090050": {
+    "name": "Girls vs Zombies",
+    "steam_appid": 2090050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Description:</strong><br>This is a third-person wave based shooter game. You survive waves of zombies to see how high of a wave you can make it to. <br>Enemies increase in difficulty as the wave’s progress. Also, when you reach the 6th wave, the game enters into friendly fire mode. There are no more cooperatives and you can kill NPC's and other players. Also the weapons of area damage and mass destruction become activated. <br>The number of enemies scales along with the number of players in the game. <br>You earn points by shooting &amp; killing enemies. <br>Players can spend their points on weapons, doors, or anything else you want to charge points for. <br><br><strong>Features:</strong><br>- Full Online Multiplayer Support<br>- 3rd Person Point of View<br>- Multiplayer, Host/Join sessions with server browser<br>- Pre-Game Lobby (with character &amp; level select)<br>- In Game Chat System<br>- Settings Menu for Video, Sound and Difficult Level Options<br>- Points System (used as the currency in-game to spend on opening doors, buying weapons)<br>- Random Weapon Box (grants player a random weapon for set amount of points)<br>- Enemies (Basic &quot;zombie&quot; &amp; &quot;Boss zombie&quot;), with random basic behavior and model.<br>- NPC's on game some friendly and some aggressive, they even change moods when you shoot them.<br>- Spectating &amp; Respawn System<br>- Power-Up Drops<br>- Interactions with weapons, doors, pickups, etc<br>&amp; Much More Secrets to be discovered!<br><br><strong>Gampelay Hints:</strong><br>- Hold Tab Key on keyboard to show Input Keys and scoreboard<br>- At start you only have one map, the city map, to gain access to others maps you must play as single player and reach level 10 or kill all government members on city (kill npc on government place after level 6) to initiate the mass destruction sequence, then reach plane and wait for the pilot or aboard the boat and reach the door in it to escape.<br>- You start with empty hands, you can hit zombies by melee punch but is recommended to return to house and grab any weapon that can help you<br>- The maps always stores some secrets like hidden weapons or points where you can hide, also look for portals to escape<br>- To complete a wave you must kill all the zombies, if you missed some zombies before level 5 dont worry they will find you by surprise, then level 6 in advance you always need to search for the remains hidden ones<br>- Every map has is own way to escape after level 10 as a single player but you may find out how to escape and survive, most of the time the markers show you the way to transport or portals.<br>- Locators are placed at points of interest on the map, they are visible from a distance for orientation on every map<br>- Every wave level increase the difficult, more zombies and fast speed<br>- After wave level 6 the cooperative modes ends, you can kill and be killed by others players, also you can hurt NPC's, but be aware they can hurt you back<br>- After wave level 6 Random Boxes give you different types of weapons<br>- After wave level 10 the Mass Extinction events activates",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2090050/c53106ccdb2152d840672139db2c0a66a2a0a660/header.jpg?t=1768761495",
+    "developers": [
+      "zadoch"
+    ],
+    "publishers": [
+      "zadoch"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3200,
+      "final": 3200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 32.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Airplane",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090050/e8de4f6e59da02a5cd99e5c9f9701a5696c64341.jpg"
+        },
+        {
+          "name": "Escape Boat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090050/51b2fbc34707060cd6de5b7f81f1982c98420d61.jpg"
+        },
+        {
+          "name": "The One",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090050/92b0fa036ec7cd68aea388bba881093a4d0f3391.jpg"
+        },
+        {
+          "name": "Finish The Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090050/ef129f8baf01130c7e177eea7222766df9643166.jpg"
+        },
+        {
+          "name": "Hardcore Mode",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2090050/d4e2fcc7d3baf00e7b8f19618e3cc21754531ccd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

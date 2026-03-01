@@ -1,0 +1,106 @@
+{
+  "2027180": {
+    "name": "Silver Wire",
+    "steam_appid": 2027180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;Silver Wire&quot; is an action game where you can enjoy defeating enemies with wires.<br>The purpose of this game is to kill as many enemies as possible.<br><br>Player Actions:<br>- Bind and cut monsters.<br><br>Stages:<br>- 1. Night Hall (zombie, bat)<br>- 2. Butterfly cage (zombie, butterfly)<br>- 3. Jellyfish Aquarium (zombie, jellyfish)<br>- 4. Knight Hall (zombie, knight)<br><br>Rules:<br>- If you touch an enemy, you will be damaged.<br>- The first damage is prevented by the shield, but the second is game over.<br>- The shield will heal when you defeat 100 enemies.<br><br><strong>You are free to make gameplay videos and stream live.</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027180/header.jpg?t=1658407816",
+    "developers": [
+      "IzukawaN"
+    ],
+    "publishers": [
+      "IzukawaN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 32,
+      "highlighted": [
+        {
+          "name": "1,000 kills in total",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/fc350ada8b7d507c046528f3a2069fe0a2eedc9f.jpg"
+        },
+        {
+          "name": "5,000 kills in total",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/dafcc524510be5463f49436505dde776a1f29add.jpg"
+        },
+        {
+          "name": "10,000 kills in total",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/719ea336d49b1b2bff4b45e1cb94cc4e94c93c7b.jpg"
+        },
+        {
+          "name": "30,000 kills in total",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/c13529a6bbc86ef4d9d19cc4b9dc876f24bc73db.jpg"
+        },
+        {
+          "name": "Stage1 - Garbage Duty",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/0404a769f27e2bcc57b2c61e159416a06cbc6204.jpg"
+        },
+        {
+          "name": "Stage1 - Trainee Maid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/59fabd8c6f953a2008d020a68bcbfe181abbdb8a.jpg"
+        },
+        {
+          "name": "Stage1 - Cleaning Maid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/c0c77d633996390a9d37c53ed15628af565f6c38.jpg"
+        },
+        {
+          "name": "Stage1 - Head Maid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/ecc77f5e9bd914487907170b2abe8ea8dda1ddb5.jpg"
+        },
+        {
+          "name": "Stage1 - Legendary Maid",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/7e37accfac1aa9cdd64e9e84cd58b3eb3e171341.jpg"
+        },
+        {
+          "name": "Stage1 - Overtime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2027180/e5cbc127cfd47feb99644a7d1b8a384603bcccf1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

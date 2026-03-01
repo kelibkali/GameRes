@@ -1,0 +1,110 @@
+{
+  "2100720": {
+    "name": "Rat Cage",
+    "steam_appid": 2100720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>简介</strong><br>在《鼠笼》中，你是一只老鼠，在一个冰冷的冬夜里误入一栋可疑的大楼。躲避建筑中出现的可疑人物，解决谜题，安全度过暴风雪之夜。<br><br><strong>概述</strong><br>该游戏是一个简单的侧滚动3D动作游戏。你可以向前、向后、向左和向右移动，跳跃和抓取东西。<br>这个游戏的主题是：一个弱小的动物误入一个非常可疑的建筑物，并陷入困境。<br>该建筑有几个区域，有谜题和动作噱头。当你在游戏中取得进展时，试着想象这个建筑是什么。<br><br><strong>游戏特点</strong><br>・捕捉各种谜题和动作噱头。玩家成为一只聪明的小老鼠，度过了一个危险的夜晚。<br>・大楼里有一个可怕的身影，但老鼠不能回去。越走越深，感受建筑中的秘密。",
+    "supported_languages": "日语, 英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100720/header.jpg?t=1675599357",
+    "developers": [
+      "GosunSoft"
+    ],
+    "publishers": [
+      "GosunSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7000,
+      "final": 7000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 70.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "Escaped Blizzard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/f684ecab70e7c5584e8f1e81f631f870ebba25a1.jpg"
+        },
+        {
+          "name": "Escaped Basement",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/95e9dcb0f6cf91f4860118301e648c2598c25b02.jpg"
+        },
+        {
+          "name": "Escaped Shop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/dbe51b6eaad0ba5480c5b89aa705a058e9ed2622.jpg"
+        },
+        {
+          "name": "Escaped Laboratory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/7f6cdf409db7b5259e3f6a98f0af0d696cd35fcc.jpg"
+        },
+        {
+          "name": "Escaped Rat Cage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/48ca77e4fa87a4d454fa516b88f4d2db1c4cb46e.jpg"
+        },
+        {
+          "name": "Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/48ca77e4fa87a4d454fa516b88f4d2db1c4cb46e.jpg"
+        },
+        {
+          "name": "(I) First One",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/5c3f0ea6c248efe8997ef8bb55c54d502b11fd83.jpg"
+        },
+        {
+          "name": "(I) Inside the Cage",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/5c3f0ea6c248efe8997ef8bb55c54d502b11fd83.jpg"
+        },
+        {
+          "name": "(I) Back of the Room",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/5c3f0ea6c248efe8997ef8bb55c54d502b11fd83.jpg"
+        },
+        {
+          "name": "(I) Go Straight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2100720/5c3f0ea6c248efe8997ef8bb55c54d502b11fd83.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

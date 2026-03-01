@@ -1,0 +1,57 @@
+{
+  "2092200": {
+    "name": "PixCursor",
+    "steam_appid": 2092200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "PiixCursor（像素游标）是一款使用键盘绘制像素画的绘图软件。<h2 class=\"bb_tag\" >特性</h2><ul class=\"bb_ul\"><li>像编辑文字一样编辑图片</li></ul><ul class=\"bb_ul\"><li>简单、准确、快捷的操作</li></ul><ul class=\"bb_ul\"><li>支持灵活的区域操作: 选择、移动、缩放、反转、绘制圆形/方形/直线/曲线等</li></ul><ul class=\"bb_ul\"><li>支持对图像进行多行多列划分，分块编辑，方便建立动画与多图层图像</li></ul><ul class=\"bb_ul\"><li>支持调色板自动获取</li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092200/header.jpg?t=1663775554",
+    "developers": [
+      "Music Land Studio"
+    ],
+    "publishers": [
+      "Music Land Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 21 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2058930": {
+    "name": "Maneuver Warfare - CSS Pack",
+    "steam_appid": 2058930,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This pack adds a Combat Service Support (CSS) company to your battle group.  This company has a selection of platoons that fall into three categories:<br />\r\n<br />\r\n1. Supply Platoons.  These speed up the replenishment of your units' ammunition. They can be equipped with trucks, half-tracks, or tank-derived ammo carriers. The armored carriers have a degree of protection from enemy fire but their carrying capacity is reduced so they replenish ammunition at a lower rate.  Check the Encyclopedia for the replenishment rates of the various types of vehicles.<br />\r\n<br />\r\n2. Recovery Platoons.  These units are useful in campaign games as their presence ensures that a larger proportion of your lost vehicles/artillery pieces will be recovered off the battlefield, rather than abandoned.  These vehicles/artillery pieces will then count as damaged (up to 91% of losses) rather than completely lost.  Since the vehicles/artillery pieces that are added to your units between battles are drawn from the pool of damaged ones, you will receive more reinforcements.<br />\r\nThe selection of recovery vehicles ranges from light (trucks, Panzer 38(t)-based ones) to heavy (Tiger and Elefant-based).  The heavier recovery vehicles have not only better protection from enemy fire but are also able to recover heavier vehicles – you cannot recover a Tiger with a Bergepanzer 38(t).  Check the Encyclopedia for weight limits of the various recovery vehicles – note that they can recover vehicles with greater mass as they can be doubled up so that two tow a singe damaged one.<br />\r\n<br />\r\n3. Field Ambulance Platoons.  Similar to recovery platoons, field ambulance platoons help with the evacuation of your wounded, ensuring that more of the men who are injured in combat survive their wounds.  This increases the pool of reinforcements you will draw upon between battles so your units will go into subsequent ones with more of their strength recovered.  <br />\r\nThere are two types of vehicles used by your field ambulance platoons – truck and half-track-based ambulances, with the latter having better protection from enemy fire.<br />\r\n<br />\r\nEmployment.  Keep your CSS platoons close enough to your units that the latter fall within the platoons' green range circle.<br />\r\n<br />\r\nPurchasing.  You will receive a random 2-4 supply platoons for single battles. For campaign battles, you will also receive random 2-4 supply, recovery, or field ambulance platoons from the selection available during a given time period.  You can then upgrade/replace these CSS platoons during the purchasing phase between your campaign's operations.  <br />\r\n<br />\r\nAvailable CSS platoons.<br />\r\nSupply:<br />\r\n-Truck<br />\r\n-SdKfz 250<br />\r\n-Munitionspanzer I<br />\r\n-Munitionspanzer III<br />\r\n<br />\r\nRecovery:<br />\r\n-Truck<br />\r\n-Bergepanzer 38(t)<br />\r\n-Bergepanzer III<br />\r\n-Bergepanzer IV<br />\r\n-Bergepanzer Tiger<br />\r\n-Bergepanzer Elefant<br />\r\n-Bergepanther<br />\r\n<br />\r\nField ambulance:<br />\r\n-Truck<br />\r\n-SdKfz 251/8",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058930/header.jpg?t=1662738189",
+    "developers": [
+      "Decisive Action Games"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 9 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

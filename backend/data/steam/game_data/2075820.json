@@ -1,0 +1,102 @@
+{
+  "2075820": {
+    "name": "Controller Sync",
+    "steam_appid": 2075820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Description</h2><strong>Controller Sync</strong> is an arcade-style reaction game that lets you practice and compare your controller-skills with all other players.<br>In order to play, you have to have an <i>X-Box</i>- or <i>Playstation</i>- like controller installed on your device.<h2 class=\"bb_tag\" >Gamemodes</h2>There are two main gamemodes in Controller Sync: <strong>Solo</strong> and <strong>Duo</strong><br>The Solo gamemode lets you focus on <u>reaction speed</u> and correct <u>key usage</u>,<br>while you have to focus on good <u>communication</u> and <u>synchronization</u> in the Duo gamemode.<br>You can play together with anyone!<h2 class=\"bb_tag\" >Leaderboard</h2>You can see the highscores of all players on the ingame-leaderboard.<h2 class=\"bb_tag\" >How does the game work?</h2>When starting a new game, you got <strong>60 seconds</strong> to collect as many points as you can.<br>Points can be gained by controlling a cursor with your joystick and pressing the right button for the nearest dot.<br>Dots can either have the color <strong>blue</strong> or <strong>red</strong>. To collect a blue dot, you have to select blue as your controller color (The opposite with red dots).<br>The collected dots are then stored in a blue or a red bar depending on the dot color.<br>You can consume these bars to get one of three values increased:<br>Blue bar    - Time<br>Red bar     - Score (x2)<br>Both Bars  - Multiplier<br><br>When you got no time left, the game is over and you see your new leaderboard-rank.<br><br>So what are you waiting for?<br>Practice your skills and prove them to others!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/header.jpg?t=1700319001",
+    "developers": [
+      "Matti Kuehl"
+    ],
+    "publishers": [
+      "Matti Kuehl"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 11 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Practice creates masters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2075820/b3e03102c5758089846d829477a4e54110829c25.jpg"
+        },
+        {
+          "name": "Better together",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2075820/9295480d7c55c793600ffe091c4a75539cf413f7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "2023790": {
+    "name": "WordMaster",
+    "steam_appid": 2023790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>WordMaster</strong> is a simple word making game. A round lasts 1 minute with 7 randomly selected letters (with at least a single vowel among them). You score points by creating long words or by using letters that are used less frequently in English. You may repeat letters within a word. The trailer shows exactly what the game is and takes you through a full round, post game, and leaderboard update. <br><br>For example:<br><br>Suppose our round letters are W I N E R S L. We could spell wines, winners, sewers, sinners etc. <br><br>Here is a breakdown of the scoring:<br>Letter points:<br>AEIOULNSTR = 1 pt<br>DG = 2 pts<br>BCMP = 3 pts<br>FHVWY = 4 pts<br>K = 5 pts<br>JX = 8 pts<br>QZ = 10 pts<br><br>Word length:<br>3 letters = 1 pt<br>4 letters = 2 pts<br>5 letters = 3 pts<br>6 letters = 5 pts<br>7 letters = 8 pts<br>8 or more letters = 10 pts<br><br>This is my first attempt at coding. I'm a teacher and wanted something my students could play that would be somewhat educational.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2023790/header.jpg?t=1657892746",
+    "developers": [
+      "Joseph Hoff"
+    ],
+    "publishers": [
+      "Hoff Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

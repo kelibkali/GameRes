@@ -1,0 +1,114 @@
+{
+  "2015500": {
+    "name": "Hatup",
+    "steam_appid": 2015500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在 Hatup 中，您的任务是戴上帽子经历不同的挑战，这将使您能够在游戏的各个阶段取得进展。 使用不同的机制，您将面临许多挑战和不同程度的难度。<br>用你的帽子思考如何解决游戏的挑战并记住，把你的帽子抛在后面并不总是一个糟糕的选择。<br><br>使用你的帽子，你将不得不解决一些挑战，当你戴着帽子时，一些通道被解锁，而另一些只有在你不使用它们时才被解锁。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/747940207d58032ff13d67a651e42cfd.poster.avif?t=1688222510\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/747940207d58032ff13d67a651e42cfd.webm?t=1688222510\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/747940207d58032ff13d67a651e42cfd.mp4?t=1688222510\" type=\"video/mp4\"></video></span><br><br>使用地图元素来摆脱你的帽子并拿起元素或穿过新的地方。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/4514dd2ef5cbdf41af7be3173d3b3d08.poster.avif?t=1688222510\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/4514dd2ef5cbdf41af7be3173d3b3d08.webm?t=1688222510\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/extras/4514dd2ef5cbdf41af7be3173d3b3d08.mp4?t=1688222510\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 葡萄牙语 - 巴西, 俄语, 法语, 意大利语, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015500/header.jpg?t=1688222510",
+    "developers": [
+      "Naoka Studio"
+    ],
+    "publishers": [
+      "Naoka Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "The journey has begun.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/93de054587e729b58c5654a290309271d4062953.jpg"
+        },
+        {
+          "name": "The hat is your best friend.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/e6b75d002e095b4798302eb52d7b75e5b0934753.jpg"
+        },
+        {
+          "name": "Watch out for traps.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/71d12e89b1d64e87a27e16f69231b8617096a593.jpg"
+        },
+        {
+          "name": "Yellow Key.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/0eee27f3c13591c16a057956081f2411bb24e9e8.jpg"
+        },
+        {
+          "name": "Red Key.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/a8940b51218470446a067ffabb473a334649258d.jpg"
+        },
+        {
+          "name": "Blue Key.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/0678ea0c69a9eaa39124ec9081435363e7f9d5c2.jpg"
+        },
+        {
+          "name": "Green Key",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/a4a9c9cbe041865954225b1b507d8b8ed9db3c60.jpg"
+        },
+        {
+          "name": "Watch out for enemies.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/8d7986a5d0cab2b195e4be8c16924032d7ec4470.jpg"
+        },
+        {
+          "name": "End Game.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2015500/09019acf5d64303f8988ec17008284a1bd524785.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 8,
+      "total_negative": 0,
+      "total_reviews": 8
+    },
+    "type": "game"
+  }
+}

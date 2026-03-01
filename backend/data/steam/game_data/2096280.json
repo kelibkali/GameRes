@@ -1,0 +1,71 @@
+{
+  "2096280": {
+    "name": "动物的游戏乐园（体感游戏）Party Of Forest(Motion Sensing Game)",
+    "steam_appid": 2096280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>这是一个怎样的游戏？</strong><br>  这是一个用手机和电脑玩的体感游戏，这个游戏的宗旨是用低成本带来沉浸的游戏体验。游戏中你将会扮演小动物去到机器人娱乐公司的游乐园，玩各种各样的体感小游戏（目前只有保龄球，其他体感小游戏正在紧张开发中）。而且游戏支持双人游戏（日后会支持多人），快点和朋友一起来玩吧~<br><strong>怎么玩这个游戏？</strong><br><ul class=\"bb_ul\">  <li>你需要同时打开电脑和手机进行游玩。<br>  </li><li>并且手机和电脑需要在同一个局域网内。<br>  </li><li>如果你的手机是安卓手机，你需要在浏览器打开特定网页（游戏里会提示），但是我更推荐你给手机安装一个app（下载页会提供），因为源生的接口会提供更精确的传感数据。<br>  </li><li>如果你的手机是苹果手机，你只需在Safari打开特定网页即可（游戏里会提示）。</li></ul><br><strong>这是我在Steam上的第一个作品，如果你有任何建议和意见，十分欢迎在社区告诉我。</strong><br><strong>也可以在Bilibili关注陈大腍，获取最新开发动态</strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2096280/header.jpg?t=1687192762",
+    "developers": [
+      "月念游戏"
+    ],
+    "publishers": [
+      "月念游戏"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

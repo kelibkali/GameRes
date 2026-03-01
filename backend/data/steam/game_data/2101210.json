@@ -1,0 +1,94 @@
+{
+  "2101210": {
+    "name": "KOF XV DLC 角色包 \"侍魂队\"",
+    "steam_appid": 2101210,
+    "required_age": 0,
+    "is_free": false,
+    "description": "※使用此内容时，需要持有另外销售的“游戏本体”。使用时若需要适配最新补丁，请对游戏升级后使用。<br />\r\n※包含“里大蛇队”与“侍魂队”的套装“Team Pass 2”也在销售中。请注意不要重复购买。<br />\r\n<br />\r\n【商品内容】<br />\r\n■在「THE KING OF FIGHTERS XV」可以使用&quot;侍魂队&quot;的DLC角色&quot;霸王丸&quot;、&quot;娜可露露&quot;、&quot;妲丽·刀伽&quot;。",
+    "supported_languages": "英语, 日语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲, 泰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101210/header.jpg?t=1664866852",
+    "developers": [
+      "SNK CORPORATION"
+    ],
+    "publishers": [
+      "SNK CORPORATION"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7900,
+      "final": 7900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 79.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 10 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Negative",
+      "total_positive": 9,
+      "total_negative": 25,
+      "total_reviews": 34
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "2078600": {
+    "name": "Afterslave",
+    "steam_appid": 2078600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a story about a boy that have committed a mistake. Or this isn't a mistake? You will decide on your's own.<br />\r\nSelect different dialogue answers and see how events are described. There is 4 endings, each of which is depended on your answer.",
+    "supported_languages": "英语, 俄语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2078600/header.jpg?t=1659547241",
+    "developers": [
+      "PredposledniyRubikon"
+    ],
+    "publishers": [
+      "PredposledniyRubikon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Bad Ending 0",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2078600/22efd4bc5bc0eee118eebad25bc23fc85b1df36e.jpg"
+        },
+        {
+          "name": "Bad Ending 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2078600/b9b14729564b40789a99e5768eb4a1712b22fb6e.jpg"
+        },
+        {
+          "name": "Bad Ending 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2078600/a38b13d9810f5fe2dbaa87e841e24ee3a537ef06.jpg"
+        },
+        {
+          "name": "Good, True Ending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2078600/392fcbb2740b982767985edc83577af3af95456d.jpg"
+        },
+        {
+          "name": "Mirror",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2078600/2735ce5b770ff966bb1a3a4e41aac43d3ee49861.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
