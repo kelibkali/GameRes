@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import GameList from "../components/GameList.vue";
+
 </script>
 
 <template>
@@ -8,7 +9,6 @@ import GameList from "../components/GameList.vue";
       <game-list style="height: 100%"></game-list>
     </div>
   </div>
-
 </template>
 
 <style scoped>
