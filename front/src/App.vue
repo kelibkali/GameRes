@@ -1,14 +1,16 @@
 <script setup lang="ts">
 import LoginView from "./views/LoginView.vue";
-import {computed, onMounted, ref} from "vue";
+import {computed, onMounted, ref, watch} from "vue";
 import {checkLogin} from "./services/UserApi.ts";
 
 import {UserFilled,Lock} from "@element-plus/icons-vue"
 import UserInfoView from "./views/UserInfoView.vue";
 import GlobalMessageContainer from "./components/GlobalMessageContainer.vue";
-import {useRouter} from "vue-router";
+import {type RouteLocationNormalized, useRoute, useRouter} from "vue-router";
 
 const router = useRouter()
+
+const route = useRoute()
 
 const showLoginView = ref(false);
 
@@ -78,18 +80,52 @@ const handleRefreshPanel = async () =>{
   await getUserLogin()
 }
 
-const handlePageChange = (page:string) => {
-  if(page === "homePage"){
-    selectIndex.value = 0;
-    router.push("/")
-  }else if(page === "gameList"){
-    selectIndex.value = 1;
-    router.push("/gameList")
-  }else if(page === "personalPage"){
-    selectIndex.value = 2;
-  }
+// const handlePageChange = (page:string) => {
+//   if(page === "homePage"){
+//     selectIndex.value = 0;
+//     router.push("/")
+//   }else if(page === "gameList"){
+//     selectIndex.value = 1;
+//     router.push("/gameList")
+//   }else if(page === "personalPage"){
+//     selectIndex.value = 2;
+//   }
+//
+//   selectOption.value = page;
+// }
 
-  selectOption.value = page;
+
+const syncMenuWithRoute = (currentRoute: RouteLocationNormalized) => {
+  const path = currentRoute.path;
+
+  if (path === "/" || path === "") {
+    selectOption.value = "homePage";
+    selectIndex.value = 0;
+  } else if (path === "/gameList") {
+    selectOption.value = "gameList";
+    selectIndex.value = 1;
+  } else if (path === "/personalPage" || path.startsWith("/user")) {
+    // 根据你的实际路由调整这里的判断条件
+    selectOption.value = "personalPage";
+    selectIndex.value = 2;
+  } else {
+    // 如果是不匹配的路由，可以重置或保持上一个状态，这里选择重置为首页
+    selectOption.value = "homePage";
+    selectIndex.value = 0;
+  }
+}
+
+const handlePageChange = (page: string) => {
+  // 这里只需要负责跳转，不需要手动设置 selectOption/selectIndex
+  // 因为跳转成功后，watch 会捕获路由变化并自动更新它们
+  if (page === "homePage") {
+    router.push("/")
+  } else if (page === "gameList") {
+    router.push("/gameList")
+  } else if (page === "personalPage") {
+    // 假设 personalPage 有对应的路由，如果没有可注释掉 push 或改为其他逻辑
+    router.push("/personalPage")
+  }
 }
 
 const overlayY = computed(() => ({
@@ -98,8 +134,17 @@ const overlayY = computed(() => ({
 
 
 onMounted(() => {
+  syncMenuWithRoute(route)
   getUserLogin()
 })
+
+watch(
+    ()=>route.path,
+    ()=>{
+      syncMenuWithRoute(route)
+    }
+)
+
 
 </script>
 
@@ -442,49 +487,7 @@ onMounted(() => {
     }
   }
 }
-/* ================= 前进动画 (slide-up) ================= */
-/* 新页面从底部向上滑入，旧页面向上滑出消失 */
-.slide-up-enter-active,
-.slide-up-leave-active {
-  transition: all 0.3s ease;
-  position: absolute; /* 关键：绝对定位以实现重叠过渡 */
-  width: 100%;
-  top: 0;
-  left: 0;
-}
 
-.slide-up-enter-from {
-  transform: translateY(100%); /* 初始位置：屏幕下方 */
-  opacity: 0;
-}
-
-.slide-up-leave-to {
-  transform: translateY(-100%); /* 离开位置：稍微向上推一点，增加层次感 */
-  opacity: 0;
-}
-
-/* ================= 后退动画 (slide-down) ================= */
-/* 新页面从顶部向下滑入，旧页面向下滑出消失 */
-.slide-down-enter-active,
-.slide-down-leave-active {
-  transition: all 0.2s ease;
-  position: absolute;
-  width: 100%;
-  top: 0;
-  left: 0;
-}
-
-.slide-down-enter-from {
-  transform: translateY(-100%); /* 初始位置：屏幕上方 */
-  opacity: 0;
-}
-
-.slide-down-leave-to {
-  transform: translateY(100%); /* 离开位置：稍微向下推一点 */
-  opacity: 0;
-}
-
-/* ================= 默认淡入 ================= */
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.2s ease;

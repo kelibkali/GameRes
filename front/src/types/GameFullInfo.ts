@@ -7,7 +7,7 @@ export interface GameFullInfo {
     is_free?:Boolean,
     description?:string,
     supported_languages?:string,
-    header_image?:string,
+    header_image:string,
     developers?:Array<string>,
     publishers?:Array<string>,
     price_overview?:Price,
