@@ -1,0 +1,70 @@
+{
+  "3333060": {
+    "name": "StarbaseSim",
+    "steam_appid": 3333060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Important info before you buy the early access version: Development is progressing on a very slow pace currently and there will probably only be small, infrequent updates going forward. See latest announcement for more.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This is a physics sandbox where you can play around with Starbase devices.</p><p class=\"bb_paragraph\" >You walk or fly around in first or third person to look at and operate all kinds of devices. For example, you can drive a so called Self Propelled Modular Transporter (SPMT) under the booster, lift it up, transport it from the build site to the launch site (at real world scale and distances), pick it up with the launch tower lifting device (a.k.a. chop sticks) and put it on the launch mount.</p><p class=\"bb_paragraph\" >Then you can do the same for the second stage and stack it on top, fuel the full stack with the tank farm, launch the stack, do the hot staging maneuver and return first and second stage to launch site and try to catch them with the chop sticks.</p><p class=\"bb_paragraph\" >All this is simulated with more or less realistic, slightly simplified physics. You can have it fly mostly automatic (in the future hopefully completely automatic) or control everything yourself, if you want, down to the settings of the PID controllers for angular velocity.</p><p class=\"bb_paragraph\" >But be warned: The game is still in an early stage. There are not much explanations or tutorials yet. You either will need some prior knowledge or a bit of time to figure out how everything works. For that, please read the in-game hints and tool tips.</p><p class=\"bb_paragraph\" > Patience and a solid level of frustration tolerance will help you to have a great time as well! :)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can do everything also in co-op mode in multiplayer. But it's very rough still. So expect some wonkiness. Consider it more as a nice-to-have add-on.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >What you can not do yet: Flying into orbit around earth, or going inside the rockets, but you can follow them as observer anywhere as in other games like KSP. These features and much more, like Moon and Mars, are planned for the future.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The main idea with this project is to closely follow and recreate the developments of the real Starbase in BocaChica, Texas and have fun learning to understand how everything works there, and later if they go the Moon, we go to the Moon with them.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There is a lot missing that needs to be added, so this will be in Early Access for a while probably.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333060/header.jpg?t=1772193944",
+    "developers": [
+      "AshtorakSimGames"
+    ],
+    "publishers": [
+      "AshtorakSimGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

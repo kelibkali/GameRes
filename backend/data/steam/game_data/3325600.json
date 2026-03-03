@@ -1,0 +1,74 @@
+{
+  "3325600": {
+    "name": "JUST SKATEBOARD",
+    "steam_appid": 3325600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>你喜欢滑板吗？那么这款游戏就适合你！[/b］<br>只需滑行，在不同地点耍花招，享受过程。<br><br>在游戏中，你会发现<br>- 1 个滑板<br>- 3 个滑行地点<br>- 成就<br>- 轻松音乐<br><br><strong>尽情滑行吧！[/b］</strong></strong>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 匈牙利语, 希腊语, 丹麦语, 西班牙语 - 拉丁美洲, 繁体中文, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 泰语, 土耳其语, 乌克兰语, 芬兰语, 捷克语, 瑞典语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325600/header.jpg?t=1732182328",
+    "developers": [
+      "Skateboard"
+    ],
+    "publishers": [
+      "Cozy Skate Simulator"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Yeah!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3325600/6e0c1bc8d32912868ab54552c27c52e288f7e823.jpg"
+        },
+        {
+          "name": "Cool!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3325600/f06f339ddb8044546fcb6150a61b4be587169745.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

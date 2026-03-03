@@ -1,0 +1,63 @@
+{
+  "3330200": {
+    "name": "noSpellHero",
+    "steam_appid": 3330200,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >这是一款由5个阶段组成，讨伐魔王军团的游戏。</p><p class=\"bb_paragraph\" >基本类型是Roguelike（类Rogue游戏）。</p><p class=\"bb_paragraph\" >在与怪物战斗之前，您需要选择武器。</p><p class=\"bb_paragraph\" >武器分为6个阶段：</p><p class=\"bb_paragraph\" >非凡 &lt; 普通 &lt; 稀有 &lt; 独特 &lt; 传说 &lt; 神话</p><p class=\"bb_paragraph\" >从独特武器开始，武器将会拥有独特技能。</p><p class=\"bb_paragraph\" >如果无法击败强大的魔王军团，提升属性再开始游戏也是一种选择。</p>",
+    "supported_languages": "英语, 简体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330200/header.jpg?t=1733135554",
+    "developers": [
+      "JSStudio"
+    ],
+    "publishers": [
+      "JSStudio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

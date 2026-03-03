@@ -1,0 +1,82 @@
+{
+  "3324570": {
+    "name": "Planet Factory",
+    "steam_appid": 3324570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >A small quick game about building a factory to launch planets into a solar system! Grow your base and increase production to make the ultimate factory for launching planets!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use your factory making skills to <strong><u>build a factory</u></strong> to produce planets and launch them into a solar system, doing so will allow you to produce goods faster and unlock more planets to produce and launch.</p><p class=\"bb_paragraph\" >Once your solar system is done, activate <strong><u>supernova</u></strong> to upgrade your sun into a <strong><u>black hole</u></strong>, you then can start producing and launching stars into a <strong><u>galaxy</u></strong> around a black hole!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324570/header.jpg?t=1735951527",
+    "developers": [
+      "SupremeGuardianGames"
+    ],
+    "publishers": [
+      "SupremeGuardianGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Complete the Solar System!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324570/80782d259b95b8c6c68c431975208267498ee6f4.jpg"
+        },
+        {
+          "name": "Complete the Galaxy!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324570/19ee9d4b7f76ca88419cbc642cc56c1172d645ef.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

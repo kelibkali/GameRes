@@ -1,0 +1,102 @@
+{
+  "3324040": {
+    "name": "Small Santa Simulator",
+    "steam_appid": 3324040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Traverse through the snow <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324040/extras/6404ecebed4f23c0542d2c4128e5f75e.avif?t=1766770246\" width=1560 height=877 /></span></p></li><li><p class=\"bb_paragraph\" >Collect Christmas items</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324040/extras/4846a48597f2171e030f645298a14af0.avif?t=1766770246\" width=1560 height=877 /></span></p></li><li><p class=\"bb_paragraph\" >Watch out for Yuletide Lads</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324040/extras/462fa6b9a007f4748cd929b8dc5729e9.avif?t=1766770246\" width=1560 height=877 /></span></p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3324040/header.jpg?t=1766770246",
+    "developers": [
+      "Piglet_Sandwich"
+    ],
+    "publishers": [
+      "Piglet Sandwich Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 550,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 5.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Red Santa",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/baed0e0578564cd626e894f97648cb1ca100d3a9.jpg"
+        },
+        {
+          "name": "Green Santa",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/fa657328e6ac3e6db878e4ad4a96e5484a9c78df.jpg"
+        },
+        {
+          "name": "Yellow Santa",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/b220b90b4048caa469c96fb1cb06d89e85f0bdb6.jpg"
+        },
+        {
+          "name": "Blizzard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/ed53d865b56c21747fe9dea054e43ac405d483da.jpg"
+        },
+        {
+          "name": "Yuletide Sads",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/94af72526b213d6a148b466e282be6c3fdc96942.jpg"
+        },
+        {
+          "name": "Ball Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3324040/b9ada374b955e1be19dda894a24b0c9b2f496003.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

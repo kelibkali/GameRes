@@ -1,0 +1,66 @@
+{
+  "3330070": {
+    "name": "Dice Art Studio",
+    "steam_appid": 3330070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >About</h2><p class=\"bb_paragraph\" >Dice Art Studio allows you to create dice art up to 512x512 size (*1). Customize the surface and eyes of the dice with your favorite color and texture to create a unique work.</p><p class=\"bb_paragraph\" >&quot;I don't know what to make.&quot;<br> &quot;I'm not confident in my artistic ability.&quot;</p><p class=\"bb_paragraph\" >For those of you who feel this way, we have a function (*2) that converts photos and images into sample images for dice art placement. <strong>Just prepare your favorite photos and images and you can enjoy dice art as if you were filling in a jigsaw puzzle.</strong></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Create dice art up to 512x512 size</p></li><li><p class=\"bb_paragraph\" >Dice customization function (color, metal feel, surface smoothness)</p></li><li><p class=\"bb_paragraph\" >Image conversion function</p></li></ul><h2 class=\"bb_tag\" >Guidelines for video and live streaming, etc.</h2><p class=\"bb_paragraph\" >If you need one, check out the Myojo Studio website.</p><h2 class=\"bb_tag\" >Music used in the video</h2><p class=\"bb_paragraph\" >George Street Shuffle by Kevin MacLeod<br>Music promoted by Chosic<br>Creative Commons Creative Commons: By Attribution 3.0 License</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >________________________________</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >*1 If you create it at the maximum size, 262,144 dice will be required for placement. <strong>The more dice you display on the game screen, the higher the load on your PC.</strong> For reference, the development environment of this game and the frame rate (FPS) when the entire dice art is displayed on the game screen are listed below.</p><p class=\"bb_paragraph\" >Development environment ============================================</p><p class=\"bb_paragraph\" >CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz</p><p class=\"bb_paragraph\" >Memory: 16 GB</p><p class=\"bb_paragraph\" >GPU: NVIDIA GeForce GTX 1080 Ti (VRAM: 11 GB)</p><p class=\"bb_paragraph\" >Resolution: 1920x1080</p><p class=\"bb_paragraph\" >Reference frame rate ======================================</p><p class=\"bb_paragraph\" >Art size: 100x147 (number of dice: 14,700) <br>Frame rate: 52FPS</p><p class=\"bb_paragraph\" >Art size: 256x169 (number of dice: 43,264) <br>Frame rate: 22FPS</p><p class=\"bb_paragraph\" >*2 The image conversion function converts your photos and images into an image that shows the dice placement and the dice number that faces forward. The converted sample image will not include the colors of the original photo or image.</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330070/header.jpg?t=1735181272",
+    "developers": [
+      "Myojo Studio"
+    ],
+    "publishers": [
+      "Myojo Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

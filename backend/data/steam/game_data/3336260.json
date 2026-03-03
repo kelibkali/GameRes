@@ -1,0 +1,110 @@
+{
+  "3336260": {
+    "name": "FlurryHurry!",
+    "steam_appid": 3336260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This Avalanche is coming.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Customize your character with 100+ cosmetics!</p></li><li><p class=\"bb_paragraph\" >Explore 10+ different zones with new obstacles!</p></li><li><p class=\"bb_paragraph\" >Complete daily challenges to get coins more quickly!</p></li><li><p class=\"bb_paragraph\" >Every run is unique with pseudo-random map generation!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Control Options:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Mouse</p></li><li><p class=\"bb_paragraph\" >WASD</p></li><li><p class=\"bb_paragraph\" >Arrow Keys</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >FlurryHurry is now available on PC!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Mobile Ads are disabled for the PC version.</p></li><li><p class=\"bb_paragraph\" >Controller support is disabled as it negated most of the game's challenge.</p></li><li><p class=\"bb_paragraph\" >Daily Challenges are given a multiplier to make up for the removal of Optional Ads.</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336260/header.jpg?t=1738799998",
+    "developers": [
+      "mysticat"
+    ],
+    "publishers": [
+      "SillyKitty"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 38,
+      "highlighted": [
+        {
+          "name": "Money Bags",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/ee28a0c350d6097baee1d3de056a786fa34f9ab1.jpg"
+        },
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/b0479453c510847ef8733f5b6d6ac035cc00d9d5.jpg"
+        },
+        {
+          "name": "Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/68c6d8d44280d19b41beddffb8809c29d195549d.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/20629c6385d71c4ac0ddfb4ef1442f55243fac95.jpg"
+        },
+        {
+          "name": "Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/6c5ced3eea0695a9a7252c5e92daa9e5113dcb91.jpg"
+        },
+        {
+          "name": "Sold Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/69bf643e46c0278d835f2563977d7e6dc1c3b70a.jpg"
+        },
+        {
+          "name": "Charlie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/33daa6045590934ad542579fb2e3fd20731c948d.jpg"
+        },
+        {
+          "name": "Harrison",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/c5c7be75b6e754f8021919e04813861afddf3c63.jpg"
+        },
+        {
+          "name": "Jakk",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/52087ce7cf514e921604601609dcaf928d9296c0.jpg"
+        },
+        {
+          "name": "Jacky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3336260/536ea5f43d67bcea876a8ee2e3a83daf16271ae4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

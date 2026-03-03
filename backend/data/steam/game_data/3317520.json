@@ -1,0 +1,106 @@
+{
+  "3317520": {
+    "name": "I am going for a beer",
+    "steam_appid": 3317520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317520/extras/f72983a96cd0b499c785271c6c0e50c0.poster.avif?t=1735408093\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317520/extras/f72983a96cd0b499c785271c6c0e50c0.webm?t=1735408093\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317520/extras/f72983a96cd0b499c785271c6c0e50c0.mp4?t=1735408093\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >你只是一个普通人，忙碌了一天回到家里。手里拿着啤酒，电视在前面...突然，啤酒喝完了。是时候离开你舒适的公寓，下楼梯，穿过马路，去超市寻找世界上最好的啤酒。但这不是一个奇怪的梦吗？它什么时候会结束？</p><p class=\"bb_paragraph\" >你已经睡着了，唯一醒来的方法就是实现你的目标。这是一款3D平台解谜游戏，每个关卡都有独特的挑战需要解决。探索你的公寓，征服楼梯间，用红绿灯穿过马路，探索超市，发现隐藏的异常。每解开一个谜题，你就离终极奖品——世界上最好的啤酒更近一步。</p>",
+    "supported_languages": "英语<strong>*</strong>, 俄语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317520/header.jpg?t=1735408093",
+    "developers": [
+      "GHSPG"
+    ],
+    "publishers": [
+      "GHSPG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Apartments",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/b785a90057e2b17f0f37d28e9d87bb788a15d76e.jpg"
+        },
+        {
+          "name": "Stairwell",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/8bca73a2238bbe7b23e2f0e1e5bc16f2811e7101.jpg"
+        },
+        {
+          "name": "Street",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/5cae1667a95c4a07fe071f0eea2043adb14fc400.jpg"
+        },
+        {
+          "name": "Supermarket",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/83861ae26536a908f209b5d30c295fdf71459c66.jpg"
+        },
+        {
+          "name": "Grass",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/c513fe309b021fdb2d5674a790853100bde5f4ea.jpg"
+        },
+        {
+          "name": "Pivozavr",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/fe27aa2c5c4002455f7dff9d984072c08661fb91.jpg"
+        },
+        {
+          "name": "Not Beer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/606dd3291b4c147a28247f52744dc3a13dfa5c84.jpg"
+        },
+        {
+          "name": "Best Beer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317520/10ed7217b6ceed92c304efd41b1e22fe97a9f3e7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

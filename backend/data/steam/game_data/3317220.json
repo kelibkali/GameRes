@@ -1,0 +1,102 @@
+{
+  "3317220": {
+    "name": "Weaveborn Heroes",
+    "steam_appid": 3317220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Step into the shoes of a powerful mage trapped within the treacherous catacombs. In <strong>Weaveborn Heroes</strong>, your survival depends on mastering relentless waves of evil creatures that lurk in the shadows and facing off against terrifying bosses every five levels. As you progress, level up your hero, choose from a variety of unique spells and passive abilities, and build your strength to become unstoppable. With each victory, you carve a path through the darkness, inching closer to the ultimate showdown. Will you emerge as the hero who conquers the catacombs, or will you fall to the evil that hides within?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317220/extras/087cf908eeb10bfea2462c62c678a357.poster.avif?t=1733868211\" width=560 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317220/extras/087cf908eeb10bfea2462c62c678a357.webm?t=1733868211\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317220/extras/087cf908eeb10bfea2462c62c678a357.mp4?t=1733868211\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Customize Your Build:</strong> Multiple skills and passives to create your unique playstyle.</p></li><li><p class=\"bb_paragraph\" ><strong>Strategic Combat:</strong> Face monsters and bosses with unique attacks.</p></li><li><p class=\"bb_paragraph\" ><strong>Resource Management:</strong> Use the stamina system to dash and escape effectively.</p></li><li><p class=\"bb_paragraph\" ><strong>Precision Required:</strong> Aim for auto-attacks and spells for maximum impact.</p></li><li><p class=\"bb_paragraph\" >Full Controller Support</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" ><strong>Tips</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Choose Wisely:</strong> Pick up to 3 spells, each critical for your survival.</p></li><li><p class=\"bb_paragraph\" ><strong>Manage Stamina:</strong> Ensure you have enough stamina to dash and reposition during combat.</p></li><li><p class=\"bb_paragraph\" ><strong>Survive and Thrive:</strong> Defeating bosses refills your health bar and grants permanent buffs.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Note</strong></h2><p class=\"bb_paragraph\" >This game requires skill and strategy. Positioning your character and using the correct skills at the right moments are crucial to survival. If you're up for the challenge, Weaveborn Heroes will test and reward your mastery. Not for the faint of heart!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317220/header.jpg?t=1733868211",
+    "developers": [
+      "Caio Goncalves"
+    ],
+    "publishers": [
+      "Caio Goncalves"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Dark Sorcerer Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/1ee4e2448c3b41b766dd654f120c353cbf6206dc.jpg"
+        },
+        {
+          "name": "Grave Keeper Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/e0a2c56110fc2bca06d9c119c1d74b10b30d6b9b.jpg"
+        },
+        {
+          "name": "Stone Golem Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/27e12bd154b57b46b122aed07831b8ec9bf93ee0.jpg"
+        },
+        {
+          "name": "Necromancer Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/38032c13e10dbd2b42c9d9ec703f903930b0361c.jpg"
+        },
+        {
+          "name": "Cthulhu Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/0a51309004ca9dff24c2b07e914c64754d65cdad.jpg"
+        },
+        {
+          "name": "Demon Slime Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/926db9aebe5bdfb8653df34c9340ea22fa76010b.jpg"
+        },
+        {
+          "name": "Pioneer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3317220/f41b9f8044dcea720d5af803bda2ebc035a31ab4.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

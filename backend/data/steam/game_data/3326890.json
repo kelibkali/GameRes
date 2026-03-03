@@ -1,0 +1,90 @@
+{
+  "3326890": {
+    "name": "LookPilot",
+    "steam_appid": 3326890,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >LookPilot 让你仅用头部和/或眼睛就能在游戏中环顾四周，让飞行、竞速、卡车、太空和 FPS 游戏更具沉浸感，同时带来更好的操控与态势感知。你只需要一台摄像头。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >设置 <strong>很快</strong>：安装，开始追踪，启动游戏。大多数受支持的游戏会立刻识别 LookPilot。所有功能 <strong>完全在本机运行</strong>，并且 <strong>CPU 占用低</strong>，即使是较低质量的摄像头也能工作，并支持 Windows 和 Linux。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>工作原理</strong></h2><p class=\"bb_paragraph\" >LookPilot 追踪头部旋转与位移（yaw、pitch、roll + X/Y/Z）以及可选的眼球旋转，然后根据你的设置将它们融合为最终的镜头输出。输出通过标准头部追踪接口（TrackIR 模拟 / 虚拟摇杆）发送到游戏，因此不需要插件或硬件夹子。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>LookPilot 演示</strong></h2><p class=\"bb_paragraph\" >不确定 LookPilot 是否适合你？使用免费试用，14 天内免费体验全部功能！</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>主要功能</strong></h2><p class=\"bb_paragraph\" ><strong>6DoF 追踪：</strong> 头部 yaw、pitch、roll，以及前/后、左/右、上/下位移。</p><p class=\"bb_paragraph\" ><strong>眼动追踪：</strong> 仅通过眼睛移动即可获得额外控制。</p><p class=\"bb_paragraph\" ><strong>高频输出：</strong> 高刷新率的响应式输出，带来顺滑镜头控制，即使摄像头帧率较低也一样。</p><p class=\"bb_paragraph\" ><strong>快速开始：</strong> 安装 → 开始追踪 → 启动游戏。大多数游戏可直接使用；部分游戏需要在游戏内进行一次性开关设置。</p><p class=\"bb_paragraph\" ><strong>低开销：</strong> 轻松运行在 CPU 上。不需要专用硬件或 GPU。</p><p class=\"bb_paragraph\" ><strong>跨平台：</strong> 支持 Windows 和 Linux。</p><p class=\"bb_paragraph\" ><strong>广泛兼容：</strong> 通过标准头部追踪接口支持 <strong>700+</strong> 款游戏。</p><p class=\"bb_paragraph\" ><strong>虚拟摇杆：</strong> 用头部/眼睛动作控制虚拟摇杆，获得更广兼容性与更强控制。</p><p class=\"bb_paragraph\" ><strong>预设：</strong> 为不同游戏或环境保存你的追踪预设。使用资深用户创建的 <strong>社区预设</strong>，也可分享自己的预设。</p><p class=\"bb_paragraph\" ><strong>快捷键：</strong> 重新居中、切换追踪、随时切换预设。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>三步完成设置</strong></h2><p class=\"bb_paragraph\" ><strong>1. 安装并启动：</strong> 打开 LookPilot 并开始追踪。</p><p class=\"bb_paragraph\" ><strong>2. 启动你的游戏：</strong> 大多数游戏会自动检测追踪；如有需要，在游戏选项中一次性启用 head-tracking（具体步骤见游戏指南）。</p><p class=\"bb_paragraph\" ><strong>3. 微调（可选）：</strong> 按喜好调整灵敏度、平滑、死区、映射与眼动影响。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>自定义与预设</strong></h2><p class=\"bb_paragraph\" ><strong>协议：</strong> 选择通信接口（TrackIR 模拟 / 摇杆模拟）。</p><p class=\"bb_paragraph\" ><strong>头部追踪设置：</strong> 开关各轴；按轴设置输入 → 输出映射；调节灵敏度、平滑、死区与置信阈值。</p><p class=\"bb_paragraph\" ><strong>眼动追踪设置：</strong> 按轴设置映射与平滑控制。</p><p class=\"bb_paragraph\" ><strong>混合控制：</strong> 调整眼动追踪对最终输出的影响程度。</p><p class=\"bb_paragraph\" ><strong>TrueView 开关：</strong> 选择位移相对于映射/输出旋转或真实旋转。</p><p class=\"bb_paragraph\" ><strong>预设：</strong> 创建无限预设，用快捷键切换，并分享给他人。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>热门支持的游戏</strong></h2><p class=\"bb_paragraph\" ><strong>飞行模拟</strong></p><p class=\"bb_paragraph\" >War Thunder</p><p class=\"bb_paragraph\" >Microsoft Flight Simulator 2024</p><p class=\"bb_paragraph\" >Microsoft Flight Simulator 2020</p><p class=\"bb_paragraph\" >Microsoft Flight Simulator X: Steam Edition</p><p class=\"bb_paragraph\" >Top Gun: Maverick Expansion</p><p class=\"bb_paragraph\" >Tacview</p><p class=\"bb_paragraph\" >IL-2 Sturmovik: Great Battles</p><p class=\"bb_paragraph\" >IL-2 Sturmovik: Battle of Stalingrad</p><p class=\"bb_paragraph\" >DCS World</p><p class=\"bb_paragraph\" >DCS World Steam Edition</p><p class=\"bb_paragraph\" >X-Plane 12</p><p class=\"bb_paragraph\" >X-Plane 11</p><p class=\"bb_paragraph\" >Project Wingman</p><p class=\"bb_paragraph\" >AeroFly FS2</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>太空模拟</strong></p><p class=\"bb_paragraph\" >Star Citizen</p><p class=\"bb_paragraph\" >Elite Dangerous</p><p class=\"bb_paragraph\" >Orbiter</p><p class=\"bb_paragraph\" >EVERSPACE</p><p class=\"bb_paragraph\" >EVERSPACE 2</p><p class=\"bb_paragraph\" >Star Wars: Squadrons</p><p class=\"bb_paragraph\" >Kerbal Space Program</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>竞速</strong></p><p class=\"bb_paragraph\" >Assetto Corsa</p><p class=\"bb_paragraph\" >Assetto Corsa Competizione</p><p class=\"bb_paragraph\" >rFactor 2</p><p class=\"bb_paragraph\" >F1 2024</p><p class=\"bb_paragraph\" >F1 2023</p><p class=\"bb_paragraph\" >F1 2022</p><p class=\"bb_paragraph\" >iRacing</p><p class=\"bb_paragraph\" >Dirt 5</p><p class=\"bb_paragraph\" >Project CARS 3</p><p class=\"bb_paragraph\" >Automobilista 2</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>驾驶模拟</strong></p><p class=\"bb_paragraph\" >BeamNG.drive</p><p class=\"bb_paragraph\" >Euro Truck Simulator 2</p><p class=\"bb_paragraph\" >American Truck Simulator</p><p class=\"bb_paragraph\" >Farming Simulator 25</p><p class=\"bb_paragraph\" >Farming Simulator 22</p><p class=\"bb_paragraph\" >Bus Simulator 21 Next Stop</p><p class=\"bb_paragraph\" >18 Wheels of Steel: Extreme Trucker</p><p class=\"bb_paragraph\" >18 Wheels of Steel: American Long Haul</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>铁路运输</strong></p><p class=\"bb_paragraph\" >Train Simulator Classic 2024</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>FPS</strong></p><p class=\"bb_paragraph\" >Arma 3</p><p class=\"bb_paragraph\" >DayZ</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >游戏支持会随着时间不断增加。如果你喜欢的游戏使用标准 head-tracking 接口，很可能已经可以使用。加入社区并告诉我们你希望接下来支持什么。</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 捷克语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 巴西, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 印地语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326890/c9c67b8ad8fec2147033c599caad0e0c8af18560/header.jpg?t=1767004059",
+    "developers": [
+      "Viktor36"
+    ],
+    "publishers": [
+      "Viktor36"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 8 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 67,
+        "description": "视角舒适度"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 78,
+        "description": "可调整难度"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 77,
+        "description": "可以仅用触控"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

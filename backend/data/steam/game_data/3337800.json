@@ -1,0 +1,54 @@
+{
+  "3337800": {
+    "name": "Pngify.me",
+    "steam_appid": 3337800,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><strong>Pngify.me</strong> is a PngTuber app that focusses on interactivity, whilst also relying on two different images to get started.</p><p class=\"bb_paragraph\" >It currently supports windows only, but linux/macos support is on the roadmap as well, currently looking for testers. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This App is open source on Github:<br></p><p class=\"bb_paragraph\" >The base <strong>Pngify.me</strong> software will remain<strong> free of charge</strong>, although there are some future features (like collab with friends) planned that will require cost on our site and the usage of those might not be free.<br><br>Current features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>simple setup</strong>: get two different pngs and you are good to go</p></li><li><p class=\"bb_paragraph\" ><strong>Twitch </strong>integration: trigger different effects with bits and redeems</p></li><li><p class=\"bb_paragraph\" ><strong>Hotkeys</strong>: use hotkeys to trigger effects or change between different states of your png</p></li><li><p class=\"bb_paragraph\" ><strong>Idle animations</strong>: change how much your character will move, jump, squish on talking</p></li><li><p class=\"bb_paragraph\" ><strong>Spout2 </strong>support: stream directly into obs using spout2</p></li><li><p class=\"bb_paragraph\" >performance modes: should run just fine on lower specced machines by using a lower performance spec</p></li><li><p class=\"bb_paragraph\" ><strong>TTSPet</strong>: you can activate the TTSPet mode and give your PNG some life by using the OpenAI integration</p></li><li><p class=\"bb_paragraph\" ><strong>Throwing System</strong>: similar to the T.I.T.S plugin for vtube studio, you can set this up so bits will be thrown at your avatar on bit donations</p></li><li><p class=\"bb_paragraph\" ><strong>Stick on PNGs</strong>: stick on pngs to your png for pngception</p></li><li><p class=\"bb_paragraph\" ><strong>Transition layers</strong>: show a half frame between two different avatar states, useful for movement</p><p class=\"bb_paragraph\" ></p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 德语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337800/header.jpg?t=1763816857",
+    "developers": [
+      "Meteora Labs"
+    ],
+    "publishers": [
+      "Meteora Labs"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 11 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

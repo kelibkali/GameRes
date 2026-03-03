@@ -1,0 +1,80 @@
+{
+  "3336490": {
+    "name": "Fantasy Planet Painter",
+    "steam_appid": 3336490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Fantasy Planet Painter is here to make world-building easy and fun. Just start by sketching out your planet’s main features—think mountains, valleys, and oceans. Once you’ve laid down the basics, Fantasy Planet Painter steps in to handle the finer details, filling in realistic terrains that bring your vision to life. It’s like magic but without all the complicated steps.</p><p class=\"bb_paragraph\" >For anyone who loves creating worlds, whether for stories, games, or just for fun, Fantasy Planet Painter makes it simple. You focus on the big picture, and the program does the rest, adding depth and realism to your landscapes without the usual hassle.</p><p class=\"bb_paragraph\" >So whether you’re a writer, a game dev, or a world-building enthusiast, Fantasy Planet Painter gives you the power to craft beautiful, immersive worlds from scratch. It’s your imagination, brought to life, one brushstroke at a time.</p><h2 class=\"bb_tag\" >Technical Details</h2><p class=\"bb_paragraph\" >Save file format:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Binary .world file</p></li><li><p class=\"bb_paragraph\" >Plain text .map file where ascii texts represent height values</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Export resolutions:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >1K</p></li><li><p class=\"bb_paragraph\" >2K</p></li><li><p class=\"bb_paragraph\" >4K</p></li><li><p class=\"bb_paragraph\" >8K</p></li><li><p class=\"bb_paragraph\" >16K</p></li><li><p class=\"bb_paragraph\" >32K (Windows-only)</p></li><li><p class=\"bb_paragraph\" >64K (Windows-only)</p></li><li><p class=\"bb_paragraph\" >128K (Windows-only)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Import options:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Grayscale heightmap as raw map data</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Export options:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Grayscale heightmap</p></li><li><p class=\"bb_paragraph\" >Biome map</p></li><li><p class=\"bb_paragraph\" >B/W water map</p></li><li><p class=\"bb_paragraph\" >Diffuse texture (latitude-based)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Projection types:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Mercator</p></li><li><p class=\"bb_paragraph\" >Gall–Peters</p></li><li><p class=\"bb_paragraph\" >Square (Equirectangular)</p></li><li><p class=\"bb_paragraph\" >Mollweide</p></li><li><p class=\"bb_paragraph\" >Sinusoidal</p></li><li><p class=\"bb_paragraph\" >Stereographic</p></li><li><p class=\"bb_paragraph\" >Orthographic</p></li><li><p class=\"bb_paragraph\" >Gnomonic</p></li><li><p class=\"bb_paragraph\" >Icosahedral</p></li><li><p class=\"bb_paragraph\" >Area-Preserving Azimuthal</p></li><li><p class=\"bb_paragraph\" >Conical</p></li></ul><h2 class=\"bb_tag\" >Platform Difference</h2><p class=\"bb_paragraph\" >Please note the following platform differences:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >macOS version supports map export of up to 8K;</p></li><li><p class=\"bb_paragraph\" >Patches are available on Windows version first.</p></li></ul><p class=\"bb_paragraph\" >Current latest Windows version: v1.2.3; <br>Current latest macOS version: v.1.2.1.</p><h2 class=\"bb_tag\" >Demo Package</h2><p class=\"bb_paragraph\" >Demo version: v1.2.3 (Windows Only)</p><p class=\"bb_paragraph\" >The demo package demonstrates most of the editing capabilities.</p><p class=\"bb_paragraph\" >It has the following limitations:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >No import or export or map files</p></li><li><p class=\"bb_paragraph\" >No import or export of canvas</p></li><li><p class=\"bb_paragraph\" >No saving and loading of working progress</p></li><li><p class=\"bb_paragraph\" >Cannot save high resolution renders</p></li><li><p class=\"bb_paragraph\" >Windows only</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336490/85c8f88b88cd8c0fbd91809fda77eff0b9b0edb5/header.jpg?t=1770873292",
+    "developers": [
+      "Methodox Technologies, Inc."
+    ],
+    "publishers": [
+      "Methodox Technologies, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}
