@@ -1,0 +1,118 @@
+{
+  "1855500": {
+    "name": "Neko Doll",
+    "steam_appid": 1855500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >介绍</h2>欢迎来到猫娘的神秘空间，你的猫娘正等着你和她一起攻克难关，破除封印，然后获得与她亲密接触的机会。游戏关卡充满挑战性，完成关卡就可以解锁不同的场景，动作，以及多套服装。进入不同的场景与你的猫娘一起开心互动，快乐正在前方等着你！<br><br>游戏带有提示功能，如果觉得关卡有难度也可以点击提示按钮，快速通关。<br><br>获取DLC方法<br>需要换区才能安装DLC。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>精美可爱的3D猫娘<br></li><li>多部位可触摸的物理效果<br></li><li>具有挑战性的关卡<br></li><li>可解锁的3D场景，动作，服装<br></li><li>放松减压</li></ul>",
+    "supported_languages": "英语, 俄语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1855500/header.jpg?t=1664883658",
+    "developers": [
+      "Neko Game"
+    ],
+    "publishers": [
+      "Neko Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 330,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 11.00",
+      "final_formatted": "¥ 3.30"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Level10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/392d1d64e2d6dbdf8b3a574b5542237c65077f7c.jpg"
+        },
+        {
+          "name": "Level20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/b84981178cf050e3cdfb876128db0e141e24e187.jpg"
+        },
+        {
+          "name": "Level30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/934f0a432d87687ce638f53ea934a54e6c39e51b.jpg"
+        },
+        {
+          "name": "Level40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/cb2013bc0150e51629f3a8f4d4d237fb96d6bc52.jpg"
+        },
+        {
+          "name": "Level50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/ee64ff62713e8c488205c12f5c14376794a9eb36.jpg"
+        },
+        {
+          "name": "Level60",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/aa3281696dc3416fd540a3e2fb7e7b2bdb46ab75.jpg"
+        },
+        {
+          "name": "Level70",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/6f0bec1ee8f628ef4fa4dd91621412eb03814f7f.jpg"
+        },
+        {
+          "name": "Level80",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/8aa7322458003a5aa6e31339d8a0b33063d2385a.jpg"
+        },
+        {
+          "name": "Level90",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/8c6b0913f5fd65288311fc75e1e5996b933d92ce.jpg"
+        },
+        {
+          "name": "Level100",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1855500/efb925a1e4e662da29f6b33e9b21a9a03011565f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 40,
+      "total_negative": 12,
+      "total_reviews": 52
+    },
+    "type": "game"
+  }
+}

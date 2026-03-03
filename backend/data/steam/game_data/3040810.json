@@ -1,0 +1,74 @@
+{
+  "3040810": {
+    "name": "VR高尔夫",
+    "steam_appid": 3040810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款vr休闲3D高尔夫运动小游戏，玩家可以通过手柄来控制游戏，将高尔夫球打入指定的位置即可通关并解锁下一个关卡。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040810/extras/1.jpg?t=1722999538\" /></span> <br> <br>游戏共有6个关卡，每个关卡有不同的地形或障碍物，玩家需要根据不同的环境和条件来调整自己的策略和技巧。游戏过程中，玩家需要掌握一定的力度和方向，才能将高尔夫球准确地打入指定的位置。<br>这款游戏难度不高，VR设备让玩家使用起来会非常有趣和放松，在锻炼玩家的反应能力和手眼协调能力的同时，也能让玩家身临其境地感受高尔夫运动的乐趣。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040810/extras/2.jpg?t=1722999538\" /></span>  <br><br>操作方式：<br>用高尔夫球杆将高尔夫球打到红色大箭头下的洞里<br>行走：左手柄向上/向下/向左/向右<br>转动：右手柄向左/向右<br>菜单：任意手柄菜单键",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3040810/header.jpg?t=1722999538",
+    "developers": [
+      "Dinosaur workshop"
+    ],
+    "publishers": [
+      "Dinosaur workshop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "3048340": {
+    "name": "Mr. Goofer’s Mini Game Arcade Party!",
+    "steam_appid": 3048340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >由独一无二的“地鼠古弗”主演……</p><p class=\"bb_paragraph\" >玩各种复古风格的迷你游戏，仿佛回到了上世纪八九十年代的游戏之夜！</p><p class=\"bb_paragraph\" >从经典弹球游戏到益智游戏、平台游戏、射击游戏、冒险游戏、节奏游戏（带有自定义歌曲编辑器！），还有点击游戏、桌面游戏、台球游戏，甚至还有赌博游戏！一路解锁每个小游戏。</p><p class=\"bb_paragraph\" >完成所有小游戏，同时尽可能获得最高分！</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >甚至可以选择使用经典的CRT显示器/VHS滤镜，以营造80/90年代街机游戏的真实感！</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >此外，迷你游戏还设有历史最高分排行榜！如果你想保住自己的头名位置，就必须时不时地查看一下！</p></li></ul><p class=\"bb_paragraph\" >这款游戏仅需几个小时即可通关，因此它虽然迷你，但可玩性极强，充满乐趣！这是一场独立游戏的狂欢盛宴！</p>",
+    "supported_languages": "英语<strong>*</strong>, 瑞典语<strong>*</strong>, 法语, 意大利语, 德语, 荷兰语, 日语, 韩语, 波兰语, 葡萄牙语 - 巴西, 简体中文, 西班牙语 - 拉丁美洲, 繁体中文, 俄语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3048340/header.jpg?t=1764972797",
+    "developers": [
+      "Svinta",
+      "Keri"
+    ],
+    "publishers": [
+      "Svinta"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 52,
+      "highlighted": [
+        {
+          "name": "Welcome to the arcade!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/6e7bc094123cc96c96ec28bc3628a9e2d613bf27.jpg"
+        },
+        {
+          "name": "Congrats, GAME OVER!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/acbf58b75c83a881b2fdfed2430481c5b68a9aed.jpg"
+        },
+        {
+          "name": "Coin Catch — GOAL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/a9ca87fc53442bdb039a0686d3ed8e571e1ce400.jpg"
+        },
+        {
+          "name": "Coin Catch — MASTER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/0b4b69bdcdbed95d58fd47079ce32c9daaf7ec0c.jpg"
+        },
+        {
+          "name": "Jumper — GOAL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/f65b1e319a7891cce80c7b05cfd5312be6341d39.jpg"
+        },
+        {
+          "name": "Jumper — MASTER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/b427ab2d4e6b518fd31b719f557b45a78d7f6ba8.jpg"
+        },
+        {
+          "name": "Recker — GOAL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/3c71765c060a80f43dcec04787d1083852e6b40f.jpg"
+        },
+        {
+          "name": "Recker — MASTER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/e7be83402bd7a495e8179aaaee60646be810838c.jpg"
+        },
+        {
+          "name": "Laser Launch — GOAL",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/ec63c127d336c85e8ab6fbb01f7917ecfbed0cbf.jpg"
+        },
+        {
+          "name": "Laser Launch — MASTER",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3048340/984be80332584fe8e18c0de8aca331730e0d1e95.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "3236830": {
+    "name": "欢乐渔夫",
+    "steam_appid": 3236830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一款钓鱼、养鱼的休闲游戏。 <br>玩家通过垂钓得到鱼，把鱼养大后出售或者完成订单来挣金币。<br>金币可以解锁海域，钓到更高级品种的鱼。可以升级鱼竿、买鱼饵，提高钓鱼成功率。可以买鱼缸养鱼、更换鱼缸装饰、扩展鱼箱、买鱼食、升级鱼缸等。<br>游戏里有客户下订单，订单的价格高于鱼的市场价，完成可获得更多金币。<br>在游戏里体验钓鱼乐趣，打造美丽鱼缸。</p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3236830/header.jpg?t=1732097928",
+    "developers": [
+      "HOU JIA WEN"
+    ],
+    "publishers": [
+      "HOU JIA WEN"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 30,
+      "highlighted": [
+        {
+          "name": "钓到10条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/39cfb1af969c4d8402fc0d29f486ea41927efdb4.jpg"
+        },
+        {
+          "name": "钓到500条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/3941f9a06e5f57a487808c0ed1f47e09b437c0fd.jpg"
+        },
+        {
+          "name": "钓到1000条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/464e07ff65f7d69a169d8f92d0ce169e8f7d8293.jpg"
+        },
+        {
+          "name": "钓到3000条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/5b2e32b26260e80623ff18c5b4dec9f73dc18888.jpg"
+        },
+        {
+          "name": "钓到6000条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/81ced06eb6009762de036f5f3309d040c186b643.jpg"
+        },
+        {
+          "name": "钓到10000条鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/41e515ff5979cc143beda88751ca49612dda6e4b.jpg"
+        },
+        {
+          "name": "钓到10种鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/6e1d7a1ba4134138f0e1677e18464cab3e93ca95.jpg"
+        },
+        {
+          "name": "钓到20种鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/68e2c5269550bd2ea81b379267b0f9da2305c34c.jpg"
+        },
+        {
+          "name": "钓到30种鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/019dafc3863fa306cfd3d37c8433b9b1a0465521.jpg"
+        },
+        {
+          "name": "钓到40种鱼",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3236830/8aa4684af9492f84056ff8bcdc23bc210475f47a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

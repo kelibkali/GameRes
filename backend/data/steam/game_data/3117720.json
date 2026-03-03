@@ -1,0 +1,106 @@
+{
+  "3117720": {
+    "name": "幸运转盘",
+    "steam_appid": 3117720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一款带有讲究运气与选择的休闲游戏，玩家通过组建自己的转盘并转动 并且获得相应的分数来过关</p><p class=\"bb_paragraph\" >你只需要合理的选择自己的牌组和构建，组成适合的流派来达到分数</p><p class=\"bb_paragraph\" >游戏中包括了近百种角色和三十个左右物品互相搭配</p><p class=\"bb_paragraph\" >每个流派都有对应的玩法和特色</p>",
+    "supported_languages": "简体中文, 英语, 法语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 繁体中文, 葡萄牙语 - 葡萄牙, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117720/header.jpg?t=1734493977",
+    "developers": [
+      "BananaDogGames"
+    ],
+    "publishers": [
+      "BananaDogGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "wheel tutorial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/e117bc08288840330f311583905e225385f76ddf.jpg"
+        },
+        {
+          "name": "wheel newbie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/ccc4eecaf0fcf4a157328bb416dc27ff97af2875.jpg"
+        },
+        {
+          "name": "wheel normal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/170b51661ee77f2727e170d6e2f62d799707d879.jpg"
+        },
+        {
+          "name": "wheel hard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/87a11e51c89ca56a6a537d680fe8576ad7ebe1c1.jpg"
+        },
+        {
+          "name": "wheel very hard ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/8530e845a205e216b4c92a50993560e626d52541.jpg"
+        },
+        {
+          "name": "wheel abnormal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/87a11e51c89ca56a6a537d680fe8576ad7ebe1c1.jpg"
+        },
+        {
+          "name": "wheel hell",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/8530e845a205e216b4c92a50993560e626d52541.jpg"
+        },
+        {
+          "name": "grid tutorial",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/2ffcab08101a8a6aee2f9171f643cbbda659c6c0.jpg"
+        },
+        {
+          "name": "grid newbie",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/7f901462b8be3c1c61460da9d78300395a62e5ad.jpg"
+        },
+        {
+          "name": "grid normal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117720/f89c17dff010fb55a1df6cab897caee903395d89.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

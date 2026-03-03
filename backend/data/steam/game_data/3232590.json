@@ -1,0 +1,66 @@
+{
+  "3232590": {
+    "name": "Real Or Fake",
+    "steam_appid": 3232590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "找到并消灭隐藏在众多AI中的真实玩家。游戏具有简单的控制和用户友好的界面，适合所有年龄段的玩家。探索各种地图和机制，并与最多20人一起游戏，包括你的朋友！",
+    "supported_languages": "韩语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232590/header.jpg?t=1733317459",
+    "developers": [
+      "Jsumin08"
+    ],
+    "publishers": [
+      "YJS_Inc"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

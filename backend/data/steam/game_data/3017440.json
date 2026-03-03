@@ -1,0 +1,46 @@
+{
+  "3017440": {
+    "name": "Lovely Traps Dungeon Demo",
+    "steam_appid": 3017440,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This demo contains two levels of pure sad-satisfying adventure among falling rocks, saws, lava, giant wind currents... Some unforgettable moments !<h2 class=\"bb_tag\" >📖 Introduction :</h2><br>    Hello Golem ! <br><br>      Your mission, and you accept it, is to find everything you can about this old fool and his inventions.<br><br>      We NEED his incredible creations (including his infinite coffee cup) !!!<br><br>    Now GO !<br><br>    The Concilio Magorum<br><br><strong>Hello sadi-- *khof* I mean magic questing friends !<br>In Lovely Traps Dungeon, you will guide our dear golem friend through the mad wizard's mazes and twisted contraptions in an attempt to recover his immense knowledge ! 🧙‍♂️</strong><br>P.S : Golems are just moulded clay so don't worry about &quot;it&quot;.​<br><br>😈✒️ Game in active development ❤️‍🔥<h2 class=\"bb_tag\" >🎮 Gameplay :</h2><br><ul class=\"bb_ul\"><li>  Third person platformer with puzzle mechanics<br></li><li>    Classic WASD or ZQSD | left stick controls with mouse or right stick to orient view<br></li><li>    Keyboard users can use Left Shift to force safe slow walk.<br></li><li>    Mouse wheel or gamepad Up and Down control zoom<br></li><li>    If something can be pushed, just move towards it, the golem will handle it<br>[*}    Dodge death using unlockable skills in the challenges room ! Default one is a &quot;dive&quot; with an invincibility frame. Demo has one &quot;ball&quot; skill to unlock.<br></li><li>    No lives or &quot;continue&quot;. You melted, got compressed, crushed or rolled over ? You will respawn at the last visited checkpoint.<br></li><li>    Time attack : there is a timer on top of your screen and a proof screenshot is taken at the end of each level. You can manualy make a high definition screenshot. Please first set a key in the Input menu..<br></li><li>    There is often more than one solution<br>[*}    Slide on inclined surfaces, jump from them while keeping momentum !<br></li><li>    Beauuuutiful graphics ! (or at least we hope so)<br><br>Screenshots are put in [the game folder]/Saved/Screenshots<h2 class=\"bb_tag\" >💾 Setup and play :</h2><br>    On Windows the LovelyTrapsDungeon(_Demo).bat script<br>    On Linux the LovelyTrapsDungeon(_Demo).sh script<br><br>A desktop launcher can be created to put on your desktop or anywhere else :<br><br>    On Windows, using the SETUP-CreateDesktopShortcu.bat script<br>    On Linux, using the SETUP-CreateDesktopShortcu.sh script<h2 class=\"bb_tag\" >🖥️ Performances :</h2><br>The game uses SM6 Vulkan shaders. It is as optimized as possible, the goal being to have it run smoothly on my favourite device : the SteamDeck ❣️<br>Since it is using Epic upscaling technology, you shouldn't have any compatibility issue. <br>It auto-configures but you can tweak the settings.<br>Please use the &quot;screen percentage&quot; slider to improve your performances by reducing the resolution and upscaling.<br>Also, you can choose between borderless fullscreen or windowed modes.<br><br><br>HAVE FUN ! 😋</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017440/header.jpg?t=1741358001",
+    "developers": [
+      "Jau Studio"
+    ],
+    "publishers": [
+      "Jau Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

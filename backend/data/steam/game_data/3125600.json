@@ -1,0 +1,118 @@
+{
+  "3125600": {
+    "name": "Anzu Castle Gracula",
+    "steam_appid": 3125600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Locked away in a lost corner of the world lies a ruin where the dead refuse to rest. Using your wits and your treacherous whip can you discover the secrets interred within?<br><br>Anzu Castle Gracula is a 2D action/adventure set in a freely explorable world full of hidden powers and deadly monsters. The various challenges may be faced in any order, leaving it to you to discover your own ideal route to the abilities you find most valuable.<br><br><ul class=\"bb_ul\"><li>Written in QBASIC with a DOSBOX frontend, the game itself may be played on any device running DOS with the EMM386 memory manager. The frontend includes a manual, controller remapping and reporting of achievement unlocking/cloud saves to Steam but is otherwise not required.<br></li><li>Achievements and manual are viewable from a DOS environment<br></li><li>An initial playthrough will likely take about 1 hour+, with some practice it can be cleared in half that time.<br></li><li>This Steam version exists as a convenience for players and a way to support the author, also it felt fun to have a QBASIC game on Steam with achievements. A shareware version/ QBASIC source is available also, check the official site link for more information.<br></li><li>Tested on the Steam Deck, disable frame limiting to prevent audio issues.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125600/header.jpg?t=1727789968",
+    "developers": [
+      "Rainbow Cemetery"
+    ],
+    "publishers": [
+      "Rainbow Cemetery"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Skeleton Key",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/4437b6744de2e4c3b3335e8947e6ccdecee15f3e.jpg"
+        },
+        {
+          "name": "Stolen Sky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/2836d1333660201f902261c5e74d781b4a9bc5fd.jpg"
+        },
+        {
+          "name": "Waterwalker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/9fd1e35a36fc54724bce4a3d71472a1ca66a66b9.jpg"
+        },
+        {
+          "name": "Breakdown",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/f9ca80c66112b94fbfc98223e37b7a48c2d3a52e.jpg"
+        },
+        {
+          "name": "Heartbroken",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/e4b814f0c3bf5bf0d77dfff7800611b4f0e39cee.jpg"
+        },
+        {
+          "name": "Missing Link",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/a3dd8ae5e45ac7a9417db79bdef33a6a51c4cf32.jpg"
+        },
+        {
+          "name": "Crystal Shard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/d0dc779c4f9c832676a359ed8dd68d36959099dd.jpg"
+        },
+        {
+          "name": "Save Your Neck",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/3ecd76b482f5e02ec4fb9461ae71bd4a84ccd1a1.jpg"
+        },
+        {
+          "name": "Maxed Out",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/c9ce0aac230c49c8988eb8f01c44b1e436a37b50.jpg"
+        },
+        {
+          "name": "Break My Curse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3125600/4df452f736321fdf49f5cf64d1c1dbe0fe700610.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

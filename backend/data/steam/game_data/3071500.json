@@ -1,0 +1,78 @@
+{
+  "3071500": {
+    "name": "TheSimpleClimbGame",
+    "steam_appid": 3071500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>攀登，继续前进</strong></h2><br>在这款游戏中，你必须跳跃、冲刺、充分利用减速和攀爬，同时小心不要摔倒。<br>您也可以保存它，但一旦加载它就会被删除<br>为了逃离突然遭到破坏的世界，你唯一能做的就是攀登。<br><br><br><br>我什至不知道我为什么会在这里。在我意识到之前，周围没有人，这个小镇不应该这么小。<br>不知为何，天空中飘浮着什么东西，看起来像是某处的一条路。<br><br>我不知道我是否别无选择，但这是我现在唯一能做的事。我会尽力走得更远",
+    "supported_languages": "英语, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071500/header.jpg?t=1721639819",
+    "developers": [
+      "Morishima goraku kenkyukai"
+    ],
+    "publishers": [
+      "Morishima goraku kenkyukai"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Reach top",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3071500/7054480391b1d1dc814b7761a5ce2b11c80f1401.jpg"
+        },
+        {
+          "name": "You awesome! But...why?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3071500/7b9efd436712f6c3cdaf5f9b81d63e745b6aa713.jpg"
+        },
+        {
+          "name": "Speed Runner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3071500/b6bd10f62ac1d3a92f66d8c87d7f4dcbb50d6cc1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

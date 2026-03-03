@@ -1,0 +1,58 @@
+{
+  "1889320": {
+    "name": "Timeline",
+    "steam_appid": 1889320,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Timeline is a turn-based strategy game where you can play through the human history from stone age to modern times. In the game you command wide range of units, make them collect resources and build buildings, towns and cities, explore the map and meet other players controlled by AI.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Real Earth map or a map that is generated randomly.<br></li><li>Technology tree with over hundred technologies.<br></li><li>Resource system. You can collect resources from the terrain or produce them in your buildings. You need resources to learn new technologies but also to build and upkeep new units and buildings.<br></li><li>Global market that lets you sell resources you don't need and buy what you are missing.<br></li><li>Diplomacy with AI-controlled civilizations.<br></li><li>Combat system that is affected by terrain, generals, unit type and other variables.<br></li><li>Customizable interface, key shortcuts, map zoom level, etc.</li></ul><br><strong>Customization</strong><br><br>Timeline is designed to be modded without programming knowledge or special tools. It comes with a map editor that is capable to generate random maps or can be used to create a new map manually. Most of the settings in the game are saved to files that are human readable and can be edited by any text editor. Some examples of things that can be changed include:<br><br><ul class=\"bb_ul\"><li>Unit and building statistics, images and sounds.<br></li><li>Resource colors and names.<br></li><li>Civilization starting positions, units, resources and relations to other civilizations.<br></li><li>Technology names, images and bonuses, what can be built with what technology etc.<br></li><li>Terrain images and statistics.</li></ul><br>It's possible to change just some small things and balance the game to your needs or change everything and make a total conversion mod or a campaign.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/header.jpg?t=1650630511",
+    "developers": [
+      "Taueon"
+    ],
+    "publishers": [
+      "Taueon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

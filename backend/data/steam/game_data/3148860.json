@@ -1,0 +1,118 @@
+{
+  "3148860": {
+    "name": "Dalafri",
+    "steam_appid": 3148860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >本作是一款基于物理的3D刀剑格斗游戏。</p><p class=\"bb_paragraph\" >与灵活的战士战斗，目标是成为竞技场的冠军。</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >玩家人数：1–8</p></li><li><p class=\"bb_paragraph\" >游戏发行/货币化：好的</p></li></ul><h2 class=\"bb_tag\" >Dalafri 是什么？</h2><p class=\"bb_paragraph\" >利用柔软的身体进行战斗的战士被称为“Dalafri”。</p><p class=\"bb_paragraph\" >Dalafri 控制着因运动等因素而摇晃的身体进行攻击和防守。</p><h2 class=\"bb_tag\" >竞技场上的战斗</h2><p class=\"bb_paragraph\" >在竞技场中，存活下来的人就是胜利者。使用竞技场中的剑、盾、矛、哑铃和其他各种武器来获得胜利。</p><h2 class=\"bb_tag\" >武器组合</h2><p class=\"bb_paragraph\" >左右手可以装备不同的武器。</p><p class=\"bb_paragraph\" >装备剑与盾以平衡攻防，或双手装备长矛以阻拦敌人等，可以通过改变组合自由战斗。</p>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3148860/header.jpg?t=1743033294",
+    "developers": [
+      "Y.Kageyama"
+    ],
+    "publishers": [
+      "Y.Kageyama"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Great City Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/22f2734ee36ee59b6b69125b7a966c464417d819.jpg"
+        },
+        {
+          "name": "Brave City Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/9d796a4f7355531364d7cc70620dbb91a687c17e.jpg"
+        },
+        {
+          "name": "Great Ice Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/4be134a4cf2cd570a357c1312b24a271d3bae5d2.jpg"
+        },
+        {
+          "name": "Brave Ice Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/4c26e6097faa6a8f1f9db7e48a9ff2f8d95db7b6.jpg"
+        },
+        {
+          "name": "Great Star Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/db3fa613b51ef1cbe457ed14edb888e7b1379e95.jpg"
+        },
+        {
+          "name": "Brave Star Arena Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148860/b6cd8eb0064e86705f6407a22850789b51d3fcfd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

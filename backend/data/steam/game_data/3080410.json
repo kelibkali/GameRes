@@ -1,0 +1,54 @@
+{
+  "3080410": {
+    "name": "City Turn",
+    "steam_appid": 3080410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >City Turn is a colourful 2D singleplayer, turn-based game. Purple player is the program.</p><p class=\"bb_paragraph\" ><strong>Automated player is not AI generated; it's an algorithm</strong>. </p><p class=\"bb_paragraph\" >Buildings are stored differently for each game on a game load.  </p><p class=\"bb_paragraph\" >On the replay buildings would be in the same place, but images to find and their location would be different.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The player is competing against a program (AI) in finding the same 5 images. There is 'Play in Order' mode in which 5 images should be found in order.   </p><p class=\"bb_paragraph\" >The city is 8x8 board of buildings and there is a map showing  player's positions. Tip on the map is showing where the closest image might be, it's not guaranteed to be there as the game wouldn't have a point.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Player can win/loose points and be hit by the various objects, there are some coming out from the buildings too.</p><p class=\"bb_paragraph\" >If not actively playing the ramp will appear.  </p><p class=\"bb_paragraph\" >There are 10 different buildings: caffes, market, hotel, gallery...</p><p class=\"bb_paragraph\" >The idea is to memorise which and where image was found by you or another player. Instead of timer there's another player.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080410/extras/65d17441a01f88935e2b51c65b062c80.poster.avif?t=1752698603\" width=426 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080410/extras/65d17441a01f88935e2b51c65b062c80.webm?t=1752698603\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080410/extras/65d17441a01f88935e2b51c65b062c80.mp4?t=1752698603\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080410/header.jpg?t=1752698603",
+    "developers": [
+      "Dijana Vucicevic"
+    ],
+    "publishers": [
+      "Dijana Vucicevic"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 697,
+      "final": 697,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.97"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

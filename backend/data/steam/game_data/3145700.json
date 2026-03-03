@@ -1,0 +1,42 @@
+{
+  "3145700": {
+    "name": "Game of Squares Demo",
+    "steam_appid": 3145700,
+    "required_age": 0,
+    "is_free": true,
+    "description": "The demo allows the player to play a 2*2 grid with all 6 colours and a randomised initial start of 20 flips. The player can play unlimited turns and all other features can be modified as per the actual game.",
+    "supported_languages": "英语, 法语, 德语, 印地语, 泰米尔语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145700/header.jpg?t=1723526825",
+    "developers": [
+      "Kartik Narayanan"
+    ],
+    "publishers": [
+      "Kartik Narayanan"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

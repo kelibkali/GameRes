@@ -1,0 +1,110 @@
+{
+  "3117950": {
+    "name": "PingPongBlock",
+    "steam_appid": 3117950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras/fa9c5fdf50708c4c869f26ef941286b2.avif?t=1760811215\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras_big/fa9c5fdf50708c4c869f26ef941286b2.avif?t=1760811215 width=800 height=600 /></span></p><p class=\"bb_paragraph\" >使用乒乓球和乒乓球拍向上移动并到达目标！</p><p class=\"bb_paragraph\" >共有四个阶段： 简单阶段、普通阶段、困难阶段。</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >共有 3 个阶段。挑战自我，超越自我！</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >游戏方法是用鼠标移动乒乓球拍，这需要简单的反应能力。虽然简单的操作可以让您尽情享受动态破坏积木的乐趣，但沿途会有各种噱头和障碍等着您，因此想要前进并不容易。</p><p class=\"bb_paragraph\" >游戏中，玩家需要利用自己的反应能力征服各个阶段，突破一个又一个阻碍自己的噱头，体验惊险刺激的感觉。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras/b62b82ef6bc8d292be940e4dcbd56ee0.avif?t=1760811215\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras_big/b62b82ef6bc8d292be940e4dcbd56ee0.avif?t=1760811215 width=800 height=600 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras/ffeaf9f18f83116c0b78934cbbcaf82f.avif?t=1760811215\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/extras_big/ffeaf9f18f83116c0b78934cbbcaf82f.avif?t=1760811215 width=800 height=600 /></span></p><p class=\"bb_paragraph\" >如果你玩腻了乒乓球，不妨试试击打电视。</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117950/header.jpg?t=1760811215",
+    "developers": [
+      "Tsumayoji@gameDev"
+    ],
+    "publishers": [
+      "Tsumayoji@gameDev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "ClearEasy_PingPong",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/30a0fa82f335497590aa9220ace853b9cfac3c7c.jpg"
+        },
+        {
+          "name": "ClearEasy_BaseBall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/2b4ed7effbcfa38dd50c88ead5fcb8f93349d34b.jpg"
+        },
+        {
+          "name": "ClearEasy_Egg",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/e355b414deb4724b4ae91b5141b37b8cd72099d4.jpg"
+        },
+        {
+          "name": "ClearNormal_PingPong",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/d4c9974be2479d4aeae479af30820ecbed7b7ed8.jpg"
+        },
+        {
+          "name": "ClearNormal_BaseBall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/993dca681dec02262dfeb2e1f5c65f70d10e0310.jpg"
+        },
+        {
+          "name": "ClearNormal_Egg",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/162a66758cea3194fc8c16b93715daac05f0e206.jpg"
+        },
+        {
+          "name": "ClearHard_PingPong",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/5167e0d33ecb6e3097acd7dd38218fef45e9bcb1.jpg"
+        },
+        {
+          "name": "ClearHard_BaseBall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/3ba053d3f357e396ecbf361e48ae2d0d6ebcfda4.jpg"
+        },
+        {
+          "name": "ClearHard_Egg",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/fc7dcf1b0fb246a21ee87268fdcb4f007f75f246.jpg"
+        },
+        {
+          "name": "Score1000_PingPong",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117950/718a75e5746259f36cf8aae7eeeb66f1e10cfde2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

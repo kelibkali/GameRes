@@ -1,0 +1,66 @@
+{
+  "3162290": {
+    "name": "Meanings hidden in plain sight",
+    "steam_appid": 3162290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/extras/ef09e51ab5a3c917d3ebf1e2ba978247.avif?t=1727431291\" width=620 height=64 /></span><br><br>Meanings hidden in plain sight is a captivating word-guessing game which tickles your brain in all the right spots! Either play in <strong>PvP mode</strong> <i>designed for Twitch</i>, where quick wit and sharp observation skills are your greatest assets. Compete in real-time live with other viewers as you decipher hidden meanings in a series of images, trying to be the first to find a meaning to get the points for it.<br>Prefer a more relaxed approach? Fret not, go and test your wit in <strong>singleplayer mode</strong> where you play just for your fun. Either way, you'll see lots of carefully curated images, all captured by the developer. Each round presents a new image, challenging you to spot and guess the meanings that hide within.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/extras/113ca8f0ded5493bc2862cf2cf0696fd.avif?t=1727431291\" width=620 height=64 /></span><br><br>With every correct guess, you inch closer to the top of the leaderboard, visible to all as you climb your way to victory. The game keeps the competition fierce and the atmosphere lively with unique sounds signaling each solved meaning. And with randomly chosen meanings from a vast pool associated with each image, the game offers lots of replayability—two rounds being the same is almost impossible.<br><br>The host - either a streamer or you when playing alone - has the flexibility to customize the point distribution, adjusting the value of longer or shorter words to match their preferences. If you enjoy word-guessing games, Meanings hidden in plain sight promises a unique and competitive experience that will keep everyone on their toes.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/extras/f8a0548c859ae882bdc3d62cdd66cb1a.avif?t=1727431291\" width=620 height=64 /></span><br>Due to the platform Meanings hidden in plain sight is built upon it isn't possible to use <i>Game Capture</i> in software like OBS to capture the gameplay. Please use a <strong>Window Capture</strong> instead.<br>So far I wasn't able to get the <i>Application Audio Capture (BETA)</i> to work with Meanings hidden in plain sight either. The audio only comes out via the <strong>Desktop Audio</strong> line at the moment. Should you find a way to get the Application Audio Capture to work I'd appreciate a message via Discord on how you got it to work.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/extras/4ae2d972c31d726fda61d6f6bc2a1f50.avif?t=1727431291\" width=620 height=64 /></span><br>On <strong>Windows</strong> you will need to either have the latest Microsoft Edge or Microsoft Edge WebView2 installed. This is due to the platform Meanings hidden in plain sight is built upon. I decided against other platforms as they'd ship a significantly bigger package.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/extras/d73ff3dd79ab00c80aa48bf9dae99401.avif?t=1727431291\" width=468 height=424 /></span><br>Should the game not start on your machine / start but only show a white screen please run the <strong>Install MicrosoftEdgeWebview2</strong> start option and then try to play the game again. Should the error persist please reach out to me.",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3162290/header.jpg?t=1727431291",
+    "developers": [
+      "bmbchp"
+    ],
+    "publishers": [
+      "bmbchp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

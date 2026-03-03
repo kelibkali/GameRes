@@ -1,0 +1,78 @@
+{
+  "3013880": {
+    "name": "Flight Risk",
+    "steam_appid": 3013880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013880/extras/196f6a3927acd3e05b6995dde22f6404.poster.avif?t=1727737636\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013880/extras/196f6a3927acd3e05b6995dde22f6404.webm?t=1727737636\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013880/extras/196f6a3927acd3e05b6995dde22f6404.mp4?t=1727737636\" type=\"video/mp4\"></video></span><br>Fight Risk is a minimalistic desk job game where you play as an air traffic controller trying to save a rogue flight. Master the communication systems before it's too late, or just wing it and see what happens!<br><br><strong>This is a SHORT game about deciphering systems and interactions. You will fail many times before you succeed.</strong><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> ~20-45 minutes of gameplay; depending on the player<br></li><li> Mixed 3D and text-based graphics<br></li><li> Retro 1980s aesthetic<br></li><li> Master air traffic computers<br></li><li> Translate flight codes<br></li><li> Navigate difficult terrains<br></li><li> Keep your pilot safe</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013880/header.jpg?t=1727737636",
+    "developers": [
+      "Aidan Strong"
+    ],
+    "publishers": [
+      "Aidan Strong"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Touchdown",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013880/8cea388192d936d7d89ede34c354d0f80774b9ba.jpg"
+        },
+        {
+          "name": "Rough Landing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013880/1f640cdb8dabd1f37eb4e81b075677afbb19e481.jpg"
+        },
+        {
+          "name": "Past the point of no return",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013880/cbb5fb36a3dbad1f8494920643031ad858402aba.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

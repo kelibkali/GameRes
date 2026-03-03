@@ -1,0 +1,58 @@
+{
+  "3228410": {
+    "name": "Flappy Souls - Golden Duck",
+    "steam_appid": 3228410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a dlc for if you want to support the game financially, it's a golden skin for the duck, it doesn't change anything in the gameplay in any way",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228410/header.jpg?t=1736559499",
+    "developers": [
+      "Medivelion"
+    ],
+    "publishers": [
+      "Medivelion"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "3200020": {
+    "name": "Gengu Survival",
+    "steam_appid": 3200020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Gengu Survival is an open world survival game located in an island filled with resources you can use for numerous things. The game features crafting, base building, first-person elements (FPS) and unlockable special abilites which help you on your journey through the island. Explore realistic looking biomes and always keep track on your health as you move, since you might want to eat or drink something regularly or take damage from enemies. This game was made following the course from SmartPoly. Make your own game with his amazing Unreal Engine courses.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3200020/header.jpg?t=1729273574",
+    "developers": [
+      "Gengu Games"
+    ],
+    "publishers": [
+      "Gengu Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Upgrade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3200020/589f5fb35e4bc72c8ff06e5ed308d4f28a34d06a.jpg"
+        },
+        {
+          "name": "Mighty tool",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3200020/e41118388d3d4d32f3cd8c5a723c5dec0305772e.jpg"
+        },
+        {
+          "name": "Builder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3200020/5e7eed7c090854cb75cc38dfd3bd3141fc63eeaf.jpg"
+        },
+        {
+          "name": "Experienced Survivor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3200020/be2b4b59303d5baf0d823365d590d42913e926c6.jpg"
+        },
+        {
+          "name": "Stranded",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3200020/ae072b4017ab53bcb7a8fd96b2b1cb648d63dcd7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

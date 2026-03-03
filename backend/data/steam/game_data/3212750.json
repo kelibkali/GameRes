@@ -1,0 +1,74 @@
+{
+  "3212750": {
+    "name": "真传 disciple",
+    "steam_appid": 3212750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><i>游戏是随机化的，每次开始，所有数据都会随机化，无论是地图还是草药的功效</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>收集草药</strong></p><p class=\"bb_paragraph\" >将鼠标移动到边缘，就会改变视界场景，点击左边的”收集”按钮可以收集草药。 </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>炼制丹药</strong></p><p class=\"bb_paragraph\" >点击乾坤袋里的草药，会移动丹药分布图里正在炼制的丹药，当正在炼制的的丹药和分布图里的丹药重合，就是炼制成功了。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>服用外丹</strong></p><p class=\"bb_paragraph\" >在乾坤袋里点击丹药就会自动服用</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>查看修为</strong></p><p class=\"bb_paragraph\" >道友在服用外丹后，修为就会增加，不同外丹增加不同修为</p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212750/header.jpg?t=1756881674",
+    "developers": [
+      "之 River"
+    ],
+    "publishers": [
+      "之 River"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

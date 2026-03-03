@@ -1,0 +1,66 @@
+{
+  "3058440": {
+    "name": "Prestis Silly Workshop",
+    "steam_appid": 3058440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Prestis Silly Workshop is a App that allows streamers to interact with their fans with multiple features!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >ALT+F4</h2><p class=\"bb_paragraph\" >This allows your viewers to stop any currently focused application!</p><p class=\"bb_paragraph\" >Of course you can blacklist specific programs within the configuration of the module!</p><h2 class=\"bb_tag\" >Bounce</h2><p class=\"bb_paragraph\" >This allows your viewers to spawn little pictures on your screen which bounce around!</p><h2 class=\"bb_tag\" >Mute Mic</h2><p class=\"bb_paragraph\" >Did you ever feel like your viewers should be able to choose when you are muted? Well this is exactly what Mute Mic does, it mutes the OBS (and in future discord) mic input for a set amount of time!</p><h2 class=\"bb_tag\" >Keyboard Input</h2><p class=\"bb_paragraph\" >This allows your viewers to send ANY keyboard input and maybe be the reason you lose your next match!</p><h2 class=\"bb_tag\" >Mouse Input</h2><p class=\"bb_paragraph\" >Similar to keyboard input your viewers can move your mouse around and click anything!</p><h2 class=\"bb_tag\" >Virtual Pet (In work)</h2><p class=\"bb_paragraph\" >Spawn your own little entity to take care of with your stream!</p><h2 class=\"bb_tag\" >Bluescreen of Death</h2><p class=\"bb_paragraph\" >Let your viewers open a fake BSoD that keeps you from doing anything for a few seconds!</p><h2 class=\"bb_tag\" >PTO (Prestis Take Over)</h2><p class=\"bb_paragraph\" >Allow me to do some shenanigans on stream!</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058440/46f407d077bab377366d038d5c14cf16a901c6db/header.jpg?t=1760370024",
+    "developers": [
+      "Presti"
+    ],
+    "publishers": [
+      "Presti"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 726,
+      "discount_percent": 67,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 7.26"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

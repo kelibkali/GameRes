@@ -1,0 +1,118 @@
+{
+  "3285490": {
+    "name": "围棋",
+    "steam_appid": 3285490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >重新发现围棋的魅力！</p><p class=\"bb_paragraph\" >欢迎进入古老的围棋世界。通过我们简洁优雅的移动应用，您可以轻松探索围棋丰富多彩的世界。</p><p class=\"bb_paragraph\" >自由享受</p><p class=\"bb_paragraph\" >您可以选择传统的19x19棋盘，或者为了快速对局和技能提升选择更小的9x9或13x13棋盘。每一局游戏，无论是与精心设计的AI对战还是与朋友对弈，都为您提供了学习和提升的新机会。</p><p class=\"bb_paragraph\" >您会爱上的功能：</p><p class=\"bb_paragraph\" >悔棋：重新考虑您的策略。</p><p class=\"bb_paragraph\" >全球排行榜：与全球玩家比拼技艺。</p><p class=\"bb_paragraph\" >分享对局：与朋友分享您的精彩游戏。</p><p class=\"bb_paragraph\" >保存/加载：随时随地暂停并继续您的对局。</p><p class=\"bb_paragraph\" >AI挑战：五个不同级别的AI，满足您不同的对弈需求。</p><p class=\"bb_paragraph\" >计时对战：考验您快速思考的能力。</p><p class=\"bb_paragraph\" >探索围棋世界</p><p class=\"bb_paragraph\" >清晰的图像和流畅的游戏体验让您更深入地探索围棋世界。丰富多彩的游戏体验将增强这一跨越数世纪的经典游戏的吸引力。</p><p class=\"bb_paragraph\" >立即下载应用程序，开启您探索围棋奥秘和魅力的旅程！</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 印度尼西亚语, 日语, 韩语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 泰语, 繁体中文, 土耳其语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285490/header.jpg?t=1767417038",
+    "developers": [
+      "Popoko VM Games"
+    ],
+    "publishers": [
+      "Popoko VM Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Level 1 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/64d35fd2473288755a64722ad9fe4d4e519c3290.jpg"
+        },
+        {
+          "name": "Level 2 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/a139233d5cf699159db99229717ba56a56982a4b.jpg"
+        },
+        {
+          "name": "Level 3 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/fb06725b36edaf168306aa70651550b96ecbeb79.jpg"
+        },
+        {
+          "name": "Level 4 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/899506bae9dbefed906b16605cb94aa91f5d9a49.jpg"
+        },
+        {
+          "name": "Level 5 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/0d724bbf66bc9f1fdd6a68c9334017ae90d3bc8b.jpg"
+        },
+        {
+          "name": "Level 6 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3285490/eacb65a76d06e9a272fafa26724031077fff115b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

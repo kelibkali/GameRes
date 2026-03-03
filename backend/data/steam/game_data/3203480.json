@@ -1,0 +1,66 @@
+{
+  "3203480": {
+    "name": "Disaster Blaster Demo",
+    "steam_appid": 3203480,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3203480/header.jpg?t=1748144895",
+    "developers": [
+      "Jarsick"
+    ],
+    "publishers": [
+      "Jarsick"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Early Invader",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3203480/b07ce75c31d7e0e361914fa0e00bf33efbdb69ce.jpg"
+        },
+        {
+          "name": "Early pro-player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3203480/d95494494c1ad25ae779a5f45634bbec9507e7be.jpg"
+        },
+        {
+          "name": "Early explorer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3203480/56ad49f5ba2af25aacc2dea122dd9e036298194b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

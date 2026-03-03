@@ -1,0 +1,103 @@
+{
+  "3082860": {
+    "name": "Ad SHOOt（アドシュー） Demo",
+    "steam_appid": 3082860,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >与产品版本的差异</h2>在体验版本中，您可以观看主游戏的开场并玩第 1 至 3 关。但是，4级至6级以及EX级将不会发布。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082860/extras/25da991869f8e0b6e8500c9d28ae22c1.poster.avif?t=1722070282\" width=320 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082860/extras/25da991869f8e0b6e8500c9d28ae22c1.webm?t=1722070282\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082860/extras/25da991869f8e0b6e8500c9d28ae22c1.mp4?t=1722070282\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >故事剧情</h2>主角对观看视频前出现不可跳过且连续两支的广告感到愤怒，<br>进而参加了 击落广告的弹幕射击游戏（STG）。<br>当初说好的是“只要通过全部的关卡，就能有一段时间不用看广告”啊……<br>关卡头目为虚构企业的宣传人员<br>关卡头目们会以广告弹幕的方式射出自家公司的产品。<br><br>※看起来像汉堡的东西是广告，并非射出实际的食物。<h2 class=\"bb_tag\" >日语全语音</h2>配音人員<br>夏目响平、朝田阳贵、雨泽祐贵、平川大辅、山中真寻<br><br>※中文版为日语语音搭配中文字幕。<br>※山中先生配音的角色不会出现在体验版中。如果您想听到山中先生的声音，请等待产品版本的发布。<h2 class=\"bb_tag\" >善待新手的STG游戏</h2>推荐给平时不常玩STG的玩家。<br>本游戏有Easy（简单）模式，也能在设定画面增加接关的次数。<br>另外因为主角的生命采用HP量条规则，所以能接下中弹的次数会比看起来更多。<h2 class=\"bb_tag\" >广告不是敌人</h2>打倒关卡头目后就能得到下一关开始能使用的技能。<br>也有不击落广告＝停止射击才能得到的东西。<h2 class=\"bb_tag\" >分数挑战</h2>国际分数排行榜会依照难易度分别统计。<br>高等级的射手就在Hard（困难）模式里将取得世界第一的高分视为目标吧。<br><br>※体验版的排行榜不会延续到零售版。<br>※排名可能会中途重置，直到系统稳定为止。请注意。<h2 class=\"bb_tag\" >错误报告请求</h2>如果您发现任何错误或问题，或者有任何请求或意见，请通过游戏官网上的“联系我们”（电子邮件表单）、支持电子邮件地址。",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082860/header.jpg?t=1722070282",
+    "developers": [
+      "BOCSTE, Ltd."
+    ],
+    "publishers": [
+      "BOCSTE, Ltd."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "观看开场动画(体验版)",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/5449a5b3d000c8869b16b616dd52a77a64ffd42f.jpg"
+        },
+        {
+          "name": "完成第一关（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/869e74a15c65887b49c08850b2374fd8f3164b65.jpg"
+        },
+        {
+          "name": "完成Easy（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/96fd993ea63341950d0e2ac400f271844548c0a9.jpg"
+        },
+        {
+          "name": "完成Normal（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/6603eba20156d89021eef1991c57089b5dd7fa03.jpg"
+        },
+        {
+          "name": "完成Hard（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/aee7a8dc58d1332cf12a403bf814a987b315f7b0.jpg"
+        },
+        {
+          "name": "Easy无继续（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/d1d5f31fd507b85524a1c58b26c612532e55297b.jpg"
+        },
+        {
+          "name": "Normal无继续（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/1b205c68b0e45f4f22aea2b1a5bc7363ae68b218.jpg"
+        },
+        {
+          "name": "Hard无继续（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/cf9860c48a2bf2d6d3ddbadbb0afc70c80df3c79.jpg"
+        },
+        {
+          "name": "无射击无炸弹（体验版）",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082860/54bc3107d2439d493b1b6baa04e7903a0be7ef59.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

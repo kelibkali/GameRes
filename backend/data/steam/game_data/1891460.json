@@ -1,0 +1,67 @@
+{
+  "1891460": {
+    "name": "我不是传奇",
+    "steam_appid": 1891460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>游戏介绍</strong><br><br>《我不是传奇》2.0版本延续1.0的主要玩法：目标是消灭场景里所有的丧尸，而丧尸在一定时间内会翻倍生成，你在场景里搜集物品和武器来完成目标。相比于1.0版本，2.0版本有了更多的改进。包括游戏前和游戏里，在游戏前可以选择不同的角色，选择场景和大小（这功能后续补上），难度设置更为细致（可以选择初始丧尸数量、再生时间设置、物品丰富度、难度因子、开始是否持有武器），还有可以设置日夜轮换和是否在黑夜开始。在游戏里，场景设置更为真实和丰富，角色武器更丰富，近战可以连击和锁定丧尸，可使用的物品功能更多等等。而且游戏做了较好的优化，2.0版本内容更丰富更好，但游戏大小比1.0版本更小，而且硬件性能的要求更低。<br><br><strong>游戏目标</strong><br><br>消灭场景里所有的丧尸，玩法很简单<br><br><strong>核心矛盾</strong><br>丧尸在一定时间后会翻倍再生，初始丧尸越多，翻倍越多，会越来越艰难，而是用更多时间搜集物品还是杀死丧尸是需要平衡的策略。每次开局结果都不会一样的。<br><br><strong>游戏设置</strong><br>1、游戏可选择不同的场景和小大，不同的场景氛围和建筑物不同，场景越大物品和丧尸分布越散，物品越难搜集，丧尸越难找到。<br>2、游戏可以选择日夜轮替和是否在午夜开始，白天视野更清晰，氛围相对没那么可怕，但丧尸的行动能力更强，跑得更快。黑夜视野不清晰，氛围更可怕，经常需要用手电，但丧尸行动能力更弱，跑得更慢。<br>3、场景里每个建筑物内都会生成一定数量的物品，包括武器、子弹、配件、功能性物品等等，物品通常只在刚开始时生成一次，用完就没了。而且物品生成有一定的概率，是否生成足够的适合的物品需要一定的运气。<br>4、物品生成的种类和丧尸分布是不确定的，需要一点运气。物品随机生成如果足够多并种类符合需求，丧尸分布集中，那可能很快就能完成挑战。<br>5、场景里随机分布了特别设定，女鬼，你如果遇到了，会为你带来协助，你遇到就知道了。<br><br><strong>创作团队说明</strong><br><br>游戏《我不是传奇》是由深圳市逸洋科技有限责任公司制作。这是一家新的公司，从事游戏开发、虚拟现实开发，目前是五人缺四人的团队，其实就是只有我一个人在开发。首先希望能存活下来，并且逐步养活更大的团队，开发更多更有趣的游戏。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1891460/header.jpg?t=1660198600",
+    "developers": [
+      "VRHuman Team",
+      "SimonHuang"
+    ],
+    "publishers": [
+      "VRHuman Team"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

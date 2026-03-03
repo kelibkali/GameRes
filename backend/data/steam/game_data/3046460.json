@@ -1,0 +1,135 @@
+{
+  "3046460": {
+    "name": "DevilReversi",
+    "steam_appid": 3046460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The first shot of the Common Sense Destruction Series!</p><p class=\"bb_paragraph\" >Devil Revesi is an entirely new game that challenges conventional Reversi gameplay.</p><p class=\"bb_paragraph\" >Adding new rules to the traditional one, as well as systems and animation unique to digital games, will make you feel like you have a brand-new experience.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >■Devilish System</p><p class=\"bb_paragraph\" >・&quot;Pile&quot; your disk on the grid where another disk is already on!!</p><p class=\"bb_paragraph\" >・&quot;Sacrifice&quot; your disks and summon a &quot;Totem&quot; so your opponent cannot pile on it anymore!!</p><p class=\"bb_paragraph\" >■3Modes awaits you</p><p class=\"bb_paragraph\" >・You will learn how to play and devise a strategy of Devil Reversi through accomplishing questions from a servant of Devil Kings in Story Mode.</p><p class=\"bb_paragraph\" >・Several difficulty of AI will train you in Single Player Mode.</p><p class=\"bb_paragraph\" >・Need more thrill? Seek your rivals all over the world! Online Mode allows you to play against players worldwide.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >■Staff</p><p class=\"bb_paragraph\" >＜Character Design＞</p><p class=\"bb_paragraph\" >George Kamitani</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Hitoshi Sakimoto</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >■Cast</p><p class=\"bb_paragraph\" >Vritra (Voice: Yurina Uchiyama)</p><p class=\"bb_paragraph\" >Astra (Voice: Mayu Sagara)</p>",
+    "supported_languages": "英语, 日语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046460/header.jpg?t=1758178796",
+    "developers": [
+      "RomanKitayama"
+    ],
+    "publishers": [
+      "RomanKitayama",
+      "CHIMERA special agency LLC."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 29,
+      "highlighted": [
+        {
+          "name": "Devil King is Killing Time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/10db03f6354fa18970944829d9c98943bf36f805.jpg"
+        },
+        {
+          "name": "Destroyed Common Sense",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/b904fb062e3c75e8387f41426218bf250e9d90bf.jpg"
+        },
+        {
+          "name": "Chain",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/534357b185bb85252270712b99cbbbf9c05f62eb.jpg"
+        },
+        {
+          "name": "Devilish Power",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/8bea1d5674b53ec0d7d77ba5757533db2090a70b.jpg"
+        },
+        {
+          "name": "Devil Reversi",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/043e1bbabefbf5dffbd4c4ea59aaa1c8025883e5.jpg"
+        },
+        {
+          "name": "To the Ocean",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/8fbad273d4c9928c012b8dc9cb280156507e8282.jpg"
+        },
+        {
+          "name": "Devil King Dominated Their Home",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/1ba7cd3ed7fc8cfa8b5d27c17e308032474210db.jpg"
+        },
+        {
+          "name": "Devil King Dominated Their Hometown",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/fcffccde97c2fa57733be9f7f502c0ec6a41da40.jpg"
+        },
+        {
+          "name": "Devil King Dominated a Star",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/d61760ea0c1ac0247a0d43a67dde5b7c67e022ec.jpg"
+        },
+        {
+          "name": "Devil King Dominated a Galaxy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046460/4490a76ff8348c942c429141f88eb701f075c603.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

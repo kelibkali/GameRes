@@ -1,0 +1,38 @@
+{
+  "3083480": {
+    "name": "NativeRest",
+    "steam_appid": 3083480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>NativeRest is a fast and lightweight REST API client</strong> for create, debug and test server API.<br><br><strong>NativeRest is a 100% native desktop application</strong> for testing your API that does not use Electron. NativeRest starts fast, uses less memory and CPU.<br><br>NativeRest, unlike other popular tools, <strong>can be used without an account and internet connection</strong>.<h2 class=\"bb_tag\" >Key features</h2><br><ul class=\"bb_ul\">  <li> <strong>Preconfigured proxy server</strong><br>Use high-performance preconfigured proxy server from NativeRest. A proxy server acts as an intermediary between the user and the web server. Proxy servers use a different IP address on behalf of the user, concealing the user's real address from web servers. You can also configure NativeRest to use a custom proxy configuration when sending requests.<br>  </li><li> <strong>Manage multiple environments</strong><br>NativeRest has powerful capabilities for layering your variables. You can use system, global, workspace and environment variables. NativeRest uses built-in library to generate sample data, including random names, addresses, email addresses, and much more. You can use these pre-defined variables multiple times to return different values per request.<br>  </li><li> <strong>Simple testing</strong><br>NativeRest provides a way to easily test your API. Use single line tests to check status, time, body, headers, cookies of response. You can use a list of commonly-used test code snippets to write your tests. Snippets are available in Test Examples window.<br>  </li><li> <strong>Generating code snippets</strong><br>You can generate code snippets in various languages and frameworks within NativeRest. Over fifteen different languages: C, C#, cURL, Go, HTTP, Java, JavaScript, Kotlin, Node.js, PHP, PowerShell, Python, Ruby, Shell, Swift, and more.<br>  </li><li> <strong>Custom HTTP Methods</strong><br>In addition to standard HTTP methods, NativeRest allows you to add custom HTTP methods for each workspace separately. You can specify methods in the list in the order you need, and you can also exclude standard methods that you don't need.<br>  </li><li> <strong>Easily organize your requests</strong><br>NativeRest combines an easy-to-use interface with advanced functionality like environment variables, authentication helpers and code generation. Everything begins here. Organize your requests to reflect your workflow or your API data-model. Group and order your API requests to your heart's desire.<br>  </li><li> <strong>Import and export data</strong><br>You can import data from other REST clients such as Postman, Insomnia. You can migrate without loss earlier created collections, environments and variables. It also supports data export. The NativeRest export file format is fully compatible with the most popular REST API clients.<br>  </li><li> <strong>Multilingual User Interface</strong><br>NativeRest is a multilingual HTTP client that supports multiple languages. Currently, it supports 10 languages, including English, Spanish, Portuguese, French, German, Russian, Bulgarian, Simplified Chinese, Traditional Chinese, Japanese. NativeRest uses system language by default. You can change the language in settings without restarting app.<br>  </li><li> <strong>Working in offline mode</strong><br>NativeRest can be used without internet connection. You decide to use only local workspaces or additionally create cloud workspaces. When using local workspaces, all your collections, environments, requests will be stored only on your computer. When working as a team, you can create cloud workspaces without any problems.<br>  </li><li> <strong>Light and dark themes</strong><br>NativeRest supports Light and Dark themes for all components and windows. NativeRest uses system theme by default, but you can manually choose a Light or Dark theme in the Settings window. Also, the dark theme is supported by the installer of the NativeRest.</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 保加利亚语, 日语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3083480/header.jpg?t=1736548879",
+    "developers": [
+      "NativeSoft, LLC"
+    ],
+    "publishers": [
+      "NativeSoft, LLC"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

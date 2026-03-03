@@ -1,0 +1,82 @@
+{
+  "3114440": {
+    "name": "War of Charge",
+    "steam_appid": 3114440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>· </strong>一款休闲联机策略游戏，购买士兵，凑成军团，简单地指挥他们战斗。和你的队友一起，让你的士兵们战胜敌方。兵种各有所长，合理搭配你的阵容，冲破对方的防线，击败对方所有士兵，或者直达对方大本营。<br>       <strong>· </strong>游戏内有三个兵种，分别为近战，远程，骑兵，各有所长，如骑兵质量更大，可以突破防线，向前冲锋。远程单位可以在后方造成大量输出。而近战兵种多样，对每一种情况都可能有应对策略。<br>       <strong>· </strong>这是轻量化的一款游戏，特点为休闲且操作简单，几乎没有任何学习成本，要做的仅仅只有购买士兵，并且点击，移动或者攻击。游戏分多个回合进行，回合间歇获得一定金币，可以购买士兵，根据对手阵容搭配自己的阵容，战斗胜利率先达到一定场数的一方胜利。<br>       <strong>· </strong>支持本地游戏或者多人联机，支持大厅匹配.",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114440/header.jpg?t=1723772481",
+    "developers": [
+      "YLL"
+    ],
+    "publishers": [
+      "YLL"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "3109500": {
+    "name": "超兽启动",
+    "steam_appid": 3109500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏类型：这是科幻风与神学风的FPS多人联机射击游戏；<br />\r\n游戏主题：讲述人类未来发现宇宙运行真相，实现人体骨骼机械进化。随着人类未来和平发展，进入科技进潮流时代，突然有一天从天上掉下了一个巨大的似人非人类的石化头部，科学家们利用先进科技AI神经网络技术对石化头进行连接读取得到了惊天的宇宙世界真相，就在这时，地球上入侵了已经进化外骨骼的不明生物和体型庞大的青铜巨人，对人类进行攻击，而人类为了对抗，利用从化石头上获取到的信息为人类打造了5套进化骨骼铠甲，代号分别为麒麟、白虎、朱雀、青龙、玄武<br />\r\n游戏模式：PVE模式（这个模式可以进行枪械射击对战与召唤飞行穿梭艇对战，PVE有对应的升级系统，击杀怪物获取升级水晶，可以对玩家铠甲外骷髅进行属性进化）、PVP模式（这个模式可以进行枪械射击对战，PVP又可分为团队竞技模式与个人竞技模式）。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109500/header_schinese.jpg?t=1723007067",
+    "developers": [
+      "Peigesang"
+    ],
+    "publishers": [
+      "Peigesang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

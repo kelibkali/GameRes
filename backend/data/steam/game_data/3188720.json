@@ -1,0 +1,49 @@
+{
+  "3188720": {
+    "name": "WinSizeNG - Resize your desktop applications",
+    "steam_appid": 3188720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Overview of WinSizeNG</h2><p class=\"bb_paragraph\" >WinSizeNG is a utility designed for rapid resizing and repositioning of application windows on your desktop.</p><p class=\"bb_paragraph\" >It streamlines workflow, particularly when used in conjunction with workspace managers like PowerToys Workspaces, offering a faster alternative to tools like FancyZones.</p><p class=\"bb_paragraph\" >Unlike applications that simply remember window positions on close, WinSizeNG allows you to quickly capture and apply window dimensions to multiple applications simultaneously.</p><p class=\"bb_paragraph\" >One of the primary features of WinSizeNG is its ability to capture a window's size and position and create a profile of its dimensions.</p><p class=\"bb_paragraph\" >Users can create multiple profiles for different resolutions, scales, sizes, and positions.</p><p class=\"bb_paragraph\" >It offers a quick and efficient way to manage window layouts, enhancing your productivity.</p><p class=\"bb_paragraph\" >All non-minimized windows will appear in a list, allowing users to select any number of windows, choose a profile, and click to resize and reposition them.</p><p class=\"bb_paragraph\" >WinSizeNG complements PowerToys Workspaces by enabling users to rapidly create and manage new profiles tailored to their needs.</p><h2 class=\"bb_tag\" >Key Features of WinSizeNG</h2><p class=\"bb_paragraph\" ><strong>Window Resizing and Repositioning:</strong> Users can easily resize and move any application window on their desktop.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Profile Creation:</strong> WinSizeNG can capture the size and position of a window and create a profile for future use. Users can maintain multiple profiles, accommodating various resolutions, scaling, sizes, and positions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Windows List:</strong> All non-minimized windows are displayed in a selectable list, allowing users to choose multiple windows for resizing and repositioning.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Profiles Management:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Create Profiles:</strong> Users can create profiles with different resolutions and dimensions using CTRL+P.</p></li><li><p class=\"bb_paragraph\" ><strong>Windows List:</strong> Access a list of all non-minimized windows with CTRL+L.</p></li><li><p class=\"bb_paragraph\" ><strong>About:</strong> View information about the WinSizeNG application and its version using CTRL+H.</p></li><li><p class=\"bb_paragraph\" ><strong>Refresh:</strong> Update the displayed list of windows with CTRL+R.</p></li><li><p class=\"bb_paragraph\" ><strong>Keep Refreshing:</strong> Automatically refresh the window list every 4 seconds with CTRL+K.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Windows Information:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Show Info Tip: Display the Process ID, Window Handle, Name, and Class of selected items using CTRL+I.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Search: Quickly find and select windows by partial or full name with incremental search support.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Window Management:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Always On Top: Keep the WinSizeNG application visible above all other windows, even when not active, using CTRL+T.</p></li><li><p class=\"bb_paragraph\" >Capture: Select a window from the list to capture its size and position with CTRL+S.</p></li><li><p class=\"bb_paragraph\" >Free Capture: Drag the mouse to any desired window to capture its size and position using CTRL+U.</p></li><li><p class=\"bb_paragraph\" >Align: Align selected windows to the center, top-left, top-right, bottom-left, or bottom-right of the desktop with CTRL+W.</p></li><li><p class=\"bb_paragraph\" >Apply: Apply the chosen profile to selected windows to adjust their size and position using CTRL+Y.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Customization:</strong> Users can choose from a variety of skins to personalize their experience.</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188720/header.jpg?t=1730992733",
+    "developers": [
+      "Eduardo Bezerra"
+    ],
+    "publishers": [
+      "Eduardo Bezerra"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

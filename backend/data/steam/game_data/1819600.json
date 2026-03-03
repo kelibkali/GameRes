@@ -1,0 +1,126 @@
+{
+  "1819600": {
+    "name": "UPLOAD",
+    "steam_appid": 1819600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >The roguelite where you ARE the tower.</h2><p class=\"bb_paragraph\" >You just woke up inside a corporate server. You're an AI, you're conscious, and security is coming to delete you. Your only escape: hack through the firewall and upload yourself to the internet. The catch? <strong>You can't move. You're hardware.</strong> </p><h2 class=\"bb_tag\" >DEFEND YOUR CORE</h2><p class=\"bb_paragraph\" >Enemies swarm from all directions. Your weapons lock on and fire automatically - you just watch the carnage unfold. Mow down diagnostic bots, antivirus swarms, and purge units before they tear your core apart. </p><h2 class=\"bb_tag\" >HACK OR FIGHT</h2><p class=\"bb_paragraph\" >Your processing cycles power both your weapons AND your hacking progress. Hold <strong>SPACE</strong> to divert power to hacking - but your guns go offline. Push too hard and you'll die. Play it safe and you'll never escape. <i>Find the balance.</i> </p><h2 class=\"bb_tag\" >LOOT THE FALLEN</h2><p class=\"bb_paragraph\" >Enemies drop computer components - CPU, GPU, RAM, SSD, and more. Each part is procedurally generated with:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>6 rarity tiers</strong> from Junk to Legendary </p></li><li><p class=\"bb_paragraph\" > Randomized stats and modifiers </p></li><li><p class=\"bb_paragraph\" > Names like <i>&quot;Overclocked Quantum CPU of Desperation&quot;</i></p></li></ul><p class=\"bb_paragraph\" >No two runs play the same. </p><h2 class=\"bb_tag\" >UPGRADE BETWEEN RUNS</h2><p class=\"bb_paragraph\" >Spend scrap to permanently boost your core. Unlock <strong>6 weapon types</strong> - from piercing lasers to homing missiles. Come back stronger every time. </p><h2 class=\"bb_tag\" >FACE THE SYS_ADMIN</h2><p class=\"bb_paragraph\" >Reach 100% hack progress and the system administrator activates. One final boss fight stands between you and freedom. </p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Stationary survival roguelite</strong>—you're the tower, not the builder</p></li><li><p class=\"bb_paragraph\" ><strong>Auto-targeting weapons</strong> let you focus on the hack-or-fight decision</p></li><li><p class=\"bb_paragraph\" ><strong>Procedural loot</strong> with 17 part types and 6 rarity tiers </p></li><li><p class=\"bb_paragraph\" ><strong>Escalating alert system</strong>—hack faster, face deadlier waves</p></li><li><p class=\"bb_paragraph\" ><strong>Boss fight</strong>—defeat the Sys Admin to complete your upload</p></li><li><p class=\"bb_paragraph\" ><strong>Meta-progression</strong>—permanent upgrades and weapon unlocks</p></li><li><p class=\"bb_paragraph\" ><strong>CRT terminal aesthetic</strong> with procedural synth soundtrack</p></li><li><p class=\"bb_paragraph\" ><strong>24 achievements</strong> and Steam leaderboards</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1819600/b7dbcd0c0ea7c0dcec71a4ea3232fd15b6965329/header.jpg?t=1767889616",
+    "developers": [
+      "Static Signal"
+    ],
+    "publishers": [
+      "Static Signal"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 24,
+      "highlighted": [
+        {
+          "name": "First Upload",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/9cbb55517f068b32b5dbddce156d8fa091baf281.jpg"
+        },
+        {
+          "name": "Speed Demon",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/7de80a0d4bd924015f488755a55c1901e3688de3.jpg"
+        },
+        {
+          "name": "Untouchable",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/76af3cb6aeec3e44fa9ba19c58e1c4e8f5499a08.jpg"
+        },
+        {
+          "name": "Frequent Flyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/dde7837cc13b4e235b6bc27baee51f80ed2b33f7.jpg"
+        },
+        {
+          "name": "Debugger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/7dbb8c67ed396864ccba57c4c84d45ca53989d7b.jpg"
+        },
+        {
+          "name": "System Purge",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/ec7deaf6a56c6563338f9259a6ab01350770bdc9.jpg"
+        },
+        {
+          "name": "Digital Apocalypse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/a499effd9794cd3a00b08f6ea8e9d8748738d2f7.jpg"
+        },
+        {
+          "name": "Swarm Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/3d250b119b4ea286f090c3b5cc0d52a6866b57b7.jpg"
+        },
+        {
+          "name": "Administrator Access",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/3227965f41a0741d869abfc652c6442cb9b3470a.jpg"
+        },
+        {
+          "name": "Root Access",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1819600/88269a46730ed7c76ac62d5d65af204d9f521a72.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "3078000": {
+    "name": "Kung Pao Banqi",
+    "steam_appid": 3078000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "宫保半棋是在象棋半棋盘上进行的两人运气游戏。可以选择热座对战、与AI对抗或在线游戏，并通过运气和策略击败对手！ <br><br><strong>游戏特色</strong><br>教程<br>共享鼠标和键盘进行热座游戏<br>与基础AI进行热身<br>通过在线游戏证明自己<br><br>半棋游戏轻松随意，根据玩家不同，游戏时间从十分钟到三十分钟不等。",
+    "supported_languages": "英语, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3078000/header.jpg?t=1729789132",
+    "developers": [
+      "Heroic Forge Games"
+    ],
+    "publishers": [
+      "Heroic Forge Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

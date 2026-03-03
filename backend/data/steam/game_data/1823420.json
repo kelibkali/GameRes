@@ -1,0 +1,67 @@
+{
+  "1823420": {
+    "name": "Transiruby - FM Synthesis style BGM pack",
+    "steam_appid": 1823420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是DLC BGM包，<br />\r\n在购买后可在游戏中切换。<br />\r\n<br />\r\n购买后，你可以从以下两种BGM乐曲风格进行选择<br />\r\n①PSG音源风格乐曲(原本就包含在游戏本编内)<br />\r\n②FM音源风格乐曲 (在购买本DLC后将被追加)",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823420/header.jpg?t=1725004171",
+    "developers": [
+      "SKIPMORE",
+      "ESQUADRA,inc."
+    ],
+    "publishers": [
+      "Flyhigh Works"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

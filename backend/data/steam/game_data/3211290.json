@@ -1,0 +1,119 @@
+{
+  "3211290": {
+    "name": "THE GENERAL SAGA",
+    "steam_appid": 3211290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>谱写专属于你自己的千年历史。</strong></p><p class=\"bb_paragraph\" ><strong>JRPG风格的生存动作游戏。</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>收集圆点角色，获得生存！</strong></p><p class=\"bb_paragraph\" >本作是一款使用 JRPG 风格点角色的幸存者动作游戏。</p><p class=\"bb_paragraph\" >从各种职业中选择一名武将，召集朋友并组建自己的队伍。</p><p class=\"bb_paragraph\" >使用装备道具和特殊技来强化你的队伍，在规定时间内生存下来。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>使用队形拦截敌人！</strong></p><p class=\"bb_paragraph\" >你应该把收集到的朋友放在哪里，他们应该向哪个方向进攻？</p><p class=\"bb_paragraph\" >用你自己独特的阵型来攻击正在逼近的无数敌人。</p><p class=\"bb_paragraph\" >您可以随时改变阵型。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>让我们创造一段跨越千年的历史！</strong></p><p class=\"bb_paragraph\" >每次战斗结束后，结果都会记录在史书中。</p><p class=\"bb_paragraph\" >根据战斗结果记录各种事件，创造属于你自己的历史。</p><p class=\"bb_paragraph\" >多结局系统意味着您可以决定千年战争的结局。</p>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211290/23287e41c1b059154b51c3235b9b3a8ff6617d11/header.jpg?t=1765428645",
+    "developers": [
+      "peakvox",
+      "O-TWO inc."
+    ],
+    "publishers": [
+      "O-TWO inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7400,
+      "final": 7400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 74.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 92,
+      "highlighted": [
+        {
+          "name": "新手幸存者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/d42863e1144ba5498fb5119544dd7cae0d9344a3.jpg"
+        },
+        {
+          "name": "老练幸存者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/7303a22d5c6c652e9e2bb5f479941556ff50c3f8.jpg"
+        },
+        {
+          "name": "大师幸存者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/5c3e1c3e8584e3fd3f4f87af48a82a66e1afe671.jpg"
+        },
+        {
+          "name": "新手跑手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/1bca04ec4496d92889a2dfaa2c7054eae3329f67.jpg"
+        },
+        {
+          "name": "老练跑手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/5ed9e072f8a1b1d320366751057961c3da82595c.jpg"
+        },
+        {
+          "name": "大师跑手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/775495d718eb8ef7e457e59456da980028995328.jpg"
+        },
+        {
+          "name": "新手探索者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/ad12aa003da029c2f931aa04971fd74e3853f27d.jpg"
+        },
+        {
+          "name": "老练探索者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/bdee092920d3c98c90f8a1707498e5dfa99d41b7.jpg"
+        },
+        {
+          "name": "大师探索者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/e33a64592a37fdd98730826bcfe2bee14a287df5.jpg"
+        },
+        {
+          "name": "新手编年史作家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3211290/ba2ea6bbf927cae6b2eb3ab124894577eba6ff77.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

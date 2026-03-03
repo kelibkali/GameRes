@@ -1,0 +1,106 @@
+{
+  "1821150": {
+    "name": "Connectify",
+    "steam_appid": 1821150,
+    "required_age": 0,
+    "is_free": false,
+    "description": "欢迎加入 Connectify益智游戏！游戏的目标 - 在不与其他直线交叉的情况下，连接同一条直线上所有相同数字的点。简单级别的游戏阵为3x3，困难级别的游戏阵为6х6。游戏阵越大，需要连接的点就越多。<br />\r\n<br />\r\n游戏会记录你的用时，并奖励星章。通关越快，获得星章越多。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/header.jpg?t=1698092126",
+    "developers": [
+      "NikiGames"
+    ],
+    "publishers": [
+      "NikiGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 68,
+      "highlighted": [
+        {
+          "name": "第1关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/fff4abac03fcabdcfc200b812cdbbb6f18f4abb2.jpg"
+        },
+        {
+          "name": "第2关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/23a9ea9e36e32dc367dfa24b9fbe97bdde338e42.jpg"
+        },
+        {
+          "name": "第3关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/b58b44e7987ff860574c01ec3832ce629227e097.jpg"
+        },
+        {
+          "name": "第4关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/51e5d5bfe8623bebb96c5f8b9f0745f3297a7036.jpg"
+        },
+        {
+          "name": "第5关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/8db66682f3706d69ed0400422776c4a262379ac7.jpg"
+        },
+        {
+          "name": "第6关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/bb102cce4671fee6cc39b37db60d5f79bd437158.jpg"
+        },
+        {
+          "name": "第7关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/fba18fc57f4f6b20957793698ec701a53fd370b5.jpg"
+        },
+        {
+          "name": "第8关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/d1ca2304caa6a964bbf81dc780da96af635a8edd.jpg"
+        },
+        {
+          "name": "第1关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/fde83515540e9ab121139774d4564f59c6beb885.jpg"
+        },
+        {
+          "name": "第2关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1821150/e4492b37207f50461d1d4ce1c896c296b56a86a6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

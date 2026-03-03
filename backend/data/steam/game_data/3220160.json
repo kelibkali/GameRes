@@ -1,0 +1,130 @@
+{
+  "3220160": {
+    "name": "taat",
+    "steam_appid": 3220160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Taat is a 2D family friendly sokoban-style puzzle game.</p><p class=\"bb_paragraph\" >Inspired by classic and newer puzzle games, taat brings the joy of solving puzzles to everyone!</p><h2 class=\"bb_tag\" >Includes:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >100 puzzles</p></li><li><p class=\"bb_paragraph\" >Cute 2D pixel art visuals</p></li><li><p class=\"bb_paragraph\" >Appropriate soundtrack</p></li><li><p class=\"bb_paragraph\" >5 different save slots</p></li><li><p class=\"bb_paragraph\" >16 achievements</p></li><li><p class=\"bb_paragraph\" >A variety of puzzle mechanics including breaking walls, lasers, portals, traps and ... chickens!</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Quick manual</h2><p class=\"bb_paragraph\" >Game autosaves after each level.</p><p class=\"bb_paragraph\" >Tutorial explains the controls and the details of the mechanics of some elements. It's recommended to leave it on for the first playthrough.</p><p class=\"bb_paragraph\" >Chickens react consistently to obstacles (player, walls, boxes).</p><p class=\"bb_paragraph\" >If a level looks hard, don't rush through it. Take some time to observe what is happening.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Controls</h2><p class=\"bb_paragraph\" >Keyboard:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Movement: Arrow keys</p></li><li><p class=\"bb_paragraph\" >Player 2 Movement: W,A,S,D</p></li><li><p class=\"bb_paragraph\" >Reset Level: Backspace</p></li><li><p class=\"bb_paragraph\" >Select menu item: Enter or Space</p></li><li><p class=\"bb_paragraph\" >Exit to main menu, go to previous menu item : ESC</p></li><li><p class=\"bb_paragraph\" >Upon game completion, Jump to previous/next level: Comma (,) and Period (.) respectively</p></li></ul><p class=\"bb_paragraph\" >Controller:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Movement: Pad, Left analog stick</p></li><li><p class=\"bb_paragraph\" >Reset Level: Y</p></li><li><p class=\"bb_paragraph\" >Select menu item: A</p></li><li><p class=\"bb_paragraph\" >Exit to main menu, go to previous menu item : B</p></li><li><p class=\"bb_paragraph\" >Upon game completion, Jump to previous/next level: Shoulder Buttons</p></li></ul><p class=\"bb_paragraph\" >Using Steam Input is recommended</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 希腊语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220160/header.jpg?t=1764055743",
+    "developers": [
+      "cons ee"
+    ],
+    "publishers": [
+      "cons ee"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 11 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Procrastination",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/8ddb3d2565a5cf8a54460aa8a7477a9f50186b47.jpg"
+        },
+        {
+          "name": "Breaking the wall!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/dd1d601623842b3fbf9e511965f754100c419c1f.jpg"
+        },
+        {
+          "name": "Getting our feet wet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/7215b090730059025612bc6180ddece6e5c74d3e.jpg"
+        },
+        {
+          "name": "The great reset",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/8b75b6bb51b659a2e48c09e7d61fa7ed19ce366b.jpg"
+        },
+        {
+          "name": "3 / 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/64e3e09672fea58fc9ea86289f5c28d036ced017.jpg"
+        },
+        {
+          "name": "Puzzle solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/c8012e970b9ca2ee5c775655b2c3ba9721efd232.jpg"
+        },
+        {
+          "name": "Mega puzzle solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/49a77dedb3ce509f5b67384349dc9ba83987d072.jpg"
+        },
+        {
+          "name": "Ultra puzzle solver",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/3e0d99641d0b4db38a3c62b660d5a2748c0a65a5.jpg"
+        },
+        {
+          "name": "Rhythmic chickens ",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/5e1afd8c569f68f9e84d648379d1a14154043fe0.jpg"
+        },
+        {
+          "name": "Traveller in Time",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220160/96b20173b9d7e16711ec6973f102b92f9475a3ed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "3252420": {
+    "name": "Launch And Loot",
+    "steam_appid": 3252420,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>&quot;Launch &amp; Loot&quot;</strong> 是一款 rogue-lite 地牢爬行游戏，拥有 vibrant 像素艺术风格，游戏中的每个房间都是程序生成的。利用环境，投掷物品和战利品来击败敌人。发现独特的 <i>power-ups</i>，每局游戏都能改变你的游戏风格！</p><p class=\"bb_paragraph\" ><strong>药水投掷！</strong><br>物品上的不同效果</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/bbd9675e9d4ac01002d36896d04d9fb6.poster.avif?t=1735329064\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/bbd9675e9d4ac01002d36896d04d9fb6.webm?t=1735329064\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/bbd9675e9d4ac01002d36896d04d9fb6.mp4?t=1735329064\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>通电</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >100 个场景</p></li><li><p class=\"bb_paragraph\" >40 种物品</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" >大老板</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/061402a27192acb607b3684dc8c9bef2.poster.avif?t=1735329064\" width=692 height=388 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/061402a27192acb607b3684dc8c9bef2.webm?t=1735329064\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/extras/061402a27192acb607b3684dc8c9bef2.mp4?t=1735329064\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>其他特点</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >强化构建</p></li><li><p class=\"bb_paragraph\" >特殊 power-ups</p></li><li><p class=\"bb_paragraph\" >程序生成</p></li><li><p class=\"bb_paragraph\" >多种关卡</p></li><li><p class=\"bb_paragraph\" >替代阶段</p></li></ul>",
+    "supported_languages": "葡萄牙语 - 巴西, 英语, 西班牙语 - 西班牙, 法语, 意大利语, 俄语, 简体中文, 韩语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252420/header.jpg?t=1735329064",
+    "developers": [
+      "Lua Ludica"
+    ],
+    "publishers": [
+      "Lua Ludica"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "First boss defeated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/fbe95c6f67b356c04f0f90d97e884d8c5b80fc40.jpg"
+        },
+        {
+          "name": "Second boss defeated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/576df693647e9bbd234c0609e03efe22b29b350c.jpg"
+        },
+        {
+          "name": "Third boss defeated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/0d579f29658c0148bfe8098c22cb89f02ef5a748.jpg"
+        },
+        {
+          "name": "Fourth boss defeated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/1bb620cac8037632ab6d6d1c0d30c13be6eefc90.jpg"
+        },
+        {
+          "name": "Fifth boss defeated",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/4ed30beba8792e9dae0bcf10e7a5e197bc1ff002.jpg"
+        },
+        {
+          "name": "100 Coins",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/4b302b4fc63bd0a7d1771d742b450e87b99474dc.jpg"
+        },
+        {
+          "name": "100 Enemy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252420/5807c8f07aa8c19dcc5b0f310961a7476081e6e9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "3165110": {
+    "name": "fall platform",
+    "steam_appid": 3165110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fall Platform是一款益智游戏，玩家需要尽可能地攀爬，直到到达顶部而不掉落，无法保存，该游戏的目标是成为Steam市场上最难的游戏。传说，成功完成游戏的人智商将在120到200之间。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 芬兰语, 日语, 挪威语, 葡萄牙语 - 葡萄牙, 俄语, 瑞典语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165110/header.jpg?t=1730133774",
+    "developers": [
+      "ILEPOIRE"
+    ],
+    "publishers": [
+      "ILEPOIRE"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 51,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

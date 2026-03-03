@@ -1,0 +1,62 @@
+{
+  "3279750": {
+    "name": "PuzzNyanQuest",
+    "steam_appid": 3279750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >&quot;PuzzNyanQuest&quot; is a new 2D stage clear puzzle game. A total of 60 stages are waiting for your challenge. Nostalgic 2D pixel art, simple gameplay of matching keys to keyholes of the same color. Solve the puzzle and bring peace back to the kingdom.</p>",
+    "supported_languages": "英语, 日语, 法语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279750/3f7188960b4960f74bb825a1d90bd8dfb4f272ce/header.jpg?t=1746446145",
+    "developers": [
+      "RockGame"
+    ],
+    "publishers": [
+      "RockGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 4 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

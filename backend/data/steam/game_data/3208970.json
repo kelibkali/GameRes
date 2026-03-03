@@ -1,0 +1,82 @@
+{
+  "3208970": {
+    "name": "新领地",
+    "steam_appid": 3208970,
+    "required_age": 0,
+    "is_free": false,
+    "description": "你将作为一名刚刚受封的骑士管理你的领地，皇帝会每年评估你的发展状况来提升你的地位。<br />\r\n游戏是和平向游戏，只有土匪和野兽的骚扰，没有敌对/竞争势力，可以安心种田。<br />\r\n住房与人口：拥有足够的住房空间才会有人口出生和迁徙。<br />\r\n生产与劳动力：只有成年人才会参与劳动，劳动力不足生产效率会下降<br />\r\n军队和士兵：招募士兵是从成年人中招募，劳动力也会相应减少。<br />\r\n土匪和野兽：土匪和野兽会袭击你的生产建筑，干扰生产，你可以派遣队伍击败土匪/野兽。<br />\r\n遗迹：地图上偶尔会出现遗迹，派遣你的队伍去探索来获得奖励。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208970/header_schinese.jpg?t=1727668587",
+    "developers": [
+      "SHIXIXI"
+    ],
+    "publishers": [
+      "SHIXIXI"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Baron",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3208970/852016722b58bc5b1a40ce5de77464497d0fe4c0.jpg"
+        },
+        {
+          "name": "Viscount",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3208970/03ebd811282f6c626c871583e6e606bd6766645d.jpg"
+        },
+        {
+          "name": "Earl",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3208970/fc3a0cc18eea1d4fc51ff99ae7890dbad8011cd0.jpg"
+        },
+        {
+          "name": "Marquess",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3208970/896d84d0c9e95b47fc3d570aea5c745c8051fab2.jpg"
+        },
+        {
+          "name": "Duke",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3208970/c16e3c7866ab2ee4e2f0d405ad6394aecd84ceed.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

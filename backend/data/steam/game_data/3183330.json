@@ -1,0 +1,110 @@
+{
+  "3183330": {
+    "name": "Deep Sea Arena",
+    "steam_appid": 3183330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Deep Sea Arena</strong></p><p class=\"bb_paragraph\" >Dive into Deep Sea Arena, an intense underwater arena shooter where deadly creatures emerge from the abyss. Battle relentless waves of deep-sea horrors, dodge ambushes, and fight to stay alive. How long can you survive the depths?<br><br><strong>Fast-Paced Arena Shooter:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Ever-Descending Platform:</strong> Your battleground continuously sinks into the ocean depths, ramping up tension as you go.</p></li><li><p class=\"bb_paragraph\" ><strong>Depth-Based Highscores:</strong> The deeper you manage to survive, the higher your score.</p></li><li><p class=\"bb_paragraph\" ><strong>Escalating Difficulty:</strong> Face increasingly dangerous waves of enemies as pressure, darkness, and limited space intensify.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Constant Action:</strong> Quick reflexes and strategic movement are key—there’s no safe corner in this relentless descent.</p></li><li><p class=\"bb_paragraph\" ><strong>Diverse Enemies:</strong> Encounter a variety of <strong>deep-sea creatures</strong>, each with unique attack patterns.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183330/extras/0af97d07f57e09280cce8498a47b4169.avif?t=1767545648\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183330/extras_big/0af97d07f57e09280cce8498a47b4169.avif?t=1767545648 width=800 height=450 /></span></p></li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 荷兰语, 日语, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 繁体中文, 土耳其语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183330/header.jpg?t=1767545648",
+    "developers": [
+      "Aethvion"
+    ],
+    "publishers": [
+      "Aethvion"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 5 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 22,
+      "highlighted": [
+        {
+          "name": "Reached Surface",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/725913633a86d934fdd0164d30d9c9dd8c56f78a.jpg"
+        },
+        {
+          "name": "Reached Twighlight Zone",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/04bec34f65935ed4af5e0a459c4362570d09ff38.jpg"
+        },
+        {
+          "name": "Reached Mesopelagic Zone - Midnight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/c891f66c396cff101c09bc9178c500467c271526.jpg"
+        },
+        {
+          "name": "Reached Mesopelagic Zone - Abyssal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/8a7d27e97ec4f3babac51644f3720689169d6410.jpg"
+        },
+        {
+          "name": "Reached Batypelagic Zone - Abyssal Plains",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/8c14a70c2d9aca57da74a19932f5507e0ed76ee1.jpg"
+        },
+        {
+          "name": "Reached Batypelagic Zone - Deep Abysal",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/e396e20204418c215bb560850e9ac2a031aca40e.jpg"
+        },
+        {
+          "name": "Reached Abyssopelagic Zone - Hadal Zone Entrance",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/8eca28c8edb04b476e3e24f544b4401a014725c8.jpg"
+        },
+        {
+          "name": "Reached Abyssopelagic Zone - Trenches",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/23a69672a2a87b8df8822169731aef4232f137d1.jpg"
+        },
+        {
+          "name": "Reached Hadopelagic Zone - Trench Depths",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/1a0386f00bcd07147bbf90ee3c6b165f5fe4f35a.jpg"
+        },
+        {
+          "name": "Reached Challenger Deep",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3183330/25fe56849695f359de9a6be379f01db7af4b58d6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "3130800": {
+    "name": "Find My Frogs",
+    "steam_appid": 3130800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《尋找青蛙》是一款舒適的隱藏物件遊戲，讓您在一個安靜的手繪村莊尋找青蛙和蟾蜍。探索迷人的景點、揭開秘密，並協助蛙伯伯召集大家拍全家福。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >  🗺️ 探索手绘风格的苔藓幽谷</p><p class=\"bb_paragraph\" > 🐸 寻找 350+ 只青蛙和蟾蜍</p><p class=\"bb_paragraph\" > 🔍 发现 60+ 个隐藏的秘密</p><p class=\"bb_paragraph\" > 🌙 选择白天或黑夜模式，或让时间自然流动</p><p class=\"bb_paragraph\" > ✨ 在舒缓的氛围中放松</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >通过宁静的动画和声音、舒缓的音乐和有趣的互动（如帮助小青蛙摘草莓），《寻找青蛙》为您提供一段温馨治愈的时光。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>《寻找青蛙》是由两位艺术家倾心打造的独立作品。</i></p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 阿拉伯语<strong>*</strong>, 保加利亚语<strong>*</strong>, 繁体中文<strong>*</strong>, 简体中文<strong>*</strong>, 捷克语<strong>*</strong>, 丹麦语<strong>*</strong>, 芬兰语<strong>*</strong>, 希腊语<strong>*</strong>, 荷兰语<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 挪威语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 瑞典语<strong>*</strong>, 泰语<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 匈牙利语<strong>*</strong>, 西班牙语 - 拉丁美洲<strong>*</strong>, 印度尼西亚语<strong>*</strong>, 越南语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130800/8ebb146d7aaaf76b8b22fd2e92ed6d37b2d90c9b/header.jpg?t=1763119048",
+    "developers": [
+      "My Eye Studio"
+    ],
+    "publishers": [
+      "My Eye Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 7 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 66,
+        "description": "可选颜色"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Moss Glade",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/79837cce6bb7fd2ea7a139bbb4fae52a22878395.jpg"
+        },
+        {
+          "name": "Hazelnut House",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/5769231fdb59436f31a76d3fdd0efe2f3742e948.jpg"
+        },
+        {
+          "name": "Pantry",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/70947e848db82b0dd998560454dcd2fe024bf980.jpg"
+        },
+        {
+          "name": "Garden House",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/414b2c3ecc0c9012ea6359a019628b1f370f6423.jpg"
+        },
+        {
+          "name": "Music Studio",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/41e2a09c8bd4320397ff71b6eb7bbd76b4374d93.jpg"
+        },
+        {
+          "name": "Potion House",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/ce776ec2efcf7aeac5130c68d69e2745d56446ca.jpg"
+        },
+        {
+          "name": "Atelier",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/2bc01a71d2b4007e0c6706dbf51d13288457a8ec.jpg"
+        },
+        {
+          "name": "Camera Ready!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/060c31d344ab580990bd8d7ffa2da950ec64a2d2.jpg"
+        },
+        {
+          "name": "Strawberry Lover",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/11c76a96bb6576e7eb09137b0f9daa35539b9b9f.jpg"
+        },
+        {
+          "name": "Bugs and Worms",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3130800/5fcf958740709249a9576272128b1b8a8d387174.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 6,
+      "total_negative": 0,
+      "total_reviews": 6
+    },
+    "type": "game"
+  }
+}

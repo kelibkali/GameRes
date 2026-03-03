@@ -1,0 +1,66 @@
+{
+  "3153080": {
+    "name": "SAMURAI",
+    "steam_appid": 3153080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个第三人称动作游戏，在游戏中你将扮演一位武士，面对强大的敌人，你的技巧和反应将会得到考验。<h2 class=\"bb_tag\" >玩法介绍：</h2><br>      你将操控一位武士，进行闯关并击杀敌人，或者在特定地图里击杀敌人，升级变得更加强大，当然也可以在试炼中生存的更久来证明自己。<h2 class=\"bb_tag\" >操作介绍：</h2><br>      游戏操作简单易懂，没有复杂的键位，除了基础的WASD移动和鼠标轴视觉，还有以下操作键位（此为初次运行默认键位，可以在游戏中更改）：<br>              轻攻击——鼠标左键<br>              派生攻击/格挡——鼠标右键<br>              上挑攻击——键盘Q键<br>              跳跃/闪避——键盘空格<br>              视野距离——键盘C键<br>       同时角色操作也支持手柄输入（注：游戏开发时期采用xbox360手柄调试，因为我只有这一个游戏手柄）；<br><br>       派生攻击可以在轻攻击以后一定时间内触发，派生攻击有单点式攻击，也有按住无限连打，玩家可以按照自己的想法创造连击；<br>       玩家闲置状态下无法进行派生攻击，而是触发格挡状态，格挡可以有效的抵消敌人造成的伤害，并同时向后跳跃攻击;<br>       上挑攻击可以在跳跃攻击的同时将敌人击飞，然后输入轻攻击或者派生攻击后可以追加伤害;<br>       玩家闲置状态或者移动状态下跳跃可以让玩家移动到高处，在空中再次按下跳跃可以实现二连跳;<br>       玩家攻击状态下按下跳跃键可以进行向后移动的闪避动作，之后可以输入轻功击向前突进，或是输入派生攻击向后进行跳跃攻击，闪避动作没有冷却时间，可以无限次使用，也可以在任何情况下使用，当然挨揍时和死了是不行的~<h2 class=\"bb_tag\" >游戏地图</h2><br>      游戏共用6个地图，4个闯关地图，1个可以成长的RPG地图，1个无限循环的试炼地图。闯关地图通关后有几率获得武器和角色皮肤；成长的RPG地图boss也有几率获得一个专属武器皮肤和专属角色皮肤；试炼地图则可以无限循环直到死亡，最好的成绩将会显示在游戏主界面上。",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153080/header_schinese.jpg?t=1725164139",
+    "developers": [
+      "-D-BUG-"
+    ],
+    "publishers": [
+      "-D-BUG-"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

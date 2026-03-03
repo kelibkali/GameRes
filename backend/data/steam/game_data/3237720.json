@@ -1,0 +1,82 @@
+{
+  "3237720": {
+    "name": "Zuido",
+    "steam_appid": 3237720,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >[Zuido] - 建在地下的人工通道，是一条隧道或墓道（通往坟墓的道路）。</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >这是一款恐怖行走模拟器，只能带你穿过隧道。</p><h2 class=\"bb_tag\" >简介</h2><p class=\"bb_paragraph\" >你去隧道拍摄鬼魂视频、</p><p class=\"bb_paragraph\" >越往深处走，回荡的怪声就越多。</p><p class=\"bb_paragraph\" >通过摄像机，你捕捉到了一个阴森恐怖的身影。</p><h2 class=\"bb_tag\" >持续时间</h2><p class=\"bb_paragraph\" >15 - 20 分钟。</p><h2 class=\"bb_tag\" >号外（Zuido8）</h2><p class=\"bb_paragraph\" >您必须设法逃出无尽的隧道。</p><p class=\"bb_paragraph\" >1. 不要错过任何异常点</p><p class=\"bb_paragraph\" >2. 如果发现异常，向右走。</p><p class=\"bb_paragraph\" >3. 如果没有发现任何异常点，则向左走。</p><p class=\"bb_paragraph\" >4. 安全离开 8 号隧道。</p><p class=\"bb_paragraph\" >一旦发现异常，除非全部发现，否则不会再次出现。</p><h2 class=\"bb_tag\" >关于视频传播</h2><p class=\"bb_paragraph\" >未经许可，任何个人或公司均可传播视频。</p><p class=\"bb_paragraph\" >只有在使用视频发布网站提供的功能时，才有可能实现货币化。</p><p class=\"bb_paragraph\" >如果您能在视频标题和发布内容中注明游戏名称，并在摘要部分提供指向 Steam 页面的链接，我们将不胜感激。</p>",
+    "supported_languages": "英语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237720/header.jpg?t=1742482859",
+    "developers": [
+      "BitRockGames"
+    ],
+    "publishers": [
+      "BitRockGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "摄影",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3237720/000a068893ba73115bd61a06ea200c866af6e611.jpg"
+        },
+        {
+          "name": "脱身",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3237720/b8c5dada099eb36da6f0e604d817424cd868cfa1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

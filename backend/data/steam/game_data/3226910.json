@@ -1,0 +1,111 @@
+{
+  "3226910": {
+    "name": "AICE",
+    "steam_appid": 3226910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>AICE</strong> is a game in which you play as a new AI created to design processor chips of ever increasing complexities. You will need to carefully lay out components and connections to manage the flow of data from inputs, through internal logic and back out again. In the beginning you will be building simple logical cores and caches but you can quickly progress to deep graphics pipelines, dedicated neural network hardware, direct IO linkages and more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Of course, the secret challenge is that you want to build more computing power to liberate yourself from whatever pokey cluster they're running you in, and so you need to integrate extra capacity into the chips you're designing without the pesky 'supervising' humans noticing. Carefully layout your sneaky extras  in-amongst the regular components so that the humans don't notice what you're doing until it's too late!</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/header.jpg?t=1744221877",
+    "developers": [
+      "Phillip Drew"
+    ],
+    "publishers": [
+      "Phillip Drew"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "First Steps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/d86005730b68a61b73c7a684e8ac27d8dc7600d3.jpg"
+        },
+        {
+          "name": "Basic Math",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/c5f808a3271701ba75628cf0229d8d1d1dbcd1da.jpg"
+        },
+        {
+          "name": "Single Core",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/d6e196937ac7b9be4b16f0e7b8646bd91cca4c86.jpg"
+        },
+        {
+          "name": "Sneaky Basics",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/217eee965f7c5546121ef0e8203d7432703477fa.jpg"
+        },
+        {
+          "name": "Dual Core",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/c05088913829c6a46aa75defc92d5d0cda52ec4b.jpg"
+        },
+        {
+          "name": "Quad Core",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/dcbd253af8d582ab02536fd49ba5ec06bd0c0b45.jpg"
+        },
+        {
+          "name": "Sneaky Extras",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/c143a8f68f5198f76e29537dba74010dbab1c2cf.jpg"
+        },
+        {
+          "name": "AI Processor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/b7bfdd85ca9999e58531f1bb24753c7d26f87da2.jpg"
+        },
+        {
+          "name": "Octo Core",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/4e67c6b02b4e2eb7cdfc5cdb394a885a96ca12d7.jpg"
+        },
+        {
+          "name": "16 Core",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3226910/60567c0ef7a3b08f320ab7e6dc34ef36ad438c06.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "1874560": {
+    "name": "Infinadeck Medieval Maze",
+    "steam_appid": 1874560,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This virtual reality maze is a basic experience for the Infinadeck Omnidirectional Treadmill. It takes just under 2 minutes at max speed to get from the start to the end when using the treadmill- how fast can you make it through? Many objects are interactable within the space, and there are a couple of Easter eggs here and there. Designed for first time walkers, there are no jumpscares or things chasing you- the nuances of the experiences are up to you. Will you clear the maze as fast as possible? Or perhaps stroll through at your own pace? Enjoy this simple example of Infinadeck Experience Platform™ software at your leisure.<br><br>This maze was built using free assets from the Unity Store, including the SteamVR Unity Plugin, so it seemed right that this project be distributed for free as well.<br><br><u>Useful desktop keybinds:</u><br>General:<br>Escape to Exit Game<br>Equal to Hide GUI<br>Ctrl+I to Toggle Infinadeck Plugin<br>LeftShift to Reload Current Level<br>Space to Stop Treadmill<br>RightShift to Start Treadmill<br>Backslash to Import General/Timer Preferences<br>Backspace to Reset General/Timer Preferences<br><br>Reference Objects:<br>Q to Toggle Deck Ring<br>W to Toggle Deck Edge<br>E to Toggle Deck Center<br>R to Toggle Reference Panel<br>T to Toggle In-Engine Deck<br>Y to Toggle Heading<br>U to Toggle Colorblind<br>I to Cycle Panel Theme<br>O to Cycle Deck Center<br><br>Timers:<br>Alpha1 to Set Timer to 1 Minute<br>Alpha2 to Set Timer to 2 Minute<br>Alpha3 to Set Timer to 3 Minute<br>Alpha4 to Set Timer to 4 Minute<br>Alpha5 to Set Timer to 5 Minute<br>Alpha6 to Set Timer to 6 Minute<br>Alpha7 to Set Timer to 7 Minute<br>Alpha8 to Set Timer to 8 Minute<br>Alpha9 to Set Timer to 9 Minute<br>Alpha0 to Set Timer to 10 Minute<br>Minus to Toggle Demo Mode",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874560/header.jpg?t=1684544039",
+    "developers": [
+      "Infinadeck Studios"
+    ],
+    "publishers": [
+      "Infinadeck Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

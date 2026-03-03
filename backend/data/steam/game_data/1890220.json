@@ -1,0 +1,70 @@
+{
+  "1890220": {
+    "name": "Figmin XR",
+    "steam_appid": 1890220,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >🏆 Mixed Reality App of the Year 🏆 - UploadVR 2024</p><p class=\"bb_paragraph\" >Due to popular demand Figmin XR is coming to Steam with support for VR, Windowed mode, Steam Deck* (see instructions below) and Tilt Five glasses.</p><p class=\"bb_paragraph\" >Figmin XR is a fun spatial computing application that lets you easily create, collect &amp; play in mixed reality*. With an intuitive interface and multiplayer, anything you imagine can come to life!</p><p class=\"bb_paragraph\" >Decorate your room with stunning 3D models, create physics games and immersive educational experiences, produce awesome videos for social media or develop compelling marketing content, dive into storytelling, art, and visualization projects, or make anything you can imagine. Share your creations using our Mobile Companion App.<br><br>Now with full scripting support!  <br> </p><p class=\"bb_paragraph\" >**Built-In Tools:**</p><p class=\"bb_paragraph\" >🎨 3D Sketching: Powered by Tilt Brush!</p><p class=\"bb_paragraph\" >🌐 Web Browser Integration: Extract images and models to view in 3D space and create web apps.</p><p class=\"bb_paragraph\" >🎥 Search and Import: Add 3D models, animated GIFs, and videos to your projects.</p><p class=\"bb_paragraph\" >✍️ 3D Text Editor: Design and display text in your virtual world.</p><p class=\"bb_paragraph\" >🎮 Physics Editor: Bring your creations to life with real-world physics.</p><p class=\"bb_paragraph\" >🎥 Motion Editor: Animate objects simply by moving them around.</p><p class=\"bb_paragraph\" >💡 Lighting Editor: Illuminate the real world with advanced lighting controls.</p><p class=\"bb_paragraph\" >🤖 Full scripting support: Add interactivity to your scenes or create full blown spatial computing apps.</p><p class=\"bb_paragraph\" >🌟 Voxel Editor &amp; Voxelizer: Create and transform 2D and 3D models into editable voxels (VR &amp; T5 only).</p><p class=\"bb_paragraph\" >🌍 Content Discovery: Explore Figmin XR’s user-generated content and publish your own.</p><p class=\"bb_paragraph\" >** Supported Formats for Web Content Extraction **</p><p class=\"bb_paragraph\" >- Images: PNG, JPG, GIF, WebP</p><p class=\"bb_paragraph\" >- 3D Models: GLB (GLTF binary)<br><br>** <strong>Steam Deck </strong>instructions <strong>**</strong></p><p class=\"bb_paragraph\" >1) Load the official button layout found in community layouts<br>2) Under launch options type: PROTON_SET_GAME_DRIVE=1 %command%<br><br>*Mixed Reality is only supported on Tilt Five AR glasses</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1890220/header.jpg?t=1764701196",
+    "developers": [
+      "Overlay"
+    ],
+    "publishers": [
+      "Overlay"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

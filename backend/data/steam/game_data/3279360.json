@@ -1,0 +1,134 @@
+{
+  "3279360": {
+    "name": "Code Trainer",
+    "steam_appid": 3279360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Code Trainer</strong> is a coding practice tool for people that already know how to code. Solve problems, complete quizzes, and refresh your understanding about common computer science topics.</p><p class=\"bb_paragraph\" ><strong>THIS GAME WILL NOT TEACH YOU HOW TO CODE</strong></p><h2 class=\"bb_tag\" ><strong>Code</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>100 problems</strong> of varying difficulty</p></li><li><p class=\"bb_paragraph\" >Supports <strong>C#, Java, JavaScript, </strong>and <strong>Python</strong></p></li><li><p class=\"bb_paragraph\" >No Internet connection required</p></li></ul><p class=\"bb_paragraph\" ><i>Note: There is no auto-complete or error highlighting in the code editor. It's just you and the code.</i></p><h2 class=\"bb_tag\" >Quiz</h2><p class=\"bb_paragraph\" >Been a while since you've brushed up on the basics? Engage in different quizzes to make sure you have well-rounded knowledge of various computer science topics. Use these to identify what your weaknesses are. Don't know the answer? Great! That means it's an opportunity to learn.</p><h2 class=\"bb_tag\" >Learn</h2><p class=\"bb_paragraph\" >Review concise courses about Data Structures, Algorithms, and more with interactive features to solidify your conceptual understanding. This is not &quot;Learn everything about coding from scratch&quot;.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3279360/header.jpg?t=1754520065",
+    "developers": [
+      "Erickson Software"
+    ],
+    "publishers": [
+      "Erickson Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "56",
+        "description": "软件培训"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": {
+      "total": 15,
+      "highlighted": [
+        {
+          "name": "Python",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "C#",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "Java",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "JavaScript",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "count = 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "count = 25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "count = 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "Complete Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "Complete Easy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        },
+        {
+          "name": "Complete Medium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3279360/9cf9b9deca4d3c032544330e4aeba6e65be4ccdd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

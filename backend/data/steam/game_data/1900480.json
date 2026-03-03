@@ -1,0 +1,71 @@
+{
+  "1900480": {
+    "name": "Vonbit",
+    "steam_appid": 1900480,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Vonbit is a simple 2D arcade shooter where you aim to get the highest score by shooting down moving enemies while avoiding their projectiles. It features low-resolution one-bit graphics and a low frame rate - all of which add to the retro experience!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900480/header.jpg?t=1648734340",
+    "developers": [
+      "Chris Boyfield"
+    ],
+    "publishers": [
+      "Chris Boyfield"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Strategist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1900480/a538940c7fb4a42b0e15c923ba11b7439de27674.jpg"
+        },
+        {
+          "name": "Decimator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1900480/c89570ba126a1ce88ace3f7309956ea78c83a232.jpg"
+        },
+        {
+          "name": "Interceptor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1900480/5b3405d2f94de22e582ec340c411155e51680237.jpg"
+        },
+        {
+          "name": "Voyager",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1900480/a501b1a74c77142870c8dd6110ff066e2554cca1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

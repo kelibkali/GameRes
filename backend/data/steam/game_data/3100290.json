@@ -1,0 +1,76 @@
+{
+  "3100290": {
+    "name": "KRING - C64 SCRAPBOOKS",
+    "steam_appid": 3100290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "探索史上最著名的意大利电子游戏的幕后开发过程。前所未见的笔记本，其中的公式、笔记、草图和噱头讲述了游戏背后的创作过程。",
+    "supported_languages": "英语<strong>*</strong>, 意大利语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100290/header.jpg?t=1723129902",
+    "developers": [
+      "IV Productions"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 675,
+      "discount_percent": 55,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 6.75"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

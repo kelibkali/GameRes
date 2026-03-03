@@ -1,0 +1,86 @@
+{
+  "1853470": {
+    "name": "eSail Pro",
+    "steam_appid": 1853470,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The <strong>eSail Pro</strong> Add-On features advanced sailing instruments, mooring sandbox, mooring under sail and more...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >NOTE: eSail Pro is currently only available in English.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >  A 15 gallon refillable fuel tank. Filling is via a pump at Port Fogarty in the South of Shearwater island. </p></li><li><p class=\"bb_paragraph\" >  Rev counter, fuel gauge and barometer (V3)</p></li><li><p class=\"bb_paragraph\" >  Advanced wind indicator showing apparent and true wind direction and speed. </p></li><li><p class=\"bb_paragraph\" >  Mooring Sandbox which enables you to practise and save a mooring scenario. Like the standard Sandbox you can modify wind direction and speed.</p></li><li><p class=\"bb_paragraph\" >  Advanced autopilot enabling precise control and modification of your bearing.  <br>- The autopilot can also be set to maintain your angle to the wind. This is very useful in race situations as well as general sailing. For instance, once you have set your trim for a certain angle to the wind, after tacking you can quickly set your boat onto the exact bearing to work with your trim.<br>- True and apparent wind modes. Selecting true wind mode will give the autopilot better stability when running downwind.</p></li><li><p class=\"bb_paragraph\" >  The ability to change your shore mooring cleat, ideal for tight mooring situations and springing off the dock.</p></li><li><p class=\"bb_paragraph\" >  Mooring using just the central boat cleat.</p></li><li><p class=\"bb_paragraph\" >  The ability to moor under sail. (It is also possible to now leave a jetty under sail). These techniques are very useful if you are unfortunate enough to run out of fuel - something that is possible with eSail Pro!</p></li><li><p class=\"bb_paragraph\" >  Tutorials covering 'Springing Off the Dock' &amp; eSail Pro features.</p></li><li><p class=\"bb_paragraph\" >New tutorials in V3: Tidal Heights Introduction, Tidal Heights - passing under an obstruction.</p></li><li><p class=\"bb_paragraph\" >Interactive tidal curve tool (V3).</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 荷兰语<strong>*</strong>, 希腊语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853470/header.jpg?t=1768490555",
+    "developers": [
+      "eSail"
+    ],
+    "publishers": [
+      "eSail Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4600,
+      "final": 4600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 46.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

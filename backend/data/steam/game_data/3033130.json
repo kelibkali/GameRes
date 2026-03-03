@@ -1,0 +1,110 @@
+{
+  "3033130": {
+    "name": "速算",
+    "steam_appid": 3033130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《速算》是一款基于数学四则运算制作的游戏，考验玩家的反应速度和快速逆向数学四则运算的能力，在游戏的过程中感受数学运算的魅力。</p><h2 class=\"bb_tag\" ><strong>创建游戏的初衷</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >灵感来自于小时候的数学口算训练 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >制作一款具有教育意义的游戏 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >希望玩家能通过游玩《速算》提升一定的数学基础计算水平，并锻炼大脑的思维能力。</p></li></ul><h2 class=\"bb_tag\" ><strong>游戏特色</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >随机生成的数字谜题：每一次游戏都是一个全新的挑战，带给你无限的挑战乐趣。 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >具有策略性的内容：每个谜题可以用不同的运算解答，不同的运算有不同的分数，合理选择运算来获得更高的分数。 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >可升级的道具：进行游戏可以升级游戏内的道具，来降低游戏的难度。 </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >手绘美术风格：适合全年龄段人员游玩。 </p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033130/header.jpg?t=1743344959",
+    "developers": [
+      "MistGame"
+    ],
+    "publishers": [
+      "MistGame"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "更多的星辰",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/537c56196af072f82538dede4d8fa91f683a7903.jpg"
+        },
+        {
+          "name": "强力路障",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/cd621e99d157c11c4a474bae1b495aa4f3468558.jpg"
+        },
+        {
+          "name": "超长红灯",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/4b9258573d3dfddc0d02f47d4baa5965dff33a35.jpg"
+        },
+        {
+          "name": "连续减速带",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/32515a2d43cf43543a003fb325b50525c1472189.jpg"
+        },
+        {
+          "name": "加法大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/55676e6fd2be05968a65a3730e1d13f4252e4278.jpg"
+        },
+        {
+          "name": "减法大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/426408625048313a1cd6837bb006d6460ea657b8.jpg"
+        },
+        {
+          "name": "乘法大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/63ae64ffdd2d3fdc6f1572439a025e76590fdc0f.jpg"
+        },
+        {
+          "name": "除法大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/353f6a976b08c84946faabde64279c47692f764f.jpg"
+        },
+        {
+          "name": "小试牛刀",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/3dc1a3de0ac992df4dd8093b26b13b90b9732ab3.jpg"
+        },
+        {
+          "name": "速算精通",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033130/6e33eea70d6668347cb3a1e365a26acdc99d8107.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

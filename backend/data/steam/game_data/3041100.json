@@ -1,0 +1,110 @@
+{
+  "3041100": {
+    "name": "日本将棋",
+    "steam_appid": 3041100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "🌟 探索应用商店中的顶级将棋应用！<br />\r\n<br />\r\n深入日本的策略棋盘游戏——将棋的世界。被誉为“日本国际象棋”的这款游戏在每一步中都融合了丰富的传统和故事。将棋不仅仅是一个游戏，它是日本文化遗产的一部分。<br />\r\n<br />\r\n将棋的独特之处在于，玩家可以将捕获的棋子返回棋盘。这一独特规则使得游戏更加富有吸引力。<br />\r\n<br />\r\n据专业玩家Yoshiharu Habu所说，在日本，将棋不仅仅是娱乐。它被视为一门艺术，与俳句、短歌、能、插花以及日本茶道齐名，具有深厚的文化意义。<br />\r\n<br />\r\n🎖 主要特点：<br />\r\n<br />\r\n🔄 悔棋功能：自由规划您的策略！<br />\r\n💼 保存/加载未完成的游戏：随时随地继续对局。<br />\r\n🔢 5个难度等级：适合初学者和高手。<br />\r\n⏳ 计时模式：与时间竞赛，看谁更胜一筹！<br />\r\n🎨 自定义棋盘编辑器：创造属于你的风格。<br />\r\n🔊 自定义音效：为您的游戏体验增添更多趣味。<br />\r\n🎲 支持多种棋子和棋盘：包括西方化的棋子以及多种棋子和棋盘组合。<br />\r\n探索策略、艺术和传统的完美结合。现在就开始您的游戏旅程吧！",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 印度尼西亚语, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 泰语, 土耳其语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041100/header.jpg?t=1767417143",
+    "developers": [
+      "Popoko VM Games"
+    ],
+    "publishers": [
+      "Popoko VM Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Level 1 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/64d35fd2473288755a64722ad9fe4d4e519c3290.jpg"
+        },
+        {
+          "name": "Level 2 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/a139233d5cf699159db99229717ba56a56982a4b.jpg"
+        },
+        {
+          "name": "Level 3 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/fb06725b36edaf168306aa70651550b96ecbeb79.jpg"
+        },
+        {
+          "name": "Level 4 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/899506bae9dbefed906b16605cb94aa91f5d9a49.jpg"
+        },
+        {
+          "name": "Level 5 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/0d724bbf66bc9f1fdd6a68c9334017ae90d3bc8b.jpg"
+        },
+        {
+          "name": "Level 6 AI Victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041100/eacb65a76d06e9a272fafa26724031077fff115b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "3151530": {
+    "name": "ChessRogue",
+    "steam_appid": 3151530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>ChessRogue</strong> is a chess themed strategic roguelike, where you hire a party of pieces to traverse through the dungeons of increasing complexity. The goal of each level is to either capture the enemy king, or traverse down the staircase. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Featuring</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Online leaderboards! </strong>All scores are tracked and automatically submitted to the leaderboards. There are three separate boards, one for White and Black mode, and one for overall XP, which is gained from capturing pieces and traversing through levels.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fast AI</strong> for a fast paced experience The AI will respond almost instantaneously to your moves!</p></li><li><p class=\"bb_paragraph\" ><strong>Two distinct game modes</strong> with varying difficulties, White and Black. White being more difficult, due to perma-death for all pieces, and black being easier due to piece persistence through out the dungeons.</p></li><li><p class=\"bb_paragraph\" ><strong>15 different piece types!</strong> Explore the history of chess and its modifications with historical pieces that have been relegated to history, and special combination pieces that dominate the board. Unlock new pieces as you continue to play.</p></li><li><p class=\"bb_paragraph\" ><strong>Grow your army!</strong> In Black Player Mode, every three levels you are given the option of three random pieces to add to your roster. In White Player Mode, after each level you are given the option to purchase and sell pieces based on gold collected by defeating pieces.</p></li><li><p class=\"bb_paragraph\" ><strong>Randomized chess dungeons!</strong> As you delve further and further into the dungeon, the complexity of the dungeon and the roster of enemy pieces will gradually increase in difficulty!</p></li><li><p class=\"bb_paragraph\" ><strong>Continued updates!</strong> ChessRogue is still in early access with many future updates planned, such as controller and better SteamDeck (ChessRogue already runs on Steamdeck, but better controls will be implemented) support!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151530/header.jpg?t=1753590593",
+    "developers": [
+      "Quadracollision"
+    ],
+    "publishers": [
+      "Quadracollision"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

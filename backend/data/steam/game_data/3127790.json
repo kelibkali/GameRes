@@ -1,0 +1,82 @@
+{
+  "3127790": {
+    "name": "Hopeless Sea Demo",
+    "steam_appid": 3127790,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >《无望之海》试玩版将用前三关和第一个boss来展示本作的玩法和核心机制。</p>",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3127790/header_schinese.jpg?t=1747583358",
+    "developers": [
+      "Potato Cat"
+    ],
+    "publishers": [
+      "Potato Cat"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "demo通关了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/f656bcae4a82cde9a6329ea651e50a47830a403a.jpg"
+        },
+        {
+          "name": "首次负伤",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/3a2ce235dfaa356f15fd69e5a8e6dcafff942e61.jpg"
+        },
+        {
+          "name": "欢迎来到《无望之海》",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/dbf4ca8eae804bbecbbabd87a785d42b4df5a097.jpg"
+        },
+        {
+          "name": "麻雀虽小",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/0cac5cb9aa62c91945209023cd756444b4e75df2.jpg"
+        },
+        {
+          "name": "水下魅影",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/34ea23a7f95f1f8bc333619dacef4c72b529d812.jpg"
+        },
+        {
+          "name": "胜败乃兵家常事",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/7a5cad7133918452b49d8a9a23449a16bb472202.jpg"
+        },
+        {
+          "name": "建造船",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3127790/010826f55a1a3e5f86b39da3e64313ed6e082eaa.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

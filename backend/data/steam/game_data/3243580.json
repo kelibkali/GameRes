@@ -1,0 +1,75 @@
+{
+  "3243580": {
+    "name": "RPG Maker MZ - Card Game Combat Deckbuilder Engine",
+    "steam_appid": 3243580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Card Game Combat is a suite of plugins that enables Roguelike Deck Builder gameplay. CGC converts an Actor's Skill List into a deck of Cards. Cards in an Actor's Deck can be added, removed and transformed using a variety of methods. When you enter a Battle, these Cards are drawn to your Hand and can be played using the Actor's resources. Multiple cards can be played this way until the player or a card effect ends the Actor’s turn.</p><p class=\"bb_paragraph\" >Make the Deckbuilder of your dreams today using Card Game Combat!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >●Tutorial Video Playlist</p><p class=\"bb_paragraph\" >Please see the link from “View the manual” on this page.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Current Features (Version 1.6.2):</p><p class=\"bb_paragraph\" >■ Converts default RPG Maker Combat to that of a Deckbuilder Card Game. Enables interactions between Deck, Hand, Discard and other Zones such as drawing, discarding, removing, shuffling etc.</p><p class=\"bb_paragraph\" >■ Build Cards using sequences of Passives and Actions in Skill Notetags. Use Conditionals, Loops and Selections to make interesting effects. Make Damage Formulas and Variables factor in values such as Deck Size, Hand Size, Discard Size, Card Type etc.</p><p class=\"bb_paragraph\" >■ Customize the visuals of Cards easily with Templates, Art, Fonts, Icons, and Descriptions. Give Cards their own custom audio as well using Notetags.</p><p class=\"bb_paragraph\" >■ Change how the Deckbuilder UI looks for Battles: Moving, scaling, rotating, or hiding various components. Add new card Zones and Buttons to the UI for additional functions you may want the player to have access to in Battle.</p><p class=\"bb_paragraph\" >■ Give each Actor in the party their own custom deck to determine their available actions, letting them enter the fray with a unique deck and playstyle. Equipment and States that each Actor has can add Cards to their deck as well.</p><p class=\"bb_paragraph\" >■ Includes two CGC expansion plugins:  Deck Editor for a TCG-style Decklist interface where you can pick and choose from a Collection what goes into a Deck and Card Shop for a customizable Shop interface for Cards.</p><p class=\"bb_paragraph\" >Included Plugins:</p><p class=\"bb_paragraph\" >■ MYTH_CGC_CoreEngine</p><p class=\"bb_paragraph\" >Core Engine used to convert Skills into Cards and the Battle System into that of a Deck Builder. Cards can have sequences of Passives and Actions to determine their effects. Also defines Zones like Deck, Hand, and Discard for Cards to move between. Can be used standalone.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_CardTypes</p><p class=\"bb_paragraph\" >Enables Cards to have Types which can be used for categorizing them in menus and for use in Damage Formulas and Card Actions. You can configure how Type Icons and Text will appear on Cards. You can set a default Base image for a Type so all Cards of that Type use that Base Image.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_Card Collection</p><p class=\"bb_paragraph\" >Allows you to display Cards on the Map via Plugin Command / Script Calls. These images can be moved, scaled and rotated just like the Picture command in RPG Maker. Useful for making Card Rewards, Booster Packs, Tutorial Popups and other events.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_EquipCards</p><p class=\"bb_paragraph\" >Allows you to add Cards to an Actor's Deck based on their equipped Items or when a State is applied to them. These Cards are removed when their corresponding equip Item or State is removed from the Actor.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_ActionPack1</p><p class=\"bb_paragraph\" >Adds new Card Actions which let you select subsets of Cards via a Selection Window and perform Actions using them. For example, selecting 3 Cards from your Deck to send to Discard or selecting 2 Cards from your Hand to make copies.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_HelpBoxControl</p><p class=\"bb_paragraph\" >Control the position and dimensions of the Battle Scene Help Window. Can be used with CGC to have the Help Window follow cards in the Hand as they are selected one by one. Also works with MYTH State Window Popup plugin to add text boxes to display any States the Skill may apply.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_BlockGenerate</p><p class=\"bb_paragraph\" >Allows you to have Skills which adds/removes the Block resource for Actors/Enemies. Damage to the Actor will remove Block first before reducing HP. You control what each Actor's Starting and Maximum Block values are and also denote what Damage Type is blocked by the State.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_DeckEditorCore</p><p class=\"bb_paragraph\" >Expansion plugin. Enhances the Library system which allows either individual Actors to have a collection of Cards or the entire party to share their collection of Cards. Adds a new Decklist system where Actors can create Decks using Cards in the collection and have an Actor equip it. Allows for adding restrictions to Decks such as Min/Max Deck Size and Max Copies of Cards.</p><p class=\"bb_paragraph\" >■ MYTH_CGC_CardShopCore</p><p class=\"bb_paragraph\" >Expansion plugin. Adds a new Shop scene used for Buying, Selling and Removing Cards from an Actor's Deck. Events can be set up with Notetags which when activated in game will create the Shop Scene that has an Inventory of Cards the players can buy. Prices for Cards can be set via Notetag or determined via formula. Booster Packs can also be created using this plugin and be stocked in Card Shops with different Card Pools and Weights to generate the packs.</p><p class=\"bb_paragraph\" >Other Assets:</p><p class=\"bb_paragraph\" >■ Demo Projects - Interactive Demo Project that contains all the information you need to use CGC. Contains templates for making Booster Packs, Removal and Transform functions, Card based Items and Equipment, a Roguelike dungeon and many other useful things.</p><p class=\"bb_paragraph\" >■ Blank Templates - Quick start a CGC project using these templates. All plugin parameters and image directories have been set up already.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >-----</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >・This pack is for use in RPG Maker Series or the engine of your choice.</p><p class=\"bb_paragraph\" >・OK to be used in Commercial projects made in RPG Maker</p><p class=\"bb_paragraph\" >・You may modify some of the assets (but not redistribute them) for your own game use only.</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243580/header.jpg?t=1734310369",
+    "developers": [
+      "MythAtelier, LLC",
+      "Gotcha Gotcha Games"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 15200,
+      "final": 15200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 152.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "dlc"
+  }
+}

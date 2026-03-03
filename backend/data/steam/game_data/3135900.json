@@ -1,0 +1,70 @@
+{
+  "3135900": {
+    "name": "幸存者的黎明",
+    "steam_appid": 3135900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《幸存者的黎明》是一款动作射击结合了肉鸽的游戏，游戏内会有100波怪物来袭，玩家需通过击杀怪物、拾取金币一次次选择奖励的物品或者装备让角色越变越强，冲破怪物的重重包围。<br />\r\n在游戏中，玩家唯一能做的就是全力作战，尽可能延长自己的生存时间，直到面对必然的死亡。每一轮的战斗都要收集金币和道具，用于购买强化，以协助下一位幸存者。<br />\r\n当前版本仅提供了埃琳娜作为可玩角色，未来我们将添加更多的英雄，每个英雄都将拥有不同的初始属性和技能，玩家可以使用金币来解锁他们。<br />\r\n此外，我们计划在未来版本中引入属性点和天赋点系统，甚至考虑加入生存建造元素。敬请期待游戏的更多精彩内容。",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 俄语<strong>*</strong>, 土耳其语<strong>*</strong>, 日语<strong>*</strong>, 简体中文<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135900/e3d5094c6710ffb71b33b936262973de328686f2/header.jpg?t=1755885507",
+    "developers": [
+      "Dog On God"
+    ],
+    "publishers": [
+      "Dog On God"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1200,
+      "discount_percent": 20,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

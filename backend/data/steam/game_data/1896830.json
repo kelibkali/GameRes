@@ -1,0 +1,79 @@
+{
+  "1896830": {
+    "name": "Pixel Game Maker MV - Cardgame Sample",
+    "steam_appid": 1896830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This is a sample project of a battle-type card game created with Pixel Game Maker MV. <br />\r\n<br />\r\nBasic Rules:<br />\r\n- Your unit is on the right and your enemy is the unit on the left<br />\r\n- The numbers on the unit represent stamina, attack points, and defense points.<br />\r\n- You can tell whether the enemy will attack or defend next by referring to the numbers on the enemy side.<br />\r\n- At the beginning of the game, you are dealt three cards.<br />\r\n- The sword card is for attack, and the shield card is for defense.<br />\r\n- You can choose any one of them and then you start the attack phase. <br />\r\n- The damage is the number of your opponent’s attack points minus your defense points. <br />\r\n- If the player and enemy are still alive, the next turn commences and a card is dealt.<br />\r\n- This continues until either you or your opponent’s stamina reaches zero.<br />\r\n- If your enemy’s stamina reaches zero before you, you win.<br />\r\n- If your stamina reaches zero before your opponent, or if all cards have been drawn, you lose. <br />\r\n- For more information on how to make and play the game, visit the tutorial section in Object.<br />\r\n<br />\r\nHow to play:<br />\r\nMouse<br />\r\n- Left click: Card Selection<br />\r\n<br />\r\nX-input compatible controller<br />\r\n- B button: Card Selection",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1896830/header.jpg?t=1655340179",
+    "developers": [
+      "PolytanQ",
+      "PLAYISM"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

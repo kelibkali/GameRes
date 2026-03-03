@@ -1,0 +1,95 @@
+{
+  "3148670": {
+    "name": "Coming From Above!",
+    "steam_appid": 3148670,
+    "required_age": 0,
+    "is_free": true,
+    "description": "They're &quot;Coming From Above!&quot; is a first-person perspective puzzle game.<br />\r\n<br />\r\nYou are playing the arcade game “Coming From Above!&quot; in the arcade game.<br />\r\nYou control the player and the falling blocks to achieve a high score.<br />\r\n<br />\r\n【Play time】<br />\r\nArcade Mode (Story Mode)<br />\r\n20 ~ 60 minutes<br />\r\n※Excluding EX stage.<br />\r\n<br />\r\n【BGM】<br />\r\nYou can change the BGM played during the game.<br />\r\nHidden BGM will be released by achieving achievements.<br />\r\n<br />\r\n【Rules】<br />\r\nSeven types of blocks fall from the top of the stage.<br />\r\nPlace the blocks on the stage by manipulating them. The first row of blocks in a row is erased.<br />\r\nIf two or more rows are erased at once, an item will appear.<br />\r\nKeep playing and aim for a high score.<br />\r\n<br />\r\nGame Over Conditions<br />\r\n・The player falls from the stage.<br />\r\n・The player falls off the stage or touches another block when it appears.<br />\r\n<br />\r\nList of items<br />\r\n・Super Shock<br />\r\nDrop all the floating blocks down until they hit the ground! Also, the dropped blocks don't disappear all at once, but are processed at the same time as the next block falls. Therefore, it is possible to erase four or more rows at once!<br />\r\n<br />\r\n・Color Chaser<br />\r\nEliminate the same type of blocks as the falling block. Earn 20 points x the number of blocks eliminated.<br />\r\n<br />\r\n・Pay Day<br />\r\nEarn 10 points x the number of blocks remaining in the current stage!<br />\r\n<br />\r\n・Level Down<br />\r\nDecrease the level! Blocks will fall slower. (Current level - 3) * 0.8 Round down to the nearest whole number.<br />\r\n<br />\r\n・Hyper Bomb<br />\r\nBlasts the 8 surrounding squares that the block touches. Earn 20 points for each block erased.<br />\r\n<br />\r\n・Easy Beat<br />\r\nIncreases the grace period for consecutive block clearing bonus judgment by 2. This effect lasts until the consecutive block clearing bonus ends.<br />\r\n<br />\r\n・Jump UP<br />\r\nWarps the player to the top.<br />\r\n<br />\r\n・Right To Right<br />\r\nMove all the blocks to the right.<br />\r\n<br />\r\n・Left To Left<br />\r\nMove all the blocks to the left.<br />\r\n<br />\r\n【Operating Instructions】<br />\r\n※There is no key configuration function.<br />\r\n※Mouse and keyboard operation only.<br />\r\n<br />\r\nWASD: Move the Player<br />\r\nSpace: Jump<br />\r\n<br />\r\nQ: Rotate Block Left<br />\r\nE: Rotate Block Right<br />\r\nC: Block Move Left<br />\r\nV: Block Move Right<br />\r\n<br />\r\nMouse: Move viewpoint<br />\r\nLeft click: Ground the block instantly<br />\r\nRight click: Hold block<br />\r\nT: Skip to Next Track<br />\r\n1 or 2: Switch Camera",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3148670/header.jpg?t=1725634646",
+    "developers": [
+      "KakeiA"
+    ],
+    "publishers": [
+      "KakeiA"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "END",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/8df6047faf1b073cc65ea70c0f0b03e9616fdb50.jpg"
+        },
+        {
+          "name": "EX END",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/de807d3b0fd2f1dc42b3b673e1fc547450527f8e.jpg"
+        },
+        {
+          "name": "8 BEAT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/7e478b7805b84e94da89587fa86c6098b627b265.jpg"
+        },
+        {
+          "name": "OVE 500",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/7fb5c294874176e9f35eaa6d3841a35f8f2c96fb.jpg"
+        },
+        {
+          "name": "GET 1000",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/c2ff06ba9ab252fffe39d6c1361567247f9c2a12.jpg"
+        },
+        {
+          "name": "300 COLORS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/7b12539134225c7525492072a856e704763e1354.jpg"
+        },
+        {
+          "name": "LEVEL 12",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/eef8e615716b4a0f3514f0f61f3a2f4848b907d7.jpg"
+        },
+        {
+          "name": "200 BOMB",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/86281f01b786373cd9af427662f3e617a77191ba.jpg"
+        },
+        {
+          "name": "LEFT AND RIGHT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3148670/b05b523e343dd249f985ee86d19ad1dc6dc5070c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

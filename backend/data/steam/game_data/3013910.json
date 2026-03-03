@@ -1,0 +1,118 @@
+{
+  "3013910": {
+    "name": "Limelight",
+    "steam_appid": 3013910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Limelight is an action roguelike game focused on close combat. Initially armed only with a flashlight, collect powerups and destroy your enemies by casting all sorts of lights on them as you crawl into 40 randomly generated dungeons on Story Mode, or face endless waves of enemies in Survival. The key objective? To get as illuminated as possible!<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li> 40 randomly generated levels in Story Mode;<br></li><li> Endless waves of enemies in Survival;<br></li><li> Hats with special abilities to use both on Story Mode and Survival;<br></li><li> Progresively increasing difficulty;<br></li><li> Simple graphics and intuitive gameplay;<br></li><li> 30+ Powerups to improve your build;<br></li><li> Retro-style graphics;<br></li><li> Speedrun leaderboard (Story Mode) and Score leaderboard (Survival).</li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 巴西, 俄语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013910/header.jpg?t=1718892881",
+    "developers": [
+      "LGV"
+    ],
+    "publishers": [
+      "LGV"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Hatless",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/e6287b821a9aa5ba1427a00b3a2bd20333ece9fa.jpg"
+        },
+        {
+          "name": "Doko",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/f02209a7d3dc29d7ae9fa7096cfd752a4288cc16.jpg"
+        },
+        {
+          "name": "Ushanka",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/e5d864355e47b54f28e6ecf32c0999ad4fbcd6f6.jpg"
+        },
+        {
+          "name": "Wiz",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/507cadcfc1182bff718445057da9cbce445ba783.jpg"
+        },
+        {
+          "name": "Foil",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/1bc1dcc0e9f7ebaa4264a59e73edd4e9d5046c5c.jpg"
+        },
+        {
+          "name": "Quick",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/42323c3f528c3c45669b1b77431ae6a3ee9727cd.jpg"
+        },
+        {
+          "name": "That's Actually Impressive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/08ae7b713200f27e9942a92b5ea30a64bb310f62.jpg"
+        },
+        {
+          "name": "Score Attack",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/11734c60469554e3c35c1c638a98fe486b47118e.jpg"
+        },
+        {
+          "name": "I Can't See Anything",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/e2f2d9baacf66ff30fab1ab883c6005f9d02f67c.jpg"
+        },
+        {
+          "name": "Chef",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3013910/2c40d5c0fb497d1ff3cdd8f17737810e00c64cc6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "3187300": {
+    "name": "CursorPlayer",
+    "steam_appid": 3187300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong><u>Cursor Collection Gacha Game</u></strong><br>When you achieve 100 clicks through left-clicking, you earn 1 coin. Click on the Gacha Machine located at the bottom left corner to navigate to the Gacha page. On the Gacha page, click on the wallet to make coins pop out, which will automatically move towards the Gacha Machine. Coins that don't make it into the Gacha Machine can be moved with your cursor. You can either put them back into the wallet for safekeeping or leave them on the ground. However, be careful, as any coins left on the ground might get stolen, so make sure to either put them in the Gacha Machine or store them in the wallet.<br><br>Cursors obtained from the Gacha can be equipped or unequipped by clicking the collection icon on the right side of the coin earning page. The first to fourth cursors from the top left of the collection are of a higher rarity, and you can view their special abilities by right-clicking on them.<br><br>Since this is my first game release and I'm still new to game development, I would greatly appreciate any feedback on areas that need improvement. I'm open to suggestions and eager to learn.",
+    "supported_languages": "英语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187300/header.jpg?t=1732419813",
+    "developers": [
+      "BountyHunter"
+    ],
+    "publishers": [
+      "BountyHunter"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

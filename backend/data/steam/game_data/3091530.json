@@ -1,0 +1,70 @@
+{
+  "3091530": {
+    "name": "Battle Sudoku",
+    "steam_appid": 3091530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "战斗数独允许玩家与最多 8 名其他玩家一起玩数独，也可以单独玩。游戏有各种主题、游戏模式，并且（我们认为）还有一些激励性的音乐，为普通的游戏类型增添了新意。<br />\r\n<br />\r\n功能包括：<br />\r\n<br />\r\n- 单人或多人游戏（最多 8 名玩家）<br />\r\n- 5 个棋盘难度等级<br />\r\n- 2 种游戏模式（经典和大逃杀）<br />\r\n- 设置每场游戏的时间限制<br />\r\n- 切换基本辅助助手以发现明显错误<br />\r\n- 每个棋盘都是完全独特的（并在游戏时通过算法生成）<br />\r\n- 直观的数字和助手数字选择<br />\r\n- 基本主题，附加禅意般的水效果<br />\r\n- 砰砰声配乐（或不 - 您的选择）<br />\r\n- 多语言支持<br />\r\n- 继续现有的游戏设施<br />\r\n- 一些有趣的头像<br />\r\n- 跟踪您在所有难度级别的前 10 名得分",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 葡萄牙语 - 葡萄牙, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091530/header.jpg?t=1722500040",
+    "developers": [
+      "Scott Rafferty"
+    ],
+    "publishers": [
+      "Albaware"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

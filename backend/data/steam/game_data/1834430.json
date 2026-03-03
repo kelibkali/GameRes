@@ -1,0 +1,76 @@
+{
+  "1834430": {
+    "name": "Dots and Dashes",
+    "steam_appid": 1834430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1834430/extras/5c57703358916553a00749b4d7466315.webp?t=1645057886\" width=32 height=32 /></span><br>This is a computer version of  the classic pen and paper game that is known by many names, including  &quot;Dots and Dashes&quot;.  Other names it is known by include: Dots and Boxes,  Boxes, Dot to Dot Grid, and Pigs In A Pen.  This version allows up to four human players plus one host computer (or five humans and no computer) to play the game.  The board size is adjustable up to limits imposed by the screen resolution.  The computer, even when not actively playing, can hint or play a dash for any player.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1834430/extras/8a0d59621e3fe66534a89490a8946a62.avif?t=1645057886\" width=176 height=108 /></span><br>Basic play is that the game starts with a grid of dots, and no dashes.  Players in turn place a dash between two horizontal or vertical dots.  If by doing so the player places the fourth side of one or two squares, they immediately earn another go of placing a dash. Such completed squares are marked with initials, symbol or colour.  The usual criteria for winning is the player with the most completed squares at the end of the game is the winner, however players are free to choose their own criteria for winning (e.g., a minimum number of squares).  Note though, if the computer is playing, it always plays to maximize its completed squares.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1834430/extras/65aba26594d3591500cccd8cfb756a81.avif?t=1645057886\" width=176 height=108 /></span><br>There are seven computer playing levels, starting from a completely random play with no completing of squares (level 1),  to a simple (level 5) or complex  (level 6) implementation of the &quot;Double Cross Strategy&quot;.  The final top level strategy is a &quot;Sacrifice Strategy&quot; where the computer, if it determines it is losing, will tempt the player with sacrifices to hide its true plan.  Note these higher level strategies really only work in a one player versus machine game.  Multiplay between a number of human players allows collusion between the players to defeat the machine (or another human player)!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1834430/extras/056b48cfda1ac22a7f2759980477aedc.avif?t=1645057886\" width=176 height=108 /></span><br>The games also comes with the computer being able to offer hints, or play the hint, or take back any number of moves for the players.  These are offered as a three player difficulty levels: Level 1 allows both &quot;play hint&quot; and &quot;take back moves&quot;, level 2 only allows &quot;take back move&quot;, while level 3 allows neither &quot;play hints&quot; nor &quot;taking back a move&quot;. For single player versus the program, the game has access to a number of leader boards at computer levels 3 to 7, HOWEVER, these boards are only accessible at player difficulty level 3, where the player is playing without help against the program.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1834430/header.jpg?t=1645057886",
+    "developers": [
+      "Thomar Consulting"
+    ],
+    "publishers": [
+      "Thomar Consulting"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

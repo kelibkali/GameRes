@@ -1,0 +1,78 @@
+{
+  "3152690": {
+    "name": "Daddy Comes Home",
+    "steam_appid": 3152690,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >简介</h2><br>这是一个以剧情为主的悬疑故事. 游戏内没有无关紧要的解密和角色死亡的游戏机制.<br>一位总是对你多疑的妻子, 一位对你不理睬的儿子, 你们的家庭生活尚且得过且过. 直到有一天, 你在妻子的衣服里找到一串陌生的号码. 你的噩梦就此开始.<h2 class=\"bb_tag\" >內容</h2><br><ul class=\"bb_ul\"><li> 探索: 以第一人称体验整个故事.<br></li><li> 线性: 以讲述故事为主的线性剧情.<br></li><li> 恐惧: 包括突然惊吓在内的恐怖场景.<br></li><li> 存档: 游戏将按照章节进行自动保存.</li></ul>",
+    "supported_languages": "英语, 俄语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152690/header.jpg?t=1725090288",
+    "developers": [
+      "LikeGames"
+    ],
+    "publishers": [
+      "LikeGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2400,
+      "final": 2400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 24.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Crime Scene | 案发现场",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3152690/4839ac98090ec388fd704616925a4f8e0a890efe.jpg"
+        },
+        {
+          "name": "Goodbye Guard | 再见警卫",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3152690/8891c67c91d831675adb807526e530016019d7ad.jpg"
+        },
+        {
+          "name": "Lies | 谎话连篇",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3152690/1146d41c76239fdcd0085063aa7c2c667835b16a.jpg"
+        },
+        {
+          "name": "Final Judgment | 最终审判",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3152690/755f2576e44dff21d42371599272658926e31682.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "8 user reviews",
+      "total_positive": 5,
+      "total_negative": 3,
+      "total_reviews": 8
+    },
+    "type": "game"
+  }
+}

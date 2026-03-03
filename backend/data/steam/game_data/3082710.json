@@ -1,0 +1,102 @@
+{
+  "3082710": {
+    "name": "鱼人跳跃王",
+    "steam_appid": 3082710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款全新的平台跳跃游戏，玩家不会死亡，但是稍有碰撞就会失控并且被击退，所以需要玩家具备一定的心理素质，我相信很少有玩家能通关。<br />\r\n海洋已经被核废水污染，变异的生物越来越多。<br />\r\n你将扮演一位人鱼勇士勇敢的向前跳跃，途中你将穿越森林，沙漠，雪山等险峻的地形，甚至还会遇到boss，但作为一个鱼人，你只能跳跃，用你的智慧和敏捷的操作去克服重重困难吧！<br />\r\n你能坚持到最后吗？",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 日语<strong>*</strong>, 简体中文<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082710/header_schinese.jpg?t=1730373130",
+    "developers": [
+      "HangYi"
+    ],
+    "publishers": [
+      "HangYi"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "小试身手",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/ca2fc7ff0ad10ea1b901c81be7bfb83ca4beb199.jpg"
+        },
+        {
+          "name": "First train ride",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/45e9c67823173ff141bc0b1f97d67e897448b426.jpg"
+        },
+        {
+          "name": "Killed 10 times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/ec1190769cb0d5dfbc4ab1f8638b7e5324f259a9.jpg"
+        },
+        {
+          "name": "Killed 100 times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/276c5a62876ba323c150a3d6c1c78865b964675e.jpg"
+        },
+        {
+          "name": "Killed 1000 times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/49066ae6c5ff448ab168c4a9343ecb8376ae30b3.jpg"
+        },
+        {
+          "name": "you win",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3082710/de13c63023ef0c35c1d0eaa1a9fe48fb438e3406.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

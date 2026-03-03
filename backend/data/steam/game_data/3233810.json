@@ -1,0 +1,102 @@
+{
+  "3233810": {
+    "name": "Tae Kwon Dog",
+    "steam_appid": 3233810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Tae Kwon Dog</strong> is a simple <i>infinite runner</i> game where the goal is to achieve the highest possible score to compete on the leaderboard. The main mechanic involves performing as many combos as possible without touching the ground, while avoiding the dog getting hit in the face to prevent losing lives and ending the game.</p>",
+    "supported_languages": "英语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233810/header.jpg?t=1730514870",
+    "developers": [
+      "Boris Maclean"
+    ],
+    "publishers": [
+      "Boris Maclean"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Wooden Trophy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/bb4c9402ebca7623c9b154ab35e81b1bb09f5854.jpg"
+        },
+        {
+          "name": "Woodcutter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/d2b1fa393e380913498fb134c0635d24a131e5f2.jpg"
+        },
+        {
+          "name": "Copper Trophy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/cb5f06a91812be7f03a5405267ca1b25893681af.jpg"
+        },
+        {
+          "name": "Silver trophy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/981d62755424202b32a5cf895ab72871deab2b52.jpg"
+        },
+        {
+          "name": "Golden trophy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/9a7d55ad5756b329f31ee163da627377c9226d7f.jpg"
+        },
+        {
+          "name": "Red Diamond Trophy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/f43c3f5202e22b5351d33cbeef3964f2aa780e97.jpg"
+        },
+        {
+          "name": "Chuck's pet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3233810/f44f960ce4e6092ba6f2459b392b5fe193f5ea8f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

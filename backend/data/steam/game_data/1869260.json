@@ -1,0 +1,66 @@
+{
+  "1869260": {
+    "name": "换钱＆换香＆经验值  多合一包",
+    "steam_appid": 1869260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "战斗后，将掉落可以让赚取游戏内货币、提升属性、积攒经验变得更容易的道具。",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语<strong>*</strong>, 韩语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869260/header.jpg?t=1661486814",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3100,
+      "final": 3100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 31.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "1879570": {
+    "name": "Insipid",
+    "steam_appid": 1879570,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Insipid is a puzzle game for vigilance.<br />\r\nThe game has a simple interface, where the player is presented with a field of cells of identical, at first glance, cells. The player must find and click on a cell that has a less saturated color than the rest. The higher the Player's score, the more implicit the difference between the cells becomes.<br />\r\nThe game has two modes: Normal and Time-Rush. In Normal mode, the player can look around the field and find the cells for as long as he likes, this mode is suitable for training vision. Time-Rush mode has a timer that is updated each time the player finds the correct cage. New records are recorded only in Time-Rush mode!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1879570/header.jpg?t=1699094911",
+    "developers": [
+      "beans rolls"
+    ],
+    "publishers": [
+      "beans rolls"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

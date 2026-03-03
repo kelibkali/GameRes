@@ -1,0 +1,75 @@
+{
+  "3199000": {
+    "name": "倒计时",
+    "steam_appid": 3199000,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >《倒计时》是一款短篇视觉小说，讲述了一位平凡的小人物在生命即将走到尽头时的一场感人之旅，剧情中包含了对生命、亲情、职场、医疗制度等社会问题的批判及探讨</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>本游戏二周目仅为重温剧情，内容与初次游玩时完全一致，没有任何变动</i></strong></p><h2 class=\"bb_tag\" ><strong>闪退问题</strong></h2><p class=\"bb_paragraph\" >我们怀疑闪退问题是由于游戏内成就系统需要连接至Steam服务器进行检测与激活，而最近国内网络环境不稳定，导致部分玩家在尝试激活成就时无法正常访问服务器，从而引起了游戏闪退现象</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >感谢您的理解和支持</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199000/header_schinese.jpg?t=1741751237",
+    "developers": [
+      "duskstudio"
+    ],
+    "publishers": [
+      "duskstudio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "向死而生",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199000/4e9a39104acf02188fb172530e0540f9f145cc24.jpg"
+        },
+        {
+          "name": "生命的真谛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199000/e6ec2191d58ccd2dc78267d243e92442f32b853c.jpg"
+        },
+        {
+          "name": "记忆碎片",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199000/4093c4447805397424f85cd451c25f42c40c1f75.jpg"
+        },
+        {
+          "name": "再续前缘",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199000/0d5cf28547b305baeafa218a81b5ff1c31a521eb.jpg"
+        },
+        {
+          "name": "生命的重奏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199000/77fa8a0ad911d61ea1e46bb9e0c539b1b954c4b0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

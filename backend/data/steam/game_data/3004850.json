@@ -1,0 +1,86 @@
+{
+  "3004850": {
+    "name": "魔塔与6勇者 - 夜之塔",
+    "steam_appid": 3004850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在黑夜中挑战魔塔。角色将会黑化而获得新技能！<br />\r\n夜之塔的怪物将会更加活跃，难以打败。每个角色通关可获得150钻石。<br />\r\n目前夜之塔仅基础6勇者【剑士、刺客、魔法师、召唤师、亡灵术士、骑士】可使用，<br />\r\n并且，需要解锁角色才能使用对应角色的夜之塔",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004850/header.jpg?t=1716798185",
+    "developers": [
+      "Zeros studio"
+    ],
+    "publishers": [
+      "Zeros studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

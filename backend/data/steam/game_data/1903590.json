@@ -1,0 +1,82 @@
+{
+  "1903590": {
+    "name": "了不起的棋盘",
+    "steam_appid": 1903590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "玩家能通过这个游戏自己设计自己喜欢的棋类游戏，或者是在已经存在的棋种上玩法做改进，然后进行本地对战或局域网对战。在计算机博弈爱好者来看，这个游戏能作为一个ai平台，玩家可以自行编写ai引擎对战。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903590/header.jpg?t=1649753410",
+    "developers": [
+      "宅弈鸟工作室"
+    ],
+    "publishers": [
+      "宅弈鸟工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 1,
+      "total_negative": 1,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

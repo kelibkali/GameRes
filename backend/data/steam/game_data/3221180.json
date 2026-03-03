@@ -1,0 +1,90 @@
+{
+  "3221180": {
+    "name": "Re:Flex",
+    "steam_appid": 3221180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Re:Flex 是一款与多个反应器互动的游戏，这些反应器会随着歌曲的节奏出现。</p><p class=\"bb_paragraph\" >这些反应器通过鼠标平滑移动，感觉就像在跳舞。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Paran：跟随节拍绕圈行走</p><p class=\"bb_paragraph\" >Triout：随着节拍打破三角形</p><p class=\"bb_paragraph\" >Han：躲避与节拍同步的爆炸</p><p class=\"bb_paragraph\" >Vizet：闪烁躲避瞄准导弹</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >每个反应堆都有多种设计。</p><p class=\"bb_paragraph\" >帕兰的裂缝设计会导致流星爆炸</p><p class=\"bb_paragraph\" >Triout 的乙醚设计会产生三个物体来抵御 Vizet。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >挑战模式有不同的音乐和逻辑。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >还有一个编辑器模式，您可以用任何逻辑播放任何歌曲。</p>",
+    "supported_languages": "英语, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3221180/header.jpg?t=1729531089",
+    "developers": [
+      "Marc Studio"
+    ],
+    "publishers": [
+      "Marc Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "The First Step",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3221180/ec3181455d5b1f867df29a416bfacda8e32dfa5e.jpg"
+        },
+        {
+          "name": "Open Sandbox",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3221180/3828ffc0d4bc7e5c396d04c0760457fabc181c43.jpg"
+        },
+        {
+          "name": "Open Random Play",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3221180/dfd6091b1ddae0d41516d9053235fa0e948a82ff.jpg"
+        },
+        {
+          "name": "Re:Flexer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3221180/1264d2ac321a12428ee7938f46cad55c0eba552f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 86,
+      "total_negative": 11,
+      "total_reviews": 97
+    },
+    "type": "game"
+  }
+}

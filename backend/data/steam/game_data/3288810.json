@@ -1,0 +1,62 @@
+{
+  "3288810": {
+    "name": "Traverse Colour Space",
+    "steam_appid": 3288810,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Traverse Colour Space is a maze game where as the player you navigate though a level collecting paint to increase your score as you move. The path taken though the level can make a large difference to the end score.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >A Hamiltonian Path is a path though a complexly connected set of nodes where each node is visited once and only once. Traverse Colour Space follows a similar logic usually known as a path of best fit (but that's not as catchy).  As you move you will paint visited tiles however, painted tiles cannot be revisited so you will need to plan your way carefully.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Collect paint from around the levels to increase your 3 colour values each time you move you gain points based on these 3 values. However to maximise points you will need to make use of the colour bonus zones in each map that grant additional points for being painted the correct colour.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3288810/header.jpg?t=1740847471",
+    "developers": [
+      "Rfent"
+    ],
+    "publishers": [
+      "Rfent"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

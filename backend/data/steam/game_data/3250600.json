@@ -1,0 +1,55 @@
+{
+  "3250600": {
+    "name": "深红森林 DEMO",
+    "steam_appid": 3250600,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >Crimsonwood 是一款以被诅咒的国家公园为背景的roguelike俯视角射击游戏。收集各种武器，获得特殊技能，与成群的敌人作战以求生存。可以单人游戏或在线合作模式。</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250600/header.jpg?t=1728930781",
+    "developers": [
+      "nodoxi"
+    ],
+    "publishers": [
+      "nodoxi"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

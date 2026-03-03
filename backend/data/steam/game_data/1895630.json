@@ -1,0 +1,62 @@
+{
+  "1895630": {
+    "name": "VRM Posing Desktop",
+    "steam_appid": 1895630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>VRM Posing Desktop</strong>是为了能全力辅助大家的VRM model创作，而开发的产品。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >听取Vtuber、3D 建模者、插图家等各个领域的意见，一直在持续升级。成果物无论个人，法人还是商品，都可以用。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >## 推荐以下的使用用途</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >创建有人物移动的 mp4 视频</p></li><li><p class=\"bb_paragraph\" >插图用的摹写素材・参考资料</p></li><li><p class=\"bb_paragraph\" >作成Youtube等的缩略图</p></li><li><p class=\"bb_paragraph\" >pose data的外部app连携</p></li><li><p class=\"bb_paragraph\" >治愈系的3D模型姿势</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >## VRM pose・desktop的特点</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >vrm1.0 support</p></li><li><p class=\"bb_paragraph\" >.vrma (VRM Animation Format) support</p></li><li><p class=\"bb_paragraph\" >导出视频 (.mp4)</p></li><li><p class=\"bb_paragraph\" >预设丰富的姿势・小物件・背景画像</p></li><li><p class=\"bb_paragraph\" >使用SteamWorkshop可实现用户间的pose共享</p></li><li><p class=\"bb_paragraph\" >画出高画质的画像(穿透画像也可以)</p></li><li><p class=\"bb_paragraph\" >根据VMC协定，可实现外部app连携（VSeeFace,Unity,Unreal Engine等等）</p></li><li><p class=\"bb_paragraph\" >快捷键切换姿势</p></li><li><p class=\"bb_paragraph\" >读入小物件(支持FBX，GLB等)</p></li><li><p class=\"bb_paragraph\" >丰富的post effect</p></li><li><p class=\"bb_paragraph\" >Vroid Hub连携</p></li><li><p class=\"bb_paragraph\" >为Unity导出AnimationClip</p></li><li><p class=\"bb_paragraph\" >其它、对于pose很便利的机能，随时追加。</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >## 开发app的理由</h2><p class=\"bb_paragraph\" >我按照父母的期待，或者说主流价值观上了大学。没觉的能学到东西，所以中途退学了。退学的时候想当漫画家。</p><p class=\"bb_paragraph\" >然后学习编程，认识了Unity，想开发一个对喜欢创作的人来说，有用的app，这款app就这样诞生了。</p><p class=\"bb_paragraph\" >正在用这个app的人，大家可能都喜欢创作吧。</p><p class=\"bb_paragraph\" >如果能为大家的创作起点作用，我会感到很荣幸。</p>",
+    "supported_languages": "英语, 日语, 西班牙语 - 西班牙, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895630/077beb8ddf4a75dbc2dd821d5317150ed025dea7/header.jpg?t=1769512694",
+    "developers": [
+      "ELVNEKO"
+    ],
+    "publishers": [
+      "ELVNEKO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 13,
+      "total_negative": 1,
+      "total_reviews": 14
+    },
+    "type": "game"
+  }
+}

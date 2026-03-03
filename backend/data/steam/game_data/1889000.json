@@ -1,0 +1,70 @@
+{
+  "1889000": {
+    "name": "To Make a Game",
+    "steam_appid": 1889000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《做一个游戏》是一个短篇元视觉小说，灵感源自Nikita Kryukov制作的《牛奶袋中装袋中牛奶》，重现了我作为一名开发者，在制作本游戏时的心路历程。<br>游戏可以轻松愉快地通关，也可以深度体验我的个人经历（虽然更为戏剧化，还拥有多个结局）。希望玩家在游玩之外，更能将其当作艺术作品来欣赏。<h2 class=\"bb_tag\" >特色</h2><ul class=\"bb_ul\"><li>短小精悍的游玩体验（13-24分钟）<br></li><li>令人沉浸的音频享受<br></li><li>像素风格的游戏画面 </li></ul>",
+    "supported_languages": "英语, 法语, 西班牙语 - 拉丁美洲, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889000/header.jpg?t=1738372184",
+    "developers": [
+      "TheBluePenguin"
+    ],
+    "publishers": [
+      "TheBluePenguin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Made a Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1889000/e523a21751a34ac867f6f239fdf4fc766d218cc6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "9 user reviews",
+      "total_positive": 8,
+      "total_negative": 1,
+      "total_reviews": 9
+    },
+    "type": "game"
+  }
+}

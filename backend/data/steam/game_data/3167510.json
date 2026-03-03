@@ -1,0 +1,111 @@
+{
+  "3167510": {
+    "name": "Ghost Clicker",
+    "steam_appid": 3167510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Uncover ghosts in this thrilling clicker game. In &quot;<strong>Thousand Souls</strong>&quot; mode, race against time to collect as many souls as possible with just 1000 clicks. For a limitless challenge, try the endless &quot;<strong>Fallen Souls</strong>&quot; mode and catch souls without stopping. </p><h2 class=\"bb_tag\" > <i><u>How to calculate the score in the game mode &quot;Thousand Souls&quot;:</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>1st ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 50) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>2nd ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 150) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>3th ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 250) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>4th ghost: 1+(rounding(number of clicks * 00 - (elapsed time in seconds * 350) + number of clicks))</i></p></li></ul><p class=\"bb_paragraph\" ><i>This means that each higher spirit has a greater penalty for elapsed time.</i></p><h2 class=\"bb_tag\" ><i><u>How to calculate the souls in the game mode &quot;Fallen Souls&quot;:</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>For every click on the ghost, you catch one soul. A bonus icon appears at random times and you have 3 seconds to click on it </i></p></li><li><p class=\"bb_paragraph\" ><i>The activated time bonus randomly lasts 10-30 seconds</i></p></li><li><p class=\"bb_paragraph\" ><i>Bonus souls are calculated according to the formula random(1000 to 100000) + (number of captured souls / 1000)</i></p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": null,
+    "developers": [
+      "unpublish"
+    ],
+    "publishers": [
+      "unpublish"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "First click",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/6beadeffa9508b01313441ffdb56d69580add69a.jpg"
+        },
+        {
+          "name": "Catch Arthur",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/8683b080c3a6207accbb4f34632353869d1977c5.jpg"
+        },
+        {
+          "name": "Catch Boris",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/99de85ec614015a962bd256c0eb1d661f686e03e.jpg"
+        },
+        {
+          "name": "Catch Jerome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/ebf5152cd51092da35a8b5416764f1de74640950.jpg"
+        },
+        {
+          "name": "10k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/6fc1e11260055296f3078749a4f071b7807465b2.jpg"
+        },
+        {
+          "name": "20k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/645ef86128f860cde3628ebb3420b03f9e444747.jpg"
+        },
+        {
+          "name": "30k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/5ef068c3d189c7b71c9dd034939edb8bfa4f7739.jpg"
+        },
+        {
+          "name": "40k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/1cfc5728dadd5c71ffabd47e5db4a98f5fc5c32b.jpg"
+        },
+        {
+          "name": "50k",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/b838e6091b7e982aabaa02f994296008a37d8f1b.jpg"
+        },
+        {
+          "name": "The Ghost Hour",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3167510/4b4926e77f10022c828a6e4c60bad0b31b973116.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

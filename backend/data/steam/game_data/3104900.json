@@ -1,0 +1,71 @@
+{
+  "3104900": {
+    "name": "Tungsten Moon",
+    "steam_appid": 3104900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >钨月球》是一款航天器模拟游戏，游戏背景设定在一个完全由钨金属制成的虚构小月球上。月球直径 600 公里，表面重力与地球月球相似。你被放置在 “钨月 ”的表面，乘坐一艘燃料充足的小型飞船前往月球上的任何其他地点。你是怎么到达那里的？为什么你不知道如何驾驶飞船？你将如何回家？这些问题和其他问题都在等着你去探究，你要学会管理飞船、寻找资源、寻找补给品，并解答你是如何陷入困境的这一基本谜团，同时还要探索 100 多万平方公里的地形。</p><p class=\"bb_paragraph\" >虽然你是在外星太阳系的一颗陌生卫星上，但你的飞船似乎是在 20 世纪最后几十年建造的。机载电脑提供了一些信息和自动化功能，但你必须学会驾驶它。最终，你可能会升级或修改飞船的软件，扩大你的钨月地图，甚至进入环绕钨月的轨道。</p><p class=\"bb_paragraph\" >你的飞船和月球物理是 100% 真实的。飞船系统和传感器的建模严格关注细节，忠实于 20 世纪 80 年代的技术能力。安全系数非常低，一不小心就会在钨月球上造成严重后果。</p><p class=\"bb_paragraph\" >特点</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >模拟器在设计时考虑到了游戏控制器、飞行模拟器操纵杆和 VR，但也可以仅使用键盘和鼠标进行游戏。</p></li><li><p class=\"bb_paragraph\" >真正的开放世界，可进入钨月的每一寸土地。</p></li><li><p class=\"bb_paragraph\" >飞船物理精确，正确模拟齐奥尔科夫斯基火箭方程，充分考虑到飞船在飞行过程中质量的减少。</p></li><li><p class=\"bb_paragraph\" >轨道物理使用 RK4 Runge-Kutta 四阶积分建模。</p></li><li><p class=\"bb_paragraph\" >月球自转、环绕行星的轨道以及行星环绕太阳的轨道均以物理上精确的时间尺度建模。</p></li><li><p class=\"bb_paragraph\" >游戏开始后，世界时钟会随着游戏的进行每秒实时前进。随着时间的推移，太阳落下，行星升起，天空的外观也在不断变化。游戏开始时阳光明媚的地点，可能在五小时后完全陷入黑暗。</p></li><li><p class=\"bb_paragraph\" >航天器机载计算机软件可由用户使用 Forth 计算机语言的变体进行扩展，这种语言曾经是航天器航空电子设备的常用平台。</p></li><li><p class=\"bb_paragraph\" >通过</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104900/header.jpg?t=1765398858",
+    "developers": [
+      "Eccentric Anomalies LLC"
+    ],
+    "publishers": [
+      "Eccentric Anomalies LLC"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

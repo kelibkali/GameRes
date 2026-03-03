@@ -1,0 +1,75 @@
+{
+  "3243550": {
+    "name": "RPG Maker MZ - Menu Builder",
+    "steam_appid": 3243550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >*Tutorial videos are now available (more to come). Please see “View the manual”.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >・Allows for basic menu building and linking to other scenes</p><p class=\"bb_paragraph\" >・Can execute script calls AND events</p><p class=\"bb_paragraph\" >・Can setup backgrounds and foregrounds</p><p class=\"bb_paragraph\" >・Can setup touch buttons</p><p class=\"bb_paragraph\" >・Can modify UI according to needs</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/extras/2cfe03124e3c9f93bc2a938ff5cd86ba.avif?t=1755842594\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/extras_big/2cfe03124e3c9f93bc2a938ff5cd86ba.avif?t=1755842594 width=800 height=488 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Custom menus must be setup in the plugin parameters prior to calling them in game.</p><p class=\"bb_paragraph\" >For each menu, you MUST/ARE REQUIRED TO setup the selection window as that will hold the selectable options for the menu scene.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/extras/fc39d908697061a3d8284d5cf1deeb0c.avif?t=1755842594\" width=570 height=558 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >From above, screenshot from demo, you can see that you only need to setup the selection window and basic window if you want to permanently display information on the scene.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/extras/4d49f3e167469d1f64d877900845d82a.avif?t=1755842594\" width=516 height=256 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Setup the dimension configuration to control the size and position of the selection window and the Window Font and Style for the font settings and window skin/opacity.</p><p class=\"bb_paragraph\" >Item Width/Height will control the selection box size and max columns will determine the number of selections aligned on horizontal axis.</p><p class=\"bb_paragraph\" >The important thing here is the selection options</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/extras/b2d318b99e1f49cd0eaecfec4e77d8e5.avif?t=1755842594\" width=538 height=348 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can setup requirements to display or even select the menu option based on:</p><p class=\"bb_paragraph\" >・Variables</p><p class=\"bb_paragraph\" >・Switches</p><p class=\"bb_paragraph\" >・Items</p><p class=\"bb_paragraph\" >・Weapons (Not equipped)</p><p class=\"bb_paragraph\" >・Armors (Not equipped)</p><p class=\"bb_paragraph\" >Static add a graphic over the scene backgrounds when the option is selected and animated graphic will change the graphic on scene to use the set data.</p><p class=\"bb_paragraph\" >Pictures are stored  images which can be drawn based on window settings.</p><p class=\"bb_paragraph\" >You can setup a scene button which when mouse over will force select the option and when clicked will execute the code in the &quot;Code Execution&quot; parameter.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >------------</p><p class=\"bb_paragraph\" >Patch note:2025/8/22</p><p class=\"bb_paragraph\" >Fix: Issue with drawing pictures when trying to parse already parsed data.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2025/8/14</p><p class=\"bb_paragraph\" >Fix/adjustment: Closing the menu under certain circumstances led to crash due to missing check.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2025/6/26</p><p class=\"bb_paragraph\" >Fix: Issue where item requirements were being checked as weapon instead.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2025/5/27</p><p class=\"bb_paragraph\" >New: Script call added to help reset the game data</p><p class=\"bb_paragraph\" >New: Add script calls to the plugin help</p><p class=\"bb_paragraph\" >New: Added parameter to set update codes. These are run every frame on the menu scene.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2025/3/19</p><p class=\"bb_paragraph\" >Adjustment: Changed directory of videos folder to movies due to RPG Maker v1.9.0 update.</p><p class=\"bb_paragraph\" >Demo: Fixed issues with prior set debug menus</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2025/2/3</p><p class=\"bb_paragraph\" >Fixed: Fixed an issue where the option name and alternative name were not being displayed in the data window.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2024/11/25</p><p class=\"bb_paragraph\" >Fix: For MV, the sprite destroy function does not remove the sprite. I have removed the function entirely.</p><p class=\"bb_paragraph\" >New: Set video to play when a menu option is selected. This video is played below the video layer</p><p class=\"bb_paragraph\" >New: Set videos to play on scene using script calls as defined in the plugin help</p><p class=\"bb_paragraph\" >New: Set script calls to execute on opening the menu scene</p><p class=\"bb_paragraph\" >New: Override scenes, in the demo, the default menu scene is replaced with the debug menu.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Patch note:2024/10/28</p><p class=\"bb_paragraph\" >Fix: Changed data source from weapons to items for item requirements.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >・This pack is for use in RPG Maker Series or the engine of your choice.</p><p class=\"bb_paragraph\" >・OK to be used in Commercial projects made in RPG Maker</p><p class=\"bb_paragraph\" >・You may modify some of the assets (but not redistribute them) for your own game use only.</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243550/header.jpg?t=1755842594",
+    "developers": [
+      "Synrec",
+      "Gotcha Gotcha Games"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

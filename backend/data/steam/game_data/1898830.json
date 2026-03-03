@@ -1,0 +1,63 @@
+{
+  "1898830": {
+    "name": "VBridger",
+    "steam_appid": 1898830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "VBridger allows VTubers to use face tracking to it's fullest potential<br />\r\n<br />\r\nVBridger allows for the augmentation of tracking data, allowing users to combine, mix, and modify live data for use with VTuber Avatars. It comes with several base settings and samples for different types of models. If you have a standard live2D model, you can use our VTS Compatible settings to enhance the tracking quality. If you have a model rigged for ARKit using our parameter guide, you will be able to use our ARKit settings for advanced expression control. If you have an ARKit compatible VRM model, you can use VMC to send tracking data, allowing you to use input curves to tune and calibrate the tracking to better fit your face. <br />\r\n<br />\r\nWith the VBridger - Editor DLC, riggers can unlock the full potential of VBridger and their rigs by gaining the ability to create new outputs and custom controls for their models. Use your face to toggle VRM exressions via VMC, or create logic based expressions to add flutter to your live2D wings- the possibilities are endless.<br />\r\n<br />\r\nCurrent available input sources:<br />\r\n    •Tracking data from the IPhone ARKit FACS based face tracking system from the following apps<br />\r\n            •ifacialmocap (iPhone)<br />\r\n            •FaceMotion3D (iPhone)<br />\r\n            •MeowFace (Android)<br />\r\n            •VTubeStudio (iPhone)<br />\r\n            •MediaPipe (Webcam)<br />\r\n            •NVIDIA (Webcam) *Requires the NVIDIAa webcam DLC from VTube Studio, it's free!<br />\r\n    •Additionally, use your microphone to generate audio inputs.<br />\r\n<br />\r\n<br />\r\nCurrent available output software:<br />\r\n    •Vtube Studio via the Vtube Studio API allowing for the control of live2D models.<br />\r\n    •Virtual Motion Capture (VMC) Protocol allowing for any VMC compatible app to recieve face data from VBridger. As long as an output shares the name of a blendshapeclip on your VRM, you can control it with VBridger.<br />\r\n          VMC will only work on the facial tracking of the model, it cannot send head rotation, eye rotation, or control the body at the moment.<br />\r\n<br />\r\nMore on the way!",
+    "supported_languages": "英语, 法语, 日语, 德语, 俄语, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/header.jpg?t=1703621052",
+    "developers": [
+      "PiPuProductions",
+      "Serp"
+    ],
+    "publishers": [
+      "PiPuProductions"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3700,
+      "final": 3700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 37.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 25,
+      "total_negative": 9,
+      "total_reviews": 34
+    },
+    "type": "game"
+  }
+}

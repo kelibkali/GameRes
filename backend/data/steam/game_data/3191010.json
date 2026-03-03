@@ -1,0 +1,106 @@
+{
+  "3191010": {
+    "name": "Proxyma",
+    "steam_appid": 3191010,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Locked inside a computer called Proxyma, you must finish its 13-levels game to be completely free. Proxyma is a retro-style 2D platformer with increasingly hard levels where you have to run, jump on various platforms and drop bricks to destroy enemies, open gates and reach for the end. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 13 levels with increasing difficulty; </p></li><li><p class=\"bb_paragraph\" > Three lives per run;</p></li><li><p class=\"bb_paragraph\" >Two modes: easy and hard (no continues);</p></li><li><p class=\"bb_paragraph\" > Run, jump and brick-drop;</p></li><li><p class=\"bb_paragraph\" > Trampolines;</p></li><li><p class=\"bb_paragraph\" > Various platform types (moving, falling etc.);</p></li><li><p class=\"bb_paragraph\" > Retro-style graphics.</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191010/header.jpg?t=1743213196",
+    "developers": [
+      "LGV"
+    ],
+    "publishers": [
+      "LGV"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3000,
+      "final": 300,
+      "discount_percent": 90,
+      "initial_formatted": "¥ 30.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "First One",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/ccc5f6725113d806b59a9ea7faa22dae83909c85.jpg"
+        },
+        {
+          "name": "Level 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/7784313afeec2e990e501b725e5e70103361d7cf.jpg"
+        },
+        {
+          "name": "Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/e14a730fe4335d2d15647dc7240c001eeda59e8e.jpg"
+        },
+        {
+          "name": "Level 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/32f1af8a878badf2d741385f3840a9e28b852568.jpg"
+        },
+        {
+          "name": "Level 9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/f0de26909fe68018b9bf01c0053ebe60182b2f7f.jpg"
+        },
+        {
+          "name": "Level 11",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/c16d5f1680e00d6f99fb6deea0eb96c023230b5f.jpg"
+        },
+        {
+          "name": "Speedxyma",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/50d5460aba4dd283c372c8d459fe20ec87bd3bff.jpg"
+        },
+        {
+          "name": "Heart",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3191010/dd9722d03ea597fdb583f711c6ad5d9784f4f113.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

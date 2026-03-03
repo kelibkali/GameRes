@@ -1,0 +1,76 @@
+{
+  "3108360": {
+    "name": "Sovereign Elect - Commission Pass",
+    "steam_appid": 3108360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3108360/extras/b6cb154113309f4c40841283da1087bd.poster.avif?t=1721634451\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3108360/extras/b6cb154113309f4c40841283da1087bd.webm?t=1721634451\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3108360/extras/b6cb154113309f4c40841283da1087bd.mp4?t=1721634451\" type=\"video/mp4\"></video></span><br><br>玩家每天可以完成一个委托。购买委托通行证后，你每天可以完成一个额外的委托。完成委托会授予你用于购买特殊物品的皇冠。<br><ul class=\"bb_ul\"><li>委托分为四个等级：S、A、B、C。<br></li><li>等级越高，奖励越丰厚。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3108360/header_schinese.jpg?t=1721634451",
+    "developers": [
+      "iBlackpen"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "3043140": {
+    "name": "Ghost",
+    "steam_appid": 3043140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款农场主题的平台跳跃游戏，玩法简单但相当可爱有趣。玩家在游戏中帮助小牛保持跳跃，跳过一朵又一朵云，让小牛保持在云朵上不掉下来。随着游戏的不断深入，难度也会越来越高。你能否帮助小牛到达想要去到的高处呢？希望大家能获得一段愉快的游戏时光。",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043140/header.jpg?t=1719890029",
+    "developers": [
+      "Ghost"
+    ],
+    "publishers": [
+      "Ghost"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 13600,
+      "final": 13600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 136.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "3297030": {
+    "name": "控制室",
+    "steam_appid": 3297030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >该游戏是一款简单的2D动作游戏，带有Roguelite元素。</p><p class=\"bb_paragraph\" >你正在某个房间里玩游戏。如果你能在躲避周围冲来的敌人的情况下生存5分钟，你就通关了。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297030/extras/b2af6b2fb53d01d60d0c3e4655944bd4.avif?t=1741282436\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297030/extras_big/b2af6b2fb53d01d60d0c3e4655944bd4.avif?t=1741282436 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >一开始你可能会发现很难选择技能。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297030/extras/a1ce10251342696a511be460bd11daed.avif?t=1741282436\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297030/extras_big/a1ce10251342696a511be460bd11daed.avif?t=1741282436 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >如果您发现游戏难以通关，我们建议您停止游戏并休息一下。</p><p class=\"bb_paragraph\" >每次开始游戏都会有新的发现。</p><p class=\"bb_paragraph\" >我相信您会认出这个房间的本来面目。</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 土耳其语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297030/header.jpg?t=1741282436",
+    "developers": [
+      "uehara create"
+    ],
+    "publishers": [
+      "uehara create"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1320,
+      "final": 1320,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 13.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "First clear!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/aee36993774897b5f443eace728df847eb4f6e3c.jpg"
+        },
+        {
+          "name": "Half cleared!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/1b94096dd61cf505d3f93cfb1ad4896e7dad870a.jpg"
+        },
+        {
+          "name": "All cleared!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/fd6cca51cadf035dcc57f59c9a9e9dc27f8a51bb.jpg"
+        },
+        {
+          "name": "Outside",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/293c8e2048a850a6973009ac2d3d80c375238367.jpg"
+        },
+        {
+          "name": "I got the hang of it.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/7507e4e964646646d9a8338081b59073c965efcb.jpg"
+        },
+        {
+          "name": "I had everything under control.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/cc140faba820482c0e53364310c96ee45135c412.jpg"
+        },
+        {
+          "name": "For now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/198d42c8cf6f626a4e3927f95b904747675789ce.jpg"
+        },
+        {
+          "name": "concentration",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/9fb2fd68e88d63d4929bfce79534d2b31f2a11bb.jpg"
+        },
+        {
+          "name": "Absorbed in emotion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/b54742abbb4da8119cf3691b56790d83291e4469.jpg"
+        },
+        {
+          "name": "Fighting",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3297030/74cdb5ddf29fe052d05afca185f3caf2e479e096.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

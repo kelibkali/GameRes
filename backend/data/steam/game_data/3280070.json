@@ -1,0 +1,90 @@
+{
+  "3280070": {
+    "name": "TheLostWoods / 迷いの森",
+    "steam_appid": 3280070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >你发现自己迷失在一片陌生的森林深处。 你能找到正确的道路并安全逃离这片神秘的森林吗？</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >步行模拟器的灵感来自《Exit 8》和《极限空间》。</p><h2 class=\"bb_tag\" ><strong>玩耍时间</strong></h2><p class=\"bb_paragraph\" >15~60 分钟</p><h2 class=\"bb_tag\" >视频传播和盈利</h2><p class=\"bb_paragraph\" >请参见 StirSystem Inc. 的官方网站。</p>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280070/header.jpg?t=1753753075",
+    "developers": [
+      "StirSystem Inc."
+    ],
+    "publishers": [
+      "StirSystem Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1440,
+      "discount_percent": 20,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 14.40"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Escape",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3280070/ff5d6bd6fb1b85aeb1323bc1cc95e93ae4caa4dd.jpg"
+        },
+        {
+          "name": "Wonders discovery",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3280070/ca9e6050cd16544c2d5851a6c89b75990bbf4164.jpg"
+        },
+        {
+          "name": "Brave man?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3280070/270e2db3712bf54de58cdbc313a458c479fe7556.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 2,
+      "total_negative": 2,
+      "total_reviews": 4
+    },
+    "type": "game"
+  }
+}

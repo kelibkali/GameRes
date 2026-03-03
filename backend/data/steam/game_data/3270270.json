@@ -1,0 +1,102 @@
+{
+  "3270270": {
+    "name": "Haunted Halloween",
+    "steam_appid": 3270270,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >在这款 1-4 人合作游戏中体验万圣节！穿越阴森恐怖的闹鬼景点，解决谜题，躲避邪恶实体，一起尝试逃脱。</p><p class=\"bb_paragraph\" >体验万圣节主题之夜，恐怖节的著名景点。</p><p class=\"bb_paragraph\" >特色</p><p class=\"bb_paragraph\" >单人游戏</p><p class=\"bb_paragraph\" >多人游戏 - 与 4 位好友组队。</p><p class=\"bb_paragraph\" >体验闹鬼景点</p><p class=\"bb_paragraph\" >解决谜题</p><p class=\"bb_paragraph\" >躲避并逃脱恐怖传说。</p><p class=\"bb_paragraph\" >传统 FPS 体验 [鼠标和键盘]。</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 捷克语, 荷兰语, 芬兰语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 简体中文, 繁体中文, 土耳其语, 乌克兰语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270270/header.jpg?t=1759905378",
+    "developers": [
+      "Celeritas Games"
+    ],
+    "publishers": [
+      "Celeritas Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "WELCOME TO HAUNTED HALLOWEEN",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3270270/aee2106eb5ba87e25b2a14af582405c60272c3a3.jpg"
+        },
+        {
+          "name": "HAUNTED FARM ATTRACTION",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3270270/6328531f5cae3c14a7c109f19de1e355aea6c3ea.jpg"
+        },
+        {
+          "name": "HARVEST OF HORRORS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3270270/4498cb8d67293f6c4218c98ba395e67ff2aec577.jpg"
+        },
+        {
+          "name": "HAUNTED FOREST ATTRACTION",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3270270/59de5ef928bc86111ca83c9e435807d74de7cb05.jpg"
+        },
+        {
+          "name": "DARK WOODS CONQUERED",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3270270/7110631900d17682c3244839ffc2f03e31c1e296.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

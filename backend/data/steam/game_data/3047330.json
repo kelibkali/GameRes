@@ -1,0 +1,49 @@
+{
+  "3047330": {
+    "name": "ARPA radar Simulator",
+    "steam_appid": 3047330,
+    "required_age": 0,
+    "is_free": false,
+    "description": "ARPA RADAR SIMULATOR <br />\r\nWith this simulator, maritime students can practice Radar sailing and the use of ARPA (Automatic Radar Plotting Aid) at home on their own PC. It is assumed that the user is familiar with Radar and Plotting to find other vessels' course and speed, and interpretation of data provided by the ARPA system.<br />\r\n<br />\r\nRADAR <br />\r\nThe program simulates a rotating antenna that emits pulses and receives echoes of these pulses if they hits reflective objects in the surroundings the antenna is aimed at. Be it land, boats, buoys etc. Your own boat sails in a 3D map terrain. This means that the radar image becomes very realistic - with radar shadow and effects that varying reflected signal strength produces. The surroundings are displayed in a separate window. Thus, you see what is normal from the wheelhouse of a boat, and you can see the connection between the radar image and the surroundings.<br />\r\n<br />\r\nARPA (Automatic Radar Plotting Aid) <br />\r\nThe built-in ARPA module makes it possible to target objects that appear in the radar image in real time - so that the course and speed of these objects can be calculated. This information is displayed as vectors and associated numerical values is displayed in a separate window on the radar screen. This information is particularly important to avoid collisions when sailing in poor visibility and in areas with heavy traffic. The ARPA system assigns each object, which one chooses to target, a search area. This search area follows the object and calculates course and speed and assigns the object a vector that shows the course in direction and the speed in length selected number of minutes. The course can be chosen to be true or relative. You can select an object and see further information that is important. It can be CPA, TCPA, distance and bearing. One can choose to target objects manually or automatically (by placing a visible sector on the screen). If an object comes within set limit values (danger of collision), an alarm is given. Also when new objects enters the sector of automatic target tracking. The same if the target tracking system loses echo of what observed. One can also experience that an object loses its vector to another object that passes close, and which has a stronger echo than its own.<br />\r\n<br />\r\nTHE SIMULATOR                                                                                                  <br />\r\nThe program is a simplified navigation simulator modeled after that used in maritime schools. With separate windows for Radar, Map, Steering Console and view from the wheelhouse. You can choose to use 1, 2 or 3 screens. The main emphasis is on Radar and ARPA, but you can sail visually and navigate by beacons, buoys and stakes. One can choose whether it should be day, night or fog. At night one sees light from beacons and buoys with characteristics which corresponds to what is shown on the map for the area in which one is sailing. As you can see, this is a good aid to practice and gain experience with using radar and ARPA.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047330/header.jpg?t=1740028971",
+    "developers": [
+      "Enav as (Norway)"
+    ],
+    "publishers": [
+      "Enav as (Norway)"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 19 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "3019870": {
+    "name": "三更",
+    "steam_appid": 3019870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >梆子敲碎长夜寂静，你将化身清末打更人，执灯巡夜于阴阳交界的古城。身负 “驱邪卫道” 之责，你需在三更到五更的寒夜中，于阴阳之间巡守各大地界，驱除邪祟。持蜡烛与驱邪器具，探查各处暗藏的异常诡象，探影辨幻，守护古城至天明。</p><h2 class=\"bb_tag\" ><strong>寒夜巡守，七境探幽</strong></h2><p class=\"bb_paragraph\" >从人声渐歇的商铺街到阴气沉沉的粮仓，从戒备森严的城门到曲径通幽的巷口，每处场景都暗藏独特玄机。月光下的坊巷暗影浮动，空无一人的市集残留诡异声响，不同地界的氛围差异，将带来沉浸式的夜间探索体验。</p><h2 class=\"bb_tag\" ><strong>邪祟诡影，百廿异状</strong></h2><p class=\"bb_paragraph\" >超多个精心设计的异常事件遍布全城，或是闪烁的鬼火、自动开合的门窗，或是附身在器物上的怨灵、徘徊不散的孤魂。你需凭借凭借记忆，在蛛丝马迹中判断邪祟真身，用专属技艺化解一次次危机。</p><h2 class=\"bb_tag\" ><strong>铜币破局，时间流转</strong></h2><p class=\"bb_paragraph\" >铜币是打破循环的关键，获取方式有两种：一是“驱邪得铜币”——成功发现并处理邪物异常后，部分邪祟会直接掉落；二是“场景藏铜币”——它们可能藏在驱邪后的小场景中，也可能就隐匿在场景的角落中，需要你仔细搜寻。收集铜币能让时间流逝，当你集齐所有铜币，就能彻底逃离古城。</p>",
+    "supported_languages": "简体中文, 英语, 日语, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3019870/0aaf08c8ed58a87eb519d17eade222ef0513444a/header.jpg?t=1769780281",
+    "developers": [
+      "SHRIMPOOKY"
+    ],
+    "publishers": [
+      "Art Tour"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 480,
+      "discount_percent": 20,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 4.80"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 12 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "初守夜关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/7e26fb03b3869ac8fb62bf0c7d8b94247dd1d12d.jpg"
+        },
+        {
+          "name": "三更破邪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/6a475dfb60c3488f6ee8eb2ba4f9186e4619725a.jpg"
+        },
+        {
+          "name": "寒夜独巡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/5487fb3fcdbefee904fb34144609d703c3d467e6.jpg"
+        },
+        {
+          "name": "拂晓归程",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/456227d272484ce9e2b9139b47d85b439f2d0ef7.jpg"
+        },
+        {
+          "name": "初除妖氛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/7be26958aae19c873195330e78757b7fc5a1e9d4.jpg"
+        },
+        {
+          "name": "邪祟辟易",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/a07a961c62f296bfcb21ae47726ccd614c54bdce.jpg"
+        },
+        {
+          "name": "百邪尽祛",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/3267d1a83a7664a39177996e84e32787ca7d6a5f.jpg"
+        },
+        {
+          "name": "夜靖城安",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/e07cdd3a901ba7e0e428502e04bf59bc40ccf7cd.jpg"
+        },
+        {
+          "name": "以身试险",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/947da317f99c6583e2ed2eebf95a467579a0dd60.jpg"
+        },
+        {
+          "name": "屡败屡战",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3019870/7c908bd6f767420280691d67593644a140091ed0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 52,
+      "total_negative": 2,
+      "total_reviews": 54
+    },
+    "type": "game"
+  }
+}

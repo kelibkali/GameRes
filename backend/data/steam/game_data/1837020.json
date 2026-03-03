@@ -1,0 +1,53 @@
+{
+  "1837020": {
+    "name": "MotionMuse",
+    "steam_appid": 1837020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>MotionMuse</strong> provides an easy to use animation tool-set for 3D character animation. No rigging of the character is required as the bone hierarchy itself is used for articulating motion. MotionMuse is an ideal tool for game developers, indie developers, freelancers and animators to quickly and easily prototype character animations.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Retargeting: Transferring animation across characters, supports different skeletons.</p></li><li><p class=\"bb_paragraph\" >Auto Rigging: Simple tools to create/edit skeletons, with auto-skinning of meshes to bones.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Motion-Editing: Spline based path editing of spatio-temporal constraints for limbs.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Inverse Kinematics: Fast IK solver for partial or full body adjustment for quick posing.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Spline Sketching: Pose limbs by drawing, sketch is converted to spline for fine adjustments.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Curve Editor: Supports various tangents and interpolations for precise motion control.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Media Overlays: Load/save images/videos in a scene to trace poses for quick prototyping.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > File Formats: Import support for fbx,dae,bvh,gltf,vrm,obj,stl,usd with export to fbx,gltf,glb.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.mp4?t=1766829823\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.mp4?t=1766829823\" type=\"video/mp4\"></video></span></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/header.jpg?t=1766829823",
+    "developers": [
+      "Muni Animation"
+    ],
+    "publishers": [
+      "Muni Animation"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10300,
+      "final": 10300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 103.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 16 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

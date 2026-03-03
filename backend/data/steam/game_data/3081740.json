@@ -1,0 +1,63 @@
+{
+  "3081740": {
+    "name": "Marketplace",
+    "steam_appid": 3081740,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>Marketplace</strong> is an idle/clicker Game, in which your score increases! Everytime score increases there is a chance for you to obtain an item from a Marketplace! Play and obtain all of items on the Marketplace or buy them of Steam Community Marketplace as well as sell those you do not need! Come and join us on our Discord, making Marketplace a richer place!",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3081740/header.jpg?t=1722018759",
+    "developers": [
+      "ThunderStorm"
+    ],
+    "publishers": [
+      "ThunderStorm"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "3057440": {
+    "name": "Hello, your order... Demo",
+    "steam_appid": 3057440,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057440/extras/dc88989a2f0222a28a00b96ee07673ea.poster.avif?t=1728463497\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057440/extras/dc88989a2f0222a28a00b96ee07673ea.webm?t=1728463497\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057440/extras/dc88989a2f0222a28a00b96ee07673ea.mp4?t=1728463497\" type=\"video/mp4\"></video></span>。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >尝试扮演一个来自小镇 N 的送餐员。</p><p class=\"bb_paragraph\" >在本演示版中，您将熟悉游戏的开端及其基本机制：</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >[列表]</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 收集并发送您的第一个订单。列表<br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 乘坐公共汽车，漫步在您所在城市的清晨街道上。 [/list］<br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 学习手机功能</p></li></ul></p></li></ul></p></li></ul>",
+    "supported_languages": "英语, 法语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057440/header.jpg?t=1728463497",
+    "developers": [
+      "S.P.G."
+    ],
+    "publishers": [
+      "S.P.G."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Final",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3057440/97af4518a53c7a6ff22b614c102bf8262cb078f8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

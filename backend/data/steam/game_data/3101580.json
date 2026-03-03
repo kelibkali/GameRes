@@ -1,0 +1,102 @@
+{
+  "3101580": {
+    "name": "Trifecta",
+    "steam_appid": 3101580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一款关于匹配三角形的三消游戏！匹配 3 个或更多不同图案的相同颜色的三角形，以累积最高分。<h2 class=\"bb_tag\" >玩</h2>拿起就玩的完美模式！享受你的时光，同时努力打破你的个人最好成绩！<h2 class=\"bb_tag\" >日常模式</h2>通过在线记分牌与其他玩家竞争。每个人都会获得相同的随机生成，并且您每天只能尝试一次。<h2 class=\"bb_tag\" >自定义模式</h2>通过操纵大量规则（如棋盘宽度、游戏速度、比赛限制、时间限制等）来创建您自己的自定义游戏模式。然后，您可以通过分享代码与朋友和社区分享您的模式，他们可以粘贴到自己的游戏中。",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101580/header.jpg?t=1722480765",
+    "developers": [
+      "Upsetti"
+    ],
+    "publishers": [
+      "Upsetti"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "10K!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/2d53c058138cbfe26400ee37048485af9d01bb5c.jpg"
+        },
+        {
+          "name": "25K!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/f6e8739e1db08801315f8e52b4e3cee3ab15034d.jpg"
+        },
+        {
+          "name": "50K!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/c735b43057a324fbf05d7982fb639ffc5f9bd8da.jpg"
+        },
+        {
+          "name": "1,000,000!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/63f9508f5233f378afe9c21ac307e9fe0dbd2191.jpg"
+        },
+        {
+          "name": "The Perfect Trifecta",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/bd6865a1f218427eca3830d59bbc31813961cdbe.jpg"
+        },
+        {
+          "name": "Solar Retinopathy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101580/d964b89ee61efc510bc2880453dae94998b13175.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

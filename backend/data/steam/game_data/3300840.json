@@ -1,0 +1,86 @@
+{
+  "3300840": {
+    "name": "Pharaoh's Riches",
+    "steam_appid": 3300840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >一個接一個地擊落硬幣，獲得神的寶藏。</p><p class=\"bb_paragraph\" >當黃金從天而降時，千萬別錯過！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >[計分挑戰]</p><p class=\"bb_paragraph\" >在時間限制內獲得盡可能多的硬幣，爭取排行榜的高位！</p><p class=\"bb_paragraph\" >可單人或多人遊玩！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >[無限模式]</p><p class=\"bb_paragraph\" >在沒有時間限制的情況下，想玩多久就玩多久！</p><p class=\"bb_paragraph\" >你的硬幣數量會在每次遊戲間保留！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >[排行榜]</p><p class=\"bb_paragraph\" >在計分挑戰和無限模式中獲得排名！</p><p class=\"bb_paragraph\" >與全球玩家競爭，爭奪最多的硬幣！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >最多可與 4 位玩家一起遊玩！</p><p class=\"bb_paragraph\" >無論是單人還是多人，目標都是打破你的下一個高分！</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300840/header.jpg?t=1739151060",
+    "developers": [
+      "SAT-BOX"
+    ],
+    "publishers": [
+      "SAT-BOX"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

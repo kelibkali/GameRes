@@ -1,0 +1,86 @@
+{
+  "3070460": {
+    "name": "Cake Platformer",
+    "steam_appid": 3070460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Gameplay:</h2>Player controls Ninja character in this 3rd person platformer. Game has 5 different maps and every map mission is to solve puzzles and finish levels. End of every map there is cake which gives steam achievement and magic platform which ends map/level. Maps has different enemies like following ghost, shooting cannons, moving cannons, laser beams and following ufo. Levels has different puzzles like player need move different items to unlock doors, unlock hidden platforms. Some levels player need find keys to open door. There is also moving platforms, falling platforms. <br>Falling to water will kill player and player will be respawned last checkpoint. In start of level there is 3 lives and player can collect more at levels.<br>Also player can use laser shoot to destroy enemies and solve some puzzles.<br>So be the hero, kill enemies, solve puzzles and finish all levels<h2 class=\"bb_tag\" >Features:</h2>-  5 maps<br>- Platforms (Spline platform, fall platform, spinning platform, destructible platform).<br>- Solve different puzzles to unlock doors, different hidden platforms etc<br>- Puzzle system.<br> - Collectibles (Coins, Health, Lifes, Keys).<br>- Score system.<br>- Checkpoints.<br>- Physics surface component (Slippery ice and sticky goop).<br>- Enemies like ghosts, cannons, moving cannons, Ufo<br>- Fan/Wind machine.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/header.jpg?t=1748033385",
+    "developers": [
+      "Bonittor Games"
+    ],
+    "publishers": [
+      "Bonittor Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 5,
+      "highlighted": [
+        {
+          "name": "Find cake map 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3070460/f09ec86ce39afc54056678cd6bc0f4f77349a30c.jpg"
+        },
+        {
+          "name": "Find cake map 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3070460/a624791ee2640cca40f3546b90a6939970ebbcd9.jpg"
+        },
+        {
+          "name": "Find cake map 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3070460/34e57584f8bc87bbd582696d207d00979b2961b9.jpg"
+        },
+        {
+          "name": "Find cake map 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3070460/eb899af4f518f2cf87a2290add4a431acb969138.jpg"
+        },
+        {
+          "name": "Find cake map 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3070460/c9792b07c56d1a72094ef95339adfa44c20e7237.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "1855200": {
+    "name": "Sclender",
+    "steam_appid": 1855200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "View your favorite games in a whole new light! Sclender gives you the power to apply sophisticated visual filtering to your favorite games and apps. Make your games look like they are on a CRT TV, or just make the game's screen bigger without dialing up the GPU juice. Game too dark? Sclender can make it brighter. Want to play your game in a thumbnail? Sclender can do that, too. No matter the app, you can use it with Sclender*. And what's more, you can make your own effects with the GLSL shading language and run those, too!<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Resize apps with quality upsampling and downsampling<br></li><li>lighten/darken application appearance<br></li><li>customize effects for individual windows<br></li><li>launch apps with customized visual presets<br></li><li>filter app presentation with classic TV and monitor effects<br></li><li>clone windows across multiple displays<br></li><li>apply your own GPU shaders written in GL Shading Language<br></li><li>stack filters to produce complex effects<br></li><li>compatible with Virtual Box, VMWare, and Hyper-V.</li></ul><br>Try the demo, Sclender Lite, which features support for filtering at 30 FPS and window upscaling up to 1080p. The full version of Sclender has no FPS or resolution limitations, and can use up to half your computer's resources for maximum speed.<br><br>*Some applications may require use in virtualization software to be usable with Sclender.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1855200/header.jpg?t=1702378996",
+    "developers": [
+      "Caudsoft"
+    ],
+    "publishers": [
+      "Caudsoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 28 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

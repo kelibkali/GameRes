@@ -1,0 +1,114 @@
+{
+  "3251180": {
+    "name": "Vanishtan",
+    "steam_appid": 3251180,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Vanishtan</strong> is a simple falling block puzzle game.</p><p class=\"bb_paragraph\" >By rotating the falling blocks and connecting four or more of the same symbols, the connected identical symbols will be Vanish.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251180/extras/df10abe5308192ebd4fac38e9a2a929e.avif?t=1771414638\" width=134 height=170 /></span> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251180/extras/46238fd9641c420db45174152054a25b.avif?t=1771414638\" width=130 height=168 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >A a bit unique about Vanishtan. when four or more connected symbols are Vanish, the other symbols next to them are Vanish in a chain reaction. For example, if four ice symbols are connected and Vanish, Adjacent fire symbols will be Vanish in a chain reaction.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251180/extras/ebecd419cb464d20f3a4b79e69d276ce.avif?t=1771414638\" width=132 height=172 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Accidental chains that the player did not expect can occur, and the score bonus from the chains can be boost.</p><p class=\"bb_paragraph\" >Of course, you are a skilled enough player, can be able to aim for a big chain on your own without relying on chance.</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251180/header.jpg?t=1771414638",
+    "developers": [
+      "せつら"
+    ],
+    "publishers": [
+      "せつら"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 900,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Defeat first slime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/fd9672662289deb7817d67d5cb5a49d47535792e.jpg"
+        },
+        {
+          "name": "Defeat king slime",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/03f1ea6324c961a89507d215a7dcae326d9feb2f.jpg"
+        },
+        {
+          "name": "Defeat lizard",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/813dc9e056831a4a04179f2bc3c2376b9bd03f2c.jpg"
+        },
+        {
+          "name": "Defeat skeleton",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/97a54c88a1fe1afb8aef83b122499b1aab9d0173.jpg"
+        },
+        {
+          "name": "Defeat cyclopse",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/aadb4f58d30d019ee48907c2fe6df7b5420ae7eb.jpg"
+        },
+        {
+          "name": "Defeat golem",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/cc19b5e7cd8e113c9a93af02eb90b2fca90b441d.jpg"
+        },
+        {
+          "name": "Score 50K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/d17607671d3d2537b1c2c6ee950129aa230b2233.jpg"
+        },
+        {
+          "name": "Chain bonus x5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/4c92aabb1c2ecff20b77de4299594e8507dcb3c3.jpg"
+        },
+        {
+          "name": "Chain bonus x10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/42dd3e5932a2941bcc149d433cb7c82fafa8bfa4.jpg"
+        },
+        {
+          "name": "Chain bonus x15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251180/39626bd63b840f38c4e574b2a1aa7da76ebfe4b5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

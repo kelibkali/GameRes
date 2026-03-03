@@ -1,0 +1,66 @@
+{
+  "3241680": {
+    "name": "云梦之音 The Melody of Yunmeng",
+    "steam_appid": 3241680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一款拥有丰富道具的游戏，通过各种道具之间组合，每次刷新道具都可以给角色带来不同属性。非常多的组合和随机性。优点是异步战斗，你不需要等待其他玩家操作，你可以花费很多时间配置你想要的组合。直到你满意的点开战斗。</p><p class=\"bb_paragraph\" >此游戏核心玩法来自于 西行乱斗 ，小动物自走棋，背包乱斗等，喜欢这类玩法的可以搜索，尤其推荐西行乱斗。不过本游戏玩法改变了，加入了圣物系统和其他属性之间的克制。目前游戏还在开发中，希望聆听大家的意见。</p>",
+    "supported_languages": "英语, 法语, 德语, 俄语, 日语, 简体中文, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241680/header_schinese.jpg?t=1732068617",
+    "developers": [
+      "StarOrangeGames"
+    ],
+    "publishers": [
+      "StarOrangeGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

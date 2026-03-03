@@ -1,0 +1,66 @@
+{
+  "3155960": {
+    "name": "Queendom",
+    "steam_appid": 3155960,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >It is a turn-based strategy game similar to a board game.</p><p class=\"bb_paragraph\" ><strong>Objective of the Game:</strong><br>Capture 12 regions. Each controlled region gives 1 point. The first player to reach 12 points wins.</p><p class=\"bb_paragraph\" ><strong>Game Structure:</strong><br>The game is divided into turns, and each turn consists of three phases:</p><p class=\"bb_paragraph\" ><strong>1. Orders Phase</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Select a region by left-clicking on it, then choose the appropriate order.</p></li><li><p class=\"bb_paragraph\" >You can give up to <strong>3 orders per turn</strong>.</p></li><li><p class=\"bb_paragraph\" >After assigning orders, click the <strong>‘Next Turn’</strong> button and wait for the other players.</p></li></ul><p class=\"bb_paragraph\" ><strong>2. Execution Phase</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Once all players have confirmed their orders, they take turns executing the selected actions.</p></li></ul><p class=\"bb_paragraph\" ><strong>Available Orders:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>March</strong> – Move a unit to another region.</p></li><li><p class=\"bb_paragraph\" ><strong>Defend</strong> – Adds +1 strength to a unit defending this region during the next turn.</p></li><li><p class=\"bb_paragraph\" ><strong>Mustering</strong> – Adds +1 unit to the region.</p></li><li><p class=\"bb_paragraph\" ><strong>Capture Territory</strong> – Gain control of a neutral or enemy region to be able to give orders on it.</p></li><li><p class=\"bb_paragraph\" ><strong>Hold a Tournament</strong> – The winner becomes a new card in your hand.</p></li><li><p class=\"bb_paragraph\" ><strong>Support</strong> – Assist a neighboring region in battle; your supporting army loses 1 strength.</p></li></ul><p class=\"bb_paragraph\" ><strong>3. World Phase</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A random event card is drawn, affecting the overall game world.</p></li><li><p class=\"bb_paragraph\" >Then, the next turn begins.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Issue orders on your territories by carefully planning your strategy and tactics.</p></li><li><p class=\"bb_paragraph\" >Manage your deck — victory depends on how wisely you use your cards.</p></li><li><p class=\"bb_paragraph\" >Command your troops — can you achieve your objective with minimal losses?</p></li><li><p class=\"bb_paragraph\" >Single-player and multiplayer modes — battle AI or challenge your friends.</p></li></ul>",
+    "supported_languages": "英语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155960/header.jpg?t=1768596630",
+    "developers": [
+      "Jellyfish Studio"
+    ],
+    "publishers": [
+      "Jellyfish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "3063090": {
+    "name": "Wallsurf",
+    "steam_appid": 3063090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Wallsurf is a game that combines elements from CS:GO's Surf minigame, Jumps, and the beta release of Karlson. This game is a fast paced 3D racer based on the movement mechanic of sliding down walls. Explore scenic levels and collect gems to progress and unlock more levels with different themes and difficulties. Use power-ups such as dash arrows to launch yourself across the level and shave seconds off your time. As you learn the basic mechanics of this game, you will be able to execute strategic maneuvers and develop routes that shave off even more time off the counter.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063090/header.jpg?t=1764537227",
+    "developers": [
+      "Crungey"
+    ],
+    "publishers": [
+      "Crungey"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Unlock world two",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3063090/c3dde01913d6c3288a69c80611ec95464bb0b330.jpg"
+        },
+        {
+          "name": "Unlock world three",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3063090/7a8e4909047613632759ed945cbe4b7b65497806.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

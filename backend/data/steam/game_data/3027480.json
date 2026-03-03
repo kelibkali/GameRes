@@ -1,0 +1,90 @@
+{
+  "3027480": {
+    "name": "前哨站3",
+    "steam_appid": 3027480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "选择你的矿车机甲和挖矿装置，深入地下采集矿石，升级装置和武器，怪物会不间断来袭击，升级你的火力把它们杀光。<br />\r\n保护你的机甲，对数个外太星球进行探索吧！",
+    "supported_languages": "英语, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027480/header.jpg?t=1729002636",
+    "developers": [
+      "BananaDogGames"
+    ],
+    "publishers": [
+      "BananaDogGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "kill first monster",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/6e5aae7d427bc370b141cae825c1bd3e5a0fc060.jpg"
+        },
+        {
+          "name": "kill spider boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/dd85ac9f21b304f7d3fdcec455046fa896580425.jpg"
+        },
+        {
+          "name": "kill worm boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/aca5e78565309f832e2ccfa88c59cf8c8c730fe0.jpg"
+        },
+        {
+          "name": "kill brainbug boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/6c88086804aaf33b26ab2c14a1545c9ce3df016b.jpg"
+        },
+        {
+          "name": "kill octopus boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/755b5d9dbb9a725a0aa79b14eacc50b99c82f2d5.jpg"
+        },
+        {
+          "name": "kill drangon boss",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3027480/42ff0bfa7402f78331073acfbd23b7c104a88131.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Mixed",
+      "total_positive": 10,
+      "total_negative": 15,
+      "total_reviews": 25
+    },
+    "type": "game"
+  }
+}

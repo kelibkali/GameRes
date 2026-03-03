@@ -1,0 +1,82 @@
+{
+  "3058700": {
+    "name": "Banana Cat",
+    "steam_appid": 3058700,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" ><strong>About the Game</strong></h2><br>In Banana Cat you’ll click on a catnana, and the number on top of it will increase by 1 everytime you click on it. and every specific amount of hours you’ll receive a random catnana in your Steam inventory depending on the rarity, if you want, you can sell them in the Steam marketplace (stonks).<br><strong>Drop Rate:</strong> Every 1/2 hours<br><ul class=\"bb_ul\"><li>Common 58,89%<br></li><li>Rare 15%<br></li><li>Epic 5%<br></li><li>Mystic 1%<br></li><li>Legendary 0,1%<br></li><li>The Real Cat Deal 0,01%</li></ul>",
+    "supported_languages": "英语, 意大利语, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058700/header.jpg?t=1721226811",
+    "developers": [
+      "EpicMario71",
+      "RedSkeleton",
+      "Squidbuild",
+      "Pariton?"
+    ],
+    "publishers": [
+      "Sciorda Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Click",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/2da35c771c2931c6e6c85a1a999ac64b658dccc9.jpg"
+        },
+        {
+          "name": "Click",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/846f986da18fceeeedb188f8e815e00cd64c39d7.jpg"
+        },
+        {
+          "name": "Unlock Banana Cat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/652a1bd3ceff0f4cc147c9feee975c6168bcef57.jpg"
+        },
+        {
+          "name": "Click",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/dd78ea92b5768b602d5cd4a9af3088054957da23.jpg"
+        },
+        {
+          "name": "Click",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/7a2893b677ef5186f31e9f8dd4d1fa25a558742d.jpg"
+        },
+        {
+          "name": "KONAMI",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058700/153ae6857aa1797e8ff2d4ad3091b04afd1d9a84.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

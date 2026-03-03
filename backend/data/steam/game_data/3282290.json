@@ -1,0 +1,110 @@
+{
+  "3282290": {
+    "name": "Flashcard Hero",
+    "steam_appid": 3282290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >厌倦了无聊的词汇卡片？在《Flashcard Hero》中，用创新的卡牌战斗和 RPG 式的游戏玩法，让你的学习变得更有趣！</p><p class=\"bb_paragraph\" >踏上征程，穿越十二座城市，对抗越来越强大的敌人（和越来越高级的词汇表！），选择你的目标语言：法语、德语、西班牙语、意大利语、俄语、乌克兰语、日语、中文（简体）、韩语、阿拉伯语或土耳其语。</p><p class=\"bb_paragraph\" >升级角色属性，自定义你的游戏风格，赚取经验和等级，解锁 Steam 成就，并在排行榜上与其他玩家一较高下！</p><p class=\"bb_paragraph\" >还没准备好战斗？你可以先在非战斗模式中自由复习词汇。太简单了？试试「硬核模式」，挑战更强的敌人（还能获得更多经验）！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>-= 补丁 1.1 =-</strong></p><p class=\"bb_paragraph\" >修复了在日语模式下进行第 1 世界第 3 区时导致游戏卡死的词库问题。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>**更新 1.2</strong>**</p><p class=\"bb_paragraph\" >新增法语、俄语、西班牙语和中文的本地语言用户界面！</p><p class=\"bb_paragraph\" >现在支持多种屏幕分辨率。</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 俄语, 简体中文, 西班牙语 - 拉丁美洲<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282290/header.jpg?t=1754155435",
+    "developers": [
+      "Torch Three Studios"
+    ],
+    "publishers": [
+      "Torch Three Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 1100,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 22.00",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Level 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/c5bd60917a19ae989edb5fe1509e813742b82adb.jpg"
+        },
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/e339c52b44d65c461f5a81fd6a21e15a1e64fa01.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/bb0cd627a72a02194942499843cb43ecfa4960c8.jpg"
+        },
+        {
+          "name": "Level 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/9b4d44bd574ae17d29e3bdd17d0bc31fb5d1ef1f.jpg"
+        },
+        {
+          "name": "Level 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/9fa9720e9c7f0b2102d4b8201919128d41fc6201.jpg"
+        },
+        {
+          "name": "Level 60",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/bfe4a25acd7282f5e494edda4c5e995b4432e718.jpg"
+        },
+        {
+          "name": "Max Level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/7889ed9cf7100056ac8eb4ad1e8f17077f412bc5.jpg"
+        },
+        {
+          "name": "Slayer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/651b928b29dfffa00a2fe7f8e60fad365249341e.jpg"
+        },
+        {
+          "name": "Erudite",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/4cdc997d92550a80e39bbf506af4a6b344ea9d47.jpg"
+        },
+        {
+          "name": "Destroyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3282290/8b72606c6f2d25c604b4db3ee2bc02f53f4a7059.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "1852940": {
+    "name": "Highline Volleyball VR",
+    "steam_appid": 1852940,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1852940/extras/a0c400f6619fbb1aac0283e3945225a4.poster.avif?t=1733126658\" width=720 height=404 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1852940/extras/a0c400f6619fbb1aac0283e3945225a4.webm?t=1733126658\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1852940/extras/a0c400f6619fbb1aac0283e3945225a4.mp4?t=1733126658\" type=\"video/mp4\"></video></span>Highline Volleyball VR is a virtual reality volleyball game that offers an ultra-immersive experience with precise interactions, enhancing not just the game but also your actual volleyball skills and strategies. </p><p class=\"bb_paragraph\" >Highline Volleyball VR is designed to be accessible to both beginners and professionals, and is compatible with various VR setups, including seated, standing, room-scale, and even treadmill play. </p><p class=\"bb_paragraph\" >Fight against other players online or try to rule the leaderboard in the single player ranked tournaments and engage in volleyball across six unique environments, such as the Sunny Beach Resort or Paris Arena Stadium.  </p><p class=\"bb_paragraph\" >Select your preferred time of day to play—morning, afternoon, sunset, or night—and enjoy exploring and interacting with the dynamic surroundings in the free tour mode.</p><h2 class=\"bb_tag\" > List of Features available in Early access </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Tutorial</p></li><li><p class=\"bb_paragraph\" > Single player 2 VS 2 match</p></li><li><p class=\"bb_paragraph\" > Single player 4 VS 4 match</p></li><li><p class=\"bb_paragraph\" > Online multiplayer 1 VS 1 match</p></li><li><p class=\"bb_paragraph\" > Online multiplayer 2 VS 2 match (P1 + CPU VS P2 + CPU)</p></li><li><p class=\"bb_paragraph\" > Spectator mode for online multiplayer</p></li><li><p class=\"bb_paragraph\" > Single player 2 VS 2 Tournaments with optional online ranking and leaderboards</p></li><li><p class=\"bb_paragraph\" > 6 environments and ambiences : Sunny Beach, Six Coconut Beach, Paris Stadium, La marina, Eden Rock, Synth Court</p></li><li><p class=\"bb_paragraph\" > Different time of day settings (Morning, Afternoon, Sunset, Night)</p></li><li><p class=\"bb_paragraph\" > Realistic and precise scales (Net height, ball size etc....)</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 法语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1852940/header.jpg?t=1733126658",
+    "developers": [
+      "Palladium Super Interactive"
+    ],
+    "publishers": [
+      "Palladium Super Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "Tutorial Completed !",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/bb4b89c13c07f93198390f46ae2187bec715f317.jpg"
+        },
+        {
+          "name": "I like Sunny Beach Resort",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/a95fd91564893b06f5c827eb401a690f92006f93.jpg"
+        },
+        {
+          "name": "I like Paris Arena Stadium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/af635731e1103d2754a75fa4289b6d49e2828a0c.jpg"
+        },
+        {
+          "name": "I like Six Coconut Beach",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/412602986e323afa762467baf585ec1a968e1b9a.jpg"
+        },
+        {
+          "name": "I like Eden Rock",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/45356f677523a9208cd38f9631a5f01200505c3c.jpg"
+        },
+        {
+          "name": "Powered Hit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/d7ff21d21126ca05cf233afde4c7c70776516a1a.jpg"
+        },
+        {
+          "name": "I like La Marina",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/cf520c03dce81eeeac7069b0180e1cb846fac38f.jpg"
+        },
+        {
+          "name": "New competitor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/817ac78068a9a332f08be106d6ba417c69219fc0.jpg"
+        },
+        {
+          "name": "The fairy wheel",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/804ea6f0283be05bdaef89dfd63b5e897ff538ab.jpg"
+        },
+        {
+          "name": "Synthwave court",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1852940/798c6cb6aa278855148959866c4cfe930075c69f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

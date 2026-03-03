@@ -1,0 +1,82 @@
+{
+  "1835460": {
+    "name": "变量象形跳",
+    "steam_appid": 1835460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "-----------------------<br><strong>建议使用XBOX控制器。<br>不建议使用键盘操作。</strong><br>-----------------------<br>行动难度：★★★★☆<br>挫折程度：★★★★★<br><br>一个飞行的表情符号即时死亡动作游戏。<br>利用跳跃和放大、缩小来达到目标!<br><br>-单一模式-<br><br>&quot;如何操作&quot;<br>左摇杆：左/右移动<br>A键：跳跃<br>LB/RB按钮：X轴放大/缩小<br>LT/RT按钮：Y轴放大/缩小<br>开始按钮：显示菜单<br><br>正常：每个阶段根据跳跃的次数分为三个等级。<br>难：每个阶段都有固定数量的跳跃。<br>计时：需要多少分钟来清除所有50个阶段。<br><br><br>-多模式 2至4人-<br>你可以使用Steam的 &quot;Remote play together &quot;功能进行在线游戏。<br><br>&quot;如何控制&quot;<br>左摇杆：左/右移动<br>A键：跳跃<br>LB/RB按钮：放大/缩小<br>开始按钮：菜单<br><br>普通游戏：20个阶段。 争夺积分。<br>生存赛：一旦你死了，比赛就结束了。<br>争夺位置：通过触摸积木30秒来增加你的位置。<br>炮战：用你的大炮杀死对手3次。<br><br>当你放大和缩小时，球员可能会相互重叠并飞向错误的方向。",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835460/header_schinese.jpg?t=1639911421",
+    "developers": [
+      "WINGLAY"
+    ],
+    "publishers": [
+      "WINGLAY"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

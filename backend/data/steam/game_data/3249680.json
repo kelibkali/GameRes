@@ -1,0 +1,134 @@
+{
+  "3249680": {
+    "name": "Bread",
+    "steam_appid": 3249680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249680/extras/bcff037c5b2ddd6bba65e35064daebdf.avif?t=1733252492\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249680/extras_big/bcff037c5b2ddd6bba65e35064daebdf.avif?t=1733252492 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ><strong>Bread</strong> 不是普通的点击游戏——这是一个充满碳水化合物的旅程，充满了无尽的面包点击疯狂！规则很简单：点击一块面包。<i>就这样。</i> 但不要被简单所欺骗！每次点击都是迈向面包点击伟大的一步。你会成为终极的，还是在追求荣耀的过程中，手指会感到痉挛？</p><p class=\"bb_paragraph\" >解锁有趣的成就，比如 <strong>“First Slice”</strong> 或 <strong>“Baking Bread”</strong>，发现点击成名的刺激。你觉得自己能应对 <strong>“Timeless Bread Clicker”</strong> 的终极挑战吗？ 100,000,000 次点击将把你与永恒的面包点击传奇地位隔开！</p><p class=\"bb_paragraph\" >没有烘焙的过程——只有纯粹、未经修饰的面包点击动作。准备好点击到顶了吗？拿起你的面包，让点击开始吧！</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249680/header.jpg?t=1733252492",
+    "developers": [
+      "dgsadry"
+    ],
+    "publishers": [
+      "dgsadry"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 55,
+      "highlighted": [
+        {
+          "name": "First Slice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/e18e9630128b9d802addbd6ccb5b4e5a78f13ef5.jpg"
+        },
+        {
+          "name": "Bread Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/9c1ea9718bbb61dfcbb60835d329f5984cd7339b.jpg"
+        },
+        {
+          "name": "Toasty Novice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/18555369db85883b47f2970b7dd2e2acc7c82898.jpg"
+        },
+        {
+          "name": "Little Loaf Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/e6b4d4666157c238221b8d9b15e3b64d462510d5.jpg"
+        },
+        {
+          "name": "Crusty Warrior",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/60c93e6b7b0f6aa20f87870c4661d2656ad446b5.jpg"
+        },
+        {
+          "name": "Bread Guru",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/a7107db9cd2fb9e7b3ae7b014ce9a79a30c6869e.jpg"
+        },
+        {
+          "name": "Yeast Maniac",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/55cdcd069abb06277921a4097c7b0befb901b417.jpg"
+        },
+        {
+          "name": "Dough Demigod",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/6c2f4ca0d54519cb7b76bbb8c01d7be78786c30d.jpg"
+        },
+        {
+          "name": "Master of the Loaf",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/f2179e5a7cdd61d9799c041868f378ae540c1993.jpg"
+        },
+        {
+          "name": "Legendary Baker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3249680/b8c52b8dacd9969456acf7f43e8fda89ec6f73a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

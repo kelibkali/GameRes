@@ -1,0 +1,106 @@
+{
+  "1830100": {
+    "name": "Space Survival",
+    "steam_appid": 1830100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You are on a routine mission harvesting ice from asteroids, when suddenly your ship is hit by a high speed one and destroyed! Luckily you were outside of the ship when it happened.. Or was that luck? Now you are stranded in space alone! How long can you survive? You do have your grenade launcher and ice collecting gear and you can use the ice to power your life support, maybe you can even find some power ups from pieces of your old ship.. Just watch out for black holes!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830100/header.jpg?t=1679616601",
+    "developers": [
+      "Matt Timmermans"
+    ],
+    "publishers": [
+      "logicandchaos"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 23,
+      "highlighted": [
+        {
+          "name": "Collected 50 powerups!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/4a0b76fb39cb407da0bd5e86ec8d2a22d1155376.jpg"
+        },
+        {
+          "name": "Collected 10 powerups!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/4a0b76fb39cb407da0bd5e86ec8d2a22d1155376.jpg"
+        },
+        {
+          "name": "Collected 25 powerups!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/4a0b76fb39cb407da0bd5e86ec8d2a22d1155376.jpg"
+        },
+        {
+          "name": "Collected 100 ammo boxes!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/f2ba6e475589992231e2339ea13655957f25363d.jpg"
+        },
+        {
+          "name": "Collected 50 ammo boxes!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/f2ba6e475589992231e2339ea13655957f25363d.jpg"
+        },
+        {
+          "name": "Collected 250 ammo boxes!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/f2ba6e475589992231e2339ea13655957f25363d.jpg"
+        },
+        {
+          "name": "Collected 500 ice shards!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/774eb219289cd052ee1609fbddab843ec6dcbdd2.jpg"
+        },
+        {
+          "name": "Collected 2000 ice shards!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/774eb219289cd052ee1609fbddab843ec6dcbdd2.jpg"
+        },
+        {
+          "name": "Collected 1250 ice shards!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/774eb219289cd052ee1609fbddab843ec6dcbdd2.jpg"
+        },
+        {
+          "name": "On the leaderboard!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1830100/51bcb576237bdead36a6a37584a4e33c088fd807.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

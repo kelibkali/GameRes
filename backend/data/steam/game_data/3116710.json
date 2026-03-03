@@ -1,0 +1,70 @@
+{
+  "3116710": {
+    "name": "Intravenous 2 - Supporter Pack",
+    "steam_appid": 3116710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The Supporter Pack provides bonus content for those who want to support the developers and the composer beyond just buying the game itself. </p><h2 class=\"bb_tag\" >Content inside</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The soundtrack composed by Xtrullor. Featuring both album versions and 4-stage gameplay versions. Includes three formats - .flac, .ogg, and .mp3</p></li><li><p class=\"bb_paragraph\" >6 Extra fully customizable weapons: <br>Vector 10MM sub-machine gun<br>Classic .44 Magnum revolver<br>Five-Seven 5.7MM pistol<br>P90 5.7MM sub-machine gun<br>DP-12 double-barrel shotgun<br>M1911 0.45 ACP pistol</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Thank you for your support!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116710/header.jpg?t=1740924847",
+    "developers": [
+      "Explosive Squat Games"
+    ],
+    "publishers": [
+      "HypeTrain Digital"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 2520,
+      "discount_percent": 40,
+      "initial_formatted": "¥ 42.00",
+      "final_formatted": "¥ 25.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 6,
+      "total_negative": 1,
+      "total_reviews": 7
+    },
+    "type": "dlc"
+  }
+}

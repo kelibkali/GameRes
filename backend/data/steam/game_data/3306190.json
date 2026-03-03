@@ -1,0 +1,82 @@
+{
+  "3306190": {
+    "name": "MojiCraft - Beast+Critter Expansion",
+    "steam_appid": 3306190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Unlocks the Beast and Critter factions.</p><p class=\"bb_paragraph\" ><strong><u>Beast Mojis</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Beaver</p></li><li><p class=\"bb_paragraph\" >Eagle</p></li><li><p class=\"bb_paragraph\" >Rat</p></li><li><p class=\"bb_paragraph\" >Lobster</p></li><li><p class=\"bb_paragraph\" >Shark</p></li><li><p class=\"bb_paragraph\" >T-Rex</p></li><li><p class=\"bb_paragraph\" >Tiger</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Beast Structures</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Hut</p></li><li><p class=\"bb_paragraph\" >Beast Kingdom</p></li><li><p class=\"bb_paragraph\" >Fountain</p></li><li><p class=\"bb_paragraph\" >Shrine</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Critter Mojis</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Microbe</p></li><li><p class=\"bb_paragraph\" >Bee</p></li><li><p class=\"bb_paragraph\" >Ant</p></li><li><p class=\"bb_paragraph\" >Mosquito</p></li><li><p class=\"bb_paragraph\" >Roach</p></li><li><p class=\"bb_paragraph\" >Scorpion</p></li><li><p class=\"bb_paragraph\" >Spider</p></li><li><p class=\"bb_paragraph\" >Caterpillar</p></li><li><p class=\"bb_paragraph\" >Butterfly</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Critter Structures</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Garden</p></li><li><p class=\"bb_paragraph\" >Moai</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306190/header.jpg?t=1730861638",
+    "developers": [
+      "Kobomi"
+    ],
+    "publishers": [
+      "Kobo Korp"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

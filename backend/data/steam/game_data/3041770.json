@@ -1,0 +1,138 @@
+{
+  "3041770": {
+    "name": "Breakout Beyond",
+    "steam_appid": 3041770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《Breakout》回归！Choice Provisions（《Bit.Trip》系列的开发商） 颠覆了这一传奇系列游戏。在这款经典游戏的霓虹版本中，通过清除砖块来解开每个谜题，达到最终目标。游玩时间越长，连击次数与特效强度就会越高，让人眼花缭乱的视听盛宴是对最熟练玩家莫大的犒赏。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/32fabcb79f08398d9d6784c8aa5ee740.poster.avif?t=1742910286\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/32fabcb79f08398d9d6784c8aa5ee740.webm?t=1742910286\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/32fabcb79f08398d9d6784c8aa5ee740.mp4?t=1742910286\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >特殊方块助你一臂之力，比如能清除砖块的大爆炸、能救球的挡板以及能洞穿所有砖块的激光炮。每一种方块都会为玩家带来令人眼花缭乱的动态效果，创造出《Breakout》中前所未有的惊险刺激。 </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/e0ed8b4f9091c479f0b4e536669fcf43.poster.avif?t=1742910286\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/e0ed8b4f9091c479f0b4e536669fcf43.webm?t=1742910286\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/e0ed8b4f9091c479f0b4e536669fcf43.mp4?t=1742910286\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >72 个关卡考验你的技巧，但你并非孤立无援。“专注模式”下，你可以减慢游戏时间，但得分也会相应降低。如果想和好友一同游戏，你可以在本地双人合作模式中叫上伙伴一起闯关。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/8ba193d4cc7e3a1703492ca0ab63345d.poster.avif?t=1742910286\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/extras/8ba193d4cc7e3a1703492ca0ab63345d.webm?t=1742910286\" type=\"video/webm; codecs=vp9\"></video></span></p><h2 class=\"bb_tag\" >游戏特色</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >- 72 个关卡挑战你击破砖块的技巧</p><p class=\"bb_paragraph\" >- 可解锁无限模式，在全球联网的排行榜中一竞高下</p><p class=\"bb_paragraph\" >- 可与好友在双人合作模式中畅玩</p><p class=\"bb_paragraph\" >- 由程序生成的音频与视觉效果，会随连击增多而不断叠加</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041770/header.jpg?t=1742910286",
+    "developers": [
+      "Choice Provisions"
+    ],
+    "publishers": [
+      "Atari"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 26,
+      "highlighted": [
+        {
+          "name": "Beyond Champion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/e60dae5ae740d62b4f3512ea9ae5378795caebd0.jpg"
+        },
+        {
+          "name": "Layer 1 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/bff32742599fb64342d40fe96919f87fcdf3cd4b.jpg"
+        },
+        {
+          "name": "Layer 2 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/914575437462c687c93a6a2f9045108ca01ed872.jpg"
+        },
+        {
+          "name": "Layer 3 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/ce6954e43ac0cf010fd545d1e7393dd5e0e2084d.jpg"
+        },
+        {
+          "name": "Layer 4 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/f72d5a67d41a4a6586e87afc8fe23333bd443815.jpg"
+        },
+        {
+          "name": "Layer 5 Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/b862d68ad899b418ad6e78bfdca6a0f882f7d411.jpg"
+        },
+        {
+          "name": "Split Personality",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/ba417b8b05c956cbf6e02fc194c3cbe8be00145e.jpg"
+        },
+        {
+          "name": "Get Equipped",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/d5a27180ce4cd9a4c9d5979c6ef017fc1d94dd1b.jpg"
+        },
+        {
+          "name": "Cyber Security",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/263ea8d97d4f5660bab3ebb89aa2513b1bcdac83.jpg"
+        },
+        {
+          "name": "Arrowslit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3041770/e9c3c6a529f31760965c2a82417c2d476beeac5a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1837910": {
+    "name": "BridgeTeam: Ship Simulator",
+    "steam_appid": 1837910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "BridgeTeam: Ship Simulator<br><br>Sail the open ocean or test your skills in docking at busy harbours. Use the radar to show trails and prevent collisions. Bridge Team: Ship Simulator is a ship simulator built from the ground up, and aiming to build on the legacy of the previous ship simulator series (note: we are not affiliated with the previous ship sim devs in any way). <br><br>Instead of a user manual, we've decided to make a video on basic simulator operations. You can find the link at the bottom of this description. <br><br>Bridge Team contains: <br> - Highly realistic ships<br> - A fully functioning RADAR with True &amp; Relevant Motion Trails. <br>     - Planned features coming soon: EBL, VRM, and Parallel Index lines. <br> - Basic conning screen<br> - Basic autopilot system<br> - NMEA support via TCP/IP protocol - connect to real world ECDIS and other NMEA equipment <br> - NMEA currently supports $GPRMC format. We plan to add other formats too. We can also satisfy any NMEA formats by request.<br> - NMEA currently is via TCP/IP only.  <br> - Ocean system with bow and stern wakes<br> - AI ships<br> - Realistic wind/tide effects<br> - Accurate simulation models<br> - ... and much more!<h2 class=\"bb_tag\" >YouTube link to user manual replacement video: </h2>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/header.jpg?t=1642037490",
+    "developers": [
+      "Enrych Media Ltd."
+    ],
+    "publishers": [
+      "Enrych Media Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9000,
+      "final": 9000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 90.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

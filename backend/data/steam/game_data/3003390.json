@@ -1,0 +1,78 @@
+{
+  "3003390": {
+    "name": "The Ball",
+    "steam_appid": 3003390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Immerse yourself in this captivating platformer from a third-person perspective, where you control a ball navigating through a series of obstacles in a straight line. The game is divided into three distinct worlds, with a total of 27 challenging levels. Each level ramps up in difficulty, ensuring a thrilling and engaging experience. The game's addictive nature will keep you coming back for more, as each failure only fuels your determination to try again. Are you ready to conquer all the worlds and master every level?",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3003390/header.jpg?t=1724848873",
+    "developers": [
+      "HognatusGames"
+    ],
+    "publishers": [
+      "HognatusGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "World I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3003390/392614724a50fd1fe0646e281e2d4f47a52c854d.jpg"
+        },
+        {
+          "name": "World II",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3003390/7089927009e51365bd59c0dd43e69b3bea4c945e.jpg"
+        },
+        {
+          "name": "World III",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3003390/8c286401a8213bdbba284f44e7a6d98fdf2cae8d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

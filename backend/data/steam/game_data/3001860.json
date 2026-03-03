@@ -1,0 +1,63 @@
+{
+  "3001860": {
+    "name": "Ominoflux Demo",
+    "steam_appid": 3001860,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >一款独特的方块谜题游戏。</h2><p class=\"bb_paragraph\" >查看演示版的单人战役模式。</p><h2 class=\"bb_tag\" >完整版包括：</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >2人合作得分攻击模式。</p></li><li><p class=\"bb_paragraph\" >全球Steam排行榜。</p></li><li><p class=\"bb_paragraph\" >完整的战役故事模式。</p></li><li><p class=\"bb_paragraph\" >额外的游戏模式。</p></li><li><p class=\"bb_paragraph\" >Steam成就。</p></li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3001860/0847c99bea5a5a3d4d4bb09ad2caaa6c5566aaf2/header.jpg?t=1769262187",
+    "developers": [
+      "frenzyneurons"
+    ],
+    "publishers": [
+      "frenzyneurons"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

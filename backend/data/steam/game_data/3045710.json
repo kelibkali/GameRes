@@ -1,0 +1,62 @@
+{
+  "3045710": {
+    "name": "异世界的雪与奇迹 中文配音与定制配乐",
+    "steam_appid": 3045710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "追加了主要的两名角色的全程中文语音，及可更换的定制配乐11首。<br />\r\n<br />\r\n【注意】<br />\r\n请在下载dlc之后将dlc文件（Patchbgm.rpa和Patchvoice.rpa）剪切到game文件夹下<br />\r\n<br />\r\n操作顺序：<br />\r\n打开游戏库页面，点击齿轮图标，或者在左侧游戏名字处右键单击<br />\r\n打开属性菜单→左侧已安装文件栏→上方浏览<br />\r\n将dlc文件（Patchbgm.rpa和Patchvoice.rpa）剪切到game文件夹下",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045710/header_schinese.jpg?t=1718267636",
+    "developers": [
+      "千迹制作组"
+    ],
+    "publishers": [
+      "千迹制作组"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

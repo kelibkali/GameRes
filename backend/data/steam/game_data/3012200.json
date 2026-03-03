@@ -1,0 +1,79 @@
+{
+  "3012200": {
+    "name": "NUMANUIN Demo",
+    "steam_appid": 3012200,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong><i>NUMANUIN Demo - 令人难以置信的独立恐怖游戏，恐怖类型的解构。看似简单，但充满动作黑暗 2D 生存恐怖，像素风格，带有 roguelite 元素。</i></strong><br><i>玩家的目标是尽可能长时间地生存并用鼠标杀死敌人。</i><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/extras/4d9fb223116a5656882892d86bd1843c.avif?t=1734509319\" width=616 height=160 /></span><br><i>特点：</i><br><ul class=\"bb_ul\"><li>生存<br></li><li>能够杀死敌人<br></li><li>持续时间短<br></li><li>恐怖元素<br></li><li>鼠标控制<br></li><li>黑暗界面<br></li><li>音乐由 Karl Casey @ White Bat Audio 创作</li></ul>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 简体中文, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 乌克兰语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012200/header.jpg?t=1734509319",
+    "developers": [
+      "NUMANUIN"
+    ],
+    "publishers": [
+      "NUMANUIN"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "NUMANUIN Demo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3012200/15a06f3259f1d0243a6b076482ffc9f827b105d8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

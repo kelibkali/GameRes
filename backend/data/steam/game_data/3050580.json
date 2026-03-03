@@ -1,0 +1,94 @@
+{
+  "3050580": {
+    "name": "Dras'lia",
+    "steam_appid": 3050580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Dras'lia</strong> is a 2D RPG with enhanced combat dynamics! Defend yourself with QTEs (Quick Time Events). Enemies group up, allowing you to attack several at once. The heroes talk to each other: get to know them and the world through their conversations! Master eight weapons and combine powers by equipping two classes at the same time in battle! Switch freely and refine your strategy! Enjoy a day/night cycle and a peaceful atmosphere outside of combat. Choose your favorite music for battle (a hero's theme or the map music). Decorate your farm, flee from wasps to become stronger, and much more to come (chapters currently under development and production).</p>",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050580/header.jpg?t=1748339241",
+    "developers": [
+      "Darche Maxence"
+    ],
+    "publishers": [
+      "Darche Maxence"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Just a Dream",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3050580/73ac330d02abb39464d6246007752d8cbbdf94b5.jpg"
+        },
+        {
+          "name": "First victory",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3050580/e93f19ca1424b1f58f727c6f65daebf95094d674.jpg"
+        },
+        {
+          "name": "Long-lived the Queen",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3050580/fe0b094aabd8fefa8c10a58f33de6de56d7b5094.jpg"
+        },
+        {
+          "name": "Dodge wasps",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3050580/896460bdaf8b519a7a214de42d87dcbf6cc7bfd7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

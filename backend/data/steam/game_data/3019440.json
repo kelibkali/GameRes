@@ -1,0 +1,55 @@
+{
+  "3019440": {
+    "name": "Finch",
+    "steam_appid": 3019440,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This game is about finding mistakes by comparing the correct room with the wrong room.<br />\r\nWhen you find a mistake, press the left mouse button to fire the ball. If it is in the correct wrong place, the wrong place will explode and disappear.<br />\r\nIf you can find 10 wrong places in this way, the game will be cleared.<br />\r\nThere are 6 stages in total, with 10 mistakes in each stage.",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3019440/header.jpg?t=1720065667",
+    "developers": [
+      "Luris",
+      "Luris"
+    ],
+    "publishers": [
+      "Luris"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2272,
+      "final": 2272,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.72"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "3210520": {
+    "name": "Hotel 12th",
+    "steam_appid": 3210520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>概述</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >你在一家看似普通的酒店醒來——12層樓、大廳、走廊和房間。但有什麼地方不對勁。每次你嘗試離開時，你都會回到起點，被困在無盡的循環中。這個酒店不是一個普通的地方。它的詭異寂靜隱藏着秘密和散落在每層樓的奇怪線索，考驗着你的觀察力和解決問題的能力。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >你的目標很簡單：逃離。但要做到這一點，你需要降到神秘的0層。密切注意你的周圍環境——細微的差別可能是通往自由或無盡循環的關鍵。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >你能打破循環，逃脫酒店的控制嗎？還是會永遠被困在這裡？</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>主要特點</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>異常現象：</strong> 每次你回到樓層的起點時，有可能會出現47種不同的異常現象之一（或沒有異常）。仔細觀察環境是識別這些變化的關鍵，否則你會被送回起點。 </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>線性遊戲玩法：</strong> 遊戲一遍又一遍地在同一樓層進行。隨著玩家的進展，他們必須判斷是否存在異常。每次錯過異常，玩家都會被送回循環的起點。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>時間循環機制：</strong> 每次你未能檢測到異常時，你都會被送回樓層的起點。然而，每次循環都會提供更多機會讓你識別出現的細微差異和異常。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>緊張氛圍與驚嚇場景：</strong> 隨著你一次次穿越同一樓層，遊戲的氛圍會營造出心理上的緊張感。雖然酒店一片寂靜且令人不安，但意料之外的驚嚇場景會讓你保持警覺。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>遊戲機制</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>第一人稱視角：</strong> 以第一人稱視角與環境直接互動，完全沉浸在酒店的奇異和令人不安的世界中。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>異常檢測：</strong> 在探索酒店的過程中，你的任務是觀察環境中的任何異常變化。如果檢測到異常，你必須通過後門離開樓層。如果沒有異常，你必須從前門離開。未能檢測到異常或選擇錯誤的出口會讓你回到循環的起點。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>時間循環：</strong> 每次未能檢測到異常或選擇錯誤的門時，你都會被送回樓層的起點。然而，隨着每次循環，你會獲得更多信息，並有更大的逃脫機會。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>可重玩性</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >這款遊戲提供了很高的可重玩性，玩家可以多次返回以尋找酒店中散佈的所有43種可能的異常現象。</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 日语, 葡萄牙语 - 巴西, 俄语, 土耳其语, 西班牙语 - 拉丁美洲, 葡萄牙语 - 葡萄牙, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210520/header.jpg?t=1727449283",
+    "developers": [
+      "DURINKOSU"
+    ],
+    "publishers": [
+      "DURINKOSU"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "异常猎人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3210520/abf212c64d575e98a447e8d7452d202895bf9507.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

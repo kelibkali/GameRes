@@ -1,0 +1,62 @@
+{
+  "3249550": {
+    "name": "Man on the Block",
+    "steam_appid": 3249550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >&quot;Man on the Block&quot; is a game where you control a man and jump down blocks that serve as scaffolding. Points are added each time you land on a block, so try to land on as many blocks as possible.</p><p class=\"bb_paragraph\" >Once a block leaves your feet, it disappears, so you can't return to the same block again.</p><p class=\"bb_paragraph\" >You have to go around three stages filled with disappearing blocks.</p><p class=\"bb_paragraph\" >How many points can you earn in 3 laps?</p><p class=\"bb_paragraph\" >However, you can easily retry as many times as you like.</p><p class=\"bb_paragraph\" >Aim to get the highest points by repeating the game over and over again.</p>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249550/header.jpg?t=1768026502",
+    "developers": [
+      "DELIGHT_GamaDev"
+    ],
+    "publishers": [
+      "DELIGHT_GamaDev"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

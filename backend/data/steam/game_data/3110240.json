@@ -1,0 +1,70 @@
+{
+  "3110240": {
+    "name": "Duck War",
+    "steam_appid": 3110240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>描述：</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >《Duck War》是一款简单有趣的 TPS 游戏，带有奖励/惩罚系统，可以帮助您（或不帮助您）杀死其他鸭子（玩家）。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >您将化身为一只塑料鸭子，您的目标就是用您的激光眼消灭其他鸭子（玩家）。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >为了帮助您，您可以找到一些包含奖励的盒子来帮助您，但其中一些盒子也可能包含惩罚，以帮助比您自己更多的人。</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3110240/header.jpg?t=1737551226",
+    "developers": [
+      "LGC Studio"
+    ],
+    "publishers": [
+      "LGC Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

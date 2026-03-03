@@ -1,0 +1,55 @@
+{
+  "3203000": {
+    "name": "波津弹幕大冒险（Demo）",
+    "steam_appid": 3203000,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >2D 弹幕射击游戏，采用简约的美术风格和快节奏的战斗。包含战役模式和街机模式。</p><br><p class=\"bb_paragraph\" >限时特供：仅限 2024 年 10 月期间，可以在 Demo 中游玩目前已经制作的全部内容。2024 年 11 月起，战役模式中第 1 章外的部分不会包含在 Demo 中。</p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3203000/header_schinese.jpg?t=1729097108",
+    "developers": [
+      "Nekostein"
+    ],
+    "publishers": [
+      "Nekostein"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

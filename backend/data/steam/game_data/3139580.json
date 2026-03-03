@@ -1,0 +1,78 @@
+{
+  "3139580": {
+    "name": "Circuit Artist",
+    "steam_appid": 3139580,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/bcc2bced2ad97d3885c1748c4b005fa9.poster.avif?t=1767044206\" width=542 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/bcc2bced2ad97d3885c1748c4b005fa9.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/bcc2bced2ad97d3885c1748c4b005fa9.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >🎨 What Is This?</h2><p class=\"bb_paragraph\" >A circuit simulator where you draw everything. NANDs and pixels. Build gates, ALUs, CPUs — whatever you want. Watch signals flow, rewind time, optimize your layout. Circuits are just images.</p><h2 class=\"bb_tag\" ><strong><i>More Technical Details</i></strong></h2><h2 class=\"bb_tag\" >⚡ Simulation Engine </h2><p class=\"bb_paragraph\" >The simulation engine uses a <i><strong>variable-delay event-driven</strong></i> simulation that takes into account the topology of the wires to create a distance/propagation delay map based on <strong>Elmore delay</strong> calculation for trees. It also considers fanout — the higher the fanout, the higher the delay. Trees propagate differently than &quot;lines,&quot; creating a more accurate simulation so players can develop intuition for real circuit design (sort of).</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/f4bf975bc2e3a94365b1a212a2426e8b.poster.avif?t=1767044206\" width=432 height=326 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/f4bf975bc2e3a94365b1a212a2426e8b.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/f4bf975bc2e3a94365b1a212a2426e8b.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >👁️ Visualization of Wire Propagation </h2><p class=\"bb_paragraph\" >The distances are mapped to pixels so players can visualize wires &quot;<strong>propagating</strong>&quot; with a glow effect, which helps understand how things work. Rendering is done in real time with shaders. The game is designed with a <u><i><strong>white-box</strong></i></u> philosophy — players have <u><i><strong>full visibility of every state of every wire and its propagation</strong></i></u>. You can also interact with it.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ed92865e30e9eb1d37b9fbbee241536b.poster.avif?t=1767044206\" width=822 height=390 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ed92865e30e9eb1d37b9fbbee241536b.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ed92865e30e9eb1d37b9fbbee241536b.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >⏪ Simulation Rewind </h2><p class=\"bb_paragraph\" >The delta-based design of the simulation allows it to be paused and <i><strong>controlled back and forth</strong></i>. For example, if something goes too fast, or you're not sure what happened, just right-click and move the mouse back and forth to replay it seamlessly. Particularly useful for debugging cyclic circuits.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/99ad949bba65f15de291eb8fa28b2610.poster.avif?t=1767044206\" width=532 height=454 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/99ad949bba65f15de291eb8fa28b2610.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/99ad949bba65f15de291eb8fa28b2610.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >📑 Layers </h2><p class=\"bb_paragraph\" >A chip-simulation game wouldn't be complete without layer support, right? <strong>Players can add layers</strong> like in Photoshop (up to 3 layers), and wires can connect with neighboring layers, although NANDs are only allowed on the bottom layer. Wires on upper layers have higher propagation speed.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ea31fbe71e9f80f089cf746bcfe822f4.poster.avif?t=1767044206\" width=548 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ea31fbe71e9f80f089cf746bcfe822f4.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/ea31fbe71e9f80f089cf746bcfe822f4.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >🎮 Beginner-Friendly Campaign (in development) </h2><p class=\"bb_paragraph\" >The game has a low-pace campaign so <strong>new users can solve problems</strong> little by little and learn concepts gradually, testing and refining solutions while tracking progress. It's still in its early days, but more content will be added later.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/5bc87d9660cb0c5293a14d9ffeed9b8f.avif?t=1767044206\" width=670 height=416 /></span></p><h2 class=\"bb_tag\" >📦 Blueprints </h2><p class=\"bb_paragraph\" >There's an inventory-like UI for placing <strong>blueprints</strong> so players can build their library and reuse components, adding a new progression dimension to the game.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/a4ac152b835fc0bed71d363f0d3c11b1.poster.avif?t=1767044206\" width=1170 height=774 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/a4ac152b835fc0bed71d363f0d3c11b1.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/a4ac152b835fc0bed71d363f0d3c11b1.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >🔊 ASMR </h2><p class=\"bb_paragraph\" ><strong>Circuits make sounds</strong> based on NAND activations — they beep faster when busy and slower when idle. Another tool for developing intuition about efficiency, and it's cool.</p><h2 class=\"bb_tag\" >💀 Ticks Are Earned, Not Given </h2><p class=\"bb_paragraph\" >The simulation is not immediate, so players can build their own clocks in sandbox mode by exploring the delay mechanism. Clocked/synchronous components won't work for free — <strong>you need to make them efficient</strong>, adding an extra challenge to the game.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/9fd0d00c4c4bd52a4e94a7f88657e4a9.poster.avif?t=1767044206\" width=980 height=312 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/9fd0d00c4c4bd52a4e94a7f88657e4a9.webm?t=1767044206\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/9fd0d00c4c4bd52a4e94a7f88657e4a9.mp4?t=1767044206\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >🔋 Power Calculation (experimental) </h2><p class=\"bb_paragraph\" >There's a simplified energy calculation formula to explore circuit energy efficiency vs speed (still not fully developed). This rewards efficient circuits — for example, those that save activations by disabling unused components.</p><h2 class=\"bb_tag\" >🛠️ Open Source</h2><p class=\"bb_paragraph\" >Written in C with Raylib. Source code on GitHub — fork it, break it, learn from it.</p><p class=\"bb_paragraph\" ><strong><i> </i></strong></p><h2 class=\"bb_tag\" ><i><strong>Chads Play This Game</strong></i></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/0dc40c213d5936c252b5f680f700bb2d.avif?t=1767044206\" width=520 height=500 /></span></p><h2 class=\"bb_tag\" ><strong><i>Engineers Approve Circuit Artist</i></strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/extras/f8c28ce9beb02366efdaa39db8efb8fe.avif?t=1767044206\" width=500 height=691 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139580/header.jpg?t=1767044206",
+    "developers": [
+      "lets_all_be_stupid_forever"
+    ],
+    "publishers": [
+      "lets_all_be_stupid_forever"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3999,
+      "final": 3999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Gate Specialist",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3139580/65d7fd55e5105fc3fa1682496efdcf5e76e5a0f7.jpg"
+        },
+        {
+          "name": "My First Widget",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3139580/70e199634f16c7bd6d7548d09fd6a39ee853e30d.jpg"
+        },
+        {
+          "name": "Bit Delivery",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3139580/be869c17279b452861a3557e3ad58c0e1a4519db.jpg"
+        },
+        {
+          "name": "Oh, I Member!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3139580/8f90997e7219a8030b1f26880c97d3cd1931c19d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

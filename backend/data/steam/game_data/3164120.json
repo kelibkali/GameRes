@@ -1,0 +1,54 @@
+{
+  "3164120": {
+    "name": "0927",
+    "steam_appid": 3164120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "3D扫雷<br />\r\n基本规则：球体存在于立方体内，立方体显示数字为立方体侦测区内最多27个立方体（包含自身）中球体的数量。不含球体的立方体显示的数字为绿色，含球体的立方体显示的数字为红色。<br />\r\n所有立方体与球体随机生成。游戏引入影响立方体侦测与显示的机制。游戏内置初等判断提示。游戏内置辅助侦测工具。",
+    "supported_languages": "英语, 俄语, 简体中文, 法语, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164120/header.jpg?t=1745855515",
+    "developers": [
+      "yjkc"
+    ],
+    "publishers": [
+      "yjkc"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2700,
+      "final": 2700,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 27.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

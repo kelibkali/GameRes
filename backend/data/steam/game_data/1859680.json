@@ -1,0 +1,98 @@
+{
+  "1859680": {
+    "name": "Avalanches",
+    "steam_appid": 1859680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You wake up in a village attacked by avalanches.<br>Luckily you where in a very high temperature room at the moment when the coldest freeze happened.<br>Peoples that had not left the village have been frozen in place.<br>Try don't get caught by a deeply low temp that will freeze you in place.<br><br>There is many way to escape.<br><br>Is very cold and wind can push you.<br>Shelter in building to loot and try generate some heat.<br>You can break/repair window and jump through.<br>Door can be lock/unlock with keys.<br>Many different machine can be fueled and activated. Like stove and generator.<br><br>[Items]<br>Each item have is own temperature.<br>Having item too cold in your inventory make your character freeze.<br>To heat item, it must be paced in a storage heated by a heat source or on ground near a heat source.<br>Item drop on ground near a heat source will diseappear if over heat, item in storage are protected.<br><br>[Stats]<br>Hunger, thirst, health, stamina, body temperature.<br><br>[Disease]<br>Cold, frostbit.<br><br>[Crafting]<br>You can craft item when dropping multiple items on ground.<br>Others can be done by dragging item over another, like repair clothe with sewing kit.<br>Also by using workbench you can fabricate objects.<br><br>[Windows]<br>Can be break with item or hands (remove some hp) and can be repaired.<br>When broken it make inside building colder and you can jump through windows.<br>Windows can be block with snow or ice. You can break/dig/melt to free the window.<br><br>[Doors]<br>Can be lock/unlock with keys, external door make inside building colder while open.<br>Doors can be block with snow or ice. You can break/dig/melt to free the door.<br><br>[Stove]<br>Generate heat when close and generate heat evenly everywhere in building.<br>Can be use to unfreeze door or window.<br><br>[Generator]<br>Generate energy to light building. (Some building could have electric heater)<br><br>[WaterFurnace]<br>Generate heat and activate each radiator in the building.<br>Radiator generate heat and can be turn on/off.<br><br>[Furniture]<br>Some contain loots/respawn others store items.<br>Other could generate heat.<br>Furniture can be item storage, and can be affected by environment temperature.<br><br>[Powerplant]<br>When activated it power all industrial building and streetlight pole.<br>Wire can break and need be repaired with tools and resources.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859680/header.jpg?t=1643379814",
+    "developers": [
+      "Avalanches"
+    ],
+    "publishers": [
+      "Avalanches"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Power it up!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/09a4fde0839d9aac31b7b2921477c4acedc7e9c1.jpg"
+        },
+        {
+          "name": "Stay alive for 1hr.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/79dfa759ec412c25f1c259db8e8b5bd9f86aab49.jpg"
+        },
+        {
+          "name": "Stay alive for 24hrs.",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/7a7ca1187000727022e30c1ca8491c87be3fbd05.jpg"
+        },
+        {
+          "name": "Ending #1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/25d189212833f8ead241d04206022ae131c48213.jpg"
+        },
+        {
+          "name": "Ending #2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/25d189212833f8ead241d04206022ae131c48213.jpg"
+        },
+        {
+          "name": "Ending #3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/25d189212833f8ead241d04206022ae131c48213.jpg"
+        },
+        {
+          "name": "No better place to die!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1859680/8e3a5a8f7de8d2962f760e593ebbcd3c6ca25085.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

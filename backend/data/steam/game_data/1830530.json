@@ -1,0 +1,50 @@
+{
+  "1830530": {
+    "name": "Net Friend Joy Joypad",
+    "steam_appid": 1830530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>※It seems that the controller may become unstable when Steam input is enabled. I recommend disabling Steam input. </strong><br>Right Click on Tool Name -&gt; Property... -&gt; Controller -&gt; Disable Steam Input<h2 class=\"bb_tag\" > ※Attention </h2>Whether or not you can use it comfortably depends greatly on the Internet environment.<br><br>Turn-based games are fine, but action games can be tough.<br>We have released a low-latency streaming system as a separate product for free, so it is a good idea to check the delay in your environment in advance. See the manual for details. <br>Also, play the test version to check if your gamepad is available. <br>For multiplayer only. You need tools for the number of player. <br>For non-XInput controllers, it cannot be used if the tool window is inactive.<br>Hide mode can be used to keep it active and minimized, but it may require some ingenuity. <br><br>※The screen sharing function integrated beta has been released.<h2 class=\"bb_tag\" > Overview </h2>It is a tool that allows you to emulate the controller operation of a friend in a remote location on your own computer.<br>With this tool, for example, you can play local multiplayer games with your friends over the network.<br>Since there is no video transfer function, please use the existing tools that have already been released for video.<br>It can be used by a total of 8 people, 1 host and 7 clients.<br>The net friend gamepad is emulated as Xbox controller  on the host side.<h2 class=\"bb_tag\" > Unsupported points </h2><ul class=\"bb_ul\"> <li> Video sharing function<br>(Because it is more stable and faster to use its own tool than to implement it poorly)<br>→ Beta Testing...</li></ul><ul class=\"bb_ul\"> <li> Controller input during inactive window on client side<br>(In the case of XInput, controller input is accepted even if the window is inactive)<br>(It should be okay if you use Hide mode even for non-XInput) </li></ul><ul class=\"bb_ul\"> <li> Angle type hat switch input<br>(I think the latest ones are probably okay ...)</li></ul><h2 class=\"bb_tag\" > Correspondence undecided </h2><ul class=\"bb_ul\"> <li> Forced activation process of window<br>(Pending because I am worried that it may cause load and malfunction of other tools)</li></ul><ul class=\"bb_ul\"> <li> Controller vibration function<br>→ Implemented! (2022/04/24)</li></ul><h2 class=\"bb_tag\" > Others </h2>We are sorry to be irresponsible, but this kind of tool may not work depending on the environment. <br>In that case, please feel free to return and report it.<br>We cannot guarantee the response to bug reports.<h2 class=\"bb_tag\" > How to use </h2>It may be intuitive to some extent, but please refer to the manual that comes with Steam. →→",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830530/header.jpg?t=1652839910",
+    "developers": [
+      "Pneuma GameZ"
+    ],
+    "publishers": [
+      "Pneuma GameZ"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

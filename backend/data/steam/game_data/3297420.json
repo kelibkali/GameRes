@@ -1,0 +1,63 @@
+{
+  "3297420": {
+    "name": "SBMFR",
+    "steam_appid": 3297420,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><strong>The client for &quot;SBMFR&quot;</strong></p><p class=\"bb_paragraph\" >NOTE this game uses dedicated servers. you can find the dedicated server builds here:  Alternatively you can use the Server Browser ui to see if there are any available servers. (currently there is 1 official server)</p><p class=\"bb_paragraph\" >any problems feel free to visit the discord channel or the reddit page and I can help.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >features include:</p><p class=\"bb_paragraph\" >A level editor </p><p class=\"bb_paragraph\" >replay system</p><p class=\"bb_paragraph\" >lots of settings to play around on a per team basis</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >On a steamdeck I had to go to properties -&gt; compatability.                                                    then check &quot;force the use of a specific Steam Play compatability tool&quot; then select           &quot;Steam Linux Runtime 1.0 (scout)&quot; I also had to change the resolotion setting to 1920x1080</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3297420/ea5f9b1a947b8b877bd0b00e7978c6b873441c6c/header.jpg?t=1769273631",
+    "developers": [
+      "Peter Bruce"
+    ],
+    "publishers": [
+      "Peter Bruce"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 10 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

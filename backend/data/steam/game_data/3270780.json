@@ -1,0 +1,54 @@
+{
+  "3270780": {
+    "name": "打飞机",
+    "steam_appid": 3270780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >一款3D独立游戏。模拟高射炮打飞机。游戏中，你将使用高射炮来射击来犯的飞机，飞机会向你投放炸弹。这是一款射击解压游戏，天空中会随机出现飞机朝你飞过来，你需要操控高射炮瞄准飞机射击。你需要准确的判断飞机的飞行轨迹才能精准的将其击落，守护你的阵地，当然炮弹是免费的。</p>",
+    "supported_languages": "英语, 俄语, 日语, 简体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270780/header_schinese.jpg?t=1730160924",
+    "developers": [
+      "zjf"
+    ],
+    "publishers": [
+      "zjf"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

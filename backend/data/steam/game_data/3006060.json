@@ -1,0 +1,110 @@
+{
+  "3006060": {
+    "name": "左轮手枪轮盘赌",
+    "steam_appid": 3006060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "&quot;左轮手枪轮盘赌&quot;是一种考验玩家勇气和运气的游戏。在游戏中，会使用一把左轮手枪来模拟俄罗斯轮盘赌的情景。玩家需要装填子弹，使用道具提高胜率，最后开枪来击败对方，获得对方奖金。<br />\r\n1.子弹装填系统：玩家可以自行决定左轮手枪内六个弹巢的子弹状态，丰富了游戏的复杂度。2.道具使用：游戏提供各种道具，如苹果，可乐，香蕉等，玩家可以巧妙地使用这些道具来增加自己的胜率或干扰对手。<br />\r\n3.商店系统：玩家可以使用手上已有的资金在游戏对战时购买相应的道具，提高自己的优势。<br />\r\n4.实时对战模式：玩家可以利用局域网与其他玩家进行实时对战，体验紧张刺激的竞技乐趣。<br />\r\n5.无尽模式：玩家可以在无尽模式中不断挑战自己的极限，体现思考的魅力。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3006060/header_schinese.jpg?t=1721099558",
+    "developers": [
+      "鲫鱼开发商"
+    ],
+    "publishers": [
+      "鲫鱼发行商"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "进攻成功",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/8a78804d2efcad8d7e16a0fa587e9c05111900c2.jpg"
+        },
+        {
+          "name": "有惊无险",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/ec49b51edcc4a62383e5e3ca16719a98e50bdd31.jpg"
+        },
+        {
+          "name": "香蕉",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/0f5ef8d5a958b29481fc17dc9a54e7ee554020ff.jpg"
+        },
+        {
+          "name": "叮叮叮",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/a667bf440eb9b2cbdddc4132f633cc580f87c681.jpg"
+        },
+        {
+          "name": "神机妙算",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/a23ebdf582016db3e916a326409e03f844c2dec4.jpg"
+        },
+        {
+          "name": "小有成就",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/a0b346b94883e5f8889e75675028e1c96f3b3422.jpg"
+        },
+        {
+          "name": "赌怪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/b05fa542e6992803a4280f13e0cd739b385813b5.jpg"
+        },
+        {
+          "name": "赌神",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3006060/a8fdc9aef9955689f7a32f10d9530e871154c893.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

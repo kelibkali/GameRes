@@ -1,0 +1,118 @@
+{
+  "3158080": {
+    "name": "峡谷竞技场(Canyon Arena)",
+    "steam_appid": 3158080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一个集合动作与卡牌的肉鸽游戏，采用第三人称3D越肩视角，在游戏中，玩家通过击败对手来获得卡牌，装备，经验，金钱等不断提升自己的能力来击败下一个对手，直到所有的对手都成为阁下的手下败将。过程中将同时考验阁下的操作与策略，随着游戏时间的增加，阁下会越来越接近峡谷至尊直至加冕之！<br><br>游戏有以下特点：<br><strong>扎实的打击感</strong>：精准的攻击与受击判定，使得顿帧恰到好处，同时配合高达17个受击动画表现带来出色的视觉呈现。<br><strong>富有深度的伤害机制</strong>：类似Dota的装备和被动机制，阁下可以根据职业的特点，敌人的特点以及玩法风格来一场富有策略的对抗。<br><strong>低配机型友好</strong>：在下有一台高分辨率轻薄笔记本，处理器为AMD 7840H，在2k分辨率高画质下依旧可以在60FPS下流畅游玩。<br><br>当前游戏包含154张不同能力的卡牌以及53件不同装备，此外共有23个不重复战斗关卡，其中包含14个常规关卡，4个趣味关卡，5个Boss关卡。",
+    "supported_languages": "简体中文, 英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3158080/header_schinese.jpg?t=1727627673",
+    "developers": [
+      "哩奇工作室"
+    ],
+    "publishers": [
+      "哩奇工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "击败哩奇",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/89b0b22abd09f2aa42f4c53df9ce891c39f77254.jpg"
+        },
+        {
+          "name": "10张卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/c57f4231750c2521cc4c947a4b88861a69644dbd.jpg"
+        },
+        {
+          "name": "50张卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/abe597fdfe376e169ff4c2959fe962bfc1ed6228.jpg"
+        },
+        {
+          "name": "100张卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/1c0fa5c08f96f1213c51f19ee46f68d9d79e9e45.jpg"
+        },
+        {
+          "name": "154张卡",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/24b3be62caff2f8f110333683c450c7824f76fdd.jpg"
+        },
+        {
+          "name": "击败埃琳娜",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/bb8bccf2703bfe25e72013795035545fafa8aade.jpg"
+        },
+        {
+          "name": "击败龙一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/419c0c0b12d4b54e612025a48c1268673905aa08.jpg"
+        },
+        {
+          "name": "击败艾莉西亚",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/f4c97bba46f676cefe080b574a8af9f3ca2acfb7.jpg"
+        },
+        {
+          "name": "击败泰坦",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/257e178c530c20eee491f4b8d761e20016726205.jpg"
+        },
+        {
+          "name": "击败塞拉斯",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3158080/18ed70eb80d267d4ab4b78a01397cebd4aa292e0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

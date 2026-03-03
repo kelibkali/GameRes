@@ -1,0 +1,62 @@
+{
+  "3262200": {
+    "name": "JetpackPush",
+    "steam_appid": 3262200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >指挥和操纵喷气背包，避开障碍物，创建路线以节省燃料，并不惜一切代价避免坠机。</p><p class=\"bb_paragraph\" >收集所有硬币，激活所有开关，但不要忘记加油并注意速度。</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 简体中文, 韩语, 西班牙语 - 拉丁美洲, 日语, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262200/header.jpg?t=1738094644",
+    "developers": [
+      "SeikaGames"
+    ],
+    "publishers": [
+      "SeikaGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

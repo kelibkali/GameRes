@@ -1,0 +1,82 @@
+{
+  "3107790": {
+    "name": "ReBullet",
+    "steam_appid": 3107790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款本地双人的欢乐坦克对战游戏，两名玩家分别控制蓝色和红色坦克进行对战；<br><br>玩家可以通过按键发射和自己坦克颜色相同的子弹：<br>  -子弹会在场景中弹射<br>  -若子弹碰到了不同颜色的玩家，会将其击毁<br>  -若子弹碰到了相同颜色的玩家，玩家会拾取该子弹<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/6b4ecbc931397278c623bf4f72af2073.poster.avif?t=1722452363\" width=518 height=370 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/6b4ecbc931397278c623bf4f72af2073.webm?t=1722452363\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/6b4ecbc931397278c623bf4f72af2073.mp4?t=1722452363\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/e968f18b194e066a763221b537d5b519.poster.avif?t=1722452363\" width=518 height=370 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/e968f18b194e066a763221b537d5b519.webm?t=1722452363\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/extras/e968f18b194e066a763221b537d5b519.mp4?t=1722452363\" type=\"video/mp4\"></video></span><br><br>玩家的子弹数量有限，拾取子弹并重复利用，是赢得游戏的策略关键；<br><br>游戏内置对战模式和小游戏模式：<br>  -对战模式-经典场景：有障碍物和道具<br>  -对战模式-迷宫场景：有很多墙，适合子弹弹射<br>  -对战模式-空空如也：没有任何障碍物及道具，适合纯粹的对战<br>  -小游戏模式-最后一发：玩家只有一颗子弹，且被限制了移动范围。如同西部牛仔对决<br>  -小游戏模式-足球对决：模拟足球游戏，玩家只要将球顶进对方的球门即可获胜<br>  -小游戏模式-躲避灰球：场景中拜访了很多危险的灰球，玩家要注意躲避这些危险的球<br><br><strong>*游戏支持键盘和游戏手柄两种模式，如果您有两个游戏手柄的话，推荐您使用手柄进行游玩。</strong>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107790/header.jpg?t=1722452363",
+    "developers": [
+      "KAI's CAT"
+    ],
+    "publishers": [
+      "KAI's CAT"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

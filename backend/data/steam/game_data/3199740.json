@@ -1,0 +1,110 @@
+{
+  "3199740": {
+    "name": "Dimension Warrior",
+    "steam_appid": 3199740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199740/extras/8d88b028d7a66d81d5024e417185b924.poster.avif?t=1741334410\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199740/extras/8d88b028d7a66d81d5024e417185b924.webm?t=1741334410\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199740/extras/8d88b028d7a66d81d5024e417185b924.mp4?t=1741334410\" type=\"video/mp4\"></video></span><strong><br>DEFEAT OPPONENTS FROM MULTIPLE DIMENSIONS OR PERISH TRYING</strong></h2><p class=\"bb_paragraph\" >You have been chosen for a dangerous mission—many have fallen before you. Will you have the determination to complete it? We are counting on you.</p><h2 class=\"bb_tag\" >Explore Diverse Dimensions</h2><p class=\"bb_paragraph\" >Each opponent has their own unique dimension. Will you be able to visit them all?</p><h2 class=\"bb_tag\" >Combat System</h2><p class=\"bb_paragraph\" >Fight with a sword, block enemy attacks, or dodge them! Don't forget about healing, either. The combat system is inspired by Soulslike games but played from a first-person perspective.</p><h2 class=\"bb_tag\" >Try to Survive Until the End</h2><p class=\"bb_paragraph\" >Face five challenging opponents, each with unique abilities. You'll have to learn their attack patterns and find their weaknesses to emerge victorious. If you die, you'll have to start your journey from the beginning...</p><h2 class=\"bb_tag\" >Speedrun Mode</h2><p class=\"bb_paragraph\" >Try to complete the game as quickly as possible with the built-in time-tracking system. Of course, this is entirely optional.</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 繁体中文, 西班牙语 - 拉丁美洲, 日语, 韩语, 波兰语, 葡萄牙语 - 葡萄牙, 俄语, 乌克兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199740/header.jpg?t=1741334410",
+    "developers": [
+      "WrathGames"
+    ],
+    "publishers": [
+      "WrathGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Former Dimension Warrior Kerbs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/e4ad218983b6a57489707c1ed4dceac5cb4180f7.jpg"
+        },
+        {
+          "name": "Queen Arachne",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/94f58f5d25f0f4867348f8e636c818c97de2e7fa.jpg"
+        },
+        {
+          "name": "Prototype Primo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/cbb6a9d2f94f6ce4542cbbd4b183a46b0412b00f.jpg"
+        },
+        {
+          "name": "Balance Master Shadowkin",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/b56755c9eb578cb5c7e47f88315b4c8d94f96658.jpg"
+        },
+        {
+          "name": "Demigod Hastia",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/8f2b61ac30e43fe8cf12d46329434d2cfc4460d3.jpg"
+        },
+        {
+          "name": "Godlike",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/c9be3b90a7102ae311be30302ad5109ce4b60ddb.jpg"
+        },
+        {
+          "name": "Untouchable",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/b9812e6709143357eb401e80d2df1c3f9bb6b3bc.jpg"
+        },
+        {
+          "name": "No Healing, No Mercy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/61649d67d42d4adb0b2d77b6e9fe1acf89d40f1f.jpg"
+        },
+        {
+          "name": "Exit the loop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/183dc2f783955576bd2ab79df100088c66e3c38d.jpg"
+        },
+        {
+          "name": "Speedrunner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3199740/dac1ffcf60cf783150ac3cceac7afd21dd99ae3a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

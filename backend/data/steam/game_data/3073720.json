@@ -1,0 +1,111 @@
+{
+  "3073720": {
+    "name": "Digital TableTops Player",
+    "steam_appid": 3073720,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >This virtual table top (VTT) is designed specifically for in-person play on a TV or monitor. Built from the ground up for use on a touchscreen. You will not find a VTT that is easier to use or your money back!</p><p class=\"bb_paragraph\" > That's a joke, it's completely free. There is no logging in, signing up, or any other strings attached. I make money selling hardware. If you would like to support this project, please consider buying a touchscreen or TV frame from me on my website (digitaltabletops - Steam won't let me link directly).  </p><p class=\"bb_paragraph\" > It is meant to replace dry erase or paper maps, but not replace any of the other aspects to playing in person. For example, there are no character sheets or dice rolls. Whatever tools you use, including pencil and paper, you should continue to use.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Keeping only essential features makes this VTT the easiest to use. You place physical minis directly on the screen and digital tokens automatically keep track of their movement and lighting.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Players who can't be there in person can join via their web browser to move their tokens. No fiddling around with network settings, just enter the 4-digit code and you are good to go.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Import any image, video (for animated maps), or uvtt (aka dd2vtt) file with built-in line of sight data</p></li><li><p class=\"bb_paragraph\" > Dynamic lighting with fog of war, shadows, and time of day</p></li><li><p class=\"bb_paragraph\" >Over 460 free maps are included</p></li><li><p class=\"bb_paragraph\" > Built-in library of over 500 tokens or import your own custom tokens</p></li><li><p class=\"bb_paragraph\" >One-of-a-kind touchscreen support (communicates directly with the hardware)</p></li><li><p class=\"bb_paragraph\" >Remote control tokens via any browser</p></li><li><p class=\"bb_paragraph\" > Add/remove walls, doors, and windows to any map</p></li><li><p class=\"bb_paragraph\" > Easy map scaling and grid overlay</p></li><li><p class=\"bb_paragraph\" > Collision detection to prevent movement into unexplored areas</p></li><li><p class=\"bb_paragraph\" > Measuring tools for movement, distance, and spell effects</p></li><li><p class=\"bb_paragraph\" > Blazingly fast on any hardware thanks to the Godot engine. No dedicated graphics required</p></li><li><p class=\"bb_paragraph\" >Runs locally offline</p></li><li><p class=\"bb_paragraph\" >Easily import maps from Foundry modules</p></li><li><p class=\"bb_paragraph\" >Initiative tracker</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" >Coming Soon</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Import external lighting</p></li><li><p class=\"bb_paragraph\" >Weather effects </p></li></ul><p class=\"bb_paragraph\" >If you are looking for a VTT exclusively for online play, this is not it. Hybrid play does work well, but it is required that the main program be running on a dedicated (low-end) device. If you are already using Foundry, Arkenforge, or Owlbear Rodeo and get along just fine, probably not a great idea to switch. But if you are just getting started out with VTT's and play in person, I honestly do believe this is an excellent choice.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please bring up any questions, problems, or feature requests in the community links so that all may benefit.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073720/header.jpg?t=1771915549",
+    "developers": [
+      "Digital TableTops"
+    ],
+    "publishers": [
+      "Digital TableTops"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

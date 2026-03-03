@@ -1,0 +1,80 @@
+{
+  "3146530": {
+    "name": "Supermarket Together - The Cool Pack",
+    "steam_appid": 3146530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>进入我们的商店？为你扫帚</strong><br>感谢大家的反馈和支持：这是游戏唯一可用的 DLC，主要包含化妆品。<br><br>DLC 已包含：<br>- 8 个不同的角色<br>- 100 多顶有趣的帽子，供您和您的员工使用。<br>- 舞蹈和姿势！<br>- 可交互的 Web 浏览器，这样您就可以在暴君老板不注意的时候偷懒。<br>- 使用目前 170 种不同的材料绘制或更改商店的外观。<br>- 允许在绘画框架装饰中链接图像 URL。<br>- 访问 Cool Room 内的小型绘画迷你游戏。<br><br>已经可以间接在商店的电视上同步 Youtube 等网站。已经要求提供一种方法来挂接 Twitch 视频等直播，这是一项依赖于外部媒体的功能。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 简体中文, 繁体中文, 捷克语, 波兰语, 葡萄牙语 - 巴西, 俄语, 乌克兰语, 匈牙利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146530/header.jpg?t=1743196018",
+    "developers": [
+      "DeadDevsTellNoLies"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 18,
+      "total_negative": 4,
+      "total_reviews": 22
+    },
+    "type": "dlc"
+  }
+}

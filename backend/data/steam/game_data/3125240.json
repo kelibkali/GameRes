@@ -1,0 +1,60 @@
+{
+  "3125240": {
+    "name": "小夜怪奇物语追加章节：侦探游戏",
+    "steam_appid": 3125240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >此DLC将为您解锁追加章节：侦探游戏。</p><p class=\"bb_paragraph\" >在该DLC中，您将体验到三个推理故事，以及少女们愉快的百合日常！</p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3125240/header.jpg?t=1740068749",
+    "developers": [
+      "漠然旅者"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 450,
+      "discount_percent": 70,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 4.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

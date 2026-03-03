@@ -1,0 +1,54 @@
+{
+  "3174550": {
+    "name": "DriftGuard: Gamepad Maintenance Tool",
+    "steam_appid": 3174550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>DriftGuard: Gamepad Maintenance Tool</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Stick drift, dead zones, ghost inputs</strong> – controller problems can be incredibly frustrating. DriftGuard, developed by VestraCode, empowers you to fight back! This comprehensive utility allows you to meticulously test, analyze, and potentially fix issues with your favorite gamepads.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Elevate Your Gaming Experience</h2><p class=\"bb_paragraph\" >Tired of losing games to unresponsive controls? DriftGuard is the essential toolkit for every serious gamer. Get in-depth diagnostics, clear visualizations, and powerful calibration options for a wide range of controllers. Take control, identify problems early, and fix them before they ruin your next match!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Broad Device Compatibility (via USB):</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Full support for: <strong>PS4</strong> (all revisions), <strong>PS5</strong>, <strong>PS5 Edge</strong>, <strong>PS5 Access</strong>, and <strong>PSVR2 Sense</strong> controllers.</p></li><li><p class=\"bb_paragraph\" > <strong>Note:</strong> Xbox and other controllers have <u>limited functionality</u> – button testing is available, but calibration and advanced features are unsupported due to hardware restrictions.</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Real-Time Analytics &amp; Diagnostics:</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Precise analog stick tracking: Detect and address drift with circularity testing, real-time X/Y plots, drift monitoring, and error calculations.</p></li><li><p class=\"bb_paragraph\" > Test Every Input: Verify face buttons, shoulder buttons, analog triggers, D-Pads, touchpad, speaker, and microphone.</p></li><li><p class=\"bb_paragraph\" > Advanced Feature Testing (PS5): Test haptic feedback, adaptive triggers, lightbars, LEDs, and more.</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Advanced Calibration (Supported Controllers Only):</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Perform auto center-point and auto full-range analog stick calibration routines to mitigate drift and ensure accuracy.</p></li><li><p class=\"bb_paragraph\" > Manual tuning options available for fine control.</p></li><li><p class=\"bb_paragraph\" > Built-in support for calibrating original <strong>PS4, PS5</strong>, and <strong>PS5 Edge Analog Stick Modules</strong> (Note: Edge modules require hardware mode - see GitHub lewy20041/Dualsense_Edge_Modules_Callibration for details).</p></li><li><p class=\"bb_paragraph\" > Built-in calibration support for <strong>PS5 Access</strong> and <strong>PSVR2 Sense</strong> controllers.</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Fake Controller Detection:</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Identify counterfeit PS4 controllers.</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Controller Telemetry &amp; Hardware Info:</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Retrieve hidden usage statistics from PS5 controllers: Usage history, button/stick actuation counts, charge cycles, active time, and more.</p></li><li><p class=\"bb_paragraph\" > Fetch detailed internal information: Vendor/Product IDs, firmware versions, build dates, hardware revisions, battery status, MAC addresses, serial numbers (Details vary by model).</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Track Controller Health:</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Log controller connection history.</p></li><li><p class=\"bb_paragraph\" > Save calibration data to monitor performance trends over time.</p></li></ul></p></li><li><p class=\"bb_paragraph\" > <strong>Customize Your Experience:</strong><br><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Personalize the DriftGuard interface with different themes and fonts.</p></li></ul></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >User-Centric Interface</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Interactive Visuals:</strong> Monitor analog stick performance and drift through intuitive, real-time graphics.</p></li><li><p class=\"bb_paragraph\" > <strong>Effortless Setup:</strong> DriftGuard seamlessly integrates with your PC, offering automatic controller recognition for quick diagnostics.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Purpose-Built Performance</h2><p class=\"bb_paragraph\" >DriftGuard is engineered to help eliminate light stick drift on supported controllers <strong>without requiring potentiometer replacements</strong>. It also simplifies the calibration process after hardware upgrades, such as installing Hall Effect or TMR analog sticks.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Important Compatibility Note</h2><p class=\"bb_paragraph\" >While DriftGuard offers extensive features for PlayStation controllers, please remember that <strong>Xbox and other controllers have limited functionality</strong>. Calibration and advanced telemetry features are <u>not supported</u> for these devices, although buttons and analog sticks testing works perfectly.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Take control and elevate your gameplay today with DriftGuard!</strong></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174550/cb66260053074caba33da548c179f4abfaf1e083/header.jpg?t=1745660089",
+    "developers": [
+      "VestraCode Sp. z o.o."
+    ],
+    "publishers": [
+      "VestraCode Sp. z o.o."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 12800,
+      "final": 12800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 128.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

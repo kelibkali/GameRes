@@ -1,0 +1,78 @@
+{
+  "3077300": {
+    "name": "通古斯：音乐之声",
+    "steam_appid": 3077300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《音乐之声》DLC将把悦耳的歌声带进通古斯禁区！游戏中将加入一部便携式收音机，装备上后它会为您高清播放游戏中所有的音乐，再加上几首附送歌曲！这部收音机可以像探测器一样装备在工具栏上，装上电池，开启后就能选择您喜欢的音乐频道了！<br><br>更酷的是，您可以把自己喜爱的MP3音频文件放在游戏的存盘目录下面，就可以在游戏中通过收音机的“CUST”频道来播放它们了！<br>MP3存放目录：C:\\Users\\USERNAME\\AppData\\LocalLow\\RotoristWorkshop\\Tunguska\\Radio\\<br><br>本DLC内含：<br><br><ul class=\"bb_ul\"><li>3+ 小时的音乐<br></li><li>7 首苏联音乐<br></li><li>11 首四重奏弦乐<br></li><li>5 首木吉他音乐<br></li><li>11 首美国摇滚和乡村音乐<br></li><li>12 首恐怖背景音乐<br></li><li>播放自定义MP3音频功能</li></ul>",
+    "supported_languages": "英语, 俄语, 简体中文, 意大利语, 乌克兰语, 西班牙语 - 西班牙, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077300/header.jpg?t=1760204606",
+    "developers": [
+      "Rotorist Workshop"
+    ],
+    "publishers": [
+      "Rotorist Workshop"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 600,
+      "discount_percent": 40,
+      "initial_formatted": "¥ 10.00",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 4,
+      "total_negative": 0,
+      "total_reviews": 4
+    },
+    "type": "dlc"
+  }
+}

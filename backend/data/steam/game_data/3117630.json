@@ -1,0 +1,90 @@
+{
+  "3117630": {
+    "name": "星のしるべ",
+    "steam_appid": 3117630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Climb to the sky while collecting countless stars.<br />\r\nNumerous gimmicks will try to knock you down without mercy,<br />\r\nBut if you keep going and don't give up, you will reach the top someday.<br />\r\n<br />\r\n■Game Features<br />\r\nThe game is a game of climbing up while collecting stars scattered in the field.<br />\r\nYou can save and stop the game at the starting point and at several other magic circles.<br />\r\nThe higher difficulty mode will be opened after the game is cleared.<br />\r\nAdditional costumes will be added after the game is cleared depending on the stars obtained (16 costumes in total, including the initial ones).<br />\r\nThe availability of gold stars will be reset after clearing the game, but the availability of stars of different colors will continue.<br />\r\n　(If you have already obtained them, they will be placed on the field in a semi-transparent state.)",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117630/header.jpg?t=1751204564",
+    "developers": [
+      "フェリバード"
+    ],
+    "publishers": [
+      "フェリバード"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3600,
+      "final": 3600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 36.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "終了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/8041bed2b06e51da953d79cc116ecfdd97c19bc3.jpg"
+        },
+        {
+          "name": "生還",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/d8633cc5d5931a0626f0ad37291dfc9d0b9bab75.jpg"
+        },
+        {
+          "name": "超人",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/962b3ed435c96931bed61cbe8b1d349d1af9abc1.jpg"
+        },
+        {
+          "name": "封神",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/535b17bebb37a9a52a7118d7e10d4e6403b05f36.jpg"
+        },
+        {
+          "name": "蒼星",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/e3744a6f5dcf79eb96cf7ec1cd7e87c67e9b20fb.jpg"
+        },
+        {
+          "name": "赫星",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3117630/12a4df4cd4e6b85fc47c3f06840c5fa6da803840.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

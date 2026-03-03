@@ -1,0 +1,62 @@
+{
+  "3053910": {
+    "name": "Mytho Duel",
+    "steam_appid": 3053910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "It's an adaptation of the classic card game &quot;Triple Triad&quot; for an interactive in-menu experience. This game offers engaging and strategic gameplay, allowing players to challenge their own strategic planning skills. Players take turns placing cards on the board, trying to capture their opponent's cards. A capture occurs when a card is placed next to an opponent's card, and the number on the adjacent edge of the placed card is greater than the corresponding number on the edge of the opponent's card. The captured card changes color to indicate that it now belongs to the player who made the capture.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053910/header.jpg?t=1730773763",
+    "developers": [
+      "Xeip Games"
+    ],
+    "publishers": [
+      "Xeip Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

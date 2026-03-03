@@ -1,0 +1,106 @@
+{
+  "1888130": {
+    "name": "ALAN-13 Reformation",
+    "steam_appid": 1888130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >ALAN-13 Reformation:</h2><br>作为我们新开发的欢乐益智游戏，ALAN-13 REFORMATION注重于考验你的逻辑思维能力。游戏中，你会面临各种挑战，并需要为我们的自走机器人（ALAN-13）进行接线，以此完成各式各样的任务。在此过程中，你会逐渐学会如何像程序员一样思考（但无需编写任何代码），并熟悉一些编程的基本工具。如果你对编程逻辑感兴趣，你可以把这游戏看成是你成为软件工程师的第0步。当然了，即使没有这种打算，你也可以完美地享受这段旅程。<h2 class=\"bb_tag\" >你的任务：</h2><br>2177年（在首个机器人出现的30年后），金星的殖民改造正紧锣密鼓地进行中。然而不知为何，最近的太阳活动开始变得十分不寻常。太阳耀斑愈发频繁，日冕物质抛射现象的规模也大到史无前例。这几乎完全摧毁了我们在地表设置的电力基础设施，而持续的电波干扰也使得常规的通信手段变得不可靠。<br> 为了克服这些挑战，并恢复基础设施的运行，我们的机械工程师更新了我们的通用型机器人（ALAN系列），为其配备了重型机甲和可能需要的额外硬件。<br>作为我们在现场唯一有自动化背景的工程师，你的任务是将这些机器人单元自动化，使其可以有效地自主巡航及自我续航（因为我们还不能保证远程遥控的信号质量）。对于这项任务，你可以利用已经十分成熟的GENESIS™组件为ALAN-13构建微控制器。此外，你还须学会为机器人安装和配置适合特殊任务的外接硬件设备。<h2 class=\"bb_tag\" >Linux系统兼容性：</h2><br>正式来讲，我们目前只支持Windows系统。不过，据说只要在游戏选项菜单中打开兼容性功能的话，游戏就能通过PROTON运行。<h2 class=\"bb_tag\" >反馈：</h2><br>如果您对我们的游戏有任何的反馈或建议，您可以在我们的网站上找到我们的联系方式，又或者，您可以在社区中心分享您的想法。",
+    "supported_languages": "英语<strong>*</strong>, 匈牙利语<strong>*</strong>, 法语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 意大利语<strong>*</strong>, 波兰语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888130/header.jpg?t=1685486122",
+    "developers": [
+      "Viktor Kovács"
+    ],
+    "publishers": [
+      "smithandcherryapps"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 6200,
+      "final": 6200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 62.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 5 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "Infinite Loop",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/62bc2d71006e2286ba096500dbdff03b87654a68.jpg"
+        },
+        {
+          "name": "The start of a journey",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/45b398cdd9305c789446c81fca46e61a4d6625e9.jpg"
+        },
+        {
+          "name": "Lucky",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/793cf3368fc887b9eb113c016e0a5af5de7f6408.jpg"
+        },
+        {
+          "name": "Beware of trains",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/02a039c4b2d4887fe217fc5465a3c40a4f7f2a77.jpg"
+        },
+        {
+          "name": "On the path of Greatness",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/d190d2c3c2d8ba47d890365317165fa9084fdc03.jpg"
+        },
+        {
+          "name": "Take them down",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/295e8d326673882a2475acaa6b46cad5aa981500.jpg"
+        },
+        {
+          "name": "ALAN 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/4a902b30d2678160a6ebb314ff1186bcc2c6517c.jpg"
+        },
+        {
+          "name": "ALAN 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/9d148f71f118653be25ac991f8485834e567c9a4.jpg"
+        },
+        {
+          "name": "Senior Developer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1888130/f2a31edda7f307f01ec1d298a3afd4cfc80457fe.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

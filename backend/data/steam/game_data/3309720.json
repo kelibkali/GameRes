@@ -1,0 +1,59 @@
+{
+  "3309720": {
+    "name": "GameTechBench",
+    "steam_appid": 3309720,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" ><i>NOTICE: The <strong>free version is fully competitive</strong> but with limited options. It also offers <strong>full free access to all 'PRO' features on certain days</strong> each month.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Tired of <strong>synthetic benchmarks that fail to reflect your GPU’s real gaming performance?</strong> Welcome to the benchmark that redefines how graphics power is measured. GameTechBench delivers a visual experience leveraging <strong>cutting-edge real-world gaming technologies</strong> and professional rendering tools used in the audiovisual industry.</p><h2 class=\"bb_tag\" ><strong>Why Choose GameTechBench?</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fast, Simple, and Straightforward:</strong><br>With an intuitive interface and well-designed options, you can start measuring your GPU’s performance in seconds. No installation is required—just download, open, and run. It launches in seconds (using SSDs) and has minimal loading times. The benchmark lasts only 2.5 minutes, delivering reliable and stable results quickly.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Top-Tier Graphics:</strong> <br>Powered by Unreal Engine 5.5, this benchmark utilizes advanced technologies such as Lumen, Nanite, Ray Tracing, Volumetric Fog, Virtual Shadowmaps, Megalights, Metahumans, Machine Learning Deformers, Virtual Textures, Niagara, and more. This is arguably the most advanced and detailed graphical environment ever included in a dedicated benchmark, designed to showcase what your GPU is truly capable of handling in today’s and tomorrow’s most advanced games.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Real-World Conditions:</strong> <br>Unlike other synthetic benchmarks, GameTechBench simulates real-world AAA gaming conditions. Everything you see in this benchmark could be modularly used to create a complete video game, including:</p><p class=\"bb_paragraph\" >-          Over <strong>2 billion polygons</strong>.</p><p class=\"bb_paragraph\" >-          More than <strong>600 unique meshes</strong>, instantiated over <strong>5,000 times</strong>.</p><p class=\"bb_paragraph\" >-          Over <strong>1,000 textures</strong>, instantiated more than <strong>12,000 times</strong>.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Optimized Performance:</strong><br>While prioritizing visual quality in a hyper-detailed environment with fully dynamic lighting, the benchmark is also optimized to minimize performance trade-offs, striking an ideal balance between visual fidelity and efficiency.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>One Software, Two Benchmarking Applications:</strong></p><p class=\"bb_paragraph\" >-          Real-Time: Explore a hyper-realistic environment simulating actual gaming conditions (excluding NPCs with CPU-based AI). This mode evaluates how your GPU handles advanced graphics in modern games. Available in two variants: Ray Tracing and Rasterization.</p><p class=\"bb_paragraph\" >-          Path Tracing: Perform ‘classic’ professional frame rendering, similar to other GPU-rendering tools like Blender, V-Ray, Corona, or FStorm. This mode tests your GPU's capabilities in intensive offline rendering tasks for cinematic-level productions.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Four Different Modes:</strong></p><p class=\"bb_paragraph\" >• Automated Benchmark<strong>:</strong> A controlled 2.5-minute sequence that precisely measures your GPU’s performance in a controlled environment without external tools. Available in three different modes:</p><p class=\"bb_paragraph\" >-          Ray Tracing (real-time)</p><p class=\"bb_paragraph\" >-          Rasterization (real-time)</p><p class=\"bb_paragraph\" >-          Path Tracing (offline).</p><p class=\"bb_paragraph\" >• Walking Simulator: Freely explore the environment in first person and see how your GPU performs in a realistic gaming scenario. This option unlocks after the real-time benchmark sequence.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Technology for Today and Tomorrow:</strong><br>GameTechBench is designed to push the limits of current GPUs and serve as a reference for performance in both gaming and audiovisual projects. Leveraging the technology shaping more than half of the next-gen titles currently in development, it ensures relevance for years to come.</p></li><li><p class=\"bb_paragraph\" ><strong>Detailed Real-Time Information:</strong><br>No other benchmark provides as much real-time information during execution, including graphs showing current performance, average FPS, 1% lows, VRAM usage, current loop, total remaining time, and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Integrated Ranking (Coming Very Soon):</strong>  <br>The main menu will feature a graph showcasing the average performance of each GPU type as reported by all benchmark users. It will also include a leaderboard of users with the highest scores for their specific GPU model.</p></li></ul><h2 class=\"bb_tag\" ><strong>The Power of Unreal Engine</strong></h2><p class=\"bb_paragraph\" >Unreal Engine isn’t just the world’s most advanced real-time creation tool—it’s also the most popular. Used in over half of next-gen titles currently in development and numerous high-level audiovisual projects worldwide, this benchmark harnesses Unreal Engine’s full power to provide a performance evaluation that truly matters.</p><h2 class=\"bb_tag\" ><strong>Who is GameTechBench For?</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Gamers:</strong> Discover how your hardware will handle next-gen games with revolutionary graphics.</p></li><li><p class=\"bb_paragraph\" ><strong>Audiovisual industry:</strong> Evaluate your GPU’s performance in intensive rendering tasks for cinematic and audiovisual productions.</p></li></ul><h2 class=\"bb_tag\" ><strong>Discover the graphical standard of the future with GameTechBench today and unlock your GPU’s full potential!</strong></h2>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309720/header.jpg?t=1766604269",
+    "developers": [
+      "VirtualUnreal"
+    ],
+    "publishers": [
+      "VirtualUnreal"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

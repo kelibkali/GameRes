@@ -1,0 +1,122 @@
+{
+  "3305430": {
+    "name": "The Short Trip",
+    "steam_appid": 3305430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>The Short Trip</strong> 直接向像 The Long Drive 和 Desert Bus 这样的游戏致敬并汲取灵感，使用 PICO-8 游戏的视觉风格，并且在 Godot 中制作。[ /p]<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >在<strong> The Short Trip</strong> 中，你将驾驶车辆，直到到达道路的尽头。 物品设计为稀有，你必须管理你的<strong>食物</strong>和<strong>口渴</strong>。 睡觉是可选的，但最好不要在晚上开车，因为夜晚是<strong>漆黑一片</strong>。<br><br><strong>维护</strong> 你的车辆至关重要，因为碰撞会慢慢<strong>损坏</strong>你的车辆，直到它变得无法使用。它还会<strong>消耗燃料</strong>。 [Inventory management] 是一个核心功能。你不能囤积物品，所以你必须<strong>只带你需要的东西</strong>。 带太多东西<strong>会减慢你的车辆速度</strong>。</p><p class=\"bb_paragraph\" >所有的车辆都有优缺点，你将在游戏过程中发现。所有的车辆都是可行的，但有些比其他的更好。[ /p]<p class=\"bb_paragraph\" >死亡是永久性的，<strong>没有重生</strong>。</p></p></p>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 阿拉伯语, 保加利亚语, 捷克语, 丹麦语, 荷兰语, 芬兰语, 希腊语, 匈牙利语, 印度尼西亚语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 罗马尼亚语, 俄语, 简体中文, 西班牙语 - 拉丁美洲, 瑞典语, 泰语, 繁体中文, 土耳其语, 乌克兰语, 越南语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/header.jpg?t=1751042507",
+    "developers": [
+      "OcarinaGames"
+    ],
+    "publishers": [
+      "OcarinaGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2100,
+      "final": 2100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 21.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 11,
+      "highlighted": [
+        {
+          "name": "Ignition, ON",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/179de7817c527522379da6d071c921e3be70ae48.jpg"
+        },
+        {
+          "name": "Are We There Yet?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/16369335c29a8c5866f7bc1fc1e45b4ee7f61b56.jpg"
+        },
+        {
+          "name": "Halfway There",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/c6c7d3811cdaa2ddaa10a99e11d293207a28fa69.jpg"
+        },
+        {
+          "name": "Almost There!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/902e16cac4feb0c3ccbb3e360315e7f603613246.jpg"
+        },
+        {
+          "name": "Mom? Dad?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/34adb33729d00431a97036254e8bd1bb4c95998b.jpg"
+        },
+        {
+          "name": "Desperation",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/9d3505f4e8eefe8c2e0d64ba46f995a9be81de84.jpg"
+        },
+        {
+          "name": "Goodbye, World",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/e9b5b16c7909361a09a6056e506660161c82fbcb.jpg"
+        },
+        {
+          "name": "Need A Ride?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/5e517d647db0f720f69a84d2ec709d20739a9469.jpg"
+        },
+        {
+          "name": "Murderer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/4a6f088b215e11518a494e9e36ff24c5084377c1.jpg"
+        },
+        {
+          "name": "Dirty Bunny Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3305430/c65920adadf8cbb0469a12938559ca403951b713.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

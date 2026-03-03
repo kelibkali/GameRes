@@ -1,0 +1,110 @@
+{
+  "3094050": {
+    "name": "TD3D",
+    "steam_appid": 3094050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >In a 3D environment, in addition to stopping the enemy from advancing, you may also have to stop the enemy from rising or falling!</p><p class=\"bb_paragraph\" >You can use towers to block the enemy, but after the enemy gradually becomes stronger, it is better to build the tower on the roadside or wall.</p><p class=\"bb_paragraph\" >Whether you choose to use low-level but massive towers to destroy the enemy, or use high-level and powerful towers to destroy the enemy, as long as you can stop the enemy, it is an excellent tactic!</p><p class=\"bb_paragraph\" >In addition to powerful monsters, you also have to pay attention to small and fast-moving critters, but as long as you use towers that attack with a wide range, you don't have to worry!</p><p class=\"bb_paragraph\" >If you are still not satisfied, use the talent tree to strengthen your tower to an incredible level and make those guys despair!</p><p class=\"bb_paragraph\" >Next time, you have to be careful of them, they are attacking from all directions...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game features:</p><p class=\"bb_paragraph\" >1. The enemy is born at the green ball and goes to the end at the red ball.</p><p class=\"bb_paragraph\" >2. Routes are randomly generated.</p><p class=\"bb_paragraph\" >3. Achieving achievement levels can increase the flow level of waves and challenge and defend more enemies.</p><p class=\"bb_paragraph\" >4. There are multiple series of towers. Each series has three directions for advancement. After advancement, each series has three directions for strengthening. After advancement, there may be different abilities.</p><p class=\"bb_paragraph\" >5. The talent points for strengthening the tower are calculated based on the highest number of kills in a single defense (not limited to levels).</p><p class=\"bb_paragraph\" >6. In addition to strengthening the tower's attack power, talents may also strengthen the tower's special abilities, and can also cause the tower's attacks to trigger debuff effects.</p><p class=\"bb_paragraph\" >7. Enemies may be large or small. Because the radius is calculated, the tower may only detect large enemies at the edge of the detection range.</p><p class=\"bb_paragraph\" >8. Enemies may be fast or slow, and non-pursuing bullets may hit enemies immediately behind the original target.</p><p class=\"bb_paragraph\" >9. The enemy may walk on the wall, and you can also build the tower on the wall, but be aware that ordinary bullets cannot penetrate the wall.</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094050/header.jpg?t=1733919559",
+    "developers": [
+      "Jake Peng"
+    ],
+    "publishers": [
+      "Jake Peng"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 19,
+      "highlighted": [
+        {
+          "name": "1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/38b4e2a729b92c216ac3ca16289c1c996e2cbd3f.jpg"
+        },
+        {
+          "name": "2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/1a123de0fb65135870617868516bb85a7179ddf5.jpg"
+        },
+        {
+          "name": "3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/7bceff872ed5d472f74c6358a6804c787aac6a90.jpg"
+        },
+        {
+          "name": "4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/1ba1df2c8bcfd963ef87f5474ab6c137e7d0fa1a.jpg"
+        },
+        {
+          "name": "5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/345594de2bdafcd75f6b16b2ecb5df3911b20c33.jpg"
+        },
+        {
+          "name": "6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/07df1d5b6a03933c2d32b94354fc226f258418f4.jpg"
+        },
+        {
+          "name": "7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/3d4f4fed1987e842679f8657f9bfb5175005208a.jpg"
+        },
+        {
+          "name": "8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/6e1c9132d6b0bc9b3f37aa8ea050dc998de30e0f.jpg"
+        },
+        {
+          "name": "9",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/259c1e0d0f1b7e9f68b2ee9bcaaa934753ba872a.jpg"
+        },
+        {
+          "name": "Flow 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3094050/b172f80e68b9d7108ed21f79bacfecccb44a6173.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

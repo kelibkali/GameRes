@@ -1,0 +1,64 @@
+{
+  "3202900": {
+    "name": "芝加哥计划插画集",
+    "steam_appid": 3202900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在RPG Maker引擎中，图片会被压缩至816*624 px，此DLC允许您得到原始清晰度的CG。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3202900/header.jpg?t=1763772309",
+    "developers": [
+      "GoldenBlade"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

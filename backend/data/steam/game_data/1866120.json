@@ -1,0 +1,146 @@
+{
+  "1866120": {
+    "name": "Heartwood Heroes",
+    "steam_appid": 1866120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "是一款快节奏的棋盘游戏, 最多支持4名玩家同场竞技, 具有风趣幽默的任务内容, 快速的回合制战斗和多选择事件. 游戏支持Steam远程同乐以及本地或在线游戏 - 只需一次购买即可. 在随机生成的分支游戏场景中, 与朋友一起合作或是对抗!<br><br><strong>探索</strong> - 在棋盘上移动, 翻转方块、发现特殊地点并与“有帮助的”角色见面.<br><br><strong>本周英雄</strong>- 完成任务并与怪物战斗以获得经验值. 打败最终首领后, 经验多者获胜! 如果你落后太多, 一条好心的蛇会帮助你.<br><br><strong>轻量RPG元素</strong> - 自定义角色外观并为自己装备武器, 盔甲, 配件和法术. 提高属性能力并吸引追随者, 这可能会帮助您获胜.<br><br><strong>找到一份工作</strong> - 从 20 多种工作中进行选择, 如流浪, 骗子, 迪瓦和超级浩克. 每个人都会教会一组技能来帮助你战斗, 赚钱和装备, 和/或让你更快地移动.<br><br><strong>英勇的战斗</strong> - 参加快速回合制战斗, 对抗形形色色的敌人 加入其他玩家的战斗还能够分享经验! 即使被淘汰了, 你也会很快重新站起来.<br><br><strong>可重复体验的场景</strong> - 在随机任务, 事件, 商店, 就业市场和棋盘之间, 没有什么两场游戏是相同的. 谁知道接下来的故事会发生什么曲折?<br><br><strong>快速游戏</strong> - 一场游戏可以在1-2小时内完成.<br><br><strong>自定义</strong> – 更改游戏规则使棋盘随机化, 或通过Steam创意工坊制作自己的任务和角色.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866120/header.jpg?t=1682587159",
+    "developers": [
+      "Ludosity"
+    ],
+    "publishers": [
+      "Ludosity"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5800,
+      "final": 5800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 58.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 3 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Big Damage!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/d5ac7ab6a40c78bfd4ee09f5160bd0539638ae97.jpg"
+        },
+        {
+          "name": "Bigger Damage!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/ae30b9531a86fb35ccff605aedcc41d97cd8de3d.jpg"
+        },
+        {
+          "name": "Biggest Damage!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/4583ac8855ebd5665fc7972e176d5649ed6cf85e.jpg"
+        },
+        {
+          "name": "Finish One Game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/fdac15d4de58c80809ad8c889475120d4bb58bb9.jpg"
+        },
+        {
+          "name": "C-C-Combo!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/d673fb922832ddd898df1129d8991a9de3103202.jpg"
+        },
+        {
+          "name": "There's Bite In You!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/6f0ba336ebabb873e08a506e88c0e8acdf78ac2b.jpg"
+        },
+        {
+          "name": "I'm Helping!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/b6f34d7c11767c69f1e43e68d47c03f1d9b0d16a.jpg"
+        },
+        {
+          "name": "Wash That Off!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/51cc500b0a1d5c3d37f55f4437ed0057fc437b12.jpg"
+        },
+        {
+          "name": "Pay-to-Earn",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/3a445d3987d960dc73ae54b563d6f6a8e6cb44c6.jpg"
+        },
+        {
+          "name": "Vrooom!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1866120/11d260d26dd5f3147308c1a730725b8a83db147c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

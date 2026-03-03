@@ -1,0 +1,82 @@
+{
+  "3132000": {
+    "name": "贡多拉通过",
+    "steam_appid": 3132000,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >一款关于贡多拉及其旅程的小游戏。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >成为一名贡多拉船夫，在充满危险的海面上载客，精确地操纵船只。</p><p class=\"bb_paragraph\" >不一定每次旅途都能安然通过。为了到达目的地，你必须通过重重危险。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>特点： </strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > 鼠标控制，通过鼠标移动模拟桨的运动。</p></li><li><p class=\"bb_paragraph\" > 每一次划桨运动都会产生动力和扭矩。</p></li><li><p class=\"bb_paragraph\" > 各种障碍，包括岩石、栅栏、鲨鱼、触手和船只。</p></li><li><p class=\"bb_paragraph\" > 由 4 个不同设计的关卡组成。</p></li><li><p class=\"bb_paragraph\" > 游戏时间不长，大约 30 分钟至 1 小时即可完成。</p></li></ul><p class=\"bb_paragraph\" > 为奖励技巧，有只有在无误通关的情况下才能获得的成就。</p><h2 class=\"bb_tag\" >关于游戏直播</h2><p class=\"bb_paragraph\" >欢迎。无需事先通知。如果可以，请链接至此商店页面的 URL。<br> <br>谢谢支持！</p>",
+    "supported_languages": "英语, 法语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132000/header.jpg?t=1727822160",
+    "developers": [
+      "nullius"
+    ],
+    "publishers": [
+      "nullius"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "学徒",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3132000/d6bc00b7d3991217f56b69f3e457f6a11c948dc8.jpg"
+        },
+        {
+          "name": "专业级",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3132000/71242a99b06cce4a164fcd40ef6868d7c97c9922.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

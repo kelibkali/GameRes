@@ -1,0 +1,74 @@
+{
+  "3303950": {
+    "name": "TicTacToeTwo",
+    "steam_appid": 3303950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras/26fa46f84a7f00665584a1eb42cf1a57.avif?t=1758278068\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras_big/26fa46f84a7f00665584a1eb42cf1a57.avif?t=1758278068 width=800 height=450 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras/283a831ea246ec7d7a95c1f2a21ba4bf.avif?t=1758278068\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras_big/283a831ea246ec7d7a95c1f2a21ba4bf.avif?t=1758278068 width=800 height=450 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras/3720352f92bd2b3e351115a97e670049.avif?t=1758278068\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras_big/3720352f92bd2b3e351115a97e670049.avif?t=1758278068 width=800 height=450 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras/ee561070c02e560fa555a61de29576b2.avif?t=1758278068\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/extras_big/ee561070c02e560fa555a61de29576b2.avif?t=1758278068 width=800 height=450 /></span>a new version of tic-tac-toe, in which a larger piece can occupy the space of a smaller one, with both player X and player O starting with 2 large pieces, 2 medium pieces and 2 small pieces to place on the board. Whoever completes a column, row, or diagonal first wins. If there is no space for a player to place his piece, or both players' pieces have run out, the game ends in an &quot;velha&quot; draw. You can either challenge a friend to play against you, or play against the computer, with 3 different levels for you to challenge, namely the random level, the intermediate level and the perfect level.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303950/header.jpg?t=1758278068",
+    "developers": [
+      "izi games"
+    ],
+    "publishers": [
+      "izi games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

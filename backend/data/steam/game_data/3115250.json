@@ -1,0 +1,71 @@
+{
+  "3115250": {
+    "name": "StreamFans",
+    "steam_appid": 3115250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A comprehensive service for streamers, which includes:<br><br>• A library of multiplayer games;<br>• One-click ease of use;<br>• Private lobbies, exclusively for stream participants.<br><br>We aim to expand our game catalog, including titles such as Alias, Bunker, Mafia. Additionally, we are ready to develop games upon request, considering your personal preferences and those of your audience. As an option, we can integrate viewer interaction with the games through chat and voting, without direct access to the game lobby.<br><br>The ease of use is ensured by the fact that only a couple of clicks separate you from launching the client to starting the gaming session, without the need to set up scenes in OBS and edit player webcam feeds. We also provide a convenient reconnection system, with progress saving and the ability to expand the lobby with new players directly during the game.<br><br>In our game library, we feature:<br><br>• <strong>FromTo</strong> – A game where players must guess the position of a marker on a scale based on clues given by one of the participants.<br><br>• <strong>TickTockBOOM</strong> – A game that trains quick thinking and reaction. Players take turns coming up with words that include a given syllable and pass the &quot;bomb&quot; to the next player. The goal is not to hold the &quot;bomb&quot; when it &quot;explodes.&quot; The player holding the &quot;bomb&quot; when it explodes is out of the game.<br><br>• <strong>Crocodile</strong> – A game where one of the participants receives a task from a pre-prepared list and must, without speaking, use gestures and facial expressions to act out the specified action or phrase. The other players try to guess what the host is depicting. The game continues until the task is guessed, after which it is the next participant's turn to act out.<br><br>• <strong>YesNo Game</strong> – This game involves riddles where players receive a brief and often paradoxical description of a situation that needs to be solved by asking the host questions. Answers to questions can only be &quot;yes,&quot; &quot;no,&quot; or &quot;doesn't matter.&quot;",
+    "supported_languages": "俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115250/header.jpg?t=1721733643",
+    "developers": [
+      "SINCORP.GAMES"
+    ],
+    "publishers": [
+      "SINCORP.GAMES"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

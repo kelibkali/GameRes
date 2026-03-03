@@ -1,0 +1,94 @@
+{
+  "3113510": {
+    "name": "Skidaddle Skidoodle",
+    "steam_appid": 3113510,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/bac5811c75d6023a904759f2bef4bf97.poster.avif?t=1766131517\" width=600 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/bac5811c75d6023a904759f2bef4bf97.webm?t=1766131517\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/bac5811c75d6023a904759f2bef4bf97.mp4?t=1766131517\" type=\"video/mp4\"></video></span><br><br>Skidaddle Skidoodle是一款单人街机游戏，你扮演一个小侏儒法师，努力保护森林及其居民免受破坏自然和谐的邪恶生物的侵害。 使用各种法术来击败入侵者，并将温暖和平静的日子带回森林。 控制敌人的数量，在这个神奇的领域恢复自然力量的平衡。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/c5a43de8a91b19b350237950e15901a7.poster.avif?t=1766131517\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/c5a43de8a91b19b350237950e15901a7.webm?t=1766131517\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/extras/c5a43de8a91b19b350237950e15901a7.mp4?t=1766131517\" type=\"video/mp4\"></video></span><br><br><strong>主要特点：</strong><ul class=\"bb_ul\"><li>身临其境的单人游戏体验：与不同的敌人和具有挑战性的水平进行惊险刺激的单人任务。<br></li><li>丰富的法术库：掌握广泛的魔法咒语，以战略性地击败各种敌人。<br></li><li>迷人的主角：踏入一个可爱的侏儒法师的鞋子，致力于保卫森林。<br></li><li>迷人的视觉和声音：享受一个精心制作的世界与惊人的图形和迷人的配乐。<br></li><li>动态自然平衡：通过管理敌人种群并将平衡带回魔法森林来恢复和谐。</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113510/header.jpg?t=1766131517",
+    "developers": [
+      "Galactic Geckon"
+    ],
+    "publishers": [
+      "Galactic Geckon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 10800,
+      "final": 10800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 108.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "Homunculus",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/e21ea9706d1e2f7e1d850d7b9bb07e0fae5790c7.jpg"
+        },
+        {
+          "name": "face snatche",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/a1482c08e6f2930531acbce5aba7f002009c9e65.jpg"
+        },
+        {
+          "name": "Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/b02a90f272d349510f9cb6483fba69cc11a07c88.jpg"
+        },
+        {
+          "name": "Magician",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/79921fc83c2c9e027527d901248c01124981c549.jpg"
+        },
+        {
+          "name": "Dark Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/714dfc7cd16f2ab14f60aa967b66ec10d2dfa49d.jpg"
+        },
+        {
+          "name": "Corrupted Knight",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/53e6aa5687e215c713330a05974f01a42542df12.jpg"
+        },
+        {
+          "name": "One level",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/e14927e361a58612cbce0ad5e8ddb3f11297cae6.jpg"
+        },
+        {
+          "name": "END GAME",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3113510/2255478964029820ac394c064c7fa01237e3a8e8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

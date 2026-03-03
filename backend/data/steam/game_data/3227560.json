@@ -1,0 +1,54 @@
+{
+  "3227560": {
+    "name": "Journey Up Demo",
+    "steam_appid": 3227560,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Play the first zone of the full game in single player.<br />\r\nThe full game will contain more zones and multiplayer support.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 简体中文, 乌克兰语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3227560/header.jpg?t=1728554300",
+    "developers": [
+      "Mechabit"
+    ],
+    "publishers": [
+      "Mechabit"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 53,
+        "description": "已支持 VR"
+      }
+    ],
+    "genres": [],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "3030490": {
+    "name": "Direction!LevelUP!",
+    "steam_appid": 3030490,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款结合了部分音乐游戏与幸存者玩法的游戏。<br><br>你将通过战斗来让自己升级并获得新的技能，且技能有对应的方向键组合，完美的按下他你将可以获得技能 经验！<br><br>游戏中的类Rouge元素将会在技能升级时体现。<br><br>如果你感觉敌人难度太高，不要放弃，你将可以在游戏结束后对技能进行升级！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030490/extras/5ac50825d5e95f8fb1bc5cd93f411e69.poster.avif?t=1721621344\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030490/extras/5ac50825d5e95f8fb1bc5cd93f411e69.webm?t=1721621344\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030490/extras/5ac50825d5e95f8fb1bc5cd93f411e69.mp4?t=1721621344\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030490/header_schinese.jpg?t=1721621344",
+    "developers": [
+      "AnythingGames"
+    ],
+    "publishers": [
+      "AnythingGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1000,
+      "final": 1000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 10.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "初见",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030490/ddc94d5976682f6f5278fba51a3c1b0ea763765f.jpg"
+        },
+        {
+          "name": "你变强了",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030490/70db1b3d32068f1a8eaf5479e71b557539441457.jpg"
+        },
+        {
+          "name": "一次短暂的体验",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030490/457590319e4ea9c437f811696ac6e074113d3fa7.jpg"
+        },
+        {
+          "name": "是有什么问题吗？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030490/580bde669fb49561d1b589e8b178e871b84ff836.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 6,
+      "total_negative": 0,
+      "total_reviews": 6
+    },
+    "type": "game"
+  }
+}

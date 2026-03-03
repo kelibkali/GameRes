@@ -1,0 +1,110 @@
+{
+  "1892450": {
+    "name": "Bouldering Robot 3D",
+    "steam_appid": 1892450,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Bouldering action game! </h2><br>This is an action game where you have to boulder to move.<br>This robot can't walk normally or jump normally.<br>It just hangs and shifts its weight.<br>Each of the L and R controls corresponds to a grabbing and releasing action.<br>If you accidentally let go and fall, you'll have to start over from the checkpoint!<br>Catch the goal at the top with both hands while swinging and jumping!<br><br>It's not just fixed blocks that you can grab with both hands.<br>Blocks that look like ropes<br>Blocks like a pendulum<br>Unstabilized blocks<br>Moving blocks<br>Blocks with a time limit<br>What awaits you at the end?<br><br><strong>Live play and streaming is welcome!</strong><br>9 stages in total.<h2 class=\"bb_tag\" >Controls</h2>When using a Keyboard<br>→↓←↑ Move center of gravity &amp; select<br>Q or E Grab &amp; Release<br>ESC Pause screen &amp; game end<br><br>When using a controller<br>Various sticks Move &amp; select center of gravity<br>L or R Grasp &amp; release<br>ESC Pause screen &amp; game end<br><br> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892450/extras/99127456687acb90d6b992ae017ed2d5.poster.avif?t=1648366347\" width=400 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892450/extras/99127456687acb90d6b992ae017ed2d5.webm?t=1648366347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892450/extras/99127456687acb90d6b992ae017ed2d5.mp4?t=1648366347\" type=\"video/mp4\"></video></span><br><br>Supported Controllers<br>SwitchPro Controller Bluetooth connection will be more stable than wired connection.<br><br><ul class=\"bb_ul\"><li>Various keyboards<br></li><li>Various gamepads<br></li><li>PS4 controller (not tested)<br></li><li>XBOX controller<br></li><li>SwitchPro Controller</li></ul>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892450/header.jpg?t=1648366347",
+    "developers": [
+      "NoraPerikaProject"
+    ],
+    "publishers": [
+      "NoraPerikaProject"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "Stage 1 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/87dde3c55cd55679b0c70a4b3a6a46aca9c2ffc5.jpg"
+        },
+        {
+          "name": "Stage 2 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/0c9a8099c79aa2164254f590c34536b8e47c76df.jpg"
+        },
+        {
+          "name": "Stage 3 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/f55fd1a3c5f97867c9d37c30094666b853f62f2a.jpg"
+        },
+        {
+          "name": "Stage 4 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/a22936be2c6162d945da31192c05c38d76e00808.jpg"
+        },
+        {
+          "name": "Stage 5 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/356bd2e9fd8f82923cecc76d2908e8dc252523d7.jpg"
+        },
+        {
+          "name": "Stage 6 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/a14fc16c8c01f277c67eb82f423ee5d70d5e82c3.jpg"
+        },
+        {
+          "name": "Stage 7 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/e290831fcbce633304af0124a09de76c8449eb04.jpg"
+        },
+        {
+          "name": "Stage 8 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/d9c98f86b74e785a6be5e95e347ea220ae709636.jpg"
+        },
+        {
+          "name": "Stage 9 clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/8b3305ed7a2e58dc642aa76762e88928223a4a9c.jpg"
+        },
+        {
+          "name": "Rank S clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1892450/df7c7571a264ed4490057ba6c62844a58b74a215.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

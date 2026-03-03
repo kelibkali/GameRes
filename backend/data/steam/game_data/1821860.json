@@ -1,0 +1,66 @@
+{
+  "1821860": {
+    "name": "TOUGE RACERS",
+    "steam_appid": 1821860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Touge Racers is a single-play racing game.<br />\r\nIt is a race battle on the pass with the old car team that I met at the pass.<br />\r\nA racing game where you can drift down a winding road.<br />\r\nIt is a game where you win the game and accumulate points to remodel the car.<br />\r\nThe color of the car can be changed freely.<br />\r\nYou can also use points to buy the car of the opponent who won the game.",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821860/header.jpg?t=1640562907",
+    "developers": [
+      "Dolphin.App"
+    ],
+    "publishers": [
+      "Dolphin.App"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5000,
+      "final": 5000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 50.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

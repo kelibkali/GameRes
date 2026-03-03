@@ -1,0 +1,62 @@
+{
+  "3232060": {
+    "name": "海棋",
+    "steam_appid": 3232060,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一款高随机性的抽卡3D战斗游戏，玩家通过路上遇到的奇遇和每回合抽取卡牌强化自己，游戏随机性极高，每次都是一场新的对局。游戏背景是一片海岛边上，3D场景下海浪不断拍打过来，玩家则是一直通过手中卡牌打到怪物和boss。在游戏过程中每一场小战斗都会让自己更强，游戏玩法有多重不同流派，每个回合战斗都会给一定的金币，胜利后将获得“缘”，对于不同难度的游戏获得的“缘”存在差距，通过“缘”你能不断抽取更强奇遇，快来开启一场有趣冒险吧。</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 俄语<strong>*</strong>, 土耳其语<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 越南语<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232060/c5dc5fe782b359d2b48886b6cd1e6ed03e1da88b/header_schinese.jpg?t=1745973007",
+    "developers": [
+      "海棋"
+    ],
+    "publishers": [
+      "海棋"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 4 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

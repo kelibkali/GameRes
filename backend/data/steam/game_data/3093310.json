@@ -1,0 +1,84 @@
+{
+  "3093310": {
+    "name": "超级扫雷",
+    "steam_appid": 3093310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "问：进入游戏后，我该做什么？<br />\r\n答：尝试点击格子。注意不要点到地雷。<br />\r\n<br />\r\n问：我怎么知道一个格子是否是地雷？<br />\r\n答：当你点击一个格子后，它会显示一个数字，表示周围3*3范围内的地雷数量。你可以基于这些数字来计算哪个格子有地雷。<br />\r\n一旦你确定一个格子是地雷时，你可以右键那个格子，这样会给那个格子插上旗子，提醒自己它是雷。<br />\r\n<br />\r\n问：石头是什么？<br />\r\n答：石头不可点击。没有任何效果，它只是静静地呆在那里。<br />\r\n<br />\r\n问：视距是什么？<br />\r\n答：当你开启视距2时，格子中显示的数字将是5*5的地雷数量，而不是3*3的。<br />\r\n当你开启视距3时，它会是7*7。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/header.jpg?t=1724975003",
+    "developers": [
+      "听金宗骨"
+    ],
+    "publishers": [
+      "听金宗骨"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 6 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 0
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

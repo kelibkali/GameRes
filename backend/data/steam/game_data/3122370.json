@@ -1,0 +1,82 @@
+{
+  "3122370": {
+    "name": "PirateWar",
+    "steam_appid": 3122370,
+    "required_age": 0,
+    "is_free": false,
+    "description": "使用各种武器和能力来制服你的敌人，挑战自己成为传说中的海盗王。<br />\r\n提供实时 PvP 战斗和合作模式，每个海盗都有独特的技能和装备。<br />\r\n<br />\r\n<br />\r\nmove - w, a, s, d<br />\r\nThrow Grenade - t<br />\r\nFast Move - Shift<br />\r\nCrouch - alt<br />\r\nChange Weapon, Equipped Weapon - E<br />\r\nAttack - Left Mouse Click<br />\r\n<br />\r\nIf the game doesn't start because there's no one around, please email me when you can work at the game store. Join me.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 俄语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3122370/header.jpg?t=1725801129",
+    "developers": [
+      "dayme200"
+    ],
+    "publishers": [
+      "dayme200"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Game Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3122370/fcf64c23d867b94ce1a9df80ad8877154a2e2ef5.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

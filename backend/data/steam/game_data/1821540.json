@@ -1,0 +1,62 @@
+{
+  "1821540": {
+    "name": "鉄之海老",
+    "steam_appid": 1821540,
+    "required_age": 0,
+    "is_free": false,
+    "description": "※This game is recommended to be played with a gamepad.<br>※This game is created with Pixel Game Maker MV.<br>　So,i you encounter runtime errors when launching this game,<br>　please visit the official PixelGameMaker MV homepage<br>　and try installing the following DLLs.<br>　<u>VC2010,VC2012,VC2013,VC2015</u><br><br>I made this game as top view <i>shmup</i> STG(also known Shoot'em ups) game.<br>but some people think as <i>Shrimp</i> STG.<h2 class=\"bb_tag\" >shrimp type anti-aircraft tank TETSUNOEBI!</h2>control the tank and destroy drones or large bosses.<br><br><ul class=\"bb_ul\"><h2 class=\"bb_tag\" >This Game Has the Following Selling Points</h2><li>Exhilaration of defeating the enemy with a machine gun.<br></li><li>They attack from all directions in 360 degrees. Strategic nature of how to confront drone attacks (on higher difficulty levels)<br></li><li>Tense feeling of boss battles where you attack by exploiting gaps in the boss's attack.</li></ul>",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821540/header.jpg?t=1714577608",
+    "developers": [
+      "鉄之海老制作班"
+    ],
+    "publishers": [
+      "鉄之海老制作班"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 2 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

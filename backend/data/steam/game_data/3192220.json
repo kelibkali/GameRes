@@ -1,0 +1,51 @@
+{
+  "3192220": {
+    "name": "Coming From Above! Demo",
+    "steam_appid": 3192220,
+    "required_age": 0,
+    "is_free": true,
+    "description": "This is the trial version of &quot;Coming From Above!&quot;.<br />\r\nIn the trial version you can play &quot;Score Attack&quot; on &quot;Normal difficulty&quot;.<br />\r\n<br />\r\n----Below is a description of the retail version.----<br />\r\n<br />\r\nThey're &quot;Coming From Above!&quot; is a first-person perspective puzzle game.<br />\r\n<br />\r\nYou are playing the arcade game “Coming From Above!&quot; in the arcade game.<br />\r\nYou control the player and the falling blocks to achieve a high score.<br />\r\n<br />\r\n【Play time】<br />\r\nArcade Mode (Story Mode)<br />\r\n20 ~ 60 minutes<br />\r\n※Excluding EX stage.<br />\r\n<br />\r\n【BGM】<br />\r\nYou can change the BGM played during the game.<br />\r\nHidden BGM will be released by achieving achievements.<br />\r\n<br />\r\n【Rules】<br />\r\nSeven types of blocks fall from the top of the stage.<br />\r\nPlace the blocks on the stage by manipulating them. The first row of blocks in a row is erased.<br />\r\nIf two or more rows are erased at once, an item will appear.<br />\r\nKeep playing and aim for a high score.<br />\r\n<br />\r\nGame Over Conditions<br />\r\n・The player falls from the stage.<br />\r\n・The player falls off the stage or touches another block when it appears.<br />\r\n<br />\r\nList of items<br />\r\n・Super Shock<br />\r\nDrop all the floating blocks down until they hit the ground! Also, the dropped blocks don't disappear all at once, but are processed at the same time as the next block falls. Therefore, it is possible to erase four or more rows at once!<br />\r\n<br />\r\n・Color Chaser<br />\r\nEliminate the same type of blocks as the falling block. Earn 20 points x the number of blocks eliminated.<br />\r\n<br />\r\n・Pay Day<br />\r\nEarn 10 points x the number of blocks remaining in the current stage!<br />\r\n<br />\r\n・Level Down<br />\r\nDecrease the level! Blocks will fall slower. (Current level - 3) * 0.8 Round down to the nearest whole number.<br />\r\n<br />\r\n・Hyper Bomb<br />\r\nBlasts the 8 surrounding squares that the block touches. Earn 20 points for each block erased.<br />\r\n<br />\r\n・Easy Beat<br />\r\nIncreases the grace period for consecutive block clearing bonus judgment by 2. This effect lasts until the consecutive block clearing bonus ends.<br />\r\n<br />\r\n・Jump UP<br />\r\nWarps the player to the top.<br />\r\n<br />\r\n・Right To Right<br />\r\nMove all the blocks to the right.<br />\r\n<br />\r\n・Left To Left<br />\r\nMove all the blocks to the left.<br />\r\n<br />\r\n【Operating Instructions】<br />\r\n※There is no key configuration function.<br />\r\n※Mouse and keyboard operation only.<br />\r\n<br />\r\nWASD: Move the Player<br />\r\nSpace: Jump<br />\r\n<br />\r\nQ: Rotate Block Left<br />\r\nE: Rotate Block Right<br />\r\nC: Block Move Left<br />\r\nV: Block Move Right<br />\r\n<br />\r\nMouse: Move viewpoint<br />\r\nLeft click: Ground the block instantly<br />\r\nRight click: Hold block<br />\r\nT: Skip to Next Track<br />\r\n1 or 2: Switch Camera",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192220/header.jpg?t=1725377190",
+    "developers": [
+      "KakeiA"
+    ],
+    "publishers": [
+      "KakeiA"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 3 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1828520": {
+    "name": "Piecewise - RSS Feeds",
+    "steam_appid": 1828520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Create news bots, feed aggregators, and more with the RSS Feeds extension pack!</strong><br><br>RSS is a web feed protocol that allows its consumers to stay up-to-date on frequently-updated content, like news articles, blogs, and podcasts. This extension pack adds at least a dozen new blocks and the ability to consume RSS feeds directly from your project.<br><br>With the Piecewise RSS Feeds add-on, you can:<br><br><ul class=\"bb_ul\"><li> Easily monitor RSS feeds for new items and changes<br></li><li> Fetch RSS feed metadata<br></li><li> Fetch RSS feed items, descriptions, and other properties</li></ul><br>Plus get started quickly with included template projects for Discord and Mastodon/Pleroma.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828520/header.jpg?t=1638906173",
+    "developers": [
+      "Piecewise Labs"
+    ],
+    "publishers": [
+      "Piecewise Labs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

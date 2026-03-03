@@ -1,0 +1,106 @@
+{
+  "3184130": {
+    "name": "Terracrest",
+    "steam_appid": 3184130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >Project Earthquake</h2>You have been tasked to return to Mine 41-A and retrieve the research data left behind during the evacuation. The mining equipment you’ve been assigned to in an old prototype mining drill, something not intended to actually be used. The engineers have got as far as making it functional before your mission, so you will need to maintain the vessel as you go.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184130/extras/8556d40eee90dde954f8413d55d320c8.webp?t=1733616124\" width=128 height=52 /></span><h2 class=\"bb_tag\" >Gameplay</h2>Navigation requires the use of echo-cast; a kind of echolocation raycasting that’ll project a digital representation of what’s in front of you.<br><br>Power is something you’ll need to manage, so using the scanner to find energy signatures will be helpful in replenishing your power as well as locating outposts.<br><br>Once in range of an outpost, use the Short Ranged Receiver (S.R.R.) to download the data that was left behind in that outpost.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184130/extras/47b2da9506608fea186bc043dfcc3b4b.avif?t=1733616124\" width=600 height=170 /></span><br><br>During your mission, you’ll find that your mining vessel is leaking air, so you’ll need to cycle the oxygen back in the air lock. You may also hear the breaker start to hum as it’s about to give out. You’ll have to crawl into the engine room to repair it.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184130/extras/61fd7d573ed080b4578c6319a5afa888.avif?t=1733616124\" width=560 height=170 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Freely explore the underground mine in a restrictive mining vessel using digital representations of your surroundings.<br></li><li>Deviate from the mission to unlock four alternative endings, revealing secrets the company wants to remain hidden.<br></li><li>Keeping your vessel maintained by watching your power consumption, keeping the air breathable, and fixing the engine room breaker.<br></li><li>Unlock different extras after each ending, ranging from freely roaming the main menu to a fishy arcade game.</li></ul><h2 class=\"bb_tag\" >History</h2>This game is an evolution of a game I made in 2017 in scratch called “Power Driller.” The goal of the game was to navigate a maze of breakable and unbreakable boxes to get to a power block without running out of power. I had floated the idea of making a reboot in 3D, and did so in 2023 for the GDevelop 3D jam. After a short break, I wanted to remake the jam version of the game, make it a more fleshed out experience, so after a short break, I started work on Power Driller 2, later Project Earthquake, and then finally Terracrest.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184130/header.jpg?t=1733616124",
+    "developers": [
+      "Levi Spencer"
+    ],
+    "publishers": [
+      "Levi Spencer"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Mission Complete",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/e1ce13af28a882c3934550ee6a8199ffafb35fa0.jpg"
+        },
+        {
+          "name": "Not again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/0fb4e72bb053f6b338ba55f4120da87e659ea718.jpg"
+        },
+        {
+          "name": "Splish Splash",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/89298ce4f8c73f2ca67b79d82e68782a296a0306.jpg"
+        },
+        {
+          "name": "Skewered",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/c682b94b72b27a9bf624c8e46da39693d0b7ff93.jpg"
+        },
+        {
+          "name": "Left Behind",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/a6b52fbe8d96851363a83b43f5e4c5111cb7ff92.jpg"
+        },
+        {
+          "name": "Who turned out the lights?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/81ac91f4f068f9c954c8fd9579666c055a4c2556.jpg"
+        },
+        {
+          "name": "Kinda warm in here...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/00718c826e2adee7551e8edb14c371d8ccd5bcf5.jpg"
+        },
+        {
+          "name": "Oxy what?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/135e8524ab590a8f17fb0e5d51e71a503a07ef9c.jpg"
+        },
+        {
+          "name": "Here Fishy Fishy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/d747f2608777fe522e2789d5d744914e28988ed2.jpg"
+        },
+        {
+          "name": "I know what I'm doing",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3184130/1a788f11da8830c1e806e2dae5ba2d10ca32a71f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

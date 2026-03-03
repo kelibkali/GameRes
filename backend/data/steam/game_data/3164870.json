@@ -1,0 +1,106 @@
+{
+  "3164870": {
+    "name": "DCS: MiG-29A Fulcrum",
+    "steam_appid": 3164870,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >The MiG-29A remains one of the most famous fighters in the world due to its outstanding performance characteristics, reliability, and simplicity of the weapons systems. It is capable of performing high-alpha manoeuvres that make it deadly in close air combat. In addition to the R-73 and HMS, the MiG-29A is also armed with medium-range radar-guided missiles, a 30mm cannon, and unguided bombs and rockets.</p><p class=\"bb_paragraph\" >The Mikoyan MiG-29A has been operated by 39 air forces since its introduction in the 1980s, and approximately 600 are still in service.</p><p class=\"bb_paragraph\" ><strong>Launch Key Features</strong>:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Fully interactive and highly detailed cockpit based on 3D laser scanning and photogrammetry.</p></li><li><p class=\"bb_paragraph\" >Highly detailed and accurately reproduced external model.</p></li><li><p class=\"bb_paragraph\" >Highly detailed pilot model with HMS.</p></li><li><p class=\"bb_paragraph\" >In-depth modelling of aircraft systems and equipment.</p></li><li><p class=\"bb_paragraph\" >Navigation System modes: POINT-TO-POINT mode for flying along a given route and flying to a programmed point; RETURN mode for performing a return to one of the three programmed airfields; LANDING mode for landing at both programmed and non-programmed airfields; and TRAFFIC RE-ENTRY mode for performing a re-approach to a programmed airfield in case of go around.</p></li><li><p class=\"bb_paragraph\" >Detailed model of the Gyro Systems with Fast and Long Alignment modes and onboard navigation equipment.</p></li><li><p class=\"bb_paragraph\" >The ability to program three airfields, three RSBN radio navigation beacons, and three navigation points during the mission creation phase and while flying the mission.</p></li><li><p class=\"bb_paragraph\" >Realistic modelling of the SPO-15LM “Beryoza” radar warning receiver and flare dispenser system.</p></li><li><p class=\"bb_paragraph\" >Fire Control Radar (FCR) with search and tracking modes for air targets that includes HEAD ON, PURSUIT, AUTOMAT, TWF and CLOSE COMBAT modes.</p></li><li><p class=\"bb_paragraph\" >Infrared Search and Track (IRST) and Laser Range Finder (LRF) with modes for air targets: INFRARED (IR), CLOSE COMBAT, HELMET, OPTICAL (OPT) and Boresight. LRF can be used to measure target range with automatic IRST tracking. LRF can also be used to measure slant range for ground attacks.</p></li><li><p class=\"bb_paragraph\" >Ground attack modes that include Pre-Designate OPT for use with moving targets and in windy conditions; Non-Pre designate OPT for use with stationary targets and in calm conditions; and TOSS when bombing is conducted with a 110-130 degree pitch angle.</p></li><li><p class=\"bb_paragraph\" >In order to expand the combat capabilities for a covert attack on an aerial target and counter electronic countermeasures, the interaction of the FCR and IRSTS/LRF has been modelled.</p></li><li><p class=\"bb_paragraph\" >The Kinematic Range Determination Method (KRDM) has been modelled for FCR and IRSTS/LRF. In the absence of target range data, this method provides precise range measurement.</p></li><li><p class=\"bb_paragraph\" >Basic Identify Friend or Foe (IFF) modelling.</p></li><li><p class=\"bb_paragraph\" >In development guide.</p></li><li><p class=\"bb_paragraph\" >Interactive Training missions.</p></li><li><p class=\"bb_paragraph\" >Full Russian cockpit and localisation of avionics, cockpit and technical inscriptions in English.</p></li></ul><p class=\"bb_paragraph\" ><strong>At Final Release:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Ground Control Intercept (GCI) command system.</p></li><li><p class=\"bb_paragraph\" >Full IFF modelling.</p></li><li><p class=\"bb_paragraph\" >Full Flight Manual.</p></li><li><p class=\"bb_paragraph\" >Campaign by Eagle Dynamics.</p></li><li><p class=\"bb_paragraph\" >Increased number of missions and liveries.</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 德语, 西班牙语 - 西班牙, 俄语<strong>*</strong>, 捷克语, 法语, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164870/22cb000a34a54c4634b34cb8461fc6779b4ca4ad/header.jpg?t=1758272510",
+    "developers": [
+      "Eagle Dynamics SA"
+    ],
+    "publishers": [
+      "Eagle Dynamics SA"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 43300,
+      "final": 43300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 433.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 9 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 52,
+        "description": "定位控制器支持"
+      },
+      {
+        "id": 13,
+        "description": "支持字幕"
+      },
+      {
+        "id": 31,
+        "description": "支持 VR"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 4,
+      "total_negative": 2,
+      "total_reviews": 6
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "3210840": {
+    "name": "Ninja Numpties",
+    "steam_appid": 3210840,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Ninja Numpties is a video board game where 2-4 players place traps on a mini Chess board island, but watch out – the traps disappear next turn! Earn ninja stars by pranking your frenemies... Whoever has the most stars by the end of the game wins!</p><h2 class=\"bb_tag\" >Three distinct kinds of traps!</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Push Tiles </strong>drag your foes around or even off the island! Daisy-chain them to form a conveyor belt!</p></li><li><p class=\"bb_paragraph\" ><strong>D4 Caltrops</strong> deal damage to your (opponent’s) dice roll!</p></li><li><p class=\"bb_paragraph\" ><strong>Rock-Paper-Scissors</strong> traps start the RPS minigame! The winner gets at least 1 star – raise the stakes by making a Push Tile path to the rock/paper/scissors...</p></li></ul><h2 class=\"bb_tag\" >Press P to pause, not Escape!</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Ninja Numpties is a Game Maker 8.0 game so the Escape key instantly closes it!</p></li><li><p class=\"bb_paragraph\" ><strong>Autosave </strong>to the rescue! Return to where you left off before you “paused” the game...</p></li><li><p class=\"bb_paragraph\" >Start button on gamepads will pause the game as usual.</p></li></ul><h2 class=\"bb_tag\" >Adjust match settings!</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Set number of rounds to adjust the length of the play session (game autosaves, so feel free to continue a long session later...)</p></li><li><p class=\"bb_paragraph\" >Individually adjust the <strong>first d6 roll </strong>and <strong>all subsequent d6 rolls...</strong> (random or fixed value)</p></li><li><p class=\"bb_paragraph\" >Set d4 caltrop damage (Random, fixed value, or even Push Tile conveyor combo!)</p></li><li><p class=\"bb_paragraph\" >Wrong settings? Pause the game (with <strong>P key</strong>) to revisit the Settings menu!</p></li></ul><h2 class=\"bb_tag\" >Supports a wide range of gamepads and even shows their buttons!</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >PlayStation DualShock 3/4 and DualSense</p></li><li><p class=\"bb_paragraph\" >Xbox 360, One and Series S | X</p></li><li><p class=\"bb_paragraph\" >Nintendo Switch Joy-Con (individually) and Pro controllers</p></li><li><p class=\"bb_paragraph\" >NES, SNES (Purple and Multicolour), Gamecube controller and Wii Nunchuck</p></li><li><p class=\"bb_paragraph\" >uDraw tablet (PlayStation 3 model)</p></li></ul><h2 class=\"bb_tag\" >Choc-a-bloc full of memes and puns!</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Licensed Vine boom and Kill Bill guitar riff (“rizz sound”)</p></li><li><p class=\"bb_paragraph\" >Silly puns such as earning stars (badum tuss!)</p></li><li><p class=\"bb_paragraph\" >Badly drawn memes!</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210840/header.jpg?t=1733778902",
+    "developers": [
+      "JJ H-E"
+    ],
+    "publishers": [
+      "JJ H-E"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

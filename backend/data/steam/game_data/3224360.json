@@ -1,0 +1,58 @@
+{
+  "3224360": {
+    "name": "RPG Developer Bakin SMILE Characters DX Vol.1",
+    "steam_appid": 3224360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "本包是基于SMILE GAME BUILDER的DLC《SMILE Characters Vol.1》开发的3D模型资源素材包。Last Smile老师为《RPG Developer Bakin》新增了混合形状（Blend Shapes）和动作（Motion）。与原版相比，角色表现力显著提升，能够为剧情演出和战斗场景增添更多色彩与魅力。<br />\r\n<br />\r\n［SMILE Characters DX Vol.1］内容<br />\r\n<br />\r\n3D模型详细信息<br />\r\n英雄角色：3名<br />\r\n女主角：3名<br />\r\n表情动画：7种表情（通过混合形状实现）<br />\r\n动作：61种（包括移动、战斗、待机姿势等）<br />\r\n<br />\r\n2D素材详细信息<br />\r\n全身立绘：6种，表情差异4种<br />\r\n<br />\r\n关于动作数据的组合<br />\r\n<br />\r\n资源“动作”中的 &quot;smilecharacter_talkevent_motion&quot; 动作数据，如果复制到其它动作集并使用，可能会在某些情况下无法正常运行。因此，我们建议单独使用此动作集。感谢您的理解与配合。",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224360/header.jpg?t=1732670923",
+    "developers": [
+      "LastSmile"
+    ],
+    "publishers": [
+      "SmileBoom Co.Ltd."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 7600,
+      "final": 7600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 76.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

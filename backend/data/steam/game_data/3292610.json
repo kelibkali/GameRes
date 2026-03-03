@@ -1,0 +1,98 @@
+{
+  "3292610": {
+    "name": "横行纵队",
+    "steam_appid": 3292610,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >简介</h2><p class=\"bb_paragraph\" >《横行纵队》是一款类推箱子解谜游戏，游戏中你将需要指挥数量众多的螃蟹，帮助它们抵达栖身之处。螃蟹们只会沿一个方向（横向或纵向）移动，而且所有螃蟹会同时接收你的指令。</p><p class=\"bb_paragraph\" >当方向不同的螃蟹相遇时，后来的螃蟹可以踩在其他螃蟹的身上，进而被下方的螃蟹带动着移动。另外，双层螃蟹可以在某些特定条件下推动前方的单层螃蟹。如何合理规划栖身处的分配，在避免横纵螃蟹拥挤践踏的同时相互配合达成目标，这是《横行纵队》谜题机制的核心。</p><p class=\"bb_paragraph\" >游戏提供6个章节共计60个手工设计的关卡供游玩，每个章节对应于一种独特的解谜技巧。</p><h2 class=\"bb_tag\" >操作方式</h2><p class=\"bb_paragraph\" ><strong>一 菜单 一</strong></p><p class=\"bb_paragraph\" > <strong>[ WASD/方向键 ]</strong> 移动 </p><p class=\"bb_paragraph\" ><strong>[ SPACE ]</strong> 触发交互</p><p class=\"bb_paragraph\" ><strong>一 关卡内 一 </strong></p><p class=\"bb_paragraph\" ><strong>[ WASD/方向键 ]</strong> 移动（按网格） </p><p class=\"bb_paragraph\" ><strong>[ ESC ]</strong> 退出关卡 </p><p class=\"bb_paragraph\" ><strong>[ R ]</strong> 重试关卡 </p><p class=\"bb_paragraph\" ><strong>[ Z ]</strong> 撤销移动</p><p class=\"bb_paragraph\" ><strong>[ X ]</strong> 重做移动</p><h2 class=\"bb_tag\" >交流</h2><p class=\"bb_paragraph\" >游戏交流QQ群 @ 横行纵队～螃蟹们的小家：825324074</p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292610/header_schinese.jpg?t=1744691303",
+    "developers": [
+      "Cross Command"
+    ],
+    "publishers": [
+      "Cross Command"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 4 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "出门第一步",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/2472e9ed9101507a193357839771edbce6b2cdb5.jpg"
+        },
+        {
+          "name": "合作的艺术",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/65e54deaca1ee41e6ef705f44512f724efd897a0.jpg"
+        },
+        {
+          "name": "有秩序的追求",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/6a5f2beb8fb08b0bd033283a76cc90205e0504c5.jpg"
+        },
+        {
+          "name": "把挡道的家伙都推走",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/f4b9a73a728dc4a35b12c63768ab027e7616fa2d.jpg"
+        },
+        {
+          "name": "躺平的智慧",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/0a0dfd0a01249c2a1b3bc86cd5f79e0b772eca42.jpg"
+        },
+        {
+          "name": "善举与分离的终点",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292610/88596cde0d3f4b56829566a0a06308da8a0cb98c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

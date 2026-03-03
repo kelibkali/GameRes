@@ -1,0 +1,67 @@
+{
+  "3041320": {
+    "name": "Project Soulflow Demo",
+    "steam_appid": 3041320,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >This is a survival horror game where you have to find different mechanical pieces to open different doors, opening access to more pieces, and so on. You have to unlock the end door (it needs a hammer for every main level) whilst being chased by a monster that hunts you down. You can put down traps to stun the monster for 15 seconds, but be careful, as you only have a limited amount. You can go into soul mode to lure the monster away, scout out your surroundings or to use switches that are only accessible in soul mode.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >try and escape in the shortest time possible (there is an in-game timer that saves your fastest times)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >you might want to bump into certain walls</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >watch your back, you never know what snuck up on you when you weren't looking...</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041320/header.jpg?t=1737660608",
+    "developers": [
+      "YourAverageOtter"
+    ],
+    "publishers": [
+      "YourAverageOtter"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

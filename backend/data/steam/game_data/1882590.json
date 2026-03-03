@@ -1,0 +1,47 @@
+{
+  "1882590": {
+    "name": "Ella - a study in realism",
+    "steam_appid": 1882590,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Ella, a study in realism made in Godot Engine. Basically a technology showcase for Godot, you can watch it for a few minutes and look at the graphics and performance on your computer. A frames per second monitor is included (press Escape to open the menu) and you can also tweak the many graphics options. It includes 4 presets (Ultra, Quality, Performance, and Low Spec) and also allows you to change individual settings (for example, full screen mode or changing the render scaling, as well as visual settings like reflection and ambient occlusion).<br />\r\n<br />\r\nThe experience features a cinematic camera that runs and loops by itself, so can be watched as a real time music video, a 3D graphics benchmark, or control the camera and fly around the environment. You can press the Space Bar to enable the camera control. The free camera control is like a spectator camera in games (with collision detection) and allows you to fly around freely and explore the environment and the graphics.<br />\r\n<br />\r\nUses global illumination in Godot to achieve realistic lighting and shadow, all in real time (no baked lightmaps). The character model and some assets were made with photogrammetry for the highest possible quality. Press Escape to view the options. Space to toggle cinematic camera (be sure to close the menu before flying around). WASD or Arrow keys move around. Mouse to look.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882590/header.jpg?t=1644418859",
+    "developers": [
+      "cybereality"
+    ],
+    "publishers": [
+      "cybereality"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

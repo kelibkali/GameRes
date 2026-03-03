@@ -1,0 +1,74 @@
+{
+  "3237300": {
+    "name": "NINDO",
+    "steam_appid": 3237300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >NINDO是什么：</h2><p class=\"bb_paragraph\" >NINDO是一款高速忍者游戏，挑战玩家在速度和准确性上竞争。忍者快速吟唱适当的忍术，以克服各种困难。日常训练对于在战场上的生存至关重要。让我们一起努力，争取成为顶尖忍者！</p><h2 class=\"bb_tag\" >游戏概述：</h2><p class=\"bb_paragraph\" >玩家快速输入六种印记：风、林、火、山、阴、雷，以激活忍术，并在时间限制内争取最高分。通过印记组合激活的忍术种类繁多，每成功激活一次忍术将获得积分，并触发该忍术特有的辅助效果。</p><h2 class=\"bb_tag\" >游戏流程：</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>决定忍术：</strong> 需要执行的忍术将通过抽奖随机选择。选择表根据当前等级变化，游戏开始时会选择初级忍术。随着游戏的进行和等级的提升，将选择更高级的忍术。</p></li><li><p class=\"bb_paragraph\" ><strong>输入印记：</strong> 每个忍术都有预先定义的吟唱所需印记。玩家必须按顺序输入这些印记，当成功输入最后一个印记时，忍术将成功激活。</p></li><li><p class=\"bb_paragraph\" ><strong>吟唱忍术：</strong> 当忍术成功激活时，玩家将获得积分。此时，每个忍术预定的额外效果将会激活。这些额外效果持续一定时间，可以提高积分或延长游戏时间。</p></li><li><p class=\"bb_paragraph\" ><strong>游戏结束：</strong> 重复步骤1到3，当时间限制达到零时，游戏结束。</p></li></ul><h2 class=\"bb_tag\" >如何提高分数：</h2><p class=\"bb_paragraph\" >玩家可以通过记住每个忍术所需的印记来提高分数，从而实现更快的输入。</p><h2 class=\"bb_tag\" ><strong>NINDO的初衷：</strong></h2><p class=\"bb_paragraph\" >这款游戏是送给所有憧憬忍者的少年少女们的忍者体验游戏。我希望通过在游戏中结印，玩家们也能在现实世界中练习风、林、火、山、阴、雷的印记，以提高专注力，培养“忍者的心”。这将让我感到非常高兴。</p>",
+    "supported_languages": "英语, 简体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3237300/header_schinese.jpg?t=1735433888",
+    "developers": [
+      "MORIKICHIDO"
+    ],
+    "publishers": [
+      "MORIKICHIDO"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "忍者/初学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3237300/a5c6ad66a1064f5245f74a9da864ff26f324d89b.jpg"
+        },
+        {
+          "name": "忍者/中级",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3237300/4b4cd2f344941dce57a08aa138589b1d974e9596.jpg"
+        },
+        {
+          "name": "忍者/高级",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3237300/1f88f9576ce02964dfb8f50d8c5335e1f14020c6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

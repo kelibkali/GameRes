@@ -1,0 +1,54 @@
+{
+  "3096430": {
+    "name": "Streamer VS Zombie",
+    "steam_appid": 3096430,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>Scatter the zombies summoned by your viewers! </strong></h2><p class=\"bb_paragraph\" >🔵 Zombies emerge in response to comments on YouTube or Twitch! 🧟🧟‍♀️🧟‍♂️ <br>🔴 Collect bullets and healing items to defeat zombies through supportive comments and super chats! ❤️‍🩹 <br>🔵 VRM model compatible! Dive into the game world as your own 3D avatar if you have a model! ✨</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>5 Exciting Game Modes to Explore!</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🔵 <strong>Survival Mode</strong><br>The most basic mode: survive within the time limit, defeat hordes of zombies, and aim for a high score! Be cautious—if you're taken down, your score resets to 0. Strategize whether to fight or flee!</p><p class=\"bb_paragraph\" >🔴 <strong>Tower Defense Mode</strong><br>Defend the monument from being destroyed during the time limit. You can respawn infinitely, making this mode perfect even for those new to TPS games!</p><p class=\"bb_paragraph\" >🔵 <strong>Treasure Hunt Mode</strong><br>A unique mode where bringing treasure back to your base earns you massive points. With 3 lives and a 30-minute time limit, completing all objectives grants an impressive 400,000-point bonus under special rules!</p><p class=\"bb_paragraph\" >🔴 <strong>Endless Mode</strong><br>A timeless version of Survival Mode. Even if you're defeated, your score is recorded. This mode is the ultimate endgame content for hardcore Streamer VS Zombie fans!</p><p class=\"bb_paragraph\" >🔵 <strong>Offline Mode</strong><br>Play without <i>OneComme</i> integration. Perfect for personal practice or for your viewers to enjoy the game on their own!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How to Link and Verify &quot;OneComme&quot; Integration</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Follow the &quot;Installation Guide&quot;</strong><br>Complete the following steps in the &quot;Introduction Guide&quot; of OneComme:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Install OneComme.</p></li><li><p class=\"bb_paragraph\" >Perform the initial setup.</p></li><li><p class=\"bb_paragraph\" >Enable comment retrieval.<br>These steps will automatically link your game with OneComme.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Verify Integration</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Launch OneComme and click the &quot;…&quot; menu in the top-right corner. Select <strong>Comment Tester</strong>.</p></li><li><p class=\"bb_paragraph\" >Post a comment using the configured <strong>Zombie Word</strong> (default: @Z).</p></li><li><p class=\"bb_paragraph\" >Check if the <strong>zombie gauge</strong> on the top-left corner of your game screen rises.<br>If the gauge increases, the integration is successfully verified.</p></li></ul></li></ul><h2 class=\"bb_tag\" >Additional Information</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >VRM 1.0 is not supported.</p></li><li><p class=\"bb_paragraph\" >Due to potential updates in OneComme's specifications, some features may become non-functional.</p></li><li><p class=\"bb_paragraph\" >Streaming of this game is fully permitted as long as it does not violate public order or morality.</p></li></ul>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096430/header.jpg?t=1734076837",
+    "developers": [
+      "ArachniGAMES"
+    ],
+    "publishers": [
+      "ArachniGAMES"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4800,
+      "final": 4800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 48.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

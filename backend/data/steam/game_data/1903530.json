@@ -1,0 +1,78 @@
+{
+  "1903530": {
+    "name": "Heart attack",
+    "steam_appid": 1903530,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong> Heart Attack </strong> is a survival game in a night house in the genre of first-person horror. The ghost is waiting for you to enter the darkness to scare you and from fright your heart breaks, you die. Save yourself by collecting items to move further into the basement of the house to turn on the switchboard and drive the ghost out of the house.<br><br><strong>The main character</strong><br>Mitya is a pretty sick guy, lives in a dysfunctional family, constantly being at home begins to lead to mild schizophrenia, he begins to see ghosts.<br><br><strong>Enemies</strong><br>The main enemy of our hero is the ghost of his mother, who tirelessly wanders around the house, creating obstacles, scaring him. If Mitya cannot provide himself with lighting, the ghost can attack him. Sometimes a ghost flies by in the dark to identify itself.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903530/header.jpg?t=1673979777",
+    "developers": [
+      "LilMemes Production"
+    ],
+    "publishers": [
+      "LilMemes Production"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 1 月 17 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "FINISHED THE GAME!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1903530/f2edc3b12ee0655cc0ea728bc1bb126c73252610.jpg"
+        },
+        {
+          "name": "Let the horror start!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1903530/8e342bf57afb28b3534443cc7f18e09f6bb0b420.jpg"
+        },
+        {
+          "name": "Secret Room",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1903530/bde5f62fb601f361fd4c3c49f86d925ebd476dc1.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "7 user reviews",
+      "total_positive": 3,
+      "total_negative": 4,
+      "total_reviews": 7
+    },
+    "type": "game"
+  }
+}

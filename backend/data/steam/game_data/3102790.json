@@ -1,0 +1,90 @@
+{
+  "3102790": {
+    "name": "The Test Game",
+    "steam_appid": 3102790,
+    "required_age": 0,
+    "is_free": false,
+    "description": "My <strong>first game</strong> ever created!<br><br>You and your wife had a little accident while fishing... You got stuck on an abandoned island. To escape, you have to collect points, food, and resources. You'll have to fight to survive. The clock is ticking. How fast can you escape the island? Explore the colorful underwater world to find time points and finish your task of escaping even faster. Talk to your wife if you don't know how to proceed. Unlock some in game achievements by beating a time score. <br><br>You can expect some challenging platformer elements, where you have to show your jumping skills. The gameplay also combines some exploration elements and inventory management. There are various items for you to collect. Tools will be used to harvest resources. The story is mainly told by two in game cutscenes, but you will also have to speak with an NPC (your wife) to get additional information. The first <strong>play through takes about 10 minutes</strong>. After you completed the game at least once, you can try to get faster and faster with each new attempt. The total play duration may go up to one hour, to complete all in game achievements.<br><br><strong>Try to beat the dev high score of 55!</strong><br><br><i>Thank you for reading about my first-ever attempt at creating and publishing a video game. The Test Game was about half a year in development. Video games make incredible worlds for us to dive in. One day, I want to create such a world as well. This little test game was just the beginning. I hope you'll have as much fun playing this short mini-game as much as I had while developing it. </i><br><br>Your friendly beginner<br>nona-me",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102790/header.jpg?t=1723318866",
+    "developers": [
+      "nona-me"
+    ],
+    "publishers": [
+      "nona-me"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Beat The Score Of 55",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3102790/e826f860381f30dc126c7c7dbff996cff913cae4.jpg"
+        },
+        {
+          "name": "Easy, Done!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3102790/42655dc169b559f2453c9a1b0f7c77e845045fd5.jpg"
+        },
+        {
+          "name": "He's Just Sleeping...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3102790/cdadc4c1f95b7d536c8de806b8f43299d4d04cae.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

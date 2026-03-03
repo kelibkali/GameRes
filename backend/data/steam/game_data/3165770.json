@@ -1,0 +1,64 @@
+{
+  "3165770": {
+    "name": "Cracking the Cryptic - Fog of War #1",
+    "steam_appid": 3165770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >During the years Cracking the Cryptic has been presenting variant sudoku, there have been quite a number of innovations in sudoku – but the one that stands out the most is the recent creation of fog-of-war sudoku – where some (or even all) of the grid is covered in a fog to begin with – and placing correct digits then clears some of the fog, allowing further clues to emerge.</p><p class=\"bb_paragraph\" >It is obvious why this development could not occur when sudoku was largely on paper, but technology and apps have changed all that. We are delighted to bring you our very own Fog-of-War pack now, featuring puzzles by some of the keenest minds and cleverest constructors there are. The sheer variety of uses of fog in this pack will amaze you.</p><p class=\"bb_paragraph\" >One fascinating feature of fog-of-war sudoku is that the start of the solution path is often very linear – only one useful deduction is possible to clear the first few fog cells, and then gradually the rest of the path is revealed – like real fog!</p><p class=\"bb_paragraph\" >The basic principle is that placing a correct digit in a cell clears the fog from the immediately surrounding cells. Sometimes given digits will be revealed – you cannot overwrite these.</p><p class=\"bb_paragraph\" >Hints: As usual, we have provided hints if you get stuck – use the question-mark – and find the intended path. Often these hints have been written by the constructors themselves in this app. Enjoy Cracking the Cryptic’s Fog-of-War pack!</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165770/header.jpg?t=1731110216",
+    "developers": [
+      "Studio Goya"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

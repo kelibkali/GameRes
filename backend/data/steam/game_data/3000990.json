@@ -1,0 +1,87 @@
+{
+  "3000990": {
+    "name": "Scrabbleman",
+    "steam_appid": 3000990,
+    "required_age": 0,
+    "is_free": true,
+    "description": "A word puzzle game that combines elements of Hangman and Scrabble. The objective is to solve a series of word-guessing puzzles while strategically choosing uncommon letters. Players are awarded points based on their speed and ability to select low-value letters.<br />\r\n<br />\r\nFeatures:<br />\r\n- Replayable word-based puzzles<br />\r\n- Multiple unlockable backgrounds<br />\r\n- Custom word creation<br />\r\n- Leaderboard to top scores and times (for local machine)",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3000990/header.jpg?t=1717872713",
+    "developers": [
+      "Ultra Hammer Games"
+    ],
+    "publishers": [
+      "Ultra Hammer Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "First Time Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/08b5056e39bda8c945a0aa43c6411cad7e53d34f.jpg"
+        },
+        {
+          "name": "Veteran Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/f4245f96f412b9efa3b014dd25df860f5efe6576.jpg"
+        },
+        {
+          "name": "Got some time to kill",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/e69c1f490383f1238eb4a126bd96e9d52a3219cc.jpg"
+        },
+        {
+          "name": "Patient Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/4fdd80a31624dbbbf3787f370143cca32cc0714f.jpg"
+        },
+        {
+          "name": "Wordsmith",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/7f0092f2acb32b4178110986528b1c8987c27891.jpg"
+        },
+        {
+          "name": "Score Killer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/7343619666176ca6d84be7190c22a6ffcc0f4fb5.jpg"
+        },
+        {
+          "name": "Score Destroyer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/7dd45963d78e230c7785826b583f093d3f216424.jpg"
+        },
+        {
+          "name": "Sharpshooter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000990/20b43249505afa5fa20852ad1396617f6d1b94a6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

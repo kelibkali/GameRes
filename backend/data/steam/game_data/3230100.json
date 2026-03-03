@@ -1,0 +1,84 @@
+{
+  "3230100": {
+    "name": "SOVL - Darkborn Elves",
+    "steam_appid": 3230100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This is a Faction Pack for SOVL - Fantasy Warfare. It adds a new faction to the game.  </p><h2 class=\"bb_tag\" ><strong>Darkborn Elves</strong><br>Deep beneath the surface lies a ruthless faction of exiled elves, driven by a desire for power and vengeance against the surface dwellers who shunned them centuries ago.</h2><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230100/extras/5a5a4023fe7f2145600d968953ecbe5d.avif?t=1741253837\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230100/extras_big/5a5a4023fe7f2145600d968953ecbe5d.avif?t=1741253837 width=800 height=800 /></span>  </h2><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230100/header.jpg?t=1741253837",
+    "developers": [
+      "Dalen Studios"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "3113160": {
+    "name": "Bonfire",
+    "steam_appid": 3113160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Welcome to Bonfire!  <br>Bonfire is the ultimate platform for rapidly creating cross-platform interactive experiences.<br>Designed specifically with storytellers and content creators in mind, Bonfire significantly reduces the time it takes to turn your ideas into reality.<br>In Bonfire, an experience is known as a Book, which consists of bite-sized “levels” or “scenes” called Chapters. Chapters consist of background geometry known as Maps, with interactive elements known as Sparks. Sparks are the foundational building block of Bonfire and can be anything from a button on a panel to a tree, a Non-Player Character, a sword, a chair… you name it. If it's something you should be able to interact with, it's a Spark.<br>Books, Chapters, Maps, and Sparks all live as separate files on your computer, allowing for immense reusability and quick customization.<h2 class=\"bb_tag\" >Spark’ify Your Creations</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/ac1a7138a1c67749e447c84eb76744ea.poster.avif?t=1758638232\" width=600 height=347 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/ac1a7138a1c67749e447c84eb76744ea.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"></video></span><br>Bonfire comes packed with assets to start your journey, but we don’t expect things to end there. You can quickly import your creations using the built-in Spark Utility or the supplemental Sparkifier app. Pair custom artwork with one of our many Spark Templates to bring them to life with animations, logic, and more.<br><br>Don’t see a template that fits what you’re after?<br>Custom Spark Templates can be made using the Sparkifier App and our Ember scripting language.<h2 class=\"bb_tag\" >Let Players Choose</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/36237180c8a0deb189210556d3bec5b0.poster.avif?t=1758638232\" width=600 height=347 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/36237180c8a0deb189210556d3bec5b0.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"></video></span><br>Bonfire's intuitive Chapter Tree enables you to craft intricate branching narratives effortlessly in a &quot;choose-your-adventure&quot; style experience.<br>Go as linear or non-linear as desired, with complete control over what triggers a player to jump from one chapter to the next.<h2 class=\"bb_tag\" >Easily Customize</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/2c60663a1fb53c2c2bf4e63e36f28cd3.poster.avif?t=1758638232\" width=600 height=347 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/2c60663a1fb53c2c2bf4e63e36f28cd3.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"></video></span><br>Traits allow you to modify the exposed properties of a Spark with ease.<br>When you make your Sparks, you, as the Spark Author, control what Traits are shown and what they do.<br>From paint color to run speed and almost anything else you can think of, you can make a Trait for that, allowing Book authors to customize it per Spark Instance.<h2 class=\"bb_tag\" >No Coding Required</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/89b2e5588254a5dbb3d209d93a5c8297.poster.avif?t=1758638232\" width=600 height=347 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/89b2e5588254a5dbb3d209d93a5c8297.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"></video></span><br>Behaviors are broken into two simple categories: Causes and Effects.<br>Causes are things that Players can do to Sparks (like attack or interact), while Effects are things that Sparks can do in reaction to a Cause.<br>Create complex interactives by stringing Causes and Effects together in endless combinations.<br><strong>NOTE:</strong> There are also Modifiers: Bonfire-native nodes that allow for changing Chapters, executing Ember scripts, debug tools, and more.<h2 class=\"bb_tag\" >Built-In Scripting</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/83e762d9f4758dfac7fd912d3cdca82d.poster.avif?t=1758638232\" width=600 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/83e762d9f4758dfac7fd912d3cdca82d.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/83e762d9f4758dfac7fd912d3cdca82d.mp4?t=1758638232\" type=\"video/mp4\"></video></span><br>Ember is our runtime scripting language that allows veteran and new coders alike to write code and keep it bound to nodes in the Behavior tree.<br>This lets you have the flexibility of coding without having to compile and without having to ensure everyone else on your team knows how to code as well.<br>Today, it has a rather limited set of features, but we will be expanding its capabilities with each update.<h2 class=\"bb_tag\" >One-Click Share</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/1200b2acac7d3986a16b3ec95d5c683a.poster.avif?t=1758638232\" width=600 height=347 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/extras/1200b2acac7d3986a16b3ec95d5c683a.webm?t=1758638232\" type=\"video/webm; codecs=vp9\"></video></span><br>Whether you want to play-test your creations or share them with your friends, Bonfire allows you to quickly distribute your content to players across a wide range of devices (currently, only desktop and PC VR, but mobile and standalone VR support will be released soon).<br>Within the Share menu, choose Debug for testing without sharing or Release to share with the world.<br>By default, all shared books are publically accessible to all. In later releases, higher license tiers will roll out, allowing you to privatize your creations, monetize them, and more.<h2 class=\"bb_tag\" >Sparks</h2>Sparks are the heart of Bonfire. These versatile elements combine visuals and modifiable behaviors, serving as characters, triggers, scorekeepers, and state machines to monitor actions and consequences. As the fundamental building blocks of your interactive experiences, Sparks makes the creation process simple and efficient.<br><br>Dive into Bonfire and start bringing your stories to life with unparalleled ease and creativity.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113160/header.jpg?t=1758638232",
+    "developers": [
+      "Dimension X, Inc."
+    ],
+    "publishers": [
+      "Dimension X, Inc."
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

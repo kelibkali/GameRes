@@ -1,0 +1,86 @@
+{
+  "3251950": {
+    "name": "CrapShoot",
+    "steam_appid": 3251950,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >CrapShoot 是一款侧滚动子弹射击游戏。</p><p class=\"bb_paragraph\" >这是一款简单的射击游戏，共有 3 个阶段，控制简单，只有慢速和炸弹两种操作。子弹可以通过获取能量道具来增强威力，但如果被击中，就会失去能量，当能量耗尽时游戏就结束了。通过一次又一次的通关来获得最高分！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >女巫女孩跨坐在扫帚上，向一家便利店走去，但狗粪和凶恶的野生动物挡住了她的去路！</p><p class=\"bb_paragraph\" >这款在日本功能手机上大受欢迎的游戏现在推出了一个全新的、略微增强的版本。除了完美的像素画面外，怀旧的光栅滚动也让游戏充满复古气息。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251950/extras/564c1f7cc49ea0f7f9574d3c797b14f4.poster.avif?t=1728561609\" width=480 height=400 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251950/extras/564c1f7cc49ea0f7f9574d3c797b14f4.webm?t=1728561609\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251950/extras/564c1f7cc49ea0f7f9574d3c797b14f4.mp4?t=1728561609\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >如何玩</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >慢速和选择 ：</p><p class=\"bb_paragraph\" >A 键、Z 键、回车键、空格键</p></li><li><p class=\"bb_paragraph\" >快速和取消 ：</p><p class=\"bb_paragraph\" >B键、Esc键、X键、B键、退格键</p></li><li><p class=\"bb_paragraph\" >暂停</p><p class=\"bb_paragraph\" >开始键、P 键</p></li><li><p class=\"bb_paragraph\" >切换全屏 ：</p><p class=\"bb_paragraph\" >F11 键</p></li><li><p class=\"bb_paragraph\" >取消全屏 ：</p><p class=\"bb_paragraph\" >Esc 键</p></li><li><p class=\"bb_paragraph\" >重置 ：</p><p class=\"bb_paragraph\" >暂停时长按选择键</p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 波兰语, 俄语, 简体中文, 繁体中文, 日语, 韩语, 意大利语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3251950/header.jpg?t=1728561609",
+    "developers": [
+      "nazenaninadesico"
+    ],
+    "publishers": [
+      "nazenaninadesico"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Game Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251950/98456c18277474c0c8dac547bf63f332fef9f45c.jpg"
+        },
+        {
+          "name": "Practice Mode Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251950/98456c18277474c0c8dac547bf63f332fef9f45c.jpg"
+        },
+        {
+          "name": " Full Fledged Player",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251950/98456c18277474c0c8dac547bf63f332fef9f45c.jpg"
+        },
+        {
+          "name": "Game Clear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3251950/98456c18277474c0c8dac547bf63f332fef9f45c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

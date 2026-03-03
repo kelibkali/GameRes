@@ -1,0 +1,106 @@
+{
+  "3030860": {
+    "name": "扫雷99",
+    "steam_appid": 3030860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在 <strong>扫雷 99</strong> 中取得高分 - 经典扫雷游戏的创新改造！这是经典扫雷游戏的极具吸引力的衍生产品，具有新的难度、新的模式和全球排行榜，以最快时间和最高分进行排名。<br><br><strong>比原版扫雷游戏更好玩</strong><br>- 易于玩！这款游戏有趣且易于玩，每个人都可以享受。精美的🎨艺术和可爱的🔉声音。<br>- 4个新难度支持数量不等的盾牌🛡️，在误点地雷💣时候可以保命！但是经典难度下不提供盾牌，保持原始扫雷游戏的硬核。<br>- 游戏快速、有趣、令人上瘾。取得高分和最快速度时候炫耀，展示您是多么出色的扫雷玩家！<br>- 游戏具有基本的扫雷统计指标，例如 3BV/s 和 IOE（效率指数）<br>- 提供在线排行榜，可以查找所有难度下的最佳时间和最高分数（需打开浏览器访问，参见统计网址）<br><br><strong>3个经典难度</strong><br>- 经典初学者 (雷区尺寸8x8)，3BV&gt;=3，有 10 颗地雷<br>- 经典中级 (16x16)，3BV&gt;=30，有 40 颗地雷<br>- 经典专家 (30x16)，3BV&gt;=100，有 99 颗地雷<br><br><strong>4个新难度</strong><br>- 新初学者 (雷区尺寸11x9)，3BV&gt;=5，有 15 颗地雷。3 个盾牌<br>- 新中级 (12x10)，3BV&gt;=10，有 20 颗地雷。2 个盾牌<br>- 新专家 (13x11)，3BV&gt;=16，有 26 颗地雷。 1 个盾牌<br>- 新恶梦难度（15x12），3BV&gt;=25，40 个地雷。1 个盾牌。别看我雷区小，我可不容易！<br><br>========================<br>世界著名的扫雷玩家 JZE 早在2021年就玩过《扫雷99》游戏的早期版本，他亲自在所有四个新难度中创下的最快时间记录至今未被超越：<br>- 新初学者 2.34051 秒<br>- 新中级 4.91501 秒 (NF)<br>- 新专家 7.84061 秒<br>- 新恶梦难度 15.3466 秒<br>========================<br><br><strong>使用鼠标/键盘控制</strong><br>- 鼠标左键 - 清除一个方块，希望它不是地雷！如果这方块下没有埋雷，则会显示出一个数字（1-8），这个数字代表此方块周围3-8个方块中藏有雷💣的数量。如果这方块下面有埋雷，而你还有未使用的盾牌🛡️道具则你幸运的可以继续游戏！<br>- 鼠标右键 - 将一个方块插旗，将其标记（flag）为埋有地雷，希望你是对的！<br>- 隐藏操作，在已经点开的数字上点鼠标左键或鼠标右键，称作Chord，祝你幸运！<br>- 快捷键：R键 - 可以重置（reset）当前游戏局面<br><br>感谢您玩我的游戏。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 简体中文, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030860/header_schinese.jpg?t=1723467152",
+    "developers": [
+      "Babafish"
+    ],
+    "publishers": [
+      "Babafish"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Beginner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/362c66b3df5dcd1c5fb07d10fd1677398274115e.jpg"
+        },
+        {
+          "name": "Intermediate",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/dbb034f0fb50ae21afa01b5bb4bb5139581c5798.jpg"
+        },
+        {
+          "name": "Expert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/8199cbbe1b0024745b82511e6f53c284d45d57ca.jpg"
+        },
+        {
+          "name": "Nightmare",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/30136cb2a182c65422bfa3c4d5f60494e6101916.jpg"
+        },
+        {
+          "name": "Under 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/ba0aeb43906feed6e1fa4e0b1a961f70f8c37ea2.jpg"
+        },
+        {
+          "name": "Under 50",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/b8588722da27e6d2c0f66431fd9b41e5a3c335fe.jpg"
+        },
+        {
+          "name": "Under 70",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/80e24b350b783b4507a56c79fe85a948fdf8b69a.jpg"
+        },
+        {
+          "name": "40K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/86d25013554203694d9a0fff4a8770bcdabe1af0.jpg"
+        },
+        {
+          "name": "100K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/12e761568da1908d554bc1513f7ce5a62d3096eb.jpg"
+        },
+        {
+          "name": "200K",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3030860/9760470f293984ad14fed268ce1a7ca8905cb198.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 5,
+      "total_negative": 0,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}

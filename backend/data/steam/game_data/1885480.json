@@ -1,0 +1,117 @@
+{
+  "1885480": {
+    "name": "Fung Guys",
+    "steam_appid": 1885480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Fung Guys is an online-multiplayer, team-based, party game, heavily focused on exciting PvP minigames.<br>Enter an enchanted, stylized world in which you must win minigames to achieve the toad wizard’s approval.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1885480/extras/6f8a4103bf47b41810b763e1f702d153.poster.avif?t=1654361325\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1885480/extras/6f8a4103bf47b41810b763e1f702d153.webm?t=1654361325\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1885480/extras/6f8a4103bf47b41810b763e1f702d153.mp4?t=1654361325\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1885480/extras/c7f70ba4b7e09a61dcc19b1a914aed08.avif?t=1654361325\" width=489 height=158 /></span><br><br><ul class=\"bb_ul\"><li>Iconic Minigames - Play through exciting minigames: Capture the Flag, Spleef, King of the Hill, and Falling Platform.</li></ul><br><ul class=\"bb_ul\"><li>PvP - Dash and bash your enemies and friends to victory.</li></ul><br><ul class=\"bb_ul\"><li>Online Multiplayer - Host public/private lobbies, or join public servers.</li></ul><br><ul class=\"bb_ul\"><li>Whimsical Setting - Play through beautiful enchanted forest levels.</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1885480/header.jpg?t=1654361325",
+    "developers": [
+      "Void ink",
+      "Ryke",
+      "Oscar",
+      "BotBite"
+    ],
+    "publishers": [
+      "Void ink"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 6 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/7e516a72a5ca961dccbd87582d63e0fd1d9bcd8d.jpg"
+        },
+        {
+          "name": "Big Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/8280eec1d906c70c2de555093dd4e6bbd2956e9e.jpg"
+        },
+        {
+          "name": "Huge Winner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/26444fdc0f0c179a9a777e8e76211ac225e3cafc.jpg"
+        },
+        {
+          "name": "Good Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/f4b7f5fdd07b402ff4b258c90e638814a035d62b.jpg"
+        },
+        {
+          "name": "Match Maker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/63fdb98c75f35fbe1d43b4dafab4cc3919b6aafb.jpg"
+        },
+        {
+          "name": "Match Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/872cb97c89919737f21af8b6a368f914cdd59842.jpg"
+        },
+        {
+          "name": "CTF Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/3a013b2a9896519e3b70f973df9a4a8f27eb5ac9.jpg"
+        },
+        {
+          "name": "KotH Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/a3b25f224036a0b153e597f3d4913bd3f98af3bc.jpg"
+        },
+        {
+          "name": "Falling Platform Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/bf7a00904a392e46db578357f829d7135d953e21.jpg"
+        },
+        {
+          "name": "Spleef Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1885480/c9af157a02e494bf77bfb4b20009937d8c889213.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

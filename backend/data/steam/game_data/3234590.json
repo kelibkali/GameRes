@@ -1,0 +1,45 @@
+{
+  "3234590": {
+    "name": "Scroll Wheel Adjuster",
+    "steam_appid": 3234590,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>This application allows you to adjust the mouse wheel speed on Linux systems.</strong> </p><p class=\"bb_paragraph\" >It will install the dependencies and make the necessary adjustments so the user can use it in a simplified way. The speed adjustments should persist even after restarting the system. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Attention:</strong></p><p class=\"bb_paragraph\" >It has been tested and works well on: Ubuntu 20.04.6 LTS, Linux Mint 22, Linux Mint 21.3.</p><p class=\"bb_paragraph\" >Partially works on: Ubuntu 22.04.5 LTS (not on Firefox), Ubuntu 24.04 LTS (not on Firefox).</p><p class=\"bb_paragraph\" >It does not work on: Ubuntu 23.10, Debian 9 and earlier versions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Recommendation:</strong></p><p class=\"bb_paragraph\" >Run the software directly from the installation folder.</p><p class=\"bb_paragraph\" >See more information at <strong>Community</strong> -&gt; <strong>Discussions</strong> -&gt; <strong>Run the application directly from the folder</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Developer's note:</strong></p><p class=\"bb_paragraph\" >This application uses IMWheel, a tool freely available for Linux. You can install IMWheel on your own and use it at no cost. However, this application will simplify and automate the entire process.</p><p class=\"bb_paragraph\" >IMWheel does not work with Wayland-based applications. For example, the pre-installed Firefox on Ubuntu 24.04 LTS uses Wayland, so it won't work, but it may work with other X11-based applications such as Chromium.</p><p class=\"bb_paragraph\" >If you encounter any issues with the IMWheel installation, you can remove it via terminal using the following commands:</p><p class=\"bb_paragraph\" >sudo killall imwheel; apt remove imwheel; apt autoremove; apt purge imwheel</p>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 简体中文, 韩语, 西班牙语 - 拉丁美洲, 日语, 波兰语, 葡萄牙语 - 巴西, 俄语, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/header.jpg?t=1745024302",
+    "developers": [
+      "RGByte Software"
+    ],
+    "publishers": [
+      "RGByte Software"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 17 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

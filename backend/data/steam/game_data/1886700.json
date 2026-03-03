@@ -1,0 +1,102 @@
+{
+  "1886700": {
+    "name": "东方魔法书学院 touhou magic book academy",
+    "steam_appid": 1886700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "目前的版本是V1.53<br />\r\n这是一个在卡牌构筑的基础上混合了随从系统的游戏<br />\r\n其他的游戏比如火车,随从创造后随从卡会消失<br />\r\n可是这个游戏创建了随从后随从卡牌依然存在<br />\r\n玩家需要不断的使用卡牌,当使用很多卡牌后,随从会获得加成<br />\r\n然后获得优势,击败敌人<br />\r\n有6个职业选择,每个职业区别十分的大<br />\r\n虽然是完整版,不过今后也将持续更新<br />\r\n这些更新需要各位的反馈与支持<br />\r\n<br />\r\n一人开发<br />\r\n只因为我喜爱卡牌构筑,所以开发了这个游戏<br />\r\n虽然我是业余并且很菜鸟的游戏制作者<br />\r\n但依然希望你能喜欢<br />\r\n这个程序还需要更新,欢迎提出问题,想法,意见<br />\r\n<br />\r\n谢谢你看到这里 thank you for watch<br />\r\n<br />\r\nUI_pic  kenney.ni<br />\r\nGameEngine  godot<br />\r\npicture/program/design/UIdesign/music  myself<br />\r\nreference game - 尖塔,火车,haniwa attack",
+    "supported_languages": "英语, 日语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1886700/header.jpg?t=1646393242",
+    "developers": [
+      "黑猫曲奇-black cat cookie"
+    ],
+    "publishers": [
+      "黑猫曲奇-black cat cookie"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 39.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "初学者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/e63c8232bc26ac9f3166429e3952ded613c68501.jpg"
+        },
+        {
+          "name": "基础通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/a044e9e4bf1587615b1d62af16a94bd40f40ee67.jpg"
+        },
+        {
+          "name": "武士通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/84588968e0874c7552999ecdc7cd080fe5d734a8.jpg"
+        },
+        {
+          "name": "军师通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/092b31e1d775b6ba29d7670bd7aa6bd8f83e941a.jpg"
+        },
+        {
+          "name": "法师通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/8409775489f972776c9da4b4fde5eb0d03999138.jpg"
+        },
+        {
+          "name": "忍者通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/3149e7a5aaf393d1f621036a636618b470104f15.jpg"
+        },
+        {
+          "name": "妖怪通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/45515e92b62fcd74978565562bf4eaf31ec5dc97.jpg"
+        },
+        {
+          "name": "堡垒通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/8410b808642f7dfbba62afb7fbb340eb2e1c8864.jpg"
+        },
+        {
+          "name": "流光通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/87ebd00da8f13e58e5bd8decdf589f345dd2023d.jpg"
+        },
+        {
+          "name": "武术通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1886700/b9ad706bc1451967db79bc7d779b23b8dd96c9a9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

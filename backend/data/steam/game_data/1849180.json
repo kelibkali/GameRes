@@ -1,0 +1,82 @@
+{
+  "1849180": {
+    "name": "雷鸟Thunderbird Demo",
+    "steam_appid": 1849180,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849180/header.jpg?t=1642732466",
+    "developers": [
+      "HyenaStudio"
+    ],
+    "publishers": [
+      "HyenaStudio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "任务开始",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1849180/8f20e17c0219eca41b15d0ca7764619fe2142c09.jpg"
+        },
+        {
+          "name": "任务完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1849180/5ae4bf9cebe5b3483ef551b2ea61965947f897fc.jpg"
+        },
+        {
+          "name": "枪林弹雨",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1849180/41f2ddbd993f68892e121f0b58fbb7d58f60c1b8.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

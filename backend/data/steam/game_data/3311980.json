@@ -1,0 +1,74 @@
+{
+  "3311980": {
+    "name": "One of the Many",
+    "steam_appid": 3311980,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >My first game. Built alone, with love and mistakes. It’s not what I imagined, but I hope you find something to enjoy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >One Of The Many is an indie game where heroes fight and die in an endless loop, under the constant gaze of the Great Entity. Defeat bosses, drink potions, collect gems… and find a way to break the cycle. Or maybe, to protect it.</p><p class=\"bb_paragraph\" ><br>Every run throws you into the dungeon with a new hero, a new class, and new abilities. No saves, just checkpoints. Limited lives. And a presence that might help you… or end you.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311980/dcd09ecba5180609ae5d87639799bae44e54888a/header.jpg?t=1747321635",
+    "developers": [
+      "ArmedLamb Interactive"
+    ],
+    "publishers": [
+      "ArmedLamb Interactive"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 5 月 15 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Protect the Cycle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311980/4d66acc1486f7a38bea3a46f8645011398d8736b.jpg"
+        },
+        {
+          "name": "Endless Cycle",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311980/6660a5b0e3a7ad2d04d8593e3d7bdce36d4096a7.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

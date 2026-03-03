@@ -1,0 +1,64 @@
+{
+  "3204700": {
+    "name": "少年的终结 Digital Artbook",
+    "steam_appid": 3204700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是《少年的终结》的画册。<br />\r\n包含日语、英语、简体中文和韩语四种语言的PDF文件。<br />\r\n<br />\r\nDigital Artbook的查看方式<br />\r\n1. 在Steam库的游戏一览中右键点击《少年的终结》，选择“属性”。<br />\r\n2. 在属性界面中查看DLC一栏，确认Digital Artbook已安装到电脑中。<br />\r\n3. 再次在Steam库的游戏一览中右键点击《少年的终结》，选择”管理“，再选择”浏览本地文件“。<br />\r\n4. 弹出本地文件夹窗口，在文件列表里找到名为”Artbook“的文件夹，Digital Artbook的PDF文件保存于此。",
+    "supported_languages": "英语, 简体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204700/header_schinese.jpg?t=1725595085",
+    "developers": [
+      "WSS playground",
+      "buriki clock"
+    ],
+    "publishers": [
+      "WSS playground",
+      "Alliance Arts"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 5 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 3,
+      "total_negative": 0,
+      "total_reviews": 3
+    },
+    "type": "dlc"
+  }
+}

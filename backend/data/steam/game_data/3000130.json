@@ -1,0 +1,74 @@
+{
+  "3000130": {
+    "name": "SHIP ON WHEELS",
+    "steam_appid": 3000130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Ship on Wheels</strong> is an <strong>arcade rally-style racing game</strong> focused on speed, skill, and instant fun.</p><p class=\"bb_paragraph\" >Race through intense, carefully designed tracks, accessible to all thanks to simple and intuitive controls.</p><p class=\"bb_paragraph\" >Challenge another player’s <strong>ghost</strong>, improve your lap times, and compare your performance on the <strong>online leaderboard</strong>.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3000130/48e2968d08f58aadc8bd35583d38f61eee08a097/header.jpg?t=1769983567",
+    "developers": [
+      "Nojigames"
+    ],
+    "publishers": [
+      "Nojigames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "The Invisible Collection",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3000130/b36a36841fafb37c4a04ad5178f4c720f5d3c174.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

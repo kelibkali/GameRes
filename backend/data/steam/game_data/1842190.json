@@ -1,0 +1,62 @@
+{
+  "1842190": {
+    "name": "jingor 2048",
+    "steam_appid": 1842190,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在立方体展开面（智晶面）上玩2048!<br />\r\n<br />\r\n智晶2048是一款益智游戏，可作为兴趣爱好，可挑战智力，可休闲娱乐。<br />\r\n<br />\r\n在智晶面中，将鼠标移动到相应位置，按上、下、左、右方向键移动数字，直到2048出现。<br />\r\n特别有趣的是，智晶面中在跨过棱时数字相加的情况。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842190/header_schinese.jpg?t=1641905202",
+    "developers": [
+      "ZHANG LIDONG"
+    ],
+    "publishers": [
+      "ZHANG LIDONG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

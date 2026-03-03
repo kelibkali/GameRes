@@ -1,0 +1,74 @@
+{
+  "3101630": {
+    "name": "MahjongPuzzle 8",
+    "steam_appid": 3101630,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Mahjong Puzzle EIGHT is a simple yet deep puzzle game with beautiful Mahjong tiles.</p><p class=\"bb_paragraph\" >Conquer the Dragon's Path, which offers a variety of stages to challenge.</p><p class=\"bb_paragraph\" >With gameplay that's sure to keep you hooked, aim for the ultimate high score.</p><p class=\"bb_paragraph\" >Multiple Mahjong tile skins are also available, further expanding the game's scope.</p>",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101630/96cc80a6886546ebb49360466844beb9f0d4c75c/header_schinese.jpg?t=1766466931",
+    "developers": [
+      "syn Sophia, Inc."
+    ],
+    "publishers": [
+      "syn Sophia, Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1400,
+      "final": 1400,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 14.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "日式麻将 全门通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101630/bf19a777d26fb3ea71a7f23f6948e8e22f2258d6.jpg"
+        },
+        {
+          "name": "中式麻将 全门通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3101630/7c49eb7f20c7fa752559009106e5f23248e14e6f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "3244490": {
+    "name": "欧酱的迷宫大冒险",
+    "steam_appid": 3244490,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >本游戏是我们UE5线上课8期的Houdini程序化生成案例，我们在Houdini中制作了迷宫关卡的生成管线，通过HDA在虚幻中添加场景、道具、陷阱等内容。这个游戏我们制作在周期1个月左右，主要目的还是想给大家展示一下迷宫组件的多样性，希望大家可以喜欢我们的小游戏~！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·迎战各种怪物<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244490/extras/efe099d8b5909e0e81b79e6c4b369e42.avif?t=1728550924\" width=512 height=286 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244490/extras/091fdbc5160b06fcb0de6c6ae7111dcb.avif?t=1728550924\" width=512 height=286 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·探索和收集</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244490/extras/676fc29e38c1ebe7635d0ca61bdd295e.avif?t=1728550924\" width=512 height=288 /></span></p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244490/header.jpg?t=1728550924",
+    "developers": [
+      "欧酱游戏工作室"
+    ],
+    "publishers": [
+      "欧酱游戏工作室"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 10 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "WIN!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/1b1217a118697b19f717ea6312f71fda79a34e25.jpg"
+        },
+        {
+          "name": "Get PROPS 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/ccd32675764bc53ce1ee1e68bf923bc493dd5de1.jpg"
+        },
+        {
+          "name": "Get PROPS 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/68a9f937676732bdeb25c4c6d52934fef4021586.jpg"
+        },
+        {
+          "name": "Get PROPS 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/29c995e0a25b7d9fe90620443aea3371f06fbc7b.jpg"
+        },
+        {
+          "name": "Get FOOD 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/f2bd2d33a0ffc85bccb098a266796a267940e202.jpg"
+        },
+        {
+          "name": "Get FOOD 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/c66f0c3f819e3d7b31d4d7030ce701d9a606dddb.jpg"
+        },
+        {
+          "name": "Get FOOD 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/1220b8f2b906f5b62acdb94e119098630740d741.jpg"
+        },
+        {
+          "name": "Get FOOD 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/80d036cfdadd97727f28520b16bafe76745baac8.jpg"
+        },
+        {
+          "name": "Welcome",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3244490/4942e183eb64106788f1e906819d7c52ecbba84c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

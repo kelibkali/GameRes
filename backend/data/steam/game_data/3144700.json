@@ -1,0 +1,72 @@
+{
+  "3144700": {
+    "name": "Hochone",
+    "steam_appid": 3144700,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Play as a Hoch who are people who don’t belong in society, try and blend in till the time is up, or become the seeker and try to figure out all the Hochs before the time runs out. Play in 2D maps with various unique mechanics.<br />\r\n<br />\r\nHochone is a 2D Multiplayer game where 1 player is the seeker while the rest are Hochs trying to blend in with society. Will you be able to stay hidden in the crowd or will you be outed by the seeker?<br />\r\n<br />\r\nSeeker: With the timer going down try and figure out who is a Hoch and who is an AI, at the end of the timer guess the Hoch(s), then choose to guess early or defer the choice. Every right guess gets +1 point for Seeker and every incorrect guess -1 point for the Seeker<br />\r\n<br />\r\nHoch: Complete tasks to make the timer lose additional time or try to blend in with the AI till the timer hits 0:00. After the Seeker guesses +1 point for not getting guessed, -1 point for getting guessed.<br />\r\n<br />\r\nRounds: Every player gets a chance to be the Seeker then total points are added up and a winner is declared. In the event of a tie, the order for choosing a winner is as follows, Most Right Guesses as Seeker -&gt; Most Times Stayed Hidden as Hoch -&gt; Most Tasks Completed as Hoch -&gt; Tie.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3144700/header.jpg?t=1764555230",
+    "developers": [
+      "Eric Emge",
+      "Mason Starkweather"
+    ],
+    "publishers": [
+      "Eric Emge"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

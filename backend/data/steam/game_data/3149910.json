@@ -1,0 +1,63 @@
+{
+  "3149910": {
+    "name": "Tidal Expanse",
+    "steam_appid": 3149910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >THIS GAME IS IN EARLY DEVELOPMENT- GRAPHICAL ASSETS AND MENUS ARE PLACEHOLDER CONTENT</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Tidal Expanse is an open universe sandbox game with deep simulation mechanics. Players must balance life support, complex thermodynamics, and resource management to build their planetary and orbital outposts. Rise to power through economic leverage or ruthless military might. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Thermodynamics</h2><p class=\"bb_paragraph\" >Space Stations employ a thermal simulation with more depth than your ordinary space station simulation. The player will need to use a variety of nodes, including simple heat exchangers, heat pumps, and black-body radiators, to move heat from the atmosphere to a liquid thermal mass and dump it into the vast expanse of space as IR radiation. Every liquid circuit on the station can be used as a thermal mass, but beware of unexpected consequences when heating random fluids. </p><h2 class=\"bb_tag\" >Atmosphere Composition</h2><p class=\"bb_paragraph\" >Only thin metal walls separate your crew from the vacuum of space. You will need to take care of the limited air you have, as replenishment is not a viable option. Too much CO2 and you poison your population, too little and the crops die. Without oxygen, your people can't breathe, but too much and your station may burst into flames. </p><h2 class=\"bb_tag\" >Crafting</h2><p class=\"bb_paragraph\" >Hundreds of crafting recipes with some added depth to the system. Recipes all carry there own risks and consequences. By tying the crafting system in with the rest of the station systems we were able to create a crafting system with a ton of depth beneath the surface. </p><p class=\"bb_paragraph\" >For instance, take a simple recipe like Meade. A little yeast, water and some form of sugar. The crafting system will allow substitutions allowing different ingredients to fill the role of sugar, or yeast. The yeast will likely be Dry Yeast to start off, but you will recover live yeast as an output that will slowly die in your refrigerator (or rapidly if not refrigerated). The recipe ties in with the thermal system by slowing the process if it is to cold, and failing if it falls below freezing. If the temperature get's to warm, then our live yeast output will start falling. This recipe interacts with Atmosphere Composition by releasing CO2 gas into the atmosphere, and the amount of CO2 released increases with temperature. While this recipe was intended to be a middle point to distill into a fuel source(Ethanol), it will also tempt those who work with it to drink it(especially if they carry traits making them more prone to alcohol). Or you can build a pub and encourage people to drink this beverage for the social and entertainment bonus!</p><h2 class=\"bb_tag\" >Research</h2><p class=\"bb_paragraph\" >While managing to balance sustaining life, with financial solvency you will need to stay on top of technological advancement to remain competitive. Conduct research in labs on your station, on the surface of planets and moons, as well as from research vessels on expeditions across the solar system. Research the right combination of technologies to pair with your strategy and play style. </p><h2 class=\"bb_tag\" >Crew and Population</h2><p class=\"bb_paragraph\" >People will have minds of their own, it's your job to make them useful to your mission. While the player can assign roles to people, they have no control over what people like, think, or do. So, keep a watchful eye on your people and use your judgment on how they should be dealt with should they fall out of line. Keep in mind that it is hard to blame malnourished and mistreated people for mutiny!</p><h2 class=\"bb_tag\" >Closed Loop</h2><p class=\"bb_paragraph\" >Make all systems (even biological) into closed loops. Water is hard to replenish, and plants need fertilizer. So, you may need to reconsider venting waste overboard. </p>",
+    "supported_languages": "英语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149910/a1b69c6f3a8e3701d24d4e88c0382273bae5a6f9/header.jpg?t=1766189147",
+    "developers": [
+      "Per Aspera Studios"
+    ],
+    "publishers": [
+      "Per Aspera Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

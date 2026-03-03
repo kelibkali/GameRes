@@ -1,0 +1,59 @@
+{
+  "3179470": {
+    "name": "Mars Mirage Demo",
+    "steam_appid": 3179470,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<p class=\"bb_paragraph\" >这是我个人开发的一款独立恐怖解谜游戏，采用第一人称视角，结合规则怪谈进行解谜探索，保证活下去的同时找到最终的真相。 </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >游戏目前只支持键盘操作，WASD移动，鼠标用来交互和转换视角，长按鼠标中键可以拉近视角聚焦。左shift奔跑，左ctrl蹲伏，上方有3个数字键可用：1.武器 2.照明 3.拍照。ESC打开系统设置。 </p><p class=\"bb_paragraph\" >此版本为Demo试玩版，不代表游戏最终品质。游戏内容为整体内容的前面一小部分，且包含了游戏第一个场景（教学关卡）以及第二个场景（休息室关卡）的一小部分解谜内容。Demo体验内容为游戏整体内容的1/5左右。由于整个游戏是线性叙事，所以demo的版本的内容偏向教学和熟悉环境，后面的内容会相对精彩一些。</p><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语, 日语, 简体中文<strong>*</strong>, 繁体中文, 韩语<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179470/header.jpg?t=1730897540",
+    "developers": [
+      "crazyrrroc"
+    ],
+    "publishers": [
+      "crazyrrroc"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 11 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

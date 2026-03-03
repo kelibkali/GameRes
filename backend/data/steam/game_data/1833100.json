@@ -1,0 +1,57 @@
+{
+  "1833100": {
+    "name": "FrameFusion Motion Interpolation",
+    "steam_appid": 1833100,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>FrameFusion Motion Interpolation</strong> improve the framerate of any video, gif or group of images by 2X/4X/8X/16X</h2><br>This application that uses neural networks to generate optical flows between two frames of a video. By using these flows, the application merges the frames into a new one, effectively increasing the number of frames in the video output.<br><br>The application allows you to select multiple videos, GIFs, or images in formats like PNG/JPG/BMP for interpolation, producing a new video with a higher FPS than the original.<br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li> Choose from four different models for interpolation: options for live-action or animation, with the ability to render in high quality or with faster speeds.<br></li><li> Optimized for Nvidia GPUs with CUDA support but also compatible with AMD GPUs and CPUs.<br></li><li> Manage a queue of files for batch processing, with a progress bar to track how long each file will take.<br></li><li> For static images like PNG, you can select a folder of files and manually choose an FPS to use.</li></ul><br><strong>Export Options:</strong><br><ul class=\"bb_ul\"><li> <strong>Export Frames:</strong> Generates a .PNG file for each processed frame, including the newly interpolated ones.<br></li><li> <strong>Export Motion Flow:</strong> Exports a PNG visualization of the optical flow.<br></li><li> <strong>Export Video Side-By-Side:</strong> Exports the original video alongside the interpolated video for comparison.<br></li><li> <strong>Export Video Cut in Half:</strong> Exports the left side of the video as the original and the right side as the interpolation, split down the middle for comparison.</li></ul><br><strong>Video Modifications:</strong><br><ul class=\"bb_ul\"><li> <strong>Perfect Loop Video:</strong> Creates new frames between the last frame and the first frame of a video to create a perfect loop.<br></li><li> <strong>Remove Static Frames:</strong> Especially useful for animations, this option removes static frames to enhance the fluidity of the final video.<br></li><li> <strong>Skip Scene Changes:</strong> Detects scene changes and avoids interpolation to reduce artifacts in these transitions.</li></ul><br><strong>Supports frame multipliers, allowing you to output videos with higher FPS. For example, a video with 24fps can be interpolated to: </strong><br><ul class=\"bb_ul\"><li> 2X: 48fps<br></li><li> 4X: 96fps<br></li><li> 8X: 192fps<br></li><li> 16X: 384fps</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 繁体中文, 韩语, 西班牙语 - 拉丁美洲, 日语, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/header.jpg?t=1738022120",
+    "developers": [
+      "GRisk"
+    ],
+    "publishers": [
+      "GRisk"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 8 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

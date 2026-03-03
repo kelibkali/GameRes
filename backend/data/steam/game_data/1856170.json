@@ -1,0 +1,70 @@
+{
+  "1856170": {
+    "name": "Poker - Texas",
+    "steam_appid": 1856170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Start the game, get internet address from our cloud servers, invite friends - and play Poker! (NL Texas Hold'em) The game enables you to setup multiple tables with customizable rules for home games. Each table seats up to 10 players.<br>Players request chips from the host of the table (one of the players at the table is always a host) - everything about the table is logged in a text file for later game analysis. Many standard homegame features implemented are not available in other software solutions - such as multiple runs - run it once, twice, three times or more! Make different number of runs for each (side) pot! Straddle! Call time! All rules set by you!<br>Once the game is launched invite friends via http link. All that players need to play is JUST A WEB BROWSER! Play it on a tablet, cellphone, PC, Laptop, Mac, you name it - anything goes!<br>Super smooth and fluid game experience with no glitches enabling playing many hands per hour. Select your custom chip value - blinds and ante. Keep track of score - buyins and current stack of each player! All written in log file as well. <br>Couple the game with video conferencing solution (such as Zoom) and it is the closest thing to a real homegame. Don't forget the whiskey!<br>The game was made during a pandemic for playing poker with my friends across the world. hope you will enjoy is as much as we do!<br>The developer is an avid Texas Hold'em player and a semi-pro.<h2 class=\"bb_tag\" ><strong>Free Demo available - expires July 1 2022.</strong></h2><h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li>Unbelievable online poker experience the closest to real homegame<br></li><li>Ultra customizable rules for each table<br></li><li>Super smooth, fluid, and fast game experience<br></li><li>Chat<br></li><li>Hands history<br></li><li>Detailed log files of game history and buyins and stacks - for each table<br></li><li>Accurate tracking of buyins/stacks <br></li><li>Artistic handmade graphics<br></li><li>Many graphics customizations - 4 color card deck, etc.<br></li><li>Many hands per hour<br></li><li>More card decks graphics coming soon!<br></li><li>Table rules setup options:<br><ul class=\"bb_ul\"><li>Straddle (Mississippi, only the UTG, starting from UTG - any player can straddle if player before him did - up to a button)<br></li><li>Last aggressor (whoever was the last aggressor shows his cards first - regardless of the aggression street)<br></li><li>Time, call time<br></li><li>Multiple runs<br></li><li>Minimal chip value<br></li><li>SB/BB/ante<br></li><li>Rabbit hunting #<br></li><li>Starting amount of chips</li></ul></li></ul><h2 class=\"bb_tag\" ><strong>CONNECTING AS A PLAYER</strong></h2>You will be asked username and password - it is only used for that game run (stored only in the memory of the server computer for that game run). Using the username and password you can get back to the table in case of losing a connection - your chips will be waiting for you.<h2 class=\"bb_tag\" ><strong>WEB BROWSERS TO USE</strong></h2>We recommend Google Chrome for playing but almost any web browser should work fine (except Brave). In case of any funny looking colors or similar problems try another web browser.<h2 class=\"bb_tag\" ><strong>DISCLAIMER</strong></h2>Poker Texas is intended for an adult audience (18+) for amusement purposes only and does not offer 'real money' gambling.<br># For rabbit hunting - all cards will be dealt to the river every time (even if the hand ended before the river). Deck is shuffled at the beginning of each hand using state of the art random number generator and the cards are drawn from it. In that way cards that appear in rabbit hunting are exactly the ones that would appear if the hand was played till the end.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1856170/header.jpg?t=1726355136",
+    "developers": [
+      "Predrag Lazic"
+    ],
+    "publishers": [
+      "MobileTVGames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

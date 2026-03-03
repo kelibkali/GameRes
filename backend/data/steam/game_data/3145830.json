@@ -1,0 +1,71 @@
+{
+  "3145830": {
+    "name": "僵尸围城守卫",
+    "steam_appid": 3145830,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款强化枪械以对抗僵尸的 Roguelike 游戏。<br>您必须独自一人或与伙伴一起，从涌入房屋的僵尸手中生存下来。僵尸会随着时间增加，并出现更强大的个体，但您也可以变得更强大。如何变强由您决定。试着存活更久，并尝试逃脱吧！<h2 class=\"bb_tag\" >战斗</h2>使用枪械攻击是安全的，但弹药有限，请小心。有时也需要使用球棒进行近身攻击。<h2 class=\"bb_tag\" >游戏流程</h2>消灭僵尸群或生存一定时间后，可以强化自身并迎战下一波僵尸。战斗时段会随着时间推移从早晨、白天变为夜晚，夜晚将出现强大的僵尸。每存活一天，都会有一次逃脱的机会。<h2 class=\"bb_tag\" >强化</h2>每次战斗结束后，可以从随机提供的三个选项中选择一项，强化自身能力或武器。<br><ul class=\"bb_ul\"><li>增加体力</li><li>提升移动速度</li><li>近战武器附带火焰</li><li>子弹穿透敌人</li><li>子弹带有电击效果</li></ul><h2 class=\"bb_tag\" >游玩人数</h2>您可以单人游玩，也可以组成最多四人的团队共同合作。",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145830/header.jpg?t=1748451966",
+    "developers": [
+      "AND GEAR"
+    ],
+    "publishers": [
+      "AND GEAR"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

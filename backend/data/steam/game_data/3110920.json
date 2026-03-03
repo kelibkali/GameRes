@@ -1,0 +1,76 @@
+{
+  "3110920": {
+    "name": "KRING - ARTBOOK",
+    "steam_appid": 3110920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "通过官方艺术画册完成您与 Kring 的旅程，这是对他们一起进入宇宙深处的旅程的致敬。<br />\r\n它诞生于开发者 Ivan Venturi 的恶魔之手，现在就在您的手中。",
+    "supported_languages": "英语<strong>*</strong>, 意大利语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3110920/header.jpg?t=1723129844",
+    "developers": [
+      "IV Productions"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 675,
+      "discount_percent": 55,
+      "initial_formatted": "¥ 15.00",
+      "final_formatted": "¥ 6.75"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

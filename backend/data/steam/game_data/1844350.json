@@ -1,0 +1,79 @@
+{
+  "1844350": {
+    "name": "X-Plane 11 - Add-on: Aerosoft - Airport Stuttgart",
+    "steam_appid": 1844350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Airport Stuttgart XP brings the international airport of the state capital of Baden-Wuerttemberg as a native add-on to the flight simulator X-Plane 11.<br><br>This add-on represents the airport in the latest status of development of the real airport. All airport buildings, the layout of the runway and taxiways, as well as the lighting systems and all navaids have been implemented in detail and with PBR textures (Physically Based Rendering). In addition, numerous buildings were created for the area to ensure a real-life feeling of the airport.<br><br>A complete Maps2XPlane mesh with Ortho4XP patch provides a detailed underground that even has seasonal textures thanks to the support of SAM.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1844350/extras/5d75590246c1db446e324a2c5681b379.webp?t=1641479899\" width=616 height=61 /></span><br><ul class=\"bb_ul\"><li>Detailed replica of the airport of Stuttgart<br></li><li>Custom buildings surrounding the airport<br></li><li>Custom colored orthophoto<br></li><li>Custom Mesh by Maps2Xplane incl. Ortho4XP patch<br></li><li>PBR ground textures matching layout<br></li><li>HDR night lighting<br></li><li>HD handplaced vegetation<br></li><li>Adapted roads and autogen<br></li><li>Full SAM compatibility (SAM3 plugin required)<br>o Custom AirportVehicles / FollowMe (SAM AirportVehicles / FollowMe required)<br>o Custom static aircrafts<br>o Seasons</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1844350/header.jpg?t=1641479899",
+    "developers": [
+      "Stairport Sceneries",
+      "FlightSim Studio AG"
+    ],
+    "publishers": [
+      "Aerosoft GmbH"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

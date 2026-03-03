@@ -1,0 +1,96 @@
+{
+  "1835250": {
+    "name": "Escape",
+    "steam_appid": 1835250,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Before players start, I must explain the game is a short and simple 2D horizontal game.</p><p class=\"bb_paragraph\" >This is an adventure puzzle game that escapes from the underground to the surface,The protagonist is a slime who is locked underground for some reason,</p><p class=\"bb_paragraph\" >The protagonist will not die or be harmed even if he falls from a height.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >On the way to escape, you will encounter places that need to be solved or complex maze terrain,There are also organs that need to be triggered scattered on the map, try to solve the puzzle in various ways.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Triggering traps can provide shortcuts, but there are more than one traps, so you need to find them on the map.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >[Operation method]</p><p class=\"bb_paragraph\" >A, ← is to move to the left</p><p class=\"bb_paragraph\" >D, → is to move to the right</p><p class=\"bb_paragraph\" >space is jump</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835250/header.jpg?t=1741208550",
+    "developers": [
+      "criswei",
+      "cri"
+    ],
+    "publishers": [
+      "criswei",
+      "cri"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Start",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/7bdf691fbda634bd93475a7e1f2fa511c789f00c.jpg"
+        },
+        {
+          "name": "Escape successfully",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/975c071922a7763a2eb3bc344d4d3afe5357dbba.jpg"
+        },
+        {
+          "name": "Wooden door breaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/507add0beb36d991978c5f064615df1a48e5fea5.jpg"
+        },
+        {
+          "name": "Cheat",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/4d2e00313c3fb52dd6611254186a671fd9a53509.jpg"
+        },
+        {
+          "name": "Wooden door breaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/90ad388dad7583925ece8ad6827cc25894f73479.jpg"
+        },
+        {
+          "name": "Trigger",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1835250/1f0d6713401ee6406a722caeda090da48fa1f0e9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

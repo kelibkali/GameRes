@@ -1,0 +1,66 @@
+{
+  "3218080": {
+    "name": "12 Hours",
+    "steam_appid": 3218080,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一个简单的行走模拟器，你需要仔细观察环境并且决定是继续前进还是回头。<br />\r\n<br />\r\n第一次游玩大概需要一个小时通关。<br />\r\n<br />\r\n你被困在一个无限走廊中，观察环境并且做出正确决策。每当你做出一个正确决策时间将会前进一个小时，否则你将会受到各种不同的惩罚。当时间来到12点时你可以离开房间。<br />\r\n<br />\r\n基本规则：<br />\r\n<br />\r\n如果你看到了灵异现象，立刻回头。<br />\r\n<br />\r\n如果你在走廊中没有看到灵异现象，继续前进。<br />\r\n<br />\r\n在你的电池耗尽前做出决策。<br />\r\n<br />\r\n当你做出正确决策时间将会推进一小时。<br />\r\n<br />\r\n当你做出错误决策时间将会被重置到0：00。<br />\r\n<br />\r\n请注意如果你没有注意到房间内的灵异现象切继续前进，电池的寿命将会减少，下一轮你将拥有更少的时间进行决策。<br />\r\n<br />\r\n0：00的房间是没有灵异事件的。",
+    "supported_languages": "英语, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/header.jpg?t=1731219145",
+    "developers": [
+      "Barley Entertainment"
+    ],
+    "publishers": [
+      "Barley Entertainment"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "Escape Master",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3218080/786a6a02f20134484c199b20826768a6d1f988e0.jpg"
+        },
+        {
+          "name": "HawkEye",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3218080/29a98ad6e717b0d9258552c1249ff96343ce789b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

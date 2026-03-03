@@ -1,0 +1,58 @@
+{
+  "3214170": {
+    "name": "弹跳球",
+    "steam_appid": 3214170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "一个简单休闲的弹球游戏。<br />\r\n发射小球，通过墙壁反弹和顺着滑轨移动。<br />\r\n发射小球，碰撞开关来开启和关闭不同的机关和设施，通过反弹将所有小球送达目标点。<br />\r\n每个关卡都有不同的机关和目标，包括开关和加速器等机关，仅需简单的几何学来完成解密。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/header.jpg?t=1727542323",
+    "developers": [
+      "9900Studio"
+    ],
+    "publishers": [
+      "9900Studio"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

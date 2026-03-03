@@ -1,0 +1,66 @@
+{
+  "1833670": {
+    "name": "2048 3D",
+    "steam_appid": 1833670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "2048 3D is a casual digital game, adapted from the classic game 2048.<br />\r\nIn 2048 3D, number cubes will fall from the air. Players need to use the ↑↓←→ or WASD keys on the keyboard to control the movement of all the cubes, and merge the same cubes to get larger number cubes.<br />\r\nTry not to let the big number cubes outside the box, otherwise you will suffer a heavy loss!<br />\r\nTry to get big cubes to win the game!",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833670/header.jpg?t=1639529064",
+    "developers": [
+      "zP1nG"
+    ],
+    "publishers": [
+      "zP1nG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 6,
+      "total_negative": 0,
+      "total_reviews": 6
+    },
+    "type": "game"
+  }
+}

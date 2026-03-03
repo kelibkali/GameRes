@@ -1,0 +1,94 @@
+{
+  "3252050": {
+    "name": "博物魅影",
+    "steam_appid": 3252050,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>游戏特色</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >丰富的解谜元素： 游戏中包含多种谜题，需要玩家利用观察力和逻辑思维来解开，以推进故事的发展。</p><p class=\"bb_paragraph\" >互动式环境： 博物馆中的每一个展品都可能是解谜的关键，玩家需要与环境互动，寻找线索。</p><p class=\"bb_paragraph\" >历史与幻想的结合： 游戏中融入了真实的历史知识与虚构的元素。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>游戏玩法</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >探索： 在博物馆中自由探索，寻找隐藏的线索和秘密通道。</p><p class=\"bb_paragraph\" >解谜： 利用找到的物品和线索解开谜题，解锁新的区域或获取关键信息。</p><p class=\"bb_paragraph\" >收集： 收集博物馆中的文物和资料，了解它们的历史背景。</p><p class=\"bb_paragraph\" >对话： 与博物馆中的其他角色对话，获取帮助或获取新的任务。</p><p class=\"bb_paragraph\" >时间管理： 在有限的时间内完成任务，防止任务失败。 </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>温馨提示</strong></p><p class=\"bb_paragraph\" >我们是两个人的小团队，虽然知道苹果玩家比较少，但还是想要提供一个版本给到苹果玩家~目前 Mac 版本不支持云存档和成就系统，用 Mac 的小伙伴一定要慎重考虑一下哟~</p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252050/header_schinese.jpg?t=1730427385",
+    "developers": [
+      "图南工作室(Tunan Studio)"
+    ],
+    "publishers": [
+      "图南工作室(Tunan Studio)"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 990,
+      "final": 990,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "事情开始变得奇怪",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/ecb9d5b0b28b4a4cba7d7141eec823a3ba717e9c.jpg"
+        },
+        {
+          "name": "她是我，我是谁？",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/4b227b50c80d12c5be78991b97f110cbc0402053.jpg"
+        },
+        {
+          "name": "奇怪的人，奇怪的地方",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/ac3f6f36acab9ea994ac09919a649e4db4a48582.jpg"
+        },
+        {
+          "name": "那就让你解脱吧",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/c3b2e3de6f60b83934c2a3228a59e044d8444986.jpg"
+        },
+        {
+          "name": "天籁之音",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/d0662171266df431a994ee64653c9b904cff14b4.jpg"
+        },
+        {
+          "name": "博物魅影",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3252050/54e8f1cd2e2e0a2603a85c65febb0c2d505300b9.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "6 user reviews",
+      "total_positive": 6,
+      "total_negative": 0,
+      "total_reviews": 6
+    },
+    "type": "game"
+  }
+}

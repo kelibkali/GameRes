@@ -1,0 +1,51 @@
+{
+  "3225950": {
+    "name": "Quinary 第五紀 Demo",
+    "steam_appid": 3225950,
+    "required_age": 0,
+    "is_free": true,
+    "description": "游戏目前为Alpha版!许多元素皆没实作!也缺乏美术、音乐!<br />\r\nAlpha版还会持续一段时间，此时的展示版还会继续更新，直至有足够的资金进入Beta开发，而未来的游戏会转为付费游戏。 目前展示版中能够使用最基本的编程、物品及改装，来打败一位Boss，然而游戏目前还有许多Bug，会慢慢修的。",
+    "supported_languages": "英语, 日语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3225950/header.jpg?t=1730561082",
+    "developers": [
+      "焦慮的JJ"
+    ],
+    "publishers": [
+      "焦慮的JJ"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "3025410": {
+    "name": "TheExit8NYC",
+    "steam_appid": 3025410,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在这个第一人称游戏中，你被困在一条无尽的地下通道中。<br />\r\n仔细观察周围环境，到达“8号出口”。<br />\r\n不要忽视任何异常，0 楼是一个没有任何异常的模型，仔细查看所有物体。<br />\r\n如果发现任何异常（与 0 楼不同的物体），立即转身，这将带你到下一层。<br />\r\n如果没有发现任何异常，继续上一层。<br />\r\n如果犯了错误，你将从 0 楼重新开始。<br />\r\n你的目标是通过 8 号出口退出。<br />\r\n使用 wasd 键移动<br />\r\n你会在“ESC”菜单中找到各种选项，例如音量、鼠标灵敏度和几个图形选项。<br />\r\n一些游戏内文本是由 AI 生成的，可能包含错误，但这些不是异常。<br />\r\n请注意，这款游戏是我的第一款游戏，它对资源的要求仍然很高，我真的建议你在性能模式下使用 FSR 来提高 fps。 （不要修改虚幻引擎文件中的选项，否则会破坏某些游戏功能）<br />\r\n<br />\r\n(Translated by ChatGpt)",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 简体中文, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025410/header.jpg?t=1732800768",
+    "developers": [
+      "Christophe KASH"
+    ],
+    "publishers": [
+      "Christophe KASH"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

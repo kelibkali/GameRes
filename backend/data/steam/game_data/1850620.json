@@ -1,0 +1,66 @@
+{
+  "1850620": {
+    "name": "PenBall",
+    "steam_appid": 1850620,
+    "required_age": 0,
+    "is_free": false,
+    "description": "There is a ball on a small field with a top view. Your gate is at the bottom, and your opponent's gate is at the top. Your goal is to score the ball into the opponent's goal. The game resembles a classic pinball only as hitting platforms you draw lines on the field with the mouse. Your opponent will also draw lines to send the ball in your direction. Each time it touches, the speed of the ball increases. There are three enemy difficulty modes available.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850620/header.jpg?t=1771841854",
+    "developers": [
+      "DIG Games"
+    ],
+    "publishers": [
+      "DIG Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 450,
+      "discount_percent": 75,
+      "initial_formatted": "¥ 18.00",
+      "final_formatted": "¥ 4.50"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "1829870": {
+    "name": "RetroArch - UAE",
+    "steam_appid": 1829870,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1829870/extras/ba5ed53a149396e37985c48dbfd34e62.avif?t=1677705938\" width=286 height=90 /></span><br>UAE is based on the work of dozens of contributors including Bernd Schmidt (the original author and maintainer of UAE), Bernie Meyer (the author of the x86 JIT compiler), Toni Wilen (the current maintainer of WinUAE), and many more.<br><br>Double Line mode, rendering will be doubled vertically. It is compatible with high resolution games and Workbench, but scaling shaders will look ugly. &quot;Double Line&quot; shows interlaced fields separately (weave) and is suited for deinterlacing shaders.<br><br>Single Line mode, rendering is presented as is. It delivers the best of both worlds, and looks great with high resolution games, Workbench and shaders. &quot;Single Line&quot; combines interlaced fields into one field (bob), which will make high resolution images blocky and jittery.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 荷兰语, 希腊语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 瑞典语, 土耳其语, 越南语, 简体中文, 繁体中文, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1829870/header.jpg?t=1677705938",
+    "developers": [
+      "Libretro",
+      "Mustafa 'GnoStiC' TUFAN",
+      "Richard Drummond",
+      "Sonninnos"
+    ],
+    "publishers": [
+      "Libretro"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

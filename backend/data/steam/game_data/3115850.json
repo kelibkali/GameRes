@@ -1,0 +1,94 @@
+{
+  "3115850": {
+    "name": "Swordia",
+    "steam_appid": 3115850,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Swordia is more than a game... It’s a <strong>fully playable demonstration of a flexible 2D game engine and multiplayer framework</strong> designed for creators. Inspired by classic pixel-art RPGs and online worlds, Swordia exists as a live example of how <strong>any kind of 2D game</strong> can be built, iterated, and expanded in real time.</p><p class=\"bb_paragraph\" >Play it as an adventure.<br>Study it as a system.<br>Help shape it as a creator.</p><p class=\"bb_paragraph\" >Whether you're a <strong>game developer</strong>, <strong>designer</strong>, <strong>artist</strong>, or <strong>curious tinkerer</strong>, Swordia gives you a real, running 2D game to explore — showing how combat systems, progression, networking, UI, world simulation, and content pipelines come together in practice.</p><h2 class=\"bb_tag\" ><strong>A Playable Demo of a 2D Game Framework</strong></h2><p class=\"bb_paragraph\" >Swordia demonstrates:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Real-time 2D world simulation</p></li><li><p class=\"bb_paragraph\" >Modular combat and ability systems</p></li><li><p class=\"bb_paragraph\" >Instance-based dungeons and encounters</p></li><li><p class=\"bb_paragraph\" >Multiplayer networking and synchronization</p></li><li><p class=\"bb_paragraph\" >Character progression and data persistence</p></li><li><p class=\"bb_paragraph\" >UI, inventory, crafting, and economy systems</p></li><li><p class=\"bb_paragraph\" >Fully customizable UI and Developer SDK that lets the Developer customize literally everything</p></li><li><p class=\"bb_paragraph\" >Fully modifiable systems via both client and server plugin system.</p></li><li><p class=\"bb_paragraph\" >Instantly deploy map changes and more across your game(s) without even a need to restart!  </p></li></ul><p class=\"bb_paragraph\" >These systems aren’t just features — they’re <strong>examples</strong> of how you can structure your own 2D projects.</p><h2 class=\"bb_tag\" ><strong>Gameplay Features in the Demo World</strong></h2><p class=\"bb_paragraph\" ><strong>Spell Casting Combat</strong><br>Action-based combat with responsive abilities and animations.</p><p class=\"bb_paragraph\" ><strong>Exploration &amp; Dungeons</strong><br>Open overworld exploration and instanced challenges for solo or group play.</p><p class=\"bb_paragraph\" ><strong>PVP &amp; PVE</strong><br>Dedicated zones for cooperative gameplay and competitive encounters.</p><p class=\"bb_paragraph\" ><strong>Skill-Based Progression</strong><br>Gather, craft, cook, mine, farm, and build progression loops.</p><p class=\"bb_paragraph\" ><strong>Guilds &amp; Social Systems</strong><br>Party and guild mechanics showcasing scalable multiplayer design.</p><h2 class=\"bb_tag\" ><strong>Built With the Community</strong></h2><p class=\"bb_paragraph\" >Swordia is developed openly by a small independent team. Community feedback directly influences engine features, gameplay systems, tools, and workflow design. Players help test mechanics. Developers help discuss architecture. Artists help shape visual direction.</p><p class=\"bb_paragraph\" >As Swordia evolves, so does the framework behind it.</p><h2 class=\"bb_tag\" ><strong>Join the Creation Community</strong></h2><p class=\"bb_paragraph\" >Our Discord is where:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >New engine features are previewed</p></li><li><p class=\"bb_paragraph\" >System designs are discussed</p></li><li><p class=\"bb_paragraph\" >Creator feedback drives priorities</p></li><li><p class=\"bb_paragraph\" >Early builds are tested</p></li><li><p class=\"bb_paragraph\" >Ideas become implemented features</p></li></ul><p class=\"bb_paragraph\" >We iterate quickly, build transparently, and welcome anyone interested in making 2D games — whether you're here to play, learn, or contribute ideas.</p><p class=\"bb_paragraph\" ><strong>Swordia is a game.<br>Swordia is a demo.<br>Swordia is a toolkit in motion.</strong></p><p class=\"bb_paragraph\" ><strong><u>Play it. Learn from it. Build your own worlds with it.</u></strong></p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/4a7383b660de3e3aefaa6e6e5015403fb80b763d/header.jpg?t=1769208916",
+    "developers": [
+      "Affliction Networks LLC"
+    ],
+    "publishers": [
+      "Affliction Networks LLC"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 1 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

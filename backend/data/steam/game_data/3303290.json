@@ -1,0 +1,66 @@
+{
+  "3303290": {
+    "name": "Kira Kira Magical Stars",
+    "steam_appid": 3303290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Oh no! The Monster Queen has invaded town and captured your friends! Do you have what it takes to save them? Help Kirari and her friends to defeat the monsters and their nefarious queen, and return peace to the land!</p><p class=\"bb_paragraph\" >Kira Kira Magical Stars is a cute fantasy magical girl top-down shooter and platformer featuring:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >6 Playable Characters with distinct abilities and dialogue!</p></li><li><p class=\"bb_paragraph\" >7 Long Stages you can play and re-play in any order you want!</p></li><li><p class=\"bb_paragraph\" >Health and Magic Upgrades!</p></li><li><p class=\"bb_paragraph\" >A REAL GBC Soundtrack! (Composed with Furnace Tracker)</p></li><li><p class=\"bb_paragraph\" >Inventory and Shop systems, and a Save feature!</p></li><li><p class=\"bb_paragraph\" >Full and Remappable Gamepad and Keyboard support! (Supports Switch, PlayStation, Xinput and D-Input controllers!)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Default Controls:<br>Keyboard:</strong><br>Movement = Arrow keys<br>Jump / Confirm = Z<br>Shoot / Cancel = X<br>Magic = Hold Shoot Button to charge, release to cast.<br>Pause = Enter</p><p class=\"bb_paragraph\" ><strong>Controller:</strong><br>Movement = D-Pad or Left Stick<br>Jump / Confirm = Right Face Button (NS = A / PS = Circle / XB = B) <br>Shoot / Cancel = Bottom Face Button (NS = B / PS = X / XB = A) <br>Magic = Hold Shoot Button to charge, release to cast.<br>Pause = Start</p><p class=\"bb_paragraph\" >(You can toggle the Analogue Stick On or Off by pressing the Select button at any point in the game)</p><p class=\"bb_paragraph\" >(If at any point in the game you need to restore the default controls for any reason, you can do so by holding the Select button on a controller, or Backspace on the keyboard for 5 seconds. Restoring the defaults on keyboard does not restore the defaults on a controller, and vice-versa.)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>For Non-Windows users:</strong></p><p class=\"bb_paragraph\" >The game works perfectly under Wine, that said, only Xinput controllers seem to work. Tested using Kubuntu 23.10</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303290/header.jpg?t=1731401973",
+    "developers": [
+      "Michirin"
+    ],
+    "publishers": [
+      "Michirin"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

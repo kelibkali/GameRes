@@ -1,0 +1,102 @@
+{
+  "3145520": {
+    "name": "Look or Die",
+    "steam_appid": 3145520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >以一所废弃学校为背景的第一人称神秘恐怖游戏。 </p><p class=\"bb_paragraph\" >你能继续调查并找出事件背后的真相吗？</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145520/extras/04e9fbe203a732303925c183f128a82a.avif?t=1730347259\" width=600 height=200 /></span></p><h2 class=\"bb_tag\" >概要</h2><p class=\"bb_paragraph\" >夜校里有什么东西潜伏着…… 主角是一位新老师，下班准备回家时，他发现了一张旧钞票。 当它被拆除的那一刻，学校就被关闭了，一个奇怪的世界展开了，时间似乎停止了。 在一所废弃的学校里，隐藏着过去的恐怖事件，鬼魂四处游荡，仿佛在保护这个秘密。 主角必须面对他的恐惧并揭开这里发生的事情。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >鬼好像在玩……</h2><p class=\"bb_paragraph\" > 在探索过程中，他陷入了各种奇怪的现象。让我们找出每个问题的原因并找到解决方案。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >多重结局</h2><p class=\"bb_paragraph\" >所有 3 种结局类型</p><p class=\"bb_paragraph\" >游玩时间1-3小时</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >视频分发指南</h2><p class=\"bb_paragraph\" >・无论是个人还是法人，都可以在未经许可的情况下分发。</p><p class=\"bb_paragraph\" >・如果您能在摘要部分等中包含 Steam 页面的链接，我们将不胜感激。</p><p class=\"bb_paragraph\" > 对于因分发此游戏而造成的任何损害，我们不承担任何责任。</p>",
+    "supported_languages": "英语, 日语<strong>*</strong>, 简体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145520/header.jpg?t=1730347259",
+    "developers": [
+      "daimaGAME"
+    ],
+    "publishers": [
+      "daimaGAME"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 9,
+      "highlighted": [
+        {
+          "name": "TrueEnd",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/909bf89ef4d283c9bc126669e24597424fbaa930.jpg"
+        },
+        {
+          "name": "GameClear",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/54318580c8d9bdc6962bb08bbd016601a86237e5.jpg"
+        },
+        {
+          "name": "Hanako in the toilet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/58432c91dc25052467fd0d8367f5b00b6cfcccb6.jpg"
+        },
+        {
+          "name": "moving human body model",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/bdfe3fb155589102a444fa4f0c1808c686ced3e3.jpg"
+        },
+        {
+          "name": "sudden broadcast",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/ef476ea92de9388bc7010d4cb9fa244d7ff02381.jpg"
+        },
+        {
+          "name": "A piano that does whatever it wants",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/4fbb0ec6c8e44d8763fee6a07c593f7a63a4307c.jpg"
+        },
+        {
+          "name": "countless arms from the toilet",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/a79ae61fc202d62ce511e08d13ccc775db94f656.jpg"
+        },
+        {
+          "name": "moving doll",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/3290fb874232f894c03aeb7919f37c572e99b158.jpg"
+        },
+        {
+          "name": "library dictionary",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3145520/23eb8791d185be408d35386e5395a1208ec5874d.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 1,
+      "total_negative": 4,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}

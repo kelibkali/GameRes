@@ -1,0 +1,50 @@
+{
+  "3007010": {
+    "name": "CurseBreaker Demo",
+    "steam_appid": 3007010,
+    "required_age": 0,
+    "is_free": true,
+    "description": "",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3007010/header.jpg?t=1716975721",
+    "developers": [
+      "Wavesurf Studio"
+    ],
+    "publishers": [
+      "Wavesurf Studio"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 5 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      }
+    ],
+    "genres": [],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "玩汤姆100次",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3007010/022eb416be9a292dbf462350ebd279a700c0735b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

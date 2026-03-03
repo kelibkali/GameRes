@@ -1,0 +1,114 @@
+{
+  "1874680": {
+    "name": "Tower Words",
+    "steam_appid": 1874680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874680/extras/62a4f64bc247491489d28d7d9f6f7b24.avif?t=1729470773\" width=450 height=253 /></span><br><br>Tower Words is a game in which you have to type words that fit the requested categories, before the letters reach the top of the screen. The letters fall continuously, forming a tower of letters. Destroy this tower by writing words. An unusual mix of Tetris, categories game and word search.<br><br><br><ul class=\"bb_ul\"> Some letters have other functions besides forming words:<li>Bomb letter - When used in any word, destroys the letters around the bomb<br></li><li>Frozen letter- Use more than once to clear it (thaw)<br></li><li>Virus letter - Infects the surrounding letters<br></li><li>Weight letter- When used in any word, it crushes all the letters that were below it<br></li><li>Dark letter - Try to remember the letter. Challenge your memory.<br></li><li>Clock Letter - Use it quickly before time runs out</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874680/extras/fe20aa2ac87dfc25b939a8867c209ff2.poster.avif?t=1729470773\" width=550 height=358 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874680/extras/fe20aa2ac87dfc25b939a8867c209ff2.webm?t=1729470773\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874680/extras/fe20aa2ac87dfc25b939a8867c209ff2.mp4?t=1729470773\" type=\"video/mp4\"></video></span><br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Educational: train your English vocabulary<br></li><li>20 different word categories<br></li><li>Different types of obstacles<br></li><li>Earn points by writing new words<br></li><li>Unlock achievements<br></li><li>Two game modes: Classic and Endless<br></li><li>Simple mechanics: use mouse or keyboard to play<br></li><li>Minimalist art</li></ul>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874680/header.jpg?t=1729470773",
+    "developers": [
+      "Company Not Found"
+    ],
+    "publishers": [
+      "Company Not Found"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 4 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 14,
+      "highlighted": [
+        {
+          "name": "Level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/7d4f054709f338e7e0e71f432f165979b3e2a322.jpg"
+        },
+        {
+          "name": "Level 10",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/1ab78ad5d570f411b64745100c4256b55fb555be.jpg"
+        },
+        {
+          "name": "Level 15",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/e79c670fcdbfe52ed8273078c407c8593c1cd0a0.jpg"
+        },
+        {
+          "name": "Level 20",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/db2567b9db25a4e350eb038b3cf4e57dcb6f8de3.jpg"
+        },
+        {
+          "name": "Level 25",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/8c654df43573203c2b5203478c27e11b234f1a17.jpg"
+        },
+        {
+          "name": "Level 30",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/2f214c5f90e6db2435a95ec54879b877f4ed6a86.jpg"
+        },
+        {
+          "name": "Level 35",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/7d96eeb7d38653c0d2323b03781e655d1f16605b.jpg"
+        },
+        {
+          "name": "Level 40",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/bb20588a073588f42bfc8bc8be2ef6a7bc3de622.jpg"
+        },
+        {
+          "name": "Wise",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/a1cd4d5a58716a472c4ce6c24af986714c84c03c.jpg"
+        },
+        {
+          "name": "Master of Knowledge",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1874680/1149a647230f0e33490672b421029402b9f34648.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

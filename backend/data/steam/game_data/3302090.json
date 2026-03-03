@@ -1,0 +1,74 @@
+{
+  "3302090": {
+    "name": "Rust Bucket",
+    "steam_appid": 3302090,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Sealed into a decaying vessel, surrounded by an irradiated green ocean and nothing but a rusted mounted camera to view your surroundings, will you be able to survive?</strong></p><p class=\"bb_paragraph\" ><strong> </strong></p><p class=\"bb_paragraph\" ><u><strong>Features</strong></u></p><p class=\"bb_paragraph\" >Survival mechanics where you have to balance oxygen, power, food and water.</p><p class=\"bb_paragraph\" >Short enclosed gameplay where you have to use a grainy camera to view your exterior.</p><p class=\"bb_paragraph\" >Roughly 1 hour gameplay with a linear but intriguing atmosphere.</p><p class=\"bb_paragraph\" >Horror survival game where your life depends on staying focused and on edge.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302090/header.jpg?t=1733255584",
+    "developers": [
+      "Cheese Tart"
+    ],
+    "publishers": [
+      "Cheese Tart"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 29 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "Implosion Event",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3302090/4762253c9510a424dc63441a31ad21ce8f34fa67.jpg"
+        },
+        {
+          "name": "Grim Ending",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3302090/1b322d4ce1812c55137caa6096e3c4a747374355.jpg"
+        },
+        {
+          "name": "Bodies In The Water",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3302090/54f4055e9166efb9c90fd5a9b72c79d1a2f019ee.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

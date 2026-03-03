@@ -1,0 +1,62 @@
+{
+  "3282310": {
+    "name": "数色",
+    "steam_appid": 3282310,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This is a puzzle game where you upgrade numbers by connecting them together.</p><p class=\"bb_paragraph\" >Basically, upgrades occur when you connect numbers with the same number or color.</p><p class=\"bb_paragraph\" >Detailed rules are as follows.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >When two numbers with the same color collide, an upgrade occurs, and the upgraded color becomes a mixture of the colors before the upgrade.</p></li><li><p class=\"bb_paragraph\" >When two numbers with the same color (1 to 9) collide, or when two numbers with the same color (10 or higher) collide, an upgrade occurs.</p></li><li><p class=\"bb_paragraph\" >For numbers 10 or higher, an upgrade occurs when the sum of numbers that are touching, smaller than the number itself, and have the same color as the number itself is equal to or greater than the number itself.</p></li><li><p class=\"bb_paragraph\" >The bar meter fills up depending on the color of the number that has been upgraded.</p></li><li><p class=\"bb_paragraph\" >When the bar is filled to its maximum, it becomes clickable. Click the bar and then click any number from 1 to 9 in the box. The color of the number you clicked will change to the same color as the bar, and the bar meter will be reset.</p></li><li><p class=\"bb_paragraph\" >If the number goes outside the box, the game is over.</p></li></ul><p class=\"bb_paragraph\" >[About the two modes]</p><p class=\"bb_paragraph\" >There is an [Endless] mode where you keep playing until it's game over, and an [Over 19] mode where you compete to see who can make numbers over 19 the fastest.</p>",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282310/header.jpg?t=1731477306",
+    "developers": [
+      "Jouha"
+    ],
+    "publishers": [
+      "Jouha"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

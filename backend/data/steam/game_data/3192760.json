@@ -1,0 +1,61 @@
+{
+  "3192760": {
+    "name": "vHand",
+    "steam_appid": 3192760,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/extras/ba6983bb91718cb83872ffc010149b45.avif?t=1769318493\" width=800 height=350 /></span></p><p class=\"bb_paragraph\" >Enhance your drawing experience with vHand! </p><p class=\"bb_paragraph\" >Made and designed by artists for artists, in collaboration with @ColdiArt! </p><p class=\"bb_paragraph\" >Whether you’re a streamer or content creator, vHand offers an experience that combines realistic hand drawing motion simulations with dynamic sketching sounds.</p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" ><strong>Key Features:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Realistic Hand Drawing Simulation </p></li><li><p class=\"bb_paragraph\" >Mods support! You can  access all the textures, edit any of the pens, accessories, hands, sleeves, etc... with your own custom design and your edits will show up on the app once restarted. </p></li><li><p class=\"bb_paragraph\" >Dynamic Sketching Sounds </p></li><li><p class=\"bb_paragraph\" >Customizable Hand Presets </p></li><li><p class=\"bb_paragraph\" >Seamless overlay capture with transparent background support </p></li><li><p class=\"bb_paragraph\" >Runs and captures mouse and pen presses in the background </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Development:</strong> </p><p class=\"bb_paragraph\" >Our main goal is to continue adding updates and features based on the community feedback. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Please Join our growing community of artists and creators and  let us know what would you like to see implemented in future updates!</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>FAQ:</strong> </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: I'm having trouble using the app in the background on Mac</i> </p><p class=\"bb_paragraph\" >A: Make sure to give proper permissions on your Mac right after installation when prompted. Go to Privacy &amp; Security &gt; Accessibility &gt; Add VHand and enable it. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I add the vHand app in OBS?</i> </p><p class=\"bb_paragraph\" >A: For Windows users : Add Game Capture Source &gt; Under Mode : Select Capture Specific Window, Under Window: Select vHand, Under Window Match Priority: Select Window title must match &gt; Enable Allow Transparency. For Mac users : Add MacOS Screen Capture &gt; Under Method: Select Window Capture, Under Window: Select vHand &gt; Add Chroma Key Filter to your Capture and set the key colour Type to Green. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Tip :</strong> In order to make the pen tip match with your PC cursor : First create a Group in OBS, then add your vHand source + your drawing program source inside the same group. Finally, change the size of the group or move it around to keep both cursors aligned in your streams.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I customize my hand?</i> </p><p class=\"bb_paragraph\" >A: After hitting Start and selecting your Preset, hit ESC on your keyboard to make the customization overlay appear, hit ESC again to hide it.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: Where can I add my own art into the app?</i> </p><p class=\"bb_paragraph\" >A: In future updates, we will add mod support to the app and we will share more information on how to do that.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/header.jpg?t=1769318493",
+    "developers": [
+      "2w Computer Systems"
+    ],
+    "publishers": [
+      "2w Computer Systems"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5200,
+      "final": 5200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 52.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 18 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

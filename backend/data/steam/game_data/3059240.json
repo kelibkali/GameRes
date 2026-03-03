@@ -1,0 +1,114 @@
+{
+  "3059240": {
+    "name": "Space Shooter",
+    "steam_appid": 3059240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059240/extras/3e40ee0bca3adae7cdb54ef79b87068a.avif?t=1732708727\" width=616 height=205 /></span></p><h2 class=\"bb_tag\" >Welcome aboard!</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Here, we gain points by destroying meteors. Some are big, some are small. Try your best to destroy as many as you can and avoid destroying our ship! This is a wave-type game, where the more you play, the more difficult the game becomes!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059240/extras/a303d1691066547360ae117f44d0c217.avif?t=1732708727\" width=616 height=205 /></span></p><h2 class=\"bb_tag\" >Scoreboard</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There is a scoreboard where you can beat your own score or, if you're as good as you think, try to get the TOP 1 spot! The hardest thing is to maintain the TOP 1 spot, so be careful and pay attention to not fall down the ranks!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059240/extras/3af49e23191d4bffad83954a5af7ac1b.avif?t=1732708727\" width=616 height=205 /></span></p><h2 class=\"bb_tag\" >Power-Ups</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game has some power-ups that have a chance to spawn randomly every time you pass a wave. Discover them all! (It took a long time to make them...)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059240/extras/81e3be58f23460565a080ea5f4b22fff.avif?t=1732708727\" width=616 height=205 /></span></p><h2 class=\"bb_tag\" >Planned Updates<br>  </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Events </p></li><li><p class=\"bb_paragraph\" > More Languages </p></li><li><p class=\"bb_paragraph\" > Game Feel - In Development </p></li><li><p class=\"bb_paragraph\" > Mobile Release</p></li></ul>",
+    "supported_languages": "英语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059240/header.jpg?t=1732708727",
+    "developers": [
+      "DaniNocchi"
+    ],
+    "publishers": [
+      "DaniNocchi Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Easter Egg!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/cb8c818643e89c2c1c86547a8f017bd7acd8839b.jpg"
+        },
+        {
+          "name": "500 Points!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/4ab649b930f4896a2967a802e8256e0976e539ac.jpg"
+        },
+        {
+          "name": "1000 Points!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/73727fcd9ac73ccf33a8397e71765ba305ed5d0e.jpg"
+        },
+        {
+          "name": "2500 Points!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/ae6f9b99f8e4549b95e2081b88ff08443bbfa128.jpg"
+        },
+        {
+          "name": "5000 Points!!!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/85d3b90b1f1ff636b182711fd3d32ff3cbcdd4c1.jpg"
+        },
+        {
+          "name": "Dammit",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/ba45fcf40eeedffc5bf2d9037652396f47644a19.jpg"
+        },
+        {
+          "name": "DAMMIT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/1e62872b8a7ff9bd23ad2a612b23b6deb66e131a.jpg"
+        },
+        {
+          "name": "HOLY SHOOT",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/36290e6e00c72353b56fe2cdf348a084324547cf.jpg"
+        },
+        {
+          "name": "WHY AM I SO BAD AT THIS",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/ae2232f63159ce1a15dcd6287bc8e0034a68593d.jpg"
+        },
+        {
+          "name": "GL- I- I- IT- CH",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3059240/fa657a90e13e21a1bf2588f48bb4c574d3da9020.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

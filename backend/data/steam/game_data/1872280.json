@@ -1,0 +1,62 @@
+{
+  "1872280": {
+    "name": "Physics of life simulator",
+    "steam_appid": 1872280,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一个通过简单的物理规则，模拟生命形成的简单模拟器。</p><p class=\"bb_paragraph\" >在这里，你可以定义不同的带有物理属性的球，让他们之间互相影响，然后形成类似生命的东西。</p><p class=\"bb_paragraph\" >在这里，你可以创建任意个不同属性的球，并且可以单独设置每个球的属性。</p><p class=\"bb_paragraph\" >比如，颜色，引力，斥力，是否具有弹性，力是否衰减，引力的最大半径，最小半径，球的重量等等。</p><p class=\"bb_paragraph\" >你还可以为每个球设置是否吸引或排斥自己，以及所吸引的所有的球，和所排斥的所有的球。</p><p class=\"bb_paragraph\" >如果你想更改已经创建的球的属性，只需要点击对应的球，之后就可以在弹出的菜单内修改球的属性。</p><p class=\"bb_paragraph\" >接下来，你只需要输入每个球的数量，以及本次模拟所需要的球的种类，就开始开始本次模拟。</p><p class=\"bb_paragraph\" >如果你想，你还可以进行以下设置：</p><p class=\"bb_paragraph\" >（fixed width） 如果勾选，代表固定宽度，宽度就是 （width ball number） 所设置的数字，如果不勾选，所有的球，在开始模拟时，会在一个正方形的方阵内诞生。</p><p class=\"bb_paragraph\" >你还可以设置每个球之间的间隔，以及本次模拟的场地的大小。也就是更改(Box Size)的数字，这个数字代表本次模拟的球所诞生的方阵的宽度的倍数。</p><p class=\"bb_paragraph\" >设置完成后，点击（play）即可开始模拟。</p><p class=\"bb_paragraph\" >接下来，所有的球，都会根据自己的规则自动运行。你甚至可以看见一些类似细胞，或者类似生命的东西。</p><p class=\"bb_paragraph\" >此时用鼠标左键点击模拟场景，就会在模拟场景内创建一个和游戏UI右侧一样的球，如果点击在生命物体的前面，你可能就会观察到类似生命的捕食行为。</p><p class=\"bb_paragraph\" >如果你想更换鼠标点击后所创建的球，只需要点击游戏右侧的球状UI即可，接下来会弹出一个列表，点击一个球，然后点击close即可。</p><p class=\"bb_paragraph\" >在模拟进行的时候，你还可以通过滚轮鼠标的滚轮来缩放相机视角的大小，也就是可以通过滚轮鼠标的滚轮来控制你看见的球的大小。</p><p class=\"bb_paragraph\" >你还可以通过按住鼠标左键，并且拖动鼠标的方式，移动相机的位置。</p><p class=\"bb_paragraph\" >！！！如果你想重新开始一次模拟，只需要点击设置按钮，点击Play即可！！！</p>",
+    "supported_languages": "英语, 法语, 德语, 俄语, 日语, 简体中文, 繁体中文, 阿拉伯语, 韩语, 印地语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872280/5a52f87cac5f38432f6079aa8fc8f09e5f19ac2c/header.jpg?t=1746955812",
+    "developers": [
+      "QIPAWORLD"
+    ],
+    "publishers": [
+      "QIPAWORLD"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 5 月 1 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

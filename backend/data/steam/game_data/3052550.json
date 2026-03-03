@@ -1,0 +1,110 @@
+{
+  "3052550": {
+    "name": "忍者疾风 HD Remaster",
+    "steam_appid": 3052550,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Taito 的第一款令人难忘的激光光盘动画游戏于 1984 年发布。<br>HD还针对移植版对视频进行了重新制作。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052550/extras/d2633739589f7bfd1212ac7d720b6d3b.poster.avif?t=1744248030\" width=612 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052550/extras/d2633739589f7bfd1212ac7d720b6d3b.webm?t=1744248030\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052550/extras/d2633739589f7bfd1212ac7d720b6d3b.mp4?t=1744248030\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >故事</h2>公主被邪恶的忍者军队绑架了。旋风听到这个消息，只身潜入邪恶忍者军的城堡去拯救公主。那里布满了无数的陷阱，忍者军团的一连串猛烈攻击，还有嗜血的怪物等待着他们。<h2 class=\"bb_tag\" >什么是LD（激光影碟）游戏？</h2>1980年代中期可在游戏中心游玩的一种游戏类型。 影像的部分是通过使用影盘中的激光影碟来播放，达到可长时间显示实物或动画的效果。 特色是可以呈现既精细又漂亮的影像。 实现了在当时的电玩游戏中无法达成的显示技术。<br>游戏的进展取决于玩家是否能在特定场景中，根据屏幕上显示的指示采取正确的行动。<br>如果输入错误指令，就会切换到失败的图像。 当失误达一定次数后，游戏就会结束。<h2 class=\"bb_tag\" >CONFIG说明</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052550/extras/b7007090c32d840c1276ddfb4fc6300c.avif?t=1744248030\" width=612 height=343 /></span><br>・PLAYER<br>　每回合被赋予的生命值<br>・LEVEL　<br>　游戏难易度<br>・ST-ORDER<br>　更改阶段的出现顺序<br>　【ARCADE】基本选择逻辑。有些是随机出现的<br>　【RANDOM-ALL】除最后 3 个阶段外，所有阶段完全随机出现<br>　【LD-PATTERN】所有 19 个阶段均按固定顺序出现<br>　【AC-PATTERN01～14】第 10 至 11 阶段各以不同的固定顺序出现<br>・SIGN<br>　您可以更改输入命令时的显示<br>　【DUAL】所有标志均已显示<br>　【ARROW】不显示地形标志，仅显示按钮和箭头<br>　【ACTION】仅显示地形标志，不显示按钮和箭头<br>　【OFF】不显示全部<br>・OPENING<br>・LANGUAGE<br>　您可以选择游戏中显示的语言<br>・DISPLAY<br>　您可以选择屏幕尺寸<br>・EXTEND<br>　开启后，每获得一定的分数，您的生命值就会增加<br>・3-MISS<br>　当设置为ON时，每犯一定数量的错误，难度就会降低<br>・CONTINUE<br>　开启后，当游戏结束时，您可以接关<br>・RANKING<br>　按 RESET 将删除已存储的排名数据",
+    "supported_languages": "英语, 简体中文, 繁体中文, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3052550/c77fc83f0d92aa0f381ceecd4dfef9acecda9cbe/header_schinese.jpg?t=1744248030",
+    "developers": [
+      "TAITO CORP."
+    ],
+    "publishers": [
+      "TAITO CORP."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 9200,
+      "final": 9200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 92.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 4 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "忍者疾风大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/a58411c324a0d7e01f7e92d1372757f6b08f6aea.jpg"
+        },
+        {
+          "name": "剧场通关",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/d6e4f7220d7418f5aacf4998b6edb79309f74d97.jpg"
+        },
+        {
+          "name": "完美忍者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/64c83b713fa5edf01198d68f19c352b2f29653d5.jpg"
+        },
+        {
+          "name": "排名第一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/75871cff3f1c0be8769ad76891a9df469fe841c1.jpg"
+        },
+        {
+          "name": "LD模式",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/9091b8cc2a9982e745772224b504b17c50ea653c.jpg"
+        },
+        {
+          "name": "百炼成钢",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/bd58e3f09fcd13ae667d9b8e716955036855dbb2.jpg"
+        },
+        {
+          "name": "千里之行始于足下",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/16c38fb388f5daa37ab58cf5e7f8146049ed3092.jpg"
+        },
+        {
+          "name": "三分之一",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/eb5ef0bac26753b603b1524b40ce55ffbe16ed28.jpg"
+        },
+        {
+          "name": "继续任务",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/45dcb0dd7a3a0f5c00e002743616dd4f13724594.jpg"
+        },
+        {
+          "name": "任务完成",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3052550/5b2e53c2c2bbb3626e394004229312bf42da8fd3.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

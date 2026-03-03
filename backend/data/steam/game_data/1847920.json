@@ -1,0 +1,63 @@
+{
+  "1847920": {
+    "name": "Shrumblo and the Magical Grumblo",
+    "steam_appid": 1847920,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Survive for as long as you can while playing as the blue robot Shrumblo! The objective of this game is to lure Grumblo, the red demon, into several moving spikes which temporarily stuns him, and also earns you a point. Survive for as long as you can and earn a high score! By earning a high score you can earn more trophies as you progress. There are two sets of trophies, one for the main mode where you are pursued by only one enemy, and another set for the Double Grumblo Madness mode, where two enemies will pursue you at once. <br><br>This game tries to invoke the feeling of classic arcade games that are easy to understand, hard to master, and enjoyable in short bursts. I hope you have fun!<br><br><strong>List of features:</strong><br>1. An intro cutscene explaining the plot of the game<br>2. A high score feature to track your progression.<br>3. Trophies you unlock by getting higher scores over time.<br>4. A base game mode where you are chased by Grumblo (the red circle looking fellow) and lure him into moving spikes to earn points. This can be seen in more detail in the trailer on this page. <br>5. A bonus game mode where there are two Grumblos chasing after you.<br><br><strong>List of mechanics:</strong><br><br>1. You can of course use the WASD keys to move<br>2. Use the shift key to turn on Shrumblo's jet boots to move faster. The meter for this will deplete the longer you use it, but will recharge over time.<br>3. If Shrumblo is close to Grumblo the dash meter will recharge faster.<br>4. If Shrumblo is touched by the spikes or Grumblo the game will end, and if you got a high score it will be saved.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1847920/header.jpg?t=1640899006",
+    "developers": [
+      "Squidnow",
+      "Ooftroop"
+    ],
+    "publishers": [
+      "Squidnow"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

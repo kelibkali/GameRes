@@ -1,0 +1,79 @@
+{
+  "3140260": {
+    "name": "引.故事",
+    "steam_appid": 3140260,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >引.故事 是一款<strong>非线性故事编辑器</strong>，专为创作者打造多线交织的互动影游或视觉小说。通过直观的树形可视化编辑、实时热更新与全平台适配能力，助您如“穿针引线”般自由设计分支剧情，并支持玩家通过网页和 <strong>Steam 创意工坊</strong>无缝探索您的故事世界。</p><h2 class=\"bb_tag\" >特性</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>可视化编辑器 - </strong>故事结构采用类似脑图的树形结构进行构建，通过连线表示故事脉络，使多线故事一目了然</p></li><li><p class=\"bb_paragraph\" ><strong>热更新 - </strong>在编辑器中进行的每一步操作都将实时映射在故事中，及时刷新，操作无缝衔接</p></li><li><p class=\"bb_paragraph\" ><strong>支持脚本 - </strong>故事内的逻辑可通过脚本添加，数据面向对象并进行热同步</p></li><li><p class=\"bb_paragraph\" ><strong>服务器模式 - </strong>客户端以服务器模式运行，您可以在任何能访问的设备上登录，实现 [ 远程畅玩 ]</p></li><li><p class=\"bb_paragraph\" ><strong>全设备支持 - </strong>故事通过网页加载，支持所有可运行浏览器的设备，并针对移动端设备进行优化</p></li><li><p class=\"bb_paragraph\" ><strong>多用户账号 - </strong>好友可注册账号来体验您的故事，隐私隔离，避免存档被污染</p></li><li><p class=\"bb_paragraph\" ><strong>手柄友好 - </strong>客户端和网页内故事均支持手柄操作，随时随地，各种姿势，用大屏体验多线故事</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >已支持场景</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>基础场景</strong> - 播放一段视频、图片或音频。</p></li><li><p class=\"bb_paragraph\" ><strong>文本场景</strong> - 文字滚屏播放。</p></li><li><p class=\"bb_paragraph\" ><strong>通讯场景</strong> - 模拟社交软件聊天界面。</p></li><li><p class=\"bb_paragraph\" ><strong>对话场景</strong> - 视觉小说经典逐句交流对话框。</p></li><li><p class=\"bb_paragraph\" ><strong>场景组</strong> - 组合除场景组外的多种场景。</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >持久更新</h2><p class=\"bb_paragraph\" >MacOS，Linux 版正在开发中。</p>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3140260/01660229d6fcc8b4c0cd0051940b7a815731c93e/header_schinese.jpg?t=1762948881",
+    "developers": [
+      "引.Object"
+    ],
+    "publishers": [
+      "引.Object"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 30,
+        "description": "Steam 创意工坊"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 74,
+        "description": "无需应对快速反应事件"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 69,
+        "description": "立体声"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 61,
+        "description": "可用 HDR"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

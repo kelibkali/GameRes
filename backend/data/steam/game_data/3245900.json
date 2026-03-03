@@ -1,0 +1,75 @@
+{
+  "3245900": {
+    "name": "扑克牌对决",
+    "steam_appid": 3245900,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这个游戏的背景：</p><p class=\"bb_paragraph\" >这个游戏的玩法源自一个中国的寓言故事《田忌赛马》，这个故事大致讲的是双方各自有三匹马参与赛马比赛，一共比三局，每局上一匹马，三局两胜制。其中马匹分为上等马，中等马，下等马。合理安排不同等级的马匹出战顺序会影响到最终的输赢。</p><p class=\"bb_paragraph\" >这个游戏的玩法：</p><p class=\"bb_paragraph\" >核心玩法就是比较扑克牌牌面数值的大小。</p><p class=\"bb_paragraph\" >1.取一副普通的一共54张扑克牌，洗牌后分成2份，敌我双方个选择一份。</p><p class=\"bb_paragraph\" >2.大回合开始，双方一次性抽取牌堆最上方3张扑克牌，进入小回合。</p><p class=\"bb_paragraph\" >3.扑克牌出击，根据牌面大小每个小回合打出一张牌。</p><p class=\"bb_paragraph\" >4.双方2张牌在场地上时进行对抗，对抗后生命值改变，初始双方生命值均为100。</p><p class=\"bb_paragraph\" >5.生命值为0后，结束游戏，进行奖励结算和评级。还存在其他结束条件（小概率发生）。</p><p class=\"bb_paragraph\" >6.筹码币技能，筹码技能一共包含了8种技能，你可以在游玩的过程中慢慢体验。</p><p class=\"bb_paragraph\" >7.获得的EXP可以兑换一些游戏详细规则说明和一些奇特的召唤物等。</p><p class=\"bb_paragraph\" >这个游戏的其他说明：</p><p class=\"bb_paragraph\" >1.这个游戏是单人游戏，对手只能是电脑。</p><p class=\"bb_paragraph\" >2.游戏中存在许多随机行为，但随机行为有一定的限制。电脑的某些随机行为有一定的规律可循。</p><p class=\"bb_paragraph\" >3.这个游戏的每一局游戏时长估计在10分钟以内。</p><p class=\"bb_paragraph\" >4.这个游戏不是闯关游戏，这意味着如果你拥有了它，你能快速体验它的所有内容。没有耐心玩完，让它压箱底或者吃灰的情况是完全不存在的。并且扑克牌的组合，技能的组合，出牌的顺序都有无数种可能性，这也意味着每一局的体验都会有所不同。</p><p class=\"bb_paragraph\" >5.这个游戏是最直接的“运气加技术”游戏。我一直在调整运气和技术的占比，确实需要并且我也做了一定的手段去平衡它们。</p><p class=\"bb_paragraph\" >6.这个游戏你完全可以体验到碾压对手，被对手秒杀，逆风翻盘，或是顺势下被翻盘的每一种感受，这种久违的刺激感真让人兴奋！</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 俄语<strong>*</strong>, 日语<strong>*</strong>, 波兰语<strong>*</strong>, 泰语<strong>*</strong>, 简体中文<strong>*</strong>, 荷兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 韩语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245900/header.jpg?t=1728803814",
+    "developers": [
+      "LB",
+      "LB"
+    ],
+    "publishers": [
+      "LB"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 900,
+      "final": 900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

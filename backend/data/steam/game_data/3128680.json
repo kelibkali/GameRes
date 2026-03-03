@@ -1,0 +1,82 @@
+{
+  "3128680": {
+    "name": "Spearrowblade",
+    "steam_appid": 3128680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Spearrowblade</strong><br>一款充满秘密、宿敌与致命刀锋的史诗级2D动作冒险游戏。</p><p class=\"bb_paragraph\" >进入 <i>Spearrowblade</i> 那个黑暗又美丽的手绘世界。在这款类银河战士恶魔城游戏中，你的武器决定你的命运。选择剑、长矛或弓箭——每种武器都有独特的战斗风格与特殊技能，面对充满古老秘密、奇异生物和神秘传说的危险世界。</p><p class=\"bb_paragraph\" >探索复杂区域，发现被遗弃的村庄，帮助个性十足的NPC，或对抗你有着自己目标的强大宿敌。每扇门后都隐藏着谜题——或致命敌人。</p><p class=\"bb_paragraph\" ><strong>准备好用利刃刻下你的命运了吗？</strong><br>选择你的武器，踏上你的旅程——揭开 <i>Spearrowblade</i> 地下隐藏的真相。</p>",
+    "supported_languages": "英语, 德语, 西班牙语 - 西班牙, 简体中文, 西班牙语 - 拉丁美洲, 土耳其语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128680/941fb3c9f03cff968f55b681d106fde81cc8bd1e/header.jpg?t=1763302143",
+    "developers": [
+      "ALICE-PROJECT"
+    ],
+    "publishers": [
+      "ALICE-PROJECT"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 11 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 68,
+        "description": "自定义音量控制"
+      },
+      {
+        "id": 75,
+        "description": "可以仅用键盘"
+      },
+      {
+        "id": 76,
+        "description": "可以仅用鼠标"
+      },
+      {
+        "id": 79,
+        "description": "随时保存"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

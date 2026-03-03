@@ -1,0 +1,66 @@
+{
+  "3250240": {
+    "name": "Dimensions of Subconsciousness",
+    "steam_appid": 3250240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This is an adventure game with dialog and multiple endings.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Hero is a manager at work and has character flaws.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >During an after work party, his colleges start to blame him for his flaws.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Blinded by anger for a shown disrespect for him,</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Hero trips over and falls down the stairs, leading to the loss of consciousness.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >You end up in the underworld which is being projected by your subconscious mind.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >In there you will meet a guide, which is going to help you to resolve your character flaws.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Explore 14 different levels, which each of them symbolically represents your character flaws.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >In each of them you will find multiple guides.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Answer guides questions correctly and you will come back from coma to life.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Answer incorrectly and you will not return to the realm of the living for this lifetime.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Game was made with Unreal Engine 5.3.2 using DirectX 12 with raytracing enabled in engine by default. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Game was made with a controller in mind, but it works with keyboard and mouse also.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game has intentional humor.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Game has options, auto and manual save game feature.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >If you want to use Lossless Scaling frame generation then during the game press on keyboard F11 to enter bordered mode, then on Lossless Scaling turn on scaling mode to get to scaled bordereless fullscreen and then choose your preferred frame generation. Otherwise there might be no sound in game. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Known bug! If you want to reload a previous save, you have to exit game completely and restart it. Trying to reload within games main menu might give a bug, by which game might not load correctly. If this happens do not save your game as that might corrupt the save game file, simply exit game and after restarting it that resets the issue. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Know bug! Inventory journal entries slider is not working with controller, so either use mouse wheel or move down with joystick to see descriptions, but not position in journal.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250240/header.jpg?t=1739823275",
+    "developers": [
+      "Don Dao VGS"
+    ],
+    "publishers": [
+      "Don Dao VGS"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 16 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

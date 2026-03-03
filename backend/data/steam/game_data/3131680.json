@@ -1,0 +1,123 @@
+{
+  "3131680": {
+    "name": "Stardust Skate",
+    "steam_appid": 3131680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/extras/e81319ac0b6612db03fa43b12adf07d5.poster.avif?t=1744061040\" width=800 height=374 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/extras/e81319ac0b6612db03fa43b12adf07d5.webm?t=1744061040\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/extras/e81319ac0b6612db03fa43b12adf07d5.mp4?t=1744061040\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Blitz</strong> through <i>Stardust Valley</i>, experiencing everything from the spooky forest of <i>Blackthorn Mire</i> to the sunny sands of <i>Beachwood</i> -- and more! Perform <strong>sick tricks</strong> and skillful maneuvers to earn currency to unlock new boards. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/extras/0529d99cf1c3d71c0fada684558d46b0.avif?t=1744061040\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/extras_big/0529d99cf1c3d71c0fada684558d46b0.avif?t=1744061040 width=800 height=254 /></span></p><h2 class=\"bb_tag\" ><strong>Unique Skating Styles</strong></h2><p class=\"bb_paragraph\" >Pick from 4 different skaters of <i>VchiBan</i> with their own unique powers and abilities to find the shredding style that grooves with you~!</p><h2 class=\"bb_tag\" ><strong>Features:</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >90s inspired visuals</p></li><li><p class=\"bb_paragraph\" >Arcade style endless runner </p></li><li><p class=\"bb_paragraph\" >Original soundtrack </p></li><li><p class=\"bb_paragraph\" >40+ unique boards to unlock</p></li><li><p class=\"bb_paragraph\" >Steam leaderboards</p></li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131680/header.jpg?t=1744061040",
+    "developers": [
+      "VchiBan",
+      "Aetha"
+    ],
+    "publishers": [
+      "VchiBan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 3 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "Big Score!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/d14c6edb9ec16aeae00616843ae8b56c6c030c4b.jpg"
+        },
+        {
+          "name": "First Board",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/16213e6f19edef4d7a33dc0ed3ec4f66dc41ec1f.jpg"
+        },
+        {
+          "name": "All Boards",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/d1fe7b8baa068e96bd2825be5a32b465532a8787.jpg"
+        },
+        {
+          "name": "Tutorial DONE",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/6cb020511d4670819d45c59e0bc15ee193edbeb9.jpg"
+        },
+        {
+          "name": "Stardust City",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/fc9a602ca784eee5dde99786ac2c65bb9dfd6d15.jpg"
+        },
+        {
+          "name": "Beachwood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/79b2d05b34808f7880742334bc70b43a38d3a953.jpg"
+        },
+        {
+          "name": "Mourningwood",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/2fdf96771e39a5e03e2d2f14cae92355649be266.jpg"
+        },
+        {
+          "name": "Blackthorn Mire",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/3b06bcf20f690f52a428486a450458d837161b92.jpg"
+        },
+        {
+          "name": "Upskirt",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/2090730756cae871c03dd8bcd47df7cd9f7e724a.jpg"
+        },
+        {
+          "name": "Ouch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3131680/bdaf9c6a135b335a89715516535a133bfff1590f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "3229300": {
+    "name": "一触即发",
+    "steam_appid": 3229300,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >这是一个小游戏合集,包括滑块拼图,消消乐,打地鼠.没有关卡,可以根据不同难度竞分.</p><p class=\"bb_paragraph\" >滑块拼图玩法:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>游戏组成</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >滑块拼图由一个框架和若干个可以在框架内滑动的方块（或称为“滑块”）组成。</p></li><li><p class=\"bb_paragraph\" >这些滑块通常被设计成相同的大小和形状，但可能具有不同的图案或颜色以区分。</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>游戏目标</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >玩家的目标是通过滑动这些滑块，将它们移动到预设的正确位置，以恢复一个完整的图像或达到特定的排列。</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>移动规则</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >滑块只能沿着框架的格线进行滑动。</p></li><li><p class=\"bb_paragraph\" >每次只能移动一个滑块，且该滑块必须沿着空闲的格线滑动到相邻的位置。</p></li><li><p class=\"bb_paragraph\" >在某些滑块拼图中，会有一个或多个空位（没有滑块的格子），滑块可以滑动到这个空位上。</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>胜利条件</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >当所有滑块都被移动到预设的正确位置时，游戏即告胜利。</p></li><li><p class=\"bb_paragraph\" >这通常意味着滑块拼图上的图像已经完全恢复或滑块已经达到了特定的排列顺序。 </p></li></ul></li></ul><p class=\"bb_paragraph\" >消消乐玩法:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>消除目标</strong>：游戏的主要目标是消除尽可能多的相同元素，以达到高积分。</p></li><li><p class=\"bb_paragraph\" ><strong>消除方式</strong>：玩家需要将三个或以上相同颜色的元素连接起来进行消除。这些元素可以是几何图形。</p></li><li><p class=\"bb_paragraph\" ><strong>特殊元素</strong>：游戏中包含一些特殊元素，它们具有特殊的功能，如直线特效、爆炸特效等。这些特殊元素可以一次性消除一片区域内的元素，为玩家提供更多组合和消除的可能性。</p></li></ul><p class=\"bb_paragraph\" >打地鼠玩法:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>游戏开始与结束</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >游戏开始后，地鼠会从预设的洞口中随机出现。</p></li><li><p class=\"bb_paragraph\" >游戏时间为60秒,无限模式为30秒(且集中会加一秒的时间)，时间结束后游戏自动结束。</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>游戏操作</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >玩家需要使用鼠标点击或触屏点击来击中出现的地鼠。</p></li><li><p class=\"bb_paragraph\" >击中地鼠后，玩家会获得相应的分数。</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>游戏难度变化</strong>：</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >随着游戏时间的推移和玩家得分的增加，地鼠出现的频率会逐渐加快，数量也会增多。</p></li><li><p class=\"bb_paragraph\" >这要求玩家具备更快的反应速度和更高的准确性。</p></li></ul></li></ul>",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3229300/header.jpg?t=1729482723",
+    "developers": [
+      "FuQianDeBiFang"
+    ],
+    "publishers": [
+      "FuQianDeBiFang"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 3,
+      "highlighted": [
+        {
+          "name": "最佳思维",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3229300/282d119c2bc31061377287e3c2c067823d169b61.jpg"
+        },
+        {
+          "name": "最佳运营",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3229300/92f8be2aecca042021afa175a210c5ca4a52a69a.jpg"
+        },
+        {
+          "name": "最佳反应",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3229300/90574119211bf7d6e34bde3e7768703dc971726e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

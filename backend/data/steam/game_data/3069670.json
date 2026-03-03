@@ -1,0 +1,80 @@
+{
+  "3069670": {
+    "name": "Sovereign Elect - Necromancer Pack",
+    "steam_appid": 3069670,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069670/extras/bab3e4ace31820a0e1b9af4848d81d44.poster.avif?t=1721634345\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069670/extras/bab3e4ace31820a0e1b9af4848d81d44.webm?t=1721634345\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069670/extras/bab3e4ace31820a0e1b9af4848d81d44.mp4?t=1721634345\" type=\"video/mp4\"></video></span><br><br>死灵法师将起死回生。“复活”能力，虽然不是独特的能力，但对没有牧师的玩家来说是非常有帮助的。顾名思义，“复活”会恢复倒下雇佣兵的生命值。死灵法师还有第二个能力，“亡灵之手”，它会召唤一只污秽的手套来收集功勋和攻击敌人。当死灵法师升华后，每次收集的徽章都有可能被复制。<br><br><u>基础属性</u><br><ul class=\"bb_ul\"><li> 生命值: 10<br></li><li> 能量: 14<br></li><li> 攻击力: 2<br></li><li> 收集金额: 24<br></li><li> 转换金额: 280</li></ul><u>升华队伍增益</u><br><ul class=\"bb_ul\"><li> + 1% 徽章复制几率</li></ul><u>复活</u><br><ul class=\"bb_ul\"><li> 复活一个倒下的雇佣兵，恢复其一半的生命值。额外的生命值取决于雇佣兵的等级。</li></ul><u>亡灵之手</u><br><ul class=\"bb_ul\"><li> 召唤一只污秽的手套，帮助收集功勋并与敌人战斗。</li></ul>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069670/header_schinese.jpg?t=1721634345",
+    "developers": [
+      "iBlackpen"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

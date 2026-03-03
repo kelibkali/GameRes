@@ -1,0 +1,58 @@
+{
+  "3301480": {
+    "name": "Mortality",
+    "steam_appid": 3301480,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >This game takes place against a pure white background, with black columns positioned at the top and bottom, creating a simple yet challenging environment. Players use the space bar to control a white block, aiming to jump as long as possible between the narrow spaces formed by the upper and lower columns without touching any of them. The operation is straightforward, but achieving a high score requires quick reflexes and precise judgment. Each time the white block successfully passes a pair of columns, the player’s score increases, accompanied by a crisp sound effect that adds to the game's enjoyment. As the game progresses, the distance between the columns becomes tighter, increasing the difficulty. The game's interface is clean and crisp, with a light yet tense background melody, making it perfect for players seeking a brief relaxation while also challenging themselves.</p>",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301480/header.jpg?t=1731151224",
+    "developers": [
+      "臻新"
+    ],
+    "publishers": [
+      "臻新"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 23800,
+      "final": 23800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 238.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 9 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

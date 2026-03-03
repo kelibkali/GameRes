@@ -1,0 +1,59 @@
+{
+  "1873300": {
+    "name": "Gyelfars",
+    "steam_appid": 1873300,
+    "required_age": 0,
+    "is_free": true,
+    "description": "Gyelfars is a turn-based tactics game with resource management.<h2 class=\"bb_tag\" >Narrative</h2>Cleanse the lands of a strange corruption.<h2 class=\"bb_tag\" >The Game</h2>Effeciently defeat enemies by taking advantage of your unit's strengths, terrain and equipment effects. Use the stance system to eliminate random chance in battle, but at a price. <br><br><br>Battle damage is persistent across maps. Your units and resources are finite. You'll have to live with the results of the decisions you make at the beginning.<h2 class=\"bb_tag\" >The Stance System</h2>The stance system can be used to change the odds of a situation and address frustration born of random hit chances, but with a penalty. There are 3 stances:<br><br><br><strong>Cautious stance</strong><ul class=\"bb_ul\"><li>Unit evasion percentage is it's chance to evade damage</li></ul><strong>Reckless stance</strong><ul class=\"bb_ul\"><li>Target's evasion percentage is now attack damage reduction<br></li><li>Unit cannot be evaded<br></li><li>Unit cannot evade<br></li><li>Unit takes more damage</li></ul><strong>Defender stance</strong><ul class=\"bb_ul\"><li>Unit takes damage to energy points before hit points<br></li><li>Unit cannot evade<br></li><li>Unit cannot attack<br></li><li>Units cannot attack or restore without energy points</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873300/header.jpg?t=1748998365",
+    "developers": [
+      "Setso Botswana Pty Ltd"
+    ],
+    "publishers": [
+      "Setso Botswana Pty Ltd"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 8 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

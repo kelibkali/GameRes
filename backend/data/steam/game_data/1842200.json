@@ -1,0 +1,62 @@
+{
+  "1842200": {
+    "name": "jingor mine",
+    "steam_appid": 1842200,
+    "required_age": 0,
+    "is_free": false,
+    "description": "在立方体展开面（智晶面）上玩扫雷!<br />\r\n<br />\r\n智晶扫雷是一款益智游戏，可作为兴趣爱好，可挑战智力，可休闲娱乐。<br />\r\n<br />\r\n当前模式可切换为排雷模式或标雷模式。<br />\r\n<br />\r\n当前模式为排雷模式时：在判断出不是雷的方块上单击鼠标左键，可以打开该方块。如果方块上出现数字，则该数字表示其周围区域中的地雷数（一般为8个格子，对于中块和棱块为8个格子，对于角块为7个格子。所以智晶扫雷中最大的数字为8）；如果方块上为空（相当于0），则可以递归地打开与空相邻的方块；如果不幸触雷，则游戏结束。<br />\r\n<br />\r\n当前模式为标雷模式时：在判断为地雷的方块上单击鼠标左键，可以标记地雷（显示为小红旗），重复一次标记为问号，再重复一次可取消标记（需要两次操作来取消标雷）。<br />\r\n<br />\r\n特别注意的是，智晶面中在棱另一边的雷的情况。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842200/header_schinese.jpg?t=1643474072",
+    "developers": [
+      "ZHANG LIDONG"
+    ],
+    "publishers": [
+      "ZHANG LIDONG"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 9.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

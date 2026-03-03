@@ -1,0 +1,70 @@
+{
+  "3071030": {
+    "name": "HackSlash",
+    "steam_appid": 3071030,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You are a knight of the Order, but you have been sent to a Deadly Arena by an unknown magic, do your best and try to escape.<br />\r\nYou will face endless waves of enemies, including goblins, skeletons and ghosts.<br />\r\nIn addition to the enemies, the Mortal Arena contains mysteries and challenges to be overcome, you must be careful in some environments.<br />\r\nTo help you, you can choose a skill to use in difficult moments and every 2 waves you can improve your statistics.<br />\r\n<br />\r\nCommands;<br />\r\nAttack                                          - Left Click<br />\r\nDefend                                         - Right Click<br />\r\nLock and Unlock Camera            - Mouse Scroll<br />\r\nMove                                           - W,A,S,D<br />\r\nCamera                                       - Mouse<br />\r\nRun                                             - Left Shift<br />\r\nHeal                                            - Q<br />\r\nRoll                                             - Space<br />\r\nUse Skills                                    - E<br />\r\nMenu                                          - Enter",
+    "supported_languages": "英语, 葡萄牙语 - 巴西",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071030/header.jpg?t=1756327307",
+    "developers": [
+      "HasekiCM"
+    ],
+    "publishers": [
+      "HasekiCM"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 4 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

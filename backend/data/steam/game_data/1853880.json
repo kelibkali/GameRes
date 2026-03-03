@@ -1,0 +1,45 @@
+{
+  "1853880": {
+    "name": "Fluid FX",
+    "steam_appid": 1853880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/20917655f06f36a415fbca8d88c74aa5.poster.avif?t=1685351410\" width=504 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/20917655f06f36a415fbca8d88c74aa5.webm?t=1685351410\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/20917655f06f36a415fbca8d88c74aa5.mp4?t=1685351410\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >WHAT IS FLUID FX? </h2>Fluid FX is a tool that relies on a fluid/pressure simulation to achieve different kind of animations like explosions, blood, smoke, dust, magic effects,etc..<br><br>You can easily get cool animations with the included presets, and tweaking their values. After you get the result you want, you can export it directly into a spritesheet and import it into your game.<br><br>This tool is being developed by @CodeManu if you find it useful, have any doubt or just want to say hi, feel free to message me!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/640dc9c8116a176bd3f52c2337f63867.poster.avif?t=1685351410\" width=580 height=222 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/640dc9c8116a176bd3f52c2337f63867.webm?t=1685351410\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/extras/640dc9c8116a176bd3f52c2337f63867.mp4?t=1685351410\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li>Achieve astounding animations with ease.<br></li><li>Modify animations easily by tweaking sliders.<br></li><li>Render the animation and get a .png spritesheet with the animation.<br></li><li>Spritesheets are trimmed and optimized.<br></li><li>Add reference images and get them rendered too.<br></li><li>20+ presets included to get you started.<br></li><li>Export/Import your own presets.<br></li><li>GIF export for preview purposes.<br></li><li>Frameskip option to reduce final spritesheet size.<br></li><li>Supports alpha channel.</li></ul><h2 class=\"bb_tag\" >FLUID FX IS POWERED BY 'FLUID DYNAMICS' BY MYTINO</h2>Fluid Dynamics does all the hard job with fluids and pressure simulation, and you can use it in realtime with an incredible performance (seriously, It's amazing how good it runs). Fluid Dynamics works with GameMaker Studio 1 &amp; 2.<h2 class=\"bb_tag\" >LIMITATIONS</h2><ul class=\"bb_ul\"><li>Saving/Exporting might fail if you don't have permissions. Try running the app as an admin and try to not save on the app's root folder.<br></li><li>Saving/Exporting in the same folder where the app is running doesn't always work.</li></ul>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853880/header.jpg?t=1685351410",
+    "developers": [
+      "CodeManu"
+    ],
+    "publishers": [
+      "CodeManu"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 10 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "51",
+        "description": "动画制作和建模"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

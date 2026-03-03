@@ -1,0 +1,74 @@
+{
+  "3046140": {
+    "name": "Haunted Property",
+    "steam_appid": 3046140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >It is a psychological horror game and walking simulator. Explore a haunted apartment. Monsters jumping towards at your screen.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046140/extras/6ab550dc453ebaa5c71d432ba34219ba.poster.avif?t=1756987739\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046140/extras/6ab550dc453ebaa5c71d432ba34219ba.webm?t=1756987739\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046140/extras/6ab550dc453ebaa5c71d432ba34219ba.mp4?t=1756987739\" type=\"video/mp4\"></video></span></p>",
+    "supported_languages": "英语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046140/header.jpg?t=1756987739",
+    "developers": [
+      "Markus Korda"
+    ],
+    "publishers": [
+      "Markus Korda"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 2,
+      "highlighted": [
+        {
+          "name": "The Final Lease",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046140/2d7829c534f212deedb53a75b9ecba5ca72ee8a3.jpg"
+        },
+        {
+          "name": "TVs",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3046140/b0743e9a1f629e2f7f3d8347f05d2543d82010eb.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

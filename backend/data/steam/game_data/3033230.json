@@ -1,0 +1,114 @@
+{
+  "3033230": {
+    "name": "Bookworm",
+    "steam_appid": 3033230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Bookworm is a typing game where the goal is to score points by completing as many words as possible. The twist is that you can type in any direction you want - even up or down.<br><br>You are the Bookworm with an appetite for the finest words in the fairytale. Crawl from letter to letter in search for quest words to stay <i>golden</i>. While <i>golden</i>, your multiplier increases by covering words. Relax, take your time, but avoid dead ends and climb the leaderboard. <br><br>Each run begins somewhere in the 12 chapters of Lewis Carrolls' <i>Alice’s Adventures in Wonderland</i>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/header.jpg?t=1725729246",
+    "developers": [
+      "Bjørnar Prytz"
+    ],
+    "publishers": [
+      "Marsch pannkaka!"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 15,
+        "description": "统计数据"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 31,
+      "highlighted": [
+        {
+          "name": "First Word",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/652b89d62c128c61bdf41d1ca07c69571c77967f.jpg"
+        },
+        {
+          "name": "100 letters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/bac1719e997177a4fcc5a9e884b30070626634bc.jpg"
+        },
+        {
+          "name": "10 letters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/b869f7aa22e763894c95e163230f25fd2478e715.jpg"
+        },
+        {
+          "name": "500 letters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/0da8d58952434b7550bee8e1686e05ee307df95d.jpg"
+        },
+        {
+          "name": "1000 letters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/15d405f1a052d3f6f6378621d37eb673180d51e3.jpg"
+        },
+        {
+          "name": "10k letters",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/f0dcc679aa77fd3c1505bd83197edf16fb66c1ed.jpg"
+        },
+        {
+          "name": "First Quest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/40a929b73cb7606653f47f4e01915de8cbb17ca0.jpg"
+        },
+        {
+          "name": "5 Quests",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/cd5e9cdcca10af50e87b43c1bdb6815d7a719f32.jpg"
+        },
+        {
+          "name": "10 Quests",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/12e0e934c4a66e12a82f3949ae7eea864dd625cd.jpg"
+        },
+        {
+          "name": "20 Quests",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3033230/a72d74760dabcb408958adcd9e90f93b7dc8b61c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

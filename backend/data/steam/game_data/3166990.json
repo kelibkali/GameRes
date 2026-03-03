@@ -1,0 +1,74 @@
+{
+  "3166990": {
+    "name": "AnglingTimes",
+    "steam_appid": 3166990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >  AnglingTimes是一款休闲VR钓鱼游戏，需要使用Quest2或者Quest3进行体验。玩家进入场景之后，游戏会模拟真实钓鱼，让玩家可以安静的享受禅意的等待鱼上钩的同时，极大的放松自己。在鱼上钩的瞬间玩家肾上腺素快速分泌，玩家与鱼进行紧张的搏斗，当玩家成功捕获到鱼之后的喜悦心情。</p>",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3166990/header.jpg?t=1758875959",
+    "developers": [
+      "上海五色鲲科技有限公司"
+    ],
+    "publishers": [
+      "上海五色鲲科技有限公司"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 54,
+        "description": "VR 独占"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 15,
+      "total_negative": 1,
+      "total_reviews": 16
+    },
+    "type": "game"
+  }
+}

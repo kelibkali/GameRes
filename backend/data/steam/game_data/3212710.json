@@ -1,0 +1,70 @@
+{
+  "3212710": {
+    "name": "抢单王",
+    "steam_appid": 3212710,
+    "required_age": 0,
+    "is_free": false,
+    "description": "游戏的故事背景是为了实现环球旅行的梦想。通过送外卖赚钱购买环球旅行的船票。在实现梦想的过程中，会遇到各种艰难险阻。比如在送外卖的过程中可能会撞到行人或者被车撞到，这样一天都白干了。还有同行之间的竞争，大家都是为了争夺单王获得丰厚的奖励。游戏中提供了各种交通工具进行送外卖，甚至包括了装甲车。<br />\r\n在送外卖途中如果闯红灯或者超速，都会触发警察的追捕，如果成功逃脱警察的追捕，也能获得一定的奖励。游戏中还可以通过购买彩票或者做一些助人为乐的事情获得奖励。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 日语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212710/header_schinese.jpg?t=1727344930",
+    "developers": [
+      "zjf"
+    ],
+    "publishers": [
+      "zjf"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "9",
+        "description": "竞速"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

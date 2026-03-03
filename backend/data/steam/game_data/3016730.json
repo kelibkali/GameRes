@@ -1,0 +1,82 @@
+{
+  "3016730": {
+    "name": "Memo Blox",
+    "steam_appid": 3016730,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016730/extras/08f0e2f29f89c1de67f708812b7d5e81.avif?t=1718915429\" width=616 height=164 /></span><h2 class=\"bb_tag\" >Memo Blox 是一款挑战你的注意力和记忆力的休闲游戏。</h2><h2 class=\"bb_tag\" >简单游戏</h2>你必须记住并回忆高亮显示的方块。<h2 class=\"bb_tag\" >顺序游戏</h2>你必须记住并回忆高亮显示的方块以及它们出现的顺序。<h2 class=\"bb_tag\" >配对游戏</h2>你必须在生命耗尽之前记住并找到所有隐藏的方块对。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016730/extras/57cf652d84d1b9efbaf0ac9239d59cca.webp?t=1718915429\" width=616 height=55 /></span><br><br>该游戏具有简约的风格和优美的音乐。",
+    "supported_languages": "英语, 法语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 拉脱维亚语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016730/header.jpg?t=1718915429",
+    "developers": [
+      "Martins Jakobsons"
+    ],
+    "publishers": [
+      "Martins Jakobsons"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "大师 - 简单游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016730/d619702f504c0e9ec8dde16a81b74a219c05ece9.jpg"
+        },
+        {
+          "name": "大师 - 顺序游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016730/69db1e4659cd99f7a21efb3f9c4f991e6981b37e.jpg"
+        },
+        {
+          "name": "大师 - 配对游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016730/2a1e4c37750c0267312bcc95db54d8864118ee42.jpg"
+        },
+        {
+          "name": "大师 - Memo Blox",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016730/3c9878f9185ac589bdddc3635030af4ed145798e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

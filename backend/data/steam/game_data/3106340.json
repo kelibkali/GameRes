@@ -1,0 +1,110 @@
+{
+  "3106340": {
+    "name": "8月32日の水族館",
+    "steam_appid": 3106340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >概述</h2><p class=\"bb_paragraph\" >《8月32日的水族馆》是一款以8号出口为灵感的短途步行模拟器。玩家探索一个令人毛骨悚然的水族馆并瞄准出口。</p><p class=\"bb_paragraph\" >如有异常则返回，否则继续。</p><p class=\"bb_paragraph\" >当您可以将水箱中的水母数量减少到 8 时，游戏就通关了。</p><p class=\"bb_paragraph\" >游玩时间：15分钟至60分钟</p><h2 class=\"bb_tag\" >视频分发指南</h2><p class=\"bb_paragraph\" >无论您是个人还是公司，都可以在未经许可的情况下进行分发。</p><p class=\"bb_paragraph\" >只有使用视频分发网站提供的功能才能实现盈利。</p><p class=\"bb_paragraph\" >对于因传播本游戏视频而造成的任何损害，我们不承担任何责任。</p><p class=\"bb_paragraph\" >*这些指南的内容如有更改，恕不另行通知。</p><h2 class=\"bb_tag\" >如何操作</h2><p class=\"bb_paragraph\" >[鼠标和键盘]</p><p class=\"bb_paragraph\" >移动：W、A、S、D 键</p><p class=\"bb_paragraph\" >奔跑：Shift键</p><p class=\"bb_paragraph\" >相机操作：鼠标移动</p><p class=\"bb_paragraph\" >[游戏手柄]</p><p class=\"bb_paragraph\" >动作：L杆</p><p class=\"bb_paragraph\" >奔跑：按下L摇杆或L扳机</p><p class=\"bb_paragraph\" >相机操作：R摇杆</p><h2 class=\"bb_tag\" >选项设置</h2><p class=\"bb_paragraph\" >选项菜单中提供以下设置。</p><p class=\"bb_paragraph\" >语言：日语/英语</p><p class=\"bb_paragraph\" >窗口模式：全屏/窗口</p><p class=\"bb_paragraph\" >帧率上限：可调至60</p><p class=\"bb_paragraph\" >音量：0.0 至 1.0 可调</p><p class=\"bb_paragraph\" >摄像头灵敏度：0.0至1.0可调</p>",
+    "supported_languages": "日语, 英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106340/header.jpg?t=1753965324",
+    "developers": [
+      "Vice Inc."
+    ],
+    "publishers": [
+      "Vice Inc."
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 31 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 12,
+      "highlighted": [
+        {
+          "name": "miss an anomaly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/13762b03e80c09f38822bfad39a3fcd510ed9579.jpg"
+        },
+        {
+          "name": "Finished the game",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/5f4155320c875d79f90c013a99adbcc917463182.jpg"
+        },
+        {
+          "name": "A chance visitor",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/a6ef4bb0e49769ca5dfd3d74b657c7dbc4cccc00.jpg"
+        },
+        {
+          "name": "The inevitable wanderer",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/2edad7d9dbca7791c930469d75340843c2322891.jpg"
+        },
+        {
+          "name": "Survivor spreading rumors",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/6c8f5cf428fcbc0c85024617679557aa489d6dbb.jpg"
+        },
+        {
+          "name": "Enchanted Again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/d765835b5e3fa4b02ae3a853092423f1af6978c3.jpg"
+        },
+        {
+          "name": "Familiar faces at the aquarium",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/b3cb583dd4b83c6408fee59d6f9964f0cff839f3.jpg"
+        },
+        {
+          "name": "Lord of wonderland",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/cb34f4cac7330f50d16235bcf6abf13f4bc871ef.jpg"
+        },
+        {
+          "name": "The one who became a wandering anomaly",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/82323cb966102c36fb7c46bdcc023d1921ea6acd.jpg"
+        },
+        {
+          "name": "The final fireworks",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3106340/58b867d639995b1b4a9ea76224427e5fa817277a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "3102500": {
+    "name": "Anomalous Adventure Demo",
+    "steam_appid": 3102500,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >Fight Battles</h2><br>Experience classic turn based RPG combat with real time elements such as turn timers and active abilities. Your enemies will attack you quickly without stopping. You must be ready not only to input your next orders, but also to block enemy attacks and enhance your own magic. This provides a fun, fast-paced way to control an entire party, where each member brings their own unique abilities to the table.<h2 class=\"bb_tag\" >Explore a Procedural World</h2><br>Each new game creates a new world for you to explore with randomized treasures, zone layouts, monster stats, and world map. This lets you build up your power in a different way giving you a new experience each time you play.<h2 class=\"bb_tag\" >Get Cool Treasure</h2><br>Collect lots of loot and treasure scattered throughout each zone. Enjoy both statistical and cosmetic progression of your characters as well as entire new abilities.<br><br>Steal items and complete quests for truly powerful items that will make your enemies crumble. Equipment doesn't just change statistics, some will give you new skills and alter how you play.<h2 class=\"bb_tag\" >Short Play Time</h2><br>Each playthrough is only a few hours, so you won't have to dedicate a huge amount of time to feel progression. Start a new file and play between the other more epic-length games in your library.<h2 class=\"bb_tag\" >Couch Co-Op</h2><br>The game can be played 1-4 players using controllers.<h2 class=\"bb_tag\" >Open Source</h2><br>This game is open source and is built on the Anomalous Engine. You can check out the code on GitHub. This game has a unique 2d/3d Ray Traced renderer that works well on the Steam Deck and other devices with integrated graphics that support ray tracing.<h2 class=\"bb_tag\" >Check Out the Full Version</h2><br>Since the game is open source this demo has all of the content. Buying the full version will get you achievements and supports the development of new games.<h2 class=\"bb_tag\" >Important Technical Notes</h2><br>This game requires Ray Tracing compatible hardware to function.",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102500/header.jpg?t=1726249229",
+    "developers": [
+      "Andrew Piper"
+    ],
+    "publishers": [
+      "Threax Software"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 10,
+        "description": "游戏试用版"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "3",
+        "description": "角色扮演"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "demo"
+  }
+}

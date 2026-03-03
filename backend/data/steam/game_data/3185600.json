@@ -1,0 +1,110 @@
+{
+  "3185600": {
+    "name": "No Arm",
+    "steam_appid": 3185600,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<i>No Arm 游戏的目标是让一个穿着箱子的人到达目的地。</i><br><br>成为那个穿着箱子向目标前进的人。<h2 class=\"bb_tag\" >特点</h2><br><ul class=\"bb_ul\"><li>没有手臂的话，保持平衡非常困难（走路可能也是一个挑战）。<br></li><li>即使缺少一条腿，仍然可以行走。<br></li><li>幸运的是，有检查点！<br></li><li>地图非常多样化。<br></li><li>各种障碍物，如炮弹、冰块和玩偶，将阻碍你的旅程。</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185600/extras/cbddbf63fcb07fd689028a9fc0747876.poster.avif?t=1726277036\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185600/extras/cbddbf63fcb07fd689028a9fc0747876.webm?t=1726277036\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185600/extras/cbddbf63fcb07fd689028a9fc0747876.mp4?t=1726277036\" type=\"video/mp4\"></video></span>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 匈牙利语, 韩语, 波兰语, 葡萄牙语 - 巴西, 简体中文, 西班牙语 - 拉丁美洲, 泰语, 繁体中文, 土耳其语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185600/header.jpg?t=1726277036",
+    "developers": [
+      "KJames"
+    ],
+    "publishers": [
+      "KJames"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 9 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Survive",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/ce1e7ecdd7e45e50c7359e24b06a930c5c2ab277.jpg"
+        },
+        {
+          "name": "You have done a quarter so far",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/c22d6198973cfbeab6f8d85585d856bd843ea066.jpg"
+        },
+        {
+          "name": "Half is left now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/c49a95847a9a6fdd45b0a8d3204d3cc43950832c.jpg"
+        },
+        {
+          "name": "Almost done now",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/e683a01426268e424a1dd97999253396a5b5da57.jpg"
+        },
+        {
+          "name": "Congratulations~~~",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/6f349ecf7bbdd205da49aadc07edbeef52b423f0.jpg"
+        },
+        {
+          "name": "So Many Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/e78b447681ab1e8b39846daab7896ebcbc4932e9.jpg"
+        },
+        {
+          "name": "Appropriate death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/b22d76a3553ffb0aab0ca77a4a5fee8ded555a5f.jpg"
+        },
+        {
+          "name": "A very few deaths",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/8c27e0295539e1d76a0c004d7a36be8ddf5881f7.jpg"
+        },
+        {
+          "name": "You have no talent",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/4f20fc2096960b72358997d00eb466541dd32093.jpg"
+        },
+        {
+          "name": "You have talent",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3185600/0377eea5f7f849b325d8cc43d1ec01226a7e95bd.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

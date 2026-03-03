@@ -1,0 +1,54 @@
+{
+  "3290990": {
+    "name": "修仙牌",
+    "steam_appid": 3290990,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >《修仙牌》是一款休闲卡牌游戏，游戏以五行相生相克为基础，以数值加减为逻辑，构建了核心玩法。在游戏中，玩家将利用五行数值的相克加减，将数值改变到对应的需求区间内便可以尝试突破。玩家需要再寿元用完之前突破到更高等级。</p><h2 class=\"bb_tag\" >玩法说明：</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >一次出牌要出2张牌，根据五行相生相克原理，如果是同属性牌，则为对应属性增加两数值之和。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/6df39820278c0e9c044710a447a2ef54.poster.avif?t=1734575459\" width=600 height=332 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/6df39820278c0e9c044710a447a2ef54.webm?t=1734575459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/6df39820278c0e9c044710a447a2ef54.mp4?t=1734575459\" type=\"video/mp4\"></video></span></p></li><li><p class=\"bb_paragraph\" >如果两张属性牌是相生关系，那么两个属性增加两张牌的差值。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/1b7475478ffac6ead466796299de9821.poster.avif?t=1734575459\" width=600 height=332 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/1b7475478ffac6ead466796299de9821.webm?t=1734575459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/1b7475478ffac6ead466796299de9821.mp4?t=1734575459\" type=\"video/mp4\"></video></span></p></li><li><p class=\"bb_paragraph\" >如果两张属性牌是相克关系，那么两个属性减少两张牌的差值。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/a70c0ee4c6d6129f1e958a8200986c0f.poster.avif?t=1734575459\" width=600 height=332 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/a70c0ee4c6d6129f1e958a8200986c0f.webm?t=1734575459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/extras/a70c0ee4c6d6129f1e958a8200986c0f.mp4?t=1734575459\" type=\"video/mp4\"></video></span></p></li><li><p class=\"bb_paragraph\" >当所有属性处于颜色区间时，点击突破即可成功突破进入下一关。每次出牌需要消耗仙缘值，当仙缘值小于零时，游戏结束。</p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290990/header_schinese.jpg?t=1734575459",
+    "developers": [
+      "游少年工作室"
+    ],
+    "publishers": [
+      "游少年工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1300,
+      "final": 1300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 13.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "3 user reviews",
+      "total_positive": 2,
+      "total_negative": 1,
+      "total_reviews": 3
+    },
+    "type": "game"
+  }
+}

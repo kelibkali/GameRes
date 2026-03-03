@@ -1,0 +1,55 @@
+{
+  "3045210": {
+    "name": "Offloom",
+    "steam_appid": 3045210,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<h2 class=\"bb_tag\" >About This Application</h2><p class=\"bb_paragraph\" >Offloom is a free AI assistant that runs on your PC.<br>It installs with one click on Steam and ships with curated models that are included and tested.<br>No setup. No model hunting.</p><h2 class=\"bb_tag\" >Highlights</h2><p class=\"bb_paragraph\" >• Free base app, always<br>• One click install<br>• Runs locally on your hardware<br>• Optional web search when you want up to date info<br>• Clickable citations so you can verify sources</p><h2 class=\"bb_tag\" >Features</h2><h2 class=\"bb_tag\" >Chat</h2><p class=\"bb_paragraph\" >• Natural conversation for writing, planning, brainstorming, and research</p><h2 class=\"bb_tag\" >Workspaces</h2><p class=\"bb_paragraph\" >• Keep conversations organized by project<br>• Separate topics and come back later without losing track</p><h2 class=\"bb_tag\" >PDF Q and A with clickable citations</h2><p class=\"bb_paragraph\" >• Upload a PDF and ask questions about it<br>• Click citations to jump to the exact text used to answer</p><h2 class=\"bb_tag\" >Local image generation</h2><p class=\"bb_paragraph\" >• Generate images from prompts using your hardware</p><h2 class=\"bb_tag\" >Optional web search</h2><p class=\"bb_paragraph\" >• Turn web search on when you need current information<br>• Turn it off any time for a fully offline experience</p><h2 class=\"bb_tag\" >Voice and response toggles</h2><p class=\"bb_paragraph\" >• Listen to responses with text to speech<br>• Choose from multiple voice options<br>• Use simple toggles to control features like thinking, document use, web search, and speech</p><h2 class=\"bb_tag\" >Hardware and performance notes</h2><p class=\"bb_paragraph\" >Offloom runs locally, so performance depends on your system.</p><h2 class=\"bb_tag\" >Recommended</h2><p class=\"bb_paragraph\" >• A GPU with 12GB or more VRAM is recommended for the intended experience across the app</p><h2 class=\"bb_tag\" >What to expect on lower end hardware</h2><p class=\"bb_paragraph\" >• Systems with less than 12GB VRAM may run significantly slower<br>• Some workloads may fall back to CPU which can be frustrating for real time use</p><h2 class=\"bb_tag\" >Accuracy and responsible use</h2><p class=\"bb_paragraph\" >Offloom uses local AI models, which may be smaller and less accurate than some paid online services. AI can make mistakes. Use responsibly, especially for medical, legal, or financial decisions.</p><p class=\"bb_paragraph\" >When sources are provided, review them if accuracy matters.</p><h2 class=\"bb_tag\" >Privacy notes</h2><p class=\"bb_paragraph\" >• Workspaces and uploaded documents are stored locally on your device<br>• Web search is optional and can be turned off at any time<br>• When web search is enabled, Offloom connects to the internet to retrieve results like normal browsing<br>• Network activity may be visible to third parties such as your ISP, network administrator, or the services you access</p><h2 class=\"bb_tag\" >Free forever</h2><p class=\"bb_paragraph\" >The base application and the core features described on this page will always remain free.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3045210/d0a9285debd40f6018ef2888b245bc94e609130e/header.jpg?t=1769058249",
+    "developers": [
+      "Brownie1056"
+    ],
+    "publishers": [
+      "NA"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

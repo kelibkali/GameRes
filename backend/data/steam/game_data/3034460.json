@@ -1,0 +1,61 @@
+{
+  "3034460": {
+    "name": "Kurisu",
+    "steam_appid": 3034460,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>什么是Kurisu？</strong></h2>Kurisu是一款可以通过文字聊天来实现音视频，图片编辑的工具，以及转码软件。<br>简单粗暴到你处理完某个视频以后，你的同事大概还在等待视频软件启动和拖入视频，编辑，导出视频。<br>至少对绝大部分简单操作，诸如旋转，修改分辨率，修改尺寸，转换文件格式，制定切片某一段，或者转换gif，倍速播放来说，Kurisu会比市面上已存在的音视频编辑软件使用起来要快得多。对了，它支持批处理，只需要一次性选中多个文件就行了。<br>实际上它还支持给视频添加字幕或者添加特效。<h2 class=\"bb_tag\" ><strong>功能这么多，使用起来会很复杂？</strong></h2>并不会。只需要左侧选择文件，然后右上角对话框内直接说你想做的操作就行，另外右侧也有提供预装进去的对话内容，可以很方便的使用现成的对话来完成操作。另外你自己写的对话也支持添加进预设。<br>本软件的宣传图和软件图标，宣传视频也是拿本软件进行编辑处理操作的。<h2 class=\"bb_tag\" ><strong>软件是如何实现这些的？</strong></h2>首先，内部对接了OpenAI的ChatGPT服务，不过对本软件来说，它是免费提供用户使用的，对，不需要用户提供自己的APIKEY，程序内置自己的中转服务器，用户只需要开箱即用。音视频剪辑以及图像处理功能，都来自大名鼎鼎的FFmpeg。也就是说，FFmpeg能做到的事情，这个软件都可以做到。同样，也只能做到FFmpeg可以做到的事情。因此这个无法像专业的视频剪辑软件一样可视化预览视频，预览工作可能需要配合其他播放器以锁定需要的时间轴，但是相对于专业的视频剪辑软件，本软件却又可以批处理，对简单的切片或者封装操作来说。本项目也遵循FFmpeg协议使用了GPLv3开源，可在github下的MCDFsteve/Kurisu找到。<br>虽然对接了ChatGPT，但是用户是无法直接进行ai交流的，因为它被设定了不会输出实际的内容，只会把需求返回的命令直接交给系统处理。理论上来说，不会被用户拿来制造有害内容。<h2 class=\"bb_tag\" ><strong>启动就报错怎么办</strong></h2>一个很奇怪的事情，部分杀毒软件会给主程序文件标为可疑（或者报毒）并隔离或者删除，这种情况手动添加白名单就能解决。<h2 class=\"bb_tag\" ><strong>写给使用m系列处理器的macOS用户的话</strong></h2>steam默认会以转译的方式通过x64运行本程序，正常使用没有问题，但是启动会比较慢，推荐在库里右键 -管理 -浏览本地文件，在访达里启动本程序，将会以arm方式原生工作。",
+    "supported_languages": "简体中文, 英语, 日语, 俄语, 繁体中文, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/header.jpg?t=1732438879",
+    "developers": [
+      "AimesSoft"
+    ],
+    "publishers": [
+      "AimesSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1800,
+      "final": 1800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 18.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 17 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "52",
+        "description": "音频制作"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "55",
+        "description": "照片编辑"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "58",
+        "description": "视频制作"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 11,
+      "total_negative": 1,
+      "total_reviews": 12
+    },
+    "type": "game"
+  }
+}

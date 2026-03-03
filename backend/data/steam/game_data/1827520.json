@@ -1,0 +1,83 @@
+{
+  "1827520": {
+    "name": "Pixel Game Maker MV -  Tower Defense Game",
+    "steam_appid": 1827520,
+    "required_age": 0,
+    "is_free": false,
+    "description": "This sample is a tower defense game.<h2 class=\"bb_tag\" >●Basic Rules</h2>Once you start the game enemies will advance towards your fortress.<br>If they touch your fortress then it will take damage, once the health of your fortress drops to zero it is game over.<br>You must defeat all the enemies to clear the stage.<br>You can select units from the menu on the right side.<br>Once you select the unit you want to build, clicking the field or pressing B will place the unit on the field at the cost of money.<br>Units will automatically attack enemies within line of sight.<br>You can upgrade units with money by clicking the upward arrow next to the unit.<h2 class=\"bb_tag\" >●For instructions on how to use the data and build this game please refer to the Tutorial in Objects.</h2><h2 class=\"bb_tag\" >●Controls</h2><strong>Mouse</strong><br>Left Click: Select Unit, Upgrade Unit, Place Unit<br><br><strong>XInput Controller</strong><br>B button: Select Unit, Upgrade Unit, Place Unit",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827520/header.jpg?t=1655340123",
+    "developers": [
+      "PolytanQ",
+      "PLAYISM"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "53",
+        "description": "设计和插画"
+      },
+      {
+        "id": "54",
+        "description": "教育"
+      },
+      {
+        "id": "57",
+        "description": "实用工具"
+      },
+      {
+        "id": "59",
+        "description": "网络出版"
+      },
+      {
+        "id": "60",
+        "description": "游戏开发"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

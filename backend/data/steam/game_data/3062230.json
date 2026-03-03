@@ -1,0 +1,84 @@
+{
+  "3062230": {
+    "name": "花战 ~ Flower Fight ~ 幻想玉 x 6600",
+    "steam_appid": 3062230,
+    "required_age": 0,
+    "is_free": false,
+    "description": "获得游戏内可用的幻想屋。",
+    "supported_languages": "英语, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062230/header.jpg?t=1720426702",
+    "developers": [
+      "Viator"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 26800,
+      "final": 26800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 268.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 27,
+        "description": "跨平台多人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

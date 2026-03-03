@@ -1,0 +1,118 @@
+{
+  "1863170": {
+    "name": "死守危城",
+    "steam_appid": 1863170,
+    "required_age": 0,
+    "is_free": false,
+    "description": "关于这款游戏：<br>--构建你的符号组合以产生更多的防御值，直到它完全抵抗僵尸的攻击。<br>--不同的守卫有不同的初始符号和对应的最佳符号组合策略。<br><br>游戏介绍：<br>1. 开始游戏后，选择守护者关卡进行游戏。<br><br>2、点击旋转按钮，黑板上的符号会根据规则自动生成防御值。<br><br>3.每次旋转后的防御值累积，可以获得新的符号。<br><strong><i>#鼠标停留在符号上可以看到符号规则</i></strong><br><br>4.您可以通过重新滚动和删除工具更改符号组合<br><strong><i>#从仓库中最多随机选择15个符号来生成防御值</i></strong><br><br>5.当阶段回合数为0时，僵尸将进行攻击。 如果防御值小于僵尸数量，则游戏结束。<br><br>6、当你的防御值足够大时，你可以使用立即攻击的功能来结束这个阶段并获得更好的符号供应。<br><br>7、解锁无尽模式后，即可参与全球排行。<br><br>感谢《幸运房东》为本游戏提供的灵感。《死守危城》希望在借鉴《幸运房东》的基础规则上，做一些更有挑战的游戏体验，包括差异化的关卡挑战，成就，全球排名等等。我们希望最终完整的《死守危城》，会让更多用户觉得有趣。",
+    "supported_languages": "英语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863170/header_schinese.jpg?t=1654914386",
+    "developers": [
+      "3P Studios"
+    ],
+    "publishers": [
+      "3P Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2900,
+      "final": 2900,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 29.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 36,
+      "highlighted": [
+        {
+          "name": "消防员铜徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/f2aa9a38170743421ef40321c19a1d8ec65213df.jpg"
+        },
+        {
+          "name": "消防员金徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/e00098f7551083990724f29bfb4ccb832781202b.jpg"
+        },
+        {
+          "name": "消防员银徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/22e4c077cf53e6498372a232f663b4916b86c415.jpg"
+        },
+        {
+          "name": "军人铜徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/2701ccea17774bc6494d1c1713dca477df53e827.jpg"
+        },
+        {
+          "name": "军人金徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/cefc06484b07c29595a8582f773dadbfa5d5c32e.jpg"
+        },
+        {
+          "name": "军人银徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/614c19c21cc9af8bda79ffb84d7d9a56c7610682.jpg"
+        },
+        {
+          "name": "农夫铜徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/4317d53be039a5edc06005d187a335389054635c.jpg"
+        },
+        {
+          "name": "农夫银徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/b6fb99e746814df030c3b1730925b9967082f028.jpg"
+        },
+        {
+          "name": "农夫金徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/be02a26d0ea2779e52f663d1d0d2eb6f165f45f9.jpg"
+        },
+        {
+          "name": "搬运工铜徽章",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1863170/02c5cc653e2c9e0c0ec38878c658709923ca51ab.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 3,
+      "total_negative": 2,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}

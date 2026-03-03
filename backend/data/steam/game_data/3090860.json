@@ -1,0 +1,58 @@
+{
+  "3090860": {
+    "name": "The elevator",
+    "steam_appid": 3090860,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>关于此游戏</strong></h2><p class=\"bb_paragraph\" >&quot;电梯&quot;是一款以电梯为主题的第一人称视角恐怖游戏。</p><p class=\"bb_paragraph\" >这款游戏旨在让你在普通而熟悉的环境中感受到恐惧。</p><h2 class=\"bb_tag\" ><strong>游戏时间</strong></h2><p class=\"bb_paragraph\" >游戏时间不长，约 15 分钟。</p>",
+    "supported_languages": "英语, 日语, 韩语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090860/header.jpg?t=1739355034",
+    "developers": [
+      "Springbok"
+    ],
+    "publishers": [
+      "Springbok"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 1 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 8,
+      "total_negative": 2,
+      "total_reviews": 10
+    },
+    "type": "game"
+  }
+}

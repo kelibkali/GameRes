@@ -1,0 +1,66 @@
+{
+  "3097040": {
+    "name": "デルタコモンズ",
+    "steam_appid": 3097040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "japaneseOnly<br />\r\nゲーム説明<br />\r\nカードをプレイすると同時にそれぞれスキルを持った3dのキャラクターが登場する。<br />\r\nカードゲームと3dストラテジーの二つの軸で戦う新感覚対戦ゲーム<br />\r\n<br />\r\nプレイアブルカードは100種類以上。<br />\r\nデッキは2pick制だが消費するアイテムはないので気に入ったデッキができるまでやり直せる。<br />\r\n<br />\r\n商品について(注意)<br />\r\n・個人製作なので不具合、バグ、同期ずれなどの対応は不完全です。",
+    "supported_languages": "日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097040/header.jpg?t=1724331604",
+    "developers": [
+      "deruta"
+    ],
+    "publishers": [
+      "deruta"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 5600,
+      "final": 5600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 56.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

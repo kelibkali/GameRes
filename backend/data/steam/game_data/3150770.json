@@ -1,0 +1,96 @@
+{
+  "3150770": {
+    "name": "Cabin Escape",
+    "steam_appid": 3150770,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >You wake up to find yourself trapped in an alpine cabin in the woods with no clear means of escape. You've lost your memory, but it seems you knew this might happen, and have hidden the means of escape within the cabin. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Explore, gather clues and tools, solve puzzles, and see if you can escape the cabin.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3150770/header.jpg?t=1732716875",
+    "developers": [
+      "Jenny Wolfer",
+      "Ross Bryson",
+      "Mike Wallace"
+    ],
+    "publishers": [
+      "Orcwood Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 11 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "Heartbreaker",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/7af0190fd54c8fec8c200e7e46ab7ae05c50a6f1.jpg"
+        },
+        {
+          "name": "Breadwinner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/9bed3da71843c3002f47550142e6f92983569741.jpg"
+        },
+        {
+          "name": "Puzzler",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/fa478cddf385cbddd38eb162a3651b1c5bf49e54.jpg"
+        },
+        {
+          "name": "Fire Extinguisher",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/effda7ff833bae040c5a7e46dac73f4431254569.jpg"
+        },
+        {
+          "name": "Artifact Finder",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/b3d81be3cde372c347d1cdc233194df9ae3b8db8.jpg"
+        },
+        {
+          "name": "Exit Strategy",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/eb939febf5b3180cd7453643d8c04a1f5e8c40c0.jpg"
+        },
+        {
+          "name": "Speed Runner",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3150770/51e5c5d516eff959045f67363659cc3a97224e9c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "1843750": {
+    "name": "Sphere Game Epic",
+    "steam_appid": 1843750,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>这是为 xbox 发布的第 4 款游戏，现在也可用于 Steam.</strong><br>Sphere Game Epic 是“Sphere game”系列的最新游戏，具有完全改进的图形和游戏玩法，通过控制轻重的球体穿过障碍物赚取金币以及新的跳跃和移动相机机制来通过舞台。<h2 class=\"bb_tag\" >资源:</h2><ul class=\"bb_ul\"><li>具有 3D 视角的相机。<br></li><li>用于自定义球体的皮肤。<br></li><li>相机运动。<br></li><li>HDR.<br></li><li>美丽的图形。</li></ul>",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 简体中文, 韩语, 日语, 葡萄牙语 - 巴西, 俄语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843750/header.jpg?t=1694083001",
+    "developers": [
+      "D.P.L.D.S"
+    ],
+    "publishers": [
+      "D.P.L.D.S"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1100,
+      "final": 1100,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 11.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 18,
+      "highlighted": [
+        {
+          "name": "die 50 times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/e467d65b2c6789f515e25eb672ad7717b93acb1c.jpg"
+        },
+        {
+          "name": "die 250 times",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/84f16a988ba6733fbb23efde3a076a66637bb9ce.jpg"
+        },
+        {
+          "name": "complete level 1",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/2083fc9e23c84e3fa108f968311270647455df32.jpg"
+        },
+        {
+          "name": "complete level 2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/4deb10ac61c58e39c7d0c47373ce39c4a6d65f2b.jpg"
+        },
+        {
+          "name": "complete level 3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/9cb6cf6664680eaa8c4a620989865e2b91fbf824.jpg"
+        },
+        {
+          "name": "complete level 4",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/ea0e1fb14e17763a35a9fbd77d3a1424c473cf9f.jpg"
+        },
+        {
+          "name": "complete level 5",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/7584ffd58fd03e7e5f957dbc36516cf531aa666e.jpg"
+        },
+        {
+          "name": "complete level 6",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/bbf776ebf38db0dbc3dbbb65bc7cc0a3c9ffba18.jpg"
+        },
+        {
+          "name": "complete level 7",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/cdbdc73f9602bc04900a226f5920c5ab5982a132.jpg"
+        },
+        {
+          "name": "complete level 8",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1843750/7197947c9c2fdefdf492f6706eafb8e9466aa5ec.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "3016120": {
+    "name": "美眉纸牌",
+    "steam_appid": 3016120,
+    "required_age": 0,
+    "is_free": false,
+    "description": "还记得Windows上的那款经典纸牌接龙游戏吗？您有多久没玩过它了？<br><br>如果您还对它保有情怀，那么现在，是时候打开《美眉纸牌》了！<br><br>这款游戏在经典玩法基础上，通过可爱的少女纸牌、精美的游戏画面，以及动人心弦的歌曲，让您在轻松愉悦中重温纸牌接龙游戏的乐趣。<br><br>若您觉得游戏缺了点紧张刺激，还可以选择排行模式与全球玩家进行通关速度的比拼，或不断挑战自己的通关速度极限。<h2 class=\"bb_tag\" >游戏特色：</h2><ul class=\"bb_ul\"><li>52 张印有可爱少女肖像的纸牌。<br></li><li>30 首动人心弦的歌曲或纯音乐。<br></li><li>6 种精美的游戏主题。<br></li><li>3 级由简到难的游戏难度。<br></li><li>3 个按照游戏难度区分开来的排行榜。</li></ul><h2 class=\"bb_tag\" >玩法简介：</h2><strong>牌区</strong><br><ul class=\"bb_ul\"><li>左上方2个格子为“储备牌区”。<br></li><li>右上方4个格子为“回收牌区”。<br></li><li>中央区域的7列位置为“主牌区”。</li></ul><strong>目标</strong><br><ul class=\"bb_ul\"><li>通过在&quot;主牌区&quot;的有限位置上进行接龙操作，不断将同花牌按从小到大的顺序移入“回收牌区”的某个格子内，最终将所有牌移入“回收牌区”之中。</li></ul><strong>操作</strong><br><ul class=\"bb_ul\"><li>点击“储备牌区”左侧格子，可将备用牌翻转至临近的右侧格子，右侧格子最上方的牌可移入“主牌区”或“回收牌区”的正确位置之上。<br></li><li>“主牌区”的牌必须按照从大到小且异色的规则进行接龙操作，空位置上除K牌外，不可放置其他牌。<br></li><li>“回收牌区”的某一格内，必须按照从小到大且同花的规则放置牌。</li></ul>",
+    "supported_languages": "英语, 简体中文, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 俄语, 日语, 波兰语, 繁体中文, 葡萄牙语 - 葡萄牙, 韩语, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016120/header_schinese.jpg?t=1723843095",
+    "developers": [
+      "2D_猫"
+    ],
+    "publishers": [
+      "2D_猫"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 6 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "初级纸牌列兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/b78b553f57a7369a479767b8eac4197900a3a2d0.jpg"
+        },
+        {
+          "name": "中级纸牌列兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/16de2fd91b1737a5711c91d451c13619eea511af.jpg"
+        },
+        {
+          "name": "高级纸牌列兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/3fd0dc179e7a54b2e71ae3472e8675caf8cc9fe9.jpg"
+        },
+        {
+          "name": "究级纸牌列兵",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/449360e50fe69734a1cdb3c315c94779c80f829e.jpg"
+        },
+        {
+          "name": "初级纸牌队长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/4c21bf29e7a16e023fca35689b1699c1aa8196e9.jpg"
+        },
+        {
+          "name": "中级纸牌队长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/a7520f986430e34a9ac0befe042c31297a418419.jpg"
+        },
+        {
+          "name": "高级纸牌队长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/507fbc1aa6eb850bdd257675777b5b8e18d33179.jpg"
+        },
+        {
+          "name": "究极纸牌队长",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/31dac808b0c58ee0341105ed0d6c7a9184766da1.jpg"
+        },
+        {
+          "name": "初级纸牌将军",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/67d30836dfde79907ec99bd1407ecdea2d478a41.jpg"
+        },
+        {
+          "name": "中级纸牌将军",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3016120/c7a512cd92f3e76bacd889a308a447c2996a236b.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

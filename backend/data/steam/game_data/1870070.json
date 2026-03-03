@@ -1,0 +1,70 @@
+{
+  "1870070": {
+    "name": "白法师",
+    "steam_appid": 1870070,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>个人开发的小游戏，固定七关卡，无限重玩，休闲的时候可以玩一下，谢谢大家支持！</strong></h2><h2 class=\"bb_tag\" ><i>玩法介绍：</i></h2>经典的重复关卡模式，不同职业有不同的属性和特色。<h2 class=\"bb_tag\" ><strong>操作模式：</strong></h2>支持自定义摁键。<br>默认：【技能】QERT；【移动】WASD;【背包】 C；【地图】P；【跳跃】 Space；【视角】固定模式时：鼠标右键摁下时转动角色和视角，自由视角：视角自由转动,右键摁下旋转角色；<br><br>谢谢支持！祝您游戏开心！",
+    "supported_languages": "简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1870070/header.jpg?t=1711418069",
+    "developers": [
+      "GameHan"
+    ],
+    "publishers": [
+      "GameHan"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 1 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 61,
+        "description": "可用 HDR"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 2,
+      "total_negative": 0,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

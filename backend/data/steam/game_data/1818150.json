@@ -1,0 +1,79 @@
+{
+  "1818150": {
+    "name": "Pinecone Game",
+    "steam_appid": 1818150,
+    "required_age": 0,
+    "is_free": true,
+    "description": "欢迎来到松果游戏，沉浸在将松果扔进井里的奇妙世界！<br><br><ul class=\"bb_ul\"><li><strong>把松果扔进井里</strong> - 拿起一个松果，把它扔进你飞岛中间的井里。 新的松果将在 24 小时内上市。<br></li><li><strong>看看排行榜</strong> - 看看你的朋友和来自世界各地的其他玩家已经往井里扔了多少松果。<br></li><li><strong>坐下休息</strong> - 在等待新的松果时，您可以坐在专门配备的长凳上放松身心，欣赏周围的自然风光。</li></ul><br><i> 警告！ 为了您的安全，请勿翻越飞岛的围栏，或悬挂在井壁上方。 </i>",
+    "supported_languages": "英语, 简体中文, 俄语, 韩语, 芬兰语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/header.jpg?t=1744200185",
+    "developers": [
+      "Frameblade"
+    ],
+    "publishers": [
+      "Frameblade"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 35,
+        "description": "应用内购买"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "我在井里扔了松果365天...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1818150/ad111b112b2bd0bbeecf26a65c2de277e861a82f.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

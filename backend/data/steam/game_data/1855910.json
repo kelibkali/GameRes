@@ -1,0 +1,58 @@
+{
+  "1855910": {
+    "name": "Flood",
+    "steam_appid": 1855910,
+    "required_age": 0,
+    "is_free": false,
+    "description": "You are given a grid of squares, coloured at random in multiple colours. In each move, you can flood-fill the top left square in a colour of your choice (i.e. every square reachable from the starting square by an orthogonally connected path of squares all the same colour will be filled in the new colour). As you do this, more and more of the grid becomes connected to the starting square.<br />\r\n<br />\r\nYour aim is to make the whole grid the same colour, in as few moves as possible. The game will set a limit on the number of moves, based on running its own internal solver. You win if you can make the whole grid the same colour in that many moves or fewer.<br />\r\n<br />\r\nIf you have any suggestions to make the game better, you can tell me in the steam community.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 丹麦语, 乌克兰语, 俄语, 保加利亚语, 匈牙利语, 土耳其语, 希腊语, 挪威语, 捷克语, 日语, 波兰语, 泰语, 瑞典语, 简体中文, 繁体中文, 罗马尼亚语, 芬兰语, 荷兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 越南语, 阿拉伯语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1855910/header.jpg?t=1727523475",
+    "developers": [
+      "Vector Game"
+    ],
+    "publishers": [
+      "Vector Game"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 1 月 12 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

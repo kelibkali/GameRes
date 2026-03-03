@@ -1,0 +1,90 @@
+{
+  "3058110": {
+    "name": "Banana Extreme",
+    "steam_appid": 3058110,
+    "required_age": 0,
+    "is_free": false,
+    "description": "A banana clicking game with random rare spawning bananas that you can click. As well as ranks to achieve the more bananas you collect.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058110/header.jpg?t=1720520571",
+    "developers": [
+      "Adriel"
+    ],
+    "publishers": [
+      "Adriel"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 8 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "Thousand Year Bananas",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/ad776db825c7d7cd66f02456047d17a3855c5dc3.jpg"
+        },
+        {
+          "name": "Sleepy Nana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/dedea2a38f44017c35c319ad8f998b2b6df268ef.jpg"
+        },
+        {
+          "name": "Evil Banana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/c13ac5ac67328f70342a4d13f8d8c9274a365315.jpg"
+        },
+        {
+          "name": "Cactuar Banana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/f860db869538db250f8f8df6879d0ea918f62bdf.jpg"
+        },
+        {
+          "name": "Binary Banana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/9bdc720f3564ef2b45a4d98e2d46e71da2df0b98.jpg"
+        },
+        {
+          "name": "Hollow Banana",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3058110/17cce185430b7aafc374a055f94dcf2c897e4ec2.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "3082340": {
+    "name": "UMeFate",
+    "steam_appid": 3082340,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" ><strong>This is Pre-Alpha Tech Demo version. All currently presented features are subject to change.</strong></h2><p class=\"bb_paragraph\" >UMeFate is a long term planned life simulation game, which combines performance, a sizable world without rabbit holes, modding and welcomes community to bring their touch into the project, that everyone will be able to play.</p><p class=\"bb_paragraph\" >The life sim community has been waiting a long time for a game, where their input can influence their imaginary and dream world of life simulation. This may be as basic as house building. But also going as complex as family and friends relations. The game period is not fixed, and could be anything from stone age to futuristic times, depending on the imagination and input from players.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Goals For Future Core Gameplay</strong></h2><p class=\"bb_paragraph\" >In the core UMeFate is still a life sim. But UMeFate wants to step away a bit from the conventional life sim design and wants to bring something hopefully fresh to the table. </p><p class=\"bb_paragraph\" >UMeFate is not meant to be a nice and cozy world. We want to go back a bit, when life sim was a challenge. There are plenty of dolly houses and dressing games. While UMes would love these features too, these are not the main focus of the core gameplay.</p><p class=\"bb_paragraph\" >Critical aspects of the living world will be other UMes. Like 100s of them. As a player, you will be able to play as a single character. And perhaps decide to be part of the family and the society. That may feel small and insignificant in the scale of the living village, or town around you. The surrounding world will be constantly changing. Every character will be able to influence, or be influenced by others. Effectively, leading potentially to the effect of the butterfly. Gaining influence in the community can allow you, to affect others in a more significant way. Further it can be imagined, what that may lead to.</p><p class=\"bb_paragraph\" >As baby born, every new UMe will be with almost no knowledge of the world. The way to learn about others, new places, new relations, new skills, etc, will be by exploring, working, training, talking with others, observing surroundings, or even listening to others gossip.</p><p class=\"bb_paragraph\" >UMes psychology will play a significant part in the evolution of the communities. What is good and what is evil is only a perception, depending from the standing point. Imagine what if you could influence what is good, or what is bad?</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Timeline And Vision</strong></h2><p class=\"bb_paragraph\" >Our UMes have strong faith and vision for this project for years to come, inspired by many game titles. Which are well played even after years and decades; still are providing updates. Therefore, UMeFate timeline is indefinite, as long as it is feasible to continue this form of endeavor. UMes believe that we can build a game, which can be played for many years. And we can make it even stronger together with the community.</p><p class=\"bb_paragraph\" >We stay away from any aggressive form of monetization.</p><p class=\"bb_paragraph\" >We also know, it is possible for games to thrive successfully for years without abusive DLCs. And we do aim for this route too. But we don't want to lock out potential possibilities, if DLC for example means a solid expansion pack, which can extend playability for our players.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Performance</strong></h2><p class=\"bb_paragraph\" >Performance is one of the key aspects, which in our opinion have not been really well addressed in life sim genre. While UMeFate aims to have anything between 100 and 1000 actively living inhabitants in the playable region, the design also aims to provide stable 60FPS. This will be a huge endeavor, as life sim games are quite demanding. Checking relations, events, surroundings, etc. But UMeFate has the <strong>fate </strong>and the technology, that it can be done with enough push and commitment.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Modding Lua</strong></h2><p class=\"bb_paragraph\" >There are many ways to approach modding. We decided at least at this point, to not go the route of C# modding, as typically many moddable games does. The reason for that is, UMeFate needs to maintain a highly performant and stable core engine and choices of the technology could make it potentially difficult. This way, it is possible to reduce certain design challenges, such when influential mods significantly slow down the game.</p><p class=\"bb_paragraph\" >Saying all that, UMeFate wants to provide an API to <strong>Lua</strong> part of the game, where players will be able to change game behaviour much more freely and easier. For example changing AI behaviour, goods consumption mechanics etc. </p><p class=\"bb_paragraph\" >Lua is also well known in the wide range of the game community. It doesn't require extensive knowledge of the code compilation, which potentially extends reach out to modders.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Modding Assets</strong></h2><p class=\"bb_paragraph\" >What is a life sim game without extra flowers, or beds. So yes, UMeFate will eventually provide means to allow uploading own models and textures. As of the current state, we experiment with open model data format <strong>*.GLB, which is binary form of *.GLTF</strong></p><p class=\"bb_paragraph\" ><strong>*.GLB</strong> is good alternative for <strong>.FBX</strong>, which otherwise limits its usage in certain applications.</p><p class=\"bb_paragraph\" >Textures will be also possible to mod in the near future.</p><p class=\"bb_paragraph\" >Animation is also one of the considerations in the future. But that is not the priority atm.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Frequent Updates</strong></h2><p class=\"bb_paragraph\" >We do believe, that to lead to successfully and promising game, development requires constant feedback loop. Specially when something changes and breaks. We do not want to spend 3-6 years of development and wait for the first release, just to find out that something doesn't work. And maybe it will be too late to fix it, while disappointing our beloved followers. Therefore, we aim to push frequent updates of incremental versions. We know that philosophy works for many successful game titles.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Open Pre-Alpha Tech Demo Testing</strong></h2><p class=\"bb_paragraph\" >On 22 September of 2024, UMeFate entered its first opened pre-alpha experimental tech demo testing for brave ones. We continue this with latest Tech Demo release. Be warned, we are still aware about a number of issues, bugs and inconveniences still. But it is critical for UMeFate to know the constructive feedback from our followers, specially where performance is a key.</p><p class=\"bb_paragraph\" >Since UMeFate is very early in the development, at this point UMeFate is purely in an experimental tech demo stage and there are many gameplay wise features missing from the primary goals. So please do not expect much for now, if you are willing to give it a shot. But we do appreciate it, if anyone is willing to give it a spin. Again, any constructive feedback is more than welcome.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3082340/header.jpg?t=1763136471",
+    "developers": [
+      "AntyVersum"
+    ],
+    "publishers": [
+      "AntyVersum"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 18,
+        "description": "部分支持控制器"
+      },
+      {
+        "id": 17,
+        "description": "包含关卡编辑器"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "3292780": {
+    "name": "Atlas Protocol - Escape Room",
+    "steam_appid": 3292780,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >探索《阿特拉斯议定书》，一个充满挑战的密室逃脱游戏，故事发生在一个神秘的废弃设施中。你有能力解开它的秘密并了解究竟发生了什么吗？</p><h2 class=\"bb_tag\" >游戏特色：</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >超过 100 个需解决谜题：各种谜题考验你的技能，让你保持警惕。</p></li><li><p class=\"bb_paragraph\" >沉浸式探索：探索充满线索的详细环境，引导你找到真相。</p></li><li><p class=\"bb_paragraph\" >深度叙事：随着你的进度，揭开谜团，了解周围的环境及故事。</p></li><li><p class=\"bb_paragraph\" >密室逃脱爱好者的理想之选：专为喜欢智力挑战和谜团解密的人而设计。</p></li></ul><p class=\"bb_paragraph\" ></p>",
+    "supported_languages": "英语<strong>*</strong>, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 日语, 韩语, 葡萄牙语 - 巴西, 俄语, 简体中文, 繁体中文<br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292780/header.jpg?t=1738943172",
+    "developers": [
+      "B Rain Logic Labs"
+    ],
+    "publishers": [
+      "B Rain Logic Labs"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4600,
+      "final": 4600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 46.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 7 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": {
+      "total": 10,
+      "highlighted": [
+        {
+          "name": "Lights on",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/d8b945aad63e593c200f538ae779bd2c0759a3c5.jpg"
+        },
+        {
+          "name": "The elevator",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/1f80a07cf294d273169030e0e4d5f292f62a9066.jpg"
+        },
+        {
+          "name": "Wait... what?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/3ed2878dfde67f639b38545dd246b1a719d98d5c.jpg"
+        },
+        {
+          "name": "Yes, sir!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/36017d9b8aff3d9e6a0571fce71ff258d691f006.jpg"
+        },
+        {
+          "name": "The direction",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/8212ea7d1d3e13fbd7ef3f1617dc48c67d0bf74b.jpg"
+        },
+        {
+          "name": "The key",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/0c779442685454742fbdffdd59c2c0846a7f0cf9.jpg"
+        },
+        {
+          "name": "The hospital",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/6779a19fa8b124477e63406ddd32f0a9f96b7967.jpg"
+        },
+        {
+          "name": "β",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/d6dd006b5a10310428b7f7ad5e0ae3542ad66f1b.jpg"
+        },
+        {
+          "name": "Choo Choo",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/11d62b946159081f34a138a91110936d740b7988.jpg"
+        },
+        {
+          "name": "Play me",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3292780/cf26cfe885ef3790e76431ab38763027a369927a.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "2 user reviews",
+      "total_positive": 0,
+      "total_negative": 2,
+      "total_reviews": 2
+    },
+    "type": "game"
+  }
+}

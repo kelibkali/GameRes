@@ -1,0 +1,106 @@
+{
+  "3311740": {
+    "name": "The Cabin Factory",
+    "steam_appid": 3311740,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >欢迎来到The Cabin Factory，作为一名新上任的小屋检查员，你主要负责对各个小屋进行检查，判断屋内是否有灵异现象。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>检查整个小屋：</strong></p><p class=\"bb_paragraph\" ><strong>-如果发现灵异现象，请立即回头并按下“DANGER”按钮。</strong></p><p class=\"bb_paragraph\" ><strong>-如果检查后是安全的话，请按下“CLEAR”按钮。</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Cabin Factory能提供一场简短但恐怖的异常狩猎体验（约60分钟），其创作灵感来源于惊悚的边缘化空间以及模拟真实行走场景的游戏，如《The Exit 8》、《Pools》以及其前身《P.T.》。</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 韩语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong>, 繁体中文<strong>*</strong>, 加泰罗尼亚语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 土耳其语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/header_schinese.jpg?t=1768303114",
+    "developers": [
+      "International Cat Studios"
+    ],
+    "publishers": [
+      "Future Friends Games"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 12 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 7,
+      "highlighted": [
+        {
+          "name": "小屋检查员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/0ed4be08dc243dcfce70da563f05bdb746787ab5.jpg"
+        },
+        {
+          "name": "月度雇员之星",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/30cfe86103afed46340b59586cda64b167a575c8.jpg"
+        },
+        {
+          "name": "直面你的过去：Greta",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/f4a6a9967fe70e261f7f05410e9d905c2b1d0dac.jpg"
+        },
+        {
+          "name": "直面你的过去：Hans",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/3356e9231e7cd1b3de3d4ee389575c20be8d2a11.jpg"
+        },
+        {
+          "name": "直面你的过去：父亲",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/996785730675151af0e48162a35364ea56a7125e.jpg"
+        },
+        {
+          "name": "直面你的过去：母亲",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/a444d3796455ab41014473c7bb7eb94d1f58e1ea.jpg"
+        },
+        {
+          "name": "吓！",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3311740/4602c9991bfbb500c4bb3f18588825dec064fe54.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 105,
+      "total_negative": 19,
+      "total_reviews": 124
+    },
+    "type": "game"
+  }
+}

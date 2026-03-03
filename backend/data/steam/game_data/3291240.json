@@ -1,0 +1,110 @@
+{
+  "3291240": {
+    "name": "三消 x 方块",
+    "steam_appid": 3291240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >在安排右边俄罗斯方块的同时，需要兼顾左边的三消。</p><p class=\"bb_paragraph\" >两种颜色的叠加变成新的颜色，横竖三个或以上相同颜色完成三消，</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291240/extras/1e93936146046032d2da5d89474b9695.webp?t=1741258027\" width=64 height=42 /></span>示意图表示红色钻石叠加红色方块会变成白色</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >如果一定步数内没有及时完成三消会收到惩罚的噢。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291240/extras/27df86ddecb421df249167bc8852966e.webp?t=1741258027\" width=36 height=35 /></span>红心表示还有多少次会积累到大的惩罚。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >惩罚是会递增的，而且会大到你无法承受！</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291240/extras/9bc0ff486fe0267d5273cdff4fa89a3c.webp?t=1741258027\" width=36 height=35 /></span>表示红心全部耗尽后，会有在右边底部增加一行的惩罚，然后红心全部恢复，但下次惩罚会加重。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >如果这只是个开始，那就用你非凡的大脑挑战更高的难度吧：取消合成的提示；右边方块不再静止不动；遮住一些下面的方块。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >消除不定期闪烁的钻石，你可以获得一些有用的道具。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291240/extras/e169ab361cca12c90f3b999a8ef6df1a.webp?t=1741258027\" width=27 height=36 /></span>炸弹可以帮助消除右边最上面一行或几行的方块。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >ASDW控制方向，QE旋转，空格键落定方块。本游戏支持手柄操作，但需要设置。</p>",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 日语, 韩语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291240/header_schinese.jpg?t=1741258027",
+    "developers": [
+      "Qi Wang"
+    ],
+    "publishers": [
+      "Fullar"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1999,
+      "final": 1999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 19.99"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 2 月 20 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 17,
+      "highlighted": [
+        {
+          "name": "10局游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/21da061c92ac1406abb32037cfa2a304780fa171.jpg"
+        },
+        {
+          "name": "100局游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/14de5ac66c2bce81859f3d15653e1bceb1114cfd.jpg"
+        },
+        {
+          "name": "1000局游戏",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/9506961d4a76818f3b273c49c4f8750e25cb66f0.jpg"
+        },
+        {
+          "name": "1000分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/58e21fd37c0e120e151ee3532efc442fa9245815.jpg"
+        },
+        {
+          "name": "9999分",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/04c5dfb487894eafda7614265074af21222ddca1.jpg"
+        },
+        {
+          "name": "1000分难度2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/0520adc31c5a9be32d9465ef70cda94e18c31f6a.jpg"
+        },
+        {
+          "name": "5000分难度2",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/9dc1f6c9d14d41f93299092fec71fc2a3a6dd184.jpg"
+        },
+        {
+          "name": " 1000分难度3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/9403eb39248f4da88ff299be6bcae96a50b806ff.jpg"
+        },
+        {
+          "name": "5000分难度3",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/f1769ad9cc8bab9fecfb4cdea639794421d339e3.jpg"
+        },
+        {
+          "name": "玩1局最高难度",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3291240/6a9f627f68ef692a98166cd9ee73b1c306a83f80.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

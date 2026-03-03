@@ -1,0 +1,110 @@
+{
+  "3220650": {
+    "name": "Horse Manager",
+    "steam_appid": 3220650,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《Horse Manager》是一款引人入胜的文本模拟游戏，你将管理你自己的赛马队的方方面面。游戏采用复古ASCII图形，为游戏增添了魅力，你可以购买、训练和竞赛马匹。管理你的马厩，雇佣骑师，并参加各种比赛，努力带领你的团队取得胜利。",
+    "supported_languages": "英语, 德语, 简体中文, 葡萄牙语 - 巴西, 葡萄牙语 - 葡萄牙, 俄语, 法语, 意大利语, 西班牙语 - 西班牙, 捷克语, 荷兰语, 乌克兰语, 阿拉伯语, 匈牙利语, 波兰语, 瑞典语, 泰语, 土耳其语, 保加利亚语, 丹麦语, 西班牙语 - 拉丁美洲, 芬兰语, 希腊语, 印度尼西亚语, 挪威语, 罗马尼亚语, 越南语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220650/header.jpg?t=1771495699",
+    "developers": [
+      "André Cerqueira"
+    ],
+    "publishers": [
+      "André Cerqueira"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2026 年 2 月 19 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": {
+      "total": 35,
+      "highlighted": [
+        {
+          "name": "Horse Sense",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/c6ee828dbfb3cc4e1096956efe983163103845ce.jpg"
+        },
+        {
+          "name": "Dream Team",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/e973533200a87e2e8c9db3e07e86cdd21e075256.jpg"
+        },
+        {
+          "name": "Vet in Training",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/ca3601deb8d91d3eb6f0b6112c8109a400668156.jpg"
+        },
+        {
+          "name": "Vet Tech",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/b599ea74799c55c8a068dde35788b8edc0fa5fb0.jpg"
+        },
+        {
+          "name": "Vet Pro",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/dcc0f22ebbc77bf771ea962802d0ce749caa8ca0.jpg"
+        },
+        {
+          "name": "Vet God",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/c83c83d818a2058c64e719019e71c1c210493284.jpg"
+        },
+        {
+          "name": "Rare Catch",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/926e4129574de7d6de66fbee6b52caab881d2f93.jpg"
+        },
+        {
+          "name": "Epic Rider",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/289140bda3c654d3e94412e8eaa1eabd85e8ca00.jpg"
+        },
+        {
+          "name": "Gallop of Legends",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/6e2ce53df0dca8f0fe63c9dd03b0939de21e5c4c.jpg"
+        },
+        {
+          "name": "Is this a thing?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3220650/024cae9f4ec2b19f36f01b28c59234aab3c651f6.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

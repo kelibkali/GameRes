@@ -1,0 +1,45 @@
+{
+  "1899240": {
+    "name": "一个极好的剪贴板",
+    "steam_appid": 1899240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>1.复制内容</strong><br>\t文本、图片、文件路径<br><strong>2.内容搜索</strong><br>\t可以普通搜索、正则匹配来搜索复制的文本/文件路径<br><strong>3.收藏内容</strong><br>\t收藏/取消收藏选中的复制内容<br><strong>4.热键粘贴</strong><br>\t快捷键呼出当前界面并选择内容粘贴到上一个编辑窗口<br><strong>5.批量粘贴</strong><br>\t批量粘贴选中内容到上一个编辑窗口<br><strong>6.云同步</strong><br>\twin / mac复制、收藏、删除内容云同步<br><strong>7.切换显示</strong><br>\t切换显示全部\\文本\\图片\\文件(路径)\\收藏<br><strong>8.图片预览</strong><br>\t鼠标放置图片上自动预览<br><strong>9.夜间模式</strong><br>\t全界面夜间模式<br><strong>10.存储内容</strong><br>        最大可存储500条历史记录<br><strong>11.其他设置</strong><br>       1.在主页面点按右上角开关按钮可快速暂停/开启剪贴板记录<br>       2.在主页面点按右上角月亮/太阳按钮快速切换夜间/昼间模式<br>       3.可设置快速粘贴内容的快捷键<br>       4.可设置记录剪贴板内容的类型（文本、图片、文件[路径]）<br>       5.可设置选中之后是否自动粘贴<br>       6.可设置是否跨屏粘贴（在一台机器上复制，在另一台机器上快速粘贴[两台机器都需要登陆]）<br>       7.可设置添加换行，在粘贴内容到对应窗口时可让程序自动补充换行<br>       8.可设置图片预览，在鼠标滑动到图片选项上时有放大图片的悬浮预览窗口<br>       9.可设置折叠显示，此模式下以缩略图显示图片，文本以单行显示<br>       10.可设置自动折叠，当窗体缩放到一定大小时将自动折叠显示，拉伸时还原<br>       11.可设置循环条数，设置此选项可设定快捷键粘贴时切换的内容条数",
+    "supported_languages": "简体中文, 英语, 日语, 繁体中文, 韩语, 法语, 德语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1899240/header.jpg?t=1726579519",
+    "developers": [
+      "陈安卓"
+    ],
+    "publishers": [
+      "陈安卓"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1200,
+      "final": 1200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 12.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 2 月 25 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "5 user reviews",
+      "total_positive": 4,
+      "total_negative": 1,
+      "total_reviews": 5
+    },
+    "type": "game"
+  }
+}

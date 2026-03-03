@@ -1,0 +1,94 @@
+{
+  "3036390": {
+    "name": "PSEUDOKU",
+    "steam_appid": 3036390,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Sudokuesque puzzle game with chill ambient soundtrack.<br />\r\n<br />\r\nMove the numbers around to solve puzzles with progressively more rules and more complicated level layouts.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036390/header.jpg?t=1720973041",
+    "developers": [
+      "KristophersVictory"
+    ],
+    "publishers": [
+      "KristophersVictory"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2600,
+      "final": 2600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 26.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 6,
+      "highlighted": [
+        {
+          "name": "0-X levels completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/51b30cc892cba5813351392f08db7a998c7112e1.jpg"
+        },
+        {
+          "name": "Second row completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/06a7b9eaf0d387641426dded6424a7c43980c560.jpg"
+        },
+        {
+          "name": "Third row completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/76ba4dc5ffffbd1114a1d77184fdc822fbd82b40.jpg"
+        },
+        {
+          "name": "Fourth row completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/325ab546e5758422b1888dfd39ad0997130f4e03.jpg"
+        },
+        {
+          "name": "All levels completed",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/504a7aed9e2e64858901a05f901e3bab97430336.jpg"
+        },
+        {
+          "name": "Wait, that's real sudoku!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3036390/646b4b3dfefff6d55a44ac116f3f04c9d471418e.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

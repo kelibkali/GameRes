@@ -1,0 +1,53 @@
+{
+  "3009140": {
+    "name": "Salt Player for Windows",
+    "steam_appid": 3009140,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Salt Player for Windows (SPW) 是一款专为音乐爱好者设计的多功能本地音频播放器，集无损播放、高效管理和个性化体验于一体！ </p><h2 class=\"bb_tag\" >无损播放</h2><p class=\"bb_paragraph\" >多格式支持：支持 AAC/AIFF/APE/FLAC/M4A/MP3/OGG/OPUS/WAV/WV/DSD 等多种音频格式解析播放</p><p class=\"bb_paragraph\" >多引擎模式：可选 DirectSound 或 WASAPI（独占）音频输出</p><p class=\"bb_paragraph\" >高品质：最高 256-Sinc 采样质量，浮点 DSP 处理</p><p class=\"bb_paragraph\" >无间隙播放：当某一音频马上播放完成时，急速加载下一音频，播放音频无间隙，更适合收听特定的无间隙音乐专辑</p><h2 class=\"bb_tag\" > 音频管理</h2><p class=\"bb_paragraph\" >内置曲风：内置多个曲风分类，为你智能分类曲风，更有曲风层次分类、曲风介绍等功能</p><p class=\"bb_paragraph\" >更专业的分类：在专辑、艺术家等分类上更加专业，感受仿佛在收集实体专辑的乐趣</p><p class=\"bb_paragraph\" >无自动删除式管理：音乐库采用最新的仅自动增加式管理，无论存储卸载、文件移动或者删除，音乐库数据都不会自动抛弃，可以更加方便的恢复它们或者迁移</p><h2 class=\"bb_tag\" >软件体验</h2><p class=\"bb_paragraph\" >设计：经典的 Salt UI 风格结合 Windows 平台设计，布局清晰、界面优美、多处动效设计</p><p class=\"bb_paragraph\" >个性化：可选界面主题和风格，自定义字体，多层模糊效果</p><p class=\"bb_paragraph\" >歌词：内嵌歌词读取、LRC 歌词读取，支持滚动歌词、卡拉 OK 歌词渲染，更有桌面歌词</p><p class=\"bb_paragraph\" >适配：支持 Windows SMTC 协议，方便控制播放</p>",
+    "supported_languages": "英语, 简体中文, 俄语, 印度尼西亚语, 繁体中文, 日语, 韩语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009140/header.jpg?t=1755947067",
+    "developers": [
+      "Sakawish"
+    ],
+    "publishers": [
+      "泽世宫工作室"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3900,
+      "final": 3315,
+      "discount_percent": 15,
+      "initial_formatted": "¥ 39.00",
+      "final_formatted": "¥ 33.15"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 7 月 20 日"
+    },
+    "categories": [],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "Very Positive",
+      "total_positive": 245,
+      "total_negative": 13,
+      "total_reviews": 258
+    },
+    "type": "game"
+  }
+}

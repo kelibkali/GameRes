@@ -1,0 +1,43 @@
+{
+  "3097820": {
+    "name": "Ultraleap Hyperion - Launcher",
+    "steam_appid": 3097820,
+    "required_age": 0,
+    "is_free": false,
+    "description": "The Ultraleap XR Launcher is an example of a menu that is driven solely by hands to launch individual apps or experiences. It is a demonstration of what a potential headset launcher could look like, but the principles could be applied across any type of menu.<br><br>The 2D menu translates touchscreen interactions into VR, such as scrolling and selecting, making it easy to use since there is no training required.<br><br>This demo also includes a qwerty keyboard which can be interacted with naturally using your fingers, as you would in real life.<br><br>Notes:<br><ul class=\"bb_ul\"><li>If you have already installed other Ultraleap VR applications, these will automatically be displayed inside the Ultraleap XR Launcher – if not, no apps will be populated.<br></li><li>If an app is launched via the Ultraleap XR Launcher, and the exits the application, the user will not return to the XR Launcher, they will return to the home screen for their device.<br></li><li>The app will detect whether the headset you are using supports passthrough – if it does, this will be enabled by default. The option to turn off passthrough is provided via the hand menu, if you would prefer to use VR</li></ul><br><strong>Please ensure Ultraleap Hyperion has been launched before launching this DLC demo app!</strong>",
+    "supported_languages": "英语, 法语, 西班牙语 - 西班牙, 日语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097820/header.jpg?t=1721371334",
+    "developers": [
+      "Ultraleap"
+    ],
+    "publishers": [
+      "Ultraleap"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 18 日"
+    },
+    "categories": [
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "57",
+        "description": "实用工具"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

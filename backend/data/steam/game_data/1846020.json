@@ -1,0 +1,118 @@
+{
+  "1846020": {
+    "name": "10 Seconds to Win!",
+    "steam_appid": 1846020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846020/extras/8acac7e8ecbe049af1ad2f07169fd8af.avif?t=1709599899\" width=566 height=318 /></span><br>10秒取胜！ 是一款平台游戏，您只有 10 秒的时间来完成每个阶段。<br><br>每个级别都会有一个计时器，有 10 秒的时间让您完成该级别，如果时间过长，您会死！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846020/extras/cccd0543458f76d2fcb883074a84f056.poster.avif?t=1709599899\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846020/extras/cccd0543458f76d2fcb883074a84f056.webm?t=1709599899\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846020/extras/cccd0543458f76d2fcb883074a84f056.mp4?t=1709599899\" type=\"video/mp4\"></video></span><br><br>⮞ 100 级<br>⮞ 100 成就<br>⮞ 直观的界面<br>⮞ 可爱的像素艺术<br>⮞ 好听的音乐",
+    "supported_languages": "英语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846020/header.jpg?t=1709599899",
+    "developers": [
+      "Vergiu"
+    ],
+    "publishers": [
+      "Vergiu"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 420,
+      "discount_percent": 30,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 4.20"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 100,
+      "highlighted": [
+        {
+          "name": "A",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/fb0357280451959d9ed737bccb894b880e24c2cb.jpg"
+        },
+        {
+          "name": "B",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/6b2c9ac5fb083584cdbf1b667e12ef451d5cc1bc.jpg"
+        },
+        {
+          "name": "C",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/291e73c9e37bbe89b891ffc6fbb16e4455bc0c0d.jpg"
+        },
+        {
+          "name": "D",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/3b9573153780e7288a9d8dcca4c97f2282fabd7e.jpg"
+        },
+        {
+          "name": "E",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/b70be5e65338ed6452a37328a229a2d30704fb34.jpg"
+        },
+        {
+          "name": "F",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/c213eef3c29ddfa15ea6dda3b9a9a65a53ae0dd5.jpg"
+        },
+        {
+          "name": "G",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/88e4f0f606c55e590a5edc34ba5ce536b5259aef.jpg"
+        },
+        {
+          "name": "H",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/d271a7f5bf6f6c381a961be2b8327086ddfaa055.jpg"
+        },
+        {
+          "name": "I",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/74ca3f5ec31395bc7f100d21ae6770d88d06a2a0.jpg"
+        },
+        {
+          "name": "J",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1846020/918eee626a4b35f7255b6663c819aee61a0c7c11.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 22,
+      "total_negative": 2,
+      "total_reviews": 24
+    },
+    "type": "game"
+  }
+}

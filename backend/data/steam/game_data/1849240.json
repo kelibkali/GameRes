@@ -1,0 +1,62 @@
+{
+  "1849240": {
+    "name": "Late photographer-All character album",
+    "steam_appid": 1849240,
+    "required_age": 0,
+    "is_free": false,
+    "description": "全人物艺术相册，已更新为PNG格式，共394张<br />\r\n<br />\r\n文件在游戏目录里<br />\r\n<br />\r\n此素材不可商用",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849240/header.jpg?t=1697160817",
+    "developers": [
+      "photographer"
+    ],
+    "publishers": [
+      "photographer"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "4 user reviews",
+      "total_positive": 3,
+      "total_negative": 1,
+      "total_reviews": 4
+    },
+    "type": "dlc"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "1893880": {
+    "name": "Wormhole",
+    "steam_appid": 1893880,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/8572175bfab22e34cd8427dcebd2a905.poster.avif?t=1651388055\" width=600 height=322 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/8572175bfab22e34cd8427dcebd2a905.webm?t=1651388055\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/8572175bfab22e34cd8427dcebd2a905.mp4?t=1651388055\" type=\"video/mp4\"></video></span><br><br><strong>Wormhole</strong> is a fast-paced precision platformer. With the combination of a jump and dash, you'll leap across the landscape, avoiding portals and other hazards, on a journey across space in a race against time to save the world. The portals below will send you further back and erase your hard-earned progress, but those with a keen eye may be able to use <i>some</i> portals to their advantage...<br><br><strong>-Fast-paced platforming gameplay</strong><br>Reach high speeds and soar across platforms while avoiding the dangerous portals below.<br><br><strong>-Easy to learn, hard to master</strong><br>Combine and alter the timings of your jump and dash abilities to overcome obstacles and explore new areas.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/e636e9910e8bd67c9b72bc8a0fef4207.poster.avif?t=1651388055\" width=600 height=438 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/e636e9910e8bd67c9b72bc8a0fef4207.webm?t=1651388055\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/extras/e636e9910e8bd67c9b72bc8a0fef4207.mp4?t=1651388055\" type=\"video/mp4\"></video></span> <br><br><strong>-Hidden secrets and unlockable skins</strong><br>Unlock a growing number of new cosmetic skins.<br>Explore the map for collectibles and unlock a unique reward.<br><br><strong>-Multiple endings</strong><br>Unlock different endings based on how fast you beat the game.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893880/header.jpg?t=1651388055",
+    "developers": [
+      "Sol Studios"
+    ],
+    "publishers": [
+      "Sol Studios"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 3 月 30 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Beat the Forest",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/ceb22e9235fa852d91ee45b6811e8406d974246c.jpg"
+        },
+        {
+          "name": "Beat the Mountains",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/7f97a977d54a01104dbc6b272f3e2d34cfdae5d2.jpg"
+        },
+        {
+          "name": "Beat the Volcano",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/6b3f7605e7696e24c9f96ff16ee290fdd050424e.jpg"
+        },
+        {
+          "name": "Beat the Desert",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/62600ae7fe279e7d2e671c16900ca7a79cd95fd2.jpg"
+        },
+        {
+          "name": "Beat the Ice Cave",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/055bcc0438fcaa238b085fcbfa0be0bcd739f20b.jpg"
+        },
+        {
+          "name": "Edge of Space",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/0a73493781c34d2b2baf7ec8a995e5e8e32fb0b5.jpg"
+        },
+        {
+          "name": "Mission Success",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/2e5c21e49dfc796bfe4924825f6d2989b2925f04.jpg"
+        },
+        {
+          "name": "Here We Go Again",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/a9005c07054642c978535dab65f9a318e7f673e6.jpg"
+        },
+        {
+          "name": "Missing Link",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/e953dd9a815b8c65c8ab22a40dc400da64611f6a.jpg"
+        },
+        {
+          "name": "Collector",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1893880/561ab40ae26c661c61e2285ae58bd8f4b3d268ff.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

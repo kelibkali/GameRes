@@ -1,0 +1,74 @@
+{
+  "3101350": {
+    "name": "Hamster Bomba",
+    "steam_appid": 3101350,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<h2 class=\"bb_tag\" >游戏性</h2><br><strong>这款游戏没有为你提供各种快节奏的<br>游戏玩法、复杂的情节和魅力十足的角色。你需要做的只是<br>点击仓鼠。点击次数越多，就能解锁越多的新仓鼠。您还可以解锁新的鼠标指针，让点击速度更快。也许有无数种方法可以让你的时间过得更有趣。但如果你想在一天的辛苦工作后放松一下，这也不失为一种好方法。</strong><h2 class=\"bb_tag\" >游戏特色</h2><br><strong>- 一百多只仓鼠 <br>- 八个鼠标指针<br>- 可以无休止地玩</strong>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101350/header.jpg?t=1722603699",
+    "developers": [
+      "Performance Artist"
+    ],
+    "publishers": [
+      "Performance Artist"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 300,
+      "discount_percent": 50,
+      "initial_formatted": "¥ 6.00",
+      "final_formatted": "¥ 3.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 8 月 2 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

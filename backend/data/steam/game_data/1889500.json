@@ -1,0 +1,58 @@
+{
+  "1889500": {
+    "name": "Video Game Tutorial",
+    "steam_appid": 1889500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>A genre-discovering game</strong><br>An opportunity to see popular genres from a new perspective: learn about them, try them, get a feeling of each genre on a different game level. Unless irony is not exactly your speciality. <br><br><strong>A unique gameplay</strong> <br>Each presented genre has it’s own special feature: a unique character development system <strong>(platformer)</strong>, superordinary artificial intelligence <strong>(horror)</strong>, an original character-building system in a <strong>visual novel</strong>. Intrigued much?<br><br><strong>Different locations</strong> <br>You find yourself in a completely different setting each level - as a part of game concept. Enjoy! <br><br><strong>And so many more things you are about to discover … </strong>",
+    "supported_languages": "英语, 俄语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889500/header.jpg?t=1659283119",
+    "developers": [
+      "KlykBelki"
+    ],
+    "publishers": [
+      "KlykBelki "
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2022 年 7 月 25 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 0,
+      "total_negative": 1,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

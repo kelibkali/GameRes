@@ -1,0 +1,79 @@
+{
+  "3243800": {
+    "name": "Sumo Battlegrounds",
+    "steam_appid": 3243800,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Sumo is a tactical board game where players control pieces of varying strengths on a 9x9 grid. The objective is to score 7 points by pushing the opponent’s pieces off the board while using pull mechanics to strategically control the board.<br><br>Players alternate turns, moving their pieces around the board to push or pull their opponent's pieces. Push pieces have different strengths (1, 2, or 3), affecting how many opponent pieces they can move. Pull pieces can pull up to three opponent pieces but are worth no points if captured.</p>",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243800/161f8787974e129bbd1c703bdbf0003bcb6c9f97/header.jpg?t=1770259707",
+    "developers": [
+      "Game Devs Anonymous"
+    ],
+    "publishers": [
+      "Lost Our Box"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

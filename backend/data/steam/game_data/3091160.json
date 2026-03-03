@@ -1,0 +1,55 @@
+{
+  "3091160": {
+    "name": "Kick Out",
+    "steam_appid": 3091160,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<strong>Plot</strong><br><br>As a teenager, the hero's father tried to expose corruption at a local factory but was falsely accused and arrested. His mother was subjected to constant surveillance by the authorities. Witnessing how technology became a tool of oppression, the young man decided to fight for justice. He started by disabling cameras in his neighborhood, then learned to hack drones and neutralize police patrols. Donning a mask and armed with simple tools, he became a defender of freedom and justice in his city.<br><br><strong>Surveillance Systems:</strong><br><br><ul class=\"bb_ul\"><li>Patrol Officers: They follow set routes and pursue the player if the attention meter rises, leading to arrest and mission failure.<br></li><li>Police Motorcycles and Cars: These patrol the streets and can hinder the player's escape, leading to imprisonment if caught.<br></li><li>Drones: Flying units that transmit the player's coordinates to the police, slow them down, and increase the attention meter.<br></li><li>Robotic Dogs: Ground units that stun the player with electric charges and send them to prison upon capture.<br></li><li>Cameras: Citywide surveillance that raises the attention meter if the player stays in view too long.<br></li><li>Robot and Drone Control Towers: Disabling these towers deactivates nearby drones and robots, offering a chance to avoid pursuit.</li></ul><br><strong>Setting</strong><br><br>The game takes place in a futuristic urban landscape, bathed in neon lights and covered in graffiti. High-tech advancements are a core part of life, but the residents are weary of constant surveillance.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 西班牙语 - 西班牙, 葡萄牙语 - 巴西, 西班牙语 - 拉丁美洲, 简体中文, 韩语, 葡萄牙语 - 葡萄牙, 俄语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091160/header.jpg?t=1771853258",
+    "developers": [
+      "Bazura Games"
+    ],
+    "publishers": [
+      "Bazura Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将推出"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "25",
+        "description": "冒险"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "3069680": {
+    "name": "Sovereign Elect - Rain Dancer Pack",
+    "steam_appid": 3069680,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069680/extras/64fe7747245676f4d9918fbed2c0394d.poster.avif?t=1721634265\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069680/extras/64fe7747245676f4d9918fbed2c0394d.webm?t=1721634265\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069680/extras/64fe7747245676f4d9918fbed2c0394d.mp4?t=1721634265\" type=\"video/mp4\"></video></span><br><br>雨舞者将为你的雇佣兵队伍带来阳光。她的能力“阳光”将驱散场上的任何云层，同时为你的队伍提供“双倍功勋”增益，持续时间与她的雇佣兵等级相关。当雨舞者升华后，收集她的能力徽章将触发“阳光”效果，使你的游戏时间范围内的其他玩家也能享受此增益。<br><br><u>基础属性</u><br><ul class=\"bb_ul\"><li> 生命值: 10<br></li><li> 能量: 14<br></li><li> 攻击力: 1<br></li><li> 收集金额: 20<br></li><li> 转换金额: 100</li></ul><u>升华队伍增益[[/u]<br><ul class=\"bb_ul\"><li> + 20% 收集的功勋<br></li><li> + 定期为其他玩家授予“阳光”</li></ul><u>阳光</u><br><ul class=\"bb_ul\"><li> 使雇佣兵在一段时间内收集的功勋翻倍。这个效果随雇佣兵等级而变化。</li></ul></u>",
+    "supported_languages": "英语<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069680/header_schinese.jpg?t=1721634265",
+    "developers": [
+      "iBlackpen"
+    ],
+    "publishers": [],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 3300,
+      "final": 3300,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 33.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 22 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 20,
+        "description": "大型多人在线"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}

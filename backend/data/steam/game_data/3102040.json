@@ -1,0 +1,55 @@
+{
+  "3102040": {
+    "name": "超级细胞",
+    "steam_appid": 3102040,
+    "required_age": 0,
+    "is_free": false,
+    "description": "这是一款以人体细胞防止细菌入侵的游戏。<br />\r\n<br />\r\n玩家在游戏中扮演指挥官角色的超级细胞，指挥各色细胞作战，并合理分配人体能量。<br />\r\n<br />\r\n<br />\r\n游戏分为2个阶段<br />\r\n<br />\r\n准备阶段：分配资源，排兵布阵，抵抗下一次细菌的入侵。<br />\r\n<br />\r\n入侵阶段：保护核心，歼灭所有的细菌，并尽可能的保护资源点。",
+    "supported_languages": "英语, 简体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3102040/header_schinese.jpg?t=1741265210",
+    "developers": [
+      "Fuzzy Bear Studios"
+    ],
+    "publishers": [
+      "Fuzzy Bear Studios"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": true,
+      "date": "即将宣布"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

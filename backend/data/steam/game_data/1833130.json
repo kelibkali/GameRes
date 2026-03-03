@@ -1,0 +1,82 @@
+{
+  "1833130": {
+    "name": "Funmi",
+    "steam_appid": 1833130,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" >Get the boat in the air, and rotate it to make a score. A goal is to try to get the highest score!</p><p class=\"bb_paragraph\" >There are even challenges you can partake in to have a more clear goal.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Features:</u></strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >10 developer authored challenges. </p></li><li><p class=\"bb_paragraph\" >A boat character.</p></li><li><p class=\"bb_paragraph\" >Ability to rotate on all 6 axes. </p></li><li><p class=\"bb_paragraph\" >Combos. </p></li><li><p class=\"bb_paragraph\" >Score modifier pickupables. </p></li><li><p class=\"bb_paragraph\" >Dragon curve fractal skybox.</p></li></ul>",
+    "supported_languages": "英语, 日语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833130/header.jpg?t=1766649594",
+    "developers": [
+      "AReinSoft"
+    ],
+    "publishers": [
+      "AReinSoft"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1500,
+      "final": 1500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 15.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 14 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 25,
+        "description": "Steam 排行榜"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "1",
+        "description": "动作"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 1,
+      "highlighted": [
+        {
+          "name": "Completed All Challenges",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1833130/e10cdf25d07175927ee0203622cbf81c17567859.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

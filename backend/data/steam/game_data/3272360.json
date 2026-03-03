@@ -1,0 +1,106 @@
+{
+  "3272360": {
+    "name": "Decade",
+    "steam_appid": 3272360,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><strong>Decade is an experimental adventure game where you will send children back into the past - ten years at a time - to learn how the world ended, and what you can do to change it.</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/extras/ebcd1211ad902c9055447d979e3437f3.avif?t=1767548336\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/extras_big/ebcd1211ad902c9055447d979e3437f3.avif?t=1767548336 width=800 height=278 /></span></p><p class=\"bb_paragraph\" >Investigate documents, technologies, and artefacts to understand history. Manage the children and their abilities as they age dramatically. Try to make the right decisions as you create multiple futures that you can venture into.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/extras/4df1353dfa04e536c3ac0539a1c08444.avif?t=1767548336\" width=700 height=200 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >20 FMV endings to discover</p></li><li><p class=\"bb_paragraph\" >A deep and complex narrative (Over 50k word script)</p></li><li><p class=\"bb_paragraph\" >9 unlockable themes - each with its own soundtrack</p></li><li><p class=\"bb_paragraph\" >A unique and compelling gameplay mechanic</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/extras/560c3987e64025db1348bdbbe4841dab.poster.avif?t=1767548336\" width=500 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/extras/560c3987e64025db1348bdbbe4841dab.webm?t=1767548336\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >Decade is a first-time solo-dev project.</p>",
+    "supported_languages": "英语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272360/header.jpg?t=1767548336",
+    "developers": [
+      "Last Piscean"
+    ],
+    "publishers": [
+      "Last Piscean"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 4200,
+      "final": 4200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 42.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 5 月 27 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "25",
+        "description": "冒险"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 20,
+      "highlighted": [
+        {
+          "name": "The End",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/29da8a45697b13ef05602517a6e835227131296e.jpg"
+        },
+        {
+          "name": "Wasteland",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/9cbbf147b3608ab73e072348f0dc1b1a53e1e3a5.jpg"
+        },
+        {
+          "name": "Holy Skies",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/15f700fcc6e5fe679943c63228051e41ad365071.jpg"
+        },
+        {
+          "name": "Flowers of Death",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/d8ffbcc4dca04587a344f06a2699a897cff2a3a6.jpg"
+        },
+        {
+          "name": "Unnatural Selection",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/69937bfcdc011bca866ea14479a5a48824db4945.jpg"
+        },
+        {
+          "name": "Too Little, Too Late",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/0f01ac53a6dbde7711321a1bb1dfa5fa1089f15c.jpg"
+        },
+        {
+          "name": "Monstrosities",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/3e66b8e744b60b9639cec4c67c3b20fbc376cb34.jpg"
+        },
+        {
+          "name": "Sirens",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/2723ab627bf09d24fc84631634f948840add643f.jpg"
+        },
+        {
+          "name": "Sacrifice",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/43f640101a9f3a0dd84ccebefa2ccdcfd71f55e7.jpg"
+        },
+        {
+          "name": "Wall",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3272360/82dd3ee67e31ce2b4e15b3ec8a281f565f7a008c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "1 user reviews",
+      "total_positive": 1,
+      "total_negative": 0,
+      "total_reviews": 1
+    },
+    "type": "game"
+  }
+}

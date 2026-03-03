@@ -1,0 +1,59 @@
+{
+  "1825200": {
+    "name": "The Open League",
+    "steam_appid": 1825200,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<strong>The Open League (TOL) is a text-based football/soccer manager game with significant integration with the Discord platform. Key features include:</strong><br><br><u>Nightly matches, 3-week season</u><br>Full 90-minute matches are simulated nightly with play-by-play text updates streamed in our Discord server. <br><br>Each universe features 30 teams organized in three leagues. Top three teams are promoted to a higher league. Bottom three get relegated. A season lasts three weeks.<br><br><u>Youth camp</u><br>During the off-season, teams attend Youth Camp with the hope to find the nexg legendary player. Camp lasts a weekend. During that time, managers use scouting reports to decide which players to bid on. Most team dynasties in TOL were built on succesful youth camp campaigns. <br><br><u>Friendly matches</u><br>Managers also have the ability to organize friendly matches against other managers. They often use the off-season to organize tournaments against other teams.<br><br><u>Persistent teams and players</u><br>At the end of the season, managers keep their teams. Players develop and decay season after season. Transfer timing is everything.<br><br><u>Simple team management</u><br>We’ve simplified club management so you don’t need to play 100s of hours to get familiar with our platform. Managers can choose between six formations, three effort levels and three different mindsets. Simple does not mean easy, beware…<br><br><u>Negotiate transfers against humans</u><br>Transfers are negotiated against human managers over Discord before deals are formalized using the TOL application. Astute dealmakers thrive in TOL.<br><br><u>Browser-ready</u><br>Our web app allows you to access your club portal from any browser (including from your phone), in case you have to make some changes from a different computer… <br><br><u>Bots</u><br>TOL uses a few friendly bots in Discord to help you manage your team. For example, you can DM your assistant Chris to ask him to send out a press release to all other clubs about your latest victorious match!<br><br><u>Multi-timezone support</u><br>The Open League supports two timezones (US PST and GMT) at the moment. This means  matches are played at 7:00pm PST if you are in our US server or 7:00pm GMT if you are in our European server.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1825200/header.jpg?t=1672184560",
+    "developers": [
+      "Squiggly Games"
+    ],
+    "publishers": [
+      "Squiggly Games"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 12 月 28 日"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      }
+    ],
+    "genres": [
+      {
+        "id": "29",
+        "description": "大型多人在线"
+      },
+      {
+        "id": "18",
+        "description": "体育"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

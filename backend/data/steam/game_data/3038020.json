@@ -1,0 +1,90 @@
+{
+  "3038020": {
+    "name": "Wobbly Heights",
+    "steam_appid": 3038020,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3038020/extras/3c6edeeb95edfb22354c5808cbb11e64.poster.avif?t=1772254277\" width=471 height=89 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3038020/extras/3c6edeeb95edfb22354c5808cbb11e64.webm?t=1772254277\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >进入一个方块违反规范的世界！在一款益智游戏中堆叠、增大、缩小和固化方块，这一切都与策略和创造力有关，以随着需求的不断增长而建造最高的塔。你的塔会变得多高？</p><p class=\"bb_paragraph\" >游戏的主要特点包括：</p><p class=\"bb_paragraph\" >动态块：有许多不同类型的块，它们具有不同的重量、形状和尺寸。它们不稳定，不断改变尺寸直到凝固。</p><p class=\"bb_paragraph\" >尺寸控制：获取金币使塔越来越高。使用它们可以让放置的方块按照您的命令生长、缩小，甚至凝固。</p><p class=\"bb_paragraph\" >战略游戏玩法： 游戏从一个简单的任务开始 - 堆叠方块。但不同大小的移动方块需要你尽可能快地小心放置每个方块，并在需要时花费金币让它站起来。容易学习，难以掌握。</p><p class=\"bb_paragraph\" >排行榜和分数：塔越高，你的分数就越高。与其他人竞争，建造一座塔，以获得排行榜上的最高分。</p><p class=\"bb_paragraph\" >你的塔会变得多高？</p>",
+    "supported_languages": "英语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 日语<strong>*</strong>, 葡萄牙语 - 巴西<strong>*</strong>, 俄语<strong>*</strong>, 简体中文<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3038020/header.jpg?t=1772254277",
+    "developers": [
+      "Michael Richard Lannon"
+    ],
+    "publishers": [
+      "Michael Richard Lannon"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 10 月 21 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "28",
+        "description": "模拟"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      }
+    ],
+    "achievements": {
+      "total": 4,
+      "highlighted": [
+        {
+          "name": "Ready to stack!",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3038020/fcea9e3566a721a63be17f57337ffb0ab92dfd4c.jpg"
+        },
+        {
+          "name": "Stuffed bank",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3038020/fcea9e3566a721a63be17f57337ffb0ab92dfd4c.jpg"
+        },
+        {
+          "name": "I can see the sky...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3038020/fcea9e3566a721a63be17f57337ffb0ab92dfd4c.jpg"
+        },
+        {
+          "name": "IS THAT A...",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3038020/fcea9e3566a721a63be17f57337ffb0ab92dfd4c.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

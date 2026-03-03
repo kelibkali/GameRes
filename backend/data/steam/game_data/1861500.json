@@ -1,0 +1,110 @@
+{
+  "1861500": {
+    "name": "Pure Logic",
+    "steam_appid": 1861500,
+    "required_age": 0,
+    "is_free": false,
+    "description": "Pure Logic is a puzzle game based on logic in its raw and pure form. Use your deductive reasoning skills to conquer more than 200 unique puzzles.<h2 class=\"bb_tag\" ><strong>Gameplay</strong></h2>Each puzzle consists of an array of interconnected logic gate symbols. Some of the input/output signals are initially set, some are not. The challenge is to figure out and set the remaining signals so that all symbols are satisfied.<h2 class=\"bb_tag\" ><strong>Explore and discover</strong></h2>No prior knowledge of logic gates is required to start playing. The in-game training grounds let you explore the different symbols, and you'll quickly discover and learn the basic rules.<h2 class=\"bb_tag\" ><strong>Relaxing</strong></h2>There are no time limits. You can enjoy solving all the puzzles at your own pace.<h2 class=\"bb_tag\" ><strong>Solving flexibility</strong></h2>Pure Logic was initially released with a last-step-only undo mechanism. Due to popular demand &quot;The Big Flexibility Update&quot; was released in June 2023, adding support for unlimited undo. The update also added the possibility to change <strong>any</strong> set signal directly to the other colour/state, or reset it back to its original unset state. This opens up for a wide range of solving strategies.<h2 class=\"bb_tag\" ><strong>Educational value</strong></h2>The gameplay is based on real-world logic gate symbols and the Boolean functions they represent. Logic gates are the basic building blocks of digital electronics and computer hardware. Boolean functions play a crucial role in all levels of computer programming.",
+    "supported_languages": "英语",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1861500/header.jpg?t=1730223209",
+    "developers": [
+      "Sigmund Hoien"
+    ],
+    "publishers": [
+      "Sigmund Hoien"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 1490,
+      "final": 1490,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 14.90"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2023 年 4 月 24 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 13,
+      "highlighted": [
+        {
+          "name": "Knower of OR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/a0565abfe4c3e6ab0de61c7755f928258c520990.jpg"
+        },
+        {
+          "name": "Knower of XOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/af2fe8e2230cb6cc27fafa560c1988fdc4f546ed.jpg"
+        },
+        {
+          "name": "Knower of NAND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/c797b67af8ce5f55a2ccba491c81b66919dc606f.jpg"
+        },
+        {
+          "name": "Knower of XNOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/b95408b8407a4256cf8ffdd44360cc5b14cff45d.jpg"
+        },
+        {
+          "name": "Knower of NOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/306cfecde7541ac220100608f7c767fd5ae94c8f.jpg"
+        },
+        {
+          "name": "Knower of AND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/f5b214b2e754b5073b8f6e3371e7657d48bdcd4a.jpg"
+        },
+        {
+          "name": "Master of OR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/24228f69bd18fd585b737f238eec26ae59b0e5de.jpg"
+        },
+        {
+          "name": "Master of XOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/0bbbb1500521717b389e2853c77a90da3447c911.jpg"
+        },
+        {
+          "name": "Master of NAND",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/c959b457390c1af815ef6f1350aba4d30580bbb0.jpg"
+        },
+        {
+          "name": "Master of XNOR",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1861500/fd02c8b6956eae37281dad241f108021ec805534.jpg"
+        }
+      ]
+    },
+    "has_chinese": "false",
+    "app_reviews": {
+      "review_score_desc": "Positive",
+      "total_positive": 10,
+      "total_negative": 0,
+      "total_reviews": 10
+    },
+    "type": "game"
+  }
+}

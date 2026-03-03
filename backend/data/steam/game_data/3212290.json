@@ -1,0 +1,114 @@
+{
+  "3212290": {
+    "name": "Bumble Rumble",
+    "steam_appid": 3212290,
+    "required_age": 0,
+    "is_free": false,
+    "description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212290/extras/39c81ed512f8edf1eb203241d35180fe.avif?t=1771018890\" width=160 height=160 /></span>和平的蜜蜂世界突然受到攻击。利用您的战略技巧，与您的蜜蜂朋友们一起踏上恢复和平的征程吧。</p><p class=\"bb_paragraph\" >BumbleRumble 是一款融合了 Peglin 和 TowerDefense 的游戏，您可以利用不同的蜜蜂和遗物创造出令人惊叹的组合，但要小心不要失去所有的命中率，否则...</p>",
+    "supported_languages": "英语<strong>*</strong>, 法语<strong>*</strong>, 意大利语<strong>*</strong>, 德语<strong>*</strong>, 西班牙语 - 西班牙<strong>*</strong>, 保加利亚语<strong>*</strong>, 简体中文<strong>*</strong>, 韩语<strong>*</strong>, 丹麦语<strong>*</strong>, 芬兰语<strong>*</strong>, 希腊语<strong>*</strong>, 匈牙利语<strong>*</strong>, 印度尼西亚语<strong>*</strong>, 日语<strong>*</strong>, 挪威语<strong>*</strong>, 荷兰语<strong>*</strong>, 波兰语<strong>*</strong>, 葡萄牙语 - 葡萄牙<strong>*</strong>, 罗马尼亚语<strong>*</strong>, 俄语<strong>*</strong>, 瑞典语<strong>*</strong>, 捷克语<strong>*</strong>, 泰语<strong>*</strong>, 土耳其语<strong>*</strong>, 乌克兰语<strong>*</strong>, 越南语<strong>*</strong><br><strong>*</strong>具有完全音频支持的语言",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212290/header.jpg?t=1771018890",
+    "developers": [
+      "Studio Pouffy"
+    ],
+    "publishers": [
+      "Studio Pouffy"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 2200,
+      "final": 2200,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 22.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2025 年 7 月 13 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "23",
+        "description": "独立"
+      },
+      {
+        "id": "3",
+        "description": "角色扮演"
+      },
+      {
+        "id": "2",
+        "description": "策略"
+      },
+      {
+        "id": "70",
+        "description": "抢先体验"
+      }
+    ],
+    "achievements": {
+      "total": 16,
+      "highlighted": [
+        {
+          "name": "Trumpeter",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/22873d35838afede516643cc36fc2552d135d864.jpg"
+        },
+        {
+          "name": "Bee invasion",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/75f284fb111845593e8cb203a4b6f06497894d65.jpg"
+        },
+        {
+          "name": "Lonely bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/f3df28aa87416754da05bf098d4ae6d5722afc70.jpg"
+        },
+        {
+          "name": "Learning bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/5e5b91fb279bfab0a247b9191ff19f9fab3539a8.jpg"
+        },
+        {
+          "name": "WHAT?",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/e942788ccf0513ec5df10bbecac46145330b312e.jpg"
+        },
+        {
+          "name": "Beedalf the yellow",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/3677676d170002d53b4a754758a0a72f2f027a8e.jpg"
+        },
+        {
+          "name": "Forest bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/ef7f323f31ce83fa1e95270d7f73aeabe41b26e1.jpg"
+        },
+        {
+          "name": "Cave bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/e85cc3f1890ea939e77126b6c6ba2cffa555c547.jpg"
+        },
+        {
+          "name": "Big bee",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/2216ccb98e8f1234290d8ecdbadebf469be91feb.jpg"
+        },
+        {
+          "name": "Supreme Shape",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3212290/e83c80a1787acd29b8ee02e53e45fcef190a3fa0.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

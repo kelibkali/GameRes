@@ -1,0 +1,98 @@
+{
+  "3096400": {
+    "name": "美眉猜谜",
+    "steam_appid": 3096400,
+    "required_age": 0,
+    "is_free": false,
+    "description": "《美眉猜谜》旨在为您带来轻松、有趣，略带挑战性的游戏体验，游戏的每一关包含若干条文字谜语，谜语的答案则隐藏在美少女图像之中，通过鼠标点击正确的位置即可解开对应谜语。<br><br>您不必担心长时间无法解开谜语，若您在某条谜语上停留超过1分钟，游戏会弹出“自动寻找”按钮。当然，您也可以不依赖该按钮，继续挑战自己的眼力 ^_^<h2 class=\"bb_tag\" >游戏特色：</h2><ul class=\"bb_ul\"><li> 360道 互不重复的文字谜语<br></li><li> 80张 可爱养眼的美少女图像<br></li><li> 30首 动人心弦的歌曲或乐曲</li></ul>",
+    "supported_languages": "英语, 简体中文, 繁体中文",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096400/header_schinese.jpg?t=1723432543",
+    "developers": [
+      "2D_猫"
+    ],
+    "publishers": [
+      "2D_猫"
+    ],
+    "price_overview": {
+      "currency": "CNY",
+      "initial": 600,
+      "final": 600,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 6.00"
+    },
+    "release_date": {
+      "coming_soon": false,
+      "date": "2024 年 7 月 26 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 22,
+        "description": "Steam 成就"
+      },
+      {
+        "id": 62,
+        "description": "家庭共享"
+      }
+    ],
+    "genres": [
+      {
+        "id": "4",
+        "description": "休闲"
+      },
+      {
+        "id": "23",
+        "description": "独立"
+      }
+    ],
+    "achievements": {
+      "total": 8,
+      "highlighted": [
+        {
+          "name": "谜语初解者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/c88cdbd43600074c2dc35daefb537acea4fabf4c.jpg"
+        },
+        {
+          "name": "谜语微光探寻者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/66d4ab961891f7ec773273f0307dbf331d7df48d.jpg"
+        },
+        {
+          "name": "谜语航道领航员",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/811e2cd56c35983f39e51a1a66f437232ff7f2b3.jpg"
+        },
+        {
+          "name": "谜语思维策略家",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/8cb8debd59d6b40712652ccac75d4bca48fd7561.jpg"
+        },
+        {
+          "name": "谜语智慧大师",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/2789ca21354a1de6c6601db38638484e1917785d.jpg"
+        },
+        {
+          "name": "谜语领航先锋",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/e31ada9c4430de8eab56c9f91ae6589cfa01c44e.jpg"
+        },
+        {
+          "name": "谜语思维极限挑战者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/132c5a5beb7326c1cfb8a10ecbe1697d08798868.jpg"
+        },
+        {
+          "name": "谜语缔造者",
+          "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3096400/f7c956e5af0ac3fcb6a2af350370e18690fc5793.jpg"
+        }
+      ]
+    },
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "game"
+  }
+}

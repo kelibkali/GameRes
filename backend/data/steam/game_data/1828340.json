@@ -1,0 +1,113 @@
+{
+  "1828340": {
+    "name": "RetroArch - VICE",
+    "steam_appid": 1828340,
+    "required_age": 0,
+    "is_free": true,
+    "description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828340/extras/1ffbc616b4e7fa97c0e0539249e166b7.avif?t=1678469032\" width=800 height=400 /></span><br>VICE executes programs intended for the old 8-bit computers. The current version runs the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510). An extra is provided for C64 expanded with the CMD SuperCPU.",
+    "supported_languages": "英语, 法语, 意大利语, 德语, 荷兰语, 希腊语, 日语, 韩语, 挪威语, 波兰语, 葡萄牙语 - 葡萄牙, 葡萄牙语 - 巴西, 俄语, 瑞典语, 土耳其语, 越南语, 简体中文, 繁体中文, 西班牙语 - 西班牙",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828340/header.jpg?t=1678469032",
+    "developers": [
+      "Libretro",
+      "VICE Team",
+      "Sonninnos"
+    ],
+    "publishers": [
+      "Libretro"
+    ],
+    "price_overview": {},
+    "release_date": {
+      "coming_soon": false,
+      "date": "2021 年 11 月 23 日"
+    },
+    "categories": [
+      {
+        "id": 2,
+        "description": "单人"
+      },
+      {
+        "id": 1,
+        "description": "多人"
+      },
+      {
+        "id": 49,
+        "description": "玩家对战"
+      },
+      {
+        "id": 36,
+        "description": "线上玩家对战"
+      },
+      {
+        "id": 47,
+        "description": "局域网玩家对战"
+      },
+      {
+        "id": 37,
+        "description": "同屏/分屏玩家对战"
+      },
+      {
+        "id": 9,
+        "description": "合作"
+      },
+      {
+        "id": 38,
+        "description": "在线合作"
+      },
+      {
+        "id": 48,
+        "description": "局域网合作"
+      },
+      {
+        "id": 39,
+        "description": "同屏/分屏合作"
+      },
+      {
+        "id": 24,
+        "description": "同屏/分屏"
+      },
+      {
+        "id": 21,
+        "description": "DLC"
+      },
+      {
+        "id": 28,
+        "description": "完全支持控制器"
+      },
+      {
+        "id": 23,
+        "description": "Steam 云"
+      },
+      {
+        "id": 41,
+        "description": "在手机上远程畅玩"
+      },
+      {
+        "id": 42,
+        "description": "在平板上远程畅玩"
+      },
+      {
+        "id": 43,
+        "description": "在电视上远程畅玩"
+      },
+      {
+        "id": 44,
+        "description": "远程同乐"
+      }
+    ],
+    "genres": [
+      {
+        "id": "37",
+        "description": "免费开玩"
+      }
+    ],
+    "achievements": "none",
+    "has_chinese": "true",
+    "app_reviews": {
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "type": "dlc"
+  }
+}
