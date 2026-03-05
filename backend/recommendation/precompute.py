@@ -22,12 +22,15 @@ def games_genres():
         with open(json_path, "r",encoding="utf-8") as f:
             data = json.load(f)
             app_id = list(data.keys())[0]
+            if "type" not in data[app_id]:
+                continue
             score = wilson_score(data[app_id]["app_reviews"]["total_positive"],data[app_id]["app_reviews"]["total_reviews"])
             games.append({
                 "app_id":app_id,
                 "genres":data[app_id]["genres"],
                 "has_chinese": data[app_id]["has_chinese"],
                 "wilson_score": score,
+                "type": data[app_id]["type"],
             })
     return games
 
@@ -36,6 +39,7 @@ def build_sparse_game_vectors(games):
     genre_ids = set()
 
     for game in games:
+        print(game)
         if game["type"] == "game":
             for genre in game["genres"]:
                 genre_ids.add(genre["id"])

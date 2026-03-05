@@ -5,7 +5,10 @@ from typing import Optional
 import numpy as np
 from datetime import datetime
 
+from flask import Blueprint, session
 from scipy.sparse import csr_matrix
+
+from models.Message import Message, MsgType
 
 game_vectors:Optional[csr_matrix] = None
 voca:dict = {}
@@ -13,11 +16,13 @@ app_id_to_index:dict = {}
 has_chinese_list:list = []
 wilson_scores_list: list[float] = []
 
+recommendation_routes = Blueprint('recommendation_routes', __name__,url_prefix="/api/recommendation")
+
 # 加载预计算矩阵
 def load_precomputed():
     global game_vectors,vocab,app_id_to_index,has_chinese_list,wilson_scores_list
     try:
-        with open("../data/recommendation/game_vectors.pkl","rb") as f:
+        with open("./data/recommendation/game_vectors.pkl","rb") as f:
             game_vectors ,vocab, app_id_to_index,has_chinese_list,wilson_scores_list = pickle.load(f)
         return True
     except:
@@ -42,7 +47,7 @@ def build_user_vector(user_games,current_time,vocab):
         app_id = game['app_id']
         # TODO:使用别的方式取数据
         try:
-            with open(f"../data/steam/game_data/{app_id}.json","r",encoding="utf-8") as f:
+            with open(f"./data/steam/game_data/{app_id}.json","r",encoding="utf-8") as f:
                 game_data = json.load(f)[str(app_id)]
             for genre in game_data["genres"]:
                 EARLY_ACCESS_FACTOR = 1
@@ -110,18 +115,24 @@ def get_recommendations(user_games,current_time,top_n=10,alpha=0.2,chinese_bonus
     return recommended_app_ids
 
 load_precomputed()
-steam_id = 76561198850065894
 
-with open(f"../data/steam/user/{steam_id}.json","r",encoding="utf-8") as f:
-    user_data = json.load(f)
-user_games = user_data["games"]
-recommendation_apps = get_recommendations(user_games,datetime.now().timestamp(),top_n=100)
-print(recommendation_apps)
-
-for app_id in recommendation_apps:
-    try:
-        with open(f"../data/steam/game_data/{app_id}.json","r",encoding="utf-8") as f:
-            game_data = json.load(f)
-            print(game_data[app_id])
-    except:
-        continue
+@recommendation_routes.route('/get_recommend_games')
+def get_recommend_games():
+    steam_id = session["steamID"]
+    with open(f"./data/steam/user/{steam_id}.json","r",encoding="utf-8") as f:
+        user_data = json.load(f)
+    user_games = user_data["games"]
+    recommendation_apps = get_recommendations(user_games,datetime.now().timestamp(),top_n=100)
+    print(recommendation_apps)
+    games = []
+    for app_id in recommendation_apps:
+        try:
+            with open(f"./data/steam/game_data/{app_id}.json","r",encoding="utf-8") as f:
+                game_data = json.load(f)
+                data = game_data[app_id]
+                if "type" in data:
+                    if data["type"] == "game":
+                        games.append(game_data[app_id])
+        except:
+            continue
+    return Message(msg_type=MsgType.SUCCESS, message="success", recommend_games=games).to_dict()
