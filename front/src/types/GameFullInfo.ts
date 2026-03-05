@@ -16,13 +16,13 @@ export interface GameFullInfo {
     genres?:Array<Category>,
     achievements?:any,
     has_chinese?:string,
-    app_reviews?:Review,
+    app_reviews:Review,
     type?:string,
 }
 
 export interface Review{
-    review_score_desc?:string,
-    total_positive?:number,
-    total_negative?:number,
-    total_reviews?:number,
+    review_score_desc:string,
+    total_positive:number,
+    total_negative:number,
+    total_reviews:number,
 }
