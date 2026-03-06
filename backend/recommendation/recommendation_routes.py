@@ -64,54 +64,36 @@ def build_user_vector(user_games,current_time,vocab):
     return user_vector
 
 def get_recommendations(user_games,current_time,top_n=10,alpha=0.2,chinese_bonus=0.5):
-    # 1. 构建用户向量
     user_vector = build_user_vector(user_games,current_time,vocab)
-
-    # 2. 计算余弦相似度
     user_vector_dense = user_vector.astype(np.float32)
-
     similarities = game_vectors.dot(user_vector_dense)
-
     wilson_scores = np.array(wilson_scores_list,dtype=np.float32)
-
     final_scores = (alpha * similarities) + (1 - alpha) * wilson_scores
-
     if has_chinese_list:
         chinese_indices = np.array(has_chinese_list,dtype=np.int32)
         valid_mask = chinese_indices < len(final_scores)
         final_scores[chinese_indices[valid_mask]] += chinese_bonus
-
     user_app_ids = {game["app_id"] for game in user_games}
     all_app_ids = list(app_id_to_index.keys())
     mask = np.ones(len(all_app_ids), dtype=bool)
-
     for app_id in user_app_ids:
         if app_id in app_id_to_index:
             idx = app_id_to_index[app_id]
             mask[idx] = False  # 排除已玩游戏
-
     scores = final_scores.copy()
-
     scores[~mask] = -np.inf
-
     sorted_indices = np.argsort(scores)[::-1]  # 从大到小
-
     recommended_app_ids = []
     count = 0
-
     for idx in sorted_indices:
         if scores[idx] == -np.inf:
             break
-
         app_id = all_app_ids[idx]
-
         if int(app_id) not in user_app_ids and app_id not in recommended_app_ids:
             recommended_app_ids.append(app_id)
             count += 1
-
         if count >= top_n:
             break
-
     return recommended_app_ids
 
 load_precomputed()

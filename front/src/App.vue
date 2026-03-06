@@ -175,7 +175,7 @@ watch(
         @mouseleave="asideHover = false"
     >
       <div class="menu-header">
-        Logo
+        GEC
       </div>
       <div class="panel-main">
 
@@ -208,13 +208,13 @@ watch(
               游戏列表
             </span>
           </div>
-          <div class="p-option" :class="{active: selectOption == 'personalPage'}" @click="handlePageChange('personalPage')">
-            <div class="p-icon">
-            </div>
-            <span class="p-option-font" :class="showTextStyle">
-              个人资料
-            </span>
-          </div>
+<!--          <div class="p-option" :class="{active: selectOption == 'personalPage'}" @click="handlePageChange('personalPage')">-->
+<!--            <div class="p-icon">-->
+<!--            </div>-->
+<!--            <span class="p-option-font" :class="showTextStyle">-->
+<!--              个人资料-->
+<!--            </span>-->
+<!--          </div>-->
         </div>
 
 
@@ -283,7 +283,11 @@ watch(
 .menu-header{
   height: 5rem;
   display: flex;
-  justify-content: space-between;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: "SansMedium", sans-serif;
+  align-items: center;
+  justify-content: center;
   padding: 0;
 }
 

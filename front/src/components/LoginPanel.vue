@@ -33,31 +33,24 @@ const messagesStore = useMessagesStore();
 
 const onSubmit = async (formElement: FormInstance | undefined) => {
   try{
-    const valid = await formElement?.validate()
+    const valid = await formElement?.validate()   //调用表单的校验
     if(!valid) return
   }catch(error){
     console.log(error)
     messagesStore.addMessage(analyzeObject(error))
     return
   }
-
   try{
     const userForLogin:Pick<UserModel, 'email' | 'password'> = {
       email:formData.value.email,
       password:formData.value.password,
     };
-
-
     const result = await authStore.loginUser(userForLogin)
-
-    console.log(result)
-
     if(result.type === "success"){
-      emit('loginSuccess')
+      emit('loginSuccess')  //向父组件发送消息
     }else if(result.type === "error"){
       messagesStore.addMessage(result.message)
     }
-
   }catch(error){
     console.log(error)
   }

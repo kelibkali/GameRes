@@ -14,9 +14,9 @@ interface Props {
   startY?: number;
   imgScale?: string;
   boxShadow?: string;
-  gameDataNow: GameFullInfo;      // 当前显示的游戏
-  gameDataNext: GameFullInfo;     // 下一张游戏（用于预加载）
-  gameDataPrev: GameFullInfo;     // 上一张游戏（用于预加载）
+  gameDataNow: GameFullInfo | undefined;      // 当前显示的游戏
+  gameDataNext: GameFullInfo | undefined;     // 下一张游戏（用于预加载）
+  gameDataPrev: GameFullInfo | undefined;     // 上一张游戏（用于预加载）
   currentIndex: number;           // 当前索引（用于标题/评价过渡）
 }
 
@@ -280,7 +280,8 @@ const goToPrev = async () => {
 };
 
 const goToWeb=()=>{
-  window.open(`https://store.steampowered.com/app/${props.gameDataNow.steam_appid}`,"_blank")
+  if(props.gameDataNow)
+    window.open(`https://store.steampowered.com/app/${props.gameDataNow.steam_appid}`,"_blank")
 }
 
 // 重新绘制所有图层（用于容器大小变化时）
@@ -366,7 +367,7 @@ watch(
   <div ref="tiltElement" class="tilt-card">
     <div class="title-container">
       <Transition name="title-anim" appear @leave="onLeave">
-        <span :key="currentIndex" class="tilt-card-title">
+        <span :key="currentIndex" class="tilt-card-title" v-if="gameDataNow">
           {{ gameDataNow.name }}
         </span>
       </Transition>
@@ -430,7 +431,7 @@ watch(
     </div>
     <div class="review-container">
       <Transition name="review-anim" appear @leave="onLeave">
-        <div :key="currentIndex" class="review-box">
+        <div :key="currentIndex" class="review-box" v-if="gameDataNow">
           <span class="tilt-card-review" style="font-size: 1.1rem">
             {{ gameDataNow.app_reviews?.review_score_desc ? descMap[gameDataNow.app_reviews?.review_score_desc as keyof typeof descMap] : gameDataNow.app_reviews?.review_score_desc }}
           </span>
